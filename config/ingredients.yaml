@@ -52,21 +52,37 @@ ingredients:
     added_date: "2026-04-18"
     notes: "틱톡 바이럴. Ancestral Skincare 트렌드. 천연 보습제"
 
-  - id: pdrn_exosome
-    name_kr: PDRN/엑소좀
-    name_en: PDRN/Exosome
+  - id: pdrn
+    name_kr: PDRN
+    name_en: PDRN (Polydeoxyribonucleotide)
     status: rising
     category: regeneration
     google_keywords:
       - "PDRN skincare"
-      - "exosome serum"
-      - "엑소좀 세럼"
+      - "PDRN injection"
+      - "PDRN 스킨부스터"
     reddit_terms:
       - PDRN
+      - "polydeoxyribonucleotide"
+      - "salmon DNA skin"
+    added_date: "2026-04-18"
+    notes: "연어 DNA 추출 성분. 세포 재생·상처 치유. 스킨부스터 클리닉 핵심 성분"
+
+  - id: exosome
+    name_kr: 엑소좀
+    name_en: Exosome
+    status: rising
+    category: regeneration
+    google_keywords:
+      - "exosome serum skincare"
+      - "exosome skin treatment"
+      - "엑소좀 세럼"
+    reddit_terms:
       - exosome
       - "exosome serum"
+      - "exosome therapy skin"
     added_date: "2026-04-18"
-    notes: "메디컬 시술 대중화로 홈케어 수요 급증. 스킨부스터 성분"
+    notes: "세포외 소포체. 줄기세포 신호 전달. 재생·항노화. 클리닉→홈케어 확장 중"
 
   - id: retinol
     name_kr: 레티놀

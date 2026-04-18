@@ -385,8 +385,8 @@ def view_matrix(ingredients: list[dict], df: pd.DataFrame, df_manual: pd.DataFra
                 seasonal_flag = '<span style="background:#fff3e0;color:#e65100;border:1px solid #ffcc80;border-radius:4px;padding:1px 6px;font-size:0.65rem;font-weight:600;margin-left:4px;">⚠️ 계절성</span>' if is_seasonal else ""
                 v_str, v_col = v_display(v)
                 fs_text_col, fs_bg_col = final_score_color(fs)
-                et_kr_display = et_kr if et_kr != "—" else "준비중"
-                et_us_display = et_us if et_us != "—" else "준비중"
+                et_kr_display = et_kr if et_kr != "—" else "—"
+                et_us_display = et_us if et_us != "—" else "—"
                 et_kr_col = score_color(et_kr, 0, 100) if et_kr != "—" else "#aaa"
                 et_us_col = score_color(et_us, 0, 100) if et_us != "—" else "#aaa"
 
@@ -403,32 +403,32 @@ def view_matrix(ingredients: list[dict], df: pd.DataFrame, df_manual: pd.DataFra
   </div>
   <div style="font-size:0.72rem;color:#777;margin-bottom:8px;">{ing['name_en']} · {ing.get('category','')}</div>
   {relation_section}
-  <div style="display:flex;justify-content:space-between;text-align:center;gap:4px;margin-bottom:6px;">
-    <div style="flex:1;background:#f5f5f5;border-radius:6px;padding:7px 3px;">
-      <div style="font-size:0.6rem;color:#777;font-weight:600;letter-spacing:0.04em;">V-INDEX</div>
-      <div style="font-size:1.25rem;font-weight:800;color:{v_col};line-height:1.2;">{v_str}</div>
+  <div style="display:flex;justify-content:space-between;text-align:center;gap:4px;margin-bottom:6px;align-items:stretch;">
+    <div style="flex:1;background:#f5f5f5;border-radius:6px;padding:8px 3px;display:flex;flex-direction:column;justify-content:center;min-width:0;">
+      <div style="font-size:0.58rem;color:#777;font-weight:600;letter-spacing:0.04em;white-space:nowrap;">V-INDEX</div>
+      <div style="font-size:1.2rem;font-weight:800;color:{v_col};line-height:1.3;margin-top:3px;">{v_str}</div>
     </div>
-    <div style="flex:1;background:#f5f5f5;border-radius:6px;padding:7px 3px;">
-      <div style="font-size:0.6rem;color:#777;font-weight:600;letter-spacing:0.04em;">R-SCORE</div>
-      <div style="font-size:1.25rem;font-weight:800;color:{score_color(r,0,100)};line-height:1.2;">{r}</div>
+    <div style="flex:1;background:#f5f5f5;border-radius:6px;padding:8px 3px;display:flex;flex-direction:column;justify-content:center;min-width:0;">
+      <div style="font-size:0.58rem;color:#777;font-weight:600;letter-spacing:0.04em;white-space:nowrap;">R-SCORE</div>
+      <div style="font-size:1.2rem;font-weight:800;color:{score_color(r,0,100)};line-height:1.3;margin-top:3px;">{r}</div>
     </div>
-    <div style="flex:1.6;background:#f0f4ff;border-radius:6px;padding:6px 4px;">
-      <div style="font-size:0.55rem;color:#5c6bc0;font-weight:700;letter-spacing:0.03em;margin-bottom:2px;">ET-INDEX</div>
-      <div style="display:flex;justify-content:space-around;">
-        <div>
+    <div style="flex:1.8;background:#f0f4ff;border-radius:6px;padding:6px 4px;display:flex;flex-direction:column;justify-content:center;min-width:0;">
+      <div style="font-size:0.55rem;color:#5c6bc0;font-weight:700;letter-spacing:0.03em;margin-bottom:3px;white-space:nowrap;">ET-INDEX</div>
+      <div style="display:flex;justify-content:space-around;align-items:center;">
+        <div style="flex:1;min-width:0;">
           <div style="font-size:0.5rem;color:#888;font-weight:600;">🇰🇷KR</div>
-          <div style="font-size:1.05rem;font-weight:800;color:{et_kr_col};line-height:1.2;">{et_kr_display}</div>
+          <div style="font-size:0.95rem;font-weight:800;color:{et_kr_col};line-height:1.3;word-break:keep-all;">{et_kr_display}</div>
         </div>
-        <div style="border-left:1px solid #dde;margin:0 2px;"></div>
-        <div>
+        <div style="width:1px;background:#dde;align-self:stretch;margin:0 3px;"></div>
+        <div style="flex:1;min-width:0;">
           <div style="font-size:0.5rem;color:#888;font-weight:600;">🇺🇸US</div>
-          <div style="font-size:1.05rem;font-weight:800;color:{et_us_col};line-height:1.2;">{et_us_display}</div>
+          <div style="font-size:0.95rem;font-weight:800;color:{et_us_col};line-height:1.3;word-break:keep-all;">{et_us_display}</div>
         </div>
       </div>
     </div>
-    <div style="flex:1;background:#f5f5f5;border-radius:6px;padding:7px 3px;">
-      <div style="font-size:0.6rem;color:#777;font-weight:600;letter-spacing:0.04em;">C-RATIO</div>
-      <div style="font-size:1.25rem;font-weight:800;color:#555;line-height:1.2;">{c}</div>
+    <div style="flex:1;background:#f5f5f5;border-radius:6px;padding:8px 3px;display:flex;flex-direction:column;justify-content:center;min-width:0;">
+      <div style="font-size:0.58rem;color:#777;font-weight:600;letter-spacing:0.04em;white-space:nowrap;">C-RATIO</div>
+      <div style="font-size:1.2rem;font-weight:800;color:#555;line-height:1.3;margin-top:3px;">{c}</div>
     </div>
   </div>
   {pain_html}
