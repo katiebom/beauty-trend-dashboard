@@ -489,15 +489,28 @@ def _scatter_map(ingredients, latest):
     # 0선 강조 (V-Index 0 = 변화 없음)
     fig.add_vline(x=0, line_dash="solid", line_color="#ccc", opacity=0.6)
 
-    # 사분면 레이블
-    fig.add_annotation(x=70, y=88, text="⭐ 핵심 유망성분", showarrow=False,
-                       font=dict(color="gray", size=11))
-    fig.add_annotation(x=70, y=32, text="⚡ 바이럴 but 검증 필요", showarrow=False,
-                       font=dict(color="gray", size=11))
-    fig.add_annotation(x=-60, y=88, text="💎 숨은 고관여 성분", showarrow=False,
-                       font=dict(color="gray", size=11))
-    fig.add_annotation(x=-60, y=32, text="📉 관심 저하", showarrow=False,
-                       font=dict(color="gray", size=11))
+    # 사분면 레이블 — paper 좌표계로 고정 (데이터 포인트와 겹치지 않음)
+    # xref/yref="paper": 0=왼쪽/하단, 1=오른쪽/상단
+    fig.add_annotation(xref="paper", yref="paper", x=0.99, y=0.99,
+                       text="⭐ 핵심 유망성분", showarrow=False,
+                       xanchor="right", yanchor="top",
+                       font=dict(color="#9e9e9e", size=10),
+                       bgcolor="rgba(255,255,255,0.7)")
+    fig.add_annotation(xref="paper", yref="paper", x=0.99, y=0.02,
+                       text="⚡ 바이럴 but 검증 필요", showarrow=False,
+                       xanchor="right", yanchor="bottom",
+                       font=dict(color="#9e9e9e", size=10),
+                       bgcolor="rgba(255,255,255,0.7)")
+    fig.add_annotation(xref="paper", yref="paper", x=0.01, y=0.99,
+                       text="💎 숨은 고관여 성분", showarrow=False,
+                       xanchor="left", yanchor="top",
+                       font=dict(color="#9e9e9e", size=10),
+                       bgcolor="rgba(255,255,255,0.7)")
+    fig.add_annotation(xref="paper", yref="paper", x=0.01, y=0.02,
+                       text="📉 관심 저하", showarrow=False,
+                       xanchor="left", yanchor="bottom",
+                       font=dict(color="#9e9e9e", size=10),
+                       bgcolor="rgba(255,255,255,0.7)")
 
     fig.update_traces(textposition="top center")
     fig.update_layout(
