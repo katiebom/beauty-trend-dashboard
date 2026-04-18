@@ -1,0 +1,26 @@
+# ============================================================
+# 대시보드 로그인 계정 설정
+# ─────────────────────────────────────────────────────────────
+# 비밀번호 해시 생성 방법 (터미널):
+#   python3 -c "import streamlit_authenticator as stauth; print(stauth.Hasher(['your_password']).generate())"
+#
+# ⚠️ 이 파일은 GitHub에 올려도 되지만 실제 비밀번호를 평문으로 쓰지 말 것
+#    반드시 아래 해시값으로만 저장
+# ============================================================
+
+credentials:
+  usernames:
+    katie:
+      name: Katie
+      email: your_email@example.com
+      # 비밀번호: 아래 해시 생성 후 교체
+      # python3 -c "import streamlit_authenticator as stauth; print(stauth.Hasher(['PASSWORD_HERE']).generate())"
+      password: "$2b$12$placeholder_hash_replace_this"
+
+cookie:
+  name: beauty_dashboard_auth
+  key: "beauty_os_secret_key_change_this_32chars"   # 랜덤 문자열로 교체
+  expiry_days: 30
+
+preauthorized:
+  emails: []

@@ -1,0 +1,36 @@
+# 환경변수 / 인증 — 절대 GitHub에 올리면 안 됨
+.env
+service_account.json
+*.json
+
+# Streamlit 로컬 secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 로그
+*.log
+logs/
+
+# 임시 파일
+*.tmp
+*.bak

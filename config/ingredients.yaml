@@ -1,0 +1,678 @@
+# 뷰티 성분 트렌드 추적 마스터 목록
+# status: rising / falling / watching
+# 새 성분 추가 시 이 파일에만 추가하면 수집 + 대시보드 자동 반영
+
+ingredients:
+  - id: ectoin
+    name_kr: 엑토인
+    name_en: Ectoin
+    status: rising
+    category: barrier
+    replaces: [ceramide]           # 세라마이드 점유율 일부 흡수 중
+    google_keywords:
+      - "ectoin skincare"
+      - "ectoine cream"
+      - "ectoin 화장품"
+    reddit_terms:
+      - ectoin
+      - ectoine
+    added_date: "2026-04-18"
+    notes: "세라마이드 대체 차세대 장벽 성분. 세포 스트레스 관리 키워드"
+
+  - id: retinal
+    name_kr: 레티날
+    name_en: Retinal
+    status: rising
+    category: retinoid
+    replaces: [retinol]            # 레티놀 전환 경로의 한 단계 앞 — 더 빠르고 덜 자극적
+    relation_note: "레티놀보다 비타민A 전환 1단계 적음 (레티놀→레티날→레티노산)"
+    google_keywords:
+      - "retinal skincare"
+      - "retinaldehyde serum"
+      - "레티날 세럼"
+    reddit_terms:
+      - retinal
+      - retinaldehyde
+    added_date: "2026-04-18"
+    notes: "레티놀보다 전환 단계 1단계 적음. 빠른 효과 + 낮은 자극"
+
+  - id: beef_tallow
+    name_kr: 비프 탈로우
+    name_en: Beef Tallow
+    status: rising
+    category: moisturizer
+    google_keywords:
+      - "beef tallow skincare"
+      - "tallow moisturizer"
+      - "ancestral skincare"
+    reddit_terms:
+      - "beef tallow"
+      - tallow
+      - "ancestral skincare"
+    added_date: "2026-04-18"
+    notes: "틱톡 바이럴. Ancestral Skincare 트렌드. 천연 보습제"
+
+  - id: pdrn_exosome
+    name_kr: PDRN/엑소좀
+    name_en: PDRN/Exosome
+    status: rising
+    category: regeneration
+    google_keywords:
+      - "PDRN skincare"
+      - "exosome serum"
+      - "엑소좀 세럼"
+    reddit_terms:
+      - PDRN
+      - exosome
+      - "exosome serum"
+    added_date: "2026-04-18"
+    notes: "메디컬 시술 대중화로 홈케어 수요 급증. 스킨부스터 성분"
+
+  - id: retinol
+    name_kr: 레티놀
+    name_en: Retinol
+    status: falling
+    category: retinoid
+    replaced_by: [retinal, bakuchiol]   # 진화형(레티날) + 대안(바쿠치올)에 이중 압박
+    relation_note: "레티날(효능 업그레이드)·바쿠치올(자극 우려층) 양쪽에서 점유율 이탈"
+    google_keywords:
+      - "retinol serum"
+      - "retinol cream"
+      - "레티놀 세럼"
+    reddit_terms:
+      - retinol
+    added_date: "2026-04-18"
+    notes: "레티날/바쿠치올/캡슐화 레티놀에 점유율 이전 중"
+
+  - id: vitamin_c_laa
+    name_kr: 비타민C (L-AA)
+    name_en: Vitamin C L-Ascorbic Acid
+    status: falling
+    category: brightening
+    replaced_by: [thd_ascorbate]    # 안정화 유도체로 이동 (추후 추가 예정)
+    relation_note: "산화 불안정·따가움 문제로 THD Ascorbate 등 유도체에 자리 내주는 중"
+    google_keywords:
+      - "vitamin c serum"
+      - "L-ascorbic acid"
+      - "비타민C 세럼"
+    reddit_terms:
+      - "L-ascorbic acid"
+      - "vitamin c serum"
+      - "LAA"
+    added_date: "2026-04-18"
+    notes: "산화 문제 + 따가움. THD Ascorbate 등 안정화 유도체로 이동"
+
+  - id: high_aha
+    name_kr: 고농도 AHA
+    name_en: High-concentration AHA
+    status: falling
+    category: exfoliant
+    replaced_by: [pha]             # 순한 각질 케어 수요가 PHA로 이동
+    relation_note: "장벽 손상 우려로 고농도 필링 기피 → PHA·효소 기반 순한 제품 선호"
+    google_keywords:
+      - "AHA exfoliant"
+      - "glycolic acid high"
+      - "AHA 각질제거"
+    reddit_terms:
+      - "high AHA"
+      - "glycolic acid"
+      - "AHA toner"
+    added_date: "2026-04-18"
+    notes: "피부 장벽 손상 공포. PHA/효소 기반 순한 제품으로 이동"
+
+  - id: ceramide
+    name_kr: 세라마이드
+    name_en: Ceramide
+    status: watching
+    category: barrier
+    replaced_by: [ectoin]          # 엑토인의 부상으로 모니터링 필요
+    google_keywords:
+      - "ceramide moisturizer"
+      - "ceramide serum"
+      - "세라마이드 크림"
+    reddit_terms:
+      - ceramide
+      - ceramides
+    added_date: "2026-04-18"
+    notes: "엑토인에 일부 대체 위협. 아직 코어 성분이나 모니터링 필요"
+
+  - id: bakuchiol
+    name_kr: 바쿠치올
+    name_en: Bakuchiol
+    status: watching
+    category: retinoid_alternative
+    replaces: [retinol]            # 자극 없는 레티놀 대안으로 포지셔닝
+    relation_note: "레티놀 기피층(임산부·민감피부) 흡수. 레티날과는 다른 타겟"
+    google_keywords:
+      - "bakuchiol serum"
+      - "bakuchiol retinol alternative"
+      - "바쿠치올"
+    reddit_terms:
+      - bakuchiol
+    added_date: "2026-04-18"
+    notes: "레티놀 대안으로 부상. 임산부/민감피부 타겟"
+
+  - id: pha
+    name_kr: PHA
+    name_en: PHA (Polyhydroxy Acid)
+    status: watching
+    category: exfoliant
+    replaces: [high_aha]
+    relation_note: "AHA 대비 분자량 크고 장벽 손상 적음. 민감 피부까지 커버"
+    google_keywords:
+      - "PHA skincare"
+      - "polyhydroxy acid"
+      - "PHA 토너"
+    reddit_terms:
+      - PHA
+      - "polyhydroxy acid"
+      - "gluconolactone"
+    added_date: "2026-04-18"
+    notes: "고농도 AHA 이탈 수요 수혜. 민감피부 각질 케어"
+
+  # ── 안티에이징 ──────────────────────────────────────────────
+
+  - id: copper_peptide
+    name_kr: 구리 펩타이드
+    name_en: Copper Peptide
+    status: rising
+    category: anti_aging
+    google_keywords:
+      - "copper peptide serum"
+      - "GHK-Cu skincare"
+      - "구리 펩타이드"
+    reddit_terms:
+      - "copper peptide"
+      - "GHK-Cu"
+      - "blue peptide"
+    added_date: "2026-04-18"
+    notes: "블루 펩타이드. 피부 재생·탄력 강화. GHK-Cu 형태가 흡수 우수"
+
+  - id: idebenone
+    name_kr: 이데베논
+    name_en: Idebenone
+    status: watching
+    category: anti_aging
+    google_keywords:
+      - "idebenone skincare"
+      - "idebenone serum"
+      - "이데베논"
+    reddit_terms:
+      - idebenone
+      - "idebenone antioxidant"
+    added_date: "2026-04-18"
+    notes: "항산화 끝판왕. 노란색 앰플 특징. 안정화 제형 기술이 차별 포인트"
+
+  - id: egf_fgf
+    name_kr: EGF/FGF (성장인자)
+    name_en: EGF/FGF Growth Factor
+    status: rising
+    category: anti_aging
+    google_keywords:
+      - "EGF serum skincare"
+      - "growth factor serum"
+      - "EGF 성장인자"
+    reddit_terms:
+      - "EGF serum"
+      - "growth factor"
+      - "epidermal growth factor"
+    added_date: "2026-04-18"
+    notes: "상피세포 성장인자. 리프팅·재생. MTS 시너지로 홈케어 메디컬 수요 급증"
+
+  - id: phyto_retinol
+    name_kr: 식물성 레티놀
+    name_en: Phyto-Retinol
+    status: watching
+    category: retinoid_alternative
+    replaces: [retinol]
+    relation_note: "바쿠치올 외 다양한 식물 유래 레티놀 유사 성분군. 자극 없는 대안"
+    google_keywords:
+      - "phyto retinol"
+      - "plant retinol alternative"
+      - "식물성 레티놀"
+    reddit_terms:
+      - "phyto retinol"
+      - "plant retinol"
+      - "bakuchiol alternative"
+    added_date: "2026-04-18"
+    notes: "바쿠치올 외 식물 유래 레티놀 유사 성분. 임산부·민감피부 대안군"
+
+  - id: spicule
+    name_kr: 스피큘
+    name_en: Spicule
+    status: watching
+    category: anti_aging
+    google_keywords:
+      - "spicule skincare"
+      - "spicule serum Korea"
+      - "스피큘 세럼"
+    reddit_terms:
+      - spicule
+      - "spicule skin"
+      - "needle skincare"
+    added_date: "2026-04-18"
+    notes: "미세침 구조. 흡수 촉진. 홈케어 레이저 효과. 통증·자극 Pain Point 존재"
+
+  # ── 미백/색소 ──────────────────────────────────────────────
+
+  - id: tranexamic_acid
+    name_kr: 트라넥삼산
+    name_en: Tranexamic Acid
+    status: rising
+    category: brightening
+    google_keywords:
+      - "tranexamic acid serum"
+      - "tranexamic acid hyperpigmentation"
+      - "트라넥삼산 기미"
+    reddit_terms:
+      - "tranexamic acid"
+      - "TXA skincare"
+      - "melasma tranexamic"
+    added_date: "2026-04-18"
+    notes: "기미 치료 핵심. 멜라닌 차단. 먹는 기미약 성분으로 신뢰도 높음"
+
+  - id: glutathione
+    name_kr: 글루타치온
+    name_en: Glutathione
+    status: rising
+    category: brightening
+    google_keywords:
+      - "glutathione skincare"
+      - "glutathione brightening"
+      - "글루타치온 미백"
+    reddit_terms:
+      - glutathione
+      - "glutathione skin whitening"
+      - "백옥주사"
+    added_date: "2026-04-18"
+    notes: "백옥주사 성분. 항산화 미백 브라이트닝. 아시아 시장 강세"
+
+  - id: alpha_arbutin
+    name_kr: 알파 아르부틴
+    name_en: Alpha Arbutin
+    status: watching
+    category: brightening
+    google_keywords:
+      - "alpha arbutin serum"
+      - "arbutin hyperpigmentation"
+      - "알파 아르부틴"
+    reddit_terms:
+      - "alpha arbutin"
+      - "arbutin serum"
+    added_date: "2026-04-18"
+    notes: "하이드로퀴논 대체 저자극 미백. 잡티 케어 안정적 성분"
+
+  - id: azelaic_acid
+    name_kr: 아젤라산
+    name_en: Azelaic Acid
+    status: rising
+    category: brightening
+    google_keywords:
+      - "azelaic acid serum"
+      - "azelaic acid rosacea"
+      - "아젤라산 붉은기"
+    reddit_terms:
+      - "azelaic acid"
+      - "azaleic acid"
+      - "rosacea treatment"
+    added_date: "2026-04-18"
+    notes: "주사 피부염·붉은기·미백 복합 효과. 여드름 자국 케어. 북미 처방전 없이 구매 가능"
+
+  - id: cysteamine
+    name_kr: 시스테아민
+    name_en: Cysteamine
+    status: watching
+    category: brightening
+    google_keywords:
+      - "cysteamine cream"
+      - "cysteamine brightening"
+      - "시스테아민"
+    reddit_terms:
+      - cysteamine
+      - "cysteamine skin"
+    added_date: "2026-04-18"
+    notes: "차세대 미백 성분. 강한 냄새가 최대 Pain Point → 해결 제형이 차별화 포인트"
+
+  # ── 진정/장벽 (Ectoin은 기존 ID 유지) ───────────��─────────
+
+  - id: madecassoside
+    name_kr: 마데카소사이드
+    name_en: Madecassoside
+    status: rising
+    category: barrier
+    google_keywords:
+      - "madecassoside serum"
+      - "cica care madecassoside"
+      - "마데카소사이드"
+    reddit_terms:
+      - madecassoside
+      - "cica cream"
+      - "centella asiatica"
+    added_date: "2026-04-18"
+    notes: "병풀 추출물 핵심 성분. 시카 케어·진정 강화. K-뷰티 대표 성분"
+
+  - id: beta_glucan
+    name_kr: 베타글루칸
+    name_en: Beta-Glucan
+    status: rising
+    category: barrier
+    google_keywords:
+      - "beta glucan serum"
+      - "beta glucan moisturizer"
+      - "베타글루칸"
+    reddit_terms:
+      - "beta glucan"
+      - "beta-glucan"
+      - "mushroom skincare"
+    added_date: "2026-04-18"
+    notes: "버섯 유래. 히알루론산보다 높은 보습력 주장. 면역 조절 기능도 주목"
+
+  - id: propolis
+    name_kr: 프로폴리스/로열젤리
+    name_en: Propolis/Royal Jelly
+    status: watching
+    category: barrier
+    google_keywords:
+      - "propolis serum skincare"
+      - "royal jelly skincare"
+      - "프로폴리스 세럼"
+    reddit_terms:
+      - propolis
+      - "propolis serum"
+      - "royal jelly skin"
+    added_date: "2026-04-18"
+    notes: "벌집 유래 항염·영양 공급·광채. K-뷰티 클래식 성분"
+
+  - id: squalane
+    name_kr: 스쿠알란
+    name_en: Squalane
+    status: watching
+    category: barrier
+    google_keywords:
+      - "squalane oil skincare"
+      - "squalane moisturizer"
+      - "스쿠알란"
+    reddit_terms:
+      - squalane
+      - "squalane oil"
+    added_date: "2026-04-18"
+    notes: "피지 유사 구조. 오일 프리 보습. 친환경 사탕수수 유래 버전이 트렌드"
+
+  # ── 모공/결/각질 (PHA는 기존 ID 유지) ─────────────────────
+
+  - id: lha
+    name_kr: LHA (카프릴로일살리실릭애씨드)
+    name_en: LHA (Capryloyl Salicylic Acid)
+    status: rising
+    category: exfoliant
+    replaces: [high_aha]
+    relation_note: "4세대 각질 제거. BHA 계열 약산성 → 여드름·민감피부 친화적"
+    google_keywords:
+      - "LHA exfoliant"
+      - "capryloyl salicylic acid"
+      - "LHA 각질"
+    reddit_terms:
+      - LHA
+      - "capryloyl salicylic"
+      - "lipohydroxy acid"
+    added_date: "2026-04-18"
+    notes: "4세대 각질 제거. 약산성. 여드름 케어. BHA보다 저자극"
+
+  - id: caffeine
+    name_kr: 카페인
+    name_en: Caffeine
+    status: watching
+    category: pore_texture
+    google_keywords:
+      - "caffeine eye cream"
+      - "caffeine serum puffiness"
+      - "카페인 아이크림"
+    reddit_terms:
+      - "caffeine serum"
+      - "caffeine eye"
+      - "puffiness caffeine"
+    added_date: "2026-04-18"
+    notes: "눈가 붓기 제거·혈액 순환·탄력. 아이크림 핵심 성분"
+
+  - id: zinc_pca
+    name_kr: 징크 PCA
+    name_en: Zinc PCA
+    status: rising
+    category: pore_texture
+    google_keywords:
+      - "zinc PCA serum"
+      - "zinc PCA oily skin"
+      - "징크 PCA"
+    reddit_terms:
+      - "zinc PCA"
+      - "zinc pca serum"
+      - "sebum control"
+    added_date: "2026-04-18"
+    notes: "피지 조절·유수분 밸런스. 지성·복합성 피부 급증 트렌드"
+
+  - id: succinic_acid
+    name_kr: 호박산
+    name_en: Succinic Acid
+    status: rising
+    category: pore_texture
+    google_keywords:
+      - "succinic acid acne"
+      - "succinic acid serum"
+      - "호박산 여드름"
+    reddit_terms:
+      - "succinic acid"
+      - "succinic acid skin"
+    added_date: "2026-04-18"
+    notes: "차세대 여드름 성분. 항균·민감성 각질 케어. BHA 대안"
+
+  # ── 바이오/차세대 (PDRN·세라마이드는 기존 ID 유지) ────────
+
+  - id: cica_exosome
+    name_kr: 시카 엑소좀
+    name_en: Cica-Exosome
+    status: rising
+    category: regeneration
+    google_keywords:
+      - "cica exosome serum"
+      - "시카 엑소좀"
+      - "exosome cica"
+    reddit_terms:
+      - "cica exosome"
+      - "centella exosome"
+    added_date: "2026-04-18"
+    notes: "엑소좀 기술과 시카 결합. 세포 신호 전달 + 진정 시너지. 복합 기능 트렌드"
+
+  - id: microbiome
+    name_kr: 마이크로바이옴/포스트바이오틱스
+    name_en: Microbiome/Postbiotics
+    status: rising
+    category: barrier
+    google_keywords:
+      - "microbiome skincare"
+      - "postbiotics skin"
+      - "마이크로바이옴 스킨케어"
+    reddit_terms:
+      - microbiome
+      - postbiotics
+      - "skin microbiome"
+      - "probiotic skincare"
+    added_date: "2026-04-18"
+    notes: "피부 유익균·면역력·밸런스 케어. 장 건강 트렌드의 스킨케어 확장"
+
+  - id: resveratrol
+    name_kr: 레스베라트롤
+    name_en: Resveratrol
+    status: watching
+    category: anti_aging
+    google_keywords:
+      - "resveratrol serum"
+      - "resveratrol skincare"
+      - "레스베라트롤"
+    reddit_terms:
+      - resveratrol
+      - "resveratrol skin"
+    added_date: "2026-04-18"
+    notes: "포도 유래 강력 항산화. 노화 지연. 과학적 관심 높으나 제형 안정성 이슈"
+
+  # ── 천연/기타 ──────────────────────────────────────────────
+
+  - id: mugwort
+    name_kr: 쑥
+    name_en: Mugwort
+    status: rising
+    category: natural
+    google_keywords:
+      - "mugwort skincare"
+      - "mugwort toner"
+      - "쑥 스킨케어"
+    reddit_terms:
+      - mugwort
+      - "mugwort toner"
+      - "artemisia skincare"
+    added_date: "2026-04-18"
+    notes: "한국적 진정 성분. 강화 약쑥. 항염. K-뷰티 헤리티지 소재"
+
+  - id: rice_bran
+    name_kr: 쌀겨
+    name_en: Rice Bran
+    status: watching
+    category: natural
+    google_keywords:
+      - "rice bran skincare"
+      - "rice extract brightening"
+      - "쌀겨 미백"
+    reddit_terms:
+      - "rice bran"
+      - "rice extract skin"
+      - "rice water skincare"
+    added_date: "2026-04-18"
+    notes: "전통 미백. 피부결 개선. 폴리페놀 풍부. K-뷰티 헤리티지 재발견"
+
+  - id: ginseng
+    name_kr: 인삼
+    name_en: Ginseng
+    status: watching
+    category: natural
+    google_keywords:
+      - "ginseng skincare"
+      - "ginseng serum anti-aging"
+      - "인삼 스킨케어"
+    reddit_terms:
+      - ginseng
+      - "ginseng skin"
+      - "panax ginseng"
+    added_date: "2026-04-18"
+    notes: "사포닌 항노화. 한방 기술 현대화. 글로벌 K-뷰티 헤리티지 소재"
+
+  - id: heartleaf
+    name_kr: 어성초
+    name_en: Heartleaf (Houttuynia)
+    status: rising
+    category: natural
+    google_keywords:
+      - "heartleaf skincare"
+      - "houttuynia toner"
+      - "어성초 토너"
+    reddit_terms:
+      - heartleaf
+      - "houttuynia skincare"
+      - "어성초"
+    added_date: "2026-04-18"
+    notes: "트러블 진정·항균. 한국 유행 성분. 어성초 토너 바이럴 중"
+
+  - id: green_tea_egcg
+    name_kr: 녹차 (EGCG)
+    name_en: Green Tea EGCG
+    status: watching
+    category: natural
+    google_keywords:
+      - "green tea EGCG skincare"
+      - "green tea serum"
+      - "녹차 스킨케어"
+    reddit_terms:
+      - EGCG
+      - "green tea skincare"
+      - "green tea extract"
+    added_date: "2026-04-18"
+    notes: "항산화·피지 조절·진정. 성숙 성분이나 안정적 수요 유지"
+
+  # ── 수분/볼륨 ──────────────────────────────────────────────
+
+  - id: polyglutamic_acid
+    name_kr: 폴리글루타민산 (PGA)
+    name_en: Polyglutamic Acid (PGA)
+    status: rising
+    category: hydration
+    google_keywords:
+      - "polyglutamic acid serum"
+      - "PGA moisturizer"
+      - "폴리글루타민산"
+    reddit_terms:
+      - "polyglutamic acid"
+      - "PGA serum"
+      - "natto skin"
+    added_date: "2026-04-18"
+    notes: "낫또 유래. HA보다 강한 수분 유지력 주장. 차세대 보습 성분"
+
+  - id: volufiline
+    name_kr: 보르피린
+    name_en: Volufiline
+    status: watching
+    category: hydration
+    google_keywords:
+      - "volufiline serum"
+      - "volufiline filler effect"
+      - "보르피린"
+    reddit_terms:
+      - volufiline
+      - "topical filler"
+      - "volume serum"
+    added_date: "2026-04-18"
+    notes: "지방 세포 증식. 바르는 필러 효과. 볼륨 케어 니치 성분"
+
+  - id: urea
+    name_kr: 우레아
+    name_en: Urea
+    status: rising
+    category: hydration
+    google_keywords:
+      - "urea moisturizer"
+      - "urea cream skin"
+      - "우레아 크림"
+    reddit_terms:
+      - urea
+      - "urea cream"
+      - "keratolytic"
+    added_date: "2026-04-18"
+    notes: "천연 보습 인자. 각질 용해. 기능성 스킨케어 트렌드로 재조명"
+
+  - id: allantoin
+    name_kr: 알란토인
+    name_en: Allantoin
+    status: watching
+    category: barrier
+    google_keywords:
+      - "allantoin skincare"
+      - "allantoin soothing"
+      - "알란토인"
+    reddit_terms:
+      - allantoin
+      - "allantoin skin"
+    added_date: "2026-04-18"
+    notes: "자극 완화·보호·재생 촉진. 민감피부 필수 성분. 안정적 수요"
+
+  - id: silica
+    name_kr: 실리카
+    name_en: Silica
+    status: watching
+    category: pore_texture
+    google_keywords:
+      - "silica skincare pores"
+      - "silica blur primer"
+      - "실리카 모공"
+    reddit_terms:
+      - silica
+      - "silica skin"
+      - "pore blurring"
+    added_date: "2026-04-18"
+    notes: "피지 흡착·모공 블러 효과·질감 개선. 마무리 제품 핵심 성분"

@@ -1,0 +1,15 @@
+streamlit==1.35.0
+streamlit-authenticator==0.3.2
+pytrends==4.9.2
+praw==7.7.1
+gspread==6.1.2
+google-auth==2.29.0
+plotly==5.22.0
+pandas==2.2.2
+pyyaml==6.0.1
+python-dotenv==1.0.1
+anthropic==0.28.0
+numpy==1.26.4
+google-api-python-client==2.126.0
+youtube-transcript-api==0.6.2
+openpyxl==3.1.2

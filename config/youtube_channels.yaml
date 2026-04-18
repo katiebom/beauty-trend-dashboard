@@ -1,0 +1,502 @@
+# ============================================================
+# ET-Index 추적 대상 YouTube 채널 목록
+# ─────────────────────────────────────────────────────────────
+# ✅ 핸들(@handle) 기반 자동 조회 방식 사용
+#    → channel_id는 비워두면 시스템이 YouTube API로 자동 해결
+#    → 핸들이 정확하면 channel_id 직접 입력 불필요
+#
+# market 구분:
+#   kr  → K-Expert Index (선행 지표)
+#   us  → US-Expert Index (현지화 지표)
+# ─────────────────────────────────────────────────────────────
+
+channels:
+
+  # ── K-Expert 채널 (market: kr) — 10개 활성 ─────────────────
+
+  - id: pibutenten
+    name: "피부텐텐"
+    handle: "@pibutenten"
+    channel_id: ""
+    market: kr
+    specialty: beauty_science
+    authority_weight: 1.5
+    focus: "성분 계급도 및 제품 비평"
+    language: ko
+    active: true
+
+  - id: thecellskin
+    name: "피부심 심현철"
+    handle: "@thecellskin"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "메디컬 기전 및 루틴 분석"
+    language: ko
+    active: true
+
+  - id: dr_judy
+    name: "닥터주디"
+    handle: "@dr_judy"
+    channel_id: ""
+    market: kr
+    specialty: beauty_science
+    authority_weight: 1.5
+    focus: "성분 분자 구조 및 화학적 분석"
+    language: ko
+    active: true
+
+  - id: ohsujinskin
+    name: "오수진피부과"
+    handle: "@ohsujinskin"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "민감성 피부 및 클린 뷰티"
+    language: ko
+    active: true
+
+  - id: skinking
+    name: "피부왕 정우열"
+    handle: "@skinking"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.8    # 논문 기반 임상 수치 — 최고 학술 신뢰도
+    focus: "논문 기반 임상 수치 분석"
+    language: ko
+    active: true
+
+  - id: dr_jiyoung
+    name: "피부과전문의 김지영"
+    handle: "@dr_jiyoung"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "장벽 이론 및 보습제 심화"
+    language: ko
+    active: true
+
+  - id: dr_roh
+    name: "노낙경의 피부학"
+    handle: "@dr_roh"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "글로벌 트렌드 및 신성분"
+    language: ko
+    active: true
+
+  - id: dr_hyochul
+    name: "닥터효철"
+    handle: "@dr_hyochul"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "질환별(여드름/주사) 타겟 성분"
+    language: ko
+    active: true
+
+  - id: dr_feel
+    name: "닥터필"
+    handle: "@dr_feel"
+    channel_id: ""
+    market: kr
+    specialty: beauty_science
+    authority_weight: 1.4
+    focus: "물리적 침투 및 제형 안정성"
+    language: ko
+    active: true
+
+  - id: turbo832tv
+    name: "동네의사 이상욱"
+    handle: "@Turbo832TV"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.3
+    focus: "루틴 오류 및 실전 팁"
+    language: ko
+    active: true
+
+  # ── K-Expert 비활성 채널 (필요 시 active: true로 변경) ──────
+
+  - id: bestofskin
+    name: "베스트피부과 (손현호)"
+    handle: "@bestofskin_"
+    channel_id: ""
+    market: kr
+    specialty: cosmetic_dermatology
+    authority_weight: 1.4
+    focus: "시술 시너지 및 장비 궁합"
+    language: ko
+    active: false
+
+  - id: dr_genius
+    name: "닥터지니어스"
+    handle: "@dr_genius"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.3
+    focus: "대중적 브랜드 성분 벤치마킹"
+    language: ko
+    active: false
+
+  - id: pibusung
+    name: "민동성"
+    handle: "@pibusung"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.4
+    focus: "성분 페어링 및 유저 고민 해결"
+    language: ko
+    active: false
+
+  - id: aftertherain
+    name: "의학채널 비온뒤"
+    handle: "@aftertherain"
+    channel_id: ""
+    market: kr
+    specialty: medical_education
+    authority_weight: 1.5
+    focus: "전문가 대담 및 Q&A"
+    language: ko
+    active: false
+
+  - id: beautypedia
+    name: "뷰티피디아"
+    handle: "@beautypedia"
+    channel_id: ""
+    market: kr
+    specialty: medical_education
+    authority_weight: 1.6
+    focus: "다수 전문의 합방 전성분 품평"
+    language: ko
+    active: false
+
+  - id: dr_park
+    name: "박준홍의 피부상담"
+    handle: "@dr_park"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "장벽 강화 및 기초 보습 정석"
+    language: ko
+    active: false
+
+  - id: dr_lee
+    name: "이세원의 피부건강"
+    handle: "@dr_lee"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "항노화 및 두피 케어 성분"
+    language: ko
+    active: false
+
+  - id: youthgangnam
+    name: "유스피부과 강현영"
+    handle: "@youthgangnam"
+    channel_id: ""
+    market: kr
+    specialty: cosmetic_dermatology
+    authority_weight: 1.4
+    focus: "리프팅 시너지 및 비만 성분"
+    language: ko
+    active: false
+
+  - id: dr_bora
+    name: "닥터보라"
+    handle: "@dr_bora"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "저자극 성분 및 붉은기 완화"
+    language: ko
+    active: false
+
+  - id: dr_lim
+    name: "닥터임이석"
+    handle: "@dr_lim"
+    channel_id: ""
+    market: kr
+    specialty: dermatology
+    authority_weight: 1.8
+    focus: "전문의 대가 관점의 성분 조언"
+    language: ko
+    active: false
+
+
+  # ── US-Expert 채널 (market: us) — 10개 활성 ─────────────────
+
+  - id: us_doctorly
+    name: "Doctorly"
+    handle: "@Doctorly"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.7
+    focus: "성분 과학 분석 + 미국 드럭스토어 트렌드 선도"
+    language: en
+    active: true
+
+  - id: us_drdray
+    name: "Dr. Dray (Andrea Suarez)"
+    handle: "@drdrayzday"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.8    # 글로벌 성분 분석 권위자
+    focus: "전성분 과학적 분석 + 제품 비평"
+    language: en
+    active: true
+
+  - id: us_shereene
+    name: "Dr. Shereene Idriss"
+    handle: "@ShereeneIdriss"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.6
+    focus: "색소침착·안티에이징 전문 + 고급 브랜드 분석"
+    language: en
+    active: true
+
+  - id: us_labmuffin
+    name: "Lab Muffin Beauty Science"
+    handle: "@LabMuffinBeautyScience"
+    channel_id: ""
+    market: us
+    specialty: beauty_science
+    authority_weight: 1.6    # 화학 박사 — 선스크린·성분 안전성 세계적 권위
+    focus: "화학 박사 — 선스크린·성분 안전성 과학적 분석"
+    language: en
+    active: true
+
+  - id: us_drsamellis
+    name: "Dr. Sam Ellis"
+    handle: "@DrSamEllis"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "임상 경험 기반 실용적 제품 추천"
+    language: en
+    active: true
+
+  - id: us_danielsugai
+    name: "Dr. Daniel Sugai"
+    handle: "@danielsugaimd"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.4
+    focus: "미국 드럭스토어 최신 트렌드 빠른 전파"
+    language: en
+    active: true
+
+  - id: us_drjennyliu
+    name: "Dr. Jenny Liu"
+    handle: "@DrJennyLiu"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.5
+    focus: "장벽 케어 + 과학적 근거 중심 미니멀리스트"
+    language: en
+    active: true
+
+  - id: us_drvanitarattan
+    name: "Dr. Vanita Rattan"
+    handle: "@DrVanitaRattan"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.6    # Skin of Color 전문
+    focus: "Skin of Color 전문 — 인종별 성분 반응 차이 분석"
+    language: en
+    active: true
+
+  - id: us_budgetderm
+    name: "The Budget Dermatologist"
+    handle: "@TheBudgetDermatologist"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.3
+    focus: "CeraVe·La Roche-Posay 등 가성비 성분 분석"
+    language: en
+    active: true
+
+  - id: us_jameswelsh
+    name: "James Welsh"
+    handle: "@JamesWelsh"
+    channel_id: ""
+    market: us
+    specialty: beauty_influencer
+    authority_weight: 1.2
+    focus: "남성 스킨케어 + K-뷰티 성분 비평"
+    language: en
+    active: true
+
+  # ── US-Expert 비활성 채널 (필요 시 active: true로 변경) ──────
+
+  - id: us_kindofstephen
+    name: "KindofStephen"
+    handle: "@kindofstephen"
+    channel_id: ""
+    market: us
+    specialty: beauty_science
+    authority_weight: 1.5
+    focus: "제형 설계 + Reddit 커뮤니티 영향력"
+    language: en
+    active: false
+
+  - id: us_chemistsconfessions
+    name: "Chemists Confessions"
+    handle: "@chemistsconfessions"
+    channel_id: ""
+    market: us
+    specialty: beauty_science
+    authority_weight: 1.5
+    focus: "제형 안정성 + 원가 관점 성분 분석"
+    language: en
+    active: false
+
+  - id: us_beautybrains
+    name: "Beauty Brains"
+    handle: "@thebeautybrains"
+    channel_id: ""
+    market: us
+    specialty: beauty_science
+    authority_weight: 1.4
+    focus: "화장품 화학자 시각의 소비자 의문 해소"
+    language: en
+    active: false
+
+  - id: us_theecowell
+    name: "The Eco Well"
+    handle: "@theecowell"
+    channel_id: ""
+    market: us
+    specialty: beauty_science
+    authority_weight: 1.3
+    focus: "지속가능성 + 클린뷰티 팩트체크"
+    language: en
+    active: false
+
+  - id: us_pillowtalkderm
+    name: "PillowtalkDerm (구 계정)"
+    handle: "@pillowtalkderm"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.6
+    focus: "@ShereeneIdriss로 이전 — 이 계정은 비활성 처리"
+    language: en
+    active: false
+
+  - id: us_drdanielsugai_old
+    name: "Dr. Daniel Sugai (구 핸들)"
+    handle: "@drdanielsugai"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.4
+    focus: "@danielsugaimd로 대체"
+    language: en
+    active: false
+
+  - id: us_hyram
+    name: "Hyram"
+    handle: "@hyram"
+    channel_id: ""
+    market: us
+    specialty: beauty_influencer
+    authority_weight: 1.1
+    focus: "Z세대 트렌드 이력 데이터 (현재 영향력 감소)"
+    language: en
+    active: false
+
+  - id: us_gothamista
+    name: "Gothamista"
+    handle: "@Gothamista"
+    channel_id: ""
+    market: us
+    specialty: beauty_influencer
+    authority_weight: 1.3
+    focus: "하이엔드·럭셔리 성분 + 텍스처 분석"
+    language: en
+    active: false
+
+  - id: us_mixedmakeup
+    name: "Mixed Makeup (Susan Yara)"
+    handle: "@MixedMakeup"
+    channel_id: ""
+    market: us
+    specialty: beauty_influencer
+    authority_weight: 1.2
+    focus: "브랜드 창업자 관점 제품 기획·마케팅"
+    language: en
+    active: false
+
+  - id: us_cassandrabankson
+    name: "Cassandra Bankson"
+    handle: "@CassandraBankson"
+    channel_id: ""
+    market: us
+    specialty: beauty_influencer
+    authority_weight: 1.2
+    focus: "여드름성 피부 + 비건 성분 전문 리뷰"
+    language: en
+    active: false
+
+  - id: us_dustinportela
+    name: "Dr. Dustin Portela"
+    handle: "@dustinportela"
+    channel_id: ""
+    market: us
+    specialty: cosmetic_dermatology
+    authority_weight: 1.4
+    focus: "시술 장비 + 화장품 결합 트렌드"
+    language: en
+    active: false
+
+  - id: us_dralexisstephens
+    name: "Dr. Alexis Stephens"
+    handle: "@dralexisstephens"
+    channel_id: ""
+    market: us
+    specialty: dermatology
+    authority_weight: 1.4
+    focus: "성분 분석 + 피부 생리학 연결고리"
+    language: en
+    active: false
+
+
+# ── 수집 설정 ───────────────────────────────────────────────
+collection:
+  lookback_days: 90
+  max_videos_per_channel: 10
+  use_transcript: true
+
+
+# ── authority_weight 기준표 ────────────────────────────────
+# 1.8: 글로벌 성분 분석 권위자 / 논문 기반 임상 (Dr. Dray, 피부왕 정우열)
+# 1.7: 최고 영향력 MD 듀오 (Doctorly)
+# 1.6: 특정 분야 세계적 권위 / 다수 전문의 집단 합의
+# 1.5: 피부과 전문의 일반 / 화장품 포뮬러 전문가
+# 1.4: 성분 분석 전문 / 시술 특화
+# 1.3: 실전 팁 / 가성비 분석
+# 1.2: 뷰티 인플루언서 (트렌드 감지)
+# 1.1: 영향력 감소 채널 (이력 데이터)
