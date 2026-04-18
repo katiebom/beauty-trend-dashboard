@@ -483,28 +483,31 @@ def _scatter_map(ingredients, latest):
         labels={"v_index": "V-Index (검색 가속도)", "r_score": "R-Score (커뮤니티 신뢰도)"},
     )
 
-    # 사분면 구분선
+    # 사분면 구분선 (V-Index 기준: 20 / R-Score 기준: 60)
     fig.add_hline(y=60, line_dash="dot", line_color="gray", opacity=0.4)
-    fig.add_vline(x=60, line_dash="dot", line_color="gray", opacity=0.4)
+    fig.add_vline(x=20, line_dash="dot", line_color="gray", opacity=0.4)
+    # 0선 강조 (V-Index 0 = 변화 없음)
+    fig.add_vline(x=0, line_dash="solid", line_color="#ccc", opacity=0.6)
 
     # 사분면 레이블
-    fig.add_annotation(x=80, y=85, text="⭐ 핵심 유망성분", showarrow=False,
+    fig.add_annotation(x=70, y=88, text="⭐ 핵심 유망성분", showarrow=False,
                        font=dict(color="gray", size=11))
-    fig.add_annotation(x=80, y=35, text="⚡ 바이럴 but 검증 필요", showarrow=False,
+    fig.add_annotation(x=70, y=32, text="⚡ 바이럴 but 검증 필요", showarrow=False,
                        font=dict(color="gray", size=11))
-    fig.add_annotation(x=30, y=85, text="💎 숨은 고관여 성분", showarrow=False,
+    fig.add_annotation(x=-60, y=88, text="💎 숨은 고관여 성분", showarrow=False,
                        font=dict(color="gray", size=11))
-    fig.add_annotation(x=30, y=35, text="📉 관심 저하", showarrow=False,
+    fig.add_annotation(x=-60, y=32, text="📉 관심 저하", showarrow=False,
                        font=dict(color="gray", size=11))
 
     fig.update_traces(textposition="top center")
     fig.update_layout(
-        height=480,
+        height=500,
         paper_bgcolor="#ffffff",
         plot_bgcolor="#f8f9fa",
         font_color="#111",
         legend_title="Status",
-        xaxis=dict(range=[0, 105], gridcolor="#e0e0e0", zerolinecolor="#ccc"),
+        xaxis=dict(range=[-105, 105], gridcolor="#e0e0e0", zerolinecolor="#aaa",
+                   title="V-Index (← 하락 | 0 | 상승 →)"),
         yaxis=dict(range=[0, 105], gridcolor="#e0e0e0", zerolinecolor="#ccc"),
         legend=dict(bgcolor="#ffffff", bordercolor="#ddd", borderwidth=1),
     )
