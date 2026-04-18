@@ -15,16 +15,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ── Streamlit Cloud secrets → os.environ 동기화 ───────────────────
-# 로컬: .env 파일 사용 / Streamlit Cloud: st.secrets 사용
-# 두 환경 모두 os.getenv()로 통일해서 읽을 수 있도록 동기화
-try:
-    for _k, _v in st.secrets.items():
-        if isinstance(_v, str):
-            os.environ.setdefault(_k, _v)
-except Exception:
-    pass  # 로컬 환경에서는 st.secrets가 없어도 무방
-
 # ── 페이지 설정 ────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Beauty Ingredient Trends",
