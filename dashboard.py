@@ -53,8 +53,9 @@ def load_sheets_data() -> tuple[pd.DataFrame, pd.DataFrame]:
     try:
         import sys
         sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-        from config.sheets_client import read_all, TAB_RAW_TRENDS, TAB_MANUAL_INPUT
+        from config.sheets_client import read_all, ensure_tabs_exist, TAB_RAW_TRENDS, TAB_MANUAL_INPUT
 
+        ensure_tabs_exist()
         raw = read_all(TAB_RAW_TRENDS)
         manual = read_all(TAB_MANUAL_INPUT)
 
