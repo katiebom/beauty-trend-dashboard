@@ -481,11 +481,11 @@ def _scatter_map(ingredients, latest):
     fig = px.scatter(
         df_chart,
         x="v_index", y="r_score",
-        text="name_kr",
         color="status",
         color_discrete_map=color_map,
         size=[20] * len(df_chart),
-        hover_data={"category": True, "status": True},
+        hover_name="name_kr",
+        hover_data={"category": True, "status": True, "v_index": True, "r_score": True},
         labels={"v_index": "V-Index (검색 가속도)", "r_score": "R-Score (커뮤니티 신뢰도)"},
     )
 
@@ -518,7 +518,7 @@ def _scatter_map(ingredients, latest):
                        font=dict(color="#9e9e9e", size=10),
                        bgcolor="rgba(255,255,255,0.7)")
 
-    fig.update_traces(textposition="top center")
+    fig.update_traces(textposition="top center", textfont_size=9)
     fig.update_layout(
         height=500,
         paper_bgcolor="#ffffff",
