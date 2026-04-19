@@ -74,7 +74,7 @@ def load_sheets_data() -> tuple[pd.DataFrame, pd.DataFrame]:
         # GOOGLE_SHEET_ID 미설정 시엔 조용히 샘플 데이터 사용 (설정 후엔 실제 연결)
         sheet_id = os.getenv("GOOGLE_SHEET_ID")
         if sheet_id:
-            st.warning(f"Google Sheets 연결 실패: {e}")
+            st.warning(f"Google Sheets 연결 실패: [{type(e).__name__}] {e}")
         return _sample_data()
 
 
