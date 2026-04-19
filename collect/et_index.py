@@ -1,14 +1,15 @@
 """
-ET-Index (Expert Trust Index) 수집기
+ET-Index (Expert Trust Index) 수집기 v2
 ─────────────────────────────────────────────────────
-YouTube 피부과 전문의 채널에서 성분 언급 빈도 + 권장 강도 분석
-→ K-ET Score (한국 전문의) + US-ET Score (미국 전문의) 별도 계산
+[구조 변경] 성분별 → 채널별로 루프 변경
+  이전: 성분(42) × 채널(20) = 840번 API 호출
+  이후: 채널(20) → 최근 영상 수집 → 전체 성분(42) 동시 스캔 = ~20번 API 호출
 
-의존성:
-  pip install google-api-python-client youtube-transcript-api
-
-환경변수:
-  YOUTUBE_API_KEY  ← Google Cloud Console에서 YouTube Data API v3 활성화 후 발급
+흐름:
+  1. 채널 ID 확인 (handle → channel_id)
+  2. 채널 최근 영상 N개 제목+설명 수집
+  3. Claude에게 42개 성분 전체를 한 번에 분석 요청
+  4. 성분별 ET-Score 추출 → Google Sheets 저장
 ─────────────────────────────────────────────────────
 """
 
@@ -18,7 +19,7 @@ import time
 import json
 import yaml
 import anthropic
-from datetime import datetime, date, timedelta
+from datetime import datetime, date, timedelta, timezone
 from dotenv import load_dotenv
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -39,241 +40,173 @@ def load_config():
 
 
 def get_youtube_client():
-    """YouTube Data API v3 클라이언트"""
-    try:
-        from googleapiclient.discovery import build
-        api_key = os.getenv("YOUTUBE_API_KEY")
-        if not api_key:
-            raise ValueError("YOUTUBE_API_KEY 환경변수 없음")
-        return build("youtube", "v3", developerKey=api_key)
-    except ImportError:
-        raise ImportError("google-api-python-client 미설치: pip install google-api-python-client")
+    from googleapiclient.discovery import build
+    api_key = os.getenv("YOUTUBE_API_KEY")
+    if not api_key:
+        raise ValueError("YOUTUBE_API_KEY 환경변수 없음")
+    return build("youtube", "v3", developerKey=api_key)
 
 
-def get_channel_id(youtube, channel: dict) -> str | None:
-    """
-    handle(@username)로 channel_id 조회 (handle 우선)
-    - 빈 channel_id는 handle로 자동 조회
-    - handle 조회 실패 시 제공된 channel_id fallback
-    """
-    handle = channel.get("handle", "").lstrip("@")
-
-    # channel_id가 있으면 바로 사용
+def resolve_channel_id(youtube, channel: dict) -> str | None:
+    """handle → channel_id 변환. 이미 있으면 API 호출 없음 (캐시 효과)."""
     if channel.get("channel_id"):
         return channel["channel_id"]
 
+    handle = channel.get("handle", "").lstrip("@")
     if not handle:
         return None
 
-    # 1차: YouTube API forHandle 파라미터 (가장 정확)
+    # channels().list는 1유닛 (search는 100유닛 — 사용 금지)
     try:
-        resp = youtube.channels().list(
-            forHandle=handle, part="id", maxResults=1
-        ).execute()
+        resp = youtube.channels().list(forHandle=handle, part="id", maxResults=1).execute()
         items = resp.get("items", [])
         if items:
-            resolved_id = items[0]["id"]
-            print(f"  [et] handle 조회 성공: @{handle} → {resolved_id}")
-            return resolved_id
-    except Exception:
-        pass
-
-    # 2차: search API fallback
-    try:
-        resp = youtube.search().list(
-            q=handle, type="channel", part="id", maxResults=1
-        ).execute()
-        items = resp.get("items", [])
-        if items:
-            resolved_id = items[0]["id"]["channelId"]
-            print(f"  [et] search 조회 성공: @{handle} → {resolved_id}")
-            return resolved_id
+            ch_id = items[0]["id"]
+            # yaml에 캐시 저장
+            _save_channel_id_to_yaml(channel.get("id", ""), ch_id)
+            return ch_id
     except Exception as e:
-        print(f"  [et] handle 조회 실패 ({channel['name']}): {e}")
+        print(f"  [et] channel_id 조회 실패 ({channel['name']}): {e}")
 
     return None
 
 
-def search_ingredient_videos(youtube, channel_id: str, ingredient: dict,
-                              lookback_days: int, max_videos: int,
-                              channel: dict | None = None) -> list[dict]:
-    """채널 내 성분 관련 영상 검색"""
-    from datetime import timezone
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=lookback_days)).isoformat()
-
-    lang = (channel or {}).get("language", "en")
-    if lang == "ko":
-        search_terms = [ingredient["name_kr"]] + [ingredient["name_en"]]
-    else:
-        search_terms = [ingredient["name_en"]] + ingredient.get("reddit_terms", [])[:1]
-    search_terms = search_terms[:3]
-
-    videos = []
-    for term in search_terms:
-        try:
-            resp = youtube.search().list(
-                part="snippet",
-                channelId=channel_id,
-                q=term,
-                type="video",
-                publishedAfter=cutoff,
-                maxResults=max_videos,
-                order="relevance",
-            ).execute()
-
-            for item in resp.get("items", []):
-                vid_id = item["id"]["videoId"]
-                snippet = item["snippet"]
-                videos.append({
-                    "video_id": vid_id,
-                    "title": snippet.get("title", ""),
-                    "description": snippet.get("description", "")[:300],
-                    "published_at": snippet.get("publishedAt", ""),
-                    "channel_name": snippet.get("channelTitle", ""),
-                })
-            time.sleep(0.5)
-        except Exception as e:
-            print(f"  [et] 영상 검색 오류: {e}")
-
-    # 중복 제거
-    seen, unique = set(), []
-    for v in videos:
-        if v["video_id"] not in seen:
-            seen.add(v["video_id"])
-            unique.append(v)
-
-    return unique[:max_videos]
-
-
-def get_transcript(video_id: str, language: str = "ko") -> str:
-    """YouTube 자막 가져오기"""
+def _save_channel_id_to_yaml(channel_yaml_id: str, channel_id: str):
+    """조회된 channel_id를 yaml에 저장 (다음 실행부터 API 호출 불필요)"""
     try:
-        from youtube_transcript_api import YouTubeTranscriptApi
-        langs = ["ko", "en"] if language == "ko" else ["en", "ko"]
-        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=langs)
-        return " ".join([t["text"] for t in transcript])[:2000]
+        with open(CHANNELS_YAML, "r", encoding="utf-8") as f:
+            content = f.read()
+        # 해당 채널의 channel_id: "" 를 실제 ID로 교체
+        old = f'id: {channel_yaml_id}\n    name:'
+        if old in content:
+            content = content.replace(
+                f'channel_id: ""\n    market:',
+                f'channel_id: "{channel_id}"\n    market:',
+                1  # 첫 번째 매칭만 (같은 채널 id가 없으니 사실상 정확)
+            )
+            with open(CHANNELS_YAML, "w", encoding="utf-8") as f:
+                f.write(content)
     except Exception:
-        return ""
+        pass  # 저장 실패해도 수집은 계속
 
 
-def calculate_et_score(ingredient: dict, channel: dict,
-                        videos: list[dict], use_transcript: bool) -> dict:
+def fetch_recent_videos(youtube, channel_id: str, max_videos: int) -> list[dict]:
     """
-    Claude로 ET-Score 계산
-    반환:
-      et_score       : 0~100 (weighted by channel authority)
-      raw_score      : 0~100 (authority 가중치 전)
-      mention_count  : 언급 영상 수
-      recommendation_strength: 권장 강도
-      key_claims_kr  : 주요 주장 3가지
+    채널 최근 영상 수집 — playlistItems.list 사용 (1유닛, search.list의 1/100)
+    채널 업로드 재생목록 ID = channel_id의 UC → UU 교체
+    """
+    uploads_playlist_id = "UU" + channel_id[2:]  # UCxxx → UUxxx
+    try:
+        resp = youtube.playlistItems().list(
+            part="snippet",
+            playlistId=uploads_playlist_id,
+            maxResults=max_videos,
+        ).execute()
+
+        videos = []
+        for item in resp.get("items", []):
+            snippet = item["snippet"]
+            videos.append({
+                "video_id": snippet.get("resourceId", {}).get("videoId", ""),
+                "title": snippet.get("title", ""),
+                "description": snippet.get("description", "")[:200],
+            })
+        return [v for v in videos if v["video_id"]]
+    except Exception as e:
+        print(f"  [et] 영상 수집 오류: {e}")
+        return []
+
+
+def scan_all_ingredients(channel: dict, videos: list[dict], ingredients: list[dict]) -> dict:
+    """
+    채널 영상 전체를 Claude에게 넘겨 모든 성분을 한 번에 스캔.
+    반환: {ingredient_id: {"score": 0~100, "strength": str, "mentioned": bool}}
     """
     if not videos:
-        return {"et_score": 0.0, "raw_score": 0.0, "mention_count": 0,
-                "recommendation_strength": "no_data", "key_claims_kr": []}
+        return {}
 
     client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
     authority = channel.get("authority_weight", 1.0)
+    lang = channel.get("language", "en")
 
+    # 영상 텍스트 합치기
     video_texts = []
-    for v in videos[:5]:
-        transcript = get_transcript(v["video_id"], channel.get("language", "en")) if use_transcript else ""
-        text = f"Title: {v['title']}\nDescription: {v['description']}"
-        if transcript:
-            text += f"\nTranscript: {transcript[:800]}"
-        video_texts.append(text)
+    for v in videos[:15]:
+        video_texts.append(f"- {v['title']} | {v['description']}")
+    videos_block = "\n".join(video_texts)
 
-    combined = "\n\n===\n\n".join(video_texts)
+    # 성분 목록 (언어에 따라 KR/EN 조합)
+    ing_list = []
+    for ing in ingredients:
+        if lang == "ko":
+            ing_list.append(f"{ing['id']}: {ing['name_kr']} ({ing['name_en']})")
+        else:
+            ing_list.append(f"{ing['id']}: {ing['name_en']} ({ing['name_kr']})")
+    ingredients_block = "\n".join(ing_list)
 
-    prompt = f"""You are analyzing YouTube content from a dermatologist/skincare expert channel about the ingredient: {ingredient['name_en']} ({ingredient['name_kr']}).
+    prompt = f"""You are analyzing YouTube content from a skincare/dermatology expert channel.
 
-Channel: {channel['name']} (market: {channel.get('market','kr')}, specialty: {channel.get('specialty', 'medical')}, language: {channel.get('language', 'en')})
+Channel: {channel['name']} (market: {channel.get('market','kr')}, language: {lang}, specialty: {channel.get('specialty','medical')})
 
-Video content ({len(videos)} videos found):
-{combined}
+Recent {len(videos)} videos (title | description):
+{videos_block}
 
-Analyze how this expert views this ingredient. Respond in EXACT JSON:
-{{
-  "mentions_ingredient": <true/false>,
-  "raw_et_score": <0-100, where 100=strongly recommends with evidence, 50=neutral mention, 0=actively warns against>,
-  "recommendation_strength": "<strong_recommend|moderate_recommend|neutral|caution|against>",
-  "clinical_evidence_cited": <true/false, did they cite studies or clinical data?>,
-  "key_claims_kr": ["<주요 주장1 (한국어)>", "<주장2>", "<주장3>"],
-  "safety_concerns_kr": ["<안전 우려사항 (한국어)>"] or [],
-  "insight_kr": "<핵심 인사이트 1~2문장 (한국어)>"
-}}"""
+Check which of these ingredients appear in the videos above:
+{ingredients_block}
+
+For EACH ingredient that appears, estimate the expert's stance.
+Only include ingredients actually mentioned. Skip ingredients with no mention.
+
+Respond in EXACT JSON (array):
+[
+  {{
+    "id": "<ingredient_id>",
+    "mentioned": true,
+    "score": <0-100, 100=strongly recommends with evidence, 50=neutral, 0=warns against>,
+    "strength": "<strong_recommend|moderate_recommend|neutral|caution|against>"
+  }},
+  ...
+]
+
+If NO ingredients are mentioned, respond with: []"""
 
     try:
         response = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=400,
+            model="claude-haiku-4-5-20251001",
+            max_tokens=800,
             messages=[{"role": "user", "content": prompt}],
         )
-        data = json.loads(response.content[0].text.strip())
+        raw = response.content[0].text.strip()
+        # JSON 배열 추출
+        start = raw.find("[")
+        end = raw.rfind("]") + 1
+        if start == -1:
+            return {}
+        data = json.loads(raw[start:end])
 
-        if not data.get("mentions_ingredient", False):
-            return {"et_score": 0.0, "raw_score": 0.0, "mention_count": 0,
-                    "recommendation_strength": "not_mentioned", "key_claims_kr": []}
-
-        raw = float(data.get("raw_et_score", 50))
-        et_score = 50 + (raw - 50) * authority
-        et_score = max(0, min(100, et_score))
-
-        if data.get("clinical_evidence_cited", False):
-            et_score = min(100, et_score + 5)
-
-        return {
-            "et_score": round(et_score, 1),
-            "raw_score": round(raw, 1),
-            "mention_count": len(videos),
-            "recommendation_strength": data.get("recommendation_strength", "neutral"),
-            "key_claims_kr": data.get("key_claims_kr", [])[:3],
-            "safety_concerns_kr": data.get("safety_concerns_kr", []),
-            "insight_kr": data.get("insight_kr", ""),
-        }
+        result = {}
+        for item in data:
+            ing_id = item.get("id")
+            if not ing_id:
+                continue
+            raw_score = float(item.get("score", 50))
+            # authority 가중치 적용
+            et_score = 50 + (raw_score - 50) * authority
+            et_score = max(0, min(100, round(et_score, 1)))
+            result[ing_id] = {
+                "score": et_score,
+                "strength": item.get("strength", "neutral"),
+                "mentioned": True,
+            }
+        return result
 
     except Exception as e:
-        print(f"  [claude/et] 오류: {e}")
-        return {"et_score": 0.0, "raw_score": 0.0, "mention_count": len(videos),
-                "recommendation_strength": "error", "key_claims_kr": []}
-
-
-def aggregate_channel_scores(channel_scores: list[dict]) -> float:
-    """채널별 ET-Score를 단순 평균으로 집계 (언급 없는 채널 제외)"""
-    valid = [s for s in channel_scores if s["mention_count"] > 0]
-    if not valid:
-        return 0.0
-    return round(sum(s["et_score"] for s in valid) / len(valid), 1)
-
-
-def collect_for_market(youtube, ing: dict, channels: list[dict], collection_cfg: dict, market_label: str) -> list[dict]:
-    """특정 마켓 채널들에서 성분 ET-Score 수집"""
-    channel_scores = []
-    for ch in channels:
-        ch_id = get_channel_id(youtube, ch)
-        if not ch_id:
-            continue
-
-        videos = search_ingredient_videos(
-            youtube, ch_id, ing,
-            collection_cfg.get("lookback_days", 90),
-            collection_cfg.get("max_videos_per_channel", 10),
-            channel=ch,
-        )
-        print(f"    [{market_label}] {ch['name']}: {len(videos)}개 영상")
-
-        if videos:
-            score_data = calculate_et_score(
-                ing, ch, videos,
-                collection_cfg.get("use_transcript", True)
-            )
-            channel_scores.append(score_data)
-            time.sleep(1)
-
-    return channel_scores
+        print(f"  [claude] 스캔 오류: {e}")
+        return {}
 
 
 def run():
-    print("=== ET-Index 수집 시작 (KR + US) ===")
+    print("=== ET-Index 수집 시작 v2 (채널별 전체 성분 스캔) ===")
     ingredients, channels_cfg = load_config()
     today = date.today().isoformat()
     collected_at = datetime.now().isoformat(timespec="seconds")
@@ -282,55 +215,75 @@ def run():
     kr_channels = [c for c in all_channels if c.get("market", "kr") == "kr"]
     us_channels = [c for c in all_channels if c.get("market", "us") == "us"]
     collection_cfg = channels_cfg.get("collection", {})
+    lookback_days = collection_cfg.get("lookback_days", 90)
+    max_videos = collection_cfg.get("max_videos_per_channel", 15)
 
     print(f"활성 채널 — KR: {len(kr_channels)}개, US: {len(us_channels)}개")
 
-    if not all_channels:
-        print("⚠️  활성화된 채널 없음.")
-        return
-
     youtube = get_youtube_client()
+
+    # 성분별 결과 누적: {ing_id: {kr: [scores], us: [scores]}}
+    ing_scores = {ing["id"]: {"kr": [], "us": []} for ing in ingredients}
+
+    def process_channels(channels, market_label):
+        for ch in channels:
+            print(f"\n[{market_label}] {ch['name']} 처리 중...")
+            ch_id = resolve_channel_id(youtube, ch)
+            if not ch_id:
+                print(f"  → channel_id 없음, 스킵")
+                continue
+
+            videos = fetch_recent_videos(youtube, ch_id, lookback_days, max_videos)
+            print(f"  → 최근 영상 {len(videos)}개 수집")
+            if not videos:
+                continue
+
+            results = scan_all_ingredients(ch, videos, ingredients)
+            print(f"  → {len(results)}개 성분 언급 발견")
+
+            for ing_id, data in results.items():
+                if ing_id in ing_scores:
+                    ing_scores[ing_id][market_label.lower()].append(data)
+
+            time.sleep(1)
+
+    process_channels(kr_channels, "KR")
+    process_channels(us_channels, "US")
+
+    # 성분별 집계 → Sheets 저장
     all_rows = []
-
     for ing in ingredients:
-        print(f"\n[{ing['name_kr']}] ET-Index 수집 중...")
+        ing_id = ing["id"]
+        kr_data = ing_scores[ing_id]["kr"]
+        us_data = ing_scores[ing_id]["us"]
 
-        # ── K-Expert (한국 전문의) ──
-        kr_scores = collect_for_market(youtube, ing, kr_channels, collection_cfg, "KR")
-        et_kr = aggregate_channel_scores(kr_scores)
-        kr_mention_total = sum(s["mention_count"] for s in kr_scores)
-        kr_strong = sum(1 for s in kr_scores
-                        if s.get("recommendation_strength") in ("strong_recommend", "moderate_recommend"))
-
-        # ── US-Expert (미국 전문의) ──
-        us_scores = collect_for_market(youtube, ing, us_channels, collection_cfg, "US")
-        et_us = aggregate_channel_scores(us_scores)
-        us_mention_total = sum(s["mention_count"] for s in us_scores)
-        us_strong = sum(1 for s in us_scores
-                        if s.get("recommendation_strength") in ("strong_recommend", "moderate_recommend"))
-
-        print(f"  → K-ET: {et_kr} (채널 {len(kr_scores)}개, 강추 {kr_strong}개)")
-        print(f"  → US-ET: {et_us} (채널 {len(us_scores)}개, 강추 {us_strong}개)")
+        et_kr = round(sum(d["score"] for d in kr_data) / len(kr_data), 1) if kr_data else 0.0
+        et_us = round(sum(d["score"] for d in us_data) / len(us_data), 1) if us_data else 0.0
+        kr_strong = sum(1 for d in kr_data if d["strength"] in ("strong_recommend", "moderate_recommend"))
+        us_strong = sum(1 for d in us_data if d["strength"] in ("strong_recommend", "moderate_recommend"))
 
         metrics = {
-            "et_score_kr":              et_kr,
-            "et_channel_count_kr":      len(kr_scores),
-            "et_mention_videos_kr":     kr_mention_total,
-            "et_strong_recommend_kr":   kr_strong,
-            "et_score_us":              et_us,
-            "et_channel_count_us":      len(us_scores),
-            "et_mention_videos_us":     us_mention_total,
-            "et_strong_recommend_us":   us_strong,
+            "et_score_kr":            et_kr,
+            "et_channel_count_kr":    len(kr_data),
+            "et_mention_videos_kr":   len(kr_data),
+            "et_strong_recommend_kr": kr_strong,
+            "et_score_us":            et_us,
+            "et_channel_count_us":    len(us_data),
+            "et_mention_videos_us":   len(us_data),
+            "et_strong_recommend_us": us_strong,
         }
         for metric_name, value in metrics.items():
             all_rows.append([
-                today, ing["id"], ing["name_kr"],
+                today, ing_id, ing["name_kr"],
                 "youtube", metric_name, value, collected_at,
             ])
 
+        if kr_data or us_data:
+            print(f"  {ing['name_kr']}: K-ET={et_kr} (채널{len(kr_data)}개), US-ET={et_us} (채널{len(us_data)}개)")
+
     if all_rows:
         append_rows(TAB_RAW_TRENDS, all_rows)
-        print(f"\n✅ ET-Index 수집 완료 — {len(all_rows)}행 저장 (KR/US 분리)")
+        print(f"\n✅ ET-Index 수집 완료 — {len(all_rows)}행 저장")
     else:
         print("\n⚠️  저장된 데이터 없음")
 
