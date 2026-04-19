@@ -12,7 +12,7 @@ credentials:
   usernames:
     katie:
       name: Katie
-      email: your_email@example.com
+      email: beauty-ingredients-dashboard@beauty-ingredients-dashboard.iam.gserviceaccount.com
       # 비밀번호: 아래 해시 생성 후 교체
       # python3 -c "import streamlit_authenticator as stauth; print(stauth.Hasher(['PASSWORD_HERE']).generate())"
       password: "$2b$12$placeholder_hash_replace_this"
@@ -23,4 +23,6 @@ cookie:
   expiry_days: 30
 
 preauthorized:
-  emails: []
+  emails: [beauty-ingredients-dashboard@beauty-ingredients-dashboard.iam.gserviceaccount.com]
+
+spreadsheet_id: "12TcKAcvzN5mY-STukvR2F1ZO_dLjOEY6tmqk_VKGeGc"

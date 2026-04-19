@@ -1,10 +1,11 @@
 """
 Google Sheets 연동 클라이언트
-- 서비스 계정 인증
-- 시트별 읽기/쓰기/upsert 헬퍼
+- 인증: GOOGLE_CREDENTIALS 환경 변수 (JSON 문자열) 사용
+  → 파일을 서버에 올릴 필요 없음, Railway Variables에만 저장
 """
 
 import os
+import json
 import gspread
 from google.oauth2.service_account import Credentials
 from dotenv import load_dotenv
@@ -17,16 +18,22 @@ SCOPES = [
 ]
 
 SHEET_ID = os.getenv("GOOGLE_SHEET_ID")
-SERVICE_ACCOUNT_FILE = os.getenv("GOOGLE_SERVICE_ACCOUNT_FILE", "service_account.json")
 
 # 시트 탭 이름 상수
-TAB_RAW_TRENDS = "raw_trends"          # 자동 수집 시계열 데이터
-TAB_MANUAL_INPUT = "manual_input"      # Katie 수동 입력 (TikTok, Amazon)
-TAB_INGREDIENTS = "ingredients_master"  # 성분 메타 정보
+TAB_RAW_TRENDS = "raw_trends"
+TAB_MANUAL_INPUT = "manual_input"
+TAB_INGREDIENTS = "ingredients_master"
 
 
 def get_client() -> gspread.Client:
-    creds = Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
+    creds_json = os.getenv("GOOGLE_CREDENTIALS")
+    if not creds_json:
+        raise EnvironmentError(
+            "GOOGLE_CREDENTIALS 환경 변수가 없습니다. "
+            "Railway Variables에 서비스 계정 JSON 전체를 붙여넣으세요."
+        )
+    creds_dict = json.loads(creds_json)
+    creds = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
     return gspread.authorize(creds)
 
 
@@ -84,7 +91,7 @@ def upsert_ingredients_master(ingredients: list[dict]):
     ss = get_spreadsheet()
     ws = ss.worksheet(TAB_INGREDIENTS)
 
-    existing = {row["ingredient_id"]: idx + 2  # 1-indexed, +1 for header
+    existing = {row["ingredient_id"]: idx + 2
                 for idx, row in enumerate(ws.get_all_records())}
 
     for ing in ingredients:
