@@ -62,6 +62,10 @@ def load_sheets_data() -> tuple[pd.DataFrame, pd.DataFrame]:
         df_raw = pd.DataFrame(raw) if raw else pd.DataFrame()
         df_manual = pd.DataFrame(manual) if manual else pd.DataFrame()
 
+        # Sheets는 연결됐지만 아직 데이터 없으면 샘플 데이터 사용
+        if df_raw.empty:
+            return _sample_data()
+
         if not df_raw.empty:
             df_raw["date"] = pd.to_datetime(df_raw["date"])
             df_raw["value"] = pd.to_numeric(df_raw["value"], errors="coerce")
