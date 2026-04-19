@@ -460,13 +460,22 @@ def _scatter_map(ingredients, latest):
             continue
         v = row.iloc[0].get("v_index", None)
         r = row.iloc[0].get("r_score", None)
+        et_kr = row.iloc[0].get("et_score_kr", None)
+        et_us = row.iloc[0].get("et_score_us", None)
         if v is None or pd.isna(v):
             continue
-        r = 50 if (r is None or pd.isna(r)) else r  # r_score 없으면 중간값으로 표시
+        # r_score 없으면 ET-Index로 대체 (KR 우선, 없으면 US, 없으면 50)
+        if r is None or pd.isna(r):
+            if et_kr is not None and not pd.isna(et_kr) and float(et_kr) > 0:
+                r = float(et_kr)
+            elif et_us is not None and not pd.isna(et_us) and float(et_us) > 0:
+                r = float(et_us)
+            else:
+                r = 50
         chart_data.append({
             "name_kr": ing["name_kr"],
-            "v_index": v,
-            "r_score": r,
+            "v_index": float(v),
+            "r_score": float(r),
             "status": ing["status"],
             "category": ing.get("category", ""),
         })
