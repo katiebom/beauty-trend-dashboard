@@ -15,6 +15,36 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+# ── 간단 비밀번호 인증 ────────────────────────────────────────────────
+def check_password():
+    """환경변수 DASHBOARD_PASSWORD로 접근 제한. 미설정 시 공개."""
+    password = os.getenv("DASHBOARD_PASSWORD", "")
+    if not password:
+        return True  # 비밀번호 미설정 시 공개 접근 허용
+
+    if "authenticated" not in st.session_state:
+        st.session_state.authenticated = False
+
+    if st.session_state.authenticated:
+        return True
+
+    st.set_page_config(page_title="Beauty Trends — Login", page_icon="🔒", layout="centered")
+    st.markdown("## 🔒 Beauty Ingredient Trends")
+    pwd = st.text_input("비밀번호", type="password", placeholder="Enter password")
+    if st.button("로그인"):
+        if pwd == password:
+            st.session_state.authenticated = True
+            st.rerun()
+        else:
+            st.error("비밀번호가 틀렸습니다.")
+    st.stop()
+
+
+if not check_password():
+    st.stop()
+
+
 # ── 페이지 설정 ────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Beauty Ingredient Trends",
