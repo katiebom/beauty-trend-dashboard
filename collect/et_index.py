@@ -1,27 +1,29 @@
 """
-ET-Index (Expert Trust Index) 수집기 v3
+ET-Index (Expert Trust Index) 수집기 v4
 ─────────────────────────────────────────────────────
-[v3] Claude API(유료) → Gemini Flash(무료)로 교체
-  수집: YouTube Data API playlistItems (1유닛/채널, 쿼터 부담 없음)
-  분석: Gemini Flash (무료 티어 — 하루 1,500건 무료)
+[v4] API 없는 키워드 매칭 방식으로 완전 교체
+  수집: YouTube Data API playlistItems (1유닛/채널)
+  분석: 키워드 매칭 (AI API 불필요, 비용 $0)
+
+  US 피부과 채널은 영상 제목에 성분명을 직접 씀
+  → "retinol", "niacinamide", "peptides" 등 제목 스캔이 충분히 유효
 
 [KR ET 비활성화]
-  이유: 한국 채널은 영상 제목에 성분명 대신 피부 고민/시술명 사용
-  대안: V-Index(Google Trends)가 KR 시장 신호 담당
-        US ET만 수집 — 글로벌 전문가 검증 신호
+  한국 채널은 "주름", "미백" 등 고민 기반 제목 → V-Index(Google Trends)로 대체
 
-필요한 것:
-  - YOUTUBE_API_KEY: 기존 키 그대로 사용
-  - GEMINI_API_KEY: aistudio.google.com → "Get API Key" (무료)
+채점 로직:
+  제목/설명에서 성분 발견 시:
+  - 부정어 주변: 20점 (caution)
+  - 강추천 단어 주변: 85점 (strong_recommend)
+  - 기본 언급: 70점 (moderate_recommend)
 ─────────────────────────────────────────────────────
 """
 
 import sys
 import os
+import re
 import time
-import json
 import yaml
-import google.generativeai as genai
 from datetime import datetime, date
 from dotenv import load_dotenv
 
@@ -32,6 +34,18 @@ load_dotenv()
 
 YAML_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "config", "ingredients.yaml")
 CHANNELS_YAML = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "config", "youtube_channels.yaml")
+
+# 감정 키워드 (영어 — US 채널 대상)
+NEGATIVE_WORDS = [
+    "avoid", "don't use", "dont use", "stop using", "harmful", "dangerous",
+    "causes", "irritating", "irritation", "bad for", "never use", "worse",
+    "reaction", "allergy", "toxic", "burns", "burning",
+]
+STRONG_POSITIVE_WORDS = [
+    "best", "love", "holy grail", "game changer", "must have", "must-have",
+    "highly recommend", "amazing", "incredible", "obsessed", "favorite",
+    "favourite", "top", "number one", "#1",
+]
 
 
 def load_config():
@@ -55,7 +69,7 @@ def fetch_recent_videos(youtube, channel_id: str, max_videos: int) -> list[dict]
     채널 최신 영상 수집 — playlistItems.list 사용 (1유닛, search의 1/100)
     업로드 재생목록 ID = channel_id의 UC → UU 교체
     """
-    uploads_playlist_id = "UU" + channel_id[2:]  # UCxxx → UUxxx
+    uploads_playlist_id = "UU" + channel_id[2:]
     try:
         resp = (
             youtube.playlistItems()
@@ -76,107 +90,81 @@ def fetch_recent_videos(youtube, channel_id: str, max_videos: int) -> list[dict]
         return []
 
 
-def scan_all_ingredients_gemini(channel: dict, videos: list[dict], ingredients: list[dict]) -> dict:
+def keyword_score(text: str, keywords: list[str]) -> dict | None:
     """
-    Gemini Flash로 채널 영상 전체 스캔 — 모든 성분 한 번에 분석
-    무료 티어: 15 RPM / 1,500 RPD
+    텍스트에서 성분 키워드 탐색 → 감정 분석 → 점수 반환
+    미발견 시 None 반환
+    """
+    text_lower = text.lower()
+
+    # 성분 존재 여부 확인
+    found = any(kw.lower() in text_lower for kw in keywords)
+    if not found:
+        return None
+
+    # 감정 판단: 부정 우선, 이후 강추천, 기본
+    if any(neg in text_lower for neg in NEGATIVE_WORDS):
+        return {"score": 20, "strength": "caution"}
+    if any(pos in text_lower for pos in STRONG_POSITIVE_WORDS):
+        return {"score": 85, "strength": "strong_recommend"}
+    return {"score": 70, "strength": "moderate_recommend"}
+
+
+def scan_all_ingredients(channel: dict, videos: list[dict], ingredients: list[dict]) -> dict:
+    """
+    채널 영상 전체에서 모든 성분 키워드 스캔
     반환: {ingredient_id: {"score": 0~100, "strength": str}}
     """
     if not videos:
         return {}
 
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        print("  [gemini] GEMINI_API_KEY 없음 — .env에 추가 필요")
-        return {}
-
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-1.5-flash")
-
     authority = channel.get("authority_weight", 1.0)
-    lang = channel.get("language", "en")
 
-    # 영상 텍스트
-    video_texts = [f"- {v['title']} | {v['description']}" for v in videos[:15]]
-    videos_block = "\n".join(video_texts)
+    # 영상 전체 텍스트 합치기
+    full_text = " ".join(
+        v["title"] + " " + v["description"] for v in videos
+    )
 
-    # 성분 목록
-    if lang == "ko":
-        ing_list = [f"{i['id']}: {i['name_kr']} ({i['name_en']})" for i in ingredients]
-    else:
-        ing_list = [f"{i['id']}: {i['name_en']} ({i['name_kr']})" for i in ingredients]
-    ingredients_block = "\n".join(ing_list)
+    result = {}
+    for ing in ingredients:
+        # 영어 키워드 우선 (US 채널), 한국어도 포함
+        keywords = [ing["name_en"]]
+        # 별칭이 있으면 추가
+        if ing.get("aliases_en"):
+            keywords.extend(ing["aliases_en"])
 
-    prompt = f"""You are analyzing YouTube content from a skincare/dermatology expert channel.
-
-Channel: {channel['name']} (market: {channel.get('market','us')}, specialty: {channel.get('specialty','dermatology')})
-
-Recent {len(videos)} videos (title | description snippet):
-{videos_block}
-
-Check which of these skincare ingredients appear in the videos above:
-{ingredients_block}
-
-For EACH ingredient actually mentioned, estimate the expert's stance.
-Skip ingredients with no mention.
-
-Respond in EXACT JSON array only (no markdown):
-[
-  {{
-    "id": "<ingredient_id>",
-    "score": <0-100, 100=strongly recommends, 50=neutral, 0=warns against>,
-    "strength": "<strong_recommend|moderate_recommend|neutral|caution|against>"
-  }}
-]
-
-If NO ingredients are mentioned, respond with: []"""
-
-    try:
-        response = model.generate_content(prompt)
-        raw = response.text.strip().replace("```json", "").replace("```", "").strip()
-        start = raw.find("[")
-        end = raw.rfind("]") + 1
-        if start == -1:
-            return {}
-
-        data = json.loads(raw[start:end])
-        result = {}
-        for item in data:
-            ing_id = item.get("id")
-            if not ing_id:
-                continue
-            raw_score = float(item.get("score", 50))
+        match = keyword_score(full_text, keywords)
+        if match:
+            raw_score = match["score"]
             et_score = 50 + (raw_score - 50) * authority
             et_score = max(0, min(100, round(et_score, 1)))
-            result[ing_id] = {
+            result[ing["id"]] = {
                 "score": et_score,
-                "strength": item.get("strength", "neutral"),
+                "strength": match["strength"],
             }
-        return result
 
-    except Exception as e:
-        print(f"  [gemini] 스캔 오류: {e}")
-        return {}
+    return result
 
 
 def run():
-    print("=== ET-Index 수집 시작 v3 (YouTube API + Gemini Flash 무료) ===")
+    print("=== ET-Index 수집 시작 v4 (키워드 매칭, API 불필요) ===")
     ingredients, channels_cfg = load_config()
     today = date.today().isoformat()
     collected_at = datetime.now().isoformat(timespec="seconds")
 
     all_channels = [c for c in channels_cfg["channels"] if c.get("active", False)]
-    # KR ET 비활성화 — V-Index(Google Trends)가 KR 시장 신호 담당
     us_channels = [c for c in all_channels if c.get("market", "us") == "us"]
-    collection_cfg = channels_cfg.get("collection", {})
-    max_videos = collection_cfg.get("max_videos_per_channel", 15)
 
-    # channel_id 없는 채널 사전 필터링
     valid_us = [ch for ch in us_channels if ch.get("channel_id")]
     skipped = [ch["name"] for ch in us_channels if not ch.get("channel_id")]
     if skipped:
         print(f"  [스킵] channel_id 없음: {', '.join(skipped)}")
+
+    collection_cfg = channels_cfg.get("collection", {})
+    max_videos = collection_cfg.get("max_videos_per_channel", 15)
+
     print(f"활성 채널 — KR: 0개 (비활성), US: {len(valid_us)}개")
+    print(f"분석 방식: 키워드 매칭 (API 불필요)")
 
     youtube = get_youtube_client()
     ing_scores = {ing["id"]: {"us": []} for ing in ingredients}
@@ -188,15 +176,14 @@ def run():
         if not videos:
             continue
 
-        results = scan_all_ingredients_gemini(ch, videos, ingredients)
+        results = scan_all_ingredients(ch, videos, ingredients)
         print(f"  → {len(results)}개 성분 언급 발견")
 
         for ing_id, data in results.items():
             if ing_id in ing_scores:
                 ing_scores[ing_id]["us"].append(data)
 
-        # Gemini 무료 티어 15 RPM — 채널 간 5초 대기
-        time.sleep(5)
+        time.sleep(0.5)  # YouTube API 여유
 
     # 성분별 집계 → Sheets 저장
     all_rows = []
