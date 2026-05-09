@@ -1,39 +1,21 @@
-# ============================================================
-# 멀티 사용자 인증 (streamlit-authenticator)
-# ─────────────────────────────────────────────────────────────
-# 사용자 추가/비번 변경: python3 scripts/manage_users.py
-# 비밀번호는 bcrypt 해시로 저장 (평문 저장 금지)
-# ============================================================
-
 credentials:
   usernames:
-    # ★ Katie 본인 — username으로 둘 다 로그인 가능 (편의)
     katie:
       name: Katie
       email: katie.bom@gmail.com
-      password: "$2b$12$x0WdOrYXKQ5LqbgMajtDtuoMZLFrqkCptdIvRIzdNl2hAXvgkVd0."
+      password: $2b$12$jv5M/QjJoJMrSLa9bacsVuR1ic2DOmJuY7MUJyCSFQ0M0oktRowT6
       role: admin
-      created_at: "2026-05-09"
+      created_at: '2026-05-09'
     katie.bom@gmail.com:
       name: Katie
       email: katie.bom@gmail.com
-      password: "$2b$12$x0WdOrYXKQ5LqbgMajtDtuoMZLFrqkCptdIvRIzdNl2hAXvgkVd0."
+      password: $2b$12$jv5M/QjJoJMrSLa9bacsVuR1ic2DOmJuY7MUJyCSFQ0M0oktRowT6
       role: admin
-      created_at: "2026-05-09"
-    # 팀원 추가는 scripts/manage_users.py 사용
-    # team1:
-    #   name: 팀원1
-    #   email: team1@example.com
-    #   password: "$2b$12$..."
-    #   role: viewer
-    #   created_at: "2026-05-09"
-
+      created_at: '2026-05-09'
 cookie:
   name: aplb_dashboard_auth
-  key: "aplb-secret-2026-please-change-this-in-production-7f3kx9"
+  key: aplb-secret-2026-please-change-this-in-production-7f3kx9
   expiry_days: 30
-
 preauthorized:
   emails: []
-
-spreadsheet_id: "12TcKAcvzN5mY-STukvR2F1ZO_dLjOEY6tmqk_VKGeGc"
+spreadsheet_id: 12TcKAcvzN5mY-STukvR2F1ZO_dLjOEY6tmqk_VKGeGc
