@@ -1,0 +1,1566 @@
+{
+  "generated_at": "2026-05-09T18:19:31.471063",
+  "total_ingredients": 48,
+  "signals": [
+    {
+      "ingredient_id": "glp1_topical",
+      "name_kr": "GLP-1 외용",
+      "name_en": "GLP-1 topical",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 4,
+        "T2": 6,
+        "T3": 0,
+        "unknown": 15
+      },
+      "total_papers": 25,
+      "recent_papers": 25,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 22.0,
+      "signal_label": "🔥 임박 (T+6mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42068165",
+          "title": "Editor's Highlights-June 2026.",
+          "year": "2026",
+          "journal": "International journal of dermatology"
+        },
+        {
+          "pmid": "41991800",
+          "title": "Outcomes of Body Contouring Surgery After Bariatric Surgery vs. GLP-1 Receptor Agonist-Induced Weight Loss: A Propensity",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "41974908",
+          "title": "Psychological Well-being After Body Contouring Surgery: Hormonal and Surgical Predictors.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42054048",
+          "title": "The National Psoriasis Foundation Primer on GLP-1 Receptor Agonists in Psoriasis: A Review.",
+          "year": "2026",
+          "journal": "JAMA dermatology"
+        },
+        {
+          "pmid": "41976189",
+          "title": "The Molecular Exposome of Visible Age Reversal: From Organ-Skin Axes to Regenerative Aesthetics.",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        },
+        {
+          "pmid": "41890772",
+          "title": "The Therapeutic Potential of Glucagon-Like Peptide-1 Receptor Agonists in Psoriasis and Hidradenitis Suppurativa.",
+          "year": "2026",
+          "journal": "The Journal of clinical and aesthetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "bakuchiol",
+      "name_kr": "바쿠치올",
+      "name_en": "Bakuchiol",
+      "category": "retinoid_alternative",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 6,
+        "T3": 0,
+        "unknown": 4
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 18.2,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41562471",
+          "title": "A Randomized Controlled Trial of the Genistein Plus Bakuchiol and Vitamins (GEN",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "41365395",
+          "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
+          "year": "2026",
+          "journal": "Fitoterapia"
+        },
+        {
+          "pmid": "40905519",
+          "title": "Bioretinoids from microalgae: Boosting retinol performance and tolerability.",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "madecassoside",
+      "name_kr": "마데카소사이드",
+      "name_en": "Madecassoside",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 4
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 18.2,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "41025315",
+          "title": "Transfersomal delivery of ",
+          "year": "2025",
+          "journal": "Drug delivery"
+        },
+        {
+          "pmid": "40848428",
+          "title": "A biomimetic multifunctional dressing based on stratum corneum microstructure: integrating antibacterial barrier and bre",
+          "year": "2026",
+          "journal": "Biomaterials"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "41683503",
+          "title": "",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        },
+        {
+          "pmid": "41421280",
+          "title": "Madecassoside attenuated UVB irradiation-induced skin ferroptosis by targeting POR.",
+          "year": "2026",
+          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
+        },
+        {
+          "pmid": "40957858",
+          "title": "A Split-Face Randomized Study on the Efficacy of a Platinum-Liposome-Based Facial Mask Containing Soothing Ingredients f",
+          "year": "2025",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "bakuchiol",
+      "name_kr": "바쿠치올",
+      "name_en": "bakuchiol",
+      "category": "retinoid_alternative",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 6,
+        "T3": 0,
+        "unknown": 4
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 18.2,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41562471",
+          "title": "A Randomized Controlled Trial of the Genistein Plus Bakuchiol and Vitamins (GEN",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "41365395",
+          "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
+          "year": "2026",
+          "journal": "Fitoterapia"
+        },
+        {
+          "pmid": "40905519",
+          "title": "Bioretinoids from microalgae: Boosting retinol performance and tolerability.",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "spilanthol",
+      "name_kr": "스필란톨",
+      "name_en": "spilanthol",
+      "category": "anti_wrinkle",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 7,
+        "T3": 0,
+        "unknown": 18
+      },
+      "total_papers": 25,
+      "recent_papers": 25,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.9,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41819387",
+          "title": "Enhanced transdermal delivery of [6]-Gingerol via Co-Administration of Acmella oleracea and Zingiber officinale lipophil",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "41752454",
+          "title": "Botany, Ethnopharmacology, Phytochemistry, and Biological Activities of ",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        },
+        {
+          "pmid": "41061997",
+          "title": "Acmella uliginosa (Sw.) Cass hampers complete Freund's adjuvant-induced arthritis in rats by inhibiting the VEGF axis.",
+          "year": "2025",
+          "journal": "Fitoterapia"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "cysteamine",
+      "name_kr": "시스테아민",
+      "name_en": "Cysteamine",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 5
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.5,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "41601200",
+          "title": "The Role of the Cysteamine Dioxygenase (ADO) Gene in Atopic Dermatitis.",
+          "year": "2026",
+          "journal": "Acta dermato-venereologica"
+        },
+        {
+          "pmid": "41420622",
+          "title": "The efficacy of cysteamine as a melasma therapy: a systematic review of trial studies.",
+          "year": "2025",
+          "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42087526",
+          "title": "International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med",
+          "year": "2026",
+          "journal": "Journal of cosmetic dermatology"
+        },
+        {
+          "pmid": "41908499",
+          "title": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
+          "year": "2026",
+          "journal": "Case reports in dermatology"
+        },
+        {
+          "pmid": "41642146",
+          "title": "Efficacy and Safety of Cysteamine-Isobionic Amide Complex in the Treatment of Periorbital Hyperpigmentation.",
+          "year": "2026",
+          "journal": "Journal of drugs in dermatology : JDD"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "ectoin",
+      "name_kr": "엑토인",
+      "name_en": "Ectoin",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 6,
+        "T3": 0,
+        "unknown": 4
+      },
+      "total_papers": 10,
+      "recent_papers": 7,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 15.2,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "40742058",
+          "title": "Efficacy and safety of commercially available cosmetic perioperative skincare products for non-invasive energy-based dev",
+          "year": "2025",
+          "journal": "European journal of dermatology : EJD"
+        },
+        {
+          "pmid": "40709746",
+          "title": "Real World Case Series: Integrated Skincare With Advanced RGN-6 Serum.",
+          "year": "2025",
+          "journal": "Journal of cosmetic dermatology"
+        },
+        {
+          "pmid": "39222375",
+          "title": "Ectoin attenuates cortisone-induced skin issues by suppression GR signaling and the UVB-induced overexpression of 11β-HS",
+          "year": "2024",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "senolytics",
+      "name_kr": "세놀리틱스",
+      "name_en": "senolytics",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 5,
+        "T3": 0,
+        "unknown": 19
+      },
+      "total_papers": 25,
+      "recent_papers": 25,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 15.2,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "41730842",
+          "title": "Fisetin-Mediated Topical Modulation of Senescent Cells in Skin Improves Wound Healing Dynamics in Diabetic Mice.",
+          "year": "2026",
+          "journal": "Advances in wound care"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "41897518",
+          "title": "Polyphenol-Rich Extracts from ",
+          "year": "2026",
+          "journal": "Antioxidants (Basel, Switzerland)"
+        },
+        {
+          "pmid": "41471101",
+          "title": "A State-of-the-Art Overview on (Epi)Genomics and Personalized Skin Rejuvenating Strategies.",
+          "year": "2025",
+          "journal": "Pharmaceutics"
+        },
+        {
+          "pmid": "41471076",
+          "title": "Senotherapeutic Potential of Araliadiol in Senescent Human Dermal Fibroblasts: An In Vitro Study Using Three Senescence ",
+          "year": "2025",
+          "journal": "Pharmaceutics"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "alpha_arbutin",
+      "name_kr": "알파 아르부틴",
+      "name_en": "Alpha Arbutin",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41657122",
+          "title": "Cosmetic potential of Ganoderma lucidum (Reishi) extract in a topical cream formulation.",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
+        },
+        {
+          "pmid": "39943675",
+          "title": "Efficacy and Safety of a Topical Formulation Containing Trihydroxybenzoic Acid Glucoside and α-Arbutin, Applied Along Wi",
+          "year": "2025",
+          "journal": "Journal of cosmetic dermatology"
+        },
+        {
+          "pmid": "39860181",
+          "title": "",
+          "year": "2025",
+          "journal": "Molecules (Basel, Switzerland)"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "beta_glucan",
+      "name_kr": "베타글루칸",
+      "name_en": "Beta-Glucan",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "41632999",
+          "title": "Yeast β-glucan accelerates diabetic wound healing via macrophage polarization and anti-inflammatory modulation.",
+          "year": "2026",
+          "journal": "Burns : journal of the International Society for Burn Injuries"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "41881222",
+          "title": "Sustainable valorization of waste biomass for β-glucan production: Key technologies, quality control and future prospect",
+          "year": "2026",
+          "journal": "International journal of biological macromolecules"
+        },
+        {
+          "pmid": "41750354",
+          "title": "Intranasal Resveratrol Plus Carboxymethyl-β-Glucan: A Promising Option in Clinical Practice.",
+          "year": "2026",
+          "journal": "Biomolecules"
+        },
+        {
+          "pmid": "41462638",
+          "title": "Dual Antioxidant Activity: Preventive and Scavenger Effects of Wild and Cultivated ",
+          "year": "2025",
+          "journal": "Antioxidants (Basel, Switzerland)"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "rice_bran",
+      "name_kr": "쌀겨",
+      "name_en": "Rice Bran",
+      "category": "natural",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42028061",
+          "title": "Cutaneous delivery of bioactive components from a rice bran oil nanoemulsion and their biodistribution in porcine and hu",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics: X"
+        },
+        {
+          "pmid": "41510130",
+          "title": "Exploring bioactive and nutritional profiles in plant-based milk alternatives from green rice (Khao Dawk Mali 105) and i",
+          "year": "2026",
+          "journal": "Food chemistry: X"
+        },
+        {
+          "pmid": "41439609",
+          "title": "An Innovative Formula for Keratosis Pilaris Treatment-A Randomized Controlled Study Based on the \"Exfoliation-Dissolutio",
+          "year": "2026",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "beef_tallow",
+      "name_kr": "비프 탈로우",
+      "name_en": "Beef Tallow",
+      "category": "moisturizer",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 6,
+        "T3": 0,
+        "unknown": 4
+      },
+      "total_papers": 10,
+      "recent_papers": 6,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.2,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41312576",
+          "title": "Beef Tallow-Based Skincare Claims in Social Media: A Cross-Sectional Analysis.",
+          "year": "2025",
+          "journal": "Journal of cosmetic dermatology"
+        },
+        {
+          "pmid": "40449396",
+          "title": "Frying characteristics of beef tallow as a potential alternative for intermittent deep-fat frying.",
+          "year": "2025",
+          "journal": "Food chemistry"
+        },
+        {
+          "pmid": "40015054",
+          "title": "Physicochemical analysis of beef tallow and its liquid fraction, comparing frying performance with high oleic acid rapes",
+          "year": "2025",
+          "journal": "Food chemistry"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "zinc_pca",
+      "name_kr": "징크 PCA",
+      "name_en": "Zinc PCA",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 8,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 8,
+      "recent_papers": 1,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.25,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "39778065",
+          "title": "A Cohort Clinical Study on the Efficacy of Topical Salicylic Acid/Piroctone Olamine Dandruff Pre-Gel and Cleanser in Imp",
+          "year": "2025",
+          "journal": "Journal of cosmetic dermatology"
+        },
+        {
+          "pmid": "35330623",
+          "title": "Facial Seborrheic Dermatitis in HIV-Seropositive Patients: Evaluation of the Efficacy and Safety of a Non-Steroidal Crea",
+          "year": "2022",
+          "journal": "Clinical, cosmetic and investigational dermatology"
+        },
+        {
+          "pmid": "33934474",
+          "title": "Treatment of cradle cap in infants with a new cosmetic non-steroidal gel cream: Clinical, laboratory, and instrumental e",
+          "year": "2021",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "azelaic_acid",
+      "name_kr": "아젤라산",
+      "name_en": "Azelaic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42087526",
+          "title": "International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med",
+          "year": "2026",
+          "journal": "Journal of cosmetic dermatology"
+        },
+        {
+          "pmid": "42079476",
+          "title": "Morbihan Disease May Induce Nonspecific Inflammatory of Extra-Facial Region: A Case Report and Literature Review.",
+          "year": "2026",
+          "journal": "Clinical, cosmetic and investigational dermatology"
+        },
+        {
+          "pmid": "41908499",
+          "title": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
+          "year": "2026",
+          "journal": "Case reports in dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "resveratrol",
+      "name_kr": "레스베라트롤",
+      "name_en": "Resveratrol",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42083968",
+          "title": "Nanotechnology-Based on Natural Medicines: A Promising Alternative for Psoriasis Management.",
+          "year": "2026",
+          "journal": "Current drug delivery"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42092661",
+          "title": "Alginate-based mucoadhesive nanofibrous system embedding resveratrol-loaded vesicles as a therapeutic platform for nasal",
+          "year": "2026",
+          "journal": "International journal of biological macromolecules"
+        },
+        {
+          "pmid": "41900812",
+          "title": "Next-Generation Minimally Invasive Anti-Aging Therapy: Incorporation of Resveratrol-Nicotinamide Cerosomes into PLGA Mic",
+          "year": "2026",
+          "journal": "Pharmaceutics"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "ginseng",
+      "name_kr": "인삼",
+      "name_en": "Ginseng",
+      "category": "natural",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42013945",
+          "title": "Evaluation of analytical buffers as alternatives to phosphate-buffered saline in diffusion studies with plant extracts u",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "41972275",
+          "title": "Enhanced Antiaging Effect of Fermented Ginseng through Biotransformation of Protopanaxadiol (PPD)-Type Ginsenosides to P",
+          "year": "2026",
+          "journal": "Journal of agricultural and food chemistry"
+        },
+        {
+          "pmid": "41900066",
+          "title": "Natural Extracts in Skin Repair and Wound Healing: Phytochemical Mechanisms and Dermopharmaceutical Perspectives.",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "squalane",
+      "name_kr": "스쿠알란",
+      "name_en": "Squalane",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 7,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.8,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "40722956",
+          "title": "The Mechanism of Protective Action of Plant-Derived Squalane (2,6,10,15,19,23-Hexamethyltetracosane) Against UVA Radiati",
+          "year": "2025",
+          "journal": "Antioxidants (Basel, Switzerland)"
+        },
+        {
+          "pmid": "40363772",
+          "title": "Squalane as a Promising Agent Protecting UV-Induced Inhibition of Collagen Biosynthesis and Wound Healing in Human Derma",
+          "year": "2025",
+          "journal": "Molecules (Basel, Switzerland)"
+        },
+        {
+          "pmid": "40037469",
+          "title": "Breaking the virus: Yeast glucans as an effective alternative to acyclovir in HSVI treatment.",
+          "year": "2025",
+          "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "ceramide",
+      "name_kr": "세라마이드",
+      "name_en": "Ceramide",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "41966446",
+          "title": "Tape strips capture immune and epidermal hyperplasia markers in the major orphan ichthyoses.",
+          "year": "2026",
+          "journal": "The Journal of investigative dermatology"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "41998807",
+          "title": "High Curl Pattern Hair and Scalp Care Considerations to Mitigate Seborrheic Dermatitis.",
+          "year": "2026",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "tranexamic_acid",
+      "name_kr": "트라넥삼산",
+      "name_en": "Tranexamic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42089980",
+          "title": "Is Local Tranexamic Acid Worth Using in Hair Transplantation? An Intrapatient Comparison.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "42082663",
+          "title": "Evaluation of the Safety and Efficacy of Tranexamic Acid Use in Blepharoplasty: A Systematic Review of Randomized Contro",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        }
+      ],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "caffeine",
+      "name_kr": "카페인",
+      "name_en": "Caffeine",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41901129",
+          "title": "Effects of Caffeine Ingestion on Morning Cognitive and Muscle Strength Measures in Males: A Standardized Approach.",
+          "year": "2026",
+          "journal": "Nutrients"
+        },
+        {
+          "pmid": "41754894",
+          "title": "Clinical Effectiveness of a Novel Caffeine Nano-Cream for Cellulite Reduction: A Randomised Double-Blind Trial.",
+          "year": "2026",
+          "journal": "Pharmaceutics"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "succinic_acid",
+      "name_kr": "호박산",
+      "name_en": "Succinic Acid",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "41757602",
+          "title": "Comparative analysis of chemical and physical cross-linking strategies for CMCs/Gelatin/PVA wound dressings: Balancing m",
+          "year": "2026",
+          "journal": "Journal of biomaterials applications"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "41039794",
+          "title": "Efficacy and Effectiveness of High Molecular Weight Non-Cross-Linked Hyaluronic Acid Plus Succinic Acid Mesotherapy in R",
+          "year": "2025",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "urea",
+      "name_kr": "우레아",
+      "name_en": "Urea",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42083326",
+          "title": "Microneedle-based injection of Fungizone/Amphotericin B: an effective treatment for American cutaneous leishmaniasis in ",
+          "year": "2026",
+          "journal": "Drug delivery"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42066554",
+          "title": "Defect-engineered Co-Fe",
+          "year": "2026",
+          "journal": "Food chemistry"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "allantoin",
+      "name_kr": "알란토인",
+      "name_en": "Allantoin",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41900878",
+          "title": "Gelatin/Ascorbic Acid Scaffolds for Controlled Release of Allantoin: A Fully Natural Approach for Skin Tissue Regenerati",
+          "year": "2026",
+          "journal": "Pharmaceutics"
+        },
+        {
+          "pmid": "41471121",
+          "title": "Thermosensitive Sprayable Lidocaine-Allantoin Hydrogel: Optimization and In Vitro Evaluation for Wound Healing.",
+          "year": "2025",
+          "journal": "Pharmaceutics"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "propolis",
+      "name_kr": "프로폴리스/로열젤리",
+      "name_en": "Propolis/Royal Jelly",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 9,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 10.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41470872",
+          "title": "Knowledge and Use of Bee Products in Lithuania.",
+          "year": "2025",
+          "journal": "Nutrients"
+        },
+        {
+          "pmid": "40070276",
+          "title": "Formulation and evaluation of alternative to beeswax for vegan lipsticks.",
+          "year": "2025",
+          "journal": "International journal of cosmetic science"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "pdrn",
+      "name_kr": "PDRN",
+      "name_en": "PDRN (Polydeoxyribonucleotide)",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 1
+      },
+      "total_papers": 1,
+      "recent_papers": 1,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.8,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "pdrn",
+      "name_kr": "PDRN",
+      "name_en": "polydeoxyribonucleotide",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 1
+      },
+      "total_papers": 1,
+      "recent_papers": 1,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.8,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "retinol",
+      "name_kr": "레티놀",
+      "name_en": "Retinol",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42025657",
+          "title": "Tailored dual release of retinol and salicylic acid from salicylate-based poly(anhydride-ester) microspheres with tunabl",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "glutathione",
+      "name_kr": "글루타치온",
+      "name_en": "Glutathione",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42075956",
+          "title": "Therapeutic Potential of Cysteine and Its Derivatives in Dermatology.",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "microbiome",
+      "name_kr": "마이크로바이옴/포스트바이오틱스",
+      "name_en": "Microbiome/Postbiotics",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41999161",
+          "title": "Postbiotic_Loaded Hyalurosome: Investigating Their Potential as Antimicrobial and Antioxidant Agents.",
+          "year": "2026",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "mugwort",
+      "name_kr": "쑥",
+      "name_en": "Mugwort",
+      "category": "natural",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "41964208",
+          "title": "Sunflower Seed-Induced Anaphylaxis With Immunoglobulin E Reactivity to 2S Albumins and Novel 60 kDa Antigen Identified b",
+          "year": "2026",
+          "journal": "The Journal of dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "spicule",
+      "name_kr": "스피큘",
+      "name_en": "Spicule",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 9,
+      "recent_papers": 7,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.38,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "41402578",
+          "title": "Topical delivery of Lidocaine using spicules for local anesthesia.",
+          "year": "2025",
+          "journal": "Drug delivery and translational research"
+        },
+        {
+          "pmid": "38954750",
+          "title": "Evaluation of the Recurrence Rate of Ingrown Toenail After a 45-Second Matrix Cauterization With Phenol.",
+          "year": "2024",
+          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
+        }
+      ],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "pha",
+      "name_kr": "PHA",
+      "name_en": "PHA (Polyhydroxy Acid)",
+      "category": "exfoliant",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 2
+      },
+      "total_papers": 5,
+      "recent_papers": 1,
+      "clinical_trials": 1,
+      "v_index": null,
+      "signal_score": 8.1,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "30270529",
+          "title": "Lactic and lactobionic acids as typically moisturizing compounds.",
+          "year": "2019",
+          "journal": "International journal of dermatology"
+        },
+        {
+          "pmid": "14756648",
+          "title": "The polyhydroxy acid gluconolactone protects against ultraviolet radiation in an in vitro model of cutaneous photoaging.",
+          "year": "2004",
+          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "39496132",
+          "title": "INDIVIDUAL ARTICLE: Real-World Clinical Experience With a Neuro-Peptide Serum in Combination With Botulinum Toxin Type-A",
+          "year": "2024",
+          "journal": "Journal of drugs in dermatology : JDD"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 10
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 8.0,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "exosome",
+      "name_kr": "엑소좀",
+      "name_en": "Exosome",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 10
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 8.0,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "silica",
+      "name_kr": "실리카",
+      "name_en": "Silica",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 10
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 8.0,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "idebenone",
+      "name_kr": "이데베논",
+      "name_en": "Idebenone",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 6,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 7.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "35604634",
+          "title": "Soluplus",
+          "year": "2022",
+          "journal": "Drug delivery and translational research"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "37313630",
+          "title": "LC-MS profiling-based non-targeted secondary metabolite screening for deciphering cosmeceutical potential of Malaysian a",
+          "year": "2023",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "copper_peptide",
+      "name_kr": "구리 펩타이드",
+      "name_en": "Copper Peptide",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 4,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 7.1,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "40876092",
+          "title": "Injectable amino-modified poly-L-lactic acid microspheres/hyaluronic acid-based hydrogel composites for soft tissue fill",
+          "year": "2026",
+          "journal": "Biomaterials advances"
+        },
+        {
+          "pmid": "19336143",
+          "title": "Using Aldara, copper peptide, and niacinamide for skin care.",
+          "year": "2004",
+          "journal": "Aesthetic surgery journal"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "29452017",
+          "title": "Fractional non-ablative laser-assisted drug delivery leads to improvement in male and female pattern hair loss.",
+          "year": "2018",
+          "journal": "Journal of cosmetic and laser therapy : official publication of the European Society for Laser Dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "egf_fgf",
+      "name_kr": "EGF/FGF (성장인자)",
+      "name_en": "EGF/FGF Growth Factor",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 2,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 1.7,
+      "signal_label": "⚪ 약함",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "36453854",
+          "title": "Jade material in vitro and in vivo: A study on the anti-inflammatory and repair efficacy of jade material on the skin.",
+          "year": "2023",
+          "journal": "International journal of cosmetic science"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "lha",
+      "name_kr": "LHA (카프릴로일살리실릭애씨드)",
+      "name_en": "LHA (Capryloyl Salicylic Acid)",
+      "category": "exfoliant",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 1,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 1.5,
+      "signal_label": "⚪ 약함",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "19146601",
+          "title": "Clinical tolerance and efficacy of capryloyl salicylic acid peel compared to a glycolic acid peel in subjects with fine ",
+          "year": "2008",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "vitamin_c_laa",
+      "name_kr": "비타민C (L-AA)",
+      "name_en": "Vitamin C L-Ascorbic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 1
+      },
+      "total_papers": 2,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 1.3,
+      "signal_label": "⚪ 약함",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "31353789",
+          "title": "Advances in dermatology using DNA aptamer \"Aptamin C\" innovation: Oxidative stress prevention and effect maximization of",
+          "year": "2020",
+          "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "green_tea_egcg",
+      "name_kr": "녹차 (EGCG)",
+      "name_en": "Green Tea EGCG",
+      "category": "natural",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 4
+      },
+      "total_papers": 5,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0.7,
+      "signal_label": "⚪ 약함",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "34684703",
+          "title": "Beneficial Effects of Green Tea EGCG on Skin Wound Healing: A Comprehensive Review.",
+          "year": "2021",
+          "journal": "Molecules (Basel, Switzerland)"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "high_aha",
+      "name_kr": "고농도 AHA",
+      "name_en": "High-concentration AHA",
+      "category": "exfoliant",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 0,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0,
+      "signal_label": "🔵 데이터 없음",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "phyto_retinol",
+      "name_kr": "식물성 레티놀",
+      "name_en": "Phyto-Retinol",
+      "category": "retinoid_alternative",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 0,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0,
+      "signal_label": "🔵 데이터 없음",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "cica_exosome",
+      "name_kr": "시카 엑소좀",
+      "name_en": "Cica-Exosome",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 0,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0,
+      "signal_label": "🔵 데이터 없음",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "polyglutamic_acid",
+      "name_kr": "폴리글루타민산 (PGA)",
+      "name_en": "Polyglutamic Acid (PGA)",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 0,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0,
+      "signal_label": "🔵 데이터 없음",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "volufiline",
+      "name_kr": "보르피린",
+      "name_en": "Volufiline",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 0,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0,
+      "signal_label": "🔵 데이터 없음",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "polyglutamic_acid",
+      "name_kr": "폴리글루타민산",
+      "name_en": "polyglutamic acid",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 0,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0,
+      "signal_label": "🔵 데이터 없음",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "heartleaf",
+      "name_kr": "어성초",
+      "name_en": "Heartleaf (Houttuynia)",
+      "category": "natural",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 1
+      },
+      "total_papers": 1,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": -0.2,
+      "signal_label": "⚪ 약함",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    }
+  ]
+}

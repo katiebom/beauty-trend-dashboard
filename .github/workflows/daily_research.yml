@@ -1,0 +1,76 @@
+name: Daily R&D Pipeline
+
+# 매일 한국 시간 새벽 6시 (KST = UTC+9 → UTC 21:00 전날)
+# 외출/Mac 꺼져 있어도 GitHub 클라우드에서 자동 실행
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 매일 UTC 21:00 = KST 06:00 (다음 날)
+  workflow_dispatch:        # 수동 실행 버튼 (Actions 탭에서)
+
+# 동시 실행 방지
+concurrency:
+  group: daily-research
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # data/ 결과 파일 commit 위해
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run R&D pipeline (--research)
+        env:
+          # sheets_client는 GOOGLE_CREDENTIALS 환경변수(JSON 문자열) 직접 사용
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          # 옵션
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: |
+          python collect/run_collector.py --research
+        continue-on-error: true   # 일부 실패해도 commit 진행
+
+      - name: Commit data updates
+        if: always()
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add data/ -f 2>/dev/null || true
+          # 변경 있을 때만 commit
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Daily research $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "변경 없음 — commit 스킵"
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### 📊 일일 실행 요약" >> $GITHUB_STEP_SUMMARY
+          echo "- 실행: $(date -u)" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/executive_brief/latest.json ]; then
+            echo "- ✅ Executive Brief 갱신" >> $GITHUB_STEP_SUMMARY
+            python -c "import json; d=json.load(open('data/executive_brief/latest.json')); print(f\"- KPI: 추적 {d['kpi'].get('total_tracked',0)} | 임박 {d['kpi'].get('imminent',0)} | Pioneer {d['kpi'].get('pioneer',0)}\")" >> $GITHUB_STEP_SUMMARY
+          fi

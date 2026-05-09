@@ -1,0 +1,172 @@
+# 3-Tier Journal Classification — 화장품 성분 흐름 추적
+# ─────────────────────────────────────────────────────────────────
+# T1: Medical / Medical Aesthetic — 의료·시술용 (12~24개월 후 derma 진입)
+# T2: Skinceutical / Dermocosmetic — 더마코스메틱 (6~12개월 후 매스 진입)
+# T3: Mass Cosmetic — 일반 화장품/소비재
+# ─────────────────────────────────────────────────────────────────
+# 매칭: PubMed 결과의 'journal' 필드를 lowercase 부분일치
+# 우선순위: T1 → T2 → T3 → unknown (Gemini 보강)
+# ─────────────────────────────────────────────────────────────────
+
+T1_medical_aesthetic:
+  description: "의료·시술용 — 시술 클리닉, 외과/피부과 처방 영역. 신성분의 가장 빠른 진입 지점."
+  keywords:
+    - "aesthetic surg"
+    - "aesthet plast"
+    - "aesthetic plastic"
+    - "dermatologic surg"
+    - "dermatol surg"
+    - "lasers surg"
+    - "lasers med sci"
+    - "lasers in medical"
+    - "plastic and reconstr"
+    - "plast reconstr"
+    - "plast surg"
+    - "facial plast"
+    - "annals of dermatol"
+    - "j am acad dermatol"
+    - "jaad"
+    - "br j dermatol"
+    - "british journal of dermatology"
+    - "j invest dermatol"
+    - "investigative dermatology"
+    - "j eur acad dermatol"
+    - "jeadv"
+    - "dermatologic therapy"
+    - "j cutan aesthet surg"
+    - "clin exp dermatol"
+    - "j drugs dermatol"
+    - "regen med"
+    - "regenerative medicine"
+    - "stem cell"
+    - "wound repair regen"
+    - "wound healing"
+    - "burns"                     # 화상/회복
+    - "international wound j"
+    - "advances in wound care"
+    - "tissue eng"                # Tissue Engineering
+    - "biomaterials"              # 시술용 생체재료
+    - "drug deliv"                # 외용 약물전달 (microneedle 등)
+    - "j drug target"
+    - "mol pharm"
+    - "acta dermato"              # Acta Dermato-Venereologica
+    - "skin appendage"
+    - "international journal of dermatology"
+    - "indian j dermatol"
+    - "j dtsch dermatol"          # JDDG (독일)
+    - "actas dermo"               # Actas Dermo-Sifiliográficas
+    - "an bras dermatol"          # Brazilian Annals of Dermatology
+    - "j eur"
+
+T2_skinceutical_dermocosmetic:
+  description: "스킨수티컬·더마코스메틱 — Skinceuticals/La Roche-Posay/Avene 류. 의료~매스 중간."
+  keywords:
+    - "j cosmet dermatol"
+    - "journal of cosmetic dermatology"
+    - "skin pharmacol"
+    - "int j cosmet sci"
+    - "international journal of cosmetic"
+    - "skin res technol"
+    - "skin research"
+    - "photodermatol"
+    - "photoimmunology"
+    - "clin cosmet investig dermatol"
+    - "cosmet invest dermatol"
+    - "j cosmet sci"
+    - "j cosmet laser ther"
+    - "cosmetic dermatology"
+    - "dermatol pract concept"
+    - "dermatology"
+    - "exp dermatol"
+    - "experimental dermatology"
+    - "molecules"                 # MDPI Molecules — 천연물/성분 화학
+    - "pharmaceutics"             # MDPI Pharmaceutics — 외용 제형
+    - "antioxidants"              # 항산화 성분
+    - "biomolecules"
+    - "nutrients"                 # 이너뷰티
+    - "j ethnopharmacol"          # 천연물 추출
+    - "phytother res"
+    - "phytomedicine"
+    - "fitoterapia"
+    - "j funct foods"             # 이너뷰티
+    - "food chem"                 # 식품유래 활성성분
+    - "nat prod res"
+
+T3_mass_cosmetic:
+  description: "매스 화장품·소비재 — 이미 일반 화장품 적용된 단계."
+  keywords:
+    - "cosmetics"                 # Cosmetics journal (MDPI)
+    - "j soc cosmet chem"
+    - "household and personal care"
+    - "personal care"
+    - "color technol"             # 색조 화장품
+    - "flavour fragr j"
+
+# ── 분류 우선순위 + Gemini fallback 설정 ─────────────────────────
+classification:
+  priority_order: ["T1_medical_aesthetic", "T2_skinceutical_dermocosmetic", "T3_mass_cosmetic"]
+  fallback_to_gemini: true       # 화이트리스트 매칭 실패 시 Gemini 1회 호출
+  gemini_batch_size: 20           # 분류 미정 논문 N개씩 묶어서 호출 (토큰 절감)
+
+# ── 시그널 스코어 가중치 (v2 — 튜닝됨) ─────────────────────────
+# 변경: 너무 많은 게 '임박'으로 분류되던 문제 해결
+# - recency 가중치 축소 (2.0→1.0): 최근 논문 가중 너무 컸음
+# - unknown 패널티 추가: 분류 안 된 논문은 시그널 약화
+# - 임계값 상향: imminent 12→20, emerging 7→12, nascent 3→6
+signal_scoring:
+  weights:
+    t1_paper_count: 1.5         # T1 가중 ↑ (medical→cosmetic 가장 빠른 흐름이 핵심)
+    t2_paper_count: 1.5
+    t3_paper_count: -1.0        # T3 진입 = 늦음 (페널티 ↑)
+    unknown_paper_count: -0.2   # ★ 신규: 분류 실패 논문은 약한 페널티
+    recency_2024_2026: 1.0      # 2.0→1.0 (너무 컸음)
+    has_clinical_trial: 2.0     # 1.5→2.0 (임상시험은 강한 신호)
+    v_index_low: 1.0
+  signal_thresholds:
+    imminent: 20   # 🔥 6mo  (was 12)
+    emerging: 12   # 🟡 12mo (was 7)
+    nascent: 6     # 🟢 24mo (was 3)
+
+# ── 추적할 신성분 후보 마스터 ────────────────────────────────────
+# (config/ingredients.yaml의 모든 성분이 자동 포함되며, 여기는 추가 후보)
+emerging_candidates:
+  - id: pdrn
+    name_kr: PDRN
+    name_en: "polydeoxyribonucleotide"
+    aliases: ["PDRN", "polynucleotide", "PN"]
+    category: regeneration
+    expected_origin: T1
+    pubmed_query: '"polydeoxyribonucleotide" OR "PDRN" OR "polynucleotide"'
+  - id: glp1_topical
+    name_kr: GLP-1 외용
+    name_en: "GLP-1 topical"
+    aliases: ["GLP-1", "glucagon-like peptide-1"]
+    category: anti_aging
+    expected_origin: T1
+    pubmed_query: '"GLP-1" AND (skin OR topical)'
+  - id: senolytics
+    name_kr: 세놀리틱스
+    name_en: "senolytics"
+    aliases: ["senolytic", "senescence"]
+    category: anti_aging
+    expected_origin: T1
+    pubmed_query: '"senolytic" AND skin'
+  - id: bakuchiol
+    name_kr: 바쿠치올
+    name_en: "bakuchiol"
+    category: retinoid_alternative
+    expected_origin: T2
+    pubmed_query: '"bakuchiol"'
+  - id: polyglutamic_acid
+    name_kr: 폴리글루타민산
+    name_en: "polyglutamic acid"
+    category: hydration
+    expected_origin: T2
+    pubmed_query: '"polyglutamic acid" AND skin'
+  - id: spilanthol
+    name_kr: 스필란톨
+    name_en: "spilanthol"
+    aliases: ["acmella oleracea"]
+    category: anti_wrinkle
+    expected_origin: T2
+    pubmed_query: '"spilanthol" OR "acmella oleracea"'

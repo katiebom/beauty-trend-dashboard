@@ -1,0 +1,160 @@
+{
+  "generated_at": "2026-05-09T18:20:41.569405",
+  "kpi": {
+    "total_tracked": 48,
+    "imminent": 1,
+    "pioneer": 6,
+    "differentiator": 12,
+    "claim_pass_rate": 50.0,
+    "concept_count": 5,
+    "active_clinical": 322,
+    "data_freshness": "very_stale",
+    "days_since_data": 12
+  },
+  "top_decisions": [
+    {
+      "type": "🚀 즉시 신제품",
+      "priority": "high",
+      "title": "시스테아민 — 시장 선점 (Pioneer)",
+      "rationale": "학술 시그널 강 (점수 16.5) + 상업 C1 (미점유) + 활성 임상 0건. 가장 큰 위협: Evenshade.",
+      "next_action": "R&D 6주 안에 컴플렉스 컨셉 → 시장 갭: 기미, 잡티 등 색소 침착 개선에 특화된 고농도 시스테아민 제품과 함께, 안정화 기술 및 사용 편의성 개선.",
+      "supporting_data": [
+        "emerging_signals",
+        "commercial_landscape",
+        "clinical_trials"
+      ],
+      "ingredient_id": "cysteamine"
+    },
+    {
+      "type": "⚡ 마케팅 강화",
+      "priority": "high",
+      "title": "세라마이드 — APLB 자산, 신호 폭발",
+      "rationale": "V-Index 76 (7일 변화 +14.2) + APLB 보유. 상업 C3.",
+      "next_action": "기존 라인 콘텐츠/광고 강화 + SNS 캠페인",
+      "supporting_data": [
+        "raw_trends",
+        "commercial_landscape"
+      ],
+      "ingredient_id": "ceramide"
+    },
+    {
+      "type": "💎 Black 프리미엄",
+      "priority": "medium",
+      "title": "세라마이드 Black 라인 신설",
+      "rationale": "포화 시장(C3) + APLB 보유 + 학술 점수 11.4. 매스 진입은 어렵지만 고농도/안정화 기술로 차별화.",
+      "next_action": "고농도 (예: 3~5x) + microfluidizer 안정화 → 5~10만원대 채널",
+      "supporting_data": [
+        "commercial_landscape",
+        "emerging_signals"
+      ],
+      "ingredient_id": "ceramide"
+    },
+    {
+      "type": "🌍 글로벌 출시",
+      "priority": "high",
+      "title": "클레임 PASS 컴플렉스 4개 글로벌 진출 검토",
+      "rationale": "QC PASS 4/8, PMID 100% 검증. 일부는 트리오 0건 = 세계 최초 클레임 가능.",
+      "next_action": "마케팅팀에 클레임 카드 전달 + 북미 채널(Sephora/Amazon) 진입",
+      "supporting_data": [
+        "aplb_claims"
+      ],
+      "complexes": [
+        "azelaic_peptide",
+        "collagen_pept_cen",
+        "retinol_vitamin_ce"
+      ]
+    }
+  ],
+  "weekly_changes": {
+    "biggest_gainers": [
+      [
+        "ectoin",
+        117.69999999999999
+      ],
+      [
+        "spicule",
+        89.6
+      ],
+      [
+        "allantoin",
+        65.10000000000001
+      ],
+      [
+        "exosome",
+        55.7
+      ],
+      [
+        "resveratrol",
+        26.8
+      ]
+    ],
+    "biggest_losers": [
+      [
+        "green_tea_egcg",
+        -78.6
+      ],
+      [
+        "cysteamine",
+        -35.5
+      ],
+      [
+        "zinc_pca",
+        -30.500000000000004
+      ],
+      [
+        "bakuchiol",
+        -8.0
+      ],
+      [
+        "squalane",
+        -7.699999999999996
+      ]
+    ]
+  },
+  "warning_signals": [
+    {
+      "type": "🔴 데이터 누락",
+      "msg": "V-Index 마지막 수집 12일 전 (2026-04-27). cron 점검 필요.",
+      "severity": "high"
+    },
+    {
+      "type": "🟠 클레임 위반 표현",
+      "msg": "REVISE 4개 — 한국 광고법 위반 표현(예방/치료 등) 수정 필요.",
+      "severity": "medium"
+    }
+  ],
+  "hot_topics": {
+    "imminent": [
+      {
+        "name_kr": "GLP-1 외용",
+        "score": 22.0
+      }
+    ],
+    "pioneer": [
+      {
+        "name_kr": "시스테아민"
+      },
+      {
+        "name_kr": "세놀리틱스"
+      },
+      {
+        "name_kr": "쌀겨"
+      }
+    ],
+    "ct_active": [
+      {
+        "name_kr": "트라넥삼산",
+        "active": 30
+      },
+      {
+        "name_kr": "우레아",
+        "active": 30
+      },
+      {
+        "name_kr": "레티놀",
+        "active": 30
+      }
+    ]
+  },
+  "ai_synthesis": "CSO님, 이번 주 APLB의 최우선 과제는 다음과 같습니다.\n\n*   **시스테아민 신제품 출시 준비:** 시장 선점 기회를 포착, 2주 내 출시 준비 완료.\n*   **세라마이드 마케팅 강화:** V-Index 상승세에 맞춰 1주 내 마케팅 캠페인 실행.\n*   **글로벌 출시 검토:** 클레임 PASS 컴플렉스 4개, 3주 내 글로벌 출시 가능성 최종 확정."
+}

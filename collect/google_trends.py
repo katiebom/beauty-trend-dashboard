@@ -15,12 +15,14 @@ import yaml
 import numpy as np
 from datetime import datetime, date
 from pytrends.request import TrendReq
+from pytrends.exceptions import TooManyRequestsError
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config.sheets_client import append_rows, TAB_RAW_TRENDS
 
 YAML_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "config", "ingredients.yaml")
 REQUEST_DELAY = 6
+MAX_RETRIES = 3
 
 
 def load_ingredients() -> list[dict]:
@@ -117,72 +119,101 @@ def calculate_v_index(weekly_values: list[float]) -> dict:
     }
 
 
-def collect_ingredient(pytrends: TrendReq, ingredient: dict, today: str) -> list[list]:
+def collect_ingredient(pytrends: TrendReq, ingredient: dict, today: str,
+                       geo: str = "", metric_prefix: str = "v_index") -> list[list]:
     rows = []
-    keywords = ingredient.get("google_keywords", [])
+    # US 수집 시 영어 키워드만 사용 (한국어 키워드 제외)
+    if geo == "US":
+        keywords = [kw for kw in ingredient.get("google_keywords", [])
+                    if not any("가" <= ch <= "힣" for ch in kw)]
+    else:
+        keywords = ingredient.get("google_keywords", [])
+
     if not keywords:
         return rows
 
     kw_batch = keywords[:5]
 
-    try:
-        # 5년 데이터 요청: YoY 계절성 계산을 위해
-        pytrends.build_payload(kw_batch, timeframe="today 5-y", geo="")
-        interest_df = pytrends.interest_over_time()
-
-        if interest_df.empty:
-            print(f"  [trends] 데이터 없음: {ingredient['id']}")
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            pytrends.build_payload(kw_batch, timeframe="today 5-y", geo=geo)
+            interest_df = pytrends.interest_over_time()
+            break  # 성공
+        except TooManyRequestsError:
+            wait = 30 * (2 ** (attempt - 1))  # 30s, 60s, 120s
+            print(f"  [trends] 429 Too Many Requests — {wait}s 대기 후 재시도 ({attempt}/{MAX_RETRIES})")
+            time.sleep(wait)
+            if attempt == MAX_RETRIES:
+                print(f"  [trends/{geo or 'global'}] 최대 재시도 초과: {ingredient['id']}")
+                return rows
+        except Exception as e:
+            print(f"  [trends/{geo or 'global'}] 오류 {ingredient['id']}: {e}")
             return rows
 
-        collected_at = datetime.now().isoformat(timespec="seconds")
+    if interest_df.empty:
+        print(f"  [trends/{geo or 'global'}] 데이터 없음: {ingredient['id']}")
+        return rows
 
-        for kw in kw_batch:
-            if kw not in interest_df.columns:
-                continue
-            values = interest_df[kw].tolist()
-            result = calculate_v_index(values)
+    collected_at = datetime.now().isoformat(timespec="seconds")
+    result = {}
 
-            # V-Index 최종값
-            rows.append([today, ingredient["id"], ingredient["name_kr"],
-                         "google_trends", "v_index", result["v_index"], collected_at])
-            # 세부 지표들
-            rows.append([today, ingredient["id"], ingredient["name_kr"],
-                         "google_trends", "velocity", result["velocity"], collected_at])
-            rows.append([today, ingredient["id"], ingredient["name_kr"],
-                         "google_trends", "log_absolute", result["log_absolute"], collected_at])
+    for kw in kw_batch:
+        if kw not in interest_df.columns:
+            continue
+        values = interest_df[kw].tolist()
+        result = calculate_v_index(values)
+
+        rows.append([today, ingredient["id"], ingredient["name_kr"],
+                     "google_trends", metric_prefix, result["v_index"], collected_at])
+        rows.append([today, ingredient["id"], ingredient["name_kr"],
+                     "google_trends", f"{metric_prefix}_velocity", result["velocity"], collected_at])
+        rows.append([today, ingredient["id"], ingredient["name_kr"],
+                     "google_trends", f"{metric_prefix}_log_absolute", result["log_absolute"], collected_at])
+        if metric_prefix == "v_index":
             rows.append([today, ingredient["id"], ingredient["name_kr"],
                          "google_trends", "yoy_ratio", result["yoy_ratio"], collected_at])
             rows.append([today, ingredient["id"], ingredient["name_kr"],
                          "google_trends", "is_seasonal", int(result["is_seasonal"]), collected_at])
 
+    if result:
+        geo_label = "US" if geo == "US" else "Global"
         seasonal_flag = "⚠️ 계절성 의심" if result.get("is_seasonal") else ""
-        print(f"  [trends] {ingredient['name_kr']} → "
-              f"V-Index: {result['v_index']} "
-              f"(velocity={result['velocity']}, log_abs={result['log_absolute']}, "
-              f"yoy={result['yoy_ratio']}) {seasonal_flag}")
-
-    except Exception as e:
-        print(f"  [trends] 오류 {ingredient['id']}: {e}")
+        print(f"  [{geo_label}] {ingredient['name_kr']} → "
+              f"{metric_prefix}: {result['v_index']} "
+              f"(velocity={result['velocity']}) {seasonal_flag}")
 
     return rows
 
 
 def run():
-    print("=== Google Trends 수집 시작 (v2) ===")
+    print("=== Google Trends 수집 시작 (v2 — Global + US) ===")
     ingredients = load_ingredients()
     today = date.today().isoformat()
-    pytrends = TrendReq(hl="en-US", tz=540, timeout=(10, 25), retries=2, backoff_factor=0.5)
+    pytrends = TrendReq(hl="en-US", tz=540, timeout=(10, 25))
 
     all_rows = []
+
+    # 1패스: Global
+    print("\n[1/2] Global 수집...")
     for i, ing in enumerate(ingredients):
-        print(f"[{i+1}/{len(ingredients)}] {ing['name_kr']} 수집 중...")
-        rows = collect_ingredient(pytrends, ing, today)
+        print(f"[{i+1}/{len(ingredients)}] {ing['name_kr']}...")
+        rows = collect_ingredient(pytrends, ing, today, geo="", metric_prefix="v_index")
+        all_rows.extend(rows)
+        if i < len(ingredients) - 1:
+            time.sleep(REQUEST_DELAY)
+
+    # 2패스: US
+    print("\n[2/2] US 수집...")
+    time.sleep(REQUEST_DELAY * 3)
+    for i, ing in enumerate(ingredients):
+        print(f"[{i+1}/{len(ingredients)}] {ing['name_kr']}...")
+        rows = collect_ingredient(pytrends, ing, today, geo="US", metric_prefix="v_index_us")
         all_rows.extend(rows)
         if i < len(ingredients) - 1:
             time.sleep(REQUEST_DELAY)
 
     if all_rows:
-        append_rows(TAB_RAW_TRENDS, all_rows)
+        append_rows(TAB_RAW_TRENDS, all_rows, dedup_source="google_trends")
         print(f"\n✅ Google Trends 수집 완료 — {len(all_rows)}행 저장")
     else:
         print("\n⚠️  저장된 데이터 없음")

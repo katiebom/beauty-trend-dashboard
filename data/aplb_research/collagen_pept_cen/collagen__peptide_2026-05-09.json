@@ -1,0 +1,181 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "peptide",
+  "query": "(\"collagen\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42097341",
+      "title": "Egg Yolk Oil Promotes Deep Second-Degree Burn Healing via Multiple Regulation and Annexin A1-Formyl peptide receptor 2 Axis Activation.",
+      "abstract": "Egg yolk oil (EYO) has been traditionally applied to treat skin fissures and burns. It has long been applied topically to promote wound healing and alleviate inflammation. Despite its extensive historical use and reported clinical benefits, the scientific basis and molecular mechanisms underlying its therapeutic effects, particularly in deep second-degree burn repair, remain insufficiently understood.",
+      "year": "2026",
+      "journal": "Journal of ethnopharmacology",
+      "authors": [
+        "Gao Xiao-Fa",
+        "Lin Zi-Bo",
+        "Wang Jun",
+        "Wu Shi-Jin",
+        "Li Huan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42097341/"
+    },
+    {
+      "pmid": "42087486",
+      "title": "Effectiveness and Safety of Recombinant Type III Humanized Collagen Solution Injection Combined With Collagen-III Multi-Peptide Serum in Improving Signs of Photoaging: A Prospective, Split-Face Controlled Clinical Trial.",
+      "abstract": "Skin aging is a multifactorial process involving the progressive deterioration of skin structure and function, marked by collagen degeneration, impairing the structural integrity of the dermis. Intradermal injection of recombinant type III humanized collagen (RhCol-III) solution is a promising anti-aging strategy through direct collagen replenishment, but its synergistic effects when combined with a collagen-III multi-peptide serum remain unexplored.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Qin Xiaolei",
+        "Zhai Jinlong",
+        "Liu Lingyan",
+        "Shu Hong",
+        "Zhu Lin"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Female",
+        "Prospective Studies",
+        "Injections, Intradermal",
+        "Middle Aged",
+        "Single-Blind Method",
+        "Male",
+        "Adult",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42087486/"
+    },
+    {
+      "pmid": "42081631",
+      "title": "Weight Loss and Its Impact on Soft Tissue.",
+      "abstract": "Rapid and intentional weight loss can result from bariatric surgery, pharmacologic agents such as glucagon-like peptide-1 receptor agonists, and intensive lifestyle changes. Although effective in lowering body weight, these interventions often produce broader physiologic effects. Patients may experience changes beyond size, including decreased skin firmness, muscle loss, and reduced bone density.",
+      "year": "2026",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Fathizadeh Sam",
+        "Palm Melanie D",
+        "Hooper Deirdre"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Weight Loss",
+        "Bariatric Surgery",
+        "Obesity",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42081631/"
+    },
+    {
+      "pmid": "42074746",
+      "title": "Effects of Glucagon-like Peptide-1 Receptor Agonists on Skin Homeostasis and Skin Aging Processes.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) is an incretin hormone involved in glucose regulation. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are widely used in the treatment of type 2 diabetes mellitus and obesity, as well as in cardiovascular risk reduction. Recent evidence suggests that GLP-1 receptors are expressed in cutaneous tissues; however, their role in skin homeostasis and aging remains insufficiently clarified. This review summarizes recent experimental and clinical studies examining the effects of GLP-1 receptor agonists on skin homeostasis, wound healing, regeneration, and aging processes. Experimental data indicate that GLP-1 RAs may promote wound healing through modulation of inflammatory pathways, enhancement of keratinocyte migration, improved microvascular perfusion, and support of fibroblast function. Antioxidant and cytoprotective mechanisms have also been described. Conversely, rapid weight loss associated with GLP-1 RA therapy has been linked to structural facial changes, including reduction in dermal white adipose tissue and decreased collagen synthesis, which may clinically resemble accelerated skin aging. Mechanistic findings suggest heterogeneous and pathway-dependent effects. Overall, the impact of GLP-1 receptor agonists on skin biology appears multifaceted, and further well-designed clinical studies are required to determine their precise dermatological implications.",
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Žaliukaitė Gabrielė",
+        "Lebbar Noura"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42074746/"
+    },
+    {
+      "pmid": "42057967",
+      "title": "Novel bioactive peptides targeting Keap1-Nrf2 interaction for combating UVA-induced skin aging: Computational discovery and experimental validation.",
+      "abstract": "Ultraviolet A (UVA)-induced skin aging poses a significant threat to skin health and aesthetics, yet effective and biosafe therapeutic interventions remain scarce. This study focused on identifying bioactive peptide inhibitors targeting the Kelch-like ECH-associated protein 1 (Keap1)-nuclear factor erythroid 2-related factor 2 (Nrf2) protein-protein interaction (PPI) to counteract UVA-induced skin aging. Using computational virtual screening, we identified two high-affinity, low-toxicity peptides, Seq1 and Seq3, which effectively activated the Nrf2-antioxidant response element (ARE) pathway. This activation led to the upregulation of antioxidant genes and significantly reduced oxidative stress. Additionally, these peptides inhibited the mitogen-activated protein kinase (MAPK) and nuclear factor kappa-B (NF-κB) signaling pathways, thereby reducing inflammation and suppressing the expression of matrix metalloproteinases (MMPs), key contributors to skin aging. ",
+      "year": "2026",
+      "journal": "Journal of pharmaceutical analysis",
+      "authors": [
+        "Guo Haiqiong",
+        "Sun Yueting",
+        "Shi Wenyu",
+        "Huang Rui",
+        "Zhi Xiaobei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42057967/"
+    },
+    {
+      "pmid": "42025772",
+      "title": "Dermal fibroblast-targeted trans-amplifying RNA nanotherapeutics for skin extracellular matrix regeneration.",
+      "abstract": "Skin regeneration is fundamentally governed by the fibroblast-extracellular matrix (ECM) axis, the disruption of which often drives collagen loss and structural deterioration in skin disorders. However, current interventions typically stimulate fibroblasts indirectly and often yields modest or short-lived outcomes. mRNA therapeutics hold the potential to replenish structural proteins but are limited by poor dermal delivery and transient expression. Here we report the development of dermal fibroblast targeted lipid nanoparticle (LNP) for delivery of trans-amplifying RNA (taRNA) encoding collagen to promote ECM regeneration. This strategy markedly enhanced fibroblast-selective RNA delivery and produced sufficient and durable collagen for up to 7 days following a single intradermal dose. In UVB-induced photoaging models, this collagen taRNA delivered by fibroblast targeted LNPs restored type I collagen deposition, normalized collagen I/III ratio, improved ECM organization, and reduced wrinkle formation. In skin wound models, taRNA nanotherapeutics accelerated wound closure, promoted fibroblast migration, and increased de novo collagen deposition. Histological and biochemical analyses confirmed robust tissue remodeling with minimal local or systemic toxicity. This approach holds promise in aesthetic dermatology and skin disorders.",
+      "year": "2026",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "authors": [
+        "Cui Hengqing",
+        "Hu Haijun",
+        "He Xidong",
+        "Cui Haiyan",
+        "Ni Qianqian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42025772/"
+    },
+    {
+      "pmid": "42025239",
+      "title": "A mesoporous iron single-atom nanozyme with cascade ROS scavenging and antibiotic/antimicrobial peptide co-delivery capabilities for bacterial infected wound healing.",
+      "abstract": "Bacterial infected inflammation is a major cause of delayed wound healing, and single antibacterial or anti-inflammatory strategies are often insufficient to address the complex infectious microenvironment. To overcome this limitation, we employed a dual-template strategy to construct a hollow-structured Fe single-atom nanozyme (Fe-mNC) with a hierarchical micro/mesoporous structure and further developed a nanozyme-based drug delivery system (FNMA) to achieve synergistic antibacterial and anti-inflammatory therapy. The introduction of mesoporous architecture significantly increased the specific surface area and mass-transfer efficiency while maintaining highly dispersed Fe-N",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Xu Jin",
+        "Song Haihan",
+        "Yin Can",
+        "Zhang Mengli",
+        "Ge Zihan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42025239/"
+    },
+    {
+      "pmid": "42007332",
+      "title": "Efficacy and safety of efruxifermin for patients with NASH/MASH: an updated systematic review and meta-analysis.",
+      "abstract": "Efruxifermin is a promising treatment for non-alcoholic steatohepatitis (NASH), now referred to as metabolic dysfunction-associated steatohepatitis (MASH). This meta-analysis aims to evaluate the efficacy and safety of efruxifermin in patients with NASH/MASH.",
+      "year": "2025",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Xiao Ya-Jun",
+        "Liu Xue-Ping",
+        "Zhang Yan-Ling",
+        "Cheng Yan",
+        "Tian Xiao-Li"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42007332/"
+    },
+    {
+      "pmid": "42004462",
+      "title": "Bioactive derivatives of the antimicrobial peptide esculentin-1a promote human dermal fibroblast migration and activate genes involved in early wound healing.",
+      "abstract": "Antimicrobial peptides (AMPs) are essential components of the innate immune system and have emerged as promising candidates against antibiotic-resistant infections. Beyond their antimicrobial activity, AMPs also play a crucial role in regulating tissue regeneration processes, including wound healing. Previous studies have shown that the frog skin-derived AMP, esculentin-1a(1-21) [Esc(1-21)], promotes wound healing by accelerating keratinocyte migration. Its derivative, esculentin-1a(1-21)-1c [Esc(1-21)-1c] has proven even more effective in facilitating wound closure in alveolar and bronchial epithelial cell monolayers. Given the essential role of dermal fibroblasts in skin regeneration, this study aimed to investigate the effects of Esc(1-21) and its two derivatives, Esc(1-21)-1c and [Aib",
+      "year": "2026",
+      "journal": "BBA advances",
+      "authors": [
+        "Cappiello Floriana",
+        "Grisard Eleonora",
+        "Traversa Alice",
+        "Ranieri Danilo",
+        "Mangoni Maria Luisa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42004462/"
+    },
+    {
+      "pmid": "41990694",
+      "title": "Construction of donkey skin fibroblast immortalized cell line and comparative analysis with primary cells.",
+      "abstract": "Ejiao, the traditional Chinese medicinal gelatin derived from donkey hide, faces sustainability challenges due to declining donkey populations and constraints on large-scale harvesting. We isolated primary dermal fibroblasts from donkey skin and generated an immortalized line by SV40 large T antigen transduction with puromycin selection. The immortalized cells preserved characteristic fibroblastic morphology while exhibiting enhanced proliferation, delayed senescence, and increased cell-cycle activity relative to primary fibroblasts. Transcriptomic profiling demonstrated enrichment of cell-cycle-related pathways after immortalization, whereas expression of collagen and other extracellular matrix-related genes remained largely consistent. Targeted LC-MS/MS analysis detected Ejiao-related collagen peptide fragments in culture supernatants from both primary and immortalized cells, supporting retention of relevant secretory functions. This study reports the first establishment of an immortalized donkey dermal fibroblast line that preserves fibroblastic features and provide a stable in vitro model for studying fibroblast biology, extracellular matrix metabolism, and skin-associated diseases. Detection of Ejiao-specific peptides further supports their potential as a proof-of-concept system for cell culture-based production of donkey-hide gelatin, addressing raw material scarcity and enabling sustainable applications in veterinary and pharmacological research.",
+      "year": "2026",
+      "journal": "Tissue & cell",
+      "authors": [
+        "Bao Shengye",
+        "Huang Zhihai",
+        "Liao Baosheng",
+        "Zhang Danchun",
+        "Sun Ying"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41990694/"
+    }
+  ],
+  "crawled_at": "2026-05-09T10:21:39.167192"
+}

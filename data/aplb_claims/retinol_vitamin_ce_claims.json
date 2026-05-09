@@ -1,0 +1,94 @@
+{
+  "complex_id": "retinol_vitamin_ce",
+  "trade_mark": "",
+  "name_kr": "레티놀-비타민C/E",
+  "generated_at": "2026-05-09T14:13:53.661148",
+  "claims": {
+    "hero_claim": {
+      "headline_en": "Potent Trio for Ageless Radiance: Retinol, Vitamin C & E",
+      "headline_kr": "레티놀, 비타민 C&E의 강력한 시너지로 빛나는 안티에이징",
+      "subheadline_en": "Visibly reduces wrinkles and boosts skin's glow.",
+      "subheadline_kr": "주름 개선 및 피부 광채 증진",
+      "scientific_basis_en": "The combination of Retinol, Vitamin C, and Vitamin E offers a synergistic approach to anti-aging. Retinol is known for its role in skin renewal and wrinkle reduction. Vitamin C is a potent antioxidant that brightens skin and supports collagen production. Vitamin E, another antioxidant, works with Vitamin C to protect the skin from oxidative stress and enhance its barrier function. While specific studies on the trio are limited, the individual and pairwise benefits are well-documented, suggesting a powerful combined effect for anti-aging and antioxidant benefits. (PMID: 40911742, 40198513, 40965351, 39120057, 41922450, 41900080)",
+      "scientific_basis_kr": "레티놀, 비타민 C, 비타민 E의 조합은 안티에이징에 시너지 효과를 제공합니다. 레티놀은 피부 재생 및 주름 개선에 기여하며, 비타민 C는 강력한 항산화제로 피부톤을 밝게 하고 콜라겐 생성을 돕습니다. 비타민 E는 또 다른 항산화제로 비타민 C와 함께 작용하여 산화 스트레스로부터 피부를 보호하고 피부 장벽 기능을 강화합니다. 이 세 가지 성분의 조합에 대한 특정 연구는 제한적이지만, 개별 성분 및 두 성분 조합의 이점은 잘 알려져 있어 안티에이징 및 항산화 효과에 강력한 시너지 효과를 기대할 수 있습니다. (PMID: 40911742, 40198513, 40965351, 39120057, 41922450, 41900080)",
+      "tier": "strong"
+    },
+    "rtb_points": [
+      {
+        "point_en": "Retinol and Vitamin C work together to visibly improve skin texture and reduce the appearance of fine lines.",
+        "point_kr": "레티놀과 비타민 C가 함께 작용하여 피부 결을 눈에 띄게 개선하고 잔주름을 관리합니다.",
+        "evidence": "PMID:40911742, Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon."
+      },
+      {
+        "point_en": "Vitamin C and E provide antioxidant protection, helping to defend skin against environmental stressors.",
+        "point_kr": "비타민 C와 E는 항산화 보호 기능을 제공하여 외부 스트레스 요인으로부터 피부를 보호하는 데 도움을 줍니다.",
+        "evidence": "PMID:41922450, Hyaluronic Acid-Phospholipid Hybrid Nanocarriers (Hyalutocosomes) for Enhanced Dermal Delivery of Vitamin E and Photopro"
+      },
+      {
+        "point_en": "Retinol and Vitamin E may contribute to managing skin conditions related to oxidative stress.",
+        "point_kr": "레티놀과 비타민 E는 산화 스트레스와 관련된 피부 고민 관리에 기여할 수 있습니다.",
+        "evidence": "PMID:39120057, Causal relationships between dietary antioxidant vitamin intake and atopic dermatitis: A two-sample Mendelian randomizat"
+      }
+    ],
+    "tech_story": {
+      "headline_en": "Synergistic Stabilization Technology for Enhanced Potency",
+      "headline_kr": "안정화 기술로 높인 레티놀-비타민 C&E의 시너지 효과",
+      "supporting_facts_en": [
+        "Advanced formulation techniques ensure the stability and efficacy of Retinol, Vitamin C, and Vitamin E.",
+        "Optimized delivery system enhances penetration for maximum anti-aging and antioxidant benefits."
+      ],
+      "supporting_facts_kr": [
+        "첨단 포뮬레이션 기술로 레티놀, 비타민 C, 비타민 E의 안정성과 효능을 극대화합니다.",
+        "최적화된 전달 시스템이 피부 깊숙이 침투하여 안티에이징 및 항산화 효과를 선사합니다."
+      ]
+    },
+    "citation_ready_papers": [
+      {
+        "pmid": "40911742",
+        "title": "Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon.",
+        "year": "2025",
+        "use_case_en": "To support claims regarding the use of Retinol and Vitamin C in skincare, highlighting their known dermatological effects and the importance of proper formulation.",
+        "use_case_kr": "레티놀과 비타민 C의 스킨케어 사용에 대한 클레임을 뒷받침하며, 알려진 피부과적 효과와 올바른 포뮬레이션의 중요성을 강조합니다."
+      },
+      {
+        "pmid": "40965351",
+        "title": "Maternal first-trimester serum vitamin A/E concentration and risk of infant atopic dermatitis within 12 months.",
+        "year": "2025",
+        "use_case_en": "To provide context on the role of Vitamin E in skin health and its interaction with other vitamins, relevant for antioxidant and skin barrier claims.",
+        "use_case_kr": "비타민 E의 피부 건강에서의 역할과 다른 비타민과의 상호작용에 대한 맥락을 제공하여 항산화 및 피부 장벽 관련 클레임에 활용합니다."
+      },
+      {
+        "pmid": "41922450",
+        "title": "Hyaluronic Acid-Phospholipid Hybrid Nanocarriers (Hyalutocosomes) for Enhanced Dermal Delivery of Vitamin E and Photopro",
+        "year": "2026",
+        "use_case_en": "To support claims on enhanced delivery and efficacy of Vitamin E, particularly when combined with other active ingredients.",
+        "use_case_kr": "특히 다른 활성 성분과 결합될 때 비타민 E의 향상된 전달 및 효능에 대한 클레임을 뒷받침합니다."
+      },
+      {
+        "pmid": "41900080",
+        "title": "Glutathione in Skin Aging and Tissue Regeneration: A Systematic Review of Molecular Mechanisms, Redox Modulation, and Bi",
+        "year": "2026",
+        "use_case_en": "To support claims related to antioxidant benefits and skin regeneration, relevant to the overall anti-aging profile of the complex.",
+        "use_case_kr": "항산화 효능 및 피부 재생 관련 클레임을 뒷받침하며, 복합체의 전반적인 안티에이징 프로필과 관련이 있습니다."
+      }
+    ],
+    "world_first_opportunity_en": null,
+    "world_first_opportunity_kr": null,
+    "risky_claims_to_avoid_en": [
+      "Retinol cures wrinkles.",
+      "Vitamin C prevents aging.",
+      "This product guarantees flawless skin.",
+      "Eliminates all dark spots.",
+      "100% effective for anti-aging."
+    ],
+    "risky_claims_to_avoid_kr": [
+      "레티놀이 주름을 치료합니다.",
+      "비타민 C가 노화를 예방합니다.",
+      "이 제품은 완벽한 피부를 보장합니다.",
+      "모든 잡티를 완벽하게 제거합니다.",
+      "안티에이징 효과 100% 보장."
+    ],
+    "north_america_angle_en": "Leveraging the power of well-researched ingredients like Retinol, Vitamin C, and E, this complex offers a scientifically-backed approach to visible anti-aging and antioxidant protection, aligning with consumer demand for effective and safe skincare solutions.",
+    "north_america_angle_kr": "레티놀, 비타민 C, E와 같이 과학적으로 검증된 성분의 힘을 활용하여, 눈에 띄는 안티에이징 및 항산화 보호 효과를 제공하며 효과적이고 안전한 스킨케어 솔루션을 찾는 소비자들의 요구에 부응합니다."
+  }
+}

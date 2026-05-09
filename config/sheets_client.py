@@ -23,9 +23,17 @@ SHEET_ID = os.getenv("GOOGLE_SHEET_ID")
 TAB_RAW_TRENDS = "raw_trends"
 TAB_MANUAL_INPUT = "manual_input"
 TAB_INGREDIENTS = "ingredients_master"
+TAB_RD_INSIGHTS = "rd_insights"
 
 
-def get_client() -> gspread.Client:
+_spreadsheet_cache: gspread.Spreadsheet | None = None
+
+
+def get_spreadsheet() -> gspread.Spreadsheet:
+    """인증 + Spreadsheet 객체를 프로세스 내에서 재사용 (API 호출 절약)."""
+    global _spreadsheet_cache
+    if _spreadsheet_cache is not None:
+        return _spreadsheet_cache
     creds_json = os.getenv("GOOGLE_CREDENTIALS")
     if not creds_json:
         raise EnvironmentError(
@@ -34,12 +42,9 @@ def get_client() -> gspread.Client:
         )
     creds_dict = json.loads(creds_json)
     creds = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
-    return gspread.authorize(creds)
-
-
-def get_spreadsheet() -> gspread.Spreadsheet:
-    client = get_client()
-    return client.open_by_key(SHEET_ID)
+    client = gspread.authorize(creds)
+    _spreadsheet_cache = client.open_by_key(SHEET_ID)
+    return _spreadsheet_cache
 
 
 def ensure_tabs_exist():
@@ -54,8 +59,9 @@ def ensure_tabs_exist():
         ],
         TAB_MANUAL_INPUT: [
             "date", "ingredient_id", "name_kr",
-            "tiktok_hashtag_views_M", "amazon_bsr_top_count",
-            "c_ratio_note", "manual_note"
+            "amazon_bsr_rank", "amazon_review_count", "sephora_new_launches",
+            "sephora_bestseller", "price_usd_top1",
+            "tiktok_hashtag_views_M", "c_ratio_note", "manual_note"
         ],
         TAB_INGREDIENTS: [
             "ingredient_id", "name_kr", "name_en",
@@ -72,10 +78,40 @@ def ensure_tabs_exist():
             print(f"[sheets] 탭 확인: {tab_name} (already exists)")
 
 
-def append_rows(tab_name: str, rows: list[list]):
-    """여러 행을 한 번에 추가 (배치)"""
+def append_rows(tab_name: str, rows: list[list], dedup_source: str | None = None):
+    """
+    여러 행을 한 번에 추가.
+    dedup_source 지정 시: 오늘 날짜 + 같은 source의 기존 행을 삭제 후 추가
+    → 같은 날 수집기를 재실행해도 중복 행 쌓이지 않음
+    """
     ss = get_spreadsheet()
     ws = ss.worksheet(tab_name)
+
+    if dedup_source and rows:
+        today = rows[0][0]  # 첫 행의 date 컬럼
+        existing = ws.get_all_values()
+        if len(existing) > 1:
+            header = existing[0]
+            try:
+                date_col = header.index("date")
+                source_col = header.index("source")
+            except ValueError:
+                date_col = source_col = None
+
+            if date_col is not None:
+                # 오늘 날짜 + 같은 source 행 번호 수집 (역순으로 삭제해야 행 번호 안 밀림)
+                to_delete = [
+                    i + 1  # 1-indexed (헤더=1)
+                    for i, row in enumerate(existing[1:], start=1)
+                    if len(row) > max(date_col, source_col)
+                    and row[date_col] == str(today)
+                    and row[source_col] == dedup_source
+                ]
+                for row_num in sorted(to_delete, reverse=True):
+                    ws.delete_rows(row_num)
+                if to_delete:
+                    print(f"  [sheets] 기존 {len(to_delete)}행 교체 (dedup: {dedup_source}, {today})")
+
     ws.append_rows(rows, value_input_option="USER_ENTERED")
 
 

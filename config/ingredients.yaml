@@ -9,10 +9,11 @@ ingredients:
     status: rising
     category: barrier
     replaces: [ceramide]           # 세라마이드 점유율 일부 흡수 중
+    tiktok_hashtags: ["ectoin", "ectoinskincare", "ectoincream"]
     google_keywords:
-      - "ectoin skincare"
-      - "ectoine cream"
-      - "ectoin 화장품"
+      - "ectoin serum"             # 구매 의도 검색어 우선
+      - "ectoin moisturizer skin barrier"
+      - "ectoine skincare"
     reddit_terms:
       - ectoin
       - ectoine
@@ -24,6 +25,7 @@ ingredients:
     name_en: Retinal
     status: rising
     category: retinoid
+    tiktok_hashtags: ["retinaldehyde", "retinal", "retinalskincare"]
     replaces: [retinol]            # 레티놀 전환 경로의 한 단계 앞 — 더 빠르고 덜 자극적
     relation_note: "레티놀보다 비타민A 전환 1단계 적음 (레티놀→레티날→레티노산)"
     google_keywords:
@@ -41,6 +43,7 @@ ingredients:
     name_en: Beef Tallow
     status: rising
     category: moisturizer
+    tiktok_hashtags: ["beeftallow", "beeftallowskincare", "ancestralskincare"]
     google_keywords:
       - "beef tallow skincare"
       - "tallow moisturizer"
@@ -55,12 +58,13 @@ ingredients:
   - id: pdrn
     name_kr: PDRN
     name_en: PDRN (Polydeoxyribonucleotide)
+    tiktok_hashtags: ["PDRN", "pdrnskincare", "salmondnaskin"]
     status: rising
     category: regeneration
     google_keywords:
-      - "PDRN skincare"
-      - "PDRN injection"
-      - "PDRN 스킨부스터"
+      - "PDRN serum skincare"      # 구매 의도 (injection 제거 — 시술 검색과 섞임)
+      - "salmon DNA serum"         # 소비자 실제 사용 검색어
+      - "PDRN skin booster cream"
     reddit_terms:
       - PDRN
       - "polydeoxyribonucleotide"
@@ -71,12 +75,13 @@ ingredients:
   - id: exosome
     name_kr: 엑소좀
     name_en: Exosome
+    tiktok_hashtags: ["exosome", "exosomeserum", "exosomeskincare"]
     status: rising
     category: regeneration
     google_keywords:
-      - "exosome serum skincare"
-      - "exosome skin treatment"
-      - "엑소좀 세럼"
+      - "exosome serum"            # 소비자 구매 검색 (treatment 제거 — 의료 시술과 섞임)
+      - "plant exosome skincare"   # 홈케어 제품 특화 키워드
+      - "exosome face serum anti aging"
     reddit_terms:
       - exosome
       - "exosome serum"
@@ -103,6 +108,8 @@ ingredients:
   - id: vitamin_c_laa
     name_kr: 비타민C (L-AA)
     name_en: Vitamin C L-Ascorbic Acid
+    tiktok_hashtags: ["vitaminCserum", "ascorbicacid", "vitamincskincare"]
+    naver_keywords: ["비타민C 세럼", "비타민C 앰플", "아스코르빈산 화장품"]
     status: falling
     category: brightening
     replaced_by: [thd_ascorbate]    # 안정화 유도체로 이동 (추후 추가 예정)
@@ -121,6 +128,7 @@ ingredients:
   - id: high_aha
     name_kr: 고농도 AHA
     name_en: High-concentration AHA
+    naver_keywords: ["AHA 토너", "글리콜산 토너", "AHA 필링"]
     status: falling
     category: exfoliant
     replaced_by: [pha]             # 순한 각질 케어 수요가 PHA로 이동
@@ -191,6 +199,7 @@ ingredients:
   - id: copper_peptide
     name_kr: 구리 펩타이드
     name_en: Copper Peptide
+    tiktok_hashtags: ["copperpeptides", "ghkcu", "bluepeptide", "copperpeptideskincare"]
     status: rising
     category: anti_aging
     google_keywords:
@@ -222,6 +231,8 @@ ingredients:
   - id: egf_fgf
     name_kr: EGF/FGF (성장인자)
     name_en: EGF/FGF Growth Factor
+    tiktok_hashtags: ["egfserum", "growthfactorserum", "egfskincare"]
+    naver_keywords: ["EGF 세럼", "성장인자 스킨케어", "EGF 앰플"]
     status: rising
     category: anti_aging
     google_keywords:
@@ -238,6 +249,7 @@ ingredients:
   - id: phyto_retinol
     name_kr: 식물성 레티놀
     name_en: Phyto-Retinol
+    naver_keywords: ["식물성 레티놀", "바이오레티놀", "비건 레티놀"]
     status: watching
     category: retinoid_alternative
     replaces: [retinol]
@@ -274,12 +286,13 @@ ingredients:
   - id: tranexamic_acid
     name_kr: 트라넥삼산
     name_en: Tranexamic Acid
+    tiktok_hashtags: ["tranexamicacid", "tranexamic", "txaskincare"]
     status: rising
     category: brightening
     google_keywords:
       - "tranexamic acid serum"
-      - "tranexamic acid hyperpigmentation"
-      - "트라넥삼산 기미"
+      - "tranexamic acid dark spots"  # melasma 대신 소비자 실제 검색어
+      - "TXA brightening cream"
     reddit_terms:
       - "tranexamic acid"
       - "TXA skincare"
@@ -293,9 +306,9 @@ ingredients:
     status: rising
     category: brightening
     google_keywords:
-      - "glutathione skincare"
-      - "glutathione brightening"
-      - "글루타치온 미백"
+      - "glutathione serum skin"
+      - "glutathione brightening cream"  # 구매 의도 강화
+      - "glutathione skin lightening"
     reddit_terms:
       - glutathione
       - "glutathione skin whitening"
@@ -306,6 +319,7 @@ ingredients:
   - id: alpha_arbutin
     name_kr: 알파 아르부틴
     name_en: Alpha Arbutin
+    tiktok_hashtags: ["alphaarbutin", "alphaarbutinskincare", "arbutin"]
     status: watching
     category: brightening
     google_keywords:
@@ -386,6 +400,8 @@ ingredients:
   - id: propolis
     name_kr: 프로폴리스/로열젤리
     name_en: Propolis/Royal Jelly
+    tiktok_hashtags: ["propolisserum", "propolisskincare", "royaljellyskin"]
+    naver_keywords: ["프로폴리스 세럼", "프로폴리스 앰플", "로열젤리 크림"]
     status: watching
     category: barrier
     google_keywords:
@@ -419,6 +435,7 @@ ingredients:
   - id: lha
     name_kr: LHA (카프릴로일살리실릭애씨드)
     name_en: LHA (Capryloyl Salicylic Acid)
+    naver_keywords: ["LHA 토너", "카프릴로일살리실릭", "LHA 각질제거"]
     status: rising
     category: exfoliant
     replaces: [high_aha]
@@ -437,6 +454,7 @@ ingredients:
   - id: caffeine
     name_kr: 카페인
     name_en: Caffeine
+    naver_keywords: ["카페인 아이크림", "카페인 세럼 다크서클", "카페인 스킨케어"]
     status: watching
     category: pore_texture
     google_keywords:
@@ -453,6 +471,8 @@ ingredients:
   - id: zinc_pca
     name_kr: 징크 PCA
     name_en: Zinc PCA
+    tiktok_hashtags: ["zincpca", "zincpcaskincare", "sebumcontrol"]
+    naver_keywords: ["징크 PCA 세럼", "ZincPCA 화장품", "징크피씨에이"]
     status: rising
     category: pore_texture
     google_keywords:
@@ -490,8 +510,8 @@ ingredients:
     category: regeneration
     google_keywords:
       - "cica exosome serum"
-      - "시카 엑소좀"
-      - "exosome cica"
+      - "centella exosome skincare"  # 더 구체적 제품 검색어
+      - "exosome cica serum buy"
     reddit_terms:
       - "cica exosome"
       - "centella exosome"
@@ -501,6 +521,8 @@ ingredients:
   - id: microbiome
     name_kr: 마이크로바이옴/포스트바이오틱스
     name_en: Microbiome/Postbiotics
+    tiktok_hashtags: ["skinmicrobiome", "postbiotics", "microbiomeskincare"]
+    naver_keywords: ["마이크로바이옴 스킨케어", "포스트바이오틱스", "유산균 화장품"]
     status: rising
     category: barrier
     google_keywords:
@@ -541,6 +563,10 @@ ingredients:
       - "mugwort skincare"
       - "mugwort toner"
       - "쑥 스킨케어"
+    naver_keywords:
+      - "쑥 화장품"
+      - "쑥 앰플"
+      - "어성초 토너"
     reddit_terms:
       - mugwort
       - "mugwort toner"
@@ -551,6 +577,7 @@ ingredients:
   - id: rice_bran
     name_kr: 쌀겨
     name_en: Rice Bran
+    tiktok_hashtags: ["ricebranskincare", "ricewater", "riceextract"]
     status: watching
     category: natural
     google_keywords:
@@ -599,6 +626,7 @@ ingredients:
   - id: green_tea_egcg
     name_kr: 녹차 (EGCG)
     name_en: Green Tea EGCG
+    tiktok_hashtags: ["greenteaskincare", "egcg", "greenteaskin"]
     status: watching
     category: natural
     google_keywords:
@@ -617,6 +645,7 @@ ingredients:
   - id: polyglutamic_acid
     name_kr: 폴리글루타민산 (PGA)
     name_en: Polyglutamic Acid (PGA)
+    naver_keywords: ["폴리글루타민산 세럼", "PGA 보습제", "낫또 세럼"]
     status: rising
     category: hydration
     google_keywords:

@@ -1,0 +1,231 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "centella",
+  "query": "(\"collagen\"[Title/Abstract] AND \"centella\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "41964367",
+      "title": "The potential of plant-derived exosome-like nanovesicles from ",
+      "abstract": "This study aimed to isolate plant-derived exosome-like nanovesicles from ",
+      "year": "2026",
+      "journal": "Future science OA",
+      "authors": [
+        "Barlian Anggraini",
+        "Cho Youngkwan",
+        "Rahmah Yulia",
+        "Az Zahra Annisa Nurrahmi",
+        "Maulidisya Hanifa Azka"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41964367/"
+    },
+    {
+      "pmid": "41866921",
+      "title": "Therapeutic potential of ",
+      "abstract": "Endoscopic submucosal dissection (ESD) is the standard treatment for early gastrointestinal cancers but is often complicated by delayed healing and stenosis. Current therapies like proton pump inhibitors primarily suppress acid without actively promoting mucosal regeneration. ",
+      "year": "2026",
+      "journal": "Pharmaceutical biology",
+      "authors": [
+        "Li Qinghua",
+        "Chen Wangqi",
+        "Xie Yuxia",
+        "Zhu Hong"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Triterpenes",
+        "Animals",
+        "Endoscopic Mucosal Resection",
+        "Drug Delivery Systems",
+        "Centella"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41866921/"
+    },
+    {
+      "pmid": "41657731",
+      "title": "Evaluation of liposome",
+      "abstract": "Encapsulating herbal extracts with wound-healing properties in liposomes may enhance their stability and delivery performance. This study evaluated the biological efficacy of a liposome-encapsulated ethanolic extract of ",
+      "year": "2026",
+      "journal": "Frontiers in medical technology",
+      "authors": [
+        "Chonsut Piriya",
+        "Tawanwongsri Weeratian",
+        "Naphatthalung Jomkarn",
+        "Chokpaisarn Julalak",
+        "Charoensup Rawiwan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41657731/"
+    },
+    {
+      "pmid": "41574389",
+      "title": "Enhancing Wound Healing with a Novel Alginate/Eggshell Membrane-Based Hydrogel Enriched with Red Ginseng Roots and Centella Asiatica.",
+      "abstract": "Bridging ancient herbal wisdom with modern biomaterial innovation, this study pioneers a smart hydrogel infused with Red Ginseng (RG) (angiogenesis-boosting ginsenosides) and Centella asiatica (collagen-stimulating asiaticoside), synergized with alginate and upcycled eggshell membrane for unrivaled wound adhesion and eco-conscious design. Unlike conventional hydrogels, this bioactive synergy accelerates tissue regeneration while fighting antibiotic-resistant infections, thus opening up a new era of wound care inspired by nature.",
+      "year": "2026",
+      "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+      "authors": [
+        "Esmaeili Samaneh",
+        "Rahmati Majid",
+        "Salehi Majid",
+        "Yahaya Badrul Hisham",
+        "Zamani Sepehr"
+      ],
+      "mesh_terms": [
+        "Alginates",
+        "Animals",
+        "Hydrogels",
+        "Wound Healing",
+        "Panax",
+        "Triterpenes",
+        "Centella",
+        "Rats",
+        "Plant Roots",
+        "Egg Shell"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41574389/"
+    },
+    {
+      "pmid": "41559388",
+      "title": "Comparative Evaluation of Single and Combination Pharmacologic and Device-Based Anti-scar Therapies in a Murine Linear Wound Model.",
+      "abstract": "Scarring, a form of tissue fibrosis, is an unavoidable outcome of wound healing and can lead to cosmetic, functional, and psychological burdens. While both surgical and non-surgical treatments are available, non-invasive topical therapies are generally more acceptable to patients and easier to maintain over the long-term. Despite the availability of various anti-scar products targeting inflammation, hydration, and mechanical tension, there is a lack of comparative data on their individual and combined efficacy. Therefore, evidence-based guidance is needed to optimize scar prevention strategies.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Wang Yi",
+        "Guo Kai",
+        "Li Ying",
+        "Zhao Wan-Yi",
+        "Wu Zhang-Rui"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Cicatrix",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Wound Healing",
+        "Disease Models, Animal",
+        "Random Allocation",
+        "Female",
+        "Immunohistochemistry",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41559388/"
+    },
+    {
+      "pmid": "41516082",
+      "title": "Oral ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Choi Yean Jung",
+        "Cho Eun-Chae",
+        "Lim Seungtae",
+        "Lee Jaemin",
+        "Bae Jaewoo"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Skin Aging",
+        "Ultraviolet Rays",
+        "Antioxidants",
+        "Mice, Hairless",
+        "Plant Extracts",
+        "Mice",
+        "Centella",
+        "Triterpenes",
+        "Anti-Inflammatory Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41516082/"
+    },
+    {
+      "pmid": "41469630",
+      "title": "Wound healing activity of Sweetgum oil (Liquidambar orientalis L. balsam): characterization of its mechanism of action on HaCaT human keratinocyte cells and possible responsible active constituents.",
+      "abstract": "Sweetgum oil (Liquidambar orientalis Mill.; Styrax liquidus) is traditionally used in Turkey for wounds and burns, yet its cellular mechanisms remain unclear.",
+      "year": "2025",
+      "journal": "BMC complementary medicine and therapies",
+      "authors": [
+        "Yusuf Muhammed",
+        "Gökşen-Ekiz Burcu",
+        "Engür-Öztürk Selin",
+        "Dikmen Miriş",
+        "Levent Serkan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41469630/"
+    },
+    {
+      "pmid": "41421280",
+      "title": "Madecassoside attenuated UVB irradiation-induced skin ferroptosis by targeting POR.",
+      "abstract": "UVB exposure induces oxidative damage and accelerates skin photoaging. Madecassoside (MA), a triterpenoid saponin from Centella asiatica (L.) Urban, has antioxidant and anti-inflammatory properties, but its role in ferroptosis remains unclear.",
+      "year": "2026",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Liu Lingxia",
+        "Niu Pengxiang",
+        "Xiao Bo",
+        "Ma Haotian",
+        "Cui Yating"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ultraviolet Rays",
+        "Ferroptosis",
+        "Humans",
+        "Mice",
+        "Triterpenes",
+        "Skin",
+        "Reactive Oxygen Species",
+        "Antioxidants",
+        "Lipid Peroxidation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41421280/"
+    },
+    {
+      "pmid": "41045264",
+      "title": "Polyherbal formulations and phytosome-based delivery in diabetic wound healing: an integrative review.",
+      "abstract": "Diabetic foot ulcers are a global health concern due to their high prevalence, chronicity, risk of infection, and recurrence. Alternative therapy is necessary since clinical outcomes are poor despite prescribed treatments such as debridement, antibiotic medication, and revascularization. A growing number of researchers are looking at plant medicines as potential new adjuvant or supplementary treatments; the topic includes polyherbal preparations and innovative nanocarrier platforms. This review aims to evaluate the pharmacological action, formulation strategy, and translation potential of polyherbal formulations and phytosome-based drug delivery with a focus on their potential for use in DFU therapy. The anti-inflammatory, antioxidant, antibacterial, and pro-angiogenic effects of polyherbal formulations, including ",
+      "year": "2025",
+      "journal": "Journal of biomaterials science. Polymer edition",
+      "authors": [
+        "Chettupalli Ananda Kumar",
+        "Bukke Sarad Pawar Naik",
+        "Vardhan Jai",
+        "Yadhav Shika",
+        "Mamilla Mugaiahgari Bharath Kumar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41045264/"
+    },
+    {
+      "pmid": "41025315",
+      "title": "Transfersomal delivery of ",
+      "abstract": "This study presents the development and evaluation of ",
+      "year": "2025",
+      "journal": "Drug delivery",
+      "authors": [
+        "Lapmanee Sarawut",
+        "Bunwatcharaphansakun Phichaporn",
+        "Phongsupa Waleewan",
+        "Namdee Katawut",
+        "Suttisintong Khomson"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Mice",
+        "Triterpenes",
+        "Rats",
+        "RAW 264.7 Cells",
+        "Centella",
+        "Nanoparticles",
+        "Administration, Cutaneous",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41025315/"
+    }
+  ],
+  "crawled_at": "2026-05-09T10:21:44.103471"
+}

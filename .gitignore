@@ -1,12 +1,27 @@
-# 환경변수 / 인증 — 절대 GitHub에 올리면 안 됨
+# ─────────────────────────────────────────────────────────────
+# 보안 — 절대 GitHub에 올리면 안 됨
+# ─────────────────────────────────────────────────────────────
 .env
+.env.*
+.env.local
+.env.production
+.env.rtf
+*.rtf
+# 명시적 차단 (RTF API 메모 등)
+"네이버랩 api.rtf"
+api.rtf
+*api*.rtf
+*api*.txt
 service_account.json
-*.json
-
-# Streamlit 로컬 secrets
+credentials*.json
+*-secret*.json
 .streamlit/secrets.toml
+.beauty_dashboard_auth
+.claude/
 
+# ─────────────────────────────────────────────────────────────
 # Python
+# ─────────────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *.pyo
@@ -15,23 +30,71 @@ __pycache__/
 dist/
 build/
 .eggs/
+*.so
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
 
-# macOS
+# ─────────────────────────────────────────────────────────────
+# OS / IDE
+# ─────────────────────────────────────────────────────────────
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+.history/
 
-# 로그
+# ─────────────────────────────────────────────────────────────
+# 로그 (민감 정보 포함 가능)
+# ─────────────────────────────────────────────────────────────
 *.log
 logs/
 
+# ─────────────────────────────────────────────────────────────
 # 임시 파일
+# ─────────────────────────────────────────────────────────────
 *.tmp
 *.bak
-service_account.json
+*.old
+node_modules/
+
+# ─────────────────────────────────────────────────────────────
+# data/ — 일부만 추적 (Actions가 commit할 결과 파일들)
+# ─────────────────────────────────────────────────────────────
+# 추적함 (clean 결과):
+#   data/emerging_signals/latest.json
+#   data/commercial_landscape/latest.json
+#   data/clinical_trials/latest.json
+#   data/aplb_claims/*_claims.json
+#   data/aplb_concepts/latest.json
+#   data/executive_brief/latest.json
+#   data/tiktok_discovery_snapshot.json
+# 무시 (큰 캐시, 일자별 파일):
+data/research_cache/
+data/tiktok_discovery/
+data/aplb_claims/_last_raw_response.txt
+data/aplb_claims/_qc_report_*.json
+data/aplb_concepts/_last_raw_response.txt
+data/aplb_concepts/concepts_*.json
+data/commercial_landscape/landscape_*.json
+data/emerging_signals/signals_*.json
+data/clinical_trials/*_2*.json
+data/executive_brief/brief_*.json
+data/aplb_research/_summary_*.json
+data/aplb_research/*/TRIO_*.json
+data/aplb_research/*/glutathione*.json
+data/aplb_research/*/niacinamide*.json
+data/aplb_research/*/exosome*.json
+data/aplb_research/*/asiaticoside*.json
+data/aplb_research/*/madecassoside*.json
+
+# 대용량
+*.csv
+*.parquet
+*.h5
+*.pkl
+!config/*.csv
