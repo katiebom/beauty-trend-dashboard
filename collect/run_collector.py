@@ -186,6 +186,37 @@ def run_research(target_id=None):
     """
     print("\n── R&D 파이프라인 시작 ──")
 
+    # ★ 0/12 트렌드 지표 수집 (V-Index/N-Score/T-Score/ET-Index)
+    # — 매일 필수: 시계열·시그널·Executive Brief 모두 의존
+    if not target_id:
+        print("0a/12  Google Trends (V-Index)...")
+        try:
+            run_trends()
+        except Exception as e:
+            print(f"  ⚠️ Trends 실패: {e}")
+        print()
+
+        print("0b/12  Naver Trends (N-Score)...")
+        try:
+            run_naver()
+        except Exception as e:
+            print(f"  ⚠️ Naver 실패: {e}")
+        print()
+
+        print("0c/12  TikTok (T-Score)...")
+        try:
+            run_tiktok()
+        except Exception as e:
+            print(f"  ⚠️ TikTok 실패: {e}")
+        print()
+
+        print("0d/12  YouTube (ET-Index)...")
+        try:
+            run_et()
+        except Exception as e:
+            print(f"  ⚠️ YouTube 실패: {e}")
+        print()
+
     # 0/7 TikTok 신규 발굴 (target_id 없을 때만)
     if not target_id:
         print("0/7  TikTok 신규 성분 발굴...")

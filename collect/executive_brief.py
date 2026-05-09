@@ -409,7 +409,7 @@ def call_gemini_synthesis(decisions: list, warnings: list, hot: dict, kpi: dict)
     ])
     warnings_brief = "\n".join([f"- {w['type']}: {w['msg']}" for w in warnings[:3]])
 
-    prompt = f"""당신은 K-beauty 브랜드(APLB) CSO에게 보고하는 전략 애널리스트입니다.
+    prompt = f"""당신은 K-beauty 브랜드(APLB) CEO에게 보고하는 전략 애널리스트입니다.
 6개 데이터 소스를 종합하여, **이번 주 APLB가 우선순위로 해야 할 일**을 200자 이내로 작성하세요.
 
 ## KPI
