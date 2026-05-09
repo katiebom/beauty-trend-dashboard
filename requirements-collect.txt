@@ -1,0 +1,20 @@
+# ─────────────────────────────────────────────────────────────
+# 데이터 수집용 추가 의존성 (GitHub Actions / 로컬 cron)
+# Streamlit Cloud에는 불필요 (대시보드는 결과만 표시)
+# ─────────────────────────────────────────────────────────────
+
+# 모든 dashboard 의존성 포함
+-r requirements.txt
+
+# 외부 데이터 수집
+pytrends
+praw
+beautifulsoup4
+fake-useragent
+
+# Google APIs (수집용)
+google-api-python-client
+
+# 파일 처리
+openpyxl
+pdfplumber

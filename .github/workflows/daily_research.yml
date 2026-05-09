@@ -32,10 +32,10 @@ jobs:
           python-version: "3.11"
           cache: "pip"
 
-      - name: Install dependencies
+      - name: Install dependencies (collect 패키지 포함)
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements-collect.txt
 
       - name: Run R&D pipeline (--research)
         env:
