@@ -3262,6 +3262,7 @@ def view_ingredient_research():
         map_df = pd.DataFrame([{
             "성분명": f"{i['name_kr']}\n({i['name_en']})",
             "name_kr": i["name_kr"],
+            "name_en": i["name_en"],   # ★ APLB 보유 매칭용
             "논문 수": i["paper_count"],
             "성숙도": i["stage_code"],
             "단계": STAGE_META[i["stage_code"]]["label"],
