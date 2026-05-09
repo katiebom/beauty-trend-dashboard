@@ -1,0 +1,210 @@
+{
+  "ingredient_id": "ginseng",
+  "name_en": "Ginseng",
+  "name_kr": "인삼",
+  "category": "natural",
+  "query": "\"Ginseng\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42100332",
+      "title": "Immunomodulatory functions of ginsenosides in skin diseases: molecular mechanisms and therapeutic prospects.",
+      "abstract": "Ginsenosides, the primary bioactive constituents of ",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Yuan Donglin",
+        "Li Jiaxin",
+        "Wang Zian",
+        "Han Yu",
+        "Yu Xue"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42100332/"
+    },
+    {
+      "pmid": "42098749",
+      "title": "Research progress on the mechanisms of Panax ginseng and its active components in maintaining skin homeostasis and disease intervention.",
+      "abstract": "Panax ginseng (Panax ginseng C.A. Meyer) is a classic herbal medicine widely utilized in dermatological management, yet its precise therapeutic mechanisms have only recently begun to be fully elucidated. This review systematically synthesizes the pharmacological roles of ginseng's active components, including ginsenosides, polysaccharides, and gintonin, in maintaining skin homeostasis and treating various cutaneous pathologies. Emerging evidence suggests that the efficacy of ginseng extends beyond direct molecular interactions, exhibiting the distinct characteristics of \"indirect pharmacology.\" Specifically, parent ginsenosides function primarily as natural prodrugs that require microbial biotransformation into high-affinity active metabolites, such as Compound K and Rh2, to exert potent therapeutic effects. Functionally, these components regulate skin health by mobilizing endogenous host defense systems, particularly through the activation of the Nrf2/ARE antioxidant pathway and the suppression of inflammatory cascades via the NF-κB, MAPK, and IL-1 signaling networks. Furthermore, they remodel the systemic microenvironment through the gut-skin axis, facilitating metabolic homeostasis to improve skin barrier function. Notably, biotransformation rates and ultimate therapeutic efficacy are highly dependent on individualized variables, such as host age, dietary patterns, and baseline disease states. This systemic regulation has demonstrated robust efficacy in intervening in complex pathologies, including atopic dermatitis, psoriasis, and skin cancer. Additionally, this article addresses the translational bottleneck of low bioavailability and evaluates recent advances in novel skin delivery systems, specifically those utilizing ginseng-derived exosomes. Collectively, this review provides a scientific framework for understanding the systemic actions of ginseng, supporting its development as a precision botanical therapy for dermatological applications.",
+      "year": "2026",
+      "journal": "Chinese medicine",
+      "authors": [
+        "Ding Lu",
+        "Wang Zihan",
+        "Hou Nanqi",
+        "Zhou Yuchi",
+        "Qi Hongyu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42098749/"
+    },
+    {
+      "pmid": "42068621",
+      "title": "Herbal selaginella extract-derived carbon nanodots: A potential nano-therapeutic agent for atopic dermatitis.",
+      "abstract": "Atopic dermatitis (AD) is a chronic and relapsing inflammatory skin disorder with rising global prevalence. Current treatments such as corticosteroids and antibiotics often lead to side effects, drug resistance, and limited long-term safety. Natural compounds, including extracts from Selaginella, offer multi-targeted anti-inflammatory and antioxidant benefits but suffer from poor solubility and low bioavailability. To overcome these limitations, carbon nanodots using selaginella extract as the sole precursor (SSE-CDs) were synthesized. The SSE-CDs (2.5 ± 1.5 nm) possess abundant surface functional groups, negative surface charge and good enzyme-like activity. In vitro, SSE-CDs reduced reactive oxygen species, alleviated inflammation, and promoted proliferation in damaged HaCaT cells. In vivo, in an AD mouse model, SSE-CDs restored immune cell balance and normalized inflammatory cytokine expression. Mechanistic studies revealed that SSE-CDs inhibited phosphorylation of key proteins in the NF-κB and MAPK signaling pathways. Furthermore, a skincare lotion formulated with SSE-CDs showed therapeutic efficacy in an AD mouse model, suggesting its potential for dermatological applications. This study provides a preliminary demonstration of carbon nanodots as a promising anti-inflammatory strategy for AD management.",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Jiang Yingnan",
+        "Wen Zhihong",
+        "Wu Yue",
+        "He Xiaoyu",
+        "Tian Tenghui"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068621/"
+    },
+    {
+      "pmid": "42013945",
+      "title": "Evaluation of analytical buffers as alternatives to phosphate-buffered saline in diffusion studies with plant extracts using LC-MS detection.",
+      "abstract": "Diffusion studies are crucial for cosmetic and pharmaceutical formulation development to assess skin permeation of small molecules, often accessible via ultraviolet-visible (UV/Vis) absorption. For complex plant extracts, ultra high performance liquid chromatography/mass spectrometry (UHPLC/MS) has emerged as a predominant analytical tool. However, the commonly used phosphate-buffered saline (PBS) as physiological receptor fluid can affect LC-MS analysis by altering chromatographic performance and ionization efficiency. Alternative protocols for testing release and skin permeation of phytochemicals remain to be established. We therefore evaluated different buffer media at pH 7.4 (PBS according to European Pharmacopoeia, ammonium acetate 0.1 M, ammonium formate 0.15 M) for their suitability as acceptor fluids in release and permeation studies with cellulose acetate and porcine membranes. Korean red ginseng (KRG) extract was incorporated as model extract in three different formulation types (nanoemulsion, hydroalcoholic gel, amphiphilic cream). Storage stability was assessed via rheology and pH where required. Representative ginsenoside saponins Rb1 and Rg1 (logP 0.23 and 1.12) were quantified via UHPLC/MS. Interestingly, the results and differences between buffer media differed depending on membrane type. Drug release and permeation through the synthetic membrane varied among buffers for all vehicles (23.2-70.8 µg/cm",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Pfleger Tanja",
+        "Freyenschlag Nadine",
+        "Schmolz Jakob",
+        "Anzengruber Maria",
+        "Ortmayr Karin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Swine",
+        "Plant Extracts",
+        "Panax",
+        "Buffers",
+        "Chromatography, High Pressure Liquid",
+        "Drug Liberation",
+        "Skin Absorption",
+        "Diffusion",
+        "Hydrogen-Ion Concentration"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42013945/"
+    },
+    {
+      "pmid": "41972275",
+      "title": "Enhanced Antiaging Effect of Fermented Ginseng through Biotransformation of Protopanaxadiol (PPD)-Type Ginsenosides to PPD.",
+      "abstract": "Aging couples oxidative stress, inflammation, and leaky gut; ginsenosides are promising yet hobbled by poor conversion. We asked whether probiotic fermentation enriching PPD-type ginsenosides converts ginseng into a potent, low-dose antiaging agent. In D-galactose-aged mice, 20 mg/kg of probiotic-fermented ginseng (GFB) outperformed 600 mg/kg native ginseng: Rg3/Rg5/Rd and antioxidant capacity surged, cytokines fell, redox balance, barrier integrity, and youthful microbiota were restored. Plasma 20(S)-protopanaxadiol (PPD) increased 4-6-fold only in fermented-ginseng mice; PPD down-regulated barrier-destabilizing genes and docked stably into CC-chemokine receptor 6 (CCR6), suggesting a potential mechanism for blocking CCL20-driven chemotaxis. Thus, fermentation transforms ginseng into a food-grade, microbe-activated pro-drug that delivers systemic PPD, antagonizes CCR6, and simultaneously quells inflammation, seals the gut, and resets redox homeostasis for precision geroprotection.",
+      "year": "2026",
+      "journal": "Journal of agricultural and food chemistry",
+      "authors": [
+        "Huang Xingda",
+        "Li Jixiang",
+        "Naveed Muhammad",
+        "Wang Zijie",
+        "Du Xuxu"
+      ],
+      "mesh_terms": [
+        "Panax",
+        "Ginsenosides",
+        "Animals",
+        "Sapogenins",
+        "Mice",
+        "Fermentation",
+        "Male",
+        "Aging",
+        "Biotransformation",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41972275/"
+    },
+    {
+      "pmid": "41931217",
+      "title": "Pharmacological, Natural and Emerging Therapies for Meibomian Gland Dysfunction: A Review.",
+      "abstract": "Meibomian gland dysfunction (MGD) is a leading cause of non-aqueous deficient dry eye disease. Meibomian glands are responsible for the production of meibum, a lipid-rich secretion that coats the surface of the tear film, inhibiting evaporation of the underlying aqueous tear fluid. MGD can arise due to numerous extrinsic and intrinsic factors that drive changes in meibum quality or obstruction of gland orifices and can result in tear film instability, hyperosmolarity, epithelial damage and downstream ocular surface inflammation. Despite the high disease prevalence, management is not standardised, with a wide range of pharmacological and naturally derived therapies available. Potential pharmacological agents include anti-inflammatories (antibiotics, immunosuppressants and topical integrin antagonists), perfluorohexyloctane and topical aqueous secretagogues. Natural therapies that may offer suitable long-term solutions include oral dietary supplements (polyunsaturated fatty acids, astaxanthin, bilberry, Chinese herbal formulations and Korean red ginseng) and naturally derived topical formulations (castor oil, manuka honey, tea tree oil, coenzyme Q10 and green tea extract). The rising prevalence of MGD has led to the development of several novel therapeutic strategies, expanding the range of management options available to clinicians. A thorough examination should precede the initiation of treatment to identify underlying pathophysiology and guide targeted interventions. Treatment efficacy, duration and safety profiles must also be considered.",
+      "year": "2026",
+      "journal": "Drugs",
+      "authors": [
+        "Cooper Jordan M",
+        "Mahmoud Ryan",
+        "Jennings Catherine J",
+        "Bandamwar Kalika",
+        "Wang Michael T M"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Meibomian Gland Dysfunction",
+        "Meibomian Glands",
+        "Dry Eye Syndromes",
+        "Biological Products",
+        "Dietary Supplements",
+        "Anti-Inflammatory Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41931217/"
+    },
+    {
+      "pmid": "41900066",
+      "title": "Natural Extracts in Skin Repair and Wound Healing: Phytochemical Mechanisms and Dermopharmaceutical Perspectives.",
+      "abstract": "Skin repair and skin wound healing are tightly regulated biological processes that require coordinated control of inflammation, redox homeostasis, angiogenesis, and tissue remodelling. In this context, natural extracts are increasingly recognized as sources of chemically diverse phytochemicals capable of modulating defined molecular signalling pathways that govern cutaneous repair.",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Tertipi Niki",
+        "Grech Vasiliki Sofia",
+        "Sfyri Eleni",
+        "Andreou Eleni",
+        "Kefala Vasiliki"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Humans",
+        "Phytochemicals",
+        "Plant Extracts",
+        "Skin",
+        "Animals",
+        "Signal Transduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41900066/"
+    },
+    {
+      "pmid": "41788590",
+      "title": "Anti-skin aging effects of black ginseng extracts through regulating inflammatory factors and the CLOCK-ERK pathway in mice.",
+      "abstract": "Continuous light exposure can accelerate immunosenescence-like state. The increase of TNF-α and IL-1β impairs clock gene functions and circadian rhythm disorder contributes to the path of biological aging.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Huang Yufei",
+        "Wang Bing",
+        "Jin Yu",
+        "Qiu Mingling",
+        "Liu Jingyun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41788590/"
+    },
+    {
+      "pmid": "41788583",
+      "title": "Korean Red Ginseng attenuates glucocorticoid-induced skin barrier dysfunction via mineralocorticoid receptor modulation.",
+      "abstract": "The skin serves as a critical barrier that maintains physiological homeostasis while protecting the body from environmental insults. Glucocorticoids (GCs) are effective anti-inflammatory agents, but prolonged use can compromise skin barrier integrity. Mineralocorticoid receptors (MRs) play a key role in GC-induced skin barrier dysfunction, although cross-talk with glucocorticoid receptors (GRs). This study investigates the potential of Korean Red Ginseng (KRG) and its active component, 20(R)-ginsenoside Rg3 (Rg3(R)), in modulating MR-associated signaling and attenuate GC-induced skin barrier impairment.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Lee Jin Woo",
+        "Park No-June",
+        "Jung Yujung",
+        "Durai Prasannavenkatesh",
+        "Kim Yong Kee"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41788583/"
+    },
+    {
+      "pmid": "41788581",
+      "title": "Cellular and molecular regulation of skin by ginseng and its bioactive Constituents: A review of studies from 2021 to 2025.",
+      "abstract": "The skin functions as the first line of defense against external and internal stressors, containing pathogen invasion, ultraviolet (UV) radiation, and the loss of collagen and hydrogen, all of which could finally cause skin damage and cellular senescence. Over time, a large plenty of strategies, including herb therapies, have been developed to protect skin health. Ginseng is a well-known traditional herbal medicine that has been widely applied in various diseases. In recent years, ginseng and its bioactive compounds attracted increasing attention in dermatological and cosmeceutical research because of their modulatory effects on inflammation, melanogenesis, skin barrier function, and skin regeneration. Five years ago, a paper summarized the skin-protective properties and mechanisms of Korean Red Ginseng in different types of skin cells. Since then, another lustrum has passed, during which some new functions and insights related to ginseng in skin have been reported. Therefore, this paper reviews studies published over the past five years that investigate the effects and mechanisms of ginseng-derived compounds in keratinocytes, melanocytes, and fibroblasts. Moreover, the corresponding animal models are organized and discussed. This review provides an updated and structured reference to support future phytopharmacological and cosmeceutical development of ginseng-based studies for skin health.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "You Long",
+        "Hu Yeye",
+        "Zhang Zuo",
+        "Liu Xuan",
+        "Jin Lei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41788581/"
+    }
+  ],
+  "crawled_at": "2026-05-09T10:42:02.366401",
+  "source": "pubmed"
+}
