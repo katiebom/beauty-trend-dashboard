@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T10:44:56.875147",
+  "generated_at": "2026-05-09T22:00:48.002862",
   "kpi": {
     "total_tracked": 48,
     "imminent": 1,
@@ -8,8 +8,8 @@
     "claim_pass_rate": 0,
     "concept_count": 5,
     "active_clinical": 322,
-    "data_freshness": "very_stale",
-    "days_since_data": 12
+    "data_freshness": "fresh",
+    "days_since_data": 0
   },
   "top_decisions": [
     {
@@ -29,7 +29,7 @@
       "type": "⚡ 마케팅 강화",
       "priority": "high",
       "title": "세라마이드 — APLB 자산, 신호 폭발",
-      "rationale": "V-Index 76 (7일 변화 +14.2) + APLB 보유. 상업 C3.",
+      "rationale": "V-Index 92 (7일 변화 +15.7) + APLB 보유. 상업 C3.",
       "next_action": "기존 라인 콘텐츠/광고 강화 + SNS 캠페인",
       "supporting_data": [
         "raw_trends",
@@ -53,56 +53,50 @@
   "weekly_changes": {
     "biggest_gainers": [
       [
-        "ectoin",
-        117.69999999999999
+        "bakuchiol",
+        63.800000000000004
       ],
       [
-        "spicule",
-        89.6
+        "microbiome",
+        51.4
       ],
       [
-        "allantoin",
-        65.10000000000001
+        "cysteamine",
+        41.4
+      ],
+      [
+        "lha",
+        41.300000000000004
       ],
       [
         "exosome",
-        55.7
-      ],
-      [
-        "resveratrol",
-        26.8
+        39.39999999999999
       ]
     ],
     "biggest_losers": [
       [
-        "green_tea_egcg",
-        -78.6
+        "copper_peptide",
+        -64.7
       ],
       [
-        "cysteamine",
-        -35.5
+        "vitamin_c_laa",
+        -60.9
       ],
       [
-        "zinc_pca",
-        -30.500000000000004
+        "cica_exosome",
+        -57.6
       ],
       [
-        "bakuchiol",
-        -8.0
+        "mugwort",
+        -47.1
       ],
       [
-        "squalane",
-        -7.699999999999996
+        "resveratrol",
+        -23.9
       ]
     ]
   },
-  "warning_signals": [
-    {
-      "type": "🔴 데이터 누락",
-      "msg": "V-Index 마지막 수집 12일 전 (2026-04-27). cron 점검 필요.",
-      "severity": "high"
-    }
-  ],
+  "warning_signals": [],
   "hot_topics": {
     "imminent": [
       {
@@ -136,5 +130,5 @@
       }
     ]
   },
-  "ai_synthesis": "APLB CSO님, 이번 주 우선순위입니다.\n\n*   **시스테아민 신제품 출시 준비:** 시장 선점 기회 포착, Evenshade 위협 분석 및 대응 전략 수립 (2주 내 완료)\n*   **세라마이드 마케팅 강화:** V-Index 상승세 활용, APLB 보유 자산 기반 캠페인 실행 (즉시 착수)\n*   **데이터 누락 문제 해결:** V-Index 데이터 수집 오류 원인 파악 및 1주 내 재발 방지 시스템 구축"
+  "ai_synthesis": "APLB CEO님, 이번 주 최우선 과제는 다음과 같습니다.\n\n*   **시스테아민 신제품 출시 준비:** 시장 선점 기회인 시스테아민의 학술 시그널(16.5점) 및 상업적 잠재력(C1)을 고려하여, 2주 내 출시 준비 완료를 목표로 합니다. Evenshade의 위협에 대비한 차별화 전략을 강화해야 합니다.\n*   **세라마이드 마케팅 집중:** APLB의 핵심 자산인 세라마이드의 폭발적인 신호(V-Index 92, +15.7% 상승)를 활용하여, 1주 내 마케팅 캠페인을 즉시 강화합니다.\n*   **세라마이드 Black 라인 기획:** 포화 시장(C3)에서 차별화를 위해, 3주 내 고농도/안정화 기술을 강조한 세라마이드 Black 프리미엄 라인 출시를 기획합니다."
 }
