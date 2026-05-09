@@ -3641,9 +3641,46 @@ def view_aplb_marketing_claims():
 
     st.divider()
 
-    # ── 컴플렉스 선택 ─────────────────────────────────────────────
+    # ── 컴플렉스 선택 (Executive Brief에서 jump 시 자동 선택) ────
     cx_options = {f"{c.get('trade_mark') or c.get('name_kr')} ({c['id']})": c for c in all_complexes}
-    cx_label = st.selectbox("컴플렉스 선택", list(cx_options.keys()))
+    cx_keys = list(cx_options.keys())
+
+    # PASS 받은 컴플렉스 우선 정렬 + Executive Brief 점프 처리
+    pass_complexes = []
+    try:
+        qc_files = sorted(CLAIMS_DIR.glob("_qc_report_*.json"), reverse=True)
+        if qc_files:
+            qc = json.loads(qc_files[0].read_text(encoding="utf-8"))
+            pass_complexes = [r["complex_id"] for r in qc if "PASS" in r.get("grade", "")]
+    except Exception:
+        pass
+
+    # 정렬: PASS 우선 → 나머지
+    sorted_keys = sorted(cx_keys, key=lambda k: (
+        0 if cx_options[k]["id"] in pass_complexes else 1
+    ))
+
+    # Deep-link: Executive Brief에서 점프해 온 경우 해당 컴플렉스 자동 선택
+    default_idx = 0
+    jump_target = st.session_state.pop("jump_to_complex", None)
+    if jump_target:
+        for idx, k in enumerate(sorted_keys):
+            if cx_options[k]["id"] == jump_target:
+                default_idx = idx
+                break
+
+    # PASS 받은 항목에 ✅ 배지 표시
+    def _label(k):
+        cid = cx_options[k]["id"]
+        return f"✅ {k}" if cid in pass_complexes else k
+    display_keys = [_label(k) for k in sorted_keys]
+
+    if pass_complexes:
+        st.success(f"🎯 글로벌 출시 검토 가능한 PASS 컴플렉스 **{len(pass_complexes)}개** — 아래 ✅ 표시 항목")
+
+    selected_display = st.selectbox("컴플렉스 선택", display_keys, index=default_idx)
+    # 표시용 라벨에서 원본 키 복원
+    cx_label = sorted_keys[display_keys.index(selected_display)]
     cx = cx_options[cx_label]
     cx_id = cx["id"]
 
@@ -4970,8 +5007,18 @@ def view_executive_brief():
         </div>
         """, unsafe_allow_html=True)
 
-    # ── 3. TOP 의사결정 카드 ──────────────────────────────────
+    # ── 3. TOP 의사결정 카드 (페이지 deep-link 포함) ──────────
     st.markdown("### 📋 오늘의 의사결정 TOP")
+
+    # 결정 유형 → 이동할 페이지 매핑
+    NAV_MAP = {
+        "🚀 즉시 신제품": ("🏪 시장 경쟁 진단", "Pioneer 후보 + 브랜드 분석 보기"),
+        "⚡ 마케팅 강화": ("📈 시계열 분석", "V-Index 시계열 + AI 시사점 보기"),
+        "💎 Black 프리미엄": ("⚫ APLB Black 후보", "Black 라인 후보 + 임상 max 보기"),
+        "🌍 글로벌 출시": ("✨ APLB 마케팅 클레임", "PASS 클레임 카드 + 인용 논문 보기"),
+        "⛔ 회피/축소": ("🏪 시장 경쟁 진단", "포화 시장 경쟁 분석 보기"),
+    }
+
     decisions = brief.get("top_decisions", [])
     if not decisions:
         st.caption("의사결정 추출 데이터 부족. 더 많은 데이터 수집 후 재실행 필요.")
@@ -4979,14 +5026,17 @@ def view_executive_brief():
         priority_color = {"high":"#dc2626", "medium":"#f59e0b", "low":"#9ca3af"}
         for i, d in enumerate(decisions, 1):
             color = priority_color.get(d.get("priority", "low"), "#9ca3af")
+            d_type = d.get('type', '')
+            target_page, btn_label = NAV_MAP.get(d_type, (None, None))
+
             st.markdown(f"""
             <div style="background:#fff;border:1px solid #ececef;border-left:5px solid {color};
-                 border-radius:10px;padding:18px 22px;margin-bottom:12px;
+                 border-radius:10px;padding:18px 22px;margin-bottom:6px;
                  box-shadow:0 1px 3px rgba(0,0,0,0.03)">
               <div style="display:flex;justify-content:space-between;align-items:start;margin-bottom:8px">
                 <div>
                   <div style="font-size:0.72rem;color:#9ca3af;font-weight:700;
-                       letter-spacing:0.05em">#{i}  {d.get('type','')}</div>
+                       letter-spacing:0.05em">#{i}  {d_type}</div>
                   <div style="font-size:1.15rem;font-weight:700;color:#111;margin-top:2px">
                     {d.get('title','')}
                   </div>
@@ -5007,6 +5057,22 @@ def view_executive_brief():
               </div>
             </div>
             """, unsafe_allow_html=True)
+
+            # 페이지 deep-link 버튼
+            if target_page:
+                # ingredient_id 또는 complex가 있으면 미리 전달
+                ing_id = d.get("ingredient_id")
+                complexes = d.get("complexes", [])
+                btn_key = f"nav_btn_{i}"
+                if st.button(f"→ {btn_label}", key=btn_key, use_container_width=False):
+                    st.session_state["main_nav"] = target_page
+                    if ing_id:
+                        st.session_state["jump_to_ingredient"] = ing_id
+                    if complexes:
+                        st.session_state["jump_to_complex"] = complexes[0]
+                    st.rerun()
+
+            st.markdown("<div style='margin-bottom:12px'></div>", unsafe_allow_html=True)
 
     # ── 4. 주의 시그널 ────────────────────────────────────────
     warnings = brief.get("warning_signals", [])
