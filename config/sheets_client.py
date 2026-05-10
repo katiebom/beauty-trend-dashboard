@@ -8,6 +8,9 @@ import os
 import json
 import gspread
 from google.oauth2.service_account import Credentials
+from google.auth.transport.requests import AuthorizedSession
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -25,8 +28,24 @@ TAB_MANUAL_INPUT = "manual_input"
 TAB_INGREDIENTS = "ingredients_master"
 TAB_RD_INSIGHTS = "rd_insights"
 
+_REQUEST_TIMEOUT = 30  # seconds
 
 _spreadsheet_cache: gspread.Spreadsheet | None = None
+
+
+def _build_session(creds: Credentials) -> AuthorizedSession:
+    """타임아웃 + 재시도 설정이 적용된 AuthorizedSession 생성."""
+    retry = Retry(
+        total=3,
+        backoff_factor=1.5,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET", "POST", "PUT"],
+    )
+    session = AuthorizedSession(creds)
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    session.timeout = _REQUEST_TIMEOUT
+    return session
 
 
 def get_spreadsheet() -> gspread.Spreadsheet:
@@ -42,7 +61,8 @@ def get_spreadsheet() -> gspread.Spreadsheet:
         )
     creds_dict = json.loads(creds_json)
     creds = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
-    client = gspread.authorize(creds)
+    session = _build_session(creds)
+    client = gspread.Client(auth=creds, session=session)
     _spreadsheet_cache = client.open_by_key(SHEET_ID)
     return _spreadsheet_cache
 
