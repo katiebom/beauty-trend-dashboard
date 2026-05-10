@@ -27,6 +27,8 @@ TAB_RAW_TRENDS = "raw_trends"
 TAB_MANUAL_INPUT = "manual_input"
 TAB_INGREDIENTS = "ingredients_master"
 TAB_RD_INSIGHTS = "rd_insights"
+TAB_VOC_RAW = "voc_raw"
+TAB_VOC_INSIGHTS = "voc_insights"
 
 _REQUEST_TIMEOUT = 30  # seconds
 
@@ -87,6 +89,19 @@ def ensure_tabs_exist():
             "ingredient_id", "name_kr", "name_en",
             "status", "category", "added_date", "notes"
         ],
+        TAB_VOC_RAW: [
+            "collected_at", "sku_id", "name_kr", "channel",
+            "rating", "review_text", "reviewer_country",
+            "review_date", "review_id", "batch_date"
+        ],
+        TAB_VOC_INSIGHTS: [
+            "analyzed_at", "sku_id", "name_kr", "channel",
+            "review_count", "avg_rating",
+            "loves", "pains", "use_cases", "ingredient_mentions",
+            "rep_quotes_positive", "rep_quotes_negative",
+            "sentiment_positive", "sentiment_neutral", "sentiment_negative",
+            "key_insight"
+        ],
     }
 
     for tab_name, headers in tab_headers.items():
@@ -98,17 +113,42 @@ def ensure_tabs_exist():
             print(f"[sheets] 탭 확인: {tab_name} (already exists)")
 
 
-def append_rows(tab_name: str, rows: list[list], dedup_source: str | None = None):
+def append_rows(
+    tab_name: str,
+    rows: list[list],
+    dedup_source: str | None = None,
+    dedup_col: str | None = None,
+):
     """
     여러 행을 한 번에 추가.
-    dedup_source 지정 시: 오늘 날짜 + 같은 source의 기존 행을 삭제 후 추가
-    → 같은 날 수집기를 재실행해도 중복 행 쌓이지 않음
+    dedup_source: 오늘 날짜 + source 컬럼 기준 중복 제거 (기존 방식)
+    dedup_col:    지정 컬럼 값이 rows[0][col_idx]와 같은 기존 행 전체 삭제 후 추가
+                  → voc_raw의 batch_date 기반 재실행 중복 방지에 사용
     """
     ss = get_spreadsheet()
     ws = ss.worksheet(tab_name)
 
-    if dedup_source and rows:
-        today = rows[0][0]  # 첫 행의 date 컬럼
+    if dedup_col and rows:
+        existing = ws.get_all_values()
+        if len(existing) > 1:
+            header = existing[0]
+            try:
+                col_idx = header.index(dedup_col)
+                dedup_val = str(rows[0][col_idx])
+                to_delete = [
+                    i + 1
+                    for i, row in enumerate(existing[1:], start=1)
+                    if len(row) > col_idx and row[col_idx] == dedup_val
+                ]
+                for row_num in sorted(to_delete, reverse=True):
+                    ws.delete_rows(row_num)
+                if to_delete:
+                    print(f"  [sheets] 기존 {len(to_delete)}행 교체 ({dedup_col}={dedup_val})")
+            except ValueError:
+                pass
+
+    elif dedup_source and rows:
+        today = rows[0][0]
         existing = ws.get_all_values()
         if len(existing) > 1:
             header = existing[0]
@@ -119,9 +159,8 @@ def append_rows(tab_name: str, rows: list[list], dedup_source: str | None = None
                 date_col = source_col = None
 
             if date_col is not None:
-                # 오늘 날짜 + 같은 source 행 번호 수집 (역순으로 삭제해야 행 번호 안 밀림)
                 to_delete = [
-                    i + 1  # 1-indexed (헤더=1)
+                    i + 1
                     for i, row in enumerate(existing[1:], start=1)
                     if len(row) > max(date_col, source_col)
                     and row[date_col] == str(today)

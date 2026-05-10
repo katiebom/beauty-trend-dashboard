@@ -175,18 +175,42 @@ products:
     complex: "lipo_gluta_niac_cen"
     category: "cream"
     bestseller: true
+    voc_sources:
+      - channel: iherb
+        # iHerb 제품 페이지 URL 예시: https://www.iherb.com/pr/aplb-glutathione-niacinamide-facial-cream/XXXXX
+        # 실제 product_code는 URL 끝 숫자. iHerb에서 APLB 크림 검색 후 채워주세요.
+        product_code: ""
+        url: ""
+      - channel: yesstyle
+        # YesStyle 제품 페이지 URL 예시: https://www.yesstyle.com/en/aplb-glutathione-niacinamide-facial-cream/info.html/pid.XXXXXXX
+        product_id: ""
+        url: ""
   - id: "gluta_niac_serum"
     name_kr: "글루타치온 나이아신아마이드 앰플 세럼"
     complex: "lipo_gluta_niac_cen"
     category: "serum"
     bestseller: true
     review_count_note: "다크스팟 리뷰 수천 건"
+    voc_sources:
+      - channel: iherb
+        product_code: ""
+        url: ""
+      - channel: yesstyle
+        product_id: ""
+        url: ""
   - id: "gluta_niac_body_lotion"
     name_kr: "글루타치온 나이아신아마이드 바디 로션"
     complex: "lipo_gluta_niac_cen"
     category: "body"
     bestseller: true
     yesstyle_rank_note: "예스스타일 타임딜 상위"
+    voc_sources:
+      - channel: iherb
+        product_code: ""
+        url: ""
+      - channel: yesstyle
+        product_id: ""
+        url: ""
   - id: "gluta_niac_sunscreen"
     name_kr: "글루타치온 나이아신아마이드 선스크린"
     complex: "lipo_gluta_niac_cen"

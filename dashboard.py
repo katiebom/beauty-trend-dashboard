@@ -513,6 +513,7 @@ def sidebar():
         ("✨  APLB 전략", [
             "✨ APLB 마케팅 클레임",
             "⚫ APLB Black 후보",
+            "💬 VOC 리뷰 분석",
         ]),
         ("⚙️  시스템", [
             "⚙️ 지표 방법론",
@@ -5161,6 +5162,251 @@ def view_executive_brief():
     )
 
 
+# ── VOC 리뷰 분석 ──────────────────────────────────────────────────────────
+
+@st.cache_data(ttl=1800)
+def _load_voc_data() -> tuple[pd.DataFrame, pd.DataFrame]:
+    """voc_raw + voc_insights를 Sheets에서 로드."""
+    try:
+        from config.sheets_client import read_all, TAB_VOC_RAW, TAB_VOC_INSIGHTS
+        raw = read_all(TAB_VOC_RAW)
+        insights = read_all(TAB_VOC_INSIGHTS)
+        df_raw = pd.DataFrame(raw) if raw else pd.DataFrame()
+        df_ins = pd.DataFrame(insights) if insights else pd.DataFrame()
+        if not df_raw.empty and "rating" in df_raw.columns:
+            df_raw["rating"] = pd.to_numeric(df_raw["rating"], errors="coerce")
+        for col in ["sentiment_positive", "sentiment_neutral", "sentiment_negative", "avg_rating", "review_count"]:
+            if not df_ins.empty and col in df_ins.columns:
+                df_ins[col] = pd.to_numeric(df_ins[col], errors="coerce")
+        return df_raw, df_ins
+    except Exception as e:
+        st.warning(f"VOC 데이터 로드 실패: {e}")
+        return pd.DataFrame(), pd.DataFrame()
+
+
+def _voc_sentiment_bar(pos: float, neu: float, neg: float):
+    """감성 비율 시각화 — 가로 스택 바."""
+    total = pos + neu + neg
+    if total == 0:
+        return
+    pos_pct = round(pos / total * 100)
+    neu_pct = round(neu / total * 100)
+    neg_pct = 100 - pos_pct - neu_pct
+    st.markdown(
+        f"""
+        <div style="display:flex; height:10px; border-radius:6px; overflow:hidden; margin:6px 0 12px;">
+          <div style="flex:{pos_pct}; background:#22c55e;" title="긍정 {pos_pct}%"></div>
+          <div style="flex:{neu_pct}; background:#d1d5db;" title="중립 {neu_pct}%"></div>
+          <div style="flex:{neg_pct}; background:#f87171;" title="부정 {neg_pct}%"></div>
+        </div>
+        <div style="display:flex; gap:14px; font-size:0.72rem; color:#6b7280; margin-bottom:8px;">
+          <span>🟢 긍정 {pos_pct}%</span>
+          <span>⬜ 중립 {neu_pct}%</span>
+          <span>🔴 부정 {neg_pct}%</span>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+def view_voc_analysis():
+    st.title("💬 VOC 리뷰 분석")
+    st.caption("iHerb · YesStyle 리뷰 → Claude AI 자동 인사이트 | APLB Hero SKU")
+
+    df_raw, df_ins = _load_voc_data()
+
+    # ── 데이터 없을 때 온보딩 안내 ────────────────────────────────
+    if df_ins.empty:
+        st.info(
+            "아직 분석 데이터가 없습니다. 아래 순서로 수집·분석을 실행하세요.",
+            icon="📋",
+        )
+        st.markdown("""
+**Step 1 — 제품 URL 입력**
+`config/aplb_products.yaml` 의 hero SKU에 iHerb / YesStyle 제품 URL 입력:
+```yaml
+voc_sources:
+  - channel: iherb
+    product_code: "124835"   # URL 끝 숫자
+    url: "https://www.iherb.com/pr/aplb-.../124835"
+  - channel: yesstyle
+    product_id: "APLB123456"
+    url: "https://www.yesstyle.com/en/.../info.html/pid.APLB123456"
+```
+
+**Step 2 — 리뷰 수집**
+```bash
+python collect/voc_scraper.py
+# 특정 SKU만: python collect/voc_scraper.py --sku gluta_niac_serum
+# 테스트:     python collect/voc_scraper.py --dry-run
+```
+
+**Step 3 — Claude 분석**
+```bash
+python collect/voc_analyzer.py
+# 재분석:     python collect/voc_analyzer.py --force
+```
+""")
+        return
+
+    # ── 필터 ─────────────────────────────────────────────────────
+    col_f1, col_f2 = st.columns([2, 1])
+    with col_f1:
+        sku_options = ["전체"] + sorted(df_ins["sku_id"].unique().tolist())
+        sel_sku = st.selectbox("SKU", sku_options, key="voc_sku")
+    with col_f2:
+        ch_options = ["전체"] + sorted(df_ins["channel"].unique().tolist())
+        sel_ch = st.selectbox("채널", ch_options, key="voc_ch")
+
+    filt = df_ins.copy()
+    if sel_sku != "전체":
+        filt = filt[filt["sku_id"] == sel_sku]
+    if sel_ch != "전체":
+        filt = filt[filt["channel"] == sel_ch]
+
+    if filt.empty:
+        st.warning("선택 조건에 해당하는 분석 결과가 없습니다.")
+        return
+
+    # ── KPI 요약 ─────────────────────────────────────────────────
+    total_reviews = int(filt["review_count"].sum()) if "review_count" in filt.columns else 0
+    avg_r = filt["avg_rating"].mean() if "avg_rating" in filt.columns else 0
+    avg_pos = filt["sentiment_positive"].mean() if "sentiment_positive" in filt.columns else 0
+
+    k1, k2, k3, k4 = st.columns(4)
+    k1.metric("분석 리뷰", f"{total_reviews:,}건")
+    k2.metric("평균 별점", f"{avg_r:.1f} / 5.0")
+    k3.metric("긍정 비율", f"{avg_pos*100:.0f}%")
+    k4.metric("분석 SKU×채널", len(filt))
+
+    st.divider()
+
+    # ── SKU별 카드 ────────────────────────────────────────────────
+    for _, row in filt.iterrows():
+        sku_id = row.get("sku_id", "")
+        name_kr = row.get("name_kr", sku_id)
+        channel = row.get("channel", "")
+        rev_cnt = int(row.get("review_count", 0) or 0)
+        avg_rating = float(row.get("avg_rating", 0) or 0)
+        pos = float(row.get("sentiment_positive", 0) or 0)
+        neu = float(row.get("sentiment_neutral", 0) or 0)
+        neg = float(row.get("sentiment_negative", 0) or 0)
+        loves_raw = str(row.get("loves", ""))
+        pains_raw = str(row.get("pains", ""))
+        use_cases_raw = str(row.get("use_cases", ""))
+        ingredients_raw = str(row.get("ingredient_mentions", ""))
+        rep_pos_raw = str(row.get("rep_quotes_positive", ""))
+        rep_neg_raw = str(row.get("rep_quotes_negative", ""))
+        key_insight = str(row.get("key_insight", ""))
+        analyzed_at = str(row.get("analyzed_at", ""))[:10]
+
+        channel_emoji = "🛒" if channel == "iherb" else "🛍️"
+        channel_label = "iHerb" if channel == "iherb" else "YesStyle"
+        stars = "★" * round(avg_rating) + "☆" * (5 - round(avg_rating))
+
+        with st.expander(
+            f"{channel_emoji} **{name_kr}** — {channel_label}  |  {stars} {avg_rating:.1f}  |  {rev_cnt}건",
+            expanded=True,
+        ):
+            # 감성 바
+            _voc_sentiment_bar(pos, neu, neg)
+
+            # 핵심 인사이트
+            if key_insight:
+                st.markdown(
+                    f"<div style='background:linear-gradient(135deg,#fdf2f8,#f3e8ff);"
+                    f"border-left:3px solid #ec4899;padding:10px 14px;border-radius:8px;"
+                    f"font-size:0.88rem;color:#1a1a1f;margin-bottom:12px;'>"
+                    f"💡 <b>핵심 인사이트</b>: {key_insight}</div>",
+                    unsafe_allow_html=True,
+                )
+
+            c1, c2 = st.columns(2)
+            with c1:
+                # Loves
+                loves = [x.strip() for x in loves_raw.split("|") if x.strip()]
+                if loves:
+                    st.markdown("**💚 소비자가 좋아하는 점**")
+                    for item in loves:
+                        st.markdown(f"- {item}")
+
+                # Use cases
+                use_cases = [x.strip() for x in use_cases_raw.split("|") if x.strip()]
+                if use_cases:
+                    st.markdown("**🎯 주요 사용 용도**")
+                    for item in use_cases:
+                        st.markdown(f"- {item}")
+
+            with c2:
+                # Pains
+                pains = [x.strip() for x in pains_raw.split("|") if x.strip()]
+                if pains:
+                    st.markdown("**🔴 불만 / 개선 포인트**")
+                    for item in pains:
+                        st.markdown(f"- {item}")
+
+                # 성분 언급
+                ing_list = [x.strip() for x in ingredients_raw.split(",") if x.strip()]
+                if ing_list:
+                    st.markdown("**🧪 언급된 성분**")
+                    st.markdown(" ".join(
+                        f"<span style='background:#ede9fe;color:#5b21b6;padding:2px 8px;"
+                        f"border-radius:10px;font-size:0.75rem;'>{i}</span>"
+                        for i in ing_list[:8]
+                    ), unsafe_allow_html=True)
+
+            # 대표 인용문
+            rep_pos = [x.strip() for x in rep_pos_raw.split("|") if x.strip()]
+            rep_neg = [x.strip() for x in rep_neg_raw.split("|") if x.strip()]
+            if rep_pos or rep_neg:
+                st.markdown("**📣 대표 리뷰**")
+                q1, q2 = st.columns(2)
+                with q1:
+                    for q in rep_pos:
+                        st.markdown(
+                            f"<blockquote style='border-left:3px solid #22c55e;"
+                            f"padding:6px 10px;margin:4px 0;font-size:0.8rem;"
+                            f"color:#374151;background:#f0fdf4;border-radius:4px;'>"
+                            f"❝ {q} ❞</blockquote>",
+                            unsafe_allow_html=True,
+                        )
+                with q2:
+                    for q in rep_neg:
+                        st.markdown(
+                            f"<blockquote style='border-left:3px solid #f87171;"
+                            f"padding:6px 10px;margin:4px 0;font-size:0.8rem;"
+                            f"color:#374151;background:#fef2f2;border-radius:4px;'>"
+                            f"❝ {q} ❞</blockquote>",
+                            unsafe_allow_html=True,
+                        )
+
+            st.caption(f"분석일: {analyzed_at}")
+
+    # ── 원본 리뷰 탭 ─────────────────────────────────────────────
+    if not df_raw.empty:
+        st.divider()
+        with st.expander("📄 원본 리뷰 데이터 보기"):
+            raw_filt = df_raw.copy()
+            if sel_sku != "전체" and "sku_id" in raw_filt.columns:
+                raw_filt = raw_filt[raw_filt["sku_id"] == sel_sku]
+            if sel_ch != "전체" and "channel" in raw_filt.columns:
+                raw_filt = raw_filt[raw_filt["channel"] == sel_ch]
+
+            show_cols = [c for c in ["sku_id", "channel", "rating", "review_date",
+                                      "reviewer_country", "review_text"]
+                         if c in raw_filt.columns]
+            if show_cols:
+                st.dataframe(
+                    raw_filt[show_cols].sort_values("review_date", ascending=False)
+                    if "review_date" in show_cols else raw_filt[show_cols],
+                    use_container_width=True,
+                    height=350,
+                )
+
+    st.divider()
+    st.caption("갱신: `python collect/voc_scraper.py && python collect/voc_analyzer.py`")
+
+
 # ── 메인 ───────────────────────────────────────────────────────────
 def main():
     ingredients = load_ingredients_config()
@@ -5189,6 +5435,8 @@ def main():
         view_why_not_trending(ingredients, df_raw)
     elif view == "⚫ APLB Black 후보":
         view_aplb_black()
+    elif view == "💬 VOC 리뷰 분석":
+        view_voc_analysis()
     elif view == "⚙️ 지표 방법론":
         view_methodology()
     elif view == "📺 채널 관리":

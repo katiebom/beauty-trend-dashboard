@@ -12,6 +12,9 @@ praw
 beautifulsoup4
 fake-useragent
 
+# VOC 분석 (Claude API)
+anthropic>=0.40.0
+
 # Google APIs (수집용)
 google-api-python-client
 
