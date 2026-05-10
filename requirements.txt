@@ -1,28 +1,20 @@
 # ─────────────────────────────────────────────────────────────
-# Dashboard 최소 의존성 (Streamlit Cloud용)
-# 데이터 수집 패키지(pytrends, praw, pdfplumber 등)는
-# GitHub Actions에서만 사용 → 별도 requirements-collect.txt
+# Dashboard 전용 — Streamlit Cloud 검증된 조합
 # ─────────────────────────────────────────────────────────────
 
-# UI
-streamlit
-streamlit-authenticator
-bcrypt
+streamlit==1.40.0
+streamlit-authenticator==0.3.3
+bcrypt==4.2.0
 
-# 데이터 처리
-pandas
-numpy
-plotly
+pandas==2.2.3
+numpy==1.26.4
+plotly==5.24.1
 
-# Google Sheets
-gspread
-google-auth
+gspread==6.1.4
+google-auth==2.35.0
+google-genai==0.7.0
 
-# Gemini (AI 시사점)
-google-genai
-
-# 유틸
-pyyaml
-python-dotenv
-python-dateutil
-requests
+pyyaml==6.0.2
+python-dotenv==1.0.1
+python-dateutil==2.9.0.post0
+requests==2.32.3
