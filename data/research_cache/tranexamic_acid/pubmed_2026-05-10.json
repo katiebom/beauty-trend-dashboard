@@ -1,0 +1,179 @@
+{
+  "ingredient_id": "tranexamic_acid",
+  "name_en": "Tranexamic Acid",
+  "name_kr": "트라넥삼산",
+  "category": "brightening",
+  "query": "\"Tranexamic Acid\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42105927",
+      "title": "Clinical Considerations for Oral Tranexamic Acid in Melasma Treatment.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Younas Ambreen",
+        "Joshi Tejas P"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42105927/"
+    },
+    {
+      "pmid": "42093282",
+      "title": "[Determination of six whitening ingredients in cosmetics by ultra performance liquid chromatography coupled with photodiode array detector and corona charged aerosol detector].",
+      "abstract": "Whitening is a core function of cosmetics， and ingredients including acetyl glucosamine， tranexamic acid， nicotinamide， phenethyl resorcinol， glabridin， and ascorbyl tetraisopalmitate are widely used due to their clearly established whitening mechanisms. However， existing analytical methods face notable limitations： photodiode array detectors （PDA） cannot reliably detect weakly or non-ultraviolet （UV）-absorbing components； evaporative light scattering detectors （ELSD） suffer from inadequate sensitivity for low-concentration analytes； mass spectrometry （MS） is costly； and single-column cannot achieve the separation of ingredients with significantly different polarities. To address these challenges， this study established an analytical method for the determination of the six whitening ingredients in cosmetics using ultra performance liquid chromatography coupled with a photodiode array detector and a corona charged aerosol detector （UPLC-PDA-CAD）. For sample pretreatment： 0.2 g of sample was weighed， and 10 mL dichloromethane and 10 mL deionized water were added for vortex extraction of whitening ingredients. The mixture was then centrifuged for phase separation. The aqueous layer and dichloromethane layer were collected separately. The aqueous layer was washed twice with dichloromethane； all dichloromethane fractions were combined， concentrated to less than 1 mL under a nitrogen stream， and finally made up to volume with isopropanol. Both the aqueous layer and the reconstituted isopropanol solution were filtered through 0.22 μm hydrophilic polytetrafluoroethylene （PTFE） membranes before UPLC injection. For chromatographic separation， a Waters HSS T3 column （150 mm×2.1 mm， 1.7 μm） was selected. The column temperature was set at 40 ℃， the injection volume was 1 μL， and the flow rate was 0.3 mL/min. The mobile phase consisted of isopropanol， acetonitrile， and 20 mmol/L ammonium acetate solution （pH adjusted to 4.5 using formic acid）， using a gradient elution program. For detection， a tandem PDA-CAD system was used： PDA （scan range 200-400 nm） was employed for components with UV absorption， while CAD （nebulization temperature 35 °C， acquisition frequency 5 Hz） was used for components with weak UV absorption. Quantification was performed using the external standard method.Method validation results showed good linear relationships for all six whitening ingredients within their respective concentration ranges. The correlation coefficients （",
+      "year": "2026",
+      "journal": "Se pu = Chinese journal of chromatography",
+      "authors": [
+        "Li Xiaofang",
+        "Wang Ye",
+        "Fan Fan",
+        "Zhou Wei",
+        "Chen Bin"
+      ],
+      "mesh_terms": [
+        "Chromatography, High Pressure Liquid",
+        "Cosmetics",
+        "Aerosols",
+        "Skin Lightening Preparations"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42093282/"
+    },
+    {
+      "pmid": "42089980",
+      "title": "Is Local Tranexamic Acid Worth Using in Hair Transplantation? An Intrapatient Comparison.",
+      "abstract": "Excessive bleeding during donor area harvesting may impair surgical control and graft quality in hair transplantation. While adrenaline-based tumescent solutions are routinely used, the additional value of local tranexamic acid (TXA) in this setting remains unclear.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Akpınar Ümit",
+        "Çelik Mehmet Semih"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42089980/"
+    },
+    {
+      "pmid": "42082906",
+      "title": "Topical use of tranexamic acid for antifibrinolysis in cardiac surgery with cardiopulmonary bypass: a randomized clinical study.",
+      "abstract": "To assess the non-inferiority of topical intrapericardial tranexamic acid (TXA) versus intravenous TXA for efficacy and safety in patients undergoing cardiac surgery with cardiopulmonary bypass (CPB).",
+      "year": "2026",
+      "journal": "BMC anesthesiology",
+      "authors": [
+        "Tuerhong Dilnaar",
+        "Li Chen-Xi",
+        "Yan Lei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42082906/"
+    },
+    {
+      "pmid": "42082663",
+      "title": "Evaluation of the Safety and Efficacy of Tranexamic Acid Use in Blepharoplasty: A Systematic Review of Randomized Controlled Trials.",
+      "abstract": "TXA is garnering increasing attention for aesthetic periorbital procedures for its ability to reduce postoperative ecchymosis and bruising. The aim of this systematic review is to compile the current literature evidence on the effectiveness and safety of TXA in blepharoplasty.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "ElAbd Rawan",
+        "Richa Yasmina",
+        "Pu Lucy",
+        "Hiyzajie Taliah",
+        "Jabori Sinan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42082663/"
+    },
+    {
+      "pmid": "42081193",
+      "title": "Evaluating three routes of tranexamic acid administration in total hip and knee arthroplasty: A nationwide database analysis in Taiwan.",
+      "abstract": "Tranexamic acid (TXA) reduces perioperative blood loss, but comparative effectiveness and safety across administration routes remain uncertain. We evaluated topical, intravenous [IV], and oral TXA in unilateral total hip and knee arthroplasty.",
+      "year": "2026",
+      "journal": "Anesthesiology",
+      "authors": [
+        "Hsu Ling-I",
+        "Chen Jen-Wei",
+        "Hsu Hao-Wei",
+        "Hou Sheng-Mou"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42081193/"
+    },
+    {
+      "pmid": "42074820",
+      "title": "Perioperative Patient Blood Management: Evidence-Based Strategies for Surgeons and Anesthesiologists: A Narrative Review.",
+      "abstract": "Patient Blood Management (PBM) has evolved from a transfusion-centered practice to a structured, patient-focused perioperative strategy aimed at improving surgical outcomes while preserving blood resources. In the operating room, where bleeding risk is anticipated and modifiable, PBM requires proactive intervention rather than reactive transfusion. This review synthesizes current evidence on perioperative blood conservation strategies specifically relevant to surgeons and anesthesiologists. Preoperative optimization begins with systematic identification and correction of anemia, most commonly iron deficiency, using appropriately timed oral or intravenous iron therapy and, in selected cases, erythropoiesis-stimulating agents. Careful management of anticoagulant and antiplatelet therapies, early recognition of acquired or inherited coagulopathies, and protocol-driven reversal strategies further reduce perioperative hemorrhagic risk. Intraoperatively, blood conservation depends on meticulous surgical technique, respect for anatomical planes, minimally invasive approaches, and the judicious use of advanced energy devices and topical hemostatic agents. Pharmacologic interventions-particularly tranexamic acid administered with appropriate timing and dosing-have demonstrated consistent reductions in blood loss and transfusion requirements across multiple surgical disciplines. Goal-directed coagulation management guided by viscoelastic testing allows targeted correction of specific hemostatic deficits while minimizing unnecessary blood product exposure. Acute normovolemic hemodilution and intraoperative cell salvage provide additional benefit in selected high-blood-loss procedures. Collectively, these multimodal strategies shift perioperative care from product-driven transfusion toward physiology-based blood conservation. When embedded within institutional protocols and supported by multidisciplinary collaboration, perioperative PBM reduces transfusion exposure, decreases morbidity, shortens hospital stay, and promotes sustainable stewardship of blood resources without compromising patient safety.",
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Nikolouzakis Taxiarchis Konstantinos",
+        "Kantidakis Epameinondas Evangelos",
+        "Crawford Richard",
+        "Pretorius Riaan",
+        "Zaimakis Orfeas Nikolaos"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42074820/"
+    },
+    {
+      "pmid": "42063744",
+      "title": "International survey on the use of tranexamic acid in plastic surgery-Current practices and perspectives.",
+      "abstract": "Tranexamic acid (TXA) has gained increasing popularity in plastic and reconstructive surgery for minimizing perioperative bleeding and improving postoperative outcomes. However, standardized guidelines on its use remain lacking. Methods: An anonymous international survey was distributed to over 400 plastic surgeons worldwide to evaluate current TXA usage patterns, including dosage, timing, route of administration as well as perceived efficacy and safety.",
+      "year": "2026",
+      "journal": "JPRAS open",
+      "authors": [
+        "Aranda Irene Mesas",
+        "Fuchs Benedikt",
+        "Vollbach Felix H",
+        "Thierfelder Nikolaus",
+        "Giunta Riccardo E"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42063744/"
+    },
+    {
+      "pmid": "42059427",
+      "title": "Tranexamic acid protects human dermal fibroblasts from D-galactose-induced senescence via the GPR30/MAPK pathway.",
+      "abstract": "Tranexamic acid (TXA) is widely used for pigmentary disorders, but its anti-ageing potential remains unclear. This study aimed to evaluate whether topical 3% TXA improves early periorbital wrinkles in women with facial melasma and to investigate whether TXA protects human dermal fibroblasts from D-galactose-induced senescence ",
+      "year": "2026",
+      "journal": "Annals of medicine",
+      "authors": [
+        "Lin Yanyan",
+        "Wang Yaling",
+        "Wang Wanjing",
+        "Deng Zhili",
+        "Zhang Yiya"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Receptors, G-Protein-Coupled",
+        "Skin Aging",
+        "Galactose",
+        "Cellular Senescence",
+        "Fibroblasts",
+        "Tranexamic Acid",
+        "Adult",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42059427/"
+    },
+    {
+      "pmid": "42049187",
+      "title": "Does Combined Intravenous and Topical Tranexamic Acid Offer Additional Benefit Compared With Intravenous or Topical Alone in Open Elbow Arthrolysis-A Pilot Randomized Controlled Trial.",
+      "abstract": "Open elbow arthrolysis (OEA) is a common method for treating post-traumatic elbow stiffness, which may lead to severe bleeding when resecting heterotopic ossification (HO) and fibrous scar tissue. The purpose of this study is to compare the efficacy and safety among three different ways of using tranexamic acid (TXA) in reducing total blood loss and drainage volume in OEA.",
+      "year": "2026",
+      "journal": "Orthopaedic surgery",
+      "authors": [
+        "Chen Chen",
+        "Zhang Jianyu",
+        "Hua Kehan",
+        "Sun Weitong",
+        "Xiao Dan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42049187/"
+    }
+  ],
+  "crawled_at": "2026-05-10T21:53:27.935657",
+  "source": "pubmed"
+}

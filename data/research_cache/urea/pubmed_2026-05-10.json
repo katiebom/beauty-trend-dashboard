@@ -1,0 +1,192 @@
+{
+  "ingredient_id": "urea",
+  "name_en": "Urea",
+  "name_kr": "우레아",
+  "category": "hydration",
+  "query": "\"Urea\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42083326",
+      "title": "Microneedle-based injection of Fungizone/Amphotericin B: an effective treatment for American cutaneous leishmaniasis in mice.",
+      "abstract": "Amphotericin B (AmB) is a potent, accessible, FDA-approved drug against CL with damaging side effects. While newer lipid formulations have less toxicity, limitations include affordability and cold-chain requirements. CL affects mostly impoverished communities, which complicates travel to urban hospitals for treatment. Therefore, an off-clinic drug delivery system is desirable. Microneedles can deliver AmB directly to localized CL lesions, which we hypothesized would limit parasite growth without systemic toxicity. Thus, a three-by-three array of 1 mm tall stainless steel hollow microneedles was evaluated in this study. To test their efficacy, we utilized ",
+      "year": "2026",
+      "journal": "Drug delivery",
+      "authors": [
+        "Huston Ryan H",
+        "Cox Blake",
+        "Verma Chaitenya",
+        "Pacheco-Fernandez Thalia",
+        "Volpedo Greta"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Leishmaniasis, Cutaneous",
+        "Mice",
+        "Needles",
+        "Amphotericin B",
+        "Antiprotozoal Agents",
+        "Drug Delivery Systems",
+        "Female",
+        "Leishmania mexicana",
+        "Mice, Inbred BALB C"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42083326/"
+    },
+    {
+      "pmid": "42078629",
+      "title": "Generalized keratosis pilaris rubra mimicking erythromelanosis follicularis faciei et colli: a case report.",
+      "abstract": "Keratosis pilaris rubra (KPR) is a benign follicular disorder characterized by erythematous papules and perifollicular inflammation, typically affecting adolescents and young adults. The generalized form is rare and diagnostically challenging due to overlap with erythromelanosis follicularis faciei et colli (EFFC).",
+      "year": "2026",
+      "journal": "Annals of medicine and surgery (2012)",
+      "authors": [
+        "Shah Sandesh",
+        "Shrestha Joshana",
+        "Bhusal Mohan",
+        "Neupane Deepika",
+        "Maharjan Radhika"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42078629/"
+    },
+    {
+      "pmid": "42068825",
+      "title": "Electrospun polyvinyl alcohol/LDH nanofibers modified with sodium dodecyl sulfate as a coating for fiber-in-tube solid-phase microextraction of trace fungicides in cosmetic samples.",
+      "abstract": "A sensitive analytical protocol was developed to quantify trace levels of three azole fungicides-ketoconazole (KZ), miconazole (MZ), and clotrimazole (CZ)-in cosmetic matrices. This method integrates fiber-in-tube solid-phase microextraction (FIT-SPME) with high-performance liquid chromatography and ultraviolet detection (HPLC-UV). The extraction medium utilized magnesium-aluminum layered double hydroxides (LDHs) intercalated with sodium dodecyl sulfate (SDS), prepared via urea hydrolysis. To fabricate the sorbent, this modified LDH was embedded within a polyvinyl alcohol (PVA) solution-chosen for its green chemistry attributes-and electrospun onto stainless steel substrates. To prevent dissolution in aqueous samples, the coating was thermally cross-linked using citric acid, ensuring robust mechanical stability. The device consisted of these coated fibers housed within a steel capillary, through which samples were circulated for equilibrium adsorption, followed by solvent desorption. A rigorous optimization process was conducted to determine ideal conditions for pH, ionic strength, flow rates, and timing variables. Performance metrics revealed low limits of detection (0.3-0.6 µg L",
+      "year": "2026",
+      "journal": "Journal of chromatography. A",
+      "authors": [
+        "Pourhosseini Saeed",
+        "Yamini Yadollah",
+        "Nasrollahi Seyedeh Sara"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068825/"
+    },
+    {
+      "pmid": "42067020",
+      "title": "Physicochemical, structural, and immunological characterization of recombinant Mal d 1.02 allergen in Mexican pediatric patients. A valuable tool for diagnosing.",
+      "abstract": "Apple allergy is a manifestation of pollen-food allergy syndrome (PFAS). Mal d 1 is the major apple allergen and a key driver of cross-reactivity with birch and related tree pollens. Its biochemical properties remain incompletely characterized. This work aimed to comprehensively characterize the physicochemical, structural, and immunological properties of a recombinant Mal d 1 (rMal d 1) isoform and to assess its clinical relevance in apple-allergic Mexican pediatric patients (MPP) with PFAS. Its molecular mass, structural stability, folding, resistance to denaturation, and proteolysis were analyzed. Its IgE reactivity, skin prick tests (SPT), and basophil activation tests (BAT) were performed in MPP. The protein was named rMal d 1.02 since its primary structure identity was 98% with this isoallergen group. It was monomeric and exhibited fully reversible unfolding under heat and urea denaturation, significant stability under acidic pH, and high resistance to trypsin but susceptibility to pepsin. It demonstrated IgE reactivity, and SPT and BAT positivity in allergic patients. Due to its immunoreactivity, it highlights its significance as a key allergen in MPP. Its resistance to digestion and denaturation may explain persistent allergenicity after food processing. rMal d 1.02 is valuable for diagnosing and may inform future immunotherapeutic approaches.",
+      "year": "2026",
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "authors": [
+        "Torres-Arroyo Angélica",
+        "Mendoza-Hernández David A",
+        "López-Salgueiro Ramón",
+        "López-Hernández Enrique",
+        "Amaro-Leal Abril M"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42067020/"
+    },
+    {
+      "pmid": "42066554",
+      "title": "Defect-engineered Co-Fe",
+      "abstract": "Vanillin, a widely used flavouring agent in food, pharmaceutical, and cosmetic industries, requires precise monitoring due to potential health risks at excessive consumption. This study reports a highly sensitive electrochemical sensor based on defect-engineered Co-Fe₃N/rGO synthesized via urea-assisted nitridation. This process creates nitrogen vacancies in Co-Fe₃N, while rGO ensures uniform nanoparticle dispersion and enhanced electron transfer. Characterization confirmed 20-50 nm Co-Fe₃N nanospheres anchored on rGO with intimate interfacial contact. The modified electrode exhibited outstanding electrocatalytic activity toward vanillin oxidation, delivering a detection limit of 0.249 nM, a linear range of 0.01-1322 μM, and excellent selectivity. Practical applicability was validated through vanillin quantification in six commercial food products, achieving recoveries of 98.99-101.57% with good agreement to HPLC. The exceptional performance arises from synergistic effects between nitrogen-vacancy active sites and the conductive rGO network. This work presents a robust, cost-effective platform for food quality monitoring with potential for field-deployable applications.",
+      "year": "2026",
+      "journal": "Food chemistry",
+      "authors": [
+        "Munusamy Nandhini",
+        "Santhanalakshmi Nagendran",
+        "Chen Tse-Wei",
+        "Sengodan Sivaprakash",
+        "Lou Bih-Show"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42066554/"
+    },
+    {
+      "pmid": "42046612",
+      "title": "Persistent Acral Pityriasis Rosea in a Pediatric Patient: A Rare Clinical Variant.",
+      "abstract": "Pityriasis rosea (PR) is a self-limited papulosquamous skin condition most commonly observed in children and young adults. Atypical variants of PR have been increasingly recognized, particularly those with unusual morphology, distribution, or disease course. Acral involvement is rare and may pose diagnostic challenges, especially in pediatric patients. We report the case of a 15-year-old previously healthy Saudi male patient who presented with a persistent erythematous and scaly eruption lasting for more than three months. The eruption involved the trunk and extremities and showed prominent acral involvement affecting both the palms and soles. The patient denied pruritus, pain, recent infections, medication use, or similar previous episodes. Physical examination revealed multiple erythematous scaly plaques and patches without mucosal, nail, or lymph node involvement. Histopathological examination of a punch biopsy demonstrated findings consistent with PR in the appropriate clinical context. The patient was managed with narrowband ultraviolet B phototherapy, topical betamethasone combined with calcipotriol, urea 10% cream, and vitamin D supplementation. This case highlights a rare presentation of persistent acral PR in a pediatric patient, emphasizing the importance of recognizing atypical and prolonged presentations to avoid misdiagnosis.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Alsemairi Lana T",
+        "Alghamdi Asail S",
+        "Alghamdi Muath",
+        "Alghamdi Abdullah",
+        "Alghamdi Saleh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42046612/"
+    },
+    {
+      "pmid": "42035787",
+      "title": "The Prevalence of Contact Allergy to Formaldehyde and Formaldehyde Releasers: A Systematic Review and Meta-Analysis.",
+      "abstract": "Formaldehyde and its releasers are common preservatives and potent sensitizers. This meta-analysis aimed to estimate the prevalence of formaldehyde contact allergy and allergy to its five most common releasers among dermatitis patients. Two authors independently searched PubMed, Embase, and Web of Science from inception to 30th September 2025. A proportion meta-analysis was conducted using a random-effects model. A total of 158 studies involving 1 347 638 dermatitis patients were included. The pooled prevalence of formaldehyde contact allergy was 2.88% (95% CI 2.55-3.24) with clinical relevance at 41.57%. The pooled prevalence for releasers was 2.76% for 2-bromo-2-nitropropane-1,3-diol, 1.89% for quaternium-15, 1.42% for diazolidinyl urea, 1.37% for DMDM hydantoin, and 1.20% for imidazolidinyl urea. Quaternium-15 showed the highest clinical relevance at 55.67%. Significant sensitization rates were observed in different geographic regions, with the highest prevalence found in North America (6.8%). The prevalence rate was 2.96% among children and 2.61% among adults, with no significant difference. The prevalence rate was 2.65% among patients with atopic dermatitis (AD) and 2.85% among patients without AD, with no significant difference. The profound geographic disparities suggest that regulatory interventions, such as the EU's prohibition of formaldehyde and quaternium-15 in cosmetics, are highly effective public health measures.",
+      "year": "2026",
+      "journal": "Contact dermatitis",
+      "authors": [
+        "Karimian Kian",
+        "Isufi Daniel",
+        "Jensen Mikkel Bak",
+        "Søgaard Rebekka",
+        "Johansen Jeanne Duus"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42035787/"
+    },
+    {
+      "pmid": "42025971",
+      "title": "Biophysical and Raman Spectroscopy assessment of drug-induced photosensitivity: Insights from a randomised controlled pilot study.",
+      "abstract": "Drug-induced photosensitivity is a recognised adverse reaction, yet systematic quantification remains limited. This study investigates the quantitative impact of commonly prescribed drugs on human skin physiology following oral intake and subsequent UV exposure.",
+      "year": "2026",
+      "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+      "authors": [
+        "Anderle Karolina",
+        "Deinsberger Julia",
+        "Hübel Pia",
+        "von Aufschnaiter Verena",
+        "Salzer Martin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42025971/"
+    },
+    {
+      "pmid": "42020636",
+      "title": "A Multicenter Prospective Study to Develop a Prediction Model for Postherpetic Neuralgia Using Clinical and Laboratory Indicators.",
+      "abstract": "Postherpetic neuralgia (PHN) is the most common and difficult-to-treat complication of herpes zoster (HZ). This complication not only causes significant suffering but also imposes a substantial economic burden on patients. Early identification of patients at high risk and initiation of preventive interventions are crucial for reducing the burden of PHN. However, current clinical risk identification methods largely rely on subjective or semi-subjective clinical features and lack objective, easily accessible quantitative tools. This study aimed to develop and validate an efficient, objective, and clinically accessible prediction model for PHN risk by integrating routine clinical and laboratory indicators.",
+      "year": "2026",
+      "journal": "Pain and therapy",
+      "authors": [
+        "Wang Jiaqi",
+        "Yao Yanbing",
+        "Wang Honggeng",
+        "Chen Jiaxiong",
+        "Huang Shulin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42020636/"
+    },
+    {
+      "pmid": "41995401",
+      "title": "A natural deep eutectic solvent formulation promotes hair growth by enhancing the transdermal delivery and bioactivity of hydroxytyrosol.",
+      "abstract": "Hair loss is a widespread condition with androgenetic alopecia (AGA) representing the most prevalent subtype. The excessive accumulation of reactive oxygen species (ROS) in the perifollicular microenvironment and subsequent dysregulation of the follicular milieu is recognized as a major driver underlying the pathogenesis of AGA. Hydroxytyrosol (HT), a natural polyphenolic compound with potent antioxidant activity, has demonstrated protective effects against oxidative stress-induced inflammation in dermal cells. However, the clinical application of HT is limited by its high hydrophilicity, which restricts penetration across the skin lipid barrier and results in poor cutaneous absorption. Additionally, HT is prone to oxidation, further compromising its efficacy. To overcome these challenges, we developed a pro-permeable deep eutectic solvent (DES)-based system, composed of betaine, urea, and lactic (BUL), to facilitate the transdermal delivery of HT while preserving bioactivity. The BUL-based delivery system enabled cutaneous penetration to a depth of at least 180 µm, achieving over threefold greater permeation than aqueous solutions. ",
+      "year": "2026",
+      "journal": "Journal of materials chemistry. B",
+      "authors": [
+        "Xie Yujia",
+        "Zeng Kan",
+        "Yang Puying",
+        "Zheng Ting",
+        "Zhao Xinlei"
+      ],
+      "mesh_terms": [
+        "Phenylethyl Alcohol",
+        "Animals",
+        "Administration, Cutaneous",
+        "Humans",
+        "Solvents",
+        "Antioxidants",
+        "Hair",
+        "Reactive Oxygen Species",
+        "Mice",
+        "Cell Proliferation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41995401/"
+    }
+  ],
+  "crawled_at": "2026-05-10T21:53:44.079172",
+  "source": "pubmed"
+}

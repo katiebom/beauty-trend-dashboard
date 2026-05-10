@@ -1,0 +1,198 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42106764",
+      "title": "Dental pulp stem cell-derived exosomes attenuate psoriatic inflammation by restoring epithelial redox homeostasis via a miR-1246/miR-17-3p-GPX2-NF-κB axis.",
+      "abstract": "Psoriasis is driven by sustained epidermal inflammation tightly coupled to dysregulated redox homeostasis. Although current systemic therapies are effective, their long-term use is limited by safety concerns. Dental pulp stem cell-derived exosomes (DPSC-Exo) have emerged as promising immunomodulatory, cell-free therapeutics, yet their role in regulating epithelial redox-inflammatory balance remains undefined.",
+      "year": "2026",
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Wang Shuangshuang",
+        "Zhuang Dexuan",
+        "Hou Dongyu",
+        "Feng Tengfei",
+        "Shen Liliang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42106764/"
+    },
+    {
+      "pmid": "42105125",
+      "title": "Pathogenic Mechanisms of Aspergillus lentulus Infection: Induction of Oxidative Stress and Tissue Damage in Galleria mellonella Larvae.",
+      "abstract": "Aspergillus lentulus (A. lentulus) is an emerging pathogenic fungus with intrinsic resistance to multiple antifungal agents. Understanding its pathogenic mechanisms and the host's responses is essential for the development of effective therapeutic strategies. The Galleria mellonella (G. mellonella) larvae model offers a convenient and physiologically relevant in vivo system to investigate fungal virulence and host-pathogen interactions, including the dynamics of oxidative stress.",
+      "year": "2026",
+      "journal": "Mycopathologia",
+      "authors": [
+        "Zhang Lijuan",
+        "Ji Mingshuo",
+        "Hasimu Hadiliya",
+        "Abliz Paride"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Oxidative Stress",
+        "Larva",
+        "Aspergillus",
+        "Host-Pathogen Interactions",
+        "Disease Models, Animal",
+        "Reactive Oxygen Species",
+        "Virulence",
+        "Moths",
+        "Survival Analysis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42105125/"
+    },
+    {
+      "pmid": "42102950",
+      "title": "Autophagy Dysregulation Drives ZnONPs-Induced Ferroptotic Neurotoxicity via NCOA4-Dependent Ferritinophagy and Iron Overload.",
+      "abstract": "Zinc oxide nanoparticles (ZnONPs) are widely used in food, cosmetic, and biomedical fields, raising concerns about their potential neurotoxicity. However, the mechanisms underlying ZnONPs-induced brain injury remain incompletely understood, particularly regarding the role of iron-dependent cell death pathways. In this study, ZnONPs were characterized using transmission electron microscopy and dynamic light scattering. ICR mice and mouse hippocampal neuron HT22 cells were exposed to ZnONPs to evaluate histopathological injury, cytotoxicity, iron metabolism, oxidative stress, lipid peroxidation, autophagy, and ferroptosis. Our results show that ZnONPs induce dose-dependent neuronal injury in mouse brain tissue and reduce HT22 cell viability. ZnONPs promote Fe",
+      "year": "2026",
+      "journal": "Chemico-biological interactions",
+      "authors": [
+        "Guo Menghao",
+        "Yang Haitao",
+        "Niu Shuyan",
+        "Liu Chenyu",
+        "Wu Tianshu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42102950/"
+    },
+    {
+      "pmid": "42099147",
+      "title": "Protective Effect of Thymol-loaded Chitosan Nanoparticles against Bile Duct Ligation-induced Liver Fibrosis in Rats.",
+      "abstract": "Liver fibrosis is a critical disorder associated with elevated morbidity and mortality rates globally, leading to many organ dysfunctions. Thymol is a phenolic aromatic chemical extracted from thyme oil. It possesses biochemical, oxidative, anti-inflammatory, and anticancer properties. This results in its widespread applications across various domains, including cosmetics, medicine, and pharmacology. This study aims to assess the efficiency of thymol-loaded chitosan nanoparticles (CS-thymol NPs) in the bile duct ligation (BDL) model of liver fibrosis.",
+      "year": "2026",
+      "journal": "Current topics in medicinal chemistry",
+      "authors": [
+        "Kamel Teba Abdelrahman",
+        "Baiomy Ahmed Abdel Aziz",
+        "Qutb Sarah Ali",
+        "Mohamed Ayman Saber"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42099147/"
+    },
+    {
+      "pmid": "42088562",
+      "title": "Nanomaterials reshaping cancer radiotherapy: Radiosensitization mechanisms, delivery and theranostic platforms, multimodal synergy, and clinical translation strategies.",
+      "abstract": "Radiotherapy (RT) remains a cornerstone of cancer management but is fundamentally constrained by normal tissue toxicity, intrinsic and acquired radioresistance, and hypoxia- and microenvironment-driven dose-response plateaus. Engineered nanomaterials offer a versatile toolbox to reshape this therapeutic landscape by coupling enhanced energy deposition with microenvironmental and biological reprogramming. This review summarizes recent advances in nanomaterial-enabled radiosensitization from four interlocking dimensions: (i) high-atomic-number platforms that amplify local dose via photoelectric and related interactions and thereby increase microscopic energy deposition; (ii) chemical radiosensitization through modulation of reactive oxygen species (ROS), including Fenton/Fenton-like catalysis and depletion of glutathione (GSH)/thioredoxin antioxidant networks; (iii) tumor microenvironment (TME) remodeling strategies that alleviate hypoxia, buffer acidity, rewire redox and metabolic states, relieve immune suppression, and normalize vasculature and extracellular matrix (ECM) to broaden the effective therapeutic window; and (iv) biological radiosensitization targeting DNA damage response (DDR), cell-cycle redistribution, and multiple programmed cell-death pathways such as apoptosis and ferroptosis. We further discuss nano-delivery architectures-passive EPR-based systems, ligand-directed and biomimetic carriers, and stimuli-responsive (pH, hypoxia, redox, or irradiation triggered) formulations-that co-load radiosensitizers, chemotherapeutics, and molecularly targeted agents, as well as theranostic platforms integrating computed tomography (CT)/magnetic resonance imaging (MRI)/optical contrast for image-guided, dose-adapted treatment. Emerging multimodal regimens, including radiotherapy combined with photothermal, sonodynamic, chemotherapy, and immunotherapy on a single nano-platform, are highlighted for their capacity to achieve genuine \"1 + 1>2\" synergy. Finally, we outline key translational challenges-industrial-scale, standardized manufacturing; long-term safety and clearance; inter-patient and spatiotemporal heterogeneity; quantitative linkage between imaging signals, dose, and biological effect; and the integration of biomarkers and artificial intelligence into personalized nano-radiotherapy-and propose future directions to accelerate clinical implementation.",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Liu Jun",
+        "Ding Xuanyin",
+        "Li Mingzhu",
+        "Pang Haowen",
+        "Liu Zongjunlin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42088562/"
+    },
+    {
+      "pmid": "42084741",
+      "title": "Combined exposure to microplastics and PFASs on earthworms: size and concentration effects.",
+      "abstract": "Microplastics (MPs) can act as carriers for per- and polyfluoroalkyl substances (PFASs), exerting both direct and indirect effects on soil organisms. However, few studies have systematically evaluated the combined effects of co‑exposure to MPs and PFASs. In this study, earthworms (Eisenia fetida) were exposed to polystyrene (PS) MPs of different sizes (30 nm and 10 μm) and PFASs for 21 days to investigate the toxicological mechanisms of single and combined exposure. The results showed that earthworm survival rates remained above 80% in all treatment groups throughout the 21‑day exposure period (p > 0.05). However, the earthworm growth rate (K",
+      "year": "2026",
+      "journal": "Environmental geochemistry and health",
+      "authors": [
+        "Shao Mengjun",
+        "Hu Jie",
+        "Gu Lijuan",
+        "Ling Ling",
+        "Zhu Yixing"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Oligochaeta",
+        "Microplastics",
+        "Soil Pollutants",
+        "Oxidative Stress",
+        "Fluorocarbons",
+        "Particle Size",
+        "Polystyrenes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42084741/"
+    },
+    {
+      "pmid": "42080340",
+      "title": "Polyherbal green-synthesised silver nanoparticle gel: in vitro antimicrobial activity and ",
+      "abstract": "To synthesize and evaluate a polyherbal silver nanoparticle (PH-AgNPs) gel using ",
+      "year": "2026",
+      "journal": "Drug development and industrial pharmacy",
+      "authors": [
+        "C M Purushotham",
+        "T Mallamma",
+        "Hanumesh Parimala",
+        "Gowda Jeevan",
+        "S Rohith"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42080340/"
+    },
+    {
+      "pmid": "42075956",
+      "title": "Therapeutic Potential of Cysteine and Its Derivatives in Dermatology.",
+      "abstract": "Cysteine is a sulfur-containing amino acid that plays a central role in skin physiology through thiol-mediated redox regulation and glutathione (GSH) synthesis. It critically influences melanogenesis, collagen homeostasis, and wound healing. However, its clinical application is limited by poor stability and bioavailability. In this review, we provide a mechanistic and comparative analysis of cysteine and its derivatives, including N-acetylcysteine (NAC), cysteinamide (C-NH",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Choi Joon Yong",
+        "Lee Weon-Ju",
+        "Boo Yong Chool"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cysteine",
+        "Wound Healing",
+        "Animals",
+        "Skin",
+        "Skin Diseases",
+        "Dermatology",
+        "Antioxidants",
+        "Oxidation-Reduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42075956/"
+    },
+    {
+      "pmid": "42075779",
+      "title": "Antioxidant Enzymes Genetic Variants Associated with Urticaria/Angioedema Induced by Cross-Reactive Hypersensitivity to Nonsteroidal Anti-Inflammatory Drugs.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Jiménez-Sánchez Isabel M",
+        "Jurado-Escobar Raquel",
+        "Triano-Cornejo José",
+        "Sáenz de Santa María Rocío",
+        "Núñez Rafael"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42075779/"
+    },
+    {
+      "pmid": "42070282",
+      "title": "Dynamic Monitoring of Temporal Metabolomic Perturbations in Nile Tilapia Induced by PFOA Using Homemade Extraction Electrospray Ionization Mass Spectrometry.",
+      "abstract": "Persistent organic pollutants, represented by perfluorooctanoic acid (PFOA), have traditionally been evaluated for aquatic toxicity through static end point analyses, particularly lacking time-series analyses of dynamic metabolic pathways. This study integrated noninvasive skin mucus sampling with extractive electrospray ionization mass spectrometry (EESI-MS) to, for the first time, longitudinally and continuously track metabolic trajectories in individual Nile tilapia exposed to PFOA (0.2-20 μg/L) over 21 days. Dynamic responses of oxidative stress biomarkers and metabolomic profiles were systematically characterized through integrated analyses. Utilizing the three-dimensional extraction-ionization capability of EESI-MS, the temporal dynamics of 249 differential metabolites were captured, revealing a three-stage progression of toxicity: in the early exposure stage (days 1-3), histidine metabolism was activated to alleviate oxidative stress; in the midstage (days 7-14), glutathione and arachidonic acid metabolism were enhanced, signaling the initiation of antioxidant defense and inflammatory cascades; in the late stage (day 21), tryptophan metabolic disturbances may have triggered neurological dysfunction. The study unveils the progressive toxicity mechanism of PFOA from oxidative damage to neurotoxicity, providing a transformative monitoring paradigm for real-time risk assessment and ecological toxicity classification of per- and polyfluoroalkyl substances (PFASs) in aquatic environments.",
+      "year": "2026",
+      "journal": "Environmental science & technology",
+      "authors": [
+        "Wang Yining",
+        "Wu Xiaokang",
+        "Su Rui",
+        "Huang Chenni",
+        "Dong Jiaxin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42070282/"
+    }
+  ],
+  "crawled_at": "2026-05-10T21:53:28.823331",
+  "source": "pubmed"
+}
