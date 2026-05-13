@@ -1,0 +1,209 @@
+{
+  "ingredient_id": "resveratrol",
+  "name_en": "Resveratrol",
+  "name_kr": "레스베라트롤",
+  "category": "anti_aging",
+  "query": "\"Resveratrol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42123745",
+      "title": "Oral Administration of Liposomal Resveratrol for Wound Healing in a Zebrafish Model.",
+      "abstract": "Wound healing research has advanced through nanotechnology-based delivery systems that enhance the stability and therapeutic potential of bioactive compounds. Resveratrol, a natural polyphenol with antioxidant and anti-inflammatory properties, shows promise for wound healing but is limited by poor bioavailability. This study investigates the efficacy of nano-liposome-encapsulated resveratrol in enhancing skin wound repair in adult zebrafish (",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Yu Ruei-Siang",
+        "Tran Minh-Quan",
+        "Tseng Mei-Wen",
+        "Hsiao Chung-Der",
+        "Lee Hung-Maan"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Resveratrol",
+        "Zebrafish",
+        "Wound Healing",
+        "Liposomes",
+        "Administration, Oral",
+        "Disease Models, Animal",
+        "Antioxidants",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42123745/"
+    },
+    {
+      "pmid": "42100323",
+      "title": "Photoprotection of a novel resveratrol analogue: insights from 2D, 3D, and endothelialized bioprinted human skin models.",
+      "abstract": "Excessive exposure to ultraviolet (UV) radiation induces oxidative stress, DNA damage, and extracellular matrix (ECM) disorganization, contributing to skin aging and disease. To enhance photoprotection strategies, antioxidant molecules have been explored as complementary agents to conventional UV filters. Here, we investigated the photoprotective potential of ",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Pasuch Gluzezak Ana Júlia",
+        "Essayan Lucie",
+        "Thomann Celine",
+        "Dos Santos Jean Leandro",
+        "Marquette Christophe A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42100323/"
+    },
+    {
+      "pmid": "42092661",
+      "title": "Alginate-based mucoadhesive nanofibrous system embedding resveratrol-loaded vesicles as a therapeutic platform for nasal disorders.",
+      "abstract": "Oxidative stress and inflammation play a key role in the development and progression of several otorhinolaryngological disorders, including chronic rhinosinusitis and allergic rhinitis. Resveratrol (RSV), a natural polyphenol with antioxidant and anti-inflammatory properties, is a promising therapeutic candidate, although its clinical application is limited by poor aqueous solubility and rapid mucociliary clearance upon nasal administration. In this study, a mucoadhesive nanofibrous nasal patch based on sodium alginate and poly(ethylene oxide) embedding RSV-loaded phospholipid vesicles was developed using a green electrospinning process based entirely on aqueous solvents. Both systems were characterized in terms of morphology, dimensional properties, swelling behavior, mucoadhesion, drug release, and biological activity. The RSV vesicles showed nanoscale dimensions (∼93 nm) and high entrapment efficiency (∼88%). The combined system resulting from the incorporation of the RSV vesicles into the nanofibrous matrix exhibited remarkable swelling properties (up to ∼800%), enhanced mucoadhesion, and a more sustained RSV release profile compared with vesicles alone, highlighting the role of the alginate network as a diffusion-controlling matrix. In vitro studies in immortalized human keratinocytes confirmed excellent biocompatibility and enhanced antioxidant activity. Overall, this vesicles-in-nanofibers platform represents a promising strategy for the nasal delivery of RSV, potentially improving its residence time and therapeutic effectiveness in upper airway diseases associated with oxidative stress and inflammation.",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Casula Luca",
+        "Schlich Michele",
+        "Pini Elena",
+        "Rassu Giovanna",
+        "Bellotti Elena"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42092661/"
+    },
+    {
+      "pmid": "42083968",
+      "title": "Nanotechnology-Based on Natural Medicines: A Promising Alternative for Psoriasis Management.",
+      "abstract": "Psoriasis is a chronic inflammatory skin disease with a complex pathogenesis. Initially affecting the skin, it may also involve the nails and joints, often requiring lifelong medication. Despite recent advances in understanding its pathogenesis, the chronic and recurrent nature of psoriasis poses ongoing challenges for long-term drug management. While natural medicines offer higher safety profiles and fewer side effects compared to synthetic drugs, their development as clinical candidates for psoriasis is constrained by low bioavailability, limited solubility, poor permeability, and instability. For instance, specific nanocarriers have been shown to significantly improve therapeutic outcomes; curcumin-loaded PLGA nanoparticles (50 nm) demonstrated a 48.23±0.77% drug loading capacity with over 85% release within 72 hours, while hyaluronic acid-modified ethosomes increased skin retention by 2.3-fold compared to conventional formulations in preclinical models. This paper systematically reviews the structure and advantages of nanocarrier systems, including liposomes, nanoparticles, nanofibers, micelles, nanogels, and nanoemulsions. It focuses on the preparation, preclinical, and clinical progress of nanocarriers for key natural bioactive compounds, including resveratrol, curcumin, oleuropein, psoralen, natural oils, and complex natural mixtures. We aim to highlight the potential of nanotechnology-based on natural drugs as an alternative strategy to improve the therapeutic efficacy of psoriasis while reducing side effects.",
+      "year": "2026",
+      "journal": "Current drug delivery",
+      "authors": [
+        "Wang Tianyi",
+        "Dai Dan",
+        "Li Runxue",
+        "Zhao Linna",
+        "Wang Hongmei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42083968/"
+    },
+    {
+      "pmid": "42074094",
+      "title": "Piceatannol from Passion Fruit Seed Waste: A Circular Bioeconomy-Driven Pathway Toward a Skin-Targeted Bioactive.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Zhang Dian",
+        "Chittasupho Chuda",
+        "Jiranusornkul Supat"
+      ],
+      "mesh_terms": [
+        "Passiflora",
+        "Humans",
+        "Seeds",
+        "Skin",
+        "Stilbenes",
+        "Skin Aging",
+        "Animals",
+        "Antioxidants",
+        "Plant Extracts",
+        "Anti-Inflammatory Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42074094/"
+    },
+    {
+      "pmid": "42063951",
+      "title": "Green extraction and phenolic profiling of bitter melon (",
+      "abstract": "This study reports for the first time the green extraction and analysis of four phenolics: gallic acid (GA), scopoletin (SC), rosmarinic acid (RA), and resveratrol (RV) in different parts (skin, pulp, seeds) of the fresh and dried fruits of bitter melon (BM). The fruits and their parts were evaluated for comparative anticancer and antidiabetic potential.",
+      "year": "2026",
+      "journal": "Frontiers in nutrition",
+      "authors": [
+        "Ahmad Rizwan",
+        "Alqathama Aljawharah"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42063951/"
+    },
+    {
+      "pmid": "42049885",
+      "title": "Investigating the potential of Ulva rigida extracts as a natural anti-aging agent in cosmetics.",
+      "abstract": "Based on the study, extracts from sea lettuce (Ulva rigida) or UR show significant promise as a natural anti-aging ingredient for skincare products. The research, conducted on specimens from Phetchaburi, Thailand, compared three extraction methods: juice squeezing (J), boiling (B), and maceration (M) by using 95% ethanol. The results demonstrated that these extracts contain beneficial compounds like phenolics and flavonoids, including rutin, catechin, and quercetin, which contribute to their biological properties. Furthermore, all extracts (UR-J, UR-B, and UR-M) exhibited powerful anti-aging effects. Specifically, the UR-M extracts effectively inhibited anti-melanogenesis activity (5.88 ± 1.25%) and the tyrosinase activity (IC",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Boonpisuttinant Korawinwich",
+        "Taka Thanachai",
+        "Praiboon Jantana",
+        "Phuangborisut Saranrat",
+        "Kangkawisut Nipaporn"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42049885/"
+    },
+    {
+      "pmid": "42037559",
+      "title": "Antioxidant, Antibacterial, and SIRT1/SIRT3/hTERT Promoter-Upregulating Effects of Synergistic Rosmarinus officinalis and Salvia officinalis Essential Oils.",
+      "abstract": "In this study, the effect of a combination of Rosmarinus officinalis and Salvia officinalis essential oils (EOs) was evaluated. The chemical profile of EOs was determined by Gas Chromatography/Mass Spectrometry (GC/MS). The antibacterial effect of EOs alone was evaluated by the broth micro-dilution method, and the antioxidant activity was determined by 2,2-Diphenyl-1-picrylhydrazyl (DPPH) free radical scavenging and Ferric Reducing Antioxidant Power (FRAP) methods. The antioxidant and antibacterial interaction of the combination of EOs was evaluated through the determination of the fractional inhibitory concentration index (FICI) using the checkerboard method. The anti-aging activity of R. officinalis, S. officinalis, and their combination in a 1:1 (w/w) ratio was evaluated on SIRT1, SIRT3, and hTERT promoters in the human keratinocyte cell line HaCaT. The GC/MS analysis revealed that R. officinalis EO was dominated by 1,8-cineole (28.43% ± 0.32%) and α-pinene (26.62% ± 0.53%). α-thujone (23.98% ± 0.17%), α-pinene (17.59% ± 0.02%), camphor (15.84% ± 0.1%), and 1,8-cineole (15.76% ± 0.11%) were found as the main constituents of S. officinalis EO. Regarding the antioxidant and antibacterial activities, the results showed that R. officinalis EO tested alone showed significant efficacy. The results showed interesting synergistic effects in scavenging DPPH radical (FICI = 0.75) and in ferric reducing power (FICI = 0.50). Moreover, this combination exhibited a synergistic effect against E. hirae (FICI = 0.38), S. aureus (FICI = 0.63), and E. coli (FICI = 0.75), while the additive effect was shown against P. aeruginosa (FICI = 1). The expression level of the SIRT1 promoter in HaCaT cells treated with R. officinalis EO and its combination with S. officinalis EO is significantly higher than that of resveratrol. The results of endogenous SIRT3 expression revealed that the individual EOs and their association induced strong activity, while the strong hTERT promoter expression level was found when the HaCaT cells were treated with R. officinalis EO.",
+      "year": "2026",
+      "journal": "Chemistry & biodiversity",
+      "authors": [
+        "Rafya Meriem",
+        "Derdar Fatima-Ezzahra",
+        "Bouamama Hafida",
+        "Katakura Yoshinori",
+        "Zehhar Naima"
+      ],
+      "mesh_terms": [
+        "Oils, Volatile",
+        "Humans",
+        "Rosmarinus",
+        "Salvia officinalis",
+        "Anti-Bacterial Agents",
+        "Antioxidants",
+        "Sirtuin 1",
+        "Sirtuin 3",
+        "Microbial Sensitivity Tests",
+        "Biphenyl Compounds"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42037559/"
+    },
+    {
+      "pmid": "41961590",
+      "title": "Potential role of PVP/poloxamer 407 nanofibers loaded with resveratrol nanocrystals in skin cancer therapy.",
+      "abstract": "This work focused on producing resveratrol nanocrystals using a high-pressure, high-speed basic homogeniser to improve resveratrol's aqueous solubility, and subsequently electrospinning them into novel polyvinylpyrrolidone/poloxamer 407 nanofiber scaffolds for application in the Ehrlich-induced murine skin cancer model. The final concentrations of resveratrol, polyvinylpyrrolidone, and poloxamer 407 in the electrospinning solution were 0.5% w/v, 12.5% w/v, and 2.5% w/v, respectively. Following 48 h of drug release, Nanofibers NF-NC2 and NF-NC4, which included the nanocrystals NC2 and NC4 consisting of 2.5% w/w poloxamer 407 and 2.5% w/w HPMC, respectively, demonstrated the highest drug release, at 66.65 ± 1.4% and 42.31 ± 0.37%, respectively. Only 33 ± 0.7% of the free drug-loaded nanofibers NF-D were released. Microscopic analyses of NF-NC 2 and NF-NC 4 revealed regular, homogeneous fibres, whereas NF-D displayed distortions and beads. The ",
+      "year": "2026",
+      "journal": "Journal of drug targeting",
+      "authors": [
+        "Elgewelly Mahmoud A",
+        "Elmasry Soha M",
+        "Helmy Maged Wasfy",
+        "Abbas Haidy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41961590/"
+    },
+    {
+      "pmid": "41914515",
+      "title": "Effect of compound fish oil capsules on microvascular function in hypertensive individuals: a triple-blind, randomized, placebo-controlled pilot trial.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Food & function",
+      "authors": [
+        "Liu Bingzheng",
+        "Wang Wenlong",
+        "Teng Aiping",
+        "Yu Chengcheng",
+        "Liang Yaqian"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Fish Oils",
+        "Female",
+        "Male",
+        "Pilot Projects",
+        "Middle Aged",
+        "Hypertension",
+        "Microcirculation",
+        "Capsules",
+        "Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41914515/"
+    }
+  ],
+  "crawled_at": "2026-05-13T22:19:14.626038",
+  "source": "pubmed"
+}

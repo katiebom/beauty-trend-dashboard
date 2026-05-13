@@ -1,0 +1,178 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42119497",
+      "title": "Curcumin nanoparticles and mesenchymal stem cell exosomes embedded in gelatin hydrogel enhance healing of severe burns.",
+      "abstract": "Severe burn injuries present a significant clinical challenge due to prolonged inflammation, delayed re-epithelialization, and high risk of infection. Recent advances in regenerative medicine have highlighted the potential of combining bioactive compounds with cell-derived products to enhance tissue repair. In this study, we developed a novel therapeutic hydrogel composed of gelatin, mesenchymal stem cell (MSC)-derived exosomes, and nanocurcumin (nCur) for promoting burn wound healing. The nanocurcumin was synthesized using a precipitation method and characterized for size, morphology, and loading efficiency. Exosomes were isolated from MSC culture supernatants using differential ultracentrifugation and confirmed via nanoparticle tracking analysis and CD63 expression. The gelatin hydrogel was loaded with both bioactive agents to form a composite wound dressing. In vitro assays demonstrated that the dual-loaded hydrogel enhanced fibroblast proliferation, migration, and angiogenesis compared to hydrogels containing only exosomes or nCur. In vivo studies using a rat deep second-degree burn model revealed that wounds treated with the exosome-nCur hydrogel exhibited significantly faster closure, enhanced granulation tissue formation, increased collagen deposition, and reduced inflammation compared to controls. Histological and immunohistochemical analyses confirmed enhanced re-epithelialization and neovascularization in the treated groups. Our results suggest that the complementary action of exosomes and nanocurcumin, delivered via a biocompatible gelatin matrix, can effectively accelerate burn wound healing by modulating inflammation, promoting angiogenesis, and supporting tissue regeneration. This multifunctional hydrogel dressing represents a promising and clinically translatable approach for advanced wound care.",
+      "year": "2026",
+      "journal": "Burns : journal of the International Society for Burn Injuries",
+      "authors": [
+        "Esfahlani Mohsen Abedini",
+        "Ebrahimi-Barough Somayeh",
+        "Imani Rana",
+        "Lotfibakhshaiesh Nasrin",
+        "Bahrami Naghmeh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42119497/"
+    },
+    {
+      "pmid": "42116131",
+      "title": "Neutrophil-guided pro-efferocytic mRNA platform for accelerated diabetic wound repair.",
+      "abstract": "The divergent fates of neutrophils play a critical yet complex role in tissue repair. However, how to harness the heterogeneity of neutrophil phenotypes in specific clinical contexts to guide the design of therapeutic materials remains poorly explored. In this study, inspired by the accumulation of apoptotic neutrophils (aNs) and exaggerated formation of neutrophil extracellular traps (NETs) in diabetic wounds, we innovatively developed nano-platform based on Interleukin 4 (IL-4) mRNA-enriched exosomes locally delivered by bisphosphonate (BP)-magnesium (Mg²⁺) coordination hydrogels.",
+      "year": "2026",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Song Junying",
+        "Song Binyu",
+        "Pei Shan",
+        "Zhu Yifu",
+        "Zhang Yufei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42116131/"
+    },
+    {
+      "pmid": "42107749",
+      "title": "A bioengineered extracellular vesicle-based platform for targeted codelivery and multi-mechanistic therapy of skin fibrosis.",
+      "abstract": "Systemic sclerosis (SSc) is an autoimmune fibrotic disease with limited effective therapies. Kaempferol (K) has promising antifibrotic activity but is limited by poor solubility and delivery efficiency. In this study, we prepared kaempferol-loaded liposomes via the thin-film dispersion method, extracted exosomes by ultracentrifugation combined with PEG precipitation, and successfully constructed kaempferol-loaded liposome-exosome composite nanoparticle (KLE) through repeated freeze-thaw fusion.Characterization showed KLE had ideal physicochemical properties with an average particle size of 189.87 ± 12.62 nm, PDI of 0.40 ± 0.09, and encapsulation efficiency of 66.00 ± 3.07%. KLE exhibited sustained release behavior in vitro and enhanced DPPH radical scavenging capacity (55.92 ± 4.34% at 0.2 mg/mL) by activating the Nrf2/ARE antioxidant pathway. In a bleomycin-induced mouse model of localized scleroderma, topical administration of KLE significantly reduced dermal thickening, collagen deposition, and inhibited myofibroblast activation. It also downregulated TGF-β/Smad signaling, reduced pro-inflammatory factors, and regulated VEGF expression.This study demonstrates that KLE synergizes the high drug-loading capacity of liposomes and the delivery advantages of exosomes, serving as a safe and effective multi-target strategy for SSc-related skin fibrosis.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Fang Yuqing",
+        "Hu Chenchen",
+        "Liu Yong",
+        "Wang Lu",
+        "Shen Wang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42107749/"
+    },
+    {
+      "pmid": "42099389",
+      "title": "Mesenchymal stem cell-derived exosomes promote scalp rejuvenation through type XVII collagen regulation via the miR-21-5p/DKK2/Wnt pathway.",
+      "abstract": "Hair follicle aging is driven by COL17A1 proteolysis in hair follicle stem cells (HFSCs). Mesenchymal stem cell (MSC)-derived exosomes show promise in tissue regeneration, but their effects on COL17A1 and hair follicle aging remain unexplored.",
+      "year": "2026",
+      "journal": "Frontiers in cell and developmental biology",
+      "authors": [
+        "Cui Shiyue",
+        "Huang Yuanyuan",
+        "Zeng Duo",
+        "Li Jie",
+        "Tang Chun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42099389/"
+    },
+    {
+      "pmid": "42097777",
+      "title": "Exosome-camouflaged chitosan/zinc oxide/carbon quantum dot nanocarriers for pH-responsive doxorubicin delivery in breast cancer treatment.",
+      "abstract": "Doxorubicin (DOX) chemotherapy for breast cancer is constrained by systemic toxicity and limited tumor selectivity, underscoring the need for polysaccharide-based carriers in which pH responsiveness arises from intrinsic polymer properties rather than chemical modification. In this study, a carbohydrate-centered biomimetic nanocarrier was developed using chitosan as the primary structural and pH-responsive matrix, integrating zinc oxide nanoparticles (ZnO) and carbon quantum dots (CQDs) through a W1/O/W2 double-emulsion process, followed by surface association with bone marrow-derived mesenchymal stem cell (BM-MSC) exosomal membranes. The resulting CS/ZnO/CQDs@DOX nanocarriers exhibited an average hydrodynamic diameter of ∼180 nm, which increased to ∼205 nm after exosome association, accompanied by partial surface charge shielding. Physicochemical analyses supported a predominantly non-covalent assembly without evidence of alteration of the chitosan backbone, yielding a high encapsulation efficiency (88.75 ± 2.1%) and a drug loading of 6.8 ± 0.5 wt%. In vitro studies revealed pronounced pH-dependent doxorubicin release and enhanced cytotoxicity toward MCF-7 cells (IC₅₀ = 0.8 ± 0.1 μM), while maintaining minimal toxicity toward normal cells. Overall, these findings demonstrate that chitosan-driven pH responsiveness, complemented by inorganic components and biomimetic surface camouflaging, provides an effective and chemically conservative strategy for carbohydrate-based drug delivery design.",
+      "year": "2026",
+      "journal": "Carbohydrate polymers",
+      "authors": [
+        "Pourmasoumi Parvin",
+        "Pourmadadi Mehrab"
+      ],
+      "mesh_terms": [
+        "Chitosan",
+        "Doxorubicin",
+        "Humans",
+        "Quantum Dots",
+        "Hydrogen-Ion Concentration",
+        "Zinc Oxide",
+        "Drug Carriers",
+        "Breast Neoplasms",
+        "Carbon",
+        "MCF-7 Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42097777/"
+    },
+    {
+      "pmid": "42095157",
+      "title": "Exosome Therapy for Livedoid Vasculitis Following COVID-19 Vaccination: A Case Report.",
+      "abstract": "Livedoid vasculitis is a vascular autoimmune disorder affecting the skin. It most commonly occurs in young women. The occurrence of this condition after the coronavirus 2019 (COVID-19) vaccination is rare. The available literature suggests limited use of exosomes in the treatment of livedoid vasculitis. We present the case of a 65-year-old Chinese man who developed livedoid vasculitis after COVID-19 vaccination. We posit that the etiology in this case may be either COVID-19 vaccine-induced immune stimulation or activation of the condition by a rare vaccine component. This case is unique, with no previously reported precedents. The patient was treated intravenously for 1 month with stem cell-derived exosome therapy, using stem cells derived from exfoliated human deciduous teeth. This resulted in improvement in the livedoid vasculitis, with no reemergence of symptoms. This case highlights the therapeutic benefits of exosome treatment for livedoid vasculitis after COVID-19 vaccination. However, large-scale studies are needed before this outcome can be generalized.",
+      "year": "2026",
+      "journal": "Drug, healthcare and patient safety",
+      "authors": [
+        "Lin Tsung-Kun",
+        "Chang Chih-Feng",
+        "Jong Gwo-Ping"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42095157/"
+    },
+    {
+      "pmid": "42093508",
+      "title": "PAM@GO Composite Scaffolds Enhance the Yield of iMEC Exosomes for Accelerated Burn Repair.",
+      "abstract": "Severe burns trigger widespread tissue necrosis and a persistent inflammatory cascade, demanding the development of advanced biomaterials capable of actively promoting cutaneous regeneration. In this study, we present a multifunctional hydrogel system integrating a polyacrylamide-graphene oxide (PAM@GO) matrix, capable of promoting induced mammary epithelial-like cells (iMECs) to achieve the high-yield production of exosomes (PAM@GO-EXOs-iMECs), and enhance the biological functions. Mechanistically, iMECs exosome biogenesis can be enhanced by both activating RAB27A/B-mediated vesicular trafficking and upregulating the critical MITF-NSMASE2 signaling axis. Furthermore, in vitro assays demonstrated that PAM@GO-EXOs-iMECs significantly stimulated keratinocyte proliferation and migration, alongside robust endothelial tube formation compared to 2D-EXOs-iMECs. The PAM@GO-EXOs-iMECs were subsequently encapsulated within a methoxy polyethylene glycol (MPEG) hydrogel to form a sustained-release bioactive dressing (PAM@GO-EXOs-MPEG). In murine burn models, PAM@GO-EXOs-MPEG accelerated wound closure, improved collagen alignment, and fostered neovascularization compared to 2D-EXOs-iMECs. Meanwhile, proteomic profiling revealed profound enrichment of proteins linked to epidermal development, cytoskeletal reorganization, and inflammatory resolution following treatment with PAM@GO-EXOs-MPEG. Collectively, this work establishes an innovative PAM@GO scalable platform for significantly promoting exosome production and introduces a clinically translatable exosome-hydrogel hybrid with substantial regenerative potential for severe burn repair.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Lei Zhigang",
+        "Deng Shan",
+        "Sun Zhe",
+        "Liu Quanhui",
+        "Pan Hong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42093508/"
+    },
+    {
+      "pmid": "42088451",
+      "title": "Aging alters synergistic microRNA networks in exosomes to stimulate repair in lung injury and skin wound healing.",
+      "abstract": "Mesenchymal stem cells (MSCs) deliver their effects via paracrine signaling, including the release of extracellular vesicles (EVs), which transfer microRNAs (miRNAs) and mRNAs to recipient cells. Aging alters exosome composition and function, raising questions about donor age, the use of autologous vs. allogeneic donors, and exosome dose and dosing frequency for exosome-based therapies in fibrotic lung disease. To address these gaps, we investigated how exosomes from younger (28-39 years, adult-exo) and older (58-66 years) donors influence fibrosis and tissue repair. Exosomes were delivered intravenously to 18-months-old male C57BL/6 mice on day 12 post-bleomycin (BLM), with lung injury evaluated on day 21 by histologic, molecular, mitochondrial, and telomere analyses. A human skin injury model was used to quantitate exosome-mediated wound healing. Adult-exo reduced lung injury and accelerated skin wound closure. RNA sequencing (RNA-seq) revealed that adult-exo carried elevated antifibrotic miRNAs, such as let-7. Pathway enrichment linked this cargo to extracellular matrix (ECM) remodeling, mitochondrial function, and senescence. Adult-exo treatment also downregulated fibrosis- and senescence-associated miRNAs, such as miR-34, in lung tissue. ",
+      "year": "2026",
+      "journal": "Molecular therapy. Nucleic acids",
+      "authors": [
+        "Elliot Sharon J",
+        "Grimaldo Sam",
+        "Catanuto Paola",
+        "Pereira-Simon Simone",
+        "Xia Xiaomei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42088451/"
+    },
+    {
+      "pmid": "42080345",
+      "title": "Unlocking the potential of exosomes: overcoming challenges in retention time, stability and targeting.",
+      "abstract": "Exosomes, a subtype of extracellular vesicles (EVs) ranging in size from 30-150 nm, have emerged as critical mediators of intercellular communication and promising therapeutic tools for drug delivery, biomarker detection, and the treatment of complex diseases such as cancer and neurodegenerative disorders. PubMed, Scopus, and Web of Science were searched using MeSH terms and keywords related to exosome. Despite their high promise, clinical translation is hampered by issues such as fast circulation clearance, storage instability, variability in biomarker composition, and limited production scalability. Furthermore, current exosome isolation and retention approaches frequently impair purity, yield, or functionality. This research emphasizes the importance of uniform separation, storage protocols, and scalable manufacturing processes, while also investigating sophisticated imaging approaches for monitoring exosome biodistribution and therapeutic effects. These breakthroughs have the potential to overcome translational constraints, allowing for the integration of exosome-based medicines into clinical practice and changing the precision medicine landscape.",
+      "year": "2026",
+      "journal": "Nanomedicine (London, England)",
+      "authors": [
+        "Moradi Zahra",
+        "Khezrian Ali",
+        "Samavati Alireza",
+        "Amini Razieh",
+        "Khaghani Boroujeni Armin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42080345/"
+    },
+    {
+      "pmid": "42073416",
+      "title": "Baseline Neutrophil-to-Lymphocyte Ratio Stratifies Early Trichoscopic Response to Platelet-Rich Plasma-Based Regimens in Non-Scarring Alopecia: A Real-World Cohort with Internal Validation Using an Interpretable Neural Network.",
+      "abstract": "Platelet-rich plasma (PRP)-based regimens are widely used in non-scarring alopecia, yet objective response is variable and clinic-ready predictors are lacking. We evaluated short-term trichoscopic outcomes in routine practice and tested whether baseline complete blood count-derived inflammatory status, quantified by the neutrophil-to-lymphocyte ratio (NLR), can stratify response under PRP-based therapy.",
+      "year": "2026",
+      "journal": "Life (Basel, Switzerland)",
+      "authors": [
+        "Vrapcea Adelina",
+        "Săndulescu Sarmis-Marian",
+        "Ciupeanu-Calugaru Eleonora Daniela",
+        "Traşcă Emil-Tiberius",
+        "Rădulescu Dumitru"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42073416/"
+    }
+  ],
+  "crawled_at": "2026-05-13T22:18:55.327176",
+  "source": "pubmed"
+}
