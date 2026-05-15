@@ -1,0 +1,169 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42131163",
+      "title": "Vogt-Koyanagi-Harada Disease Mimicking Idiopathic Intracranial Hypertension.",
+      "abstract": "Vogt-Koyanagi-Harada (VKH) disease is a multisystem autoimmune disorder characterized by an inflammatory response targeting melanocyte-associated antigens in tissues such as the uveal tract, inner ear, meninges, and the skin. The classic presentation is bilateral pan-uveitis (choroiditis and multifocal serous retinal detachment) in association with extra-ocular features such signs of meningeal irritation (headache, neck stiffens), auditory signs (tinnitus, hearing loss), and skin changes (poliosis, vitiligo). This is a case of an incomplete form of VKH presenting predominantly with bilateral disc edema. The patient was erroneously diagnosed as having idiopathic intracranial hypertension at first based on a high CSF opening pressure on lumbar puncture and normal MRI/MRV of the brain. However, atypical features in the case such as mild anterior uveitis and the persistence of headache and auditory signs led to further work up and to the diagnosis of incomplete VKH with bilateral disc edema.",
+      "year": "2026",
+      "journal": "Neuro-ophthalmology (Aeolus Press)",
+      "authors": [
+        "Behbehani Raed",
+        "Esmail Ali"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42131163/"
+    },
+    {
+      "pmid": "42130555",
+      "title": "Hypotony following the use of topical carbonic anhydrase inhibitors in glaucoma patients: a case report and review of literature.",
+      "abstract": "Topical carbonic anhydrase inhibitors (CAIs) are widely used to lower intraocular pressure (IOP) by suppressing aqueous production. Though generally safe, hypotony is an extremely rare adverse effect. Understanding, this reaction is clinically relevant, particularly in surgically complex glaucoma eyes.",
+      "year": "2026",
+      "journal": "International journal of surgery case reports",
+      "authors": [
+        "AlTariqi Sulaiman M",
+        "Halawani Mohammed A",
+        "AlOtaiby Nayef D"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42130555/"
+    },
+    {
+      "pmid": "42125154",
+      "title": "Small-molecule therapeutics for diabetic retinopathy: from VEGFR inhibitors to emerging non-VEGF targets.",
+      "abstract": "Diabetic retinopathy (DR) remains a leading cause of vision loss worldwide and is driven largely by chronic microvascular dysfunction dominated by vascular endothelial growth factor (VEGF) signaling. Although biologics have transformed anti-VEGF therapy, small molecules continue to attract interest because of their structural tunability, multitarget potential, and compatibility with diverse delivery platforms. In this review, we summarize the medicinal-chemistry progress of small-molecule therapeutics for DR, with emphasis not only on target classes and scaffold design, but also on the developmental advancement of representative agents. VEGF/VEGFR-directed programs now span early proof-of-concept inhibitors, ocularly optimized topical candidates, and clinically advanced depot-enabled tyrosine kinase inhibitors, whereas non-VEGF approaches include validated lead series targeting soluble epoxide hydrolase, STAT3, adiponectin receptors, integrins, and other mechanistically complementary pathways. Importantly, the field remains highly uneven: a limited number of compounds have achieved meaningful translational or clinical progress, while many others remain exploratory despite compelling biology. Taken together, current evidence suggests that the most promising future direction lies not in potency optimization alone, but in integrating scaffold design with ocular pharmacokinetics, formulation, and route-specific delivery to define realistic therapeutic niches in diabetic retinal diseases.",
+      "year": "2026",
+      "journal": "RSC medicinal chemistry",
+      "authors": [
+        "Li Yan",
+        "Zhang Wenfang",
+        "Bai Yinliang",
+        "Zhang Honghua"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42125154/"
+    },
+    {
+      "pmid": "42123729",
+      "title": "Transfer RNA Fragments in Diseases of Sensory Organs.",
+      "abstract": "Transfer RNA-derived fragments (tRFs) have been recently recognized for their multiple roles in gene expression, including modulation of translation, mRNA stability, and cellular signaling pathways. Sensory organs, such as the eyes, skin, and oral cavity, are continuously exposed to environmental stressors, including oxidative stress, ultraviolet radiation, microbial challenges, and mechanical stimuli, making them particularly susceptible to dysregulation of RNA-mediated processes. This review comprehensively summarizes current evidence on the role of tRFs in sensory organ physiology and pathology with a focus on their involvement in key processes, such as angiogenesis, inflammation, immune regulation, and fibrosis. tRFs have been shown to influence critical signaling pathways that are central to diseases such as retinal neovascularization, inflammatory skin conditions, wound healing, tissue remodeling, etc. Despite these advances, the field remains limited by a lack of experimentally validated tRF-target interactions, as most available data rely on computational predictions. The findings from the literature emphasize the need for rigorous functional validation in disease-relevant models of tRFs in biofluids, such as saliva and serum, to support their potential as minimally invasive biomarkers. Further translational studies are required to fully elucidate their biological roles and explore their potential in diagnostic and therapeutic applications.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Gulati Nikita",
+        "Yang Zhongyu",
+        "Lin Yan X",
+        "Sanusi Hameed",
+        "Gonda Bianca"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "RNA, Transfer",
+        "Signal Transduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42123729/"
+    },
+    {
+      "pmid": "42120977",
+      "title": "The diagnostic value of prenatal ultrasound imaging features in an infant with congenital human cytomegalovirus infection combined with blueberry muffin-like skin manifestations: a case analysis and literature review.",
+      "abstract": "Congenital cytomegalovirus (CMV) is the most common congenital viral infection worldwide. Most infants with CMV have no obvious clinical symptoms at birth. Purplish-blue skin ecchymosis occurs in a small number of symptomatic neonates with CMV, which is rare.",
+      "year": "2026",
+      "journal": "BMC pediatrics",
+      "authors": [
+        "Gao Wenjing",
+        "Shi Wei",
+        "Lin Qi",
+        "Li Weiyue",
+        "Hong Shaofu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42120977/"
+    },
+    {
+      "pmid": "42117131",
+      "title": "Treponemal Endovasculitis leading to branch artery occlusion: a rare manifestation of ocular syphilis.",
+      "abstract": "Ocular syphilis, a re-emerging cause of uveitis, commonly features retinal vasculitis, but branch retinal artery occlusion (BRAO) is a rare, irreversible damaging complication. We present a 47-year-old woman with bilateral syphilitic panuveitis, retinal vasculitis and an inferior BRAO, emphasising the diagnostic value of multimodal imaging. She presented with progressive bilateral blurred vision, exhibiting bilateral nongranulomatous anterior uveitis, vitritis, peripheral vascular sheathing, and multiple chorioretinal lesions. Optical coherence tomography revealed inner retinal thinning consistent with inferior BRAO, and fluorescein angiography showed diffuse vascular leakage consistent with syphilitic retinal vasculitis. Serologic testing confirmed active syphilis. Intravenous penicillin G and topical anti-inflammatory therapy resolved inflammation and with full visual recovery in the right eye. The left eye stabilized with mild persistent visual impairment due to ischemic retinal atrophy. Multimodal imaging for accurate diagnosis is indispensable in cases of unexplained uveitis or retinal vasculitis and timely penicillin treatment-indicated only after syphilis is confirmed through appropriate diagnostic testing-is critical to prevent vision loss.",
+      "year": "2026",
+      "journal": "Oxford medical case reports",
+      "authors": [
+        "Chalam Kakarla V",
+        "Ceja Lourdes",
+        "Cheng Anny M S"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42117131/"
+    },
+    {
+      "pmid": "42115541",
+      "title": "Periorbital necrotizing soft tissue infection due to Streptococcus pyogenes with streptococcal toxic shock syndrome: successful early structured multidisciplinary management.",
+      "abstract": "Periorbital necrotizing soft tissue infections (NSTIs) are rare but potentially life-threatening, particularly when complicated by streptococcal toxic shock syndrome (STSS). Rapid systemic deterioration can occur, even in previously healthy individuals. We report a case of a 57-year-old woman who developed periorbital NSTI, complicated by STSS, secondary to Streptococcus pyogenes. Emergency eyelid debridement was performed within 24 h of symptom onset, followed by intensive care management and empirical broad-spectrum intravenous antibiotics, which were subsequently adjusted to pathogen-directed therapy. Localized recurrence on hospital day 6 was treated with repeated, limited debridement and adjunctive, low-concentration antiseptic irrigation. The patient recovered from the STSS. Progressive black necrosis did not occur; visual function was preserved, reconstructive surgery was unnecessary, and complete cosmetic recovery was achieved within eight months. This case underscores that STSS may develop rapidly, even in healthy individuals, and highlights the importance of early, structured, and multidisciplinary management.",
+      "year": "2026",
+      "journal": "Journal of ophthalmic inflammation and infection",
+      "authors": [
+        "Yashiro Shigeko",
+        "Inoue Kento",
+        "Kitagawa Yuki",
+        "Yamamoto Kei",
+        "Nagahara Masako"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42115541/"
+    },
+    {
+      "pmid": "42109556",
+      "title": "Carotid Intima-Media Thickness and Retrobulbar Blood Flow in Patients with Psoriasis.",
+      "abstract": "To evaluate carotid intima-media thickness (CIMT) and retrobulbar hemodynamic parameters in patients with psoriasis.",
+      "year": "2026",
+      "journal": "Indian journal of dermatology",
+      "authors": [
+        "Cakici Ozgur",
+        "Gucer Firdevs",
+        "Karadag Remzi",
+        "Karadag Ayse S",
+        "Caliskan Mustafa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42109556/"
+    },
+    {
+      "pmid": "42106726",
+      "title": "Fellow-eye herpes simplex virus type 1 uveitis after intravitreal bevacizumab: a case report.",
+      "abstract": "Intravitreal anti-vascular endothelial growth factor (anti-VEGF) therapy is widely used for neovascular retinal diseases. Intraocular inflammation is a recognized adverse event and typically occurs in the injected eye. Inflammation in the fellow, uninjected eye is exceptionally rare and may be misinterpreted as sterile immune-mediated inflammation, potentially delaying appropriate treatment. We report a case of polymerase chain reaction (PCR)-confirmed herpes simplex virus type 1 (HSV-1) uveitis presenting in the fellow eye shortly after intravitreal bevacizumab administration.",
+      "year": "2026",
+      "journal": "BMC ophthalmology",
+      "authors": [
+        "Saturno Maria Carmela",
+        "Gagliardi Oscar Matteo",
+        "La Cava Maurizio",
+        "Armentano Marta",
+        "Alisi Ludovico"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42106726/"
+    },
+    {
+      "pmid": "42103030",
+      "title": "The role of adjunctive aqueous suppressants for anti-vascular endothelial growth factor therapy: A systematic review.",
+      "abstract": "Our goal is to determine whether adjunctive aqueous suppressants (topical β-blockers, carbonic anhydrase inhibitors, or oral acetazolamide) enhance outcomes of anti-vascular endothelial growth factor (anti-VEGF) therapy for diabetic macular edema (DME), retinal vein occlusion (RVO), and neovascular age-related macular degeneration (nAMD), focusing on retinal thickness, visual acuity, injection burden, intraocular pressure (IOP), and safety. DME, RVO, and nAMD are leading causes of vision loss treated with repeated intravitreal injections, yet many eyes show persistent fluid. Aqueous suppressants are inexpensive and widely available, with potential to prolong intravitreal drug residence and improve outcomes, but their clinical value remains uncertain. Following a registered protocol, we searched 4 databases (January, 2000 toMay, 2025) for randomized and comparative studies evaluating adjunct aqueous suppressants with anti-VEGF therapy. Primary outcome was change in retinal thickness; secondary outcomes included visual acuity, injection burden, IOP, and adverse events. Risk of bias was assessed and findings synthesized narratively. Twelve studies (7 randomized trials; 495 eyes) met inclusion criteria. In DME, 3 of 4 trials showed greater thickness reduction with adjunctive dorzolamide (±timolol), although visual gains were inconsistent. In RVO, 1 trial suggested transient anatomical benefit, whereas oral acetazolamide showed no added effect. In nAMD, adjunctive dorzolamide-timolol reduced residual fluid in refractory cases without visual or treatment-sparing benefit. Topical therapy produced modest IOP reductions without serious adverse events. Adjunct aqueous suppressants may provide limited short-term anatomical benefit, particularly in DME and refractory nAMD, but consistent functional or durability effects are not found in this study. Larger, longer-term randomized studies are needed.",
+      "year": "2026",
+      "journal": "Survey of ophthalmology",
+      "authors": [
+        "Sadek Kareem",
+        "Yu Philip",
+        "Al-Burak Salem Abu",
+        "Osman Rahma",
+        "Tao Brendan K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42103030/"
+    }
+  ],
+  "crawled_at": "2026-05-15T22:02:39.798490",
+  "source": "pubmed"
+}
