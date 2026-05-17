@@ -1,0 +1,206 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42139022",
+      "title": "Exosome and biotherapeutic strategies for dermatological and oncological skin complications.",
+      "abstract": "Exosomes are nanosized extracellular vesicles (30-150 nm) that mediate intercellular communication by transferring bioactive molecules, including proteins, lipids, and nucleic acids. Their ability to regulate inflammation, immune responses, angiogenesis, and tissue regeneration has positioned them as promising candidates for the management of dermatological diseases and oncologic skin complications.",
+      "year": "2026",
+      "journal": "Annals of medicine",
+      "authors": [
+        "Tauseef Hani",
+        "Yun-Jie Wang",
+        "Shahid Abubakar",
+        "Siddiqa Ayesha",
+        "Chao Ci"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Skin Diseases",
+        "Skin Neoplasms",
+        "Wound Healing",
+        "Animals",
+        "Biological Therapy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42139022/"
+    },
+    {
+      "pmid": "42137193",
+      "title": "Role of Extracellular Vesicles in Skin Barrier Repair: Applications in Atopic Dermatitis and Chronic Wounds.",
+      "abstract": "Extracellular vesicles (EVs) have emerged as a promising cell-free therapeutic strategy for skin barrier repair due to their ability to mediate intercellular communication through the delivery of bioactive cargo including proteins, lipids, and nucleic acids. This review synthesises current evidence on the role of EVs in restoring skin barrier integrity, with a particular focus on atopic dermatitis (AD) and chronic wounds. EVs derived from mesenchymal stromal cells, epidermal cells, and commensal microbiota exhibit distinct but overlapping therapeutic properties, including immunomodulation, promotion of keratinocyte proliferation and differentiation, and stimulation of dermal remodelling and angiogenesis. These effects are mediated through key signalling pathways such as AKT, ERK, NF-κB, Wnt/β-catenin, and HIF-1α/VEGF, as well as through regulatory microRNAs that fine tune cellular responses. Importantly, the relative contribution of these mechanisms is context dependent, with immune modulation predominating in AD and angiogenesis and tissue regeneration playing a central role in chronic wound healing. Despite strong preclinical evidence demonstrating efficacy, translation into clinical application remains limited by challenges in delivery, standardisation, and scalability. This review highlights the therapeutic potential of EV while emphasising the need for improved delivery strategies and rigorously designed clinical studies to fully realise their clinical utility in skin barrier repair.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Khoo Leanne",
+        "Chin Yun Zhi",
+        "Law Jia Xian"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Extracellular Vesicles",
+        "Dermatitis, Atopic",
+        "Wound Healing",
+        "Animals",
+        "Skin",
+        "Chronic Disease",
+        "Signal Transduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42137193/"
+    },
+    {
+      "pmid": "42136652",
+      "title": "Advancing precision immuno-oncology in melanoma: the synergistic convergence of personalized neoantigen vaccines and multi-omics biomarker profiling.",
+      "abstract": "Cutaneous melanoma represents a paradigm of immunological complexity, where multifactorial primary and acquired resistance often undermine the clinical efficacy of conventional immune checkpoint blockades and targeted therapies. This review provides a comprehensive analysis of the strategic shift toward precision immuno-oncology, focusing on the mechanistic synergy between personalized neoantigen-directed vaccines and integrated multi-omics profiling. Rather than viewing these as independent pillars, we propose an integrated framework where multi-omics data functions as the indispensable 'operating system' that drives the entire lifecycle of neoantigen vaccines. By targeting patient-specific somatic mutations, bespoke vaccines are capable of orchestrating ",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Hou Yulong",
+        "Chen Can",
+        "Chen Xi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanoma",
+        "Cancer Vaccines",
+        "Precision Medicine",
+        "Antigens, Neoplasm",
+        "Biomarkers, Tumor",
+        "Tumor Microenvironment",
+        "Immunotherapy",
+        "Genomics",
+        "Skin Neoplasms"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42136652/"
+    },
+    {
+      "pmid": "42134708",
+      "title": "Chloroquine-induced exosomal hybrid liposomes enable neutralization of endotoxins and exotoxins.",
+      "abstract": "Sepsis remains a major challenge in global clinical practice due to its persistently high mortality rate. Traditional antibiotics address symptoms rather than root causes, while the problem of drug resistance continues to escalate. Detoxification strategies such as monoclonal antibodies have shown limited efficacy in complex clinical settings, as their single-target specificity and narrow activity spectrum restrict their ability to neutralize diverse bacterial toxins. The therapeutic bottleneck lies in the absence of effective methods capable of simultaneously neutralizing Gram-negative bacterial endotoxins (such as LPS) and Gram-positive bacterial exotoxins (such as Hlα). To overcome this limitation, we drew inspiration from the natural \"bait\" mechanisms of living organisms to develop a biomimetic nanoscale detoxifier with broad-spectrum toxin adsorption and neutralization capacity. Specifically, chloroquine was used to inhibit autophagy lysosome formation in macrophages, promoting the release of exosomes enriched with toxin receptors CD14 and ADAM10. These exosomes (Exo) were then fused with artificial liposomes (Lip) possessing extensive membrane space to construct exosome membrane hybrid liposomes (Elip). Our results demonstrated that Elip effectively neutralized the hemolytic activity of Hlα and adsorbed LPS in vitro. In a subcutaneous HIα-induced local inflammation model, Elip completely prevented local skin and muscle tissue necrosis. In a systemic inflammation model induced by intravenous HIα, Elip significantly alleviated acute inflammatory damage in the lungs and liver, reducing key pro-inflammatory factor levels to near-normal ranges. In an LPS-induced shock model, all animals in the Elip treatment group survived. This study robustly confirmed that Elip successfully resolves the clinical challenge of simultaneously clearing endotoxins and exotoxins through a \"synergistic detoxification\" mechanism, offering a novel therapeutic strategy with significant translational potential that transcends traditional antibiotics for conquering sepsis.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Wang Yang",
+        "Su Xiaomin",
+        "Xiao Yaqiong",
+        "Sun Chenyu",
+        "Hu Lina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42134708/"
+    },
+    {
+      "pmid": "42131805",
+      "title": "Green tea-derived exosome-like nanoparticles attenuate oxidative stress-induced skin senescence via modulation of p38 MAPK signaling.",
+      "abstract": "Plant-derived exosome-like nanoparticles (PDENs) have emerged as bioactive nanostructures capable of transferring molecular cargos across species; however, their mechanistic roles in mammalian stress-responsive signaling remain incompletely defined. In this study, we investigated the effects of green tea (",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Choi Wooram",
+        "Cho Jeong Hun",
+        "Park Sang Hee",
+        "Kim Dong Seon",
+        "Lee Hwa Pyoung"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42131805/"
+    },
+    {
+      "pmid": "42130348",
+      "title": "Understanding exosomes in facial esthetics and skin aging.",
+      "abstract": "Skin aging is a multifactorial process mediated by intrinsic (genetic and metabolic) and extrinsic (environmental) factors leading to functional and structural deterioration, including wrinkles, loss of collagen and elastin, as well as various pigmentation disorders. Exosomes, the smallest subset of extracellular vesicles, have emerged as potent cell-free regulators of intercellular communication with significant regenerative potential. This scoping review synthesized available in vitro, in vivo, and clinical evidence investigating the role of exosomes in facial esthetics and skin rejuvenation.",
+      "year": "2026",
+      "journal": "Periodontology 2000",
+      "authors": [
+        "Miron Richard J",
+        "Davies Catherine",
+        "Sculean Anton",
+        "Ahmad Paras"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42130348/"
+    },
+    {
+      "pmid": "42130026",
+      "title": "Benzo[a]pyrene Aggravates Psoriasis-Like Skin Inflammation via Circulating Exosomal microRNA Modulation.",
+      "abstract": "Benzo[a]pyrene (BaP), a polycyclic aromatic hydrocarbon and environmental pollutant, has been implicated in the exacerbation of psoriasis, although the underlying molecular mechanisms remain unclear. In this study, we investigated the role of BaP in inflammation, focusing on serum exosomes, using a mouse model of imiquimod (IMQ)-induced psoriasis. Topical BaP exposure aggravated psoriatic skin inflammation and increased the expression of aryl hydrocarbon receptor (AhR), CYP1A1, and proinflammatory cytokines in lesional skin. Serum exosomes from BaP + IMQ-treated mice enhanced cytokine expression in primary mouse keratinocytes. High-throughput miRNA profiling revealed that 81 and 91 miRNAs were upregulated in serum exosomes from IMQ- and BaP + IMQ-treated mice, respectively, compared to controls. Notably, mmu-miR-423-3p was the most upregulated in both groups, as validated by quantitative reverse transcription-polymerase chain reaction (qRT-PCR). Consistently, hsa-miR-423-5p was significantly elevated in circulating exosomes from psoriasis patients compared to healthy controls, confirmed by miRNA sequencing and qRT-PCR. KEGG pathway analysis linked hsa-miR-423-5p to the MAPK signalling pathway. Functionally, miR-423-5p triggered an increase in the expression of pro-inflammatory cytokines and oxidative stress in psoriatic keratinocytes. These findings suggest that BaP exacerbates psoriatic inflammation via AhR signalling and that serum exosomal miR-423 may serve as a biomarker for environmentally induced psoriasis exacerbation.",
+      "year": "2026",
+      "journal": "Experimental dermatology",
+      "authors": [
+        "Kim Hye Ran",
+        "Park Jin Seo",
+        "Kim Hye One",
+        "Park Chun Wook",
+        "Chung Bo Young"
+      ],
+      "mesh_terms": [
+        "Psoriasis",
+        "Benzo(a)pyrene",
+        "Animals",
+        "Exosomes",
+        "Mice",
+        "Receptors, Aryl Hydrocarbon",
+        "Humans",
+        "Keratinocytes",
+        "Cytochrome P-450 CYP1A1",
+        "MicroRNAs"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42130026/"
+    },
+    {
+      "pmid": "42119497",
+      "title": "Curcumin nanoparticles and mesenchymal stem cell exosomes embedded in gelatin hydrogel enhance healing of severe burns.",
+      "abstract": "Severe burn injuries present a significant clinical challenge due to prolonged inflammation, delayed re-epithelialization, and high risk of infection. Recent advances in regenerative medicine have highlighted the potential of combining bioactive compounds with cell-derived products to enhance tissue repair. In this study, we developed a novel therapeutic hydrogel composed of gelatin, mesenchymal stem cell (MSC)-derived exosomes, and nanocurcumin (nCur) for promoting burn wound healing. The nanocurcumin was synthesized using a precipitation method and characterized for size, morphology, and loading efficiency. Exosomes were isolated from MSC culture supernatants using differential ultracentrifugation and confirmed via nanoparticle tracking analysis and CD63 expression. The gelatin hydrogel was loaded with both bioactive agents to form a composite wound dressing. In vitro assays demonstrated that the dual-loaded hydrogel enhanced fibroblast proliferation, migration, and angiogenesis compared to hydrogels containing only exosomes or nCur. In vivo studies using a rat deep second-degree burn model revealed that wounds treated with the exosome-nCur hydrogel exhibited significantly faster closure, enhanced granulation tissue formation, increased collagen deposition, and reduced inflammation compared to controls. Histological and immunohistochemical analyses confirmed enhanced re-epithelialization and neovascularization in the treated groups. Our results suggest that the complementary action of exosomes and nanocurcumin, delivered via a biocompatible gelatin matrix, can effectively accelerate burn wound healing by modulating inflammation, promoting angiogenesis, and supporting tissue regeneration. This multifunctional hydrogel dressing represents a promising and clinically translatable approach for advanced wound care.",
+      "year": "2026",
+      "journal": "Burns : journal of the International Society for Burn Injuries",
+      "authors": [
+        "Esfahlani Mohsen Abedini",
+        "Ebrahimi-Barough Somayeh",
+        "Imani Rana",
+        "Lotfibakhshaiesh Nasrin",
+        "Bahrami Naghmeh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42119497/"
+    },
+    {
+      "pmid": "42116131",
+      "title": "Neutrophil-guided pro-efferocytic mRNA platform for accelerated diabetic wound repair.",
+      "abstract": "The divergent fates of neutrophils play a critical yet complex role in tissue repair. However, how to harness the heterogeneity of neutrophil phenotypes in specific clinical contexts to guide the design of therapeutic materials remains poorly explored. In this study, inspired by the accumulation of apoptotic neutrophils (aNs) and exaggerated formation of neutrophil extracellular traps (NETs) in diabetic wounds, we innovatively developed nano-platform based on Interleukin 4 (IL-4) mRNA-enriched exosomes locally delivered by bisphosphonate (BP)-magnesium (Mg²⁺) coordination hydrogels.",
+      "year": "2026",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Song Junying",
+        "Song Binyu",
+        "Pei Shan",
+        "Zhu Yifu",
+        "Zhang Yufei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42116131/"
+    },
+    {
+      "pmid": "42107749",
+      "title": "A bioengineered extracellular vesicle-based platform for targeted codelivery and multi-mechanistic therapy of skin fibrosis.",
+      "abstract": "Systemic sclerosis (SSc) is an autoimmune fibrotic disease with limited effective therapies. Kaempferol (K) has promising antifibrotic activity but is limited by poor solubility and delivery efficiency. In this study, we prepared kaempferol-loaded liposomes via the thin-film dispersion method, extracted exosomes by ultracentrifugation combined with PEG precipitation, and successfully constructed kaempferol-loaded liposome-exosome composite nanoparticle (KLE) through repeated freeze-thaw fusion.Characterization showed KLE had ideal physicochemical properties with an average particle size of 189.87 ± 12.62 nm, PDI of 0.40 ± 0.09, and encapsulation efficiency of 66.00 ± 3.07%. KLE exhibited sustained release behavior in vitro and enhanced DPPH radical scavenging capacity (55.92 ± 4.34% at 0.2 mg/mL) by activating the Nrf2/ARE antioxidant pathway. In a bleomycin-induced mouse model of localized scleroderma, topical administration of KLE significantly reduced dermal thickening, collagen deposition, and inhibited myofibroblast activation. It also downregulated TGF-β/Smad signaling, reduced pro-inflammatory factors, and regulated VEGF expression.This study demonstrates that KLE synergizes the high drug-loading capacity of liposomes and the delivery advantages of exosomes, serving as a safe and effective multi-target strategy for SSc-related skin fibrosis.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Fang Yuqing",
+        "Hu Chenchen",
+        "Liu Yong",
+        "Wang Lu",
+        "Shen Wang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42107749/"
+    }
+  ],
+  "crawled_at": "2026-05-17T21:59:28.180387",
+  "source": "pubmed"
+}
