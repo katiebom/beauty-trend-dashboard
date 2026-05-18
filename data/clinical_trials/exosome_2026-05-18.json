@@ -1,0 +1,780 @@
+{
+  "ingredient_id": "exosome",
+  "name_kr": "엑소좀",
+  "name_en": "Exosome",
+  "query": "(\"Exosome\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 23,
+  "trials": [
+    {
+      "nct_id": "NCT06999408",
+      "title": "Efficacy and Safety of TargetCool + Benev Exosomes in Patients With Hair Thinning",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hair Diseases",
+        "Alopecia",
+        "Hair Thinning"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Scalp tattoo"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Canfield HairMetrix®"
+        },
+        {
+          "type": "DEVICE",
+          "name": "TargetCool"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Microneedle-facilitated lidocaine application"
+        }
+      ],
+      "sponsor": "Recens Medical, Inc.",
+      "primary_completion": "2026-05",
+      "url": "https://clinicaltrials.gov/study/NCT06999408"
+    },
+    {
+      "nct_id": "NCT06755697",
+      "title": "Comparative Efficacy of Intra-articular vs. MRI-guided Extra-articular Dextrose Injections in Knee Osteoarthritis Management",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Knee Osteoarthritis",
+        "Glucose",
+        "Prolotherapy",
+        "MRI",
+        "Physical Therapy",
+        "Rehabilitation"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Intra-articular US-guided hypertonic dextrose injection, IA group"
+        },
+        {
+          "type": "OTHER",
+          "name": "Extra-articular US-guided injection targeting MRI-positive lesion sites, EA group."
+        }
+      ],
+      "sponsor": "Shin Kong Wu Ho-Su Memorial Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06755697"
+    },
+    {
+      "nct_id": "NCT07248410",
+      "title": "A Split-Scalp Study Evaluating the Efficacy and Safety of Fractional Laser Therapy With and Without Exosomes in the Treatment of Androgenetic Alopecia",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Androgenetic Alopecia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "fraction laser"
+        }
+      ],
+      "sponsor": "Chang Gung Memorial Hospital",
+      "primary_completion": "2027-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT07248410"
+    },
+    {
+      "nct_id": "NCT06599346",
+      "title": "Effects of Mesenchymal Stem Cell Supernatant on Prevention and Treatment of Skin/Mucosal Injury in Hematology Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Mucositis",
+        "Hematopoietic Stem Cell Transplantation",
+        "Chemotherapy-Induced Mucositis",
+        "Radiation-Induced Mucositis"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Standard Care"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "MSC Supernatant + Standard Care"
+        }
+      ],
+      "sponsor": "The General Hospital of Western Theater Command",
+      "primary_completion": "2025-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT06599346"
+    },
+    {
+      "nct_id": "NCT04173650",
+      "title": "MSC EVs in Dystrophic Epidermolysis Bullosa",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dystrophic Epidermolysis Bullosa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "AGLE-102"
+        }
+      ],
+      "sponsor": "Aegle Therapeutics",
+      "primary_completion": "2025-09",
+      "url": "https://clinicaltrials.gov/study/NCT04173650"
+    },
+    {
+      "nct_id": "NCT07112586",
+      "title": "Evaluation of Exosomes Injection in Treatment of Male Androgenetic Alopecia: Clinical and Immunohistochemical Study",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Androgenetic Alopecia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Plasma derived exosomes"
+        }
+      ],
+      "sponsor": "Ain Shams University",
+      "primary_completion": "2026-01-31",
+      "url": "https://clinicaltrials.gov/study/NCT07112586"
+    },
+    {
+      "nct_id": "NCT07065409",
+      "title": "Treatment of Moyamoya Disease With iPSC-derived Exosomes",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Moyamoya Disease"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "iPSC-EVs"
+        }
+      ],
+      "sponsor": "Huaqiu Zhang",
+      "primary_completion": "2026-05-31",
+      "url": "https://clinicaltrials.gov/study/NCT07065409"
+    },
+    {
+      "nct_id": "NCT07373054",
+      "title": "Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes in the Treatment of Androgenic Alopecia",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Androgenic Alopecia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Topical Minoxidil"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Electric Microneedling"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Traditional Exosome Lyophilized Powder"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Innovative Exosome Lyophilized Powder"
+        }
+      ],
+      "sponsor": "Fujian Medical University Union Hospital",
+      "primary_completion": "2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT07373054"
+    },
+    {
+      "nct_id": "NCT07584291",
+      "title": "Liquid Biopsy Multi-Omics and Biomarker Development in Melanoma",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Melanoma (Skin Cancer)"
+      ],
+      "interventions": [],
+      "sponsor": "Xijing Hospital",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07584291"
+    },
+    {
+      "nct_id": "NCT02977468",
+      "title": "Effects of MK-3475 (Pembrolizumab) on the Breast Tumor Microenvironment in Triple Negative Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Triple Negative Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Merck 3475 Pembrolizumab"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Intraoperative radiation therapy (IORT)"
+        }
+      ],
+      "sponsor": "Eileen Connolly",
+      "primary_completion": "2024-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT02977468"
+    },
+    {
+      "nct_id": "NCT02411656",
+      "title": "Pembrolizumab in Treating Patients With Stage IV Metastatic or Recurrent Inflammatory Breast Cancer or Triple-Negative Breast Cancer Who Have Achieved Clinical Response or Stable Disease to Prior Chemotherapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Edema",
+        "Erythema",
+        "Estrogen Receptor Negative",
+        "HER2/Neu Negative",
+        "Peau d'Orange",
+        "Progesterone Receptor Negative",
+        "Recurrent Inflammatory Breast Carcinoma",
+        "Stage IV Inflammatory Breast Carcinoma",
+        "Triple-Negative Breast Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Laboratory Biomarker Analysis"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Pembrolizumab"
+        }
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "primary_completion": "2024-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT02411656"
+    },
+    {
+      "nct_id": "NCT07186296",
+      "title": "EXoPERT EMERALD Clinical Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Colon Cancer",
+        "Pancreatic Cancer",
+        "Ovarian Cancer",
+        "Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "EXoPred"
+        }
+      ],
+      "sponsor": "EXoPERT",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07186296"
+    },
+    {
+      "nct_id": "NCT07324018",
+      "title": "Spirulina Derivative for Radiation Esophagitis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Radiation-induced Esophagitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Hydrogel of spirulina-derived exosomes."
+        },
+        {
+          "type": "DRUG",
+          "name": "Hydrogel of placebo"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Radiotherapy"
+        }
+      ],
+      "sponsor": "West China Hospital",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07324018"
+    },
+    {
+      "nct_id": "NCT05208099",
+      "title": "Study of the Immunomodulation in the Hidradenitis Suppurativa and Evaluation of a New Therapeutic Strategy",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Blood tests"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "exeresis"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "abdominoplasty"
+        }
+      ],
+      "sponsor": "Lille Catholic University",
+      "primary_completion": "2025-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT05208099"
+    },
+    {
+      "nct_id": "NCT04653740",
+      "title": "Omic Technologies to Track Resistance to Palbociclib in Metastatic Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Advanced Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "specimen sample collection"
+        }
+      ],
+      "sponsor": "Centre Oscar Lambret",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT04653740"
+    },
+    {
+      "nct_id": "NCT04530890",
+      "title": "Interest of Circulating Tumor DNA in Digestive and Gynecologic/Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Digestive Cancer",
+        "Gynecologic Cancer",
+        "Circulating Tumor DNA",
+        "Exosomes"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Blood samples"
+        }
+      ],
+      "sponsor": "Poitiers University Hospital",
+      "primary_completion": "2032-03",
+      "url": "https://clinicaltrials.gov/study/NCT04530890"
+    },
+    {
+      "nct_id": "NCT05955521",
+      "title": "Exosome as the Prognostic and Predictive Biomarker in EBC Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Triple Negative Breast Cancer",
+        "HER2-positive Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "exosome and ctDNA evaluation"
+        }
+      ],
+      "sponsor": "Samsung Medical Center",
+      "primary_completion": "2023-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT05955521"
+    },
+    {
+      "nct_id": "NCT06475027",
+      "title": "Exosome-miRNA and Transcriptome Profiling of Dry Eye Syndrome and Sjogren's Syndrome",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Dry Eye Syndrome",
+        "Sjogren's Syndrome",
+        "Xerophthalmia"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "TBDESJS"
+        },
+        {
+          "type": "OTHER",
+          "name": "Acupuncture"
+        }
+      ],
+      "sponsor": "Taipei Veterans General Hospital, Taiwan",
+      "primary_completion": "2024-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06475027"
+    },
+    {
+      "nct_id": "NCT07569666",
+      "title": "Exososmes in Atrophic Scars Management",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atrophic Scar"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Intralesional exosomes"
+        },
+        {
+          "type": "OTHER",
+          "name": "Intralesional Saline"
+        }
+      ],
+      "sponsor": "Zagazig University",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT07569666"
+    },
+    {
+      "nct_id": "NCT07466953",
+      "title": "Objective Evaluation of Intradermal MSC-Derived Exosome Therapy on Facial Skin Quality",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Skin Aging",
+        "Facial Aging",
+        "Skin Quality"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Mesenchymal Stem Cell-Derived Exosome"
+        }
+      ],
+      "sponsor": "Mert Ersan",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07466953"
+    },
+    {
+      "nct_id": "NCT04074720",
+      "title": "Prospective Breast Cancer Biospecimen Collection",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Invasive Breast Cancer",
+        "Carcinoma in Situ of the Breast"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Tissue Sample collection"
+        },
+        {
+          "type": "OTHER",
+          "name": "Blood Sample Collection"
+        },
+        {
+          "type": "OTHER",
+          "name": "Rectal Swab"
+        }
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "primary_completion": "2028-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT04074720"
+    },
+    {
+      "nct_id": "NCT07345052",
+      "title": "Western Sweden Systemic Sclerosis Project",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Scleroderma, Systemic",
+        "Fibrosis; Skin",
+        "Fibrosis Lung",
+        "Interstitial Lung Disease Due to Systemic Disease"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "No Intervention: Observational Cohort"
+        }
+      ],
+      "sponsor": "Sahlgrenska University Hospital",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07345052"
+    },
+    {
+      "nct_id": "NCT07203599",
+      "title": "A Study on the Treatment of Androgenetic Alopecia in Young Men With Umbilical Cord Mesenchymal Stem Cell Exosomes",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Androgenic Alopecia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Human umbilical cord mesenchymal stem cell exosomes"
+        },
+        {
+          "type": "DRUG",
+          "name": "Minoxidil 5% Topical Solution"
+        }
+      ],
+      "sponsor": "Shenzhen People's Hospital",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07203599"
+    },
+    {
+      "nct_id": "NCT01629498",
+      "title": "Image-Guided, Intensity-Modulated Photon or Proton Beam Radiation Therapy in Treating Patients With Stage II-IIIB Non-small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Recurrent Lung Non-Small Cell Carcinoma",
+        "Stage II Non-Small Cell Lung Cancer AJCC v7",
+        "Stage IIA Non-Small Cell Lung Carcinoma AJCC v7",
+        "Stage IIB Non-Small Cell Lung Carcinoma AJCC v7",
+        "Stage IIIA Non-Small Cell Lung Cancer AJCC v7",
+        "Stage IIIB Lung Non-Small Cell Cancer AJCC v7"
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "Image Guided Radiation Therapy"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Image Guided Radiation Therapy"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Intensity-Modulated Radiation Therapy"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Intensity-Modulated Radiation Therapy"
+        },
+        {
+          "type": "OTHER",
+          "name": "Laboratory Biomarker Analysis"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Photon Beam Radiation Therapy"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Proton Beam Radiation Therapy"
+        },
+        {
+          "type": "OTHER",
+          "name": "Questionnaire Administration"
+        }
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "primary_completion": "2027-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT01629498"
+    },
+    {
+      "nct_id": "NCT05575752",
+      "title": "Acute Health Effects of High Temperature Exposure",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cardiovascular System",
+        "Respiratory System",
+        "Cognitive Function"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "high temperature (32℃) group"
+        },
+        {
+          "type": "OTHER",
+          "name": "moderate temperature (22℃) group"
+        }
+      ],
+      "sponsor": "Fudan University",
+      "primary_completion": "2022-11-19",
+      "url": "https://clinicaltrials.gov/study/NCT05575752"
+    },
+    {
+      "nct_id": "NCT07137130",
+      "title": "Secretome TGF Beta 3",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Concentrated secretome Injection 3 mL"
+        },
+        {
+          "type": "DRUG",
+          "name": "Concentrated secretome Injection 3 mL with addition of TGF Beta 3"
+        }
+      ],
+      "sponsor": "Indonesia University",
+      "primary_completion": "2026-05-14",
+      "url": "https://clinicaltrials.gov/study/NCT07137130"
+    },
+    {
+      "nct_id": "NCT07221773",
+      "title": "Pilot Study to Evaluate the Efficacy and Safety of Xvie Delivered Into the Scalp by Microneedling in Women With Self-perceived Thinning Hair",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hair Thinning"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "XVIE"
+        }
+      ],
+      "sponsor": "Restore Biologics Holdings, Inc. dba Xtressé",
+      "primary_completion": "2026-03",
+      "url": "https://clinicaltrials.gov/study/NCT07221773"
+    },
+    {
+      "nct_id": "NCT07500129",
+      "title": "Tissue- and Serum-Derived Exosomal microRNAs as Predictors of Neoadjuvant Chemotherapy Response in Breast Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Invasive Breast Carcinoma",
+        "Exosomal microRNA",
+        "Neoadjuvant Chemotherapy Response",
+        "Pathological Complete Response"
+      ],
+      "interventions": [],
+      "sponsor": "Atlas University",
+      "primary_completion": "2027-01-15",
+      "url": "https://clinicaltrials.gov/study/NCT07500129"
+    },
+    {
+      "nct_id": "NCT04356300",
+      "title": "Exosome of Mesenchymal Stem Cells for Multiple Organ Dysfuntion Syndrome After Surgical Repaire of Acute Type A Aortic Dissection",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Multiple Organ Failure"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Exosome of MSC"
+        }
+      ],
+      "sponsor": "Fujian Medical University",
+      "primary_completion": "2021-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT04356300"
+    },
+    {
+      "nct_id": "NCT06543667",
+      "title": "Limbal Stem Cell Derived Exosome (LSC-Exo) Eye Drop for Treatment of Dry Eye",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dry Eye Syndromes"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Limbal Stem Cell Derived Exosomes Eye Drop"
+        }
+      ],
+      "sponsor": "Iran University of Medical Sciences",
+      "primary_completion": "2026-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06543667"
+    }
+  ],
+  "fetched_at": "2026-05-18T22:20:59.923659"
+}

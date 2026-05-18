@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    "glutathione",
+    "niacinamide",
+    "asiaticoside"
+  ],
+  "query": "(\"glutathione\"[Title/Abstract] AND \"niacinamide\"[Title/Abstract] AND \"asiaticoside\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 0,
+  "articles": [],
+  "crawled_at": "2026-05-18T22:21:25.034914"
+}

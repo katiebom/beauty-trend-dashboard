@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    "exosome",
+    "peptide",
+    "centella"
+  ],
+  "query": "(\"exosome\"[Title/Abstract] AND \"peptide\"[Title/Abstract] AND \"centella\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 0,
+  "articles": [],
+  "crawled_at": "2026-05-18T22:21:41.916627"
+}

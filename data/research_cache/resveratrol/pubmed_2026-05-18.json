@@ -1,0 +1,199 @@
+{
+  "ingredient_id": "resveratrol",
+  "name_en": "Resveratrol",
+  "name_kr": "레스베라트롤",
+  "category": "anti_aging",
+  "query": "\"Resveratrol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42146866",
+      "title": "Mechanistic and preclinical evaluation of SIRT3 as a therapeutic target in melanoma.",
+      "abstract": "Despite advances in targeted inhibitors and immunotherapies, melanoma remains one of the deadliest skin cancers due to high metastatic potential and resistance to current therapies. This underscores a critical need for new, mechanism-based treatment strategies. Sirtuins, a family of class III histone deacetylases, have been implicated by our lab and others in numerous cellular functions, diseases, and cancers including melanoma. Here, we sought to extend our findings on the pro-proliferative role of SIRT3 by: (i) defining downstream mechanisms using PCR array and NanoString gene-expression profiling on CRISPR/Cas9-mediated SIRT3 knockout (KO) in melanoma cells; (ii) assessing effects of siRNA against SIRT3 in patient-derived xenograft (PDX) and Braf",
+      "year": "2026",
+      "journal": "Journal of dermato-oncology",
+      "authors": [
+        "Anaya Aldrete Karla B",
+        "Ndiaye Mary A",
+        "Guzmán-Pérez Glorimar",
+        "Zaemisch Gabriella R",
+        "Singh Chandra K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42146866/"
+    },
+    {
+      "pmid": "42140402",
+      "title": "Preclinical development of a 3D-printed hollow microneedle platform for intradermal delivery of antioxidant-loaded nanocarriers.",
+      "abstract": "The poor penetration of topical antioxidants underscores the need for advanced intradermal delivery platforms that overcome stratum corneum limitations while protecting labile compounds. Despite their efficacy, in-clinic treatments (microneedling, laser, injections) require frequent administration and entail high costs. Hollow microneedles (HMNs) provide a minimally invasive, precise, and versatile platform for intradermal drug delivery. Combined with nanotherapy approaches, they can protect labile compounds and enable localized release profiles. Here, we report the preclinical development of two designs of a 3D-printed HMN platform for intradermal delivery of resveratrol-loaded PLGA nanoparticles (RSV-NPs), as a proof-of-concept for antioxidant treatments. The HMNs fabricated by DLP 3D printing show precise geometry, favorable margin of safety, and enhanced RSV retention in the skin. An important advantage of this technology is the easy tunability of microneedle size, a critical parameter for depth-specific insertion and delivery control. Histological analysis confirms HMN (1 mm) reach the dermis, while HMN (1.5 mm) penetrate the dermis-hypodermis interface, enabling distinct delivery depths. RSV-NPs display optimal size, stability, high encapsulation efficiency, RSV photoprotection, sustained release, and controlled antioxidant activity with good biocompatibility. In vivo studies in human volunteers confirm the skin compatibility of the nanocarrier alone.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Basto Renata",
+        "Junqueira Laura Andrade",
+        "Tabriz Atabak Ghanizadeh",
+        "Douroumis Dennis",
+        "Pereira-Leite Catarina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140402/"
+    },
+    {
+      "pmid": "42123745",
+      "title": "Oral Administration of Liposomal Resveratrol for Wound Healing in a Zebrafish Model.",
+      "abstract": "Wound healing research has advanced through nanotechnology-based delivery systems that enhance the stability and therapeutic potential of bioactive compounds. Resveratrol, a natural polyphenol with antioxidant and anti-inflammatory properties, shows promise for wound healing but is limited by poor bioavailability. This study investigates the efficacy of nano-liposome-encapsulated resveratrol in enhancing skin wound repair in adult zebrafish (",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Yu Ruei-Siang",
+        "Tran Minh-Quan",
+        "Tseng Mei-Wen",
+        "Hsiao Chung-Der",
+        "Lee Hung-Maan"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Resveratrol",
+        "Zebrafish",
+        "Wound Healing",
+        "Liposomes",
+        "Administration, Oral",
+        "Disease Models, Animal",
+        "Antioxidants",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42123745/"
+    },
+    {
+      "pmid": "42100323",
+      "title": "Photoprotection of a novel resveratrol analogue: insights from 2D, 3D, and endothelialized bioprinted human skin models.",
+      "abstract": "Excessive exposure to ultraviolet (UV) radiation induces oxidative stress, DNA damage, and extracellular matrix (ECM) disorganization, contributing to skin aging and disease. To enhance photoprotection strategies, antioxidant molecules have been explored as complementary agents to conventional UV filters. Here, we investigated the photoprotective potential of ",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Pasuch Gluzezak Ana Júlia",
+        "Essayan Lucie",
+        "Thomann Celine",
+        "Dos Santos Jean Leandro",
+        "Marquette Christophe A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42100323/"
+    },
+    {
+      "pmid": "42092661",
+      "title": "Alginate-based mucoadhesive nanofibrous system embedding resveratrol-loaded vesicles as a therapeutic platform for nasal disorders.",
+      "abstract": "Oxidative stress and inflammation play a key role in the development and progression of several otorhinolaryngological disorders, including chronic rhinosinusitis and allergic rhinitis. Resveratrol (RSV), a natural polyphenol with antioxidant and anti-inflammatory properties, is a promising therapeutic candidate, although its clinical application is limited by poor aqueous solubility and rapid mucociliary clearance upon nasal administration. In this study, a mucoadhesive nanofibrous nasal patch based on sodium alginate and poly(ethylene oxide) embedding RSV-loaded phospholipid vesicles was developed using a green electrospinning process based entirely on aqueous solvents. Both systems were characterized in terms of morphology, dimensional properties, swelling behavior, mucoadhesion, drug release, and biological activity. The RSV vesicles showed nanoscale dimensions (∼93 nm) and high entrapment efficiency (∼88%). The combined system resulting from the incorporation of the RSV vesicles into the nanofibrous matrix exhibited remarkable swelling properties (up to ∼800%), enhanced mucoadhesion, and a more sustained RSV release profile compared with vesicles alone, highlighting the role of the alginate network as a diffusion-controlling matrix. In vitro studies in immortalized human keratinocytes confirmed excellent biocompatibility and enhanced antioxidant activity. Overall, this vesicles-in-nanofibers platform represents a promising strategy for the nasal delivery of RSV, potentially improving its residence time and therapeutic effectiveness in upper airway diseases associated with oxidative stress and inflammation.",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Casula Luca",
+        "Schlich Michele",
+        "Pini Elena",
+        "Rassu Giovanna",
+        "Bellotti Elena"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42092661/"
+    },
+    {
+      "pmid": "42083968",
+      "title": "Nanotechnology-Based on Natural Medicines: A Promising Alternative for Psoriasis Management.",
+      "abstract": "Psoriasis is a chronic inflammatory skin disease with a complex pathogenesis. Initially affecting the skin, it may also involve the nails and joints, often requiring lifelong medication. Despite recent advances in understanding its pathogenesis, the chronic and recurrent nature of psoriasis poses ongoing challenges for long-term drug management. While natural medicines offer higher safety profiles and fewer side effects compared to synthetic drugs, their development as clinical candidates for psoriasis is constrained by low bioavailability, limited solubility, poor permeability, and instability. For instance, specific nanocarriers have been shown to significantly improve therapeutic outcomes; curcumin-loaded PLGA nanoparticles (50 nm) demonstrated a 48.23±0.77% drug loading capacity with over 85% release within 72 hours, while hyaluronic acid-modified ethosomes increased skin retention by 2.3-fold compared to conventional formulations in preclinical models. This paper systematically reviews the structure and advantages of nanocarrier systems, including liposomes, nanoparticles, nanofibers, micelles, nanogels, and nanoemulsions. It focuses on the preparation, preclinical, and clinical progress of nanocarriers for key natural bioactive compounds, including resveratrol, curcumin, oleuropein, psoralen, natural oils, and complex natural mixtures. We aim to highlight the potential of nanotechnology-based on natural drugs as an alternative strategy to improve the therapeutic efficacy of psoriasis while reducing side effects.",
+      "year": "2026",
+      "journal": "Current drug delivery",
+      "authors": [
+        "Wang Tianyi",
+        "Dai Dan",
+        "Li Runxue",
+        "Zhao Linna",
+        "Wang Hongmei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42083968/"
+    },
+    {
+      "pmid": "42074094",
+      "title": "Piceatannol from Passion Fruit Seed Waste: A Circular Bioeconomy-Driven Pathway Toward a Skin-Targeted Bioactive.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Zhang Dian",
+        "Chittasupho Chuda",
+        "Jiranusornkul Supat"
+      ],
+      "mesh_terms": [
+        "Passiflora",
+        "Humans",
+        "Seeds",
+        "Skin",
+        "Stilbenes",
+        "Skin Aging",
+        "Animals",
+        "Antioxidants",
+        "Plant Extracts",
+        "Anti-Inflammatory Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42074094/"
+    },
+    {
+      "pmid": "42063951",
+      "title": "Green extraction and phenolic profiling of bitter melon (",
+      "abstract": "This study reports for the first time the green extraction and analysis of four phenolics: gallic acid (GA), scopoletin (SC), rosmarinic acid (RA), and resveratrol (RV) in different parts (skin, pulp, seeds) of the fresh and dried fruits of bitter melon (BM). The fruits and their parts were evaluated for comparative anticancer and antidiabetic potential.",
+      "year": "2026",
+      "journal": "Frontiers in nutrition",
+      "authors": [
+        "Ahmad Rizwan",
+        "Alqathama Aljawharah"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42063951/"
+    },
+    {
+      "pmid": "42049885",
+      "title": "Investigating the potential of Ulva rigida extracts as a natural anti-aging agent in cosmetics.",
+      "abstract": "Based on the study, extracts from sea lettuce (Ulva rigida) or UR show significant promise as a natural anti-aging ingredient for skincare products. The research, conducted on specimens from Phetchaburi, Thailand, compared three extraction methods: juice squeezing (J), boiling (B), and maceration (M) by using 95% ethanol. The results demonstrated that these extracts contain beneficial compounds like phenolics and flavonoids, including rutin, catechin, and quercetin, which contribute to their biological properties. Furthermore, all extracts (UR-J, UR-B, and UR-M) exhibited powerful anti-aging effects. Specifically, the UR-M extracts effectively inhibited anti-melanogenesis activity (5.88 ± 1.25%) and the tyrosinase activity (IC",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Boonpisuttinant Korawinwich",
+        "Taka Thanachai",
+        "Praiboon Jantana",
+        "Phuangborisut Saranrat",
+        "Kangkawisut Nipaporn"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42049885/"
+    },
+    {
+      "pmid": "42037559",
+      "title": "Antioxidant, Antibacterial, and SIRT1/SIRT3/hTERT Promoter-Upregulating Effects of Synergistic Rosmarinus officinalis and Salvia officinalis Essential Oils.",
+      "abstract": "In this study, the effect of a combination of Rosmarinus officinalis and Salvia officinalis essential oils (EOs) was evaluated. The chemical profile of EOs was determined by Gas Chromatography/Mass Spectrometry (GC/MS). The antibacterial effect of EOs alone was evaluated by the broth micro-dilution method, and the antioxidant activity was determined by 2,2-Diphenyl-1-picrylhydrazyl (DPPH) free radical scavenging and Ferric Reducing Antioxidant Power (FRAP) methods. The antioxidant and antibacterial interaction of the combination of EOs was evaluated through the determination of the fractional inhibitory concentration index (FICI) using the checkerboard method. The anti-aging activity of R. officinalis, S. officinalis, and their combination in a 1:1 (w/w) ratio was evaluated on SIRT1, SIRT3, and hTERT promoters in the human keratinocyte cell line HaCaT. The GC/MS analysis revealed that R. officinalis EO was dominated by 1,8-cineole (28.43% ± 0.32%) and α-pinene (26.62% ± 0.53%). α-thujone (23.98% ± 0.17%), α-pinene (17.59% ± 0.02%), camphor (15.84% ± 0.1%), and 1,8-cineole (15.76% ± 0.11%) were found as the main constituents of S. officinalis EO. Regarding the antioxidant and antibacterial activities, the results showed that R. officinalis EO tested alone showed significant efficacy. The results showed interesting synergistic effects in scavenging DPPH radical (FICI = 0.75) and in ferric reducing power (FICI = 0.50). Moreover, this combination exhibited a synergistic effect against E. hirae (FICI = 0.38), S. aureus (FICI = 0.63), and E. coli (FICI = 0.75), while the additive effect was shown against P. aeruginosa (FICI = 1). The expression level of the SIRT1 promoter in HaCaT cells treated with R. officinalis EO and its combination with S. officinalis EO is significantly higher than that of resveratrol. The results of endogenous SIRT3 expression revealed that the individual EOs and their association induced strong activity, while the strong hTERT promoter expression level was found when the HaCaT cells were treated with R. officinalis EO.",
+      "year": "2026",
+      "journal": "Chemistry & biodiversity",
+      "authors": [
+        "Rafya Meriem",
+        "Derdar Fatima-Ezzahra",
+        "Bouamama Hafida",
+        "Katakura Yoshinori",
+        "Zehhar Naima"
+      ],
+      "mesh_terms": [
+        "Oils, Volatile",
+        "Humans",
+        "Rosmarinus",
+        "Salvia officinalis",
+        "Anti-Bacterial Agents",
+        "Antioxidants",
+        "Sirtuin 1",
+        "Sirtuin 3",
+        "Microbial Sensitivity Tests",
+        "Biphenyl Compounds"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42037559/"
+    }
+  ],
+  "crawled_at": "2026-05-18T22:17:32.323808",
+  "source": "pubmed"
+}

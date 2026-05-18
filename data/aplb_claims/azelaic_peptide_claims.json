@@ -2,88 +2,100 @@
   "complex_id": "azelaic_peptide",
   "trade_mark": "",
   "name_kr": "아젤라익산-펩타이드",
-  "generated_at": "2026-05-09T14:14:01.063379",
+  "generated_at": "2026-05-18T22:25:20.103265",
   "claims": {
     "hero_claim": {
-      "headline_en": "Azelaic Acid & Peptide: The Synergistic Duo for Radiant, Calm Skin",
-      "headline_kr": "아젤라익산 & 펩타이드: 맑고 편안한 피부를 위한 시너지 듀오",
-      "subheadline_en": "Visibly reduces redness and calms irritation.",
-      "subheadline_kr": "붉은기 완화 및 피부 진정에 도움",
-      "scientific_basis_en": "Azelaic acid is a well-established ingredient for managing redness and inflammatory conditions like rosacea. Peptides, particularly those studied for tyrosinase inhibition, can contribute to a more even skin tone. Their combination offers a multi-faceted approach to skin concerns, supported by research into their individual and synergistic effects. PMID:42070484, PMID:39304286.",
-      "scientific_basis_kr": "아젤라익산은 붉은기와 장미증과 같은 염증성 피부 고민 관리에 효과적인 성분으로 알려져 있습니다. 펩타이드는 티로시나아제 억제 연구를 통해 균일한 피부톤 개선에 기여할 수 있습니다. 이 두 성분의 조합은 개별 연구 및 시너지 효과 연구를 통해 뒷받침되는 다각적인 피부 고민 해결책을 제공합니다. (PMID:42070484, PMID:39304286)",
+      "headline_en": "Azelaic Acid & Peptide Complex: Targeted Care for Redness and Sensitivity",
+      "headline_kr": "아젤라익산-펩타이드 컴플렉스: 붉은기 & 민감성 피부를 위한 집중 케어",
+      "subheadline_en": "Soothes redness, calms sensitivity.",
+      "subheadline_kr": "붉은기 진정, 민감함 완화.",
+      "scientific_basis_en": "Azelaic acid is a well-established ingredient for managing redness and inflammatory conditions like rosacea. Peptides, particularly those studied for tyrosinase inhibition, can complement azelaic acid's action by addressing skin tone concerns and supporting overall skin health, creating a synergistic effect for sensitive and redness-prone skin. (PMID: 42070484, 42079476, 39304286, 42011843)",
+      "scientific_basis_kr": "아젤라익산은 붉은기와 로사시아와 같은 염증성 피부 고민 관리에 효과적인 성분으로 알려져 있습니다. 펩타이드는 티로시나아제 억제 연구에서 피부톤 개선에 도움을 줄 수 있으며, 아젤라익산과 함께 작용하여 민감하고 붉은기 있는 피부에 시너지 효과를 제공합니다. (PMID: 42070484, 42079476, 39304286, 42011843)",
       "tier": "strong"
     },
     "rtb_points": [
       {
         "point_en": "Azelaic acid helps manage facial redness and inflammatory papules associated with conditions like rosacea.",
-        "point_kr": "아젤라익산은 장미증과 같은 피부 고민으로 인한 안면 홍조 및 염증성 병변 관리에 도움을 줍니다.",
-        "evidence": "PMID:42070484 | Topical PEGylated azelaic acid nanohybrids: A lipid-polymer hydrogel system for sustained dermal delivery in rosacea management."
+        "point_kr": "아젤라익산은 로사시아와 같은 피부 고민으로 인한 안면 홍조 및 염증성 병변 관리에 도움을 줍니다.",
+        "evidence": "PMID:42070484, Topical PEGylated azelaic acid nanohybrids: A lipid-polymer hydrogel system for sustained dermal delivery in rosacea man"
       },
       {
-        "point_en": "Peptides can act as tyrosinase inhibitors, contributing to a brighter and more even skin tone.",
-        "point_kr": "펩타이드는 티로시나아제 억제제로 작용하여 더욱 맑고 균일한 피부톤을 가꾸는 데 기여합니다.",
-        "evidence": "PMID:39304286 | Peptide and peptidomimetic tyrosinase inhibitors."
+        "point_en": "Peptides can act as tyrosinase inhibitors, contributing to a more even skin tone and supporting skin health.",
+        "point_kr": "펩타이드는 티로시나아제 억제제로 작용하여 균일한 피부톤을 가꾸고 피부 건강을 지원하는 데 기여할 수 있습니다.",
+        "evidence": "PMID:39304286, Peptide and peptidomimetic tyrosinase inhibitors"
       },
       {
-        "point_en": "The combination of azelaic acid and niacinamide is recognized for its role in integrated skincare for various dermatological concerns.",
-        "point_kr": "아젤라익산과 나이아신아마이드의 조합은 다양한 피부 고민을 위한 통합 스킨케어에서 중요한 역할을 합니다.",
-        "evidence": "PMID:42087526 | International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med"
+        "point_en": "Azelaic acid can be functionalized with peptides for enhanced delivery and efficacy in skincare formulations.",
+        "point_kr": "아젤라익산은 펩타이드와 결합하여 스킨케어 제형 내 전달력과 효능을 높일 수 있습니다.",
+        "evidence": "PMID:42011843, Silk Sericin Functionalized with Carboxy Drugs for Dermocosmetic Applications"
+      },
+      {
+        "point_en": "Integrated skincare approaches combining actives like azelaic acid and niacinamide support overall skin health.",
+        "point_kr": "아젤라익산 및 나이아신아마이드와 같은 활성 성분을 결합한 통합 스킨케어는 전반적인 피부 건강 관리에 도움을 줍니다.",
+        "evidence": "PMID:42087526, International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med"
       }
     ],
     "tech_story": {
-      "headline_en": "Synergistic Encapsulation for Enhanced Delivery of Azelaic Acid and Peptides",
-      "headline_kr": "아젤라익산과 펩타이드의 효과 증대를 위한 시너지 캡슐화 기술",
+      "headline_en": "Synergistic Azelaic Acid & Peptide Formulation for Enhanced Skin Comfort",
+      "headline_kr": "피부 편안함을 높이는 아젤라익산 & 펩타이드 시너지 포뮬러",
       "supporting_facts_en": [
-        "Utilizes advanced delivery systems to improve the penetration and efficacy of active ingredients.",
-        "Formulated to enhance the stability and compatibility of azelaic acid and peptide complexes.",
-        "Leverages research on nanohybrid systems for sustained dermal delivery of azelaic acid."
+        "Azelaic acid's efficacy is enhanced through advanced delivery systems.",
+        "Peptides are selected for their complementary benefits in skin tone and texture.",
+        "Formulated to support sensitive and redness-prone skin."
       ],
       "supporting_facts_kr": [
-        "활성 성분의 피부 침투 및 효능 증대를 위한 첨단 전달 시스템 활용.",
-        "아젤라익산과 펩타이드 복합체의 안정성 및 상호 호환성 강화 포뮬레이션.",
-        "아젤라익산의 지속적인 피부 전달을 위한 나노하이브리드 시스템 연구 기반."
+        "아젤라익산의 효능을 높이는 첨단 전달 시스템 적용.",
+        "피부톤 및 결 개선에 시너지 효과를 주는 펩타이드 선정.",
+        "민감하고 붉은기 있는 피부를 위해 설계된 포뮬러."
       ]
     },
     "citation_ready_papers": [
       {
         "pmid": "42070484",
-        "title": "Topical PEGylated azelaic acid nanohybrids: A lipid-polymer hydrogel system for sustained dermal delivery in rosacea management.",
+        "title": "Topical PEGylated azelaic acid nanohybrids: A lipid-polymer hydrogel system for sustained dermal delivery in rosacea man",
         "year": "2026",
-        "use_case_en": "To support the claim of improved delivery and efficacy of azelaic acid for redness and rosacea management.",
-        "use_case_kr": "붉은기 및 장미증 관리를 위한 아젤라익산의 개선된 전달 및 효능 주장을 뒷받침하기 위해 인용."
+        "use_case_en": "To support claims related to azelaic acid's efficacy in managing rosacea symptoms and improving delivery.",
+        "use_case_kr": "로사시아 증상 관리 및 전달 개선에 대한 아젤라익산 효능 클레임 근거로 인용."
       },
       {
         "pmid": "39304286",
         "title": "Peptide and peptidomimetic tyrosinase inhibitors.",
         "year": "2024",
-        "use_case_en": "To substantiate the role of peptides in skin brightening and evening out skin tone.",
-        "use_case_kr": "피부 미백 및 균일한 피부톤 개선에 대한 펩타이드의 역할을 입증하기 위해 인용."
+        "use_case_en": "To support claims about peptides' role in skin tone modulation and overall skin health.",
+        "use_case_kr": "펩타이드의 피부톤 조절 및 전반적인 피부 건강 역할에 대한 클레임 근거로 인용."
+      },
+      {
+        "pmid": "42011843",
+        "title": "Silk Sericin Functionalized with Carboxy Drugs for Dermocosmetic Applications.",
+        "year": "2026",
+        "use_case_en": "To highlight the potential for combining azelaic acid with peptides for cosmetic applications.",
+        "use_case_kr": "화장품 적용을 위한 아젤라익산과 펩타이드의 결합 가능성을 강조하는 근거로 인용."
       },
       {
         "pmid": "42087526",
         "title": "International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med",
         "year": "2026",
-        "use_case_en": "To highlight the importance of combining active ingredients like azelaic acid and niacinamide in comprehensive skincare routines.",
-        "use_case_kr": "아젤라익산 및 나이아신아마이드와 같은 활성 성분의 조합이 포괄적인 스킨케어 루틴에서 중요함을 강조하기 위해 인용."
+        "use_case_en": "To support the concept of using multiple active ingredients for comprehensive skin management.",
+        "use_case_kr": "포괄적인 피부 관리를 위해 여러 활성 성분을 사용하는 개념을 뒷받침하는 근거로 인용."
       }
     ],
     "world_first_opportunity_en": null,
     "world_first_opportunity_kr": null,
     "risky_claims_to_avoid_en": [
       "Treats rosacea",
-      "Cures redness",
-      "Eliminates acne scars",
+      "Cures acne",
+      "Eliminates redness completely",
       "Guarantees clear skin",
       "100% effective for sensitive skin"
     ],
     "risky_claims_to_avoid_kr": [
-      "장미증을 치료합니다",
-      "붉은기를 완치합니다",
-      "여드름 흉터를 완전히 제거합니다",
+      "로사시아를 치료합니다",
+      "여드름을 완치합니다",
+      "붉은기를 완벽하게 제거합니다",
       "깨끗한 피부를 보장합니다",
       "민감성 피부에 100% 효과"
     ],
-    "north_america_angle_en": "Leverages clinically recognized ingredients like Azelaic Acid, known for its efficacy in managing redness and inflammatory skin conditions, combined with advanced peptide technology for a comprehensive approach to skin health.",
-    "north_america_angle_kr": "붉은기와 염증성 피부 질환 관리에 효과적인 것으로 알려진 아젤라익산과 같은 임상적으로 인정받는 성분에 첨단 펩타이드 기술을 결합하여 피부 건강을 위한 포괄적인 솔루션을 제공합니다."
+    "north_america_angle_en": "Focus on clinically recognized ingredients like Azelaic Acid for visible improvement in redness and sensitivity, supported by peptide technology for enhanced skin health.",
+    "north_america_angle_kr": "아젤라익산과 같은 임상적으로 인정된 성분으로 붉은기와 민감성 개선에 집중하고, 펩타이드 기술로 피부 건강을 강화하여 북미 시장의 신뢰를 얻습니다."
   }
 }

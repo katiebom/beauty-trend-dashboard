@@ -1,0 +1,303 @@
+{
+  "ingredient_a": "tranexamic acid",
+  "ingredient_b": "melasma",
+  "query": "(\"tranexamic acid\"[Title/Abstract] AND \"melasma\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42105927",
+      "title": "Clinical Considerations for Oral Tranexamic Acid in Melasma Treatment.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Younas Ambreen",
+        "Joshi Tejas P"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42105927/"
+    },
+    {
+      "pmid": "42059427",
+      "title": "Tranexamic acid protects human dermal fibroblasts from D-galactose-induced senescence via the GPR30/MAPK pathway.",
+      "abstract": "Tranexamic acid (TXA) is widely used for pigmentary disorders, but its anti-ageing potential remains unclear. This study aimed to evaluate whether topical 3% TXA improves early periorbital wrinkles in women with facial melasma and to investigate whether TXA protects human dermal fibroblasts from D-galactose-induced senescence ",
+      "year": "2026",
+      "journal": "Annals of medicine",
+      "authors": [
+        "Lin Yanyan",
+        "Wang Yaling",
+        "Wang Wanjing",
+        "Deng Zhili",
+        "Zhang Yiya"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Receptors, G-Protein-Coupled",
+        "Skin Aging",
+        "Galactose",
+        "Cellular Senescence",
+        "Fibroblasts",
+        "Tranexamic Acid",
+        "Adult",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42059427/"
+    },
+    {
+      "pmid": "42025113",
+      "title": "Histopathological evaluation of facial melasma treated with oral tranexamic acid alone and in combination with ketotifen.",
+      "abstract": "Tranexamic Acid (TA) has demonstrated effectiveness on melasma treatment, and Ketotifen (KET) may inhibit mast cell-mediated melanogenesis. The histologic basis of their depigmenting effects remains unclear.",
+      "year": "2026",
+      "journal": "Anais brasileiros de dermatologia",
+      "authors": [
+        "Cruz Ana Clara Ladeira",
+        "Cassiano Daniel Pinho",
+        "Miot Hélio Amante",
+        "Espósito Ana Cláudia Cavalcante",
+        "Hassum Karime"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42025113/"
+    },
+    {
+      "pmid": "41884735",
+      "title": "Efficacy of Tranexamic acid Microneedling versus Intradermal Injection of Tranexamic Acid in the Treatment of Melasma - A Randomised Controlled Trial.",
+      "abstract": "Melasma is a pigmentary disorder that typically appears on the face. Given its tendency to relapse, resistance to treatment and significant impact on social and emotional well-being, melasma poses considerable challenges.",
+      "year": "2026",
+      "journal": "Indian journal of dermatology",
+      "authors": [
+        "Srijha M",
+        "Kaliyaperumal Damayandhi",
+        "Dileep Jude Ernest",
+        "Kuruvila Sheela"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41884735/"
+    },
+    {
+      "pmid": "41883035",
+      "title": "Multimodal Approach for Recalcitrant Melasma Using Picosecond Laser and Topical JAK Inhibition: A Case Report.",
+      "abstract": "Melasma is a chronic hyperpigmentation disorder with high relapse rates, particularly in Fitzpatrick skin types III-V. Increasing evidence implicates cytokine-driven inflammation and visible light-induced melanogenesis as key contributors to disease persistence. These mechanisms support the rationale for exploring a multimodal therapeutic approach.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Ashkanani Hasan",
+        "AlZaabi Maryam",
+        "AlRasheed Abdulaziz",
+        "AlDaraji Wael"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Melanosis",
+        "Lasers, Solid-State",
+        "Adult",
+        "Janus Kinase Inhibitors",
+        "Combined Modality Therapy",
+        "Low-Level Light Therapy",
+        "Treatment Outcome",
+        "Piperidines"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41883035/"
+    },
+    {
+      "pmid": "41832625",
+      "title": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
+      "abstract": "Excess melanin deposition causes hyperpigmentation, a common dermatological disorder that leads to skin discoloration and an uneven skin tone. Traditional therapies such as topical creams and chemical peels have limitations due to insufficient skin penetration, lengthy treatment durations, and potential adverse effects. Transdermal drug administration has emerged as a viable alternative, offering improved therapeutic effectiveness, sustained release, and enhanced drug absorption. Among transdermal systems, microneedle-based patches have gained significant interest because of their ability to deliver active compounds directly through the skin, bypassing the stratum corneum. This study examines recent advancements in transdermal delivery for hyperpigmentation treatment, with a focus on dissolving microneedle (DMN) patches. Research indicates that DMN patches containing niacinamide, glabridin, and tranexamic acid exhibit greater skin-lightening effects than traditional topical formulations. Clinical studies have validated their safety, efficacy, and ability to reduce melasma and post-inflammatory hyperpigmentation with minimal side effects. Furthermore, novel polymeric formulations enhance drug absorption and stability, optimizing therapeutic outcomes. The use of multifunctional components, targeting tyrosinase inhibition, oxidative stress reduction, and melanin transfer, further improves depigmentation efficacy. The paper also highlights how emerging carriers, such as tetrahedral framework nucleic acids (tFNAs), may enhance drug delivery efficiency. As transdermal technologies continue to advance, microneedlebased approaches hold strong potential to transform hyperpigmentation treatment by providing a highly effective, non-invasive, and patient-friendly therapeutic option. Future research should focus on expanding clinical applications and refining formulation parameters to maximize benefits across diverse skin types.",
+      "year": "2026",
+      "journal": "Recent advances in drug delivery and formulation",
+      "authors": [
+        "Yadav Ayushi",
+        "Gupta Nakul",
+        "Alam Md Sarfaraz",
+        "Thakur Shreyasi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41832625/"
+    },
+    {
+      "pmid": "41824827",
+      "title": "Improved clinical efficacy of melasma with combination therapy of intense pulsed light and tranexamic acid: A retrospective analysis.",
+      "abstract": "This study aimed to evaluate the efficacy and safety of intense pulsed light (IPL) therapy as a standalone treatment versus IPL therapy combined with tranexamic acid (TA) microneedling for the management of melasma. Clinical data of 29 patients with melasma were reviewed retrospectively. Patients were divided into 2 groups based on their treatment regimens: the IPL group, which received 3 sessions of IPL therapy, and the IPL + TA group, which underwent IPL therapy immediately followed by TA microneedling. Patients were comprehensively analyzed before treatment, as well as one month and 3 months after the final treatment, utilizing the VISIA skin imaging system, Melasma Area and Severity Index (MASI) scoring, patient satisfaction surveys, recurrence evaluations, and assessments of tolerability and adverse reactions. Both groups exhibited notable improvements in VISIA results and MASI scores post-treatment, with no statistically significant differences between the 2 groups. However, the IPL + TA group reported higher patient satisfaction rates and a lower recurrence rate compared to the IPL group. Both treatments were well-tolerated, with no severe adverse reactions reported. Both IPL therapy alone and IPL therapy combined with TA microneedling have demonstrated efficacy and safety in the treatment for melasma. However, the combination therapy may offer greater patient satisfaction and a reduced risk of recurrence.",
+      "year": "2026",
+      "journal": "Medicine",
+      "authors": [
+        "Yang Rongli",
+        "Zhao Yan",
+        "Luo Jintian",
+        "Liu Chang",
+        "Bai Yiyang"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tranexamic Acid",
+        "Melanosis",
+        "Retrospective Studies",
+        "Female",
+        "Adult",
+        "Patient Satisfaction",
+        "Combined Modality Therapy",
+        "Intense Pulsed Light Therapy",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41824827/"
+    },
+    {
+      "pmid": "41792453",
+      "title": "Progesterone-induced melasma attenuation via tranexamic acid-loaded nano-liposomes: an alternative dermal therapeutic approach.",
+      "abstract": "Melasma, a chronic and recurrent hypermelanosis affecting sun-exposed areas, presents a significant therapeutic challenge due to its high relapse rate. Conventional treatments primarily rely on topical depigmenting agents and strict photoprotection. While Kligman's formula remains a cornerstone therapy for epidermal melasma, Tranexamic acid (TA) has gained increasing interest. Topical TA is preferred over oral administration because of its localized action and reduced systemic side effects; however, its efficacy is limited by its hydrophilicity, which results in poor skin permeation and deposition. This study aimed to address these limitations by developing TA-loaded nano-liposomes (TA-Lipo) to enhance drug delivery and improve symptoms of induced melasma. Six formulations (TA-Lipo1 to TA-Lipo6) were evaluated for their in vitro release profile, morphological characteristics, skin permeation, and anti-hyperpigmentation efficacy using a rat melasma model. The prepared TA-Lipo exhibited controlled 24-hour release and favorable characteristics (size: 90-156 nm; zeta potential (ZP): -32 to -41 mV; encapsulation efficiency (EE): 55-78%). The highest-performing formulation (TA-Lipo2) consisted of Phospholipon 90G (PL90G) and Cholesterol (CHO) in a 2:1 ratio with TA at 2 mg/mL. Ex vivo Franz diffusion studies demonstrated a 2.3-fold increase in TA permeation, while Confocal Laser Scanning Microscopy (CLSM) confirmed deep skin infiltration, reaching 122 µm-a 1.74-fold improvement compared with the control solution. Incorporating TA-Lipo2 into a 1% Carbopol 940 bio-adhesive gel (TA-LipoG) provided sustained delivery. This enhanced targeting translated into superior in vivo efficacy in a rat melasma model, where TA-LipoG achieved a 92.5% reduction in MASI score, significantly outperforming Kligman's formula (69.8%). Histological analysis confirmed near-complete resolution of pigmentation and revealed a markedly thicker subcutaneous fat layer (108.9 µm) in the TA-LipoG group compared with the Kligman group (38.5 µm), indicating superior local biocompatibility. Overall, these findings support the use of nano-liposomes within Carbopol gel matrices as a superior, sustained, and localized delivery system for TA in hyperpigmentation treatment.",
+      "year": "2026",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": [
+        "Akl Mohamed A",
+        "Kassem Abdulsalam M",
+        "Ibrahim Tarek M"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41792453/"
+    },
+    {
+      "pmid": "41725026",
+      "title": "Exploring the Effectiveness, Tolerability, and Safety of the Adjunctive Use of Microneedling With Tranexamic Acid in the Treatment of Melasma.",
+      "abstract": "Melasma is a chronic pigment disorder associated with significant psychosocial burden. The gold standard triple combination cream is effective but limited by relapse and adverse effects. Tranexamic acid (TXA) and microneedling have independently shown promise in the treatment of melasma, and their combined use may provide enhanced efficacy, durability, and tolerability.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Dhaliwal Sharon",
+        "Dhanoa Navneet",
+        "Rashid Zaina"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tranexamic Acid",
+        "Melanosis",
+        "Patient Satisfaction",
+        "Needles",
+        "Treatment Outcome",
+        "Dry Needling",
+        "Combined Modality Therapy",
+        "Cosmetic Techniques",
+        "Administration, Cutaneous"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41725026/"
+    },
+    {
+      "pmid": "41705282",
+      "title": "The efficacy of tranexamic acid in prevention and treatment of post-inflammatory hyperpigmentation: A pilot study.",
+      "abstract": "Post-inflammatory hyperpigmentation (PIH) is a common complication following trauma or cutaneous inflammation, particularly affecting individuals with skin of color. Tranexamic acid (TXA) is a lysine analogue with antifibrinolytic properties and has been used as an off-label agent for melasma and procedural PIH. This pilot study evaluated the efficacy of oral TXA in the prevention and treatment of PIH using a validated in-vivo model. A baseline site was treated with 30% trichloroacetic acid (TCA) to induce PIH (control). After PIH developed, another site was induced and patients started oral TXA 650mg for 4 weeks. Both sites were assessed for pigmentation changes at day 56 using standardized photography, Investigator Global Assessment (IGA), colorimetry, and digital reflectance spectroscopy. While trends toward reduced pigmentation were observed in the TXA-prevention group, none reached statistical significance. Oral TXA may play a role in preventing PIH, but did not significantly reduce pigmentation in established PIH lesions.",
+      "year": "2026",
+      "journal": "Clinical and experimental dermatology",
+      "authors": [
+        "Masood Mavra",
+        "Lane Brittany",
+        "Maghfour Jalal",
+        "Ceresnie Marissa",
+        "Mokhtari Mohsen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41705282/"
+    },
+    {
+      "pmid": "41675240",
+      "title": "Factors Associated With Quality of Life and Treatment Practice Among Melasma Patients in Nepal.",
+      "abstract": "Melasma is chronic, acquired hypermelanosis that commonly appears on sun-exposed areas of the skin. Although it is asymptomatic, it can significantly affect patients' psychosocial and emotional well-being, ultimately reducing their quality of life. This study aimed to assess the factors associated with quality of life and treatment practices among melasma patients in Nepal.",
+      "year": "2026",
+      "journal": "Dermatology research and practice",
+      "authors": [
+        "Pokhrel Samiksha",
+        "Sankhi Sabina",
+        "Paudel Shishir",
+        "Chalise Anisha",
+        "Marasine Nirmal Raj"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41675240/"
+    },
+    {
+      "pmid": "41601401",
+      "title": "Tranexamic Acid for Hyperpigmentation Disorders: A Literature Review on Efficacy and Safety in Melasma and PIH.",
+      "abstract": "Hyperpigmentation disorders, including melasma and post-inflammatory hyperpigmentation (PIH), are common dermatologic conditions associated with significant cosmetic and psychological burden. Tranexamic acid (TXA), an antifibrinolytic agent, has gained increasing attention due to its anti-inflammatory and antimelanogenic properties.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "AlJabr Ahmed",
+        "AlAnazi Aseel Muhana I",
+        "AlEtebi Rakan Abdulkarim A"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tranexamic Acid",
+        "Melanosis",
+        "Hyperpigmentation",
+        "Antifibrinolytic Agents",
+        "Treatment Outcome",
+        "Administration, Oral",
+        "Quality of Life",
+        "Administration, Cutaneous",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41601401/"
+    },
+    {
+      "pmid": "41537948",
+      "title": "Egyptian National Consensus on Dermocosmetic Ingredient Selection Across Common Dermatology Scenarios: A RAND/UCLA Appropriateness Study.",
+      "abstract": "Dermocosmetics are widely used to complement dermatologic care, yet context-specific guidance remains limited for populations with Fitzpatrick skin types III-V. We convened a national expert panel to generate transparent, reproducible recommendations across ten common clinical scenarios.",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Rageh Mahmoud A",
+        "Seoudy Wael M",
+        "Abozeid Mohamed F",
+        "Elkholy Abeer Mohamed",
+        "Moubasher Alaa E A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41537948/"
+    },
+    {
+      "pmid": "41530120",
+      "title": "Drug-Excipient Interaction-Mediated Supersaturated Emulsion Gel for Enhanced Intradermal Delivery of Tranexamic Acid.",
+      "abstract": "The clinical translation of tranexamic acid (TA) for melasma is limited by its hydrophilicity and crystallization tendency, which hinder epidermal drug accumulation in conventional formulations (<5% w/w). We developed a supersaturated emulsion-type gel (TAE Gel) containing 10% (w/w) TA using carbomer 940 (CP) as the matrix. Electrostatic interactions between TA and CP, including hydrogen bonding and ionic pairing, formed a kinetically stabilized TA@CP network that suppressed TA crystallization while enhancing transdermal delivery. The formulation maintained physical stability under stress conditions and showed no visible crystallization. Pharmacokinetic studies demonstrated superior epidermal bioavailability, with a peak dermal concentration 1.91-fold higher than commercial TA cream and minimal irritation. In UV/progesterone-induced melasma models, 10% TAE Gel significantly suppressed tyrosinase activity, restored antioxidant markers (SOD), and reduced lipid peroxidation (MDA), accompanied by normalization of hepatic biomarkers. Histological analysis confirmed melanin clearance and epidermal remodeling without cytotoxicity. Overall, this metastable supersaturation approach offers a promising strategy for high-payload transdermal delivery of hydrophilic actives. The TA@CP-based TAE Gel successfully addresses the formulation trade-off between dose escalation and physical stability, providing a safe and effective platform for topical melasma therapy and potentially other pigmentary disorders.",
+      "year": "2026",
+      "journal": "Molecular pharmaceutics",
+      "authors": [
+        "Cai Zhitao",
+        "Zeng Han",
+        "Huang Zhijie",
+        "Li Yiyao",
+        "Deng Xiaopeng"
+      ],
+      "mesh_terms": [
+        "Tranexamic Acid",
+        "Animals",
+        "Emulsions",
+        "Gels",
+        "Administration, Cutaneous",
+        "Melanosis",
+        "Biological Availability",
+        "Acrylic Resins",
+        "Drug Delivery Systems",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41530120/"
+    },
+    {
+      "pmid": "41523529",
+      "title": "A Comparative Study of the Efficacy of Chemical Peels and Microneedling in the Treatment of Moderate to Severe Melasma.",
+      "abstract": "Melasma is a chronic, relapsing hyperpigmentation disorder that commonly affects individuals with darker skin phototypes, leading to significant cosmetic and psychological distress. Despite various treatment options, achieving lasting improvement with minimal side effects remains challenging.",
+      "year": "2025",
+      "journal": "Cureus",
+      "authors": [
+        "Batool Aamna",
+        "Seger Ali Jaaen",
+        "Akhtar Nazia",
+        "Mateen Sahar",
+        "Amiruddin Muhammad Usman"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41523529/"
+    }
+  ],
+  "crawled_at": "2026-05-18T22:21:31.302523"
+}

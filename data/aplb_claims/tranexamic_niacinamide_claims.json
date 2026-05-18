@@ -2,93 +2,91 @@
   "complex_id": "tranexamic_niacinamide",
   "trade_mark": "",
   "name_kr": "트라넥삼산-나이아신아마이드",
-  "generated_at": "2026-05-09T14:13:48.735670",
+  "generated_at": "2026-05-18T22:25:04.500831",
   "claims": {
     "hero_claim": {
-      "headline_en": "Visibly Brighten and Even Skin Tone with Tranexamic Acid & Niacinamide",
-      "headline_kr": "트라넥삼산과 나이아신아마이드로 맑고 균일한 피부톤을 선사합니다",
-      "subheadline_en": "Targeted dual-action for hyperpigmentation.",
-      "subheadline_kr": "색소침착 집중 케어 듀얼 액션.",
-      "scientific_basis_en": "Tranexamic acid is widely used for pigmentary disorders, and studies explore its potential in improving melasma and protecting dermal fibroblasts from senescence (PMID:42059427). Niacinamide is recognized for its role in improving skin tone and texture, and research is exploring advanced delivery systems for hyperpigmentation treatment (PMID:41832625).",
-      "scientific_basis_kr": "트라넥삼산은 색소 질환에 널리 사용되며, 기미 개선 및 진피 섬유아세포 노화 방지 가능성을 탐구하는 연구가 진행 중입니다(PMID:42059427). 나이아신아마이드는 피부톤 및 결 개선에 기여하며, 색소침착 치료를 위한 첨단 전달 시스템 연구가 진행되고 있습니다(PMID:41832625).",
+      "headline_en": "Synergistic Brightening Power for Hyperpigmentation",
+      "headline_kr": "색소침착 개선을 위한 시너지 브라이트닝 파워",
+      "subheadline_en": "Visibly reduces dark spots and evens skin tone.",
+      "subheadline_kr": "잡티를 옅게, 톤을 고르게 가꾸어줍니다.",
+      "scientific_basis_en": "The combination of Tranexamic Acid and Niacinamide offers a synergistic approach to managing hyperpigmentation by targeting multiple pathways involved in melanin production and transfer. Studies highlight Tranexamic Acid's role in inhibiting melanogenesis and Niacinamide's ability to reduce melanosome transfer to keratinocytes, leading to improved skin tone and reduced dark spots. (PMID: 41832625, 41537948)",
+      "scientific_basis_kr": "트라넥삼산과 나이아신아마이드의 조합은 멜라닌 생성 및 전달에 관여하는 여러 경로를 표적으로 하여 색소침착 관리에 시너지 효과를 제공합니다. 연구에 따르면 트라넥삼산은 멜라닌 생성을 억제하고, 나이아신아마이드는 멜라노솜의 각질세포 전달을 감소시켜 피부톤 개선 및 잡티 감소에 도움을 줍니다. (PMID: 41832625, 41537948)",
       "tier": "strong"
     },
     "rtb_points": [
       {
-        "point_en": "Tranexamic acid helps manage pigmentary disorders by targeting melanin production.",
-        "point_kr": "트라넥삼산은 멜라닌 생성을 조절하여 색소 질환 관리에 도움을 줍니다.",
-        "evidence": "PMID:42059427 | Tranexamic acid protects human dermal fibroblasts from D-galactose-induced senescence via the GPR30/MAPK pathway."
+        "point_en": "Tranexamic acid helps inhibit melanin production and transfer, contributing to a brighter complexion.",
+        "point_kr": "트라넥삼산은 멜라닌 생성을 억제하고 전달을 줄여 맑은 피부톤 관리에 도움을 줍니다.",
+        "evidence": "PMID:42105927, Clinical Considerations for Oral Tranexamic Acid in Melasma Treatment."
       },
       {
-        "point_en": "Niacinamide supports a brighter, more even skin tone by inhibiting melanosome transfer.",
-        "point_kr": "나이아신아마이드는 멜라노솜 이동을 억제하여 더 밝고 균일한 피부톤을 가꾸는 데 기여합니다.",
-        "evidence": "PMID:41537948 | Egyptian National Consensus on Dermocosmetic Ingredient Selection Across Common Dermatology Scenarios: A RAND/UCLA Appro"
+        "point_en": "Niacinamide supports the reduction of melanosome transfer to skin cells, visibly improving uneven skin tone.",
+        "point_kr": "나이아신아마이드는 멜라노솜의 피부 세포 전달을 줄여 칙칙한 피부톤을 눈에 띄게 개선하는 데 도움을 줍니다.",
+        "evidence": "PMID:41832625, Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment."
       },
       {
-        "point_en": "Advanced delivery systems enhance the efficacy of hyperpigmentation treatments.",
-        "point_kr": "첨단 전달 시스템은 색소침착 치료 효과를 증진시킵니다.",
-        "evidence": "PMID:41832625 | Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment."
+        "point_en": "The combined action of Tranexamic Acid and Niacinamide offers enhanced efficacy for hyperpigmentation concerns.",
+        "point_kr": "트라넥삼산과 나이아신아마이드의 복합 작용은 색소침착 개선에 더욱 효과적인 도움을 제공합니다.",
+        "evidence": "PMID:41537948, Egyptian National Consensus on Dermocosmetic Ingredient Selection Across Common Dermatology Scenarios: A RAND/UCLA Appro"
       }
     ],
     "tech_story": {
-      "headline_en": "Synergistic formulation for enhanced pigment control.",
-      "headline_kr": "색소 개선 효과를 극대화하는 시너지 포뮬러",
+      "headline_en": "Advanced Delivery Systems Enhance Ingredient Efficacy",
+      "headline_kr": "효능을 높이는 첨단 전달 시스템",
       "supporting_facts_en": [
-        "Combining Tranexamic Acid and Niacinamide leverages their complementary mechanisms for comprehensive hyperpigmentation management.",
-        "Research explores innovative delivery methods to maximize the penetration and effectiveness of key ingredients."
+        "Microneedle-based transdermal patches offer improved therapeutic effectiveness and enhanced drug absorption by bypassing the stratum corneum.",
+        "This approach ensures active compounds are delivered directly through the skin for targeted hyperpigmentation treatment."
       ],
       "supporting_facts_kr": [
-        "트라넥삼산과 나이아신아마이드의 조합은 상호 보완적인 작용으로 종합적인 색소침착 관리를 지원합니다.",
-        "핵심 성분의 침투력과 효능을 극대화하기 위한 혁신적인 전달 방식 연구가 진행 중입니다."
+        "마이크로니들 기반 경피 패치는 각질층을 통과하여 약물 흡수를 높이고 치료 효과를 증진시킵니다.",
+        "이러한 방식은 활성 성분을 피부에 직접 전달하여 색소침착을 효과적으로 관리합니다."
       ]
     },
     "citation_ready_papers": [
       {
+        "pmid": "42105927",
+        "title": "Clinical Considerations for Oral Tranexamic Acid in Melasma Treatment.",
+        "year": "2026",
+        "use_case_en": "Cite as evidence for Tranexamic Acid's efficacy in treating melasma and hyperpigmentation concerns.",
+        "use_case_kr": "트라넥삼산의 멜라스마 및 색소침착 개선 효능에 대한 근거로 인용합니다."
+      },
+      {
         "pmid": "42059427",
         "title": "Tranexamic acid protects human dermal fibroblasts from D-galactose-induced senescence via the GPR30/MAPK pathway.",
         "year": "2026",
-        "use_case_en": "To support the claim that Tranexamic Acid has benefits beyond pigmentary disorders, potentially including anti-aging effects on skin cells.",
-        "use_case_kr": "트라넥삼산이 색소 질환 외에도 피부 세포에 대한 항노화 효과를 포함한 이점을 제공한다는 주장을 뒷받침하는 데 사용합니다."
-      },
-      {
-        "pmid": "42025113",
-        "title": "Histopathological evaluation of facial melasma treated with oral tranexamic acid alone and in combination with ketotifen",
-        "year": "2026",
-        "use_case_en": "To highlight the established effectiveness of Tranexamic Acid in treating melasma, providing a basis for its use in topical formulations.",
-        "use_case_kr": "트라넥삼산의 기미 치료에 대한 입증된 효과를 강조하여 국소 제형에서의 사용 근거를 제공하는 데 사용합니다."
+        "use_case_en": "Support claims related to skin rejuvenation and anti-aging benefits alongside pigmentary disorder treatment.",
+        "use_case_kr": "색소 질환 관리와 더불어 피부 회춘 및 안티에이징 효능 관련 주장을 뒷받침하는 근거로 사용합니다."
       },
       {
         "pmid": "41832625",
         "title": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
         "year": "2026",
-        "use_case_en": "To support the innovation in delivery systems for hyperpigmentation treatment, suggesting improved absorption and efficacy.",
-        "use_case_kr": "색소침착 치료를 위한 전달 시스템의 혁신성을 뒷받침하며, 개선된 흡수율과 효능을 시사하는 데 사용합니다."
+        "use_case_en": "Highlight advanced delivery methods for enhanced penetration and efficacy in hyperpigmentation treatment.",
+        "use_case_kr": "색소침착 개선을 위한 향상된 침투력과 효능을 제공하는 첨단 전달 방식의 중요성을 강조하는 데 인용합니다."
       },
       {
         "pmid": "41537948",
         "title": "Egyptian National Consensus on Dermocosmetic Ingredient Selection Across Common Dermatology Scenarios: A RAND/UCLA Appro",
         "year": "2026",
-        "use_case_en": "To provide expert consensus on the use of dermocosmetic ingredients like Niacinamide for common skin concerns.",
-        "use_case_kr": "나이아신아마이드와 같은 더모코스메틱 성분의 일반적인 피부 고민에 대한 전문가 합의를 제공하는 데 사용합니다."
+        "use_case_en": "Reference expert consensus on the use of dermocosmetic ingredients for common dermatological scenarios like hyperpigmentation.",
+        "use_case_kr": "색소침착과 같은 일반적인 피부 고민에 대한 더모코스메틱 성분 선택에 대한 전문가 합의를 참조하는 데 사용합니다."
       }
     ],
     "world_first_opportunity_en": null,
     "world_first_opportunity_kr": null,
     "risky_claims_to_avoid_en": [
-      "Treats melasma",
-      "Cures hyperpigmentation",
-      "Prevents dark spots",
-      "Eliminates all uneven skin tone",
-      "Guarantees a flawless complexion"
+      "Treats melasma completely.",
+      "Eliminates all dark spots.",
+      "Guarantees 100% even skin tone.",
+      "Prevents future hyperpigmentation."
     ],
     "risky_claims_to_avoid_kr": [
-      "기미를 치료합니다",
-      "색소침착을 완치합니다",
-      "잡티를 예방합니다",
-      "모든 피부톤 불균일을 완벽하게 제거합니다",
-      "결점 없는 피부를 보장합니다"
+      "멜라스마를 완벽하게 치료합니다.",
+      "모든 잡티를 제거합니다.",
+      "100% 균일한 피부톤을 보장합니다.",
+      "향후 색소침착을 예방합니다."
     ],
-    "north_america_angle_en": "Leverages clinically recognized ingredients for visible improvement in skin tone and reduction of hyperpigmentation, aligning with consumer demand for effective and science-backed skincare.",
-    "north_america_angle_kr": "임상적으로 인정된 성분을 활용하여 피부톤 개선 및 색소침착 감소 효과를 제공하며, 효과적이고 과학적인 스킨케어를 원하는 소비자 니즈에 부합합니다."
+    "north_america_angle_en": "Leverages well-researched ingredients like Tranexamic Acid and Niacinamide, known for their efficacy in addressing hyperpigmentation and melasma, aligning with consumer demand for science-backed skincare solutions.",
+    "north_america_angle_kr": "트라넥삼산과 나이아신아마이드와 같이 색소침착 및 멜라스마 개선에 효과적인 것으로 알려진 성분을 활용하여 과학적 근거 기반의 스킨케어를 찾는 소비자 니즈에 부합합니다."
   }
 }

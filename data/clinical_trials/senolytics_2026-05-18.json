@@ -1,0 +1,737 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 22,
+  "trials": [
+    {
+      "nct_id": "NCT05254015",
+      "title": "Cognitive Rehabilitation and Exposure Therapy for Geriatric Hoarding",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hoarding Disorder",
+        "Obsessive-Compulsive Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Cognitive Rehabilitation and Exposure/Sorting Therapy (CREST)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Case Management"
+        }
+      ],
+      "sponsor": "University of California, San Diego",
+      "primary_completion": "2027-02-28",
+      "url": "https://clinicaltrials.gov/study/NCT05254015"
+    },
+    {
+      "nct_id": "NCT06995443",
+      "title": "Breast Cancer and Chemobrain : Effects of Photobiomodulation on the Improvement of Perceived Cognitive Impairment",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Oncology",
+        "Support Care",
+        "Cognitive Disorders"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Photobiomodulation"
+        }
+      ],
+      "sponsor": "Centre Hospitalier de Valenciennes",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT06995443"
+    },
+    {
+      "nct_id": "NCT06169527",
+      "title": "A Long-term Data Collection Study of Participants in France Aged 6 Years Old or More With Atopic Dermatitis Receiving Dupilumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dupilumab"
+        }
+      ],
+      "sponsor": "Sanofi",
+      "primary_completion": "2028-05-10",
+      "url": "https://clinicaltrials.gov/study/NCT06169527"
+    },
+    {
+      "nct_id": "NCT06041503",
+      "title": "Enfortumab Vedotin With or Without Pembrolizumab in Rare Genitourinary Tumors (E-VIRTUE)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Adenocarcinoma of the Bladder",
+        "Squamous Cell Carcinoma of the Bladder",
+        "Testicular Germ Cell Tumors"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pembrolizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Enfortumab vedotin"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2027-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06041503"
+    },
+    {
+      "nct_id": "NCT06473194",
+      "title": "This Study Assess Some Physiological Parameters, Blood Picture, and Hemodynamic Parameters, Blood Pressure, Respiratory Assess by SPO2, During Different Periods in Laparoscopic Surgery",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anesthesia Complication",
+        "Physiological Parameter"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "general anesthesia drug (like Propofol, esmeron, and ketamin, .effects of pneumoperitoneum"
+        }
+      ],
+      "sponsor": "Mohammed Abdulhameed",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06473194"
+    },
+    {
+      "nct_id": "NCT05361798",
+      "title": "A Phase II Study Evaluating T-Cell Clonality After Stereotactic Body Radiation Therapy Alone and in Combination With the Immunocytokine PDS01ADC in Localized High and Intermediate Risk Prostate Cancer Treated With Androgen Deprivation Therapy",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cancer Of Prostate"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "PDS01ADC"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Stereotactic Body Radiation Therapy (SBRT)"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2026-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT05361798"
+    },
+    {
+      "nct_id": "NCT06569199",
+      "title": "Pediatric Femur Fractures: Functional Bracing vs Spica Casting - Outcomes and Cost Analysis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pediatric Femur Fracture"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Functional Bracing"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Hip Spica Cast"
+        }
+      ],
+      "sponsor": "University of Calgary",
+      "primary_completion": "2027-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT06569199"
+    },
+    {
+      "nct_id": "NCT05807139",
+      "title": "Spironolactone in Alcohol Use Disorder (SAUD)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alcohol Use Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Spironolactone"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05807139"
+    },
+    {
+      "nct_id": "NCT07485777",
+      "title": "Comparative Evaluation of Topical 30% Metformin and Kligman's Regimen in Women With Melasma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma (Facial Melasma)",
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Topical 30% metformin cream"
+        },
+        {
+          "type": "DRUG",
+          "name": "Kligman's Regimen"
+        }
+      ],
+      "sponsor": "Foundation University Islamabad",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07485777"
+    },
+    {
+      "nct_id": "NCT07277166",
+      "title": "The Effect of Mobile Robot Assisted Gait Training on Gait Performance in Chronic Patients With Impaired Gait Function After Burn Injury",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Burns",
+        "Gait Dysfunction",
+        "Robot Training"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "wearable robot training"
+        }
+      ],
+      "sponsor": "Hangang Sacred Heart Hospital",
+      "primary_completion": "2026-11-15",
+      "url": "https://clinicaltrials.gov/study/NCT07277166"
+    },
+    {
+      "nct_id": "NCT05698173",
+      "title": "Systemic Lupus Erythematosus and Accelerated Aging",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "blood sample"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "blood sample"
+        }
+      ],
+      "sponsor": "University Hospital, Bordeaux",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT05698173"
+    },
+    {
+      "nct_id": "NCT06491771",
+      "title": "A Cryotherapy With Tranexamic Acid Versus Normal Saline in the Treatment of Melasma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cryotherapy Effect"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TargetCool"
+        }
+      ],
+      "sponsor": "Mahidol University",
+      "primary_completion": "2025-02-01",
+      "url": "https://clinicaltrials.gov/study/NCT06491771"
+    },
+    {
+      "nct_id": "NCT07432412",
+      "title": "Functional Effects of Postoperative Physiotherapy After Cosmetic Femoral Lengthening (LON-PT)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Conventional Physiotherapy Program"
+        }
+      ],
+      "sponsor": "FATMA ÇAVDARCI",
+      "primary_completion": "2026-04",
+      "url": "https://clinicaltrials.gov/study/NCT07432412"
+    },
+    {
+      "nct_id": "NCT06943911",
+      "title": "Reflects the Intervention (AI Chatbot)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer Early Stage Breast Cancer (Stage 1-3)"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "AI Chatbot for Breast Cancer Patient Education and Empowerment"
+        }
+      ],
+      "sponsor": "Mostafa Shaban",
+      "primary_completion": "2025-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06943911"
+    },
+    {
+      "nct_id": "NCT02339012",
+      "title": "Genetic and Epigenetic Signatures of Translational Aging Laboratory Testing (GESTALT)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Healthy Volunteers",
+        "Non-Healthy/Non-Frail",
+        "Frail"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute on Aging (NIA)",
+      "primary_completion": "2099-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT02339012"
+    },
+    {
+      "nct_id": "NCT07499128",
+      "title": "Continuous Temperature Monitoring (CTM) for Cytokine Release Syndrome (CRS), an Immune-Related Adverse Event",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cytokine Release Syndrome",
+        "Neoplasms",
+        "Lymphoma",
+        "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+        "Multiple Myeloma",
+        "Lymphoma Mantle-cell",
+        "Immunotherapy",
+        "Cell and Tissue-Based Therapy",
+        "Cytokines",
+        "Monitoring Physiologic",
+        "Immune Monitoring",
+        "Wearable Electronic Devices",
+        "Thermometry",
+        "Body Temperature",
+        "Antibodies Bispecific",
+        "Receptors Chimeric Antigen"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TempTraq"
+        },
+        {
+          "type": "DEVICE",
+          "name": "VitalTraq"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2029-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07499128"
+    },
+    {
+      "nct_id": "NCT07409792",
+      "title": "Multifaceted Benefits of Auricular Point Sticking for IVF Patients: Psychological Well-being, Sleep, and Treatment Outcomes",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Infertility, Female",
+        "Anxiety",
+        "Assisted Reproductive Techniques",
+        "Dyssomnias",
+        "Depression"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "auricular point sticking therapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Conventional Artificial Cycle Therapy"
+        }
+      ],
+      "sponsor": "Hangzhou TCM Hospital Affiliated to Zhejiang Chinese Medical University",
+      "primary_completion": "2026-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT07409792"
+    },
+    {
+      "nct_id": "NCT07520019",
+      "title": "Study Evaluating the Effect of Nutra Harmony \"Biotin, Collagen and Keratin Beauty Complex\" Dietary Supplement on Hair Thickness and Hair Strength in Adults With Self-Perceived Thinning Hair",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hair Thinning"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Complex with Biotin 5,000 mcg, Collagen, Keratin and Hyaluronic Acid."
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Complex with Biotin 10,000 mcg, Collagen, Keratin and Hyaluronic Acid."
+        }
+      ],
+      "sponsor": "Nutra Harmony LLC",
+      "primary_completion": "2026-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07520019"
+    },
+    {
+      "nct_id": "NCT07233616",
+      "title": "Risks and Benefits of Radiofrequency Ablation for Chronic Venous Insufficiency (CEAP C3-C6) in Patients Aged 80 and Over",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Chronic Venous Insufficiency, CVI",
+        "Radiofrequency Ablation",
+        "Octogenarians(Aged 80 and Over)",
+        "Cohort Study"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Endovenous Radiofrequency Ablation"
+        }
+      ],
+      "sponsor": "Chengdu University of Traditional Chinese Medicine",
+      "primary_completion": "2026-05-30",
+      "url": "https://clinicaltrials.gov/study/NCT07233616"
+    },
+    {
+      "nct_id": "NCT07068074",
+      "title": "A Randomized Phase III Study of Management of Treatment Naive Primary Melanoma in Elderly Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cutaneous Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Wide local Excision"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Sentinel Lymph Node and Wide Local Excision"
+        }
+      ],
+      "sponsor": "Eastern Cooperative Oncology Group",
+      "primary_completion": "2031-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT07068074"
+    },
+    {
+      "nct_id": "NCT06154590",
+      "title": "Anastrozole Adjuvant Trial - Study of Anastrozole Compared to NOLVADEX (Tamoxifen Citrate) for Adjuvant Treatment of Early Breast Cancer Clinical Studies), Adjunct Cytotoxic Chemotherapy and Malignant Joint Tumor",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Metastatic Breast Cancer",
+        "Tumor",
+        "Muscle Neoplasms",
+        "Chronic Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Method(s)1 Attribution"
+        },
+        {
+          "type": "DRUG",
+          "name": "Method(s)2 Attribution,"
+        }
+      ],
+      "sponsor": "DR. DIANE CHISESI NFS. MD. PHD.",
+      "primary_completion": "2025-08",
+      "url": "https://clinicaltrials.gov/study/NCT06154590"
+    },
+    {
+      "nct_id": "NCT06804759",
+      "title": "A Clinical Study to Evaluate the Efficacy of Activated Silk™ 27P-α in Subjects, Aged 35-65 Years of Age, to Improve the Signs of Aging",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Skin Aging"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Investigational Facial Serum #1"
+        },
+        {
+          "type": "OTHER",
+          "name": "Investigational Facial Serum #2"
+        },
+        {
+          "type": "OTHER",
+          "name": "Investigational Facial Serum #3"
+        }
+      ],
+      "sponsor": "Victoria Collotta",
+      "primary_completion": "2024-12-20",
+      "url": "https://clinicaltrials.gov/study/NCT06804759"
+    },
+    {
+      "nct_id": "NCT01517425",
+      "title": "Evaluating Cardiovascular Phenotypes Using Induced Pluripotent Stem Cells",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Coronary Artery Disease"
+      ],
+      "interventions": [],
+      "sponsor": "Scripps Translational Science Institute",
+      "primary_completion": "2025-07",
+      "url": "https://clinicaltrials.gov/study/NCT01517425"
+    },
+    {
+      "nct_id": "NCT06538415",
+      "title": "Adding Polyphenol-rich Pulses to Daily Diet Improves Skin Health by Reshaping the Skin Microbiome",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Pulse Diet"
+        },
+        {
+          "type": "OTHER",
+          "name": "Control Rice Diet"
+        }
+      ],
+      "sponsor": "University of Florida",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06538415"
+    },
+    {
+      "nct_id": "NCT06643091",
+      "title": "Nintedanib Treatment in Unicentric Castleman Disease",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Castleman Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Nintedanib"
+        }
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "primary_completion": "2030-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT06643091"
+    },
+    {
+      "nct_id": "NCT07236502",
+      "title": "Moving Foward With Myeloma (MFM)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Multiple Myeloma (MM)"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Immediate intervention"
+        },
+        {
+          "type": "OTHER",
+          "name": "Waitlist"
+        }
+      ],
+      "sponsor": "Medical College of Wisconsin",
+      "primary_completion": "2029-12-15",
+      "url": "https://clinicaltrials.gov/study/NCT07236502"
+    },
+    {
+      "nct_id": "NCT07481851",
+      "title": "Skin Conductance for Predicting Spinal Anesthesia-Induced Hypotension in Geriatric Urologic Oncology Patients",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Hypotension",
+        "Urologic Neoplasms",
+        "Aged",
+        "Spinal Anesthesia"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Skin Conductance Monitoring"
+        }
+      ],
+      "sponsor": "Dr Abdurrahman Yurtaslan Ankara Oncology Training and Research Hospital",
+      "primary_completion": "2026-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT07481851"
+    },
+    {
+      "nct_id": "NCT06486831",
+      "title": "The Effect of Stress Ball in Reducing Anxiety and Fear in 6-12 Year Old Children",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Plaster of Paris Injury to Skin"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Squeeze the stress ball."
+        }
+      ],
+      "sponsor": "Ataturk University",
+      "primary_completion": "2024-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT06486831"
+    },
+    {
+      "nct_id": "NCT06756269",
+      "title": "To Evaluate the Safety and Immunogenicity of 15-valent HPV Recombinant Vaccine in Chinese People Aged 9-45 Years",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "HPV Infection",
+        "HPV-Related Carcinoma",
+        "HPV-Related Intraepithelial Neoplasia",
+        "Genital Wart"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Medium dose for 15-HPV vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "High dose for 15-HPV vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Placebo"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "9-HPV vaccine"
+        }
+      ],
+      "sponsor": "Shanghai Bovax Biotechnology Co., Ltd.",
+      "primary_completion": "2025-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT06756269"
+    },
+    {
+      "nct_id": "NCT07018180",
+      "title": "Interventional Clinical Trial Evaluating COVER PATCH CAPTEUR PROTECT Support Solutions for Continuous Glucose Monitoring Sensors in Patients With Diabetes",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetes"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Use of COVER patchs for continuous glucose monitoring sensor"
+        }
+      ],
+      "sponsor": "CAPTEUR PROTECT",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT07018180"
+    }
+  ],
+  "fetched_at": "2026-05-18T22:21:17.860452"
+}

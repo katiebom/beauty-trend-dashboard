@@ -1,0 +1,36 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "tranexamic acid",
+  "query": "(\"exosome\"[Title/Abstract] AND \"tranexamic acid\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "41508749",
+      "title": "Targeting Melasma: Innovations in Pigment Deposition and Photoaging in Cosmetic Dermatology.",
+      "abstract": "Melasma is a chronic, relapsing hyperpigmentation disorder driven by complex interactions among genetic predisposition, hormonal fluctuations, UV exposure, oxidative stress, inflammation, and photoaging. Its psychosocial impact is substantial, especially among women with darker skin types, and treatment remains challenging due to its multifactorial pathogenesis and high recurrence rates.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Liao Ting",
+        "Luo Rui",
+        "Deng Ying",
+        "Yang Hongqiu",
+        "Du Yu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanosis",
+        "Skin Aging",
+        "Cosmetic Techniques",
+        "Skin Lightening Preparations",
+        "Oxidative Stress",
+        "Administration, Cutaneous",
+        "Combined Modality Therapy",
+        "Dermatologic Agents",
+        "Precision Medicine"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41508749/"
+    }
+  ],
+  "crawled_at": "2026-05-18T22:21:37.853692"
+}

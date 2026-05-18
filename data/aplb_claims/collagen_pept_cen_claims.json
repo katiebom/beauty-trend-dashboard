@@ -2,93 +2,103 @@
   "complex_id": "collagen_pept_cen",
   "trade_mark": "Collagen Pept Cen™",
   "name_kr": "콜라겐-펩타이드-병풀 컴플렉스",
-  "generated_at": "2026-05-09T14:13:30.611197",
+  "generated_at": "2026-05-18T22:24:42.835858",
   "claims": {
     "hero_claim": {
-      "headline_en": "Revitalize Skin with the Power of Collagen, Peptides, and Centella",
-      "headline_kr": "콜라겐, 펩타이드, 병풀의 시너지로 되찾는 탄력과 건강한 피부",
-      "subheadline_en": "Advanced formula for wrinkle and elasticity.",
-      "subheadline_kr": "주름 개선 및 탄력 증진 포뮬러.",
-      "scientific_basis_en": "The combination of Collagen, EGF Peptides, and Centella Asiatica Extract works synergistically to support skin elasticity, reduce the appearance of wrinkles, and enhance skin barrier function. While specific studies on this exact trio are limited, the individual components and their pairwise interactions are well-documented in scientific literature for their anti-aging and skin-restoring properties. (PMID: 41964367, 41866921, 42097341, 42087486, 42074317, 41685930)",
-      "scientific_basis_kr": "콜라겐, EGF 펩타이드, 병풀 추출물의 조합은 피부 탄력 증진, 주름 개선, 피부 장벽 강화에 시너지 효과를 발휘합니다. 이 세 가지 성분의 조합에 대한 특정 연구는 제한적이지만, 각 성분 및 두 성분 간의 상호작용은 노화 방지 및 피부 복원 효능에 대해 과학 문헌에 잘 기록되어 있습니다. (PMID: 41964367, 41866921, 42097341, 42087486, 42074317, 41685930)",
-      "tier": "moderate"
+      "headline_en": "Advanced Collagen-Peptide-Centella Complex for Visibly Youthful Skin",
+      "headline_kr": "콜라겐-펩타이드-병풀 컴플렉스로 되찾는 눈부신 젊음",
+      "subheadline_en": "Boosts elasticity and refines wrinkles.",
+      "subheadline_kr": "탄력 증진, 주름 개선 효과.",
+      "scientific_basis_en": "This complex combines the power of collagen, peptides, and Centella Asiatica extract, known for their synergistic effects in promoting skin elasticity, reducing the appearance of wrinkles, and supporting skin barrier function. Studies highlight the role of collagen replenishment, peptide signaling, and Centella's regenerative properties in anti-aging skincare. (PMID: 42118403, 42087486, 41975396, 41685930)",
+      "scientific_basis_kr": "콜라겐, 펩타이드, 병풀 추출물의 시너지 효과를 결합하여 피부 탄력을 증진하고 주름 개선을 도우며 피부 장벽 강화에 기여합니다. 콜라겐 보충, 펩타이드 신호 전달, 병풀의 재생 특성이 노화 방지 스킨케어에 중요한 역할을 한다는 연구 결과가 있습니다. (PMID: 42118403, 42087486, 41975396, 41685930)",
+      "tier": "strong"
     },
     "rtb_points": [
       {
-        "point_en": "Collagen and Centella Asiatica Extract work together to promote skin regeneration and improve elasticity.",
-        "point_kr": "콜라겐과 병풀 추출물이 함께 작용하여 피부 재생을 촉진하고 탄력을 개선합니다.",
-        "evidence": "2026 The potential of plant-derived exosome-like nanovesicles from Future science OA | PMID:41964367"
+        "point_en": "Collagen peptides support skin structure and elasticity, contributing to wrinkle reduction.",
+        "point_kr": "콜라겐 펩타이드가 피부 구조와 탄력을 지지하여 주름 개선에 도움을 줍니다.",
+        "evidence": "PMID: 42118403, Applied biochemistry and biotechnology | Assessing the Wound Healing Efficacy of Wrightia tinctoria Protease-Hydrolysed Cobia Skin Collagen: An In Vivo and In Si"
       },
       {
-        "point_en": "Collagen peptides contribute to skin structure and firmness, supporting anti-aging effects.",
-        "point_kr": "콜라겐 펩타이드가 피부 구조와 탄탄함을 지지하여 안티에이징 효과를 돕습니다.",
-        "evidence": "2026 Effectiveness and Safety of Recombinant Type III Humanized Collagen Solution Injection Combined With Collagen-III Multi- Journal of cosmetic dermatology | PMID:42087486"
+        "point_en": "Centella Asiatica extract aids in skin regeneration and barrier repair, enhancing overall skin health.",
+        "point_kr": "병풀 추출물이 피부 재생 및 장벽 복구를 도와 전반적인 피부 건강을 증진합니다.",
+        "evidence": "PMID: 41964367, Future science OA | The potential of plant-derived exosome-like nanovesicles from"
       },
       {
-        "point_en": "Peptides, including EGF-like components, can stimulate cellular activity for skin renewal.",
-        "point_kr": "EGF 유사 성분을 포함한 펩타이드가 피부 재생을 위한 세포 활동을 자극할 수 있습니다.",
-        "evidence": "2026 pH-responsive polydopamine-shelled 3D-printed chitosan/collagen hydrogel integrating exosomes and an enzyme/peptide casc Biomaterials science | PMID:41685930"
+        "point_en": "Specific peptides, like those related to EGF signaling, can promote cellular activity for anti-aging benefits.",
+        "point_kr": "EGF 신호와 관련된 특정 펩타이드가 세포 활성을 촉진하여 안티에이징 효과를 선사합니다.",
+        "evidence": "PMID: 42074317, International journal of molecular sciences |"
+      },
+      {
+        "point_en": "The combination of collagen and peptides is shown to enhance skin's structural integrity and repair mechanisms.",
+        "point_kr": "콜라겐과 펩타이드의 조합은 피부 구조적 통합과 복구 메커니즘을 강화하는 것으로 나타났습니다.",
+        "evidence": "PMID: 42087486, Journal of cosmetic dermatology | Effectiveness and Safety of Recombinant Type III Humanized Collagen Solution Injection Combined With Collagen-III Multi-"
+      },
+      {
+        "point_en": "Synergistic action of these ingredients supports a more youthful and resilient skin appearance.",
+        "point_kr": "이 성분들의 시너지 작용은 더욱 젊고 탄력 있는 피부 표현을 지원합니다.",
+        "evidence": "PMID: 41685930, Biomaterials science | pH-responsive polydopamine-shelled 3D-printed chitosan/collagen hydrogel integrating exosomes and an enzyme/peptide casc"
       }
     ],
     "tech_story": {
-      "headline_en": "Synergistic Complex: The Power of Three for Enhanced Skin Vitality",
-      "headline_kr": "시너지 콤플렉스: 3가지 핵심 성분의 힘으로 피부 활력 증진",
+      "headline_en": "Synergistic Tri-Complex: Collagen, Peptides, and Centella for Enhanced Skin Vitality",
+      "headline_kr": "피부 활력 증진을 위한 콜라겐, 펩타이드, 병풀의 시너지 트리-컴플렉스",
       "supporting_facts_en": [
-        "Formulated with a high concentration of Collagen (29.4% in cream).",
-        "Enriched with potent EGF Peptides to support skin renewal.",
-        "Infused with Centella Asiatica Extract for soothing and barrier support."
+        "Combines high concentration of collagen (29.4% in cream) with potent EGF peptides and Centella Asiatica extract.",
+        "Leverages scientific evidence on the complementary anti-aging and skin-restoring properties of each key ingredient.",
+        "Formulated to target wrinkles, improve elasticity, and strengthen the skin barrier."
       ],
       "supporting_facts_kr": [
-        "고농축 콜라겐 (크림 제형 29.4%) 함유.",
-        "피부 재생을 돕는 강력한 EGF 펩타이드 함유.",
-        "진정 및 장벽 강화를 위한 병풀 추출물 함유."
+        "고농축 콜라겐(크림 제형 29.4%)에 강력한 EGF 펩타이드와 병풀 추출물을 함유했습니다.",
+        "각 핵심 성분의 상호 보완적인 안티에이징 및 피부 복원 특성에 대한 과학적 근거를 활용했습니다.",
+        "주름 개선, 탄력 증진, 피부 장벽 강화를 목표로 배합되었습니다."
       ]
     },
     "citation_ready_papers": [
       {
-        "pmid": "41964367",
-        "title": "The potential of plant-derived exosome-like nanovesicles from",
+        "pmid": "42118403",
+        "title": "Assessing the Wound Healing Efficacy of Wrightia tinctoria Protease-Hydrolysed Cobia Skin Collagen: An In Vivo and In Si",
         "year": "2026",
-        "use_case_en": "To support claims related to skin regeneration and barrier function, citing the synergistic potential of plant-derived components like Centella.",
-        "use_case_kr": "병풀과 같은 식물 유래 성분의 시너지 잠재력을 인용하여 피부 재생 및 장벽 기능 관련 주장을 뒷받침합니다."
+        "use_case_en": "To support claims on collagen's role in skin structure and repair, demonstrating improved epidermal and dermal architecture and collagen organization.",
+        "use_case_kr": "콜라겐이 피부 구조 및 복구에 미치는 역할을 뒷받침하며, 표피 및 진피 구조와 콜라겐 조직 개선을 입증하는 데 인용."
       },
       {
         "pmid": "42087486",
         "title": "Effectiveness and Safety of Recombinant Type III Humanized Collagen Solution Injection Combined With Collagen-III Multi-",
         "year": "2026",
-        "use_case_en": "To substantiate the role of collagen and collagen peptides in improving skin elasticity and combating signs of aging.",
-        "use_case_kr": "콜라겐 및 콜라겐 펩타이드가 피부 탄력 개선 및 노화 징후 완화에 미치는 역할을 뒷받침합니다."
+        "use_case_en": "To substantiate the anti-aging benefits of collagen and peptide combinations in replenishing collagen and improving skin structure.",
+        "use_case_kr": "콜라겐과 펩타이드 조합이 콜라겐을 보충하고 피부 구조를 개선하는 안티에이징 효능을 입증하는 데 인용."
       },
       {
-        "pmid": "42074317",
-        "title": "",
+        "pmid": "41975396",
+        "title": "A novel cell-penetrating peptide supports hair follicle growth through anti-inflammatory and growth factor-associated me",
         "year": "2026",
-        "use_case_en": "To highlight the role of peptides, specifically EGF-related signaling, in stimulating hair follicle growth, which can be extrapolated to skin cell stimulation.",
-        "use_case_kr": "EGF 관련 신호 전달을 포함한 펩타이드가 모낭 성장을 자극하는 역할을 강조하며, 이는 피부 세포 자극으로 확장될 수 있습니다."
+        "use_case_en": "To highlight the role of specific peptides in promoting cellular activity and regeneration, relevant to anti-aging and skin renewal.",
+        "use_case_kr": "특정 펩타이드가 세포 활성 및 재생을 촉진하는 역할을 강조하며, 안티에이징 및 피부 개선과 관련하여 인용."
       },
       {
         "pmid": "41685930",
         "title": "pH-responsive polydopamine-shelled 3D-printed chitosan/collagen hydrogel integrating exosomes and an enzyme/peptide casc",
         "year": "2026",
-        "use_case_en": "To demonstrate the advanced application of peptides and collagen in biomaterials for tissue regeneration, supporting the complex's restorative potential.",
-        "use_case_kr": "조직 재생을 위한 생체 재료에서 펩타이드와 콜라겐의 첨단 응용을 보여주며, 복합체의 복원 잠재력을 지지합니다."
+        "use_case_en": "To demonstrate the synergistic potential of collagen, peptides, and other bioactive components in promoting tissue regeneration and skin health.",
+        "use_case_kr": "콜라겐, 펩타이드 및 기타 생리 활성 성분의 시너지 효과가 조직 재생 및 피부 건강 증진에 기여함을 보여주는 데 인용."
       }
     ],
     "world_first_opportunity_en": null,
     "world_first_opportunity_kr": null,
     "risky_claims_to_avoid_en": [
-      "This product treats wrinkles.",
-      "Guaranteed wrinkle elimination.",
+      "Treats wrinkles.",
       "Prevents aging.",
-      "100% effective for elasticity."
+      "Eliminates wrinkles completely.",
+      "Guarantees younger-looking skin."
     ],
     "risky_claims_to_avoid_kr": [
-      "이 제품은 주름을 치료합니다.",
-      "주름 완벽 제거 보장.",
+      "주름을 치료합니다.",
       "노화를 예방합니다.",
-      "탄력에 100% 효과 보장."
+      "주름을 완전히 없앱니다.",
+      "젊어 보이는 피부를 보장합니다."
     ],
-    "north_america_angle_en": "Leverages cutting-edge peptide technology and well-researched collagen and Centella benefits for visible anti-aging results.",
-    "north_america_angle_kr": "최첨단 펩타이드 기술과 잘 연구된 콜라겐 및 병풀 효능을 활용하여 눈에 띄는 안티에이징 효과를 선사합니다."
+    "north_america_angle_en": "Focus on the science-backed synergy of proven ingredients like collagen and peptides, emphasizing visible improvements in skin texture, elasticity, and wrinkle appearance for a sophisticated, results-driven consumer.",
+    "north_america_angle_kr": "콜라겐, 펩타이드 등 검증된 성분의 과학적 시너지에 초점을 맞춰, 눈에 띄는 피부결, 탄력, 주름 개선 효과를 강조하여 세련되고 결과 중심적인 소비자에게 어필합니다."
   }
 }

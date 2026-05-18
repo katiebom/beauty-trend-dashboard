@@ -1,0 +1,123 @@
+{
+  "ingredient_a": "salicylic acid",
+  "ingredient_b": "arbutin",
+  "query": "(\"salicylic acid\"[Title/Abstract] AND \"arbutin\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 5,
+  "articles": [
+    {
+      "pmid": "37881065",
+      "title": "Preparation and efficacy verification of three-dimensional printed partitioned multi-effect precision-care gel facial mask.",
+      "abstract": "A partition multi-effect precision-care gel facial mask conforming to facial skin characteristics was prepared using three-dimensional (3D) printing technology.",
+      "year": "2024",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Chen Junli",
+        "Liufu Chunqiao",
+        "Zhang Wenfang",
+        "Luo Chunhong",
+        "Fu Kaixia"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Arbutin",
+        "Hygroscopic Agents",
+        "Printing, Three-Dimensional",
+        "Salicylic Acid",
+        "Inflammation",
+        "Hydrogels"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37881065/"
+    },
+    {
+      "pmid": "37809523",
+      "title": null,
+      "abstract": "Orchidaceae are diverse plants whose bioactive compounds have various biological activities. New hybrids of ",
+      "year": "2023",
+      "journal": "Heliyon",
+      "authors": [
+        "Swainson Napachanok Mongkoldhumrongkul",
+        "Pengoan Thanyawan",
+        "Khonsap Rungpailin",
+        "Meksangsee Pilairath",
+        "Hagn Gerhard"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37809523/"
+    },
+    {
+      "pmid": "28689798",
+      "title": "Ethyl acetate extract from Panax ginseng C.A. Meyer and its main constituents inhibit α-melanocyte-stimulating hormone-induced melanogenesis by suppressing oxidative stress in B16 mouse melanoma cells.",
+      "abstract": "Hyperpigmentation disease involves darkening of the skin color due to melanin overproduction. Panax ginseng C.A. Meyer is a well-known traditional Chinese medicine and has a long history of use as a skin lightener to inhibit melanin formation in China, Korea and some other Asian countries. However, the constituents and the molecular mechanisms by which they affect melanogenesis are not fully clear.",
+      "year": "2017",
+      "journal": "Journal of ethnopharmacology",
+      "authors": [
+        "Jiang Rui",
+        "Xu Xiao-Hao",
+        "Wang Ke",
+        "Yang Xin-Zhao",
+        "Bi Ying-Fei"
+      ],
+      "mesh_terms": [
+        "Acetates",
+        "Animals",
+        "Antioxidants",
+        "Cell Line, Tumor",
+        "Glutathione",
+        "Melanins",
+        "Melanoma, Experimental",
+        "Mice",
+        "Monophenol Monooxygenase",
+        "Oxidative Stress"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28689798/"
+    },
+    {
+      "pmid": "26855207",
+      "title": "Analysis of salicylic acid, arbutin and corticosteroids in skin whitening creams available in Pakistan using chromatographic techniques.",
+      "abstract": "A simple, new and efficient reversed-phase high-performance liquid chromatography method was developed and validated for the separation of most popular ingredients in skin whitening creams.",
+      "year": "2016",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Shams A",
+        "Khan I U",
+        "Iqbal H"
+      ],
+      "mesh_terms": [
+        "Adrenal Cortex Hormones",
+        "Arbutin",
+        "Chromatography, High Pressure Liquid",
+        "Limit of Detection",
+        "Pakistan",
+        "Reference Standards",
+        "Reproducibility of Results",
+        "Salicylic Acid",
+        "Skin Lightening Preparations",
+        "Spectrophotometry, Ultraviolet"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26855207/"
+    },
+    {
+      "pmid": "23708434",
+      "title": "Development and validation of a fast chromatographic method for screening and quantification of legal and illegal skin whitening agents.",
+      "abstract": "During the last years, the EU market is flooded by illegal cosmetics via the Internet and a so-called \"black market\". Among these, skin-bleaching products represent an important group. They contain, according to the current European cosmetic legislation (Directive 76/768/EEC), a number of illegal active substances including hydroquinone, tretinoin and corticosteroids. These may provoke as well local as systemic toxic effects, being the reason for their banning from the EU market. To control this market there is a need for a fast screening method capable of detecting illegal ingredients in the wide variety of existing bleaching cosmetic formulations. In this paper the development and validation of an ultra high pressure liquid chromatographic (UHPLC) method is described. The proposed method makes use of a Waters Acquity BEH shield RP18 column with a gradient using 25 mM ammonium borate buffer (pH 10) and acetonitrile. This method is not only able to detect the major illegal (hydroquinone, tretinoin and six dermatologic active corticosteroids) and legal whitening agents, the latter having restrictions with respect to concentration and application (kojic acid, arbutin, nicotinamide and salicylic acid), but can also quantify these in a run time of 12 min. The method was successfully validated using the \"total error\" approach in accordance with the validation requirements of ISO-17025. During the validation a variety of cosmetic matrices including creams, lotions and soaps were taken into consideration.",
+      "year": "2013",
+      "journal": "Journal of pharmaceutical and biomedical analysis",
+      "authors": [
+        "Desmedt B",
+        "Rogiers V",
+        "Courselle P",
+        "De Beer J O",
+        "De Paepe K"
+      ],
+      "mesh_terms": [
+        "Chromatography, High Pressure Liquid",
+        "Cosmetics",
+        "Dermatologic Agents",
+        "Skin",
+        "Skin Lightening Preparations"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/23708434/"
+    }
+  ],
+  "crawled_at": "2026-05-18T22:21:27.956168"
+}
