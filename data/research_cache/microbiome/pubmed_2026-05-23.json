@@ -1,0 +1,195 @@
+{
+  "ingredient_id": "microbiome",
+  "name_en": "Microbiome/Postbiotics",
+  "name_kr": "마이크로바이옴/포스트바이오틱스",
+  "category": "barrier",
+  "query": "\"Microbiome/Postbiotics\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42168426",
+      "title": "Postbiotic derived from Lacticaseibacillus paracasei CNCM I-5220 as a novel approach to improve ageing-induced skin damage.",
+      "abstract": "The ageing process impacts skin health by reducing cell turnover and altering skin microbiota, which plays a crucial role in maintaining homeostasis and protection against pathogens. Microbiota-derived metabolites, including postbiotics generated through nutrient fermentation, may contribute to these protective functions. In this context, topical application of postbiotics represents a promising strategy to mitigate visible signs of skin ageing. We investigated the effects of PB-SKF, a postbiotic derived from the fermentation of fructooligosaccharides (FOS) by Lacticaseibacillus paracasei strain CNCM I-5220",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Algieri Francesca",
+        "Pimazzoni Silvia",
+        "Tanaskovic Nina",
+        "Braga Daniele",
+        "Penna Giuseppe"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168426/"
+    },
+    {
+      "pmid": "42148824",
+      "title": "Biotics: The Food Ingredients Supporting the Intestinal Microbiota and Immune System in Psoriasis.",
+      "abstract": "Psoriasis is a chronic immune-mediated inflammatory skin disease affecting 4 million new individuals worldwide each year. Although the etiology of psoriasis is not fully understood, genetic factors play a key role in conjunction with systemic inflammation and gut microbiota dysbiosis. Current methods of psoriasis treatment, while effective, may cause adverse reactions. Biotics (pre-, pro-, syn-, and postbiotics) are generally recognized as safe, have a good reputation, and have confirmed beneficial health effects. Considering the growing awareness of the impact of diet and lifestyle on health among individuals with psoriasis, the recognition of biotics as a potential source of health benefits with minimal constraints even during therapy has become more relevant. In this review, we highlight the therapeutic potential and beneficial effects of biotics in inflammatory skin diseases involving dysbiosis and screen the scientific data concerning recent randomized controlled trials that specifically assessed the use of biotics in psoriasis to understand the progress achieved to date. Most studies matching our screening criteria used lactic acid bacteria along with oligosaccharides as prebiotics. Probiotics have shown promising results in suppressing inflammatory pathways and alleviating the symptoms of psoriasis by modulating the gut microbiota. After several weeks of intervention, patients showed microbiome changes along with reduced levels of inflammatory biomarkers and psoriasis severity. Overall, biotics appear to be good candidates for improving the quality of life in patients with psoriasis; however, more randomized controlled trials with more rigid protocols and rigorously reported results are needed to properly assess their potential.",
+      "year": "2026",
+      "journal": "Nutrition reviews",
+      "authors": [
+        "De Biasi Julien",
+        "Giménez Bastida Juan Antonio",
+        "Krupa-Kozak Urszula"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42148824/"
+    },
+    {
+      "pmid": "42119272",
+      "title": "Lactobacillus-derived extracellular vesicles as postbiotic modulators of redox signalling and cellular senescence in skin homeostasis.",
+      "abstract": "The skin acts as a dynamic barrier-combining physical, chemical, and immunological defences-while hosting a diverse microbiome essential for cutaneous homeostasis. Dysbiosis and impaired redox balance are linked to various inflammatory conditions; however, the mechanisms by which microbial signals regulate skin cell senescence remain unclear. This study evaluated the effects of Lactobacillus-derived extracellular vesicles (EVs) on human keratinocytes (HaCaTs) and dermal fibroblasts (HDFs) under both physiological and stress-induced premature senescence (SIPS) conditions. SEM analysis confirmed the presence of spherical membrane-bound structures consistent with EV morphology, providing a qualitative characterisation. Functional assays indicate that low concentrations of EVs (1.25-2.5% v/v) increase the metabolic activity of HaCaT cells; however, only the 1.25% v/v concentration significantly promotes early wound closure, whereas the 2.5% v/v concentration induces a decoupling between metabolism and motility. In HDFs, EVs significantly reduced basal intracellular reactive oxygen species (ROS) levels, demonstrating an inherent capacity to modulate redox homeostasis. Furthermore, immunofluorescence analysis revealed that EVs exert cell-specific and context-dependent modulatory effects on the DNA damage response (DDR) and senescence-associated secretory phenotype (SASP). While EVs significantly regulated p21, 53BP1, and MMP-3 expression across both cell types under both basal and SIPS conditions, a specific modulation of COX-2 was observed exclusively in fibroblasts following SIPS induction. These results indicate that Lactobacillus-derived EVs support epidermal regeneration and protect dermal cells from molecular senescence by modulating redox-sensitive pathways. Our findings highlight the potential of these vesicles as multifunctional postbiotic regulators-providing a mechanistic basis for future strategies aimed at maintaining skin homeostasis and mitigating cellular ageing.",
+      "year": "2026",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "authors": [
+        "Amico Maria Denise",
+        "Skowron Malgorzata",
+        "Centkowska Katarzyna",
+        "Mikolaszek Barbara",
+        "Rappa Francesca"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Extracellular Vesicles",
+        "Cellular Senescence",
+        "Homeostasis",
+        "Fibroblasts",
+        "Oxidation-Reduction",
+        "Skin",
+        "Signal Transduction",
+        "Keratinocytes",
+        "Lactobacillus"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42119272/"
+    },
+    {
+      "pmid": "42117804",
+      "title": "Probiotics and the Human Microbiome: Classical Functions, Emerging Systemic Roles, and Future Therapeutic Frontiers.",
+      "abstract": "Probiotics, live microorganisms that confer health benefits when administered in adequate amounts, are increasingly recognized as modulators of interconnected microbiome-host networks that extend beyond gastrointestinal function. This review synthesizes evidence on classical probiotic roles in maintaining gut homeostasis, immune regulation, and infection prevention, while integrating emerging systemic effects across the gut-brain, gut-skin, gut-oral, and metabolic axes. Rather than presenting isolated outcomes, we adopt a systems-level framework that links probiotic actions to shared mechanisms, including microbial metabolite signaling (e.g., SCFAs), competitive exclusion of pathobionts, barrier reinforcement, and immune-neuroendocrine pathway modulation. We further discuss translational advances that enable rational probiotic design, including targeted delivery platforms (encapsulation and protective matrices), engineered/next-generation strains, and postbiotic-inspired strategies, alongside sustainability considerations and regulatory/labeling challenges. Finally, we outline future directions emphasizing precision microbiome-centered interventions, synthetic biology, and AI-assisted multi-omics analysis to support strain- and context-specific probiotic strategies. Collectively, this review provides an integrated, systems-oriented synthesis to guide future research and accelerate safe clinical and industrial applications of probiotics.",
+      "year": "2026",
+      "journal": "Biology",
+      "authors": [
+        "Zalila-Kolsi Imen",
+        "Al-Barazie Ray"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42117804/"
+    },
+    {
+      "pmid": "42075309",
+      "title": null,
+      "abstract": "Atopic dermatitis (AD) is a chronic inflammatory dermatosis driven by skin barrier dysfunction, immune dysregulation, and gut-skin axis imbalance. While probiotics show promise, the therapeutic potential and mechanisms of topical postbiotics in modulating the gut-skin axis remain understudied. Here, we investigated the efficacy of ",
+      "year": "2026",
+      "journal": "Microorganisms",
+      "authors": [
+        "Shi Zhijie",
+        "Li Ke",
+        "Liang Jiaqian",
+        "Yan Laifa",
+        "Guo Yuzhen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42075309/"
+    },
+    {
+      "pmid": "42052832",
+      "title": "The Gut-Lung Axis, Epigenetics and Respiratory Disease.",
+      "abstract": "The first and second phases of the human microbiome project provided a view of mucosal surfaces and the skin of humans that mapped an abundant and complex ecosystem (microbiota) that is composed of bacteria (bacteriobiota), fungi (mycobiota), viruses (virobiota), enteric phages, archaea, protists, and helminths. Intestinal dysbiosis describes an adverse shift in microbial homeostasis in the gut that enhances intestinal epithelial permeability, translocating toxins that may lead to endotoxemia. Numerous intestinal and extra-intestinal illnesses have been linked to gut dysbiosis, including inflammatory bowel disease, infections, food allergies, asthma, diabetes, obesity, multiple sclerosis, autism, periodontitis, and colorectal cancer. The gut-lung axis is a bidirectional communication network between the lungs and the intestines mediated by bacterial elaborated products (e.g., butyrate), immune cells and neural pathways influencing health and disease at both sites. This review has focused on the gut-lung axis and the role that probiotics, prebiotics and postbiotics may play on the amelioration of respiratory symptoms that may result from viral and/or bacterial lung infections. Clinicians have for some time focused on treating inflammatory lung disorders such as asthma and chronic obstructive pulmonary disease by encouraging beneficial effects on the intestinal microbiome through the gut-lung axis with orally administered probiotics and pre- and/or postbiotics. The purpose is to restore gut microbial homeostasis. Developing novel delivery platforms to administer probiotics directly to the airways or as adjunctive systemic modulators is a plausible and increasingly supported hypothesis, with careful strain selection, formulation to preserve viability, targeted delivery, and rigorous safety and efficacy testing before clinical use. It is posited that such adjunctive treatments may significantly influence the lung microbiota epigenome by positively impacting the balance of microorganisms within the lung, restoring eubiosis and consequently health.",
+      "year": "2026",
+      "journal": "Frontiers in bioscience (Landmark edition)",
+      "authors": [
+        "Byun Alex Seungyeon",
+        "Kwok Philip Chi Lip",
+        "Chan Hak-Kim",
+        "Vitetta Luis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Epigenesis, Genetic",
+        "Gastrointestinal Microbiome",
+        "Dysbiosis",
+        "Lung",
+        "Prebiotics",
+        "Probiotics",
+        "Animals",
+        "Respiratory Tract Diseases"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42052832/"
+    },
+    {
+      "pmid": "42052329",
+      "title": "Emerging Microbiome-Based Therapies for Skin Infections: From Probiotics and Prebiotics to Synthetic Microbiome Engineering.",
+      "abstract": "Skin infections are a major global health burden, made worse by the quick development of antimicrobial resistance (AMR) and the poor effectiveness of traditional antibiotic treatments for chronic and recurring diseases. The importance of the skin microbiome in preserving cutaneous homeostasis, pathogen exclusion, and immunological modulation is becoming more and more clear. Many infectious and inflammatory skin conditions have been linked to dysbiosis of the skin microbiota, which has led to a strategic reorientation from pathogen control to microbiome regulation. Probiotics, prebiotics, postbiotics, bacteriophages, microbiome transplants, and new methods in synthetic microbiome engineering are just a few of the recent advances in microbiome-based therapies in skin diseases that are covered in detail in this review. We go into the clinical effectiveness, safety issues, regulatory obstacles, and molecular underpinnings of various therapies. The promise of microbiome-based treatments to lower AMR, improve long-term effectiveness, and restore microbial balance is highlighted by comparison with traditional antibiotics. Lastly, future possibilities are examined that highlight the translational potential of microbiome-centred techniques in dermatology treatments, such as multi-omics integration, artificial intelligence-guided customisation, or synthetic microbial consortia.",
+      "year": "2026",
+      "journal": "Infection and drug resistance",
+      "authors": [
+        "Brar Gursahib Singh",
+        "Sharma Aditi",
+        "Siddiqui Arif Jamal",
+        "Sharma Lalit"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42052329/"
+    },
+    {
+      "pmid": "42037847",
+      "title": "The Role of Biotics in Rosacea: A Narrative Review.",
+      "abstract": "Rosacea is a chronic inflammatory dermatosis affecting the central face of adults, characterized by persistent erythema, flushing, papules, pustules, telangiectasias, and, in some cases, phymatous changes. Its pathogenesis involves a multifactorial interplay of immune dysregulation, neurovascular alterations, genetic predisposition, and disturbances of the skin and gut microbiota. Increasing interest in the gut-skin axis has prompted investigation into microbiota-targeted therapies, including probiotics, prebiotics, postbiotics, and synbiotics. This narrative review evaluates current evidence regarding the role of biotics in rosacea. A literature search was conducted in PubMed/MEDLINE, Scopus, and Web of Science using combinations of the terms \"rosacea,\" \"gut-skin axis,\" \"probiotics,\" \"prebiotics,\" \"postbiotics,\" and \"synbiotics.\" Clinical trials, observational studies, and relevant mechanistic investigations published in English were considered. Available data suggest that certain probiotic strains, administered orally or topically, may improve inflammatory lesions, erythema, and skin barrier function, particularly as adjuncts to standard therapy. However, findings are characterized by significant heterogeneity in strains, dosages, study design, outcome measures, and treatment duration. Evidence supporting the use of prebiotics, postbiotics, and synbiotics in rosacea remains limited and, in many cases, extrapolated from related inflammatory conditions or preclinical models. Although microbiota modulation represents a promising therapeutic avenue, current evidence is insufficient to establish standardized clinical recommendations. Larger, well-designed randomized controlled trials with standardized endpoints and long-term follow-up are required to clarify their efficacy, optimal formulations, and safety.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Avendaño-Pérez Alondra L",
+        "Orozco-Covarrubias Luz",
+        "Saez-de-Ocariz Marimar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42037847/"
+    },
+    {
+      "pmid": "42037251",
+      "title": "Short-Term Promotion of Beneficial Skin Commensal Staphylococcus Species Growth by PS-B1, a Postbiotic Composed of Lactic Acid Bacteria-Fermented Soy Milk.",
+      "abstract": "Postbiotics, defined as non-viable microbial cells, their components, or metabolites, are emerging functional ingredients that can modulate host health, including skin barrier function, immune responses, and microbial balance. The human skin microbiome plays a critical role in maintaining skin health, and the selective stimulation of beneficial commensals is of growing interest for cosmetic applications. PS-B1, a postbiotic derived from lactic acid bacteria during soy fermentation, is already used in beverages and cosmetics, but its direct effects on skin-resident bacteria have not been fully elucidated. In this study, we evaluated the effects of preservative-containing and preservative-free PS-B1 on the growth of twelve Staphylococcus strains and seven Cutibacterium acnes strains in vitro. The preservative-containing PS-B1 showed strong growth inhibition for all strains at higher concentrations. In contrast, the preservative-free PS-B1 significantly promoted the growth of Staphylococcus epidermidis, Staphylococcus hominis, and Staphylococcus lugdunensis, while Staphylococcus warneri was the only strain exhibiting growth inhibition. Other species showed no notable changes. Additionally, all C. acnes strains displayed slight growth enhancement. These results indicate that preservative-free PS-B1 selectively stimulates beneficial skin commensals, particularly S. hominis, revealing a previously unrecognized potential of PS-B1 to support a balanced skin microbiome.",
+      "year": "2026",
+      "journal": "Microbiology and immunology",
+      "authors": [
+        "Funatsu Osamu",
+        "Ishii Hiroko",
+        "Shimatsu Reiko",
+        "Shimokawa Yutaka",
+        "Asahina Akihiko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42037251/"
+    },
+    {
+      "pmid": "42019770",
+      "title": "Atopic dermatitis: Multi-omics insights into microbiota-driven modulation of the gut-skin axis.",
+      "abstract": "Atopic dermatitis (AD) is a heterogeneous inflammatory skin disease resulting from complex interactions among host genetics, immune dysregulation, and microbial imbalance. Recent advances in multi-omics technologies have revealed distinct AD endotypes characterized by specific genetic variants, microbial enterotypes, and metabolite profiles. Emerging evidence highlights the gut-skin axis as an important regulatory pathway, in which alterations in gut microbiota influence the production of key microbial metabolites, including short-chain fatty acids (SCFAs) and tryptophan-derived aryl hydrocarbon receptor (AHR) ligands, thereby modulating Th2-dominant inflammatory responses. Integrated analyses combining metagenomics, metabolomics, and single-cell transcriptomics have further identified endotype-specific signatures, such as Bacteroides-enriched profiles associated with lipopolysaccharide-driven inflammation and Prevotella-dominant clusters linked to enhanced AHR activation and epithelial barrier repair. These findings provide a basis for precision stratification and the development of targeted therapeutic strategies, including genotype-guided biologics, microbiota modulation, engineered probiotics, phage therapy, and fecal microbiota transplantation. This review summarizes current evidence integrating host genetics, microbiota networks, and multi-omics biomarkers to provide a comprehensive framework for understanding AD endotypes and to highlight potential avenues for precision diagnosis and targeted interventions.",
+      "year": "2026",
+      "journal": "Microbial pathogenesis",
+      "authors": [
+        "Xie Mei",
+        "Kong Lingrui",
+        "Hou Lin",
+        "Chen Yan",
+        "Hou Jian"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dermatitis, Atopic",
+        "Gastrointestinal Microbiome",
+        "Skin",
+        "Metabolomics",
+        "Metagenomics",
+        "Receptors, Aryl Hydrocarbon",
+        "Fatty Acids, Volatile",
+        "Biomarkers",
+        "Multiomics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42019770/"
+    }
+  ],
+  "crawled_at": "2026-05-23T21:57:29.548577",
+  "source": "pubmed"
+}
