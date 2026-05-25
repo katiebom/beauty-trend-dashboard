@@ -1,0 +1,343 @@
+{
+  "ingredient_a": "retinol",
+  "ingredient_b": "vitamin C",
+  "query": "(\"retinol\"[Title/Abstract] AND \"vitamin C\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "40911742",
+      "title": "Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon.",
+      "abstract": "The \"Sephora Kids\" trend, where children, especially tweens and teens, are increasingly using makeup and skincare products marketed by beauty retailers, presents notable dermatological challenges. Although these products can facilitate self-expression and teach self-care, their safety and efficacy for young users are largely unverified. This review examines 4 key ingredients commonly found in these products,retinol, exfoliating acids (AHA and BHA), and vitamin C, to assess their implications for pediatric skincare. Current literature and FDA-approved guidelines indicate that these ingredients have not been thoroughly tested in children. Consequently, using these products without medical supervision can pose risks such as skin redness, irritation, heightened sun sensitivity, dermatitis, and other potential adverse effects. This review underscores the importance of cautious use and highlights the need for further research to ensure the safety of these ingredients in young populations. By informing healthcare providers and consumers of these risks, we aim to promote safer skincare practices among children.",
+      "year": "2025",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Bolen Rebecca",
+        "Szymanski Tionna",
+        "Nichols Jordanne",
+        "Pulsipher Kayd J"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cosmetics",
+        "Child",
+        "Adolescent",
+        "Vitamin A",
+        "Ascorbic Acid",
+        "Consumer Product Safety",
+        "Skin Care"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40911742/"
+    },
+    {
+      "pmid": "40198513",
+      "title": "Analyzing Social Media Trends in Cosmeceuticals: Insights From Google Trends and TikTok Analytics.",
+      "abstract": "Social media usage has surged, particularly since the COVID-19 pandemic. Dermatology invokes intense interest on social media, and cosmeceuticals are among the most trending topics, offering a unique space for dermatologists to share their expertise. By using tools like Google Trends and TikTok viewership, we aim to capture cosmeceutical trends to guide dermatologists' educational efforts.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Correia Emily",
+        "Mandel Jenna",
+        "Cullison Stephanie R Jackson"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cosmeceuticals",
+        "COVID-19",
+        "Dermatology",
+        "SARS-CoV-2",
+        "Search Engine",
+        "Social Media"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40198513/"
+    },
+    {
+      "pmid": "40029737",
+      "title": "A Functional Skincare Formulation Mixed With Retinyl Propionate, Hydroxypinacolone Retinoate, and Vitamin C on Antiaging and Whitening Han Women in Shanghai, China.",
+      "abstract": "Human skin is remodeled as a result of aging. Retinoids (or retinol derivatives) can intervene in this process, which can be optimally formulated and concentrated by providing maximum antiaging effects with minimal irritation.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Fang Wei",
+        "Qiao Jian",
+        "Zhang Fan",
+        "Chen Min",
+        "Bian Qianjin"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Female",
+        "Ascorbic Acid",
+        "Fibroblasts",
+        "Adult",
+        "Vitamin A",
+        "Middle Aged",
+        "China",
+        "Skin Lightening Preparations"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40029737/"
+    },
+    {
+      "pmid": "39924347",
+      "title": "Synergistic Anti-Aging Effects of Adipose-Derived Stem Cell Extracellular Vesicles Loaded With Natural Compounds.",
+      "abstract": "Small extracellular vesicles from adipose-derived stem cells (ASC-sEVs) are gaining attentions rapidly for inherent therapeutic values in skin care and cosmetics. However, the optimal combinations of ASC-sEVs and certain natural compounds for synergistic anti-aging effects have not been systematically studied.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Vo Nhan",
+        "Vu Diem My",
+        "Tran Nam H B",
+        "Nguyen Diem D N",
+        "Phung Phuc M"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Extracellular Vesicles",
+        "Ultraviolet Rays",
+        "Adipose Tissue",
+        "Ascorbic Acid",
+        "Resveratrol",
+        "Mice",
+        "Arbutin",
+        "Vitamin A"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39924347/"
+    },
+    {
+      "pmid": "39120057",
+      "title": "Causal relationships between dietary antioxidant vitamin intake and atopic dermatitis: A two-sample Mendelian randomization study.",
+      "abstract": "Oxidative stress is strongly associated with atopic dermatitis (AD), and increased antioxidant intake could potentially reduce the risk of or alleviate its symptoms. However, the argument is disputed. Therefore, we conducted a Mendelian randomization (MR) analysis to explore the causal relationship between dietary antioxidant vitamin intake and AD.",
+      "year": "2024",
+      "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+      "authors": [
+        "Wang Siqing",
+        "Dan Wenchao",
+        "Wang Zixuan",
+        "Sun Yujie",
+        "Zhang Guangzhong"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Mendelian Randomization Analysis",
+        "Dermatitis, Atopic",
+        "Antioxidants",
+        "Genome-Wide Association Study",
+        "Vitamin E",
+        "Vitamins",
+        "Diet",
+        "Polymorphism, Single Nucleotide",
+        "Vitamin A"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39120057/"
+    },
+    {
+      "pmid": "39108105",
+      "title": "Antioxidants for Skin Health.",
+      "abstract": "Antioxidants play a pivotal role in maintaining skin health and integrity, combating the deleterious effects of oxidative stress induced by environmental aggressors such as UV radiation, pollution, and lifestyle factors. This paper reviews the contributions of key antioxidants, including Vitamin C, Vitamin E, Vitamin A, green tea extract, Coenzyme Q10, Resveratrol, Selenium, and Polyphenols, in skin health care. Vitamin C, known for its collagen synthesis promotion and photoprotection properties, alongside Vitamin E, a lipid-soluble antioxidant, synergistically works to neutralize free radicals and repair damaged skin cells. Vitamin A, in the form of retinol, plays a critical role in skin cell regeneration and the maintenance of skin integrity. Green tea extract, rich in Polyphenols, offers anti-inflammatory and anticarcinogenic properties, making it a potent ingredient for skin protection. Coenzyme Q10, a naturally occurring antioxidant in the body, aids in energy production for cell repair and regeneration, while Resveratrol, found in grapes and berries, provides anti-ageing benefits by enhancing skin's resistance to oxidative stress. Selenium, an essential mineral, contributes to the protection of skin cells from oxidative damage. The incorporation of these antioxidants in skincare products and dietary sources is discussed, highlighting the importance of a holistic approach in skincare regimes. The paper emphasizes the synergy between topical applications and dietary intake of antioxidants, advocating for a comprehensive strategy for promoting skin health and preventing age-related skin alterations. Method: For the review article, a variety of search engines and databases were used to identify relevant articles. Furthermore, for biomedical literature focusing on antioxidants and their effects on skin health, PubMed was used. Moreover, to access a wide range of scholarly articles, including those related to dermatology and skincare, Google Scholar was used. Scopus provides comprehensive coverage of peer-reviewed literature across various scientific disciplines. Web of Science identifies high-impact articles and research on antioxidants in skincare. In addition, for accessing full-text articles on antioxidants and their applications in dermatology, Science Direct was used. The inclusion criteria for the review paper were as follows: only studies published in peer-reviewed journals were included to ensure the credibility and reliability of the information. Articles published in English were considered, to avoid language-related biases and ensure comprehension. Studies published within the last 10 years were included to provide the most current insights into antioxidant research in skincare. Articles must specifically focus on the role of antioxidants (Vitamin C, Vitamin E, Vitamin A, green tea extract, Coenzyme Q10, Resveratrol, Selenium, Polyphenols) in skin health care. Both experimental studies (in vivo and in vitro) and clinical trials were included to provide a comprehensive overview of the antioxidant effects. Full-text articles were included to allow for thorough data extraction and analysis. The exclusion criteria for the review paper were as follows: Publications that were not peer-reviewed, such as editorials, opinion pieces, and non-scholarly articles, were excluded. Articles published in languages other than English were excluded due to potential translation challenges and to maintain consistency. Studies that did not focus on the specified antioxidants or their impact on skin health were excluded. Duplicate publications were excluded to avoid redundancy in the review. Articles with insufficient or incomplete data were excluded to ensure the quality and reliability of the review findings.",
+      "year": "2025",
+      "journal": "Recent advances in food, nutrition & agriculture",
+      "authors": [
+        "Kumar Virender",
+        "Tanwar Neha",
+        "Goel Muskan",
+        "Khan Mohit",
+        "Kumar Davinder"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Antioxidants",
+        "Skin",
+        "Ubiquinone",
+        "Skin Aging",
+        "Polyphenols",
+        "Selenium",
+        "Oxidative Stress",
+        "Resveratrol",
+        "Tea"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39108105/"
+    },
+    {
+      "pmid": "39000669",
+      "title": "Microspheres Based on Blends of Chitosan Derivatives with Carrageenan as Vitamin Carriers in Cosmeceuticals.",
+      "abstract": "Chitosan (CS) has a natural origin and is a biodegradable and biocompatible polymer with many skin-beneficial properties successfully used in the cosmetics and pharmaceutical industry. CS derivatives, especially those synthesized via a Schiff base reaction, are very important due to their unique antimicrobial activity. This study demonstrates research results on the use of hydrogel microspheres made of [chitosan-",
+      "year": "2024",
+      "journal": "Polymers",
+      "authors": [
+        "Lewicka Kamila",
+        "Smola-Dmochowska Anna",
+        "Dobrzyński Piotr",
+        "Śmigiel-Gac Natalia",
+        "Jelonek Katarzyna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39000669/"
+    },
+    {
+      "pmid": "38758222",
+      "title": "Cosmeceuticals for antiaging: a systematic review of safety and efficacy.",
+      "abstract": "Cosmeceuticals, the bridge between pharmaceuticals and cosmetics, contain biologically active ingredients that may improve the skin's overall appearance. As the market, accessibility, and popularity of cosmeceuticals increase, it is essential to understand the safety and efficacy of such products. This systematic review aims to examine published clinical studies involving the use of cosmeceuticals for antiaging to provide evidence-based recommendations based on available efficacy and safety data. PubMed, Embase, and Cochrane were systematically searched on January 1, 2023 using PRISMA guidelines. Strength of evidence was graded using the Oxford Centre for Evidence-Based Medicine guidelines. Clinical recommendations were made based on the quality of the existing literature. A total of 153 articles regarding the use of cosmeceuticals for treatment of antiaging were identified. After screening of titles, abstracts, and full text, 32 studies involving 1236 patients met inclusion criteria, including 20 randomized controlled trials (RCTs) and 12 non-randomized open-label clinical trials for Vitamin C, Retinol, Bakuchiol, Tetrahydrojasmonic acid, Growth Factors, Methyl Estradiolpropanoate, Timosaponin A-III (TA-III), Protocatechuic acid, Grammatophyllum speciosum, and Jasmine rice panicle extract. Retinol and vitamin C for antiaging received a Grade A for recommendation. Methyl estradiolpropanoate, bakuchiol, tetrahydrojasmonic acid, and growth factors received a recommendation grade of C. The remaining ingredients were assigned an inconclusive grade of recommendation due to lack of evidence. Cosmeceuticals included in the review had favorable safety profiles with few significant adverse events. The review analyzes numerous different ingredients to provide an evidence-based approach to decision-making for consumers and physicians on the use of cosmeceuticals for antiaging. Limitations to our review include a limited number of randomized controlled trials and a need for long-term data on each cosmeceutical's efficacy and safety. Future research is needed to establish the long-term effectiveness and safety of cosmeceuticals.",
+      "year": "2024",
+      "journal": "Archives of dermatological research",
+      "authors": [
+        "Lau Megan",
+        "Mineroff Gollogly Jessica",
+        "Wang Jennifer Y",
+        "Jagdeo Jared"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cosmeceuticals",
+        "Cosmetics",
+        "Evidence-Based Medicine",
+        "Randomized Controlled Trials as Topic",
+        "Skin",
+        "Skin Aging",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38758222/"
+    },
+    {
+      "pmid": "38238860",
+      "title": "Association between dietary antioxidants intake and childhood eczema: results from the NHANES database.",
+      "abstract": "High dietary intake of antioxidants reduces the risk of allergic sensitization in children. However, there was no sufficient evidence for the effect of dietary antioxidants intake on childhood eczema. Herein, this study aimed to explore the roles of different dietary antioxidants in childhood eczema.",
+      "year": "2024",
+      "journal": "Journal of health, population, and nutrition",
+      "authors": [
+        "Xu Jing",
+        "Li Hongxin"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Adolescent",
+        "Humans",
+        "Infant",
+        "Child, Preschool",
+        "Antioxidants",
+        "Nutrition Surveys",
+        "Cross-Sectional Studies",
+        "Eczema",
+        "Eating"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38238860/"
+    },
+    {
+      "pmid": "38073066",
+      "title": "Coffee and caffeine intake reduces risk of ulcerative colitis: a case-control study in Japan.",
+      "abstract": "Although diet is one of the potential environmental factors affecting ulcerative colitis (UC), evidence is not sufficient to draw definitive conclusions. This Japanese case-control study examined the association between the consumption of coffee, other caffeine-containing beverages and food, and total caffeine and the risk of UC.",
+      "year": "2024",
+      "journal": "Journal of gastroenterology and hepatology",
+      "authors": [
+        "Tanaka Keiko",
+        "Okubo Hitomi",
+        "Miyake Yoshihiro",
+        "Nagata Chisato",
+        "Furukawa Shinya"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Coffee",
+        "Caffeine",
+        "Japan",
+        "Case-Control Studies",
+        "Colitis, Ulcerative",
+        "Risk Factors",
+        "Tea"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38073066/"
+    },
+    {
+      "pmid": "37933373",
+      "title": "A Cost-Based Analysis of Anti-aging Products Across Four Major United States Retailers.",
+      "abstract": "Background In the field of aesthetic dermatology, there is currently very little data on affordability and cost analysis regarding cosmeceuticals as more demand from patients showing interest in cosmeceutical products to reduce and prevent aging continues to grow. Photoaging, a form of extrinsic aging from sun exposure, can be ameliorated by applying sunscreen and retinol products. Topical ascorbic acid and niacinamide have been shown to target the oxidative stress process that contributes to photoaging. These four products have been identified as the cosmeceutical ingredients with the most evidence-based data on photoaging prevention and treatment. Objective Given the demand for effective skin care, the paucity of data on cost differentiation, and the availability of cosmeceutical products, we analyzed the unit cost of four anti-aging products from major online and physical retailers in the United States. Such a cost comparison may facilitate more economically appropriate recommendations on skin care to consumers. Methods and materials We analyzed sunscreen, topical vitamin C (ascorbic acid), topical vitamin B3 (niacinamide), and topical vitamin A (retinol) products sold by four major United States retailers: Walmart, Ulta, Walgreens, and Amazon. The average cost in dollars per ounce (dollar/oz) was calculated for each product category at each retailer. Statistical analyses were done to determine statistical significance for each product category between retailers as well as between each category of product. Results Between the four retailers, Walmart offered the lowest cost per ounce for every product. In contrast, Amazon offered the highest cost per ounce for every product except for sunscreen. We also found that sunscreen products are less expensive per ounce as compared to retinol, ascorbic acid, and niacinamide products. Conclusion Dermatologists should be knowledgeable of product costs when providing patients with anti-aging product recommendations. Our study provides data on the financial cost by retail location of evidence-based anti-aging cosmeceuticals to better guide physicians in patient consulting and economical resource sharing.",
+      "year": "2023",
+      "journal": "Cureus",
+      "authors": [
+        "Andrade Luis F",
+        "Hernandez Loren E",
+        "Mashoudy Kayla D",
+        "Lalama Maria J",
+        "Saaraswat Manya"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37933373/"
+    },
+    {
+      "pmid": "37915337",
+      "title": "Antioxidant Skincare Treatment for Hyperpigmented and Photodamaged Skin: Multi-Center, Open-Label, Cross-Seasonal Case Study.",
+      "abstract": "The objective of this study is three-fold. Firstly, to evaluate an enhanced vitamin C serum (eVCS) and its' combination with a retinol-bakuchiol serum (RBS) on pigmentation ",
+      "year": "2023",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "Hooper Deirdre",
+        "Tedaldi Ruth",
+        "Iglesia Sofia",
+        "Young Morgann B",
+        "Kononov Tatiana"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37915337/"
+    },
+    {
+      "pmid": "36009299",
+      "title": "Vitamin C Deficiency in Blood Samples of COVID-19 Patients.",
+      "abstract": "Coronavirus disease 2019 (COVID-19) is the most notable pandemic of the modern era. A relationship between ascorbate (vitamin C) and COVID-19 severity is well known, whereas the role of other vitamins is less understood. The present study compared the blood levels of four vitamins in a cohort of COVID-19 patients with different severities and uninfected individuals. Serum concentrations of ascorbate, calcidiol, retinol, and α-tocopherol were measured in a cohort of 74 COVID-19 patients and 8 uninfected volunteers. The blood levels were statistically compared and additional co-morbidity factors were considered. COVID-19 patients had significantly lower plasma ascorbate levels than the controls (p-value < 0.001), and further stratification revealed that the controls had higher levels than fatal, critical, and severe COVID-19 cases (p-values < 0.001). However, no such trend was observed for calcidiol, retinol, or α-tocopherol (p-value ≥ 0.093). Survival analysis showed that plasma ascorbate below 11.4 µM was associated with a lengthy hospitalization and a high risk of death. The results indicated that COVID-19 cases had depleted blood ascorbate associated with poor medical conditions, confirming the role of this vitamin in the outcome of COVID-19 infection.",
+      "year": "2022",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Sinnberg Tobias",
+        "Lichtensteiger Christa",
+        "Hill-Mündel Katharina",
+        "Leischner Christian",
+        "Niessner Heike"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36009299/"
+    },
+    {
+      "pmid": "34737597",
+      "title": "Dietary Habits in Japanese Patients with Alopecia Areata.",
+      "abstract": "Alopecia areata (AA) is characterized by non-scarring, patchy hair loss caused by autoimmune reactions to anagen hair follicles. The pathogenesis of AA may be affected by the diet. However, the dietary habits of patients with AA have not been precisely examined. Therefore, the aim of this study was to investigate the dietary habits of patients with AA in comparison to those of healthy controls.",
+      "year": "2021",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Hagino Teppei",
+        "Okazaki Shizuka",
+        "Serizawa Naotaka",
+        "Suzuki Kaori",
+        "Kaga Mio"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34737597/"
+    },
+    {
+      "pmid": "34265581",
+      "title": "Dietary intake of vegetables, fruit, and antioxidants and risk of ulcerative colitis: A case-control study in Japan.",
+      "abstract": "Oxidative stress is considered one of the etiologic factors involved in ulcerative colitis (UC), yet there is limited epidemiologic information regarding the relationship between antioxidant intake and the risk of UC. The aim of the present case-control study in Japan was to examine the association between intake of green and yellow vegetables, other vegetables, fruit, vitamin C, vitamin E, retinol, alpha-carotene, beta-carotene, and cryptoxanthin and UC risk.",
+      "year": "2021",
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "authors": [
+        "Miyake Yoshihiro",
+        "Tanaka Keiko",
+        "Nagata Chisato",
+        "Furukawa Shinya",
+        "Andoh Akira"
+      ],
+      "mesh_terms": [
+        "Antioxidants",
+        "Case-Control Studies",
+        "Colitis, Ulcerative",
+        "Diet",
+        "Eating",
+        "Fruit",
+        "Humans",
+        "Japan",
+        "Risk Factors",
+        "Vegetables"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34265581/"
+    }
+  ],
+  "crawled_at": "2026-05-25T22:21:44.486140"
+}

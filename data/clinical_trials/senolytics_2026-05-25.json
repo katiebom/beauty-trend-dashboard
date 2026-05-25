@@ -1,0 +1,674 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 26,
+  "trials": [
+    {
+      "nct_id": "NCT05237973",
+      "title": "Investigational Use of Neuromuscular Ultrasound",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Muscular Dystrophy",
+        "Peripheral Neuropathy",
+        "Motor Neuron Disorder",
+        "Normal Physiology"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "primary_completion": "2026-08-03",
+      "url": "https://clinicaltrials.gov/study/NCT05237973"
+    },
+    {
+      "nct_id": "NCT06996327",
+      "title": "The Potential Role of Compounds Derived From Ultra-processed Foods in the Pathogenesis of Atopic Dermatitis in Pediatric Age",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Evaluation of dietary consumption of UPFs"
+        }
+      ],
+      "sponsor": "Federico II University",
+      "primary_completion": "2025-01-10",
+      "url": "https://clinicaltrials.gov/study/NCT06996327"
+    },
+    {
+      "nct_id": "NCT05170347",
+      "title": "oGVHD After Bone Marrow Transplantation: a Territory-wide Cohort",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Graft Vs Host Disease",
+        "Haematological Malignancy",
+        "Cancer"
+      ],
+      "interventions": [],
+      "sponsor": "The University of Hong Kong",
+      "primary_completion": "2028-10",
+      "url": "https://clinicaltrials.gov/study/NCT05170347"
+    },
+    {
+      "nct_id": "NCT07597915",
+      "title": "Our Transitions: Improving the Path to Menopause With Personal Digital Health Technologies",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Perimenopause",
+        "Menopause"
+      ],
+      "interventions": [],
+      "sponsor": "4YouandMe",
+      "primary_completion": "2027-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT07597915"
+    },
+    {
+      "nct_id": "NCT06842784",
+      "title": "Impact of Extreme Heat on Myocardial Blood Flow and Flow Reserve in Young and Older Adults",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Aging",
+        "Heat Stress",
+        "Hyperthermia",
+        "Heat Strain"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Ambient heat stress"
+        }
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "primary_completion": "2026-02-01",
+      "url": "https://clinicaltrials.gov/study/NCT06842784"
+    },
+    {
+      "nct_id": "NCT05289258",
+      "title": "Unified Barlow Protocol (UP) in Cancer Survivors for Cognitive Impairments",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cancer, Breast"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Neuropsychological treatment"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Unified Protocol for the Transdiagnostic Treatment of Emotional Disorders (PU)."
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Waitlist group"
+        }
+      ],
+      "sponsor": "Universidad de Córdoba",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT05289258"
+    },
+    {
+      "nct_id": "NCT06453408",
+      "title": "Validation of a Placebo Dry Needling Protocol in Patients With Non-specific Neck Pain",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Neck Pain"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Punción seca con aguja retráctil"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Punción seca con aguja normativa."
+        }
+      ],
+      "sponsor": "University of Alcala",
+      "primary_completion": "2024-07",
+      "url": "https://clinicaltrials.gov/study/NCT06453408"
+    },
+    {
+      "nct_id": "NCT01517425",
+      "title": "Evaluating Cardiovascular Phenotypes Using Induced Pluripotent Stem Cells",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Coronary Artery Disease"
+      ],
+      "interventions": [],
+      "sponsor": "Scripps Translational Science Institute",
+      "primary_completion": "2025-07",
+      "url": "https://clinicaltrials.gov/study/NCT01517425"
+    },
+    {
+      "nct_id": "NCT07529925",
+      "title": "A Clinical Trail of Adalimumab in Treating Chinese Children With Severe Plaque Psoriasis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Severe Plaque Psoriasis in Chinese Children"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Adalimumab Solution for Injection"
+        }
+      ],
+      "sponsor": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "primary_completion": "2028-04",
+      "url": "https://clinicaltrials.gov/study/NCT07529925"
+    },
+    {
+      "nct_id": "NCT07035184",
+      "title": "A Comparative Study Between Age-Based and Weight-Based Bupivacaine Dosing for Pediatric Spinal Anesthesia in Children Undergoing Elective Infra-Umbilical Surgeries",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pediatrics",
+        "Spinal Aneshtesia",
+        "Infraumbilical Surgeries"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Spinal Anesthesia with Bupivacaine"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Spinal Anesthesia with Bupivacaine"
+        }
+      ],
+      "sponsor": "Cairo University",
+      "primary_completion": "2025-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07035184"
+    },
+    {
+      "nct_id": "NCT06696144",
+      "title": "Testing Carriage of Resistant Bacteria Using Swabs on Surfaces and Staff in a Complex Nursing Unit for Patients with Resistant Bacteria",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Multi Drug Resistant Department",
+        "Multi Drug Resistant Bacteria"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Skin swabs for multi drug resistant bacteria"
+        }
+      ],
+      "sponsor": "Shmuel Harofeh Hospital, Geriatric Medical Center",
+      "primary_completion": "2025-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT06696144"
+    },
+    {
+      "nct_id": "NCT02998710",
+      "title": "Natural History Study of Homocystinuria Caused by Cystathionine Beta-Synthase Deficiency (ACAPPELLA)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Homocystinuria Due to CBS Deficiency"
+      ],
+      "interventions": [],
+      "sponsor": "Travere Therapeutics, Inc.",
+      "primary_completion": "2026-04",
+      "url": "https://clinicaltrials.gov/study/NCT02998710"
+    },
+    {
+      "nct_id": "NCT06714513",
+      "title": "ID93+GLA-SE Vaccine Against Tuberculosis in Older Adults Aged 55-74",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Tuberculosis, Pulmonary"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "QTP101"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Quratis Inc.",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT06714513"
+    },
+    {
+      "nct_id": "NCT07270003",
+      "title": "A Prospective, Single-arm, Open-label Clinical Trial to Evaluate the Efficacy and Safety of Ivarmacitinib in the Treatment of Palmoplantar Pustulosis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Palmoplantar Pustulosis (PPP)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ivarmacitinib"
+        }
+      ],
+      "sponsor": "Xijing Hospital",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07270003"
+    },
+    {
+      "nct_id": "NCT07281456",
+      "title": "Safety of Tofacitinib, an Oral Janus Kinase Inhibitor, in Primary Sjogren Disease",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sjogren's Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tofacitinib"
+        }
+      ],
+      "sponsor": "National Institute of Dental and Craniofacial Research (NIDCR)",
+      "primary_completion": "2030-12-15",
+      "url": "https://clinicaltrials.gov/study/NCT07281456"
+    },
+    {
+      "nct_id": "NCT07049822",
+      "title": "Optimising Mammography Screening Accuracy With Blood-based Biomarkers",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [],
+      "sponsor": "Vejle Hospital",
+      "primary_completion": "2028-11",
+      "url": "https://clinicaltrials.gov/study/NCT07049822"
+    },
+    {
+      "nct_id": "NCT05349227",
+      "title": "Comprehensive Outcomes for After Cancer Health",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Ovarian Cancer",
+        "Breast Cancer",
+        "Lung Cancer",
+        "Gastric Cancer",
+        "Survivorship",
+        "Endometrial Cancer",
+        "Head and Neck Cancers",
+        "Prostate Cancers",
+        "Geriatric Oncology",
+        "Metastatic Breast Cancer",
+        "Metastatic Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Digital Health Coaching Program"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Fitbit"
+        }
+      ],
+      "sponsor": "Pack Health",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT05349227"
+    },
+    {
+      "nct_id": "NCT07587086",
+      "title": "Fluorocholine PET/MR in Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Neoplasms",
+        "Female"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "PET-MRI"
+        }
+      ],
+      "sponsor": "Taipei Veterans General Hospital, Taiwan",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07587086"
+    },
+    {
+      "nct_id": "NCT06311682",
+      "title": "A Trial to Evaluate the Efficacy and Safety of Tralokinumab in Combination With Topical Corticosteroids in Children and Infants With Moderate-to-severe Atopic Dermatitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tralokinumab + TCS"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo + TCS"
+        }
+      ],
+      "sponsor": "LEO Pharma",
+      "primary_completion": "2026-10-20",
+      "url": "https://clinicaltrials.gov/study/NCT06311682"
+    },
+    {
+      "nct_id": "NCT07599098",
+      "title": "Effects of a Pilates Studio Program on Quality of Life and Functional Capacity of Women Undergoing Breast Cancer Treatment",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breasts - Female",
+        "Breast Cancer",
+        "Breast Cancer in Women"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Pilates Studio Program Group"
+        }
+      ],
+      "sponsor": "Federal University of Maranhao",
+      "primary_completion": "2026-09-15",
+      "url": "https://clinicaltrials.gov/study/NCT07599098"
+    },
+    {
+      "nct_id": "NCT06407934",
+      "title": "A Study to Evaluate the Treatment Response and Safety of Two Dose Regimens of Subcutaneous Amlitelimab Compared With Treatment Withdrawal in Participants Aged 12 Years and Older With Moderate-to-severe Atopic Dermatitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dermatitis Atopic"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Amlitelimab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Sanofi",
+      "primary_completion": "2026-06-29",
+      "url": "https://clinicaltrials.gov/study/NCT06407934"
+    },
+    {
+      "nct_id": "NCT07064564",
+      "title": "iSTEP-N 101b: Pharmacokinetics and Safety Study of Low- and High-Dose Naltrexone Implants vs Monthly Vivitrol in Healthy Volunteers",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Opioid Use Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Naltrexone implant, 14.4 grams"
+        },
+        {
+          "type": "DRUG",
+          "name": "Naltrexone implant, 9.6 grams"
+        },
+        {
+          "type": "DRUG",
+          "name": "Extended-release naltrexone injection, 380 mg"
+        }
+      ],
+      "sponsor": "Akyso Therapeutics, LLC",
+      "primary_completion": "2027-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT07064564"
+    },
+    {
+      "nct_id": "NCT05399667",
+      "title": "Assessment of Body Composition in Premature Children Submitted to an Early Stimulation Program",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Preterm Birth",
+        "Very Low Birth Weight Infant",
+        "Early Intervention",
+        "Parent-Child Relations",
+        "Nutrition, Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Early stimulation"
+        },
+        {
+          "type": "OTHER",
+          "name": "Conventional care"
+        }
+      ],
+      "sponsor": "Hospital de Clinicas de Porto Alegre",
+      "primary_completion": "2024-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT05399667"
+    },
+    {
+      "nct_id": "NCT06677944",
+      "title": "Preoperative Partial Breast Irradiation in Early-Stage Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Ductal Carcinoma in Situ",
+        "Invasive Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "Preoperative PBI"
+        }
+      ],
+      "sponsor": "Yonsei University",
+      "primary_completion": "2025-10-12",
+      "url": "https://clinicaltrials.gov/study/NCT06677944"
+    },
+    {
+      "nct_id": "NCT06138509",
+      "title": "Peripheral Serotonin and Albinism",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Oculocutaneous Albinism"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Dosage of serotonin and metabolites"
+        },
+        {
+          "type": "OTHER",
+          "name": "Blood parameters"
+        }
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "primary_completion": "2026-02",
+      "url": "https://clinicaltrials.gov/study/NCT06138509"
+    },
+    {
+      "nct_id": "NCT04764331",
+      "title": "A Pilot Study of Revian Red All LED Cap as a Novel Treatment for Central Centrifugal Cicatricial Alopecia",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Central Centrifugal Cicatricial Alopecia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Revian Red All LED cap"
+        }
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT04764331"
+    },
+    {
+      "nct_id": "NCT06823089",
+      "title": "Early Feasibility Study of Cartilage Defect Repair",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Osteoarthritis, Hip",
+        "Femoroacetabular Impingement",
+        "Osteonecrosis",
+        "Legg-Calvé-Perthes Disease",
+        "Osteochondral Lesion",
+        "Hip Dysplasia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "ReNew Hip Implant"
+        }
+      ],
+      "sponsor": "Cytex Therapeutics, Inc.",
+      "primary_completion": "2031-10",
+      "url": "https://clinicaltrials.gov/study/NCT06823089"
+    },
+    {
+      "nct_id": "NCT07457268",
+      "title": "Effect of Transcutaneous Auricular Trigeminal Nerve Stimulation on Migraine",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Migraine"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Transcutaneous Auricular Trigeminal Nerve Stimulation"
+        },
+        {
+          "type": "OTHER",
+          "name": "Sham (No Treatment)"
+        }
+      ],
+      "sponsor": "Ordu University",
+      "primary_completion": "2026-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT07457268"
+    },
+    {
+      "nct_id": "NCT07358650",
+      "title": "Clinical Study Evaluating the Safety and Performance of the MIST Device for Intraocular Pressure Reduction in Patients With Primary Open-Angle Glaucoma",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Primary Open Angle Glaucoma"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Hexiris Microinvasive Scleral Trephine (MIST)"
+        }
+      ],
+      "sponsor": "Hexiris Inc",
+      "primary_completion": "2027-02-15",
+      "url": "https://clinicaltrials.gov/study/NCT07358650"
+    },
+    {
+      "nct_id": "NCT07243054",
+      "title": "Impact of Prepartum Intravenous Fluid Intake on Newborn Weight Loss in the First Days of Life",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Vascular Filling",
+        "Newborn",
+        "Weight Loss",
+        "Jaundice",
+        "Respiratory Distress"
+      ],
+      "interventions": [],
+      "sponsor": "Centre Hospitalier Universitaire, Amiens",
+      "primary_completion": "2025-11",
+      "url": "https://clinicaltrials.gov/study/NCT07243054"
+    }
+  ],
+  "fetched_at": "2026-05-25T22:21:25.994073"
+}

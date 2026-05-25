@@ -1,0 +1,319 @@
+{
+  "ingredient_a": "azelaic acid",
+  "ingredient_b": "rosacea",
+  "query": "(\"azelaic acid\"[Title/Abstract] AND \"rosacea\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42079476",
+      "title": "Morbihan Disease May Induce Nonspecific Inflammatory of Extra-Facial Region: A Case Report and Literature Review.",
+      "abstract": "This case describes a 29-year-old man with Morbihan disease, characterized by a 5-year history of recurrent facial erythema, papules, and pustules, followed by persistent right face edema. Initially misdiagnosed as lupus erythematosus, he received multiple treatments with only transient relief. Clinical manifestations combined with pathological findings confirmed a diagnosis of Morbihan disease associated with rosacea. Notably, the patient developed erythema and papules on the inner thighs, along with small papules on the trunk and upper limbs for 3 months. A biopsy revealed nonspecific inflammation. Since the morphology of these lesions differed from any known skin disease and no other cause could be identified, we believe this may be a manifestation of the disease. Extra-facial manifestation not previously reported. Various therapies were attempted: doxycycline and azelaic acid improved erythema; baricitinib was ineffective; while omalizumab and intense pulsed light (IPL) achieved partial improvement in erythema and edema. Long-term isotretinoin therapy provided sustained remission without relapse during tapering, confirming its efficacy and safety. This case expands the clinical spectrum of Morbihan disease by documenting extra-facial involvement and reported isotretinoin as an effective long-term therapy, with omalizumab and IPL as promising adjuncts. Furthermore, the literature review (2004-2025) summarizes the clinical features, pathology, and treatment responses of reported cases, showing a male-to-female ratio of 2.81:1. Lymphatic or vascular dilation was significantly correlated with a favorable outcome. Conversely, dermal edema and granuloma were inversely associated with treatment efficacy, indicating poorer prognosis. However, based on uncontrolled data, these findings are strictly hypothesis-generating and do not establish a definitive treatment hierarchy.",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Deng FeiFang",
+        "Wang Peng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42079476/"
+    },
+    {
+      "pmid": "42070484",
+      "title": "Topical PEGylated azelaic acid nanohybrids: A lipid-polymer hydrogel system for sustained dermal delivery in rosacea management.",
+      "abstract": "Rosacea is a chronic inflammatory disorder of the central face characterized by persistent erythema, flushing, and inflammatory papules. Azelaic acid (Az) is a first-line topical therapy for papulopustular rosacea; however, its clinical efficacy is limited by poor aqueous solubility and restricted penetration across the stratum corneum. To overcome these limitations, PEGylated lipid-polymer hybrid nanoparticles (PALPHNs) encapsulating Az were developed and optimized using a Central Composite Design. The optimized PALPHNs exhibited a mean particle size of 179.6 ± 7.6 nm, narrow polydispersity (0.20 ± 0.03), stable zeta potential (-32.75 ± 1.4 mV), and high entrapment efficiency (92.13 ± 1.4%). Incorporation into a Carbopol hydrogel yielded a stable, skin-compatible formulation with physiological pH (5.84 ± 0.12). In vitro release studies demonstrated biphasic and sustained drug release, achieving 87.74 ± 0.002% cumulative release at 24 h compared with 72.21 ± 0.001% from conventional Az gel. Ex vivo permeation studies showed significantly enhanced Az penetration from the PALPHN gel (448.85 µg/cm²) vs the conventional gel (183.68 µg/cm²), with higher steady-state flux (18.21 vs 7.25 µg/cm²/h). Confocal laser scanning microscopy confirmed deeper epidermal penetration (∼44 µm). Safety assessment using HET-CAM and skin irritation studies showed good tolerability (PII = 0.875). In vivo evaluation using a croton oil-induced ear edema model demonstrated greater reduction in ear thickness (0.98 mm) compared with conventional Az gel (1.08 mm). Overall, the PALPHN hydrogel represents a promising nanocarrier system for topical rosacea therapy.",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Salmani Anchal",
+        "Rehman Urushi",
+        "Alqahtani Taha",
+        "Alharbi Hanan M",
+        "Gupta Garima"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42070484/"
+    },
+    {
+      "pmid": "42051591",
+      "title": "Pustular Rosacea in an 8-Year-Old Patient: A Rare Presentation of Pediatric Rosacea.",
+      "abstract": "Pustular rosacea is a rare chronic inflammatory disease whose prevalence increases with age. We report a case of an 8-year-old patient who presented with a 3-year history of recurrent papulopustular facial eruptions associated with severe burning sensation, primarily affecting the cheeks, nose, and chin, exacerbated by hot weather and swimming. His condition was misdiagnosed as psoriasis, eczema, food allergy, or acne with limited benefit from treatment other than temporary relief from glucocorticoids. Skin biopsy showed hyperkeratosis and vascular ectasia with neutrophilic microabscesses consistent with papulopustular rosacea. He was successfully managed with lifestyle modifications and medications including azelaic acid, metronidazole, and ambroxol hydrochloride resulting in significant improvement. Diagnosing rosacea can be challenging due to its overlap with other conditions. Early diagnosis and treatment are crucial to prevent complications like scarring, persistent erythema, and psychological distress while ensuring a better quality of life and sustained remission.",
+      "year": "2026",
+      "journal": "Case reports in dermatological medicine",
+      "authors": [
+        "Sharaf Razan",
+        "Assaf Tasneem",
+        "Ghanem Usra I",
+        "Alhameed Hadeel Abed",
+        "Adwan Rabee"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42051591/"
+    },
+    {
+      "pmid": "41983181",
+      "title": "Azelaic acid-integrated therapeutic deep eutectic systems: overcoming solubility and permeability barriers for enhanced transdermal drug delivery.",
+      "abstract": "Azelaic acid (AzA) is a saturated dicarboxylic acid used to treat skin disorders like acne, rosacea, and melasma. However, its transdermal application is limited by its poor water solubility and permeability. In this study, therapeutic deep eutectic systems (THEDES) are synthesized by combining azelaic acid (AzA) and D-panthenol (DP) in various molar ratios (3 : 1, 2 : 1, 1 : 1, 1 : 2, 1 : 3). The optimal molar ratio of the THEDES (AzA : DP = 1 : 2) is analyzed with molecular simulation calculations, polarized optical microscopy (POM), Fourier Infrared Spectroscopy (FTIR), Nuclear Magnetic Resonance (1H NMR), Thermogravimetric Analysis (TGA), and water solubility and stability tests. In addition, the THEDES system is evaluated for toxicity, antibacterial and anti-inflammatory efficacy, and transdermal properties. The results show that it outperforms AzA raw material by demonstrating good water solubility and permeability, lower transdermal toxicity and skin irritation, and improved bioactivity compared to AzA raw material. Furthermore, its antimicrobial, anti-inflammatory, and transdermal properties are also superior to those of the AzA raw material. Using molecular docking analysis and molecular dynamics simulation, its mechanisms of action in the treatment of acne and skin permeation are investigated. In conclusion, AzA-DP THEDES effectively resolves AzA's solubility and permeability issues while enhancing its efficacy in Transdermal Drug Delivery Systems (TDDS).",
+      "year": "2026",
+      "journal": "RSC advances",
+      "authors": [
+        "Du Liyong",
+        "Wang Shixian",
+        "Chen Haihui",
+        "Liu Chunhui",
+        "Yang Shuyan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41983181/"
+    },
+    {
+      "pmid": "41586451",
+      "title": "A ROS-Responsive Hydrogel Microneedle System Co-Delivering Tofacitinib and Azelaic Acid for Enhanced Targeted Therapy of Rosacea.",
+      "abstract": "Rosacea is a chronic inflammatory skin condition primarily affecting the face, characterized by symptoms such as persistent redness, visible blood vessels, papules, and pustules. Current treatments, including topical agents and systemic antibiotics, are often limited by poor skin penetration, local irritation, or the risk of systemic adverse effects and antibiotic resistance. This study designed, fabricated, and evaluated a novel ROS-responsive hydrogel microneedle (MN) system for the co-delivery of tofacitinib (a JAK inhibitor) and azelaic acid (A ZA) to treat rosacea. The hypothesis was that this Tofa/AZA@HPA-MN platform would enable triggered drug release in the high-ROS environment of inflamed skin, enhancing therapeutic efficacy and safety compared to conventional topical delivery. Topical tofacitinib and AZA were found to ameliorate LL37-induced murine rosacea-like inflammation, partly via JAK/STAT inhibition. A ROS-responsive hydrogel (HPA) was synthesized and fabricated into robust MNs, demonstrating effective skin penetration and retention. In vitro, these MNs displayed accelerated drug release under oxidative conditions and protected keratinocytes from H",
+      "year": "2026",
+      "journal": "Journal of biomedical materials research. Part A",
+      "authors": [
+        "Yu Yong",
+        "Ding Xiaoxia",
+        "Fan Yibin",
+        "Huang Youming",
+        "Xu Danfeng"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Hydrogels",
+        "Dicarboxylic Acids",
+        "Rosacea",
+        "Pyrimidines",
+        "Reactive Oxygen Species",
+        "Mice",
+        "Piperidines",
+        "Humans",
+        "Needles"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41586451/"
+    },
+    {
+      "pmid": "41042734",
+      "title": "Plant Extracts in Rosacea Management: A Narrative Review.",
+      "abstract": "Rosacea is a prevalent, chronic inflammatory skin disorder increasingly affecting middle-aged individuals worldwide. Characterized by facial erythema, flushing, papules, pustules, and telangiectasia, rosacea arises from complex, dysregulated immune responses with chronic inflammation and vascular instability. Given its multifactorial nature, treatment approaches focus on managing symptoms and often require a multidisciplinary strategy that integrates targeted skincare, topical and systemic therapies, and physical modalities to address the condition's diverse clinical manifestations, subtypes, and severity effectively. Validated conventional treatments, like metronidazole and azelaic acid, offer symptom relief to varying extents; however, many patients find these therapies insufficient, leading to a growing interest in alternative therapies.",
+      "year": "2026",
+      "journal": "Dermatology (Basel, Switzerland)",
+      "authors": [
+        "Leti Mathieu",
+        "Garidou Lucile",
+        "Cuisiat Stéphane V",
+        "Stennevin Aline",
+        "Doat Gautier"
+      ],
+      "mesh_terms": [
+        "Rosacea",
+        "Humans",
+        "Plant Extracts",
+        "Phytotherapy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41042734/"
+    },
+    {
+      "pmid": "41011144",
+      "title": "A Comprehensive Review of Azelaic Acid Pharmacological Properties, Clinical Applications, and Innovative Topical Formulations.",
+      "abstract": "Azelaic acid (AzA), a saturated dicarboxylic acid, is indicated for the treatment of acne vulgaris, rosacea, melasma, and post-inflammatory hyperpigmentation. Its antimicrobial, anti-inflammatory, and antimelanogenic properties support its use; however, its poor aqueous solubility and limited skin permeability constrain its optimal topical delivery. This review summarizes clinical evidence and advances in formulations-including conventional vehicles, polymeric/lipid nanocarriers, and deep eutectic solvent (DES) systems-to promote more effective and well-tolerated use. Across indications, 15-20% azelaic acid (AzA) formulations produced clinically meaningful improvements with mild, transient local irritation. For acne vulgaris, reductions in inflammatory and noninflammatory lesions were comparable to those of topical retinoids/adapalene, and tolerability was superior in some studies. For rosacea, the 15% gel formulation was comparable to metronidazole in reducing papules, pustules, and erythema while maintaining negligible systemic exposure. In melasma and other dyschromias, 20% cream demonstrated efficacy similar to hydroquinone, exhibiting a favorable safety profile. Advanced delivery systems, including liposomes, niosomes/ethosomes, nanostructured lipid carriers, microemulsions, nanosponges, and DES platforms, increased AzA solubilization, cutaneous deposition, and stability. This enabled dose-sparing strategies and improved adherence. Data on AzA cocrystals and ionic salts suggest additional control over release and irritation. AzA remains a versatile and well-tolerated dermatologic agent whose performance is strongly vehicle-dependent. Rational selection and engineering of carriers, particularly DES-integrated polymeric and lipid systems, can mitigate solubility and permeability limitations, enhance skin targeting, and reduce irritation in the treatment of acne and rosacea.",
+      "year": "2025",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Petrovici Andreea-Georgiana",
+        "Spennato Mariachiara",
+        "Bîtcan Ioan",
+        "Péter Francisc",
+        "Cotarcă Livius"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41011144/"
+    },
+    {
+      "pmid": "40847649",
+      "title": "Quantitative Evaluation of Successful Combination Therapy With Dye Laser and Long-Pulse Alexandrite Laser for Papulopustular Rosacea.",
+      "abstract": "Rosacea is a chronic skin disease characterized by facial flushing, dilated blood vessels, rashes, and swelling and has a significant impact not only on the patient's appearance, but also on their quality of life. Dye laser has the effect of contracting dilated blood vessels by selectively being absorbed in oxidized hemoglobin, and as a result, it improves flushing and dilated blood vessels. Dye laser is a useful option for erythematotelangiectatic rosacea (ETR). However, its effectiveness for papulopustular rosacea (PPR) is limited, and it is not recommended in several national guidelines. We examined the treatment effects of 28 cases diagnosed with rosacea and treated with dye laser therapy at Nagoya City University Hospital from April 2019 to March 2023. The cohort comprised 6 males, 22 females, 13 cases of ETR, 12 cases of PPR, and 3 cases of phymatous rosacea (PhyR). The evaluation was based on clinical photographs, and the redness and blueness of the skin were deconvoluted and quantified using ImageJ/Fiji software. In the case of ETR, there was a significant improvement between before and after treatment (p = 0.039). In the case of PPR, there was no significant improvement in the five cases treated with dye laser alone (p = 0.083). Still, there was significant improvement in the seven cases treated with a combination of long-pulse alexandrite (LPA) laser (p = 0.0024). A multiple logistic regression analysis was performed on the combined therapies other than LPA laser, including topical corticosteroids, tacrolimus, metronidazole, sulfur and camphor, azelaic acid, antibiotics, or vitamin B. No treatment was found to contribute to significant improvement. LPA laser is expected to reduce inflammation around hair follicles seen in PPR effectively, and its combination with dye laser is a promising treatment option for PPR. Furthermore, this quantitative method based on clinical photographs is useful for the objective evaluation of rosacea treatment.",
+      "year": "2025",
+      "journal": "The Journal of dermatology",
+      "authors": [
+        "Nakamura Reiko",
+        "Nakamura Motoki",
+        "Okuda Kayoko",
+        "Takagi Sachiyo",
+        "Morita Akimichi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rosacea",
+        "Female",
+        "Male",
+        "Lasers, Dye",
+        "Middle Aged",
+        "Lasers, Solid-State",
+        "Treatment Outcome",
+        "Adult",
+        "Combined Modality Therapy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40847649/"
+    },
+    {
+      "pmid": "40836652",
+      "title": "Treatment management for rosacea: current pharmacological and non-pharmacological options.",
+      "abstract": "Rosacea is a chronic skin condition classified into four subtypes: erythematotelangiectatic, papulopustular, phymatous, and ocular involvement. The physical symptoms and recurrent nature can impact patient quality of life. Effective treatment requires a phenotype-directed strategy that addresses both clinical features and patient concerns.",
+      "year": "2025",
+      "journal": "Expert review of clinical pharmacology",
+      "authors": [
+        "Volk Kyle",
+        "Ulfers Audrey",
+        "Yi Robin C",
+        "Feldman Steven",
+        "Taylor Sarah L"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rosacea",
+        "Quality of Life",
+        "Dermatologic Agents",
+        "Practice Guidelines as Topic",
+        "Severity of Illness Index",
+        "Administration, Oral",
+        "Life Style",
+        "Administration, Topical",
+        "Administration, Cutaneous"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40836652/"
+    },
+    {
+      "pmid": "40304282",
+      "title": "Comparison of Topical 20% Azelaic Acid and 7.5% Dapsone in the Treatment of Mild-To-Moderate Papulopustular Rosacea.",
+      "abstract": "Rosacea is a chronic inflammatory skin disease, commonly affecting the central part of the face, characterized by erythema, flushing, telangiectasias, papules, and pustules. It may also involve sensations of burning, tingling, and occasionally fibrous changes.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Hasanbeyzade Sabir"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rosacea",
+        "Dapsone",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Middle Aged",
+        "Dicarboxylic Acids",
+        "Adult",
+        "Dermatologic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40304282/"
+    },
+    {
+      "pmid": "40246142",
+      "title": "Efficacy of Widely Used Topical Drugs for Rosacea: A Systematic Review and Meta-Analysis.",
+      "abstract": "Topical interventions for rosacea are often used to relieve local symptoms. However, currently, there are few articles to systematically analyze the efficacy profile of topical drugs for rosacea. This study aimed to investigate the efficacy profile of widely used topical drugs. To acquire appropriate information from related literature, we looked into 4 databases. Efficacy was appraised with the Investigator Global Assessment, Clinician's Erythema Assessment, Patient's Self-Assessment and Subject Self-Assessment of Rosacea Facial Redness scales. Treatment-emergent adverse events and dermal tolerability were also recorded. According to 21 randomized controlled trials included, a total of 6 topical drugs including minocycline, ivermectin, azelaic acid, metronidazole, brimonidine and oxymetazoline were reported. These drugs are well-tolerated and safe. Ivermectin is more effective than azelaic acid and metronidazole. Azelaic acid has a better efficacy profile than metronidazole according to included studies. Minocycline turned out to be effective improving the symptoms of rosacea. Brimonidine and oxymetazoline both have significant effects on reducing facial redness.",
+      "year": "2025",
+      "journal": "Actas dermo-sifiliograficas",
+      "authors": [
+        "Gao X",
+        "Xiang W"
+      ],
+      "mesh_terms": [
+        "Rosacea",
+        "Humans",
+        "Dermatologic Agents",
+        "Randomized Controlled Trials as Topic",
+        "Dicarboxylic Acids",
+        "Metronidazole",
+        "Brimonidine Tartrate",
+        "Treatment Outcome",
+        "Oxymetazoline",
+        "Ivermectin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40246142/"
+    },
+    {
+      "pmid": "40164066",
+      "title": "Compatibility of Active Pharmaceutical Ingredients Combinations Compounded in Cleoderm™, a Cream Base for Personalized Dermatological Treatments.",
+      "abstract": "The increasing prevalence of skin conditions like acne, rosacea, and hyperpigmentation highlights the need for personalized dermatological treatments, with compounded formulations providing tailored solutions by combining multiple active pharmaceutical ingredients (APIs). This study evaluates the compatibility and stability of various formulations compounded in Cleoderm™, a cream base designed for acne-prone, affected, or sensitive skin. The tested formulations included: adapalene 0.1% or 0.3% and benzoyl peroxide 1.0% or 5.0%; hydroquinone 4.0%, hydrocortisone 1.0%, and tretinoin 0.0125%; azelaic acid 15.0% or 20.0% and niacinamide 4.0%; niacinamide 4.0% and tretinoin 0.025%; and clindamycin hydrochloride 3.0%. Each formulation underwent high-performance liquid chromatography (HPLC) and microbiological assessments over a 180-day period to determine stability and beyond-use dates (BUDs). Both formulations containing adapalene and benzoyl peroxide demonstrated excellent stability, with an assigned BUD of 180 days. Formulations of azelaic acid combined with niacinamide and niacinamide with tretinoin also showed sustained stability with BUDs of 180 days. In contrast, the formulation containing hydroquinone, hydrocortisone, and tretinoin had a BUD of 14 days. Clindamycin hydrochloride displayed a similar pattern, with stability maintained for 14 days. Microbiological evaluations confirmed the antimicrobial efficacy of all formulations, meeting United States Pharmacopeia (USP) requirements for antimicrobial effectiveness throughout their respective BUDs. The findings underscore the importance of evaluating the stability and compatibility of compounded formulations to ensure their safety and efficacy. This study supports the use of Cleoderm™ as a versatile and reliable base for personalized dermatological treatments, providing evidence-based BUDs to guide clinical practice.",
+      "year": "2025",
+      "journal": "International journal of pharmaceutical compounding",
+      "authors": [
+        "Marianni Bruna",
+        "Silva Carolina Costa Vicente",
+        "Polonini Hudson"
+      ],
+      "mesh_terms": [
+        "Dermatologic Agents",
+        "Drug Compounding",
+        "Skin Cream",
+        "Drug Stability",
+        "Drug Combinations",
+        "Benzoyl Peroxide",
+        "Tretinoin",
+        "Dicarboxylic Acids",
+        "Hydrocortisone",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40164066/"
+    },
+    {
+      "pmid": "39825187",
+      "title": "Periorificial dermatitis in infants and preschoolers - a narrative review.",
+      "abstract": "Periorifical dermatitis (POD) is a papular, chronic inflammatory skin disease commonly seen in women in their 2nd to 4th decade of life. The major differential diagnosis is persistent acne. In children, POD is less common than in adults. In infants and preschoolers POD is rare. We performed a narrative review for POD in children ≤6 years of age. Diagnosis is clinical. The disease presents with monomorphic erythematous papules that usually leave a 1-2 mm Grenz zone around the red lips unaffected. Perinasal skin, nostrils and eyelids can be involved, while extrafacial manifestations are rare. The granulomatous subtype of POD is more common in small children that in adults. The most important differential diagnoses in children include atopic and seborrheic dermatosis, pediatric rosacea, juvenile acne, and cutaneous sarcoidosis. While topical macrolides, azelaic acid, and calcineurin inhibitors are often used in mild cases of adult POD, oral tetracyclines are the treatment of choice in more advanced cases. In infants and preschoolers, tetracycline should be avoided since they can affect the calcification (hardening) of the bones and teeth and lead to permanent discoloration of teeth. There are no randomized controlled trials for POD in this age group available. Topical metronidazole or erythromycin and oral erythromycin are most used. New drugs like JAK inhibitors are on the horizon.",
+      "year": "2025",
+      "journal": "European journal of pediatrics",
+      "authors": [
+        "Chiriac Anca",
+        "Chiriac Anca E",
+        "Madke Bhushan",
+        "Fida Monika",
+        "Shinde Amit Bharat"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Infant",
+        "Child, Preschool",
+        "Diagnosis, Differential",
+        "Dermatitis, Perioral",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39825187/"
+    },
+    {
+      "pmid": "39464747",
+      "title": "Azelaic Acid: Mechanisms of Action and Clinical Applications.",
+      "abstract": "AZA is a non-phenolic, saturated dicarboxylic acid with nine carbon atoms, naturally produced by the yeast Malassezia. It has diverse physiological activities, including antibacterial, anti-keratinizing, antimelanogenic, antioxidant and anti-inflammatory effects. AZA is widely used in dermatology and is FDA-approved for treating papulopustular rosacea. It also shows significant efficacy in acne vulgaris and melasma. This review summarizes the mechanisms of action and clinical applications of AZA, aiming to provide theoretical support for its clinical and cosmetic use and to facilitate further research.",
+      "year": "2024",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Feng Xiaoyue",
+        "Shang Jianli",
+        "Gu Zhengping",
+        "Gong Junhua",
+        "Chen Yong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39464747/"
+    },
+    {
+      "pmid": "38905551",
+      "title": "Rosacea: Common Questions and Answers.",
+      "abstract": "Rosacea is a chronic inflammatory skin disease of the central face, affecting 5% of the population. The exact etiology is unknown. A diagnosis is made based on the updated 2017 National Rosacea Society Expert Committee guidelines, including fixed erythema, phymatous changes of skin thickening due to sebaceous gland hyperplasia and fibrosis, papules, pustules, telangiectasia, and flushing. Delays in an accurate diagnosis and treatment may occur in skin of color due to difficulty visualizing erythema and telangiectasia. The daily use of sunscreen, moisturizers, and mild skin cleansers and avoidance of triggers are essential aspects of maintenance treatment. Effective topical treatment options include alpha-adrenergic receptor agonists for flushing and ivermectin, metronidazole, and azelaic acid for papules and pustules. Systemic treatments include nonselective beta blockers for flushing, low-dose doxycycline, and isotretinoin for papules and pustules. Rosacea can significantly affect a patient's emotional health and quality of life. A referral for care is recommended for fixed phymatous changes and ocular rosacea. (Am Fam Physician. 2024;109(6):533-542.",
+      "year": "2024",
+      "journal": "American family physician",
+      "authors": [
+        "Frazier Winfred",
+        "Zemtsov Raquel K",
+        "Ge Yufei"
+      ],
+      "mesh_terms": [
+        "Rosacea",
+        "Humans",
+        "Dermatologic Agents",
+        "Quality of Life",
+        "Dicarboxylic Acids"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38905551/"
+    }
+  ],
+  "crawled_at": "2026-05-25T22:21:46.776322"
+}

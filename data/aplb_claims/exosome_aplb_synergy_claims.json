@@ -2,117 +2,98 @@
   "complex_id": "exosome_aplb_synergy",
   "trade_mark": "",
   "name_kr": "엑소좀 (Medical → Cosmetic 가장 빠른 흐름)",
-  "generated_at": "2026-05-18T22:25:28.723993",
+  "generated_at": "2026-05-25T22:25:49.006544",
   "claims": {
     "hero_claim": {
-      "headline_en": "Exosome Synergy: Unlock Youthful Radiance and Accelerated Recovery",
-      "headline_kr": "엑소좀 시너지: 젊음의 광채와 빠른 회복을 경험하세요",
+      "headline_en": "Exosome Synergy: Unlocking Skin's Regenerative Potential",
+      "headline_kr": "엑소좀 시너지: 피부 본연의 재생 잠재력 깨우기",
       "subheadline_en": "Advanced regeneration and anti-aging.",
       "subheadline_kr": "진보된 피부 재생 및 안티에이징.",
-      "scientific_basis_en": "Exosomes, as potent cell-free regulators of intercellular communication, possess significant regenerative potential, contributing to skin rejuvenation and anti-aging by influencing the skin's extracellular microenvironment. Their combination with key ingredients like Hyaluronic Acid and Peptides further enhances these effects. (PMID: 42130348, 41800728, 42016386)",
-      "scientific_basis_kr": "엑소좀은 세포 간 신호 전달의 강력한 조절자로서, 피부 외세포 미세 환경에 영향을 미쳐 피부 회춘 및 안티에이징에 기여하는 상당한 재생 잠재력을 가지고 있습니다. 히알루론산, 펩타이드 등 핵심 성분과의 조합은 이러한 효과를 더욱 증진시킵니다. (PMID: 42130348, 41800728, 42016386)",
+      "scientific_basis_en": "Exosomes, rich in signaling molecules, are crucial for intercellular communication and play a vital role in skin regeneration and anti-aging processes. Their combination with key skin components like hyaluronic acid and peptides further enhances these effects by supporting hydration, structural integrity, and cellular signaling pathways. (PMID: 42059240, 42169069, 42016386)",
+      "scientific_basis_kr": "신호 전달 분자가 풍부한 엑소좀은 세포 간 소통에 중요하며 피부 재생 및 안티에이징 과정에서 핵심적인 역할을 합니다. 히알루론산 및 펩타이드와 같은 주요 피부 구성 성분과의 조합은 수분 공급, 구조적 통합 및 세포 신호 전달 경로를 지원하여 이러한 효과를 더욱 강화합니다. (PMID: 42059240, 42169069, 42016386)",
       "tier": "strong"
     },
     "rtb_points": [
       {
-        "point_en": "Exosomes promote skin regeneration and enhance the extracellular microenvironment for anti-aging effects.",
-        "point_kr": "엑소좀은 피부 재생을 촉진하고 안티에이징 효과를 위한 세포외 미세 환경을 강화합니다.",
-        "evidence": "PMID: 42130348, Title: Understanding exosomes in facial esthetics and skin aging."
+        "point_en": "Exosomes promote skin regeneration by supporting cellular communication and repair mechanisms.",
+        "point_kr": "엑소좀은 세포 간 소통 및 복구 메커니즘을 지원하여 피부 재생을 촉진합니다.",
+        "evidence": "42093508 PAM@GO Composite Scaffolds Enhance the Yield of iMEC Exosomes for Accelerated Burn Repair."
       },
       {
-        "point_en": "Combination of exosomes with Hyaluronic Acid supports skin hydration and anti-aging strategies.",
-        "point_kr": "엑소좀과 히알루론산의 조합은 피부 수분 공급 및 안티에이징 전략을 지원합니다.",
-        "evidence": "PMID: 42059240, Title: The Tripartite Regulatory Framework of the Skin Extracellular Microenvironment and Related Anti-aging Strategies."
+        "point_en": "Hyaluronic acid, a key component of the skin's hydration microenvironment, is essential for maintaining skin moisture and elasticity.",
+        "point_kr": "피부 수분 환경의 핵심 성분인 히알루론산은 피부 수분과 탄력을 유지하는 데 필수적입니다.",
+        "evidence": "42059240 The Tripartite Regulatory Framework of the Skin Extracellular Microenvironment and Related Anti-aging Strategies."
       },
       {
-        "point_en": "Exosomes and peptides work synergistically to support skin repair and regeneration.",
-        "point_kr": "엑소좀과 펩타이드는 피부 복구 및 재생을 지원하기 위해 시너지 효과를 발휘합니다.",
-        "evidence": "PMID: 42016386, Title: Multidimensional Regulatory Mechanisms and Targeted Therapeutic Strategies for Inhibited Keratinocyte Proliferation in D"
+        "point_en": "Peptides support skin structure and contribute to anti-aging effects by aiding in cellular repair.",
+        "point_kr": "펩타이드는 피부 구조를 지지하고 세포 복구를 도와 안티에이징 효과에 기여합니다.",
+        "evidence": "42016386 Multidimensional Regulatory Mechanisms and Targeted Therapeutic Strategies for Inhibited Keratinocyte Proliferation in D"
       },
       {
-        "point_en": "Plant-derived exosome-like nanovesicles offer potential for treating age-related skin concerns.",
-        "point_kr": "식물 유래 엑소좀 유사 나노입자는 노화 관련 피부 고민 치료에 잠재력을 제공합니다.",
-        "evidence": "PMID: 42034933, Title: Therapeutic potential of plant-derived exosome-like nanovesicles as a phytomedicine in age-related diseases."
-      },
-      {
-        "point_en": "Exosomes aid in post-procedure recovery and skin barrier enhancement.",
-        "point_kr": "엑소좀은 시술 후 회복 및 피부 장벽 강화에 도움을 줍니다.",
-        "evidence": "PMID: 42027180, Title: The Use of Microneedling With Exosomes in Dermatology: A Systematic Review."
-      },
-      {
-        "point_en": "Exosomes can help manage hyperpigmentation by regulating skin cell communication.",
-        "point_kr": "엑소좀은 피부 세포 간 소통을 조절하여 색소 침착 관리에 도움을 줄 수 있습니다.",
-        "evidence": "PMID: 42130348, Title: Understanding exosomes in facial esthetics and skin aging."
+        "point_en": "Plant-derived exosome-like nanoparticles help attenuate oxidative stress and skin senescence.",
+        "point_kr": "식물 유래 엑소좀 유사 나노입자는 산화 스트레스와 피부 노화를 완화하는 데 도움을 줍니다.",
+        "evidence": "42131805 Green tea-derived exosome-like nanoparticles attenuate oxidative stress-induced skin senescence via modulation of p38 MA"
       }
     ],
     "tech_story": {
-      "headline_en": "Harnessing the power of Exosome Synergy for unparalleled skin regeneration.",
-      "headline_kr": "비교 불가능한 피부 재생을 위한 엑소좀 시너지 파워 활용",
+      "headline_en": "Harnessing the Power of Exosome Synergy for Enhanced Skin Vitality",
+      "headline_kr": "엑소좀 시너지의 힘으로 향상된 피부 활력 선사",
       "supporting_facts_en": [
-        "Exosomes act as crucial messengers in cellular communication, delivering vital biomolecules for skin repair and rejuvenation.",
-        "The synergistic combination of exosomes with ingredients like Hyaluronic Acid and Peptides amplifies regenerative and anti-aging benefits.",
-        "Plant-derived exosome-like nanovesicles offer a novel approach to combatting age-related skin damage."
+        "Exosomes deliver bioactive molecules that support skin regeneration and repair.",
+        "Synergistic combinations with ingredients like Hyaluronic Acid and Peptides amplify exosome benefits.",
+        "Advanced delivery systems ensure optimal exosome efficacy."
       ],
       "supporting_facts_kr": [
-        "엑소좀은 세포 간 신호 전달에서 중요한 메신저 역할을 하며, 피부 복구 및 회춘에 필수적인 생체 분자를 전달합니다.",
-        "히알루론산, 펩타이드 등과의 시너지 조합은 엑소좀의 재생 및 안티에이징 효능을 증폭시킵니다.",
-        "식물 유래 엑소좀 유사 나노입자는 노화 관련 피부 손상과 싸우는 새로운 접근 방식을 제공합니다."
+        "엑소좀은 피부 재생 및 복구를 지원하는 생리활성 분자를 전달합니다.",
+        "히알루론산, 펩타이드 등과의 시너지 조합은 엑소좀의 효능을 증폭시킵니다.",
+        "첨단 전달 시스템은 최적의 엑소좀 효능을 보장합니다."
       ]
     },
     "citation_ready_papers": [
       {
-        "pmid": "42130348",
-        "title": "Understanding exosomes in facial esthetics and skin aging.",
+        "pmid": "42059240",
+        "title": "The Tripartite Regulatory Framework of the Skin Extracellular Microenvironment and Related Anti-aging Strategies.",
         "year": "2026",
-        "use_case_en": "Cite for the general role of exosomes in skin aging, rejuvenation, and managing pigmentation disorders.",
-        "use_case_kr": "피부 노화, 회춘, 색소 침착 장애 관리에 있어 엑소좀의 일반적인 역할에 대해 인용합니다."
+        "use_case_en": "Cite to support the role of Hyaluronic Acid in the skin's hydration microenvironment and its relation to anti-aging.",
+        "use_case_kr": "피부 세포외 미세 환경의 삼자 조절 프레임워크와 관련 안티에이징 전략에 대한 연구로, 히알루론산의 피부 수분 환경에서의 역할 및 안티에이징과의 연관성을 뒷받침하는 데 인용합니다."
       },
       {
-        "pmid": "41800728",
-        "title": "Biologically Distinct, Clinically Convergent: A Comparative Study of Umbilical Cord- and Adipose-Derived Mesenchymal Ste",
+        "pmid": "42169069",
+        "title": "HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.",
         "year": "2026",
-        "use_case_en": "Use to support the regenerative and anti-aging effects of MSC-derived exosomes in skin.",
-        "use_case_kr": "피부에서 MSC 유래 엑소좀의 재생 및 안티에이징 효과를 뒷받침하기 위해 사용합니다."
+        "use_case_en": "Cite for exosome's role in tissue regeneration and wound healing, especially when combined with other beneficial ingredients.",
+        "use_case_kr": "조직 재생 및 상처 치유에서 엑소좀의 역할, 특히 다른 유익한 성분과 결합되었을 때의 효능을 뒷받침하는 데 인용합니다."
       },
       {
         "pmid": "42016386",
         "title": "Multidimensional Regulatory Mechanisms and Targeted Therapeutic Strategies for Inhibited Keratinocyte Proliferation in D",
         "year": "2026",
-        "use_case_en": "Reference for the role of exosomes and peptides in supporting skin repair mechanisms, particularly keratinocyte function.",
-        "use_case_kr": "피부 복구 메커니즘, 특히 각질형성세포 기능 지원에서 엑소좀과 펩타이드의 역할에 대해 참조합니다."
+        "use_case_en": "Cite to support the role of peptides in supporting keratinocyte proliferation and skin repair.",
+        "use_case_kr": "케라티노사이트 증식 및 피부 복구 지원에서 펩타이드의 역할을 뒷받침하는 데 인용합니다."
       },
       {
-        "pmid": "42059240",
-        "title": "The Tripartite Regulatory Framework of the Skin Extracellular Microenvironment and Related Anti-aging Strategies.",
+        "pmid": "42131805",
+        "title": "Green tea-derived exosome-like nanoparticles attenuate oxidative stress-induced skin senescence via modulation of p38 MA",
         "year": "2026",
-        "use_case_en": "Cite for the importance of the skin's extracellular microenvironment, including hydration (HA), in anti-aging.",
-        "use_case_kr": "안티에이징에서 수분 공급(HA)을 포함한 피부 세포외 미세 환경의 중요성에 대해 인용합니다."
-      },
-      {
-        "pmid": "42034933",
-        "title": "Therapeutic potential of plant-derived exosome-like nanovesicles as a phytomedicine in age-related diseases.",
-        "year": "2026",
-        "use_case_en": "Support claims related to plant-derived exosomes for age-related skin concerns and their biocompatibility.",
-        "use_case_kr": "노화 관련 피부 고민에 대한 식물 유래 엑소좀 및 생체 적합성에 관한 주장을 뒷받침합니다."
+        "use_case_en": "Cite for the benefits of plant-derived exosome-like nanoparticles in combating skin aging and oxidative stress.",
+        "use_case_kr": "식물 유래 엑소좀 유사 나노입자가 피부 노화 및 산화 스트레스 퇴치에 미치는 이점을 뒷받침하는 데 인용합니다."
       }
     ],
-    "world_first_opportunity_en": "The combination of exosome + ceramide + hyaluronic acid, exosome + glutathione + niacinamide, exosome + niacinamide + centella, and exosome + peptide + centella have 0 documented studies, presenting a unique opportunity to claim 'world's first' for these specific synergistic formulations.",
-    "world_first_opportunity_kr": "엑소좀 + 세라마이드 + 히알루론산, 엑소좀 + 글루타치온 + 나이아신아마이드, 엑소좀 + 나이아신아마이드 + 병풀, 엑소좀 + 펩타이드 + 병풀 조합에 대한 연구가 0건으로 보고되어, 이러한 특정 시너지 제형에 대해 '세계 최초'를 주장할 수 있는 독특한 기회를 제공합니다.",
+    "world_first_opportunity_en": "The combination of Exosome + Ceramide + Hyaluronic Acid, Exosome + Glutathione + Niacinamide, Exosome + Niacinamide + Centella, and Exosome + Peptide + Centella have no documented clinical/basic research. This presents a unique opportunity to market these specific trios as 'World's First' synergistic complexes.",
+    "world_first_opportunity_kr": "엑소좀 + 세라마이드 + 히알루론산, 엑소좀 + 글루타치온 + 나이아신아마이드, 엑소좀 + 나이아신아마이드 + 병풀, 엑소좀 + 펩타이드 + 병풀 조합에 대한 임상/기초 연구가 보고된 바 없습니다. 이는 특정 트리오 조합을 '세계 최초' 시너지 복합체로 마케팅할 수 있는 독보적인 기회를 제공합니다.",
     "risky_claims_to_avoid_en": [
-      "Exosomes cure skin diseases.",
-      "This product eliminates wrinkles completely.",
-      "Guaranteed 100% skin regeneration.",
-      "Prevent aging.",
-      "Treat hyperpigmentation."
+      "Exosomes cure wrinkles.",
+      "This product eliminates all signs of aging.",
+      "100% guaranteed skin regeneration.",
+      "Prevents future skin damage."
     ],
     "risky_claims_to_avoid_kr": [
-      "엑소좀이 피부 질환을 치료합니다.",
-      "이 제품은 주름을 완벽하게 제거합니다.",
+      "엑소좀이 주름을 치료합니다.",
+      "이 제품은 모든 노화 징후를 완벽하게 제거합니다.",
       "100% 피부 재생 보장.",
-      "노화 예방.",
-      "색소 침착 치료."
+      "향후 피부 손상을 예방합니다."
     ],
-    "north_america_angle_en": "Leveraging cutting-edge exosome technology for advanced skin regeneration and anti-aging, supported by emerging scientific research. Focus on visible improvements in skin texture, radiance, and post-procedure recovery.",
-    "north_america_angle_kr": "최신 엑소좀 기술을 활용한 진보된 피부 재생 및 안티에이징 효과, 떠오르는 과학 연구 지원. 피부 결, 광채, 시술 후 회복의 눈에 띄는 개선에 초점."
+    "north_america_angle_en": "Focus on the cutting-edge science of exosomes for advanced skin regeneration and anti-aging. Highlight the synergistic effects with well-researched ingredients like Hyaluronic Acid and Peptides, emphasizing visible improvements in skin texture, firmness, and overall rejuvenation. Position as a premium, science-backed skincare solution.",
+    "north_america_angle_kr": "첨단 피부 재생 및 안티에이징을 위한 엑소좀의 혁신적인 과학에 초점을 맞춥니다. 히알루론산, 펩타이드와 같은 검증된 성분과의 시너지 효과를 강조하며, 피부 결, 탄력 및 전반적인 젊음 개선 효과를 부각합니다. 프리미엄, 과학 기반 스킨케어 솔루션으로 포지셔닝합니다."
   }
 }
