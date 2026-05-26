@@ -1,0 +1,221 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42183737",
+      "title": "Systemic glutathione for skin lightening - A scoping review of current evidence.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "authors": [
+        "Dlova Ncoza Cordelia",
+        "Enechukwu Nkechi Anne",
+        "Cole-Adeife Olufolakemi",
+        "Sagoe Dominic",
+        "Mitchell Jalil Alan Henry"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42183737/"
+    },
+    {
+      "pmid": "42183686",
+      "title": "N-acetylcysteine: reinventing classic pharmacology through skin.",
+      "abstract": "N-acetylcysteine (NAC), traditionally known for its mucolytic properties and as an antidote for acetaminophen poisoning, has emerged as a multifunctional molecule with growing interest in dermatology. Its pleiotropic mechanisms -including modulation of redox balance, disulfide bond disruption, replenishment of intracellular glutathione, and regulation of inflammatory, microbial, and epigenetic pathways- have opened avenues for its therapeutic repurposing in cutaneous medicine. In congenital ichthyoses, topical NAC formulations have shown promising results, improving scaling and barrier function. NAC has also demonstrated efficacy in psychodermatological conditions such as trichotillomania and excoriation disorder, likely through glutamatergic modulation. In acne vulgaris and wound healing, its antioxidant and anti-inflammatory actions appear beneficial, with early data supporting its role as an adjunctive treatment. Moreover, its use in preventing UV-induced photodamage and improving dermal matrix remodelling further highlights its potential in both therapeutic and preventive dermatology. Although findings are encouraging, most studies remain limited in scale and methodological rigor. NAC represents a paradigmatic case of drug repurposing with a solid biochemical rationale, offering a versatile and low-cost option that may complement conventional dermatological therapies across multiple disease spectrums. Larger randomized controlled trials are needed to confirm its clinical utility.",
+      "year": "2026",
+      "journal": "European journal of dermatology : EJD",
+      "authors": [
+        "Molina-Espinosa José",
+        "Pérez-López Israel",
+        "Ezomo-Gervilla Pedro José",
+        "Ruiz-Villaverde Ricardo"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Humans",
+        "Skin Diseases",
+        "Antioxidants",
+        "Drug Repositioning",
+        "Wound Healing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42183686/"
+    },
+    {
+      "pmid": "42182869",
+      "title": "Engineered acetylcholinesterase-loaded dissolvable microneedles mitigate dermal toxicity by targeting trichlorfon binding and metabolic pathway modulation.",
+      "abstract": "Trichlorfon (TCF), a widely used organophosphorus pesticide for crop protection, poses severe dermal toxicity risks as it readily penetrates the epidermal barrier and metabolizes into the more toxic dichlorvos (DDVP), triggering neurotoxicity, oxidative stress and inflammatory damage in exposed individuals. As a promising stoichiometric bioscavenger for pesticide detoxification, natural acetylcholinesterase (AChE) is still plagued by bottlenecks in thermal stability and transdermal delivery efficiency. To address these issues, this study employed a previously engineered high-activity and thermostable AChE variant (",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Jiang Shuoqi",
+        "Zheng Zi-Wei",
+        "Gu Qiuya",
+        "Li Jian-Xin",
+        "Yu Xiaobin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42182869/"
+    },
+    {
+      "pmid": "42178103",
+      "title": "Mechanistic insights into triclocarban-induced skin barrier disruption via integrating imaging localization, multi-omics, and network toxicology.",
+      "abstract": "Humans are constantly exposed to the antimicrobial agent triclocarban (TCC) through dermal exposure to a range of household-cleaning and personal-hygiene products, but its potential effects on skin tissue still remain elusive. Here, we employed an integrated multi-omics and network toxicology strategy to explore the cutaneous toxicity of TCC and its underlying mechanisms. Atmospheric pressure matrix-assisted laser desorption/ionization mass spectrometry imaging (AP/MALDI-MSI) detected significant epidermal deposition of TCC in mouse skin. Subsequently, lipidomic and metabolomic analyses of TCC-treated human HaCaT keratinocytes showed notable disruptions in sphingolipid, glycerophospholipid, and glycerolipid homeostasis, along with glutathione, amino acid, and energy metabolism pathways. These metabolic changes indicated increased cell apoptosis and skin barrier dysfunction, which were validated experimentally. The underlying mechanism involves excessive accumulation of mitochondrial reactive oxygen species (mtROS) and ATP depletion, exacerbating apoptosis through oxidative stress and energy crisis, thus weakening epidermal tight junctions and compromising skin barrier integrity. Through network toxicology analysis and in vitro validation, AKT serine/threonine kinase 1 (AKT1) and hypoxia inducible factor 1 subunit alpha (HIF-1α) were further established as​ crucial regulators orchestrating epidermal cell apoptosis induced by TCC. This study provides a detailed framework for TCC-induced dermal toxicity and informs public health risk assessment and exposure prevention.",
+      "year": "2026",
+      "journal": "Environmental pollution (Barking, Essex : 1987)",
+      "authors": [
+        "Zheng Jingwen",
+        "Guo Run",
+        "Zhang Rong",
+        "Liu Xinyu",
+        "Guo Rouyue"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42178103/"
+    },
+    {
+      "pmid": "42174381",
+      "title": "Redox Disruption Induced by Saquayamycin B1 Promotes Cytotoxicity in Resistant Melanoma Cells.",
+      "abstract": "Melanoma is an aggressive skin cancer characterized by rapid progression and frequent chemoresistance, which limits the success of current therapies. Saquayamycin B1 (SQ-B1), an angucycline isolated from Streptomyces sp. I072, was investigated for its antimelanoma activity with emphasis on redox disruption. The compound was purified using M9 fermentation followed by semipreparative liquid chromatography, and its structure was confirmed through 1D/2D nuclear magnetic resonance (NMR) and mass spectrometry. Cytotoxicity assays (MTT, 72 h) in SK-MEL-5, -113, -117, and -134 cells revealed IC",
+      "year": "2026",
+      "journal": "ChemMedChem",
+      "authors": [
+        "Silvestre Geovana Guedes",
+        "Souza Thalisson Amorim de",
+        "Alves Alan Ferreira",
+        "Dutan-Patiño Valeria",
+        "Huvelin Jean-Michel"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Oxidation-Reduction",
+        "Melanoma",
+        "Antineoplastic Agents",
+        "Drug Resistance, Neoplasm",
+        "Cell Survival",
+        "Molecular Docking Simulation",
+        "Dose-Response Relationship, Drug",
+        "Drug Screening Assays, Antitumor",
+        "Cell Line, Tumor"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42174381/"
+    },
+    {
+      "pmid": "42171909",
+      "title": "Quinoa seed (Chenopodium quinoa W.) extract attenuates Alzheimer's disease-like neurodegeneration: Targeting the SLC7A11/GPX4 pathway.",
+      "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline and hippocampal neuronal loss. Targeting ferroptosis-related pathways represents a promising therapeutic strategy.",
+      "year": "2026",
+      "journal": "Molecular biology reports",
+      "authors": [
+        "Hammad Maha O",
+        "Shady Tasneem",
+        "Moanes Basma",
+        "El-Sharkawy Ayat R",
+        "Galal Asmaa M"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Alzheimer Disease",
+        "Chenopodium quinoa",
+        "Rats",
+        "Male",
+        "Plant Extracts",
+        "Disease Models, Animal",
+        "Oxidative Stress",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Seeds"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171909/"
+    },
+    {
+      "pmid": "42167125",
+      "title": "Nanomedicine to enhance melanoma radiotherapy: Mechanisms and translational prospects.",
+      "abstract": "Melanoma is an aggressive and highly malignant skin cancer characterized by rapid proliferation, early metastatic dissemination, and pronounced resistance to conventional therapies, including radiotherapy. This intrinsic radioresistance is largely attributed to melanoma's high mutational burden, efficient DNA damage repair capacity, elevated antioxidant defenses, and a uniquely immunosuppressive tumor microenvironment. Consequently, improving the therapeutic efficacy of radiotherapy in melanoma remains a major clinical challenge. Recent advances in nanomedicine have introduced innovative strategies to enhance radiotherapeutic outcomes by integrating physical, chemical, and biological mechanisms of tumor sensitization. Diverse nanoplatforms, including lipid-based, polymeric, and inorganic nanoparticles, enable precise tumor targeting through passive and active mechanisms and support multifunctional therapeutic modalities. High atomic number (high-Z) nanoparticles such as gold, bismuth, and platinum amplify radiation dose deposition and reactive oxygen species generation, thereby promoting DNA damage and apoptosis. In parallel, nanoparticle-mediated photothermal and photodynamic therapies further augment radiosensitivity, whereas immune-modulatory nanocarriers enhance antitumor immune responses and synergize with immunotherapy. Importantly, beyond drug delivery, the intrinsic physicochemical properties of nanomaterials, such as catalytic activity, surface reactivity, magnetic responsiveness, and electronic features, play critical roles in modulating tumor metabolism, redox balance, and the tumor microenvironment. By highlighting preclinical and emerging clinical evidence, we outline current challenges, translational opportunities, and future directions for precision radiotherapy strategies aimed at overcoming melanoma radioresistance and improving therapeutic outcomes. SIGNIFICANCE STATEMENT: Melanoma's intrinsic radioresistance arises from rapid DNA double-strand break repair, elevated glutathione-mediated antioxidant defenses, and immune evasion. This review delineates how high-Z nanoparticles, catalytic nanozymes, and multifunctional nanocarriers enhance radiotherapy by amplifying dose deposition, generating reactive oxygen species, inhibiting DNA repair pathways, and promoting immunogenic cell death. These insights define rational design principles for nanoparticle-assisted, precision radiotherapy strategies in melanoma.",
+      "year": "2026",
+      "journal": "The Journal of pharmacology and experimental therapeutics",
+      "authors": [
+        "Hsu Chou-Yi",
+        "Rizaev Jasur",
+        "AlAbdulhadi Saleh A S",
+        "Abbas Al-Khafaji Zahraa Khudhair",
+        "Gupta Piyush Kumar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42167125/"
+    },
+    {
+      "pmid": "42165092",
+      "title": "A New Food Supplement Product Containing Ergothioneine Protects Against Cyclophosphamide-Induced Primary Ovarian Insufficiency in Rats.",
+      "abstract": "Primary ovarian insufficiency (POI) is characterized by disrupted estrous cycles, impaired folliculogenesis, oxidative stress, and inflammation. In this study, a cyclophosphamide (CTX)-induced POI rat model was used to evaluate the protective effects of a nutraceutical formula (including ergothioneine, Coenzyme Q10, pyrroloquinoline quinone, hydroxytyrosol, and vitamin E) at different doses. CTX markedly prolonged the estrous cycle, reduced estrus duration, decreased ovarian weight, impaired follicular development, and elevated granulosa cell apoptosis. CTX induced oxidative stress, as evidenced by reduced catalase (CAT), superoxide dismutase (SOD) activity, and glutathione (GSH) content, alongside increased malondialdehyde (MDA) in ovarian tissue. Interventions with the product restored estrous cyclicity, increased ovarian weight, improved primordial follicle counts, and reduced atretic follicles and granulosa cell apoptosis. Hormonal balance was partially normalized, with increased E",
+      "year": "2026",
+      "journal": "Molecular nutrition & food research",
+      "authors": [
+        "Jin Chen",
+        "Shi Minyan",
+        "Liu Han",
+        "He Siling",
+        "Zhu Huawei"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Cyclophosphamide",
+        "Ergothioneine",
+        "Dietary Supplements",
+        "Primary Ovarian Insufficiency",
+        "Oxidative Stress",
+        "Apoptosis",
+        "Granulosa Cells",
+        "Glutathione"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42165092/"
+    },
+    {
+      "pmid": "42155748",
+      "title": "Tea tree oil infused Pluronic copolymer/Xanthan scaffolds: Biomarkers profiling and bactericidal impact in simulated wound healing environments.",
+      "abstract": "The human skin, a dynamic defense shield for intricate organs, must heal promptly in the event of injury to safeguard delicate internal organs from infection and environmental stress. The infiltration of microbes into open wounds may exacerbate complications and prolong the healing process. Oral, intravenous, or topical administration of antibiotics are commonly practiced conventional methods, which generally face challenges like optimal dosage, delivery at site of infection, repeated administration, and antibiotic. Therefore, three dimensional (3D) printed scaffolds with sustained degradation kinetics emerged as a potential candidate for prolonged localized delivery of natural antibiotics. Herein, the present study poses Pluronic copolymer/Xanthan/Tea tree oil (PCP/Xn/TT) based 3D printed scaffold for controlled degradation and sustained release of TT (66 ± 2% in 7 days). The released amount of TT at regular intervals in physiological medium (in-vitro) provided optimal bactericidal effect against E. coli and S. aureus, till the 7th day of incubation. The controlled porous and crosslinked PCP/Xn network (confirmed by Scanning Electron Microscopy and Fourier Transformed Infrared Spectroscopy) was responsible for swelling behaviour and optimal contact angle of 49 ± 3°. The fabricated scaffold was antioxidant, thus enhancing the healing process, confirmed by enhanced release of vascular endothelial growth factor (287 ± 13 pg/mL), collagen type I (19.4 ± 0.5 ng/mL), and glutathione peroxidase I (15.6 ± 0.4 ng/mL). The interaction of TT's constituents with pre-stated biomarkers was further validated by in-silico molecular docking. Herein, the developed PCP/Xn/TT scaffolds being bactericidal and fibrogenic, unveils its prospect for advanced wound care solution.",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Nawaz Muhammad Haseeb",
+        "Rawaiz Chaudhry Hassan",
+        "Faraz Muhammad Iftikhar",
+        "Moinuddin Syed Quadir",
+        "Niaz Akbar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42155748/"
+    },
+    {
+      "pmid": "42154340",
+      "title": "Neuroprotective effects of trans-anethole on AlCl₃-induced memory impairment: targeting AChE, oxidative stress, and NLRP3 inflammasome: a promising approach for neurodegeneration prevention.",
+      "abstract": "Aluminum, a widely occurring environmental metal, has been implicated as a neurotoxic agent and is associated with the development of several neurodegenerative conditions, including Alzheimer's disease (AD). Its neurotoxicity is largerly attributed to the induction of oxidative stress , which exacerbates neuroinflammation, leading to cognitive deficits and progressive neuronal dysfunction. Trans-anethole (TA) possesses diverse pharmacological activities, including anti-inflammatory, antioxidant, antifungal, and anticancer effects. However, its neuroprotective potential against AlCl₃-induced neurodegeneration, particularly in the context of memory impairment mediated by inflammation and oxidative stress, remains unknown. Therefore, this study was conducted to evaluate the potential role of TA in mitigating neurodegeneration. To establish an aluminum-induced neuroinflammation-associated neurodegenerative model, rats received oral administration of 150 mg/kg AlCl₃ for 90 days. TA was administered at three different dosages between days 31 and 90: 40, 80, and 160 mg/kg between days 31 and 90. Cognitive performance was assessed using the Morris water maze (MWM) and passive avoidance test (PAT). Neuroprotective effects were evaluated by analyzing acetylcholinesterase (AChE) activity, oxidative stress markers (catalase, glutathione, and malondialdehyde levels), and neuroinflammatory mediators (NLRP3 inflammasome, Interleukin-1β, and TNF-α) in AlCl₃-exposed rats. TA significantly mitigated aluminum-induced neuronal damage by restoring antioxidant defence, inhibiting AChE activity, and downregulating inflammatory proteins, including NLRP3, TNF-α, and IL-1β. Histopathological analysis further confirmed its neuroprotective role. The findings of this study suggests that TA holds therapeutic potential for neurodegenerative disorders by mitigating memory deficits, neuroinflammation, and oxidative stress.",
+      "year": "2026",
+      "journal": "Metabolic brain disease",
+      "authors": [
+        "Bagwe Parab Siddhi",
+        "Tripathi Pratigya",
+        "Barve Kalyani",
+        "Kaur Ginpreet"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Oxidative Stress",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Memory Disorders",
+        "Neuroprotective Agents",
+        "Rats",
+        "Aluminum Chloride",
+        "Male",
+        "Acetylcholinesterase",
+        "Inflammasomes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42154340/"
+    }
+  ],
+  "crawled_at": "2026-05-26T22:28:58.254459",
+  "source": "pubmed"
+}
