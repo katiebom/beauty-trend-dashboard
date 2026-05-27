@@ -1,0 +1,192 @@
+{
+  "ingredient_id": "silica",
+  "name_en": "Silica",
+  "name_kr": "실리카",
+  "category": "pore_texture",
+  "query": "\"Silica\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42177389",
+      "title": "Nature-Inspired Hybrid Photocatalytic System for Degradation of Persistent Organic Pollutants, Including Pharmaceutical Remains Using Solar-Driven Continuous Flow Reactor.",
+      "abstract": "Sunlight-driven photocatalytic reactors for wastewater treatment have become a growing hot topic among researchers owing to their inexpensiveness, scalable potential, and minimal ecological impact. Herein, we have utilized 3D printing to fabricate a packed bed reactor (PBR) consisting of an open serpentine channel packed with zinc oxide nanoparticles (ZnO) coated onto silica nanoparticles (SiO",
+      "year": "2026",
+      "journal": "Chemistry, an Asian journal",
+      "authors": [
+        "Jaswal Shubham",
+        "Devi Renu",
+        "Singh Anoop",
+        "Kaur Navneet",
+        "Singh Narinder"
+      ],
+      "mesh_terms": [
+        "Water Pollutants, Chemical",
+        "Zinc Oxide",
+        "Catalysis",
+        "Sunlight",
+        "Silicon Dioxide",
+        "Methylene Blue",
+        "Ciprofloxacin",
+        "Congo Red",
+        "Cellulose",
+        "Nanoparticles"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42177389/"
+    },
+    {
+      "pmid": "42168491",
+      "title": "Examining the immunomodulatory role of nanoparticles on mast cell activation.",
+      "abstract": "Recent studies reveal that inorganic nanoparticles (NPs) can alter allergic skin reactions in a contact hypersensitivity (CHS) mouse model. Specifically, negatively charged silica (SiO",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Pineda Jessica Perez",
+        "DeLouise Lisa A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168491/"
+    },
+    {
+      "pmid": "42153630",
+      "title": "Engineered 3D-Lattice Microneedle Array Patches for Enhanced Nanovaccine Delivery to Dendritic Cells in Cancer Immunotherapy.",
+      "abstract": "Cancer vaccines are designed to activate dendritic cells (DCs), which are potent antigen-presenting cells that initiate antigen-specific adaptive immune responses and inhibit tumor growth. Microneedles (MNs) have emerged as a promising cancer vaccine platform, enabling the noninvasive dermal delivery of cancer antigens and adjuvants to activate dermal DCs. However, conventional solid MNs have a limited surface area, restricting the adsorption of large amounts of bioactive components. Therefore, 3D-printed lattice-structured microarray patches (L-MAPs) with an increased surface area were designed in this study, which permitted the enhanced adsorption of cancer nanovaccines compared to conventional solid microarray patches. L-MAPs were fabricated by using the continuous liquid interface production (CLIP) technology, facilitating the rapid printing of MNs with lattice structures. L-MAPs adsorbed higher amounts of mesoporous-silica-based nanovaccine (MV) on their needle surfaces, exhibiting greater dermal vaccine delivery capacity. Applying MV@MAPs on mouse skin led to efficient DC recruitment, maturation, and subsequent antigen-specific T cell responses in vivo. Consequently, the resulting antitumor immune response considerably suppressed the tumor growth. This approach highlights that using CLIP-printed L-MAPs is a promising strategy for efficient nanovaccine delivery in cancer immunotherapies.",
+      "year": "2026",
+      "journal": "ACS nano",
+      "authors": [
+        "Kim Ye Eun",
+        "Kwak Jean Won",
+        "Mo Xin Wang",
+        "Nguyen Thanh Loc",
+        "Kamat Netra Unni"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42153630/"
+    },
+    {
+      "pmid": "42151708",
+      "title": "[Screening of the anti-",
+      "abstract": "To screen Chinese herbal medicines for optimal inhibitory activity against ",
+      "year": "2026",
+      "journal": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+      "authors": [
+        "Guo Zejun",
+        "Xi Xiangyu",
+        "Zhong Xiaoming",
+        "Qiu Fengmei",
+        "Huang Zhen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42151708/"
+    },
+    {
+      "pmid": "42124425",
+      "title": "Tailorable Janus Silica Particles with Morphological and Functional Anisotropy for Enhanced Oil-Water Emulsion Stability.",
+      "abstract": "Particulate emulsifiers offer significant advantages in stabilizing oil-water emulsions with improved durability, uniformity, and compatibility for cosmetic and formulation applications. However, conventional particulate emulsifiers often suffer from unclear amphiphilic separation, indistinct functional anisotropy, and limited structural tunability, which severely restrict their emulsification efficiency and practical application in complex systems. To tackle these critical issues, a functionalization strategy to construct well-defined anisotropic Janus silica particles with distinct amphiphilic regions and controllable morphology was proposed in the current work. The particles were successfully modified using octyltriethoxysilane (OTES) and hexadecyltrimethoxysilane (HDTMOS), which clearly regulated the amphiphilic surface anisotropy. Particularly, the increase in the alkyl chain length of HDTMOS inhibited a part of tails overgrowth, while modification through OTES generated a highly stable hydrophobic interface with an emulsifying behavior. Compared with contemporary particulate emulsifiers, the optimized OTES-modified Janus particles exhibited very good emulsification performance in various oil phases, particularly showcasing significantly enhanced stability for the emulsion and prolonged emulsification time. The present work provides a reliable and scalable strategy for tailoring the performance of emulsifiers at the nanoscale for high-performance emulsions.",
+      "year": "2026",
+      "journal": "Langmuir : the ACS journal of surfaces and colloids",
+      "authors": [
+        "Luo Shangxue",
+        "Zuo Xiuyuan",
+        "Guo Qiwei",
+        "Li Yumeng",
+        "Wang Yuxiang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42124425/"
+    },
+    {
+      "pmid": "42099970",
+      "title": "Next-Generation Anticancer Peptides: Engineering, Nanotheranostics and Clinical Translation.",
+      "abstract": "Anticancer peptides (ACPs) have emerged as a transformative class of next-generation therapeutics that bridge molecular precision with multifunctional tunability. Unlike many conventional small molecule chemotherapeutics, ACPs offer intrinsic selectivity toward malignant cells through preferential membrane targeting, immunomodulation, and disruption of oncogenic signalling pathways. Advances in peptide engineering, including sequence optimization, incorporation of non-natural amino acids, cyclization, stapling, PEGylation, and structure-activity relationship-guided refinement, have substantially improved their stability, potency, and pharmacokinetic performance. Parallel progress in nanotechnology has further expanded the translational potential of ACPs by enabling controlled release, cancer cell specific targeting, and multimodal theranostic integration. Lipid nanoparticles, solid lipid nanoparticles, polymeric systems, dendrimers, mesoporous silica nanoparticles, and stimuli-responsive platforms now provide multiple and combinatorial strategies to overcome biological barriers, enhance intracellular delivery, and minimize systemic toxicity. Emerging concepts such as enzyme-activated nanocarriers, ligand-directed precision delivery, and light- or pH-responsive systems are redefining and energizing the spatial and temporal control of peptide therapeutics research fields. Despite encouraging preclinical and early clinical progress, including FDA-approved peptide-based agents and peptide receptor radionuclide therapies, challenges related to stability, immunogenicity, manufacturing scalability, and regulatory harmonization remain significant. This review highlights current advances in ACP discovery, molecular engineering, and nanotheranostic integration, and outlines a roadmap for advancing peptide-based precision oncology. Collectively, next-generation ACP platforms hold promise to reshape cancer therapy by integrating targeted cytotoxicity, immune activation, and real-time imaging within a single modular framework.",
+      "year": "2026",
+      "journal": "Nanotheranostics",
+      "authors": [
+        "Mehata Abhishesh Kumar",
+        "Fukui Shinsuke",
+        "Izumiya Yoshihiro"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Peptides",
+        "Antineoplastic Agents",
+        "Theranostic Nanomedicine",
+        "Neoplasms",
+        "Animals",
+        "Nanoparticles",
+        "Protein Engineering"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42099970/"
+    },
+    {
+      "pmid": "42093738",
+      "title": "A multifunctional nano-hydrogel attenuates skin photoaging via regulating ECM microenvironment homeostasis.",
+      "abstract": "Ultraviolet (UV) radiation exacerbates skin photoaging, disrupting extracellular matrix (ECM) homeostasis and thereby causing premature skin aging and increased susceptibility to damage. Effective therapeutic approaches to manage photoaging and promote skin regeneration are essential. This study developed a multifunctional nanocomposite hydrogel (CAPE@DMMg) by loading active compounds into citrate-functionalized mesoporous silica nanoparticles (CAPE@MSN-CA), incorporating a deep eutectic solvent to enhance skin penetration, and introducing magnesium ions to improve the mechanical stability of the hydrogel. Experimental results demonstrated that CAPE@DMMg scavenged reactive oxygen species, modulated ECM-related gene expression, and reduced skin wrinkles, restores skin thickness, and promotes collagen deposition, exhibiting remarkable anti-photoaging effects. Furthermore, CAPE@DMMg reduced UV-induced senescence-associated markers in multiple organs, indicating reduced systemic oxidative stress and senescence-related changes. Mechanistically, CAPE@MSN-CA restored mitochondrial function by targeting the FN1-ITGA5 axis and suppressing apoptosis. This effect was accompanied by increased type I/III collagen and reduced MMP1 and FN1 expression. In summary, this study presents a multifunctional drug delivery system that regulates ECM microenvironment homeostasis, offering a novel strategy for anti-aging skin therapy.",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Wang Xiaoxiang",
+        "Zhou Fei",
+        "Bie Fan",
+        "Xiong Yahui",
+        "Li Zhanpeng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42093738/"
+    },
+    {
+      "pmid": "42078001",
+      "title": "From Silicosis to Systemic Sclerosis: Erasmus Syndrome in a Young Galamseyer-Case Report.",
+      "abstract": "Erasmus syndrome is an uncommon condition marked by the onset of systemic sclerosis (SSc) due to extended exposure to silica. In this case, we highlight the significant health risks associated with silica exposure in artisanal mining (galamsey), leading to the development of Erasmus syndrome. We present the case of a 33-year-old male artisanal miner with a 14-year work history who presented with a 2-year history of recurrent cough, difficulty breathing, and fever. He later developed hypopigmentation and skin thickening on his face, neck, torso, and knees, along with a productive cough and low-grade fever. He visited multiple healthcare facilities on account of the above complaints. At one of such visits, he was prescribed antituberculosis (TB) medication even though the sputum for GeneXpert was negative. On examination, he was in respiratory distress with an oxygen saturation of 78% on room air and required oxygen via a nonrebreather mask at 10 L/min, which raised the oxygen saturation to 94%, and had bronchial breath sounds in the right lung zones. Vocal resonance was increased bilaterally in the middle lung zones. He had salt-and-pepper dermopathy with tight and adherent skin on his face, chest, back, and knees. He additionally had microstomia, rat bite sign of the fingers, and Raynaud's phenomenon. Antinuclear antibody by indirect immunofluorescence on hep-2 cells was positive (1:320), and Antitopoisomerase 1 antibodies were also positive. Chest CT findings were consistent with complicated silicosis. The patient was diagnosed with Erasmus syndrome and started on immunosuppressive therapy. We highlight the significant health risks associated with silica exposure in artisanal mining (galamsey), leading to the development of Erasmus syndrome. Preventing silica exposure remains crucial, necessitating stringent workplace safety measures and occupational health practices to protect individuals in high-risk professions.",
+      "year": "2026",
+      "journal": "Case reports in dermatological medicine",
+      "authors": [
+        "Gyabaah Solomon",
+        "Kyei-Fram Seth",
+        "Mensah Kojo Awotwi Hutton",
+        "Asamoah Osei Yaw",
+        "Owusu Clement Ohene"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42078001/"
+    },
+    {
+      "pmid": "42062722",
+      "title": "Chromatographic Purification of Fucoxanthin from Diatom Biomass.",
+      "abstract": "Fucoxanthin, a bioactive carotenoid, is well known for its antioxidant, anti-inflammatory, anti-obesity, and anticancer effects, making it a vital compound in nutraceuticals, pharmaceuticals, and cosmetics. Predominantly derived from diatoms such as Phaeodactylum tricornutum, fucoxanthin plays a pivotal role in photosynthesis and photoprotection. However, its commercial use is often hampered by extraction and purification issues owing to its limited natural abundance and sensitivity to deterioration under light and heat. This chapter presents a procedure for the extraction and purification of fucoxanthin from Phaeodactylum biomass using silica gel column chromatography. The methodology involves using solvent-based extraction to obtain fucoxanthin from microalgal biomass and silica gel column chromatography to purify fucoxanthin. This protocol provides a scalable and efficient method for producing high-quality fucoxanthin, making it suitable for use in a wide range of industrial and research applications.",
+      "year": "2026",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "authors": [
+        "Khazi Mahammed Ilyas",
+        "Demirel Zeliha",
+        "Liaqat Fakhra",
+        "Demirkan Elif",
+        "Dalay Meltem Conk"
+      ],
+      "mesh_terms": [
+        "Diatoms",
+        "Xanthophylls",
+        "Biomass",
+        "Chromatography, Gel",
+        "Microalgae"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42062722/"
+    },
+    {
+      "pmid": "42057847",
+      "title": "Molecular docking and experimental evaluation of natural alkaloids from Chilean flora (",
+      "abstract": "Hyperpigmentation disorders stem from tyrosinase-catalyzed melanin overproduction, worsened by ultraviolet oxidative stress. The native Chilean species ",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Castro-Saavedra Sebastián",
+        "Fuentes-Barros Gonzalo",
+        "Mellado Marco",
+        "Echeverría Javier"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42057847/"
+    }
+  ],
+  "crawled_at": "2026-05-27T22:39:11.178783",
+  "source": "pubmed"
+}

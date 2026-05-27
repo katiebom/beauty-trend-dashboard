@@ -1,0 +1,209 @@
+{
+  "ingredient_id": "retinol",
+  "name_en": "Retinol",
+  "name_kr": "레티놀",
+  "category": "retinoid",
+  "query": "\"Retinol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42094960",
+      "title": null,
+      "abstract": null,
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Kulangara Shyamasundaran",
+        "S Shashank K",
+        "Mohanan Deepu",
+        "Viswaroopan Deepthi",
+        "Reshma N S"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42094960/"
+    },
+    {
+      "pmid": "42090902",
+      "title": "Epalrestat repurposing for psoriasis: Targeting AKR1B10 to modulate the metabolic-immune axis via restoring retinol metabolism and suppressing IL-17 signaling.",
+      "abstract": "Psoriasis is a chronic inflammatory disease often accompanied by metabolic syndrome. The function of AKR1B10 in the \"metabolism-immune\" interplay remains unclear. This study aimed to identify the role of AKR1B10 in pathogenesis and evaluate its inhibitor, Epalrestat, for psoriasis treatment via drug repurposing.",
+      "year": "2026",
+      "journal": "International immunopharmacology",
+      "authors": [
+        "Song Lisha",
+        "Shen Jiaqing",
+        "Wu Huiying",
+        "Liu Yi"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Psoriasis",
+        "Interleukin-17",
+        "Mice",
+        "Drug Repositioning",
+        "Signal Transduction",
+        "Vitamin A",
+        "Humans",
+        "Thiazolidines",
+        "Disease Models, Animal"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42090902/"
+    },
+    {
+      "pmid": "42025657",
+      "title": "Tailored dual release of retinol and salicylic acid from salicylate-based poly(anhydride-ester) microspheres with tunable degradation profiles.",
+      "abstract": "Retinol and salicylic acid are potent bioactive agents commonly used to treat skin pathologies such as acne, psoriasis, and photodamage. Their combined use offers synergistic therapeutic benefits. However, effective delivery of retinol remains challenging due to its poor aqueous solubility and rapid degradation under physiological conditions. In this study, a dual-delivery microsphere platform based on salicylic acid-derived poly(anhydride-ester)s (SAPAEs) was designed to co-release retinol and salicylic acid in a controlled and pH-responsive manner. Four SAPAE compositions with distinct degradation kinetics were synthesized via melt-condensation polymerization, incorporating different ratios of anhydride and ester linkages through copolymerization. Microspheres with reproducible size (∼10 µm) were formulated using an oil-in-water solvent evaporation method, achieving high salicylic acid loadings (54-77 wt%) via polymer composition and retinol loadings of 0.5-1.5 wt% through physical encapsulation. Thermodynamic predictions of retinol-polymer affinity showed reasonable agreement with experimental retinol loading results. Kinetic models applied to the release profiles confirm a surface-erosion mechanism for polymer degradation and subsequent salicylic acid release, while retinol release was mostly driven by diffusion. Faster release of both bioactive compounds were observed in basic solution. Among the formulations tested, the copolymer containing p-phenylenediacetic acid (PA) as the co-monomeric unit (SAA-co-PA) demonstrated the most controlled dual-release profile, with minimal retinol burst and sustained salicylic acid release. This tunable SAPAE-based microsphere platform offers a promising strategy for synergistic controlled delivery of multiple bioactive for skin pathologies and could be extended to other topical applications.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Lima Mariana R N",
+        "Nguyen Nhien Q",
+        "Safi Lema",
+        "Gill Tegh",
+        "Song Shuang"
+      ],
+      "mesh_terms": [
+        "Salicylic Acid",
+        "Microspheres",
+        "Vitamin A",
+        "Drug Liberation",
+        "Polyanhydrides",
+        "Hydrogen-Ion Concentration",
+        "Salicylates",
+        "Solubility",
+        "Polyesters",
+        "Kinetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42025657/"
+    },
+    {
+      "pmid": "42012583",
+      "title": "Controlling Staphylococcus aureus skin infections by targeting biofilm and virulence properties using FDA-approved antiseptics and skin care products.",
+      "abstract": "Staphylococcus aureus is a major skin pathogen that causes a broad spectrum of infections, ranging from mild skin infections to severe invasive diseases. In this study, we evaluated antibacterial and antivirulence properties of selected FDA-approved skincare bioactives and antiseptics against multiple virulence factors. Minimum inhibitory concentration analysis of benzalkonium chloride, retinol, hydroquinone, and kojic acid showed strong antimicrobial activity at concentrations from 2 to 1024 µg/mL. Epigallocatechin gallate effectively inhibits biofilm formation by 81.53% and reduces staphyloxanthin production by 68.26%. Retinol exhibited antibiofilm activity, eradicating mature biofilm mass by 79.18%. Furthermore, a combination of skincare bioactives with antibiotics, including oxacillin, ciprofloxacin, tetracycline, and rifampicin, demonstrated synergy and additive effects, enhancing antibacterial efficacy. Molecular docking analysis exhibited strong predicted binding affinities of skincare bioactives and antiseptics against key virulence factors. This study highlights the multitarget antivirulence potential of skincare bioactives and antiseptics as an alternative strategy to mitigate diverse S. aureus infections.",
+      "year": "2026",
+      "journal": "Folia microbiologica",
+      "authors": [
+        "Karthikeyan Abirami",
+        "Tabassum Nazia",
+        "Javaid Aqib",
+        "Kim Taehyeong",
+        "Jung Won-Kyo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42012583/"
+    },
+    {
+      "pmid": "41981221",
+      "title": "TPGS Modified Phospholipid-free and Cholesterol-free Ethosomes Enhance Chemical Stability and Transdermal Permeation Of Retinol.",
+      "abstract": "Retinol has emerged as a star ingredient in the cosmetics industry owing to its remarkable skincare efficacy. However, its major limitations-high irritation potential and chemical instability-necessitate further improvement. We developed a liposome primarily composed of glyceryl monooleate and poloxamer (F127). By hybridizing this with a binary alcohol system comprising a 1:1 (v/v) mixture of propylene glycol and dipropylene glycol, an ethosome (ES) capable of efficiently encapsulating retinol was obtained. Retinol-loaded ES (Ret-ES) was further modified with D-α-tocopheryl polyethylene glycol 1000 succinate (TPGS@Ret-ES), thereby optimizing particle size distribution and drug loading capacity. Increasing the binary alcohol concentration from 10 to 30% caused TPGS@Ret-ES hydrated particle size to sharply decrease from 100 to 50 nm, without significant changes in drug loading or encapsulation efficiency. Compared with retinol aqueous solutions, TPGS@Ret-ES substantially reduced degradation rates at room temperature while maintaining excellent particle size stability. Additionally, incorporating antioxidants tocopheryl acetate and Irganox 1010 further improved chemical stability. Notably, TPGS@Ret-ES simultaneously enhanced transdermal drug permeation and skin retention, with no significant irritation observed following repeated application to the same skin site in guinea pigs. In conclusion, ES represents a highly promising topical delivery carrier, and TPGS@Ret-ES shows considerable potential as a novel formulation for retinol.",
+      "year": "2026",
+      "journal": "AAPS PharmSciTech",
+      "authors": [
+        "Xu Fanjun",
+        "Li Meiting",
+        "Ruan Hang",
+        "Guo Teng",
+        "Wang Zhi"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Vitamin E",
+        "Vitamin A",
+        "Guinea Pigs",
+        "Administration, Cutaneous",
+        "Drug Stability",
+        "Skin Absorption",
+        "Particle Size",
+        "Liposomes",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41981221/"
+    },
+    {
+      "pmid": "41960183",
+      "title": "The LAMB3-ITGA6 axis orchestrates epithelial repair in periodontitis via hemidesmosomal regulation and keratinization modulation.",
+      "abstract": "Periodontitis manifests as dysregulated epithelial-stromal interactions and resultant tissue destruction, yet the regulatory mechanisms of the pivotal hemidesmosomes after periodontitis treatment remain elusive.",
+      "year": "2026",
+      "journal": "Frontiers in cell and developmental biology",
+      "authors": [
+        "Zhang Yulong",
+        "Wu Xing",
+        "Xu Fei",
+        "Song Qianhui",
+        "Li Zhaofen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41960183/"
+    },
+    {
+      "pmid": "41923969",
+      "title": "Cosmeceuticals in acne vulgaris: from mechanism of action to clinical application.",
+      "abstract": "The use of cosmeceuticals in acne vulgaris is becoming increasingly prevalent with many over-the-counter formulations becoming part of patients' routine skincare. Cosmeceuticals are often used successfully as an adjunctive therapy to reduce the side effects of traditional prescriptions and improve compliance. This is a review to support the use of cosmeceuticals in acne, including retinol, retinaldehyde, benzoyl peroxide (BPO), azelaic acid, beta hydroxy acids, alpha hydroxy acids, niacinamide, zinc, tea tree oil and green tea. There is most evidence, in human clinical trials, to support the use of topical retinol, BPO and azelaic acid. Further research with large-scale robust human clinical trials are required to go beyond ",
+      "year": "2026",
+      "journal": "Skin health and disease",
+      "authors": [
+        "Searle Tamara N",
+        "Al-Niaimi Firas",
+        "Ali Faisal R"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41923969/"
+    },
+    {
+      "pmid": "41901225",
+      "title": "Rosemary Aqueous Extract as a Natural Alternative to Retinol for Skin Aging Intervention.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Gao Ping",
+        "Zhang Hong",
+        "Gu Xuelan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41901225/"
+    },
+    {
+      "pmid": "41751788",
+      "title": "Dermal Fibroblast Senescence: The Central Hub of Skin Aging-From Intrinsic Dysfunction to Microenvironmental Remodeling.",
+      "abstract": "Skin aging commonly manifests as deepening wrinkles, loss of elasticity, and weakened barrier function, resulting from the long-term accumulation of multiple biological processes. Dermal fibroblasts, as the primary source of extracellular matrix, not only provide structural support but also play an active role in aging. On one hand, they undergo intrinsic aging due to telomere shortening, mitochondrial decline, and dysregulation of signaling pathways (e.g., TGF-β, mTOR). On the other hand, they release inflammatory cytokines and proteases via the senescence-associated secretory pattern (SASP), disrupting keratinocyte function, melanin distribution, immune surveillance, and even microvascular and adipose tissue functions. This destabilizes the matrix equilibrium and exacerbates inflammation, creating a vicious cycle. While strategies like dasatinib/quercetin, rapamycin, or retinol show promise, they remain constrained by transdermal efficiency and targeting limitations. This review aims to elucidate these mechanisms and interactions, providing insights for developing more effective anti-aging interventions.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Zheng Jinyu",
+        "Wang Sensen",
+        "Sun Jiaming",
+        "Lv Jingwei"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Fibroblasts",
+        "Cellular Senescence",
+        "Animals",
+        "Skin",
+        "Signal Transduction",
+        "Extracellular Matrix",
+        "Cellular Microenvironment"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41751788/"
+    },
+    {
+      "pmid": "41751302",
+      "title": null,
+      "abstract": null,
+      "year": "2026",
+      "journal": "Biomedicines",
+      "authors": [
+        "Ye Rui",
+        "Wang Qianqian",
+        "Du Le",
+        "Li Li",
+        "Hu Fan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41751302/"
+    }
+  ],
+  "crawled_at": "2026-05-27T22:38:52.947106",
+  "source": "pubmed"
+}

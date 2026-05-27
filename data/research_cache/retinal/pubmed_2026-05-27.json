@@ -1,0 +1,194 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42200738",
+      "title": "Report 2: Macular edema after acute retinal necrosis-A difficult crossroad in management.",
+      "abstract": "To evaluate cases of acute retinal necrosis (ARN) with macular edema (ME) and review the literature on management strategies for ME in ARN.",
+      "year": "2026",
+      "journal": "Indian journal of ophthalmology",
+      "authors": [
+        "Kene Rakshita Deepak",
+        "Priyadarshini Swati",
+        "Dutta Majumder Parthopratim",
+        "Manna Giriraj",
+        "Ahmed Arshee"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Retinal Necrosis Syndrome, Acute",
+        "Macular Edema",
+        "Retrospective Studies",
+        "Adult",
+        "Female",
+        "Middle Aged",
+        "Adolescent",
+        "Child"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42200738/"
+    },
+    {
+      "pmid": "42199968",
+      "title": "First-in-Human Clinical Evaluation of a Novel Nonsurgical Suprachoroidal Delivery Approach for Triamcinolone in Diabetic Macular Edema.",
+      "abstract": "To evaluate the safety, tolerability, and effectiveness of the Everads Injector, a novel suprachoroidal drug delivery device, for administration of triamcinolone acetonide (TA) in patients with diabetic macular edema (DME).",
+      "year": "2026",
+      "journal": "Ophthalmology science",
+      "authors": [
+        "Barak Yoreh",
+        "Rapoport Alexey",
+        "Mano-Tamir Keren",
+        "Adakhovska Anastasiia",
+        "Nguyen Quan Dong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42199968/"
+    },
+    {
+      "pmid": "42199197",
+      "title": "Novel Compound Heterozygous Variants in ",
+      "abstract": "Hypotrichosis with juvenile macular dystrophy (HJMD) is a rare autosomal recessive disorder caused by biallelic ",
+      "year": "2026",
+      "journal": "Case reports in ophthalmology",
+      "authors": [
+        "Lin Yuchen",
+        "Yu Ping",
+        "Cui Sunliang",
+        "Xiong Sijie",
+        "Zhou Yuan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42199197/"
+    },
+    {
+      "pmid": "42199036",
+      "title": "Real-world insights on switching aflibercept dosage for enhanced outcomes in age-related macular degeneration (RISE-AMD): Safety data.",
+      "abstract": "To evaluate real-world safety experience with aflibercept 8 mg in a large case series of patients with neovascular age-related macular degeneration (nAMD).",
+      "year": "2026",
+      "journal": "Acta ophthalmologica",
+      "authors": [
+        "Karunainathan Mary Graciya",
+        "Lee Celine",
+        "Zohalinejad Kaweh Daniel",
+        "Mæng Mads Odgaard",
+        "Fabrin Nanna Würtz"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42199036/"
+    },
+    {
+      "pmid": "42196870",
+      "title": "Comparative Analysis of General-Purpose vs. Domain-Specific Multimodal Models for Diabetic Retinopathy Classification.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Diagnostics (Basel, Switzerland)",
+      "authors": [
+        "Nouyed Mohammad Iqbal",
+        "Al-Mamun Mohammad",
+        "Adjeroh Donald A",
+        "Hu Gangqing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42196870/"
+    },
+    {
+      "pmid": "42196341",
+      "title": "Eyedrop Administration of DPP-4 Inhibitors: A New Strategy for Treating Early Stages of Diabetic Retinal Disease.",
+      "abstract": "This review is intended to highlight the need for non-invasive and earlier therapies for diabetic retinal disease (DRD), one of the most common complications of diabetes, with a high and increasing socioeconomic burden. Due to the growing evidence regarding the key role of neurodegeneration in the earliest stages of the disease and the underlying pathophysiological mechanisms, the relevance of evaluating the potential efficacy of neuroprotective therapies is emphasized. More specifically, the review addresses the current state of a promising neuroprotective approach based on the inhibition of the enzyme dipeptidyl peptidase-4 (DPP-4) using specific inhibitors administered via eyedrops, which allow direct retinal action on the neurovascular unit. The review discusses the main preclinical findings of a therapeutic strategy based on one DPP-4 inhibitor, sitagliptin, against early DRD in different experimental animal models and in vitro studies. In summary, sitagliptin eyedrops exhibit neuroprotective, anti-inflammatory, and antioxidant properties while reducing glial activation, hyperpermeability of the blood-retinal barrier, and the formation of acellular capillaries, leading to a functional improvement of the diabetic retina. However, as sitagliptin efficacy has only been evaluated at the preclinical level, clinical studies are needed to validate the translational applicability and long-term efficacy of topical administration not only of sitagliptin but also of other DPP-4 inhibitors for treating retinal diseases in which neurodegeneration plays a pathogenic role.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Ramos Hugo",
+        "Simó-Servat Olga",
+        "Hernández Cristina",
+        "Simó Rafael"
+      ],
+      "mesh_terms": [
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Humans",
+        "Animals",
+        "Diabetic Retinopathy",
+        "Sitagliptin Phosphate",
+        "Ophthalmic Solutions",
+        "Neuroprotective Agents",
+        "Dipeptidyl Peptidase 4"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42196341/"
+    },
+    {
+      "pmid": "42192302",
+      "title": "Systematic functional evaluation of CNGA1 missense variants associated with retinitis pigmentosa.",
+      "abstract": "Missense variants are frequently classified as variants of uncertain significance (VUS) according to the guidelines of the American College of Medical Genetics and Genomics and the Association of Molecular Pathology (ACMG/AMP). Consequently, disease relevance remains elusive, impeding molecular genetic diagnostics, patients` and family genetic counseling, and identification of patients eligible for clinical trials. Functional studies are critical for resolving the clinical significance of VUS. CNGA1 encodes the main subunit of the rod cyclic nucleotide-gated (CNG) channel, a vital component of the phototransduction cascade. Variants in CNGA1 are a rare cause of autosomal recessive retinitis pigmentosa and a phase I/II gene augmentation trial (NCT06291935) is currently ongoing highlighting the necessity to differentiate benign from pathogenic variants.",
+      "year": "2026",
+      "journal": "Molecular medicine (Cambridge, Mass.)",
+      "authors": [
+        "Reuter Peggy",
+        "Schroeder Jennifer",
+        "Sturm Marc",
+        "Quinodoz Mathieu",
+        "Vaclavik Veronika"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Retinitis Pigmentosa",
+        "Mutation, Missense",
+        "Cyclic Nucleotide-Gated Cation Channels"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42192302/"
+    },
+    {
+      "pmid": "42190229",
+      "title": "Dermatological Indicators of Systemic Autoimmune Disease: Clinical Links to Ocular Involvement.",
+      "abstract": "Systemic autoimmune diseases frequently involve both the skin and eyes, with early cutaneous manifestations often serving as visible indicators of deeper, multisystem pathology. Conditions such as systemic lupus erythematosus, dermatomyositis, sarcoidosis, and Sjögren's syndrome display characteristic skin findings, including malar rash, heliotrope eruption, lupus pernio, or xerosis, which may precede or parallel serious ocular complications, including uveitis, retinal vasculitis, conjunctival granulomas, and keratoconjunctivitis sicca. Despite this overlap, diagnostic and therapeutic strategies remain fragmented across specialties.",
+      "year": "2026",
+      "journal": "Dermatology practical & conceptual",
+      "authors": [
+        "Abbas Hana",
+        "Kothari Zarin",
+        "Multani Harleen",
+        "Sraa Kiratpreet",
+        "Imokhai Precious Ochuwa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42190229/"
+    },
+    {
+      "pmid": "42188723",
+      "title": "Utilization of Intracameral Viscoelastic Injection for the Management of Concurrent Choroidal and Retinal Detachment in a Glaucoma Patient.",
+      "abstract": "The purpose of this report is to document a technique involving anterior chamber viscoelastic injections to address a serous choroidal detachment in the setting of a concurrent rhegmatogenous retinal detachment to improve surgical conditions.",
+      "year": "2026",
+      "journal": "Retinal cases & brief reports",
+      "authors": [
+        "Rothman Rachel D",
+        "Rho Jonathan E",
+        "Blake Charles R",
+        "Hu Jonathan K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42188723/"
+    },
+    {
+      "pmid": "42181395",
+      "title": "Dual-Site Inflammation During Adalimumab Therapy: Birdshot Chorioretinopathy Complicated by Paradoxical Psoriasis.",
+      "abstract": "Birdshot chorioretinopathy is a chronic posterior uveitis that often requires systemic immunomodulatory therapy, yet biologic agents, particularly tumor necrosis factor alpha (TNF-α) inhibitors, may trigger paradoxical cutaneous inflammation and complicate multidisciplinary management. A 32-year-old man was evaluated for progressive right eye (RE) visual decline and long-standing floaters. Examination showed bilateral posterior uveitis with chorioretinitis and retinal vasculitis, more severe in the RE, with significant cystoid macular edema (CME) and leakage on fluorescein angiography (FA). Infectious and systemic causes were excluded, and human leukocyte antigen A29 (HLA-A29) was not detected. Systemic methylprednisolone induced partial anatomic improvement but was limited by recurrence during tapering and by intraocular pressure (IOP) elevation, prompting escalation with mycophenolate mofetil and later adalimumab therapy for persistent, refractory CME. After an insufficient response, an intravitreal dexamethasone implant achieved edema regression but was followed by ocular hypertension requiring sustained IOP-lowering therapy. During the same treatment course, new-onset palmoplantar pustular and scalp lesions developed, with steroid-dependent fluctuations, and histopathology showed mild spongiotic dermatitis with Langerhans cell microabscesses; the overall presentation was considered consistent with adalimumab-associated paradoxical psoriasis. Cutaneous disease showed only transient benefit from topical therapy and phototherapy, and an interleukin-17 (IL-17) inhibitor was recommended but declined by the patient. This case illustrates how anti-TNF-α therapy may be insufficient for ocular inflammatory control while precipitating paradoxical psoriasis. Optimal outcomes rely on coordinated ophthalmology-dermatovenereology care when ocular disease activity and treatment-emergent skin complications evolve in parallel.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Naumkinaite Diana",
+        "Virpsaite Melita",
+        "Radaviciute Ieva",
+        "Raudonis Tadas",
+        "Cimbalas Andrius"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42181395/"
+    }
+  ],
+  "crawled_at": "2026-05-27T22:38:50.569035",
+  "source": "pubmed"
+}
