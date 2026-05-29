@@ -1,0 +1,223 @@
+{
+  "ingredient_id": "ceramide",
+  "name_en": "Ceramide",
+  "name_kr": "세라마이드",
+  "category": "barrier",
+  "query": "\"Ceramide\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42194103",
+      "title": "Konjac Ceramide Induces Semaphorin 3A Expression via the MAPK/AP-1 Signaling Axis and RORα in Normal Human Epidermal Keratinocytes.",
+      "abstract": "Epidermal hyperinnervation is a major cause of intractable itch in barrier dysfunction conditions such as atopic dermatitis. Keratinocyte-derived semaphorin 3A (Sema3A) suppresses epidermal hyperinnervation, but its expression is markedly reduced in barrier-disrupted skin. Although konjac ceramide (kCer) has been reported to act as a Sema3A-like ligand, the mechanisms by which it regulates Sema3A expression in keratinocytes remain unclear. Normal human epidermal keratinocytes (NHEKs) were treated with kCer, konjac glucosylceramide (kGlcCer), or C24 ceramide. Sema3A mRNA and protein levels were assessed by quantitative real-time PCR and enzyme-linked immunosorbent assay, respectively. The involvement of intracellular signaling was examined using mitogen-activated protein kinase (MAPK) inhibitors, activator protein-1 (AP-1) inhibitors, retinoic acid-related orphan receptor alpha (RORα) inverse agonists, and siRNAs targeting c-Jun, c-Fos, and RORα. kCer induced Sema3A expression in NHEKs more potently than kGlcCer or C24 ceramide and promoted Sema3A protein secretion. Pharmacological inhibition or genetic knockdown of MEK1/2, JNK, AP-1 components, or RORα significantly attenuated kCer-induced ",
+      "year": "2026",
+      "journal": "Biomolecules",
+      "authors": [
+        "Fujita Mirei",
+        "Kamata Yayoi",
+        "Tanemoto Nanami",
+        "Takahashi Nobuaki",
+        "Tominaga Mitsutoshi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Keratinocytes",
+        "Semaphorin-3A",
+        "Transcription Factor AP-1",
+        "Signal Transduction",
+        "Epidermis",
+        "Glucosylceramides",
+        "MAP Kinase Signaling System",
+        "Cells, Cultured",
+        "Ceramides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42194103/"
+    },
+    {
+      "pmid": "42112863",
+      "title": "Differential equilibration in cis- and trans-ceramide monolayers: A molecular dynamics study.",
+      "abstract": "Ceramides are N-acyl sphingosine derivatives with important functions in cell signaling and skin impermeability. Virtually all unsaturated sphingosines found in nature contain a 4-5 trans double bond. The trans configuration is essential for most ceramide functions. Several laboratories, including our own, have tried to understand the reasons for that configurational specificity. We found that, unlike the trans-isomer, cis-palmitoyl ceramide exhibited a kinetically restricted solid-solid phase transition with unusually large changes of molecular area under isothermal compression and marked hysteresis. We present a computational study of the equilibration properties of monolayers consisting of either cis- or trans-ceramides, using molecular dynamics. A reverse-pathway ordered-start atomistic simulation protocol has been developed, starting simulations from low-energy ordered states with hexagonal tail packing and favorable intermolecular amide group interactions, rather than from disordered states. This allowed for much shorter computational times than the conventional approach. This approach was complemented with virtual compression and expansion processes through sequential rescaling of atomic positions along the surface, followed by energy minimization and molecular dynamics runs. Large-scale atomistic simulations were performed on systems with 3456 lipids (72 × 48 arrays) hydrated with a 40 Å-thick water slab. The main conclusions are that trans-ceramide monolayers adopt an ordered conformation more easily (i.e., within a shorter range of mean areas per lipid) than their cis-counterparts and that the water interactions of the polar heads differ according to the isomer, with cis-ceramides being unable to form an intramolecular H-bond between the two OH groups and being oriented less deeply into water.",
+      "year": "2026",
+      "journal": "The Journal of chemical physics",
+      "authors": [
+        "Saiz Leonor",
+        "Vilar Jose M G",
+        "Goñi Félix M",
+        "Alonso Alicia"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112863/"
+    },
+    {
+      "pmid": "42046609",
+      "title": "Holistic Skincare Approach of Cleanse-Treat-Moisturize-Protect (CTMP®) in Atopic Dermatitis Management: Indian Perspectives, Evidence, and Future Directions.",
+      "abstract": "Atopic dermatitis (AD) is a chronic, relapsing inflammatory dermatosis characterized by epidermal barrier dysfunction, immune dysregulation, and significant impairment in quality of life, particularly among pediatric populations. Although topical anti-inflammatory therapies remain central to acute flare control, growing evidence supports barrier-directed skincare as a fundamental component of long-term disease management. This narrative review synthesizes current evidence on cleansing, moisturization, photoprotection, and preventive strategies in AD, with specific consideration of pediatric care and real-world challenges within the Indian healthcare context. Clinical studies consistently demonstrate that regular emollient use enhances skin hydration, accelerates barrier recovery, alleviates symptom burden, and improves quality of life, with additive benefits when combined with topical corticosteroids. National guidance further emphasizes age-appropriate bathing practices, including delayed bathing in low-birth-weight infants and gentle cleansing followed by prompt emollient application. Despite these recommendations, Indian surveys reveal persistent gaps in caregiver awareness, delayed diagnosis, intermittent moisturizer use, and suboptimal adherence driven by cost constraints, loss to follow-up, and preference for alternative therapies. While emerging modalities, including biomimetic formulations, digital health platforms, and personalized skincare, offer potential future directions, current evidence remains largely exploratory, with limited data on cost-effectiveness and real-world implementation. Overall, barrier-focused skincare represents an important adjunct to pharmacologic therapy in AD; however, effective integration into Indian clinical practice will require strengthened caregiver education, context-specific guidance, and system-level strategies addressing accessibility and adherence, supported by future pragmatic trials and epidemiological studies to enable scalable, evidence-based care.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Choudhary Sanjay",
+        "Sadana Dinkar",
+        "C Vijayabhaskar",
+        "Sen Dyotona",
+        "Iyer Soma"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42046609/"
+    },
+    {
+      "pmid": "42045479",
+      "title": "Tissue-specific fibroblast lipid cues impose the rate of epithelial cancer invasion.",
+      "abstract": "Squamous cell carcinomas (SCCs) originate in epithelial tissues of older individuals who have been exposed to environmental carcinogens. Despite overlapping clinical hallmarks, SCCs from different anatomic sites have different prognoses. Here we show that fibroblasts confer site-specific cues that determine SCC proliferation and invasion. Oral and lung fibroblasts have distinct lipid metabolism, transferring unique lipids to SCC cells that promote epithelial-to-mesenchymal transition, and oral and lung SCC invasion. Whereas oral fibroblasts transfer sphingomyelins, which activate the ceramide-sphingosine-1-phosphate-STAT3 pathway and promote oral SCC invasion, lung fibroblasts transfer triglycerides to lung SCCs, thereby triggering cholesterol synthesis and invasion, which is associated with poor survival. By contrast, dermal fibroblasts are lipid poor, and cutaneous SCC is less invasive. Our data indicate that targeting fibroblast lipid synthesis and SCC lipid uptake or breakdown inhibits oral and lung epithelial cancer invasion.",
+      "year": "2026",
+      "journal": "Nature metabolism",
+      "authors": [
+        "Budden Timothy",
+        "Palombo Noah",
+        "Gurung Shilpa",
+        "Gutteridge Martha",
+        "Russell Charlotte"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Fibroblasts",
+        "Neoplasm Invasiveness",
+        "Carcinoma, Squamous Cell",
+        "Lipid Metabolism",
+        "Epithelial-Mesenchymal Transition",
+        "Lung Neoplasms",
+        "Animals",
+        "Cell Line, Tumor",
+        "Ceramides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42045479/"
+    },
+    {
+      "pmid": "42042905",
+      "title": "LC-MS/MS Quantification and Comparative Profiling of Stratum Corneum Ceramides in Human Normal and Dry Skin Subtypes.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Metabolites",
+      "authors": [
+        "Xie Agui",
+        "Zhao Yue",
+        "Zhao Yu",
+        "Zhao Xiao",
+        "Zhu Xiaoge"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42042905/"
+    },
+    {
+      "pmid": "42039490",
+      "title": "Ketogenic diet synergistic reprogramming of both host and microbiome promotes tissue regeneration.",
+      "abstract": "Nutrition influences host physiological processes, yet how diets reshape host physiology, microbial functions, or host-microbe interactions to promote regeneration remains poorly explored. Here, we show that a ketogenic diet (KD), enriched in fats and low in carbohydrates, reprograms both skin microbial and immune functions to promote tissue repair. KD enhances IL-17A activity in γδ T cells and mucosal-associated invariant T (MAIT) cells, accelerating tissue repair, while KD-induced skin lipidomic alterations enhance both the abundance and metabolic output of ",
+      "year": "2026",
+      "journal": "bioRxiv : the preprint server for biology",
+      "authors": [
+        "Nagai Motoyoshi",
+        "Band Victor",
+        "Chi Liang",
+        "Smelkinson Margery",
+        "Schwarz Benjamin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42039490/"
+    },
+    {
+      "pmid": "42034255",
+      "title": "Choline kinase beta promotes psoriasis pathogenesis by regulating sphingolipid metabolism and activating the PI3K/Akt/GSK3β signaling pathway.",
+      "abstract": "Psoriasis is a chronic inflammatory skin disorder characterized by dysregulated lipid metabolism, yet the key molecular drivers remain unclear. This study aimed to identify and validate novel metabolic regulators in psoriasis. Using a multi-stage bioinformatics analysis of public datasets with three machine learning algorithms, Choline Kinase Beta (CHKB) was identified as a key upregulated gene strongly associated with sphingolipid metabolism. This finding was validated in clinical samples, where CHKB expression was significantly elevated in psoriatic lesions compared to healthy controls. To investigate its functional role, CHKB was knocked down in an imiquimod-induced psoriasis mouse model and a cytokine-stimulated keratinocyte model. In vivo, CHKB knockdown ameliorated disease severity, reducing epidermal hyperproliferation, inflammation, and oxidative stress. In vitro, silencing CHKB inhibited keratinocyte hyperproliferation, induced G1 cell cycle arrest, and suppressed the secretion of pro-inflammatory cytokines. Mechanistically, CHKB knockdown altered sphingolipid metabolism, increasing ceramide levels, and concurrently inhibited the activation of the pro-survival PI3K/Akt/GSK3β signaling pathway in both models. Furthermore, a rescue experiment confirmed that the pro-psoriatic effects of CHKB overexpression in keratinocytes were dependent on this metabolic pathway, as they were reversed by the sphingolipid synthesis activator 4-HPR. Collectively, these findings establish that CHKB promotes psoriasis pathogenesis by regulating sphingolipid metabolism and activating PI3K/Akt/GSK3β signaling, highlighting it as a novel therapeutic target.",
+      "year": "2026",
+      "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+      "authors": [
+        "Luo Meijunzi",
+        "Gao Jie",
+        "Jiang Maolin",
+        "Zhang Yujin",
+        "Long Di"
+      ],
+      "mesh_terms": [
+        "Psoriasis",
+        "Animals",
+        "Sphingolipids",
+        "Glycogen Synthase Kinase 3 beta",
+        "Humans",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction",
+        "Phosphatidylinositol 3-Kinases",
+        "Mice",
+        "Keratinocytes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42034255/"
+    },
+    {
+      "pmid": "41998807",
+      "title": "High Curl Pattern Hair and Scalp Care Considerations to Mitigate Seborrheic Dermatitis.",
+      "abstract": "High-curl-pattern hair has unique structural characteristics that increase its susceptibility to breakage and to seborrheic dermatitis (SD).",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Callender Valerie",
+        "Burgess Cheryl",
+        "Harvey Valerie M",
+        "Heath Candrice",
+        "Mitchell Hope"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dermatitis, Seborrheic",
+        "Hair Preparations",
+        "Hair",
+        "Scalp",
+        "Consensus",
+        "Scalp Dermatoses"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41998807/"
+    },
+    {
+      "pmid": "41966446",
+      "title": "Tape strips capture immune and epidermal hyperplasia markers in the major orphan ichthyoses.",
+      "abstract": "Prior studies in ichthyosis have demonstrated cutaneous and/or systemic immune abnormalities with barrier defects; however, the transcriptomes of the major orphan forms of ichthyosis have yet to be characterized through tape stripping, a minimally invasive sampling method validated in other inflammatory skin diseases. Skin tape strips from 27 patients with ichthyosis (9 with Netherton syndrome, 6 with congenital ichthyosiform erythroderma, 7 with lamellar ichthyosis, and 5 with epidermolytic ichthyosis) and 18 demographically matched healthy controls were analyzed with RNA sequencing. Differential expression was defined as fold change >2 and false discovery rate <0.05. All subtypes shared significant T helper (Th)17/Th22 upregulation (eg, S100A7/8/9, PI3, CCL20), and Th2 products (eg, TNFRSF4, IL13, CCR4) were particularly increased in Netherton syndrome. Tape strips additionally captured common increases in Th1 (IL1B, OASL) and IL4R upregulation in Netherton syndrome, lamellar ichthyosis, and epidermolytic ichthyosis. Although modulation of lipid markers was variable across subtypes, several epidermal differentiation complex/cornified envelope genes were increased in all or most subtypes. Disease-severity metrics were moderately correlated with increases in ceramide synthase CERS3 and Th17/Th22 and late cornified envelope markers. Changes in immune and epidermal differentiation complex/cornified envelope tape-strip markers correlated significantly and positively with those measured in biopsies. Our findings highlight tape stripping as a minimally invasive approach to profiling ichthyosis, which could provide future pathogenic and therapeutic insights.",
+      "year": "2026",
+      "journal": "The Journal of investigative dermatology",
+      "authors": [
+        "Kim Madeline",
+        "Manson Meredith",
+        "Liu Ying",
+        "Rangel Stephanie",
+        "Kaplan Nihal"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41966446/"
+    },
+    {
+      "pmid": "41961698",
+      "title": "Plasma lipidome mediates the causal effect of chronic hepatitis B on cirrhosis: A Mendelian randomization study.",
+      "abstract": "This study aimed to investigate the role of the plasma lipid species in the progression from chronic hepatitis B (CHB) infection to cirrhosis. We conducted 2-sample Mendelian randomization (MR) and genome-wide mediation analyses to explore the causal relationship between CHB and cirrhosis, focusing on lipid species as potential mediators. The inverse variance weighted method was used as the primary analytical approach, supported by complementary estimators. Sensitivity analyses - including Cochran's Q test, MR-Egger intercept test, of Mendelian randomization pleiotropy residual sum and outlier global test, and leave-one-out analysis - were performed to assess robustness, heterogeneity, and horizontal pleiotropy. We found a significant positive association between CHB and cirrhosis (odds ratio = 1.206; 95% CI: 1.080 to 1.346; P = .001). Among 179 common lipid species analyzed, genetic predispositions for 29 were significantly associated with CHB and 4 with cirrhosis. Mediation analysis identified 2 lipid species - ceramide (d40:2) and phosphatidylcholine (18:2_20:4) - as potential mediators in the causal pathway from CHB to cirrhosis. Ceramide (d40:2) mediated 11.65% of the effect (mediation effect: 0.022; 95% CI: 0.002 to 0.049; P = .037), while phosphatidylcholine (18:2_20:4) mediated 6.62% (mediation effect: 0.012; 95% CI: -0.0003 to 0.030; P = .072). Overall, this study provides genetic evidence supporting the causal role of CHB in the development of cirrhosis and highlights ceramide (d40:2) and phosphatidylcholine (18:2_20:4) as key mediators in this process.",
+      "year": "2026",
+      "journal": "Medicine",
+      "authors": [
+        "Xiao Biao",
+        "Song Qixiang",
+        "Wang Zhenggang",
+        "Huang Jie",
+        "Liu Ying"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Mendelian Randomization Analysis",
+        "Hepatitis B, Chronic",
+        "Liver Cirrhosis",
+        "Genetic Predisposition to Disease",
+        "Ceramides",
+        "Genome-Wide Association Study",
+        "Lipids",
+        "Phosphatidylcholines",
+        "Lipidomics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41961698/"
+    }
+  ],
+  "crawled_at": "2026-05-29T22:37:18.902827",
+  "source": "pubmed"
+}
