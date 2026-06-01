@@ -1,0 +1,126 @@
+{
+  "ingredient_id": "allantoin",
+  "name_kr": "알란토인",
+  "name_en": "Allantoin",
+  "query": "(\"Allantoin\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 5,
+  "recent_complete_count": 5,
+  "trials": [
+    {
+      "nct_id": "NCT07482813",
+      "title": "An Open Label Extension Safety Study to Evaluate SD-101 in Epidermolysis Bullosa",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Epidermolysis Bullosa (EB)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SD-101 Dermal Cream (6%)"
+        }
+      ],
+      "sponsor": "Paradigm Therapeutics",
+      "primary_completion": "2027-07-19",
+      "url": "https://clinicaltrials.gov/study/NCT07482813"
+    },
+    {
+      "nct_id": "NCT07587684",
+      "title": "A Study of IN026 in Participants With Refractory Gout",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Refractory Gout"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "IN026 Injection"
+        }
+      ],
+      "sponsor": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+      "primary_completion": "2027-08",
+      "url": "https://clinicaltrials.gov/study/NCT07587684"
+    },
+    {
+      "nct_id": "NCT07482787",
+      "title": "Efficacy and Safety Study to Evaluate SD-101 in Epidermolysis Bullosa",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Epidermolysis Bullosa (EB)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SD-101 Dermal Cream (6%)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vehicle (SD-101 0%)"
+        }
+      ],
+      "sponsor": "Paradigm Therapeutics",
+      "primary_completion": "2027-05-17",
+      "url": "https://clinicaltrials.gov/study/NCT07482787"
+    },
+    {
+      "nct_id": "NCT05589402",
+      "title": "Temporary Inactivation of Strong Muscle Sensation to Improve Rehabilitation Interventions in SCI",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Spinal Cord Injuries",
+        "Spine Disease",
+        "Stroke"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lidocaine Cream 5%"
+        },
+        {
+          "type": "OTHER",
+          "name": "Rehabilitation Movement Training"
+        }
+      ],
+      "sponsor": "University of Texas Rio Grande Valley",
+      "primary_completion": "2026-06-04",
+      "url": "https://clinicaltrials.gov/study/NCT05589402"
+    },
+    {
+      "nct_id": "NCT07429812",
+      "title": "Assessment of Topical Application of Chitosan 0.2% Chlorhexidine Gel on Wound Healing in Diabetic Patients",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Extraction Socket Healing"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Surgical extraction of the offending tooth will be performed under local anesthesia using inferior alveolar nerve block technique with buccal mucosa infiltration, make an incision on the gingival tis"
+        }
+      ],
+      "sponsor": "Tanta University",
+      "primary_completion": "2026-02-10",
+      "url": "https://clinicaltrials.gov/study/NCT07429812"
+    }
+  ],
+  "fetched_at": "2026-06-01T23:14:15.129981"
+}

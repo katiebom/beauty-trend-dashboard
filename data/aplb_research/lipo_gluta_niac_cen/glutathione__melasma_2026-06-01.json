@@ -1,0 +1,329 @@
+{
+  "ingredient_a": "glutathione",
+  "ingredient_b": "melasma",
+  "query": "(\"glutathione\"[Title/Abstract] AND \"melasma\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "41908499",
+      "title": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
+      "abstract": "Melasma is a chronic hyperpigmentation disorder with pathogenesis linked to hormonal mediation, ultraviolet and heat exposure, and genetic predisposition. Five-alpha reductase inhibitors (5-ARIs), including finasteride and dutasteride, are widely prescribed for treatment of benign prostatic hyperplasia (BPH) and off-label for androgen-mediated dermatologic conditions, yet pigmentary adverse effects are rarely reported. To date, only one case documenting melasma following 5-ARI use has been published. We report two additional cases of finasteride-induced melasma.",
+      "year": "2026",
+      "journal": "Case reports in dermatology",
+      "authors": [
+        "Elhaj Hiba",
+        "Orrell Kelsey A",
+        "Beach Renée A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41908499/"
+    },
+    {
+      "pmid": "40926406",
+      "title": "A Core-Shell Structured Microneedle Patch With Adjustable Release of Kinetically for the Treatment of Melasma.",
+      "abstract": "Melasma is a facial hyperpigmentation disease that significantly impacts patients' quality of life. Clinical treatment is limited by the short half-lives and hydrophilicity of drugs, necessitating release curve optimization to maintain a stable therapeutic concentration for an extended period. This article utilizes natural biomaterials to design a core-shell structured microneedle, combining the \"immediate release\" and \"delayed release\" module to achieve programmed drug release. Silk fibroin with a crystalline structure is used as the shell to ensure the harmlessness of the accessible areas, which can provide a release channel for 24 h. The cellulose in the core layer undergoes acetylation treatment, endowing it with the ability to regulate the diffusion flux of hydrophilic drugs. Further, the release kinetics can be tuned based on the crystallinity of the shell layer and the degree of acetylation in the core layer. In the melasma model, glutathione and tranexamic acid play a major role at 0-4 h and 4-24 h, respectively, with bioavailability increased to 264% and 172%. The synergistic effect reduces the generation and transfer of melanin, and restores skin color to near normal. Therefore, this core-shell structure microneedle patch is expected to promote the long-term clinical treatment of melasma.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Jia Tianshuo",
+        "Geng Yiyu",
+        "Shao Huiyan",
+        "Chen Yanai",
+        "Tan Guohongfang"
+      ],
+      "mesh_terms": [
+        "Melanosis",
+        "Needles",
+        "Animals",
+        "Fibroins",
+        "Humans",
+        "Kinetics",
+        "Melanins",
+        "Drug Liberation",
+        "Transdermal Patch"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40926406/"
+    },
+    {
+      "pmid": "40835769",
+      "title": "Nerve Block-Assisted Intradermal Injection of Tranexamic Acid, Vitamin C, and Glutathione for Melasma: A Split-Face Comparative Study.",
+      "abstract": "Melasma is a common acquired pigmentary disorder characterized by symmetrical hyperpigmented macules. However, combination therapy using tranexamic acid (TXA), vitamin C, and glutathione under nerve block remains inadequate.",
+      "year": "2025",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Zhou Hongru",
+        "Yao Yu",
+        "Zhou Yuejie",
+        "Hu Jintian",
+        "Jang Liya"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tranexamic Acid",
+        "Female",
+        "Melanosis",
+        "Ascorbic Acid",
+        "Adult",
+        "Injections, Intradermal",
+        "Prospective Studies",
+        "Treatment Outcome",
+        "Glutathione"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40835769/"
+    },
+    {
+      "pmid": "40487500",
+      "title": "Role of Antioxidants in Melasma: A Systematic Review.",
+      "abstract": "Melasma is a common skin disorder characterized by facial hyperpigmentation, often aggravated by sun exposure. Antioxidants are being studied as a treatment option for their potential to reduce oxidative stress and improve skin pigmentation. A comprehensive literature search was conducted in PubMed for articles published over the past decade, up to January 31, 2024, on the use of antioxidants in melasma treatment. The systematic review, conducted by two independent investigators, included 30 studies on antioxidants in melasma, covering vitamin C, cysteamine, silymarin, PLE, tomato extract/lycopene, zinc sulfate, melatonin, and other antioxidants. Findings indicated that combining vitamin C with physical therapies, such as peels and lasers, yielded better results. Cysteamine, a naturally occurring aminothiol, showed efficacy comparable to hydroquinone with fewer side effects. Silymarin was effective in reducing melasma severity with minimal adverse effects. PLE showed mixed results but potential as an effective antioxidant when combined with other treatments. Lycopene from tomato extract demonstrated significant improvements in melasma when used as an adjuvant therapy. Zinc sulfate showed some effectiveness but was less potent than hydroquinone. Melatonin had antioxidant capabilities but showed no statistically significant improvement. Glutathione is emerging as a new antioxidant therapy showing efficacy in melasma in combination with other topicals and microneedling. Other antioxidants, including combinations of vitamins C, E, and ferulic acid, showed potential as adjuncts in melasma treatment. These findings highlight the diverse efficacy of antioxidants in managing melasma, suggesting their potential as safe and effective treatments.",
+      "year": "2025",
+      "journal": "Indian journal of dermatology",
+      "authors": [
+        "Sarkar Rashmi",
+        "Sahu Anjali"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40487500/"
+    },
+    {
+      "pmid": "40162352",
+      "title": "Assessment of Systemic Oxidative Stress Modulation in Melasma Following Treatment with Yellow Light Laser 577 nm and Topical 0.3% 4N Butyl Resorcinol: A Comparative Prospective Study.",
+      "abstract": "Melasma is an acquired hyperpigmentation disorder of the skin. Recent studies suggest that oxidative stress may contribute to the pathogenesis of melasma. Upregulated levels of circulatory antioxidants in blood serum and vascular endothelial growth factors in melasma lesions have been observed. The prospective study was conducted to compare the effect of the treatment of melasma with and without the use of a 577 nm vascular laser on levels of enzymatic antioxidants.",
+      "year": "2025",
+      "journal": "Indian journal of dermatology",
+      "authors": [
+        "Khurana Neelam",
+        "Mehdi Mohammad M",
+        "Sawhney Mohinder P S",
+        "Bansal Sanjiv K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40162352/"
+    },
+    {
+      "pmid": "39444151",
+      "title": "Glutathione as a skin-lightening agent and in melasma: a systematic review.",
+      "abstract": "Hyperpigmentary disorders, including melasma, are challenging to treat. Glutathione has anti-melanogenic and antioxidant properties, which led to its use as a skin-lightening agent. Our objective was to review the published evidence and literature on the efficacy and safety of glutathione as a skin-lightening agent and in the treatment of melasma. A literature search was done in the PubMed, Embase, and Cochrane library databases using the search terms \"glutathione as a skin-lightening agent\" and \"glutathione in melasma\" for the past 10 years. The level of evidence, strength of recommendation, and risk of bias assessment were evaluated. Among various forms of topical glutathione, glutathione 0.5% was significantly more effective compared to glutathione 0.1% and placebo. For glutathione alone versus glutathione plus microneedling, more improvement was seen. Five randomized controlled trials and a single open-arm clinical study on oral glutathione at doses of 250 mg once a day, 250 mg twice a day, and 500 mg once a day showed a significant reduction in the melanin index compared to placebo. The combination of topical 2% glutathione plus oral glutathione was superior to monotherapy alone. There was only one placebo-controlled study on intravenous (IV) glutathione [6/16 (37.5%) vs. 3 (18.7%), (p0.054)]. The risk of bias assessment showed that almost an equal number of studies have low and high risk of bias. Topical versus oral glutathione both provide moderately efficacious skin-lightening outcomes that are localized versus generalized and have minimal versus substantial adverse effects, but they are unsustainable, with variable costs. IV glutathione is contraindicated due to lack of efficacy and side effects. It may work more as an antioxidant in melasma.",
+      "year": "2025",
+      "journal": "International journal of dermatology",
+      "authors": [
+        "Sarkar Rashmi",
+        "Yadav Vidya",
+        "Yadav Twinkle",
+        "P Janaani",
+        "Mandal Irena"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glutathione",
+        "Melanosis",
+        "Skin Lightening Preparations",
+        "Treatment Outcome",
+        "Administration, Cutaneous",
+        "Antioxidants",
+        "Randomized Controlled Trials as Topic",
+        "Administration, Oral",
+        "Skin Pigmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39444151/"
+    },
+    {
+      "pmid": "38632698",
+      "title": "Combination therapy of glutathione and resveratrol: a promising approach in the management of melasma.",
+      "abstract": "",
+      "year": "2024",
+      "journal": "International journal of dermatology",
+      "authors": [
+        "Demirbaş Abdullah",
+        "Ulutaş Gözde"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Resveratrol",
+        "Melanosis",
+        "Glutathione",
+        "Drug Therapy, Combination",
+        "Female",
+        "Antioxidants",
+        "Adult",
+        "Stilbenes",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38632698/"
+    },
+    {
+      "pmid": "38275092",
+      "title": "Markers of Oxidative Stress and Tyrosinase Activity in Melasma Patients: A Biochemical Investigation.",
+      "abstract": "Melasma is a skin hyperpigmentary disorder that develops over time. Genetic factors, oxidative stress, female sex hormones, and UV light may all play a role in the disorder's progression.",
+      "year": "2024",
+      "journal": "Current protein & peptide science",
+      "authors": [
+        "Katiyar Shweta",
+        "Yadav Dhananjay",
+        "Singh Sanjeev K"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Monophenol Monooxygenase",
+        "Case-Control Studies",
+        "Oxidative Stress",
+        "Antioxidants",
+        "Glutathione",
+        "Superoxide Dismutase",
+        "Glutathione Peroxidase",
+        "Melanosis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38275092/"
+    },
+    {
+      "pmid": "38234264",
+      "title": "Boldine: a narrative review of the bioactive compound with versatile biological and pharmacological potential.",
+      "abstract": "Boldine is a plant-derived bioactive compound that has a beneficial impact on human health. Boldine is an aporphine alkaloid mainly obtained from the leaves and bark of the Chilean Boldo tree (",
+      "year": "2024",
+      "journal": "Journal of complementary & integrative medicine",
+      "authors": [
+        "Lamba Deepak",
+        "Dwivedi Durgesh Kumar",
+        "Yadav Monu",
+        "Kumar Yr Sanjaya"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38234264/"
+    },
+    {
+      "pmid": "37461812",
+      "title": "Evaluation of systemic oxidative stress in patients with melasma.",
+      "abstract": "The significance of oxidative stress has been assessed and proven in the etiopathogenesis of many cutaneous disorders, but there are few studies that evaluated the role of only some factors involved in oxidative stress in patients with melasma.",
+      "year": "2024",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Rahimi Hoda",
+        "Mirnezami Mina",
+        "Yazdabadi Anousha",
+        "Hajihashemi Aazam"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Oxidative Stress",
+        "Superoxide Dismutase",
+        "Catalase",
+        "Vitamin E",
+        "Vitamins",
+        "Malondialdehyde",
+        "Ascorbic Acid",
+        "Melanosis",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37461812/"
+    },
+    {
+      "pmid": "37313658",
+      "title": "Microneedling with glutathione versus microneedling alone in treatment of facial melasma: Split-face comparative study.",
+      "abstract": "Melasma is a distressing disfiguring acquired pigmentary disorder especially affecting females and it is of high tendency of recurrence. Up till now, treatment of melasma is a challenging problem.",
+      "year": "2023",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Mohamed Marwa",
+        "Beshay Yostena Mahrous Aziz",
+        "Assaf Hanan Metwally"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Melanosis",
+        "Chemexfoliation",
+        "Glutathione",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37313658/"
+    },
+    {
+      "pmid": "34846788",
+      "title": "Safety and efficacy of mesotherapy in the treatment of melasma: A review article.",
+      "abstract": "Mesotherapy is a popular novel therapeutic modality that is defined as intradermal or subcutaneous microinjection of pharmaceutical compounds. Although this novel treatment method is used commonly in aesthetic dermatology, there is little information about details of injections, efficacy, and side effects of mesotherapy in melasma.",
+      "year": "2022",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Khalili Maryam",
+        "Amiri Rezvan",
+        "Iranmanesh Behzad",
+        "Zartab Hamed",
+        "Aflatoonian Mahin"
+      ],
+      "mesh_terms": [
+        "Ascorbic Acid",
+        "Chemexfoliation",
+        "Humans",
+        "Melanosis",
+        "Mesotherapy",
+        "Tranexamic Acid",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34846788/"
+    },
+    {
+      "pmid": "34541912",
+      "title": "A Review of Oral Therapies for the Treatment of Skin Hyperpigmentation.",
+      "abstract": "This review article examines evidence supporting the use of oral therapies in treating idiopathic, actinic, and metabolically induced skin hyperpigmentation. A thorough review of the literature regarding oral treatments for hyperpigmentation was systematically conducted through PubMed. Keywords used in the primary search include \"Hyperpigmentation,\" \"Melanosis\" or \"Melasma,\" \"Lightening,\" \"Oral,\" and \"Therapeutics.\" The search was limited to the English language, and no timeframe restrictions were implemented. Numerous orally administered therapies have been proposed for the treatment of skin hyperpigmentation. There is an abundant body of literature demonstrating the efficacy of orally administered tranexamic acid, glutathione, isotretinoin, and proanthocyanidin. It is reasonable to expect that the most effective oral therapies will address known underlying causes of hyperpigmentation such as thyroid disease, diabetes, and hormonal imbalance. Improvement due to oral therapy of otherwise unresponsive skin hyperpigmentation or hyperpigmentation of unknown cause is less predictable. This review is limited by the strength of evidence contained within the available studies. Clinical studies investigating the treatments discussed within this article are limited in number, at times lack blinding in the study design, and are based on small sample sizes. Based on existing research, the most promising oral remedies for hyperpigmentation appear to be tranexamic acid, glutathione, isotretinoin, and proanthocyanidin. Additional studies to better establish safety and efficacy are necessary.",
+      "year": "2022",
+      "journal": "Journal of cutaneous medicine and surgery",
+      "authors": [
+        "Shimshak Serena J E",
+        "Tolaymat Leila M",
+        "Haga Claire B",
+        "Dawson Nancy L",
+        "Gillis Mindy S"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Administration, Oral",
+        "Humans",
+        "Hyperpigmentation",
+        "Melanosis",
+        "Tranexamic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34541912/"
+    },
+    {
+      "pmid": "32845595",
+      "title": "The Therapeutic Use of Antioxidants for Melasma.",
+      "abstract": "Melasma is a chronic dermatologic condition with an incompletely understood pathogenesis and well-demonstrated impact on patient quality of life. Melasma is a common cause for seeking dermatologic care, and with no universally efficacious therapy or cure, com-bination treatment is the best approach for many cases. Numerous studies have demonstrated the role of oxidative stress in patients with melasma, prompting investigation into several antioxidants for melasma therapy. In this review, we discuss the well-defined role of oxidative stress in melasma and the therapeutic efficacy of various antioxidants for patients suffering from melasma. We focus our discussion on studies investigating the role of vitamin C, azelaic acid, cysteamine, glutathione, carotenoids, and numerous other antioxidants in disorders of hyperpigmentation. There is promising evidence for the use of these antioxidants, as topical, oral, and intra-venous preparations, both in isolation and in conjunction with other melasma therapies. J Drugs Dermatol. 2020;19(8):788-792. doi:10.36849/JDD.2020.5079.",
+      "year": "2020",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Babbush Kayla M",
+        "Babbush Remy A",
+        "Khachemoune Amor"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Administration, Intravenous",
+        "Administration, Oral",
+        "Antioxidants",
+        "Clinical Trials as Topic",
+        "Dermatologic Agents",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Melanosis",
+        "Oxidative Stress"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32845595/"
+    },
+    {
+      "pmid": "32765038",
+      "title": "Correlation Between Glutathione Plasma with Degree Severity of Melasma in Balinese Women.",
+      "abstract": "Melasma is a condition of hyperpigmentation of the facial skin that increases in prevalence with ageing. The alleged involvement of reactive oxygen species and antioxidants is the basis of the pathology of melasma. Glutathione is one of the non-enzymatic antioxidants produced by the body and plays a role in melanogenesis. The purpose of this study was to examine serum glutathione levels on the severity of melasma.",
+      "year": "2020",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Wiraguna Anak Agung Gde Putra",
+        "Hari Embun Dini",
+        "Praharsini I Gusti Ayu Agung"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32765038/"
+    }
+  ],
+  "crawled_at": "2026-06-01T23:14:20.091564"
+}

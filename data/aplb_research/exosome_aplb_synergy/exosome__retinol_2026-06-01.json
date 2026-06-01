@@ -1,0 +1,62 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "retinol",
+  "query": "(\"exosome\"[Title/Abstract] AND \"retinol\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 2,
+  "articles": [
+    {
+      "pmid": "41735774",
+      "title": "A Single-Center, Open-Label Study to Evaluate the Efficacy and Tolerability of Retinal Encapsulated in a Novel Biomimetic Exosome in the Treatment of Mild-To-Moderate Facial Photodamage.",
+      "abstract": "Numerous retinoid-based skincare products are available over-the-counter for photodamaged and photoaged skin, but are associated with objective (e.g., erythema, dryness, flaking, edema) and subjective (e.g., itching, tingling, stinging, burning) tolerability issues. A novel retinal formulation was developed using an engineered biomimetic vegan exosome as a delivery system. The formulation also contains proprietary and potent hyaluronic acid, as well as plant-based actives commonly used in traditional herbal medicines for their anti-inflammatory and antioxidant properties.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Gold Michael H",
+        "Enright Kaitlyn M",
+        "Ablon Glynis",
+        "Barbarino Sheila",
+        "Chilukuri Suneel"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Skin Aging",
+        "Middle Aged",
+        "Adult",
+        "Aged",
+        "Treatment Outcome",
+        "Exosomes",
+        "Face",
+        "Retinaldehyde"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41735774/"
+    },
+    {
+      "pmid": "33501609",
+      "title": "Screening and identification of potential biomarkers and therapeutic drugs in melanoma via integrated bioinformatics analysis.",
+      "abstract": "Melanoma is a highly aggressive malignant skin tumor with a high rate of metastasis and mortality. In this study, a comprehensive bioinformatics analysis was used to clarify the hub genes and potential drugs. Download the GSE3189, GSE22301, and GSE35388 microarray datasets from the Gene Expression Omnibus (GEO), which contains a total of 33 normal samples and 67 melanoma samples. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) approach analyze DEGs based on the DAVID. Use STRING to construct protein-protein interaction network, and use MCODE and cytoHubba plug-ins in Cytoscape to perform module analysis and identified hub genes. Use Gene Expression Profile Interactive Analysis (GEPIA) to assess the prognosis of genes in tumors. Finally, use the Drug-Gene Interaction Database (DGIdb) to screen targeted drugs related to hub genes. A total of 140 overlapping DEGs were identified from the three microarray datasets, including 59 up-regulated DEGs and 81 down-regulated DEGs. GO enrichment analysis showed that these DEGs are mainly involved in the biological process such as positive regulation of gene expression, positive regulation of cell proliferation, positive regulation of MAP kinase activity, cell migration, and negative regulation of the apoptotic process. The cellular components are concentrated in the membrane, dendritic spine, the perinuclear region of cytoplasm, extracellular exosome, and membrane raft. Molecular functions include protein homodimerization activity, calmodulin-binding, transcription factor binding, protein binding, and cytoskeletal protein binding. KEGG pathway analysis shows that these DEGs are mainly related to protein digestion and absorption, PPAR signaling pathway, signaling pathways regulating stem cells' pluripotency, and Retinol metabolism. The 23 most closely related DEGs were identified from the PPI network and combined with the GEPIA prognostic analysis, CDH3, ESRP1, FGF2, GBP2, KCNN4, KIT, SEMA4D, and ZEB1 were selected as hub genes, which are considered to be associated with poor prognosis of melanoma closely related. Besides, ten related drugs that may have therapeutic effects on melanoma were also screened. These newly discovered genes and drugs provide new ideas for further research on melanoma.",
+      "year": "2021",
+      "journal": "Investigational new drugs",
+      "authors": [
+        "Chen Bo",
+        "Sun Donghong",
+        "Qin Xiuni",
+        "Gao Xing-Hua"
+      ],
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Biomarkers, Tumor",
+        "Computational Biology",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Neoplastic",
+        "Gene Ontology",
+        "Humans",
+        "Melanoma",
+        "Microarray Analysis",
+        "Prognosis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33501609/"
+    }
+  ],
+  "crawled_at": "2026-06-01T23:14:36.540629"
+}

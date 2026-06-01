@@ -1,0 +1,8 @@
+{
+  "ingredient_a": "niacinamide",
+  "ingredient_b": "centella",
+  "query": "(\"niacinamide\"[Title/Abstract] AND \"centella\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 0,
+  "articles": [],
+  "crawled_at": "2026-06-01T23:14:18.508817"
+}

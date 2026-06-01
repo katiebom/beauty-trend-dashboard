@@ -1,0 +1,187 @@
+{
+  "ingredient_id": "resveratrol",
+  "name_kr": "레스베라트롤",
+  "name_en": "Resveratrol",
+  "query": "(\"Resveratrol\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 6,
+  "recent_complete_count": 6,
+  "trials": [
+    {
+      "nct_id": "NCT07089381",
+      "title": "Efficacy and Safety of Resveratrol in Patients With Rheumatoid Arthritis.",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rheumatic Arthritis",
+        "Rheumatoid Arthritis (RA) Prevention",
+        "Inflamation",
+        "Antioxidant",
+        "Anti Oxidative Stress",
+        "Anti Aging",
+        "C Reactive Protein",
+        "Methotrexate",
+        "Quality of Life Outcomes"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Resveratrol 1 gm."
+        },
+        {
+          "type": "DRUG",
+          "name": "Methotrexate"
+        }
+      ],
+      "sponsor": "Ain Shams University",
+      "primary_completion": "2026-02-01",
+      "url": "https://clinicaltrials.gov/study/NCT07089381"
+    },
+    {
+      "nct_id": "NCT05377242",
+      "title": "Curcumin, Resveratrol, and Stinging Nettle as Treatments for GWI",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gulf War Illness"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Curcumin"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Resveratrol"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Stinging Nettle"
+        }
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT05377242"
+    },
+    {
+      "nct_id": "NCT07393802",
+      "title": "Evaluation of the Anti-Plaque Effect of a Resveratrol-Based Mouthwash Using a 24-Hour Plaque Re-Growth",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Mouthwash",
+        "Chlorhexidine",
+        "Biofilm Formation",
+        "Periodontal Health"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Resveratrol-Based Mouthwash"
+        },
+        {
+          "type": "DRUG",
+          "name": "Chlorhexidine Gluconate 0.12 % Mouthwash"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo mouthwash"
+        }
+      ],
+      "sponsor": "University of Baghdad",
+      "primary_completion": "2026-04",
+      "url": "https://clinicaltrials.gov/study/NCT07393802"
+    },
+    {
+      "nct_id": "NCT07060157",
+      "title": "Comparative Efficacy of Resveratrol 1 % Gel and Trichloroacetic Acid 20% in Treatment of Melasma: A Split-face Study",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "resveratrol 1 % gel"
+        },
+        {
+          "type": "DRUG",
+          "name": "TCA20%"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2026-08-08",
+      "url": "https://clinicaltrials.gov/study/NCT07060157"
+    },
+    {
+      "nct_id": "NCT06723119",
+      "title": "Effect of Resveratrol Supplementation on Exercise Performance and Recovery",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Effect of Resveratrol on Performance and Recovery"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Resveratrol (VRES) 500 mg oral once daily."
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo 500 mg oral once daily."
+        }
+      ],
+      "sponsor": "University of Central Florida",
+      "primary_completion": "2025-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT06723119"
+    },
+    {
+      "nct_id": "NCT07100613",
+      "title": "Mucoadhesive Modified-Release Formulations for the Topical Treatment of Symptomatic Oral Lichen Planus",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Oral Lichen Planus",
+        "Oral Lichen Planus Related Stress",
+        "Oral Mucosal Disease",
+        "Oral Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Clobetasol Patch"
+        },
+        {
+          "type": "DRUG",
+          "name": "Clobetasol + Resveratrol Patch"
+        },
+        {
+          "type": "DRUG",
+          "name": "Clobetasol in Orabase"
+        }
+      ],
+      "sponsor": "University of Palermo",
+      "primary_completion": "2027-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07100613"
+    }
+  ],
+  "fetched_at": "2026-06-01T23:14:11.144752"
+}

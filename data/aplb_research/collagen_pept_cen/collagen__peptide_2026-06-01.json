@@ -1,0 +1,321 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "peptide",
+  "query": "(\"collagen\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42210888",
+      "title": "GLP-1-Induced Weight Loss and the Face: Anatomical Mechanisms and Rationale for Collagen-Stimulating and Volumizing Aesthetic Treatments.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists have transformed medical weight-loss therapy and have been associated with characteristic facial changes, including hollowing, skin laxity, and contour alterations that may accentuate pre-existing signs of aging.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Frank Konstantin",
+        "Guertler Anne",
+        "Hoffmeister Victoria",
+        "Kohler Lukas",
+        "Nikolis Andreas"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Weight Loss",
+        "Face",
+        "Cosmetic Techniques",
+        "Skin Aging",
+        "Collagen",
+        "Hyaluronic Acid",
+        "Dermal Fillers",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210888/"
+    },
+    {
+      "pmid": "42210881",
+      "title": "Poly-l-Lactic Acid as a Regenerative Treatment for the Glucagon-like Peptide-1 Receptor Agonist User Population.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) used for weight management have introduced unintended facial changes only partially addressed by conventional volumizing fillers.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Franco Johnny",
+        "Aguilera Shino Bay",
+        "Le Jennifer Htd",
+        "Brasater Daniel",
+        "Nicodeme Edwige"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Polyesters",
+        "Cosmetic Techniques",
+        "Skin Aging",
+        "Face",
+        "Weight Loss",
+        "Regeneration",
+        "Dermal Fillers"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210881/"
+    },
+    {
+      "pmid": "42210880",
+      "title": "The Potential Role of Topical Skincare Approaches After Glucagon-like Peptide-1 Receptor Agonist Use and Rapid Weight Loss.",
+      "abstract": "Diminished facial and body skin qualities have emerged as unintended consequences of rapid weight loss associated with glucagon-like peptide-1 receptor agonists (GLP-1RAs). Patients experiencing facial and body skin sagging (laxity) are increasingly seeking corrective treatments to address aesthetic concerns.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Shridharani Sachin M",
+        "Kourosh Arianne S",
+        "Saltzman Erin",
+        "Carver Lucy",
+        "Makino Elizabeth T"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Weight Loss",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Skin Aging",
+        "Skin Care",
+        "Administration, Cutaneous",
+        "Administration, Topical"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210880/"
+    },
+    {
+      "pmid": "42195828",
+      "title": "Effect of Gelatin-Peptide Complex from Sturgeon Skin on Behavioral, Antioxidant, and Neuroprotective Functions in D-Galactose-Induced Aging Mice: Thermal Degradation vs. Enzymatic Hydrolysis.",
+      "abstract": "Collagen-derived products are widely applied in functional foods; however, limited information is available regarding how different preparation methods, particularly thermal degradation and enzymatic hydrolysis, affect their anti-aging efficacy and biological functions. In this study, sturgeon skin was used as raw material to prepare gelatin-peptide complexes via thermal degradation (GPC-TD) and enzymatic hydrolysis (GPC-EH), and their comparative anti-aging and biological effects were evaluated in D-galactose-induced aging mice. Female ICR mice were divided into eight groups: a blank control group (normal saline), an aging model group (D-galactose, 500 mg/kg), three GPC-TD and three GPC-EH groups (D-galactose supplemented with 100, 200, 400 mg/kg GPC-TD or GPC-EH). After eight weeks of administration, various physiological parameters were evaluated. Throughout the experiment, no statistically significant difference in body weight (BW) was observed among the groups; however, the blank and model groups consistently maintained the highest BW. The medium- and high-dose GPC-TD groups showed relatively faster weight gain, whereas the 100 mg/kg GPC-TD group and all three GPC-EH groups exhibited the slowest BW gain. Notably, the gastric indices of these latter groups were significantly lower than those of other groups (",
+      "year": "2026",
+      "journal": "Foods (Basel, Switzerland)",
+      "authors": [
+        "Ma Siyuan",
+        "He Yibing",
+        "Han Ying",
+        "Zhao Wei",
+        "Sun Hanxue"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42195828/"
+    },
+    {
+      "pmid": "42194068",
+      "title": "The Multifunctional Peptide AP10W Enhances Skin Wound Healing Through Macrophage Reprogramming and Angiogenesis.",
+      "abstract": "Skin wound healing is a complex and highly coordinated biological process involving inflammation, cell migration and proliferation, angiogenesis, extracellular matrix remodeling and tissue regeneration. While the zebrafish-derived antimicrobial peptide AP10W exhibits broad-spectrum antimicrobial properties, its potential in tissue repair remains unexplored. Herein, we demonstrate that AP10W possesses intrinsic wound-healing capabilities, providing a preliminary investigation into its underlying mechanisms. In this study, using a full-thickness murine wound model and in vitro cell-based assays to evaluate the effects of AP10W on fibroblasts, keratinocytes, endothelial cells, and macrophages, we found that AP10W significantly promoted fibroblast and keratinocyte migration and proliferation. Furthermore, it enhanced endothelial cell motility, survival, and tube formation, while upregulating key pro-angiogenic factors, including ",
+      "year": "2026",
+      "journal": "Biomolecules",
+      "authors": [
+        "Xuan Cuiling",
+        "Liu Zixuan",
+        "Zhang Peng",
+        "Liu Bojian",
+        "Gao Zhiqin"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Animals",
+        "Macrophages",
+        "Mice",
+        "Skin",
+        "Neovascularization, Physiologic",
+        "Cell Movement",
+        "Humans",
+        "Angiogenesis",
+        "Cell Proliferation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42194068/"
+    },
+    {
+      "pmid": "42188292",
+      "title": "Thiol-Associated Antioxidant Activity of Recombinant Mussel Foot Protein Mfp6-1 Supports Cutaneous Wound Repair in a Murine Model.",
+      "abstract": "Mussel foot proteins (Mfps) are renowned for their underwater adhesion, whereas their biotechnological potential for cutaneous wound repair remains largely underexplored. In this study, we identified and characterized a cysteine-rich mussel foot protein, Mfp6-1, from ",
+      "year": "2026",
+      "journal": "Marine drugs",
+      "authors": [
+        "Li Zi-Jun",
+        "Wang Kun-Cheng",
+        "Shen Zhi-Ming",
+        "Wang Yu-Qing",
+        "Li Yi-Feng"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Antioxidants",
+        "Mice",
+        "Recombinant Proteins",
+        "Skin",
+        "Mytilus",
+        "Sulfhydryl Compounds",
+        "Humans",
+        "Proteins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42188292/"
+    },
+    {
+      "pmid": "42172545",
+      "title": "Dual-Gene CRISPR Editing via Peptide Dendrimers Regulates Redox Balance for Diabetic Wound Repair.",
+      "abstract": "The management of chronic diabetic wounds, plagued by persistent oxidative stress, remains a major clinical challenge. We devised a CRISPR/Cas9-based gene therapy to fundamentally reprogram this pathological microenvironment. A single system was engineered for the simultaneous knockdown of Keap1 and PHD2, key negative regulators of the Nrf2 and HIF-1α pathways, respectively. This payload was delivered by multifunctional peptide-modified lysine dendrimers (MsRNPs), which self-assembled into stable, positively charged nanoparticles that effectively complexed with DNA. The MsRNPs showed excellent biocompatibility and mediated efficient cellular uptake and gene editing in vitro, leading to reduced ROS levels. Consequently, a single topical application of the polyplexes in a diabetic mouse model robustly accelerated wound closure, enhanced collagen deposition, and promoted angiogenesis, driven by the synergistic activation of Nrf2 and HIF-1α. This study establishes a novel combinatorial gene-editing strategy and a versatile nanoplatform for treating oxidative stress-related pathologies.",
+      "year": "2026",
+      "journal": "Biomacromolecules",
+      "authors": [
+        "Jiang Yuhang",
+        "Wen Haobo",
+        "Xu Jiaqi",
+        "Peng Wanjia",
+        "Zhou Jie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42172545/"
+    },
+    {
+      "pmid": "42162206",
+      "title": "Effects of GLP-1 Receptor Agonists on Skin Quality: A Comprehensive Literature Review.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), particularly semaglutide and liraglutide, have revolutionized the treatment of type 2 diabetes and obesity due to their potent effects on weight loss and glycemic control. However, emerging evidence has highlighted dermatologic side effects associated with the rapid reduction of subcutaneous adipose tissue, particularly in the context of aesthetic skin integrity. This systematic review aims to comprehensively evaluate the current evidence on the effects of GLP-1 RAs on skin quality, including dermal structure alterations, adipose compartment loss, and skin elasticity changes.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Barone Mauro",
+        "Brunetti Beniamino",
+        "D'Emilio Roberta",
+        "Caputo Maria Grazia",
+        "Tenna Stefania"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42162206/"
+    },
+    {
+      "pmid": "42118403",
+      "title": "Assessing the Wound Healing Efficacy of Wrightia tinctoria Protease-Hydrolysed Cobia Skin Collagen: An In Vivo and In Silico Study.",
+      "abstract": "Wrightia tinctoria crude extract-hydrolysed cobia skin collagen (WHC) was evaluated for its wound healing potential through in vivo and in silico approaches. WHC was assessed in a murine excisional wound model, and mechanistic insights were explored using protein-protein interaction network analysis and molecular docking studies. Topical application of WHC resulted in complete wound closure within 10 days, compared with 14 days in the vehicle control. Histopathological examination demonstrated effective restoration of epidermal and dermal architecture in healed tissues. Immunohistochemical analyses confirmed re-establishment of epidermal differentiation, evidenced by keratin 1 and keratin 5 expression and collagen type I fibrillar organisation, while enhanced CD31 staining indicated increased angiogenesis in WHC-treated wounds. LC-MS/MS analysis identified four collagen-derived peptides identical to native cobia collagen sequences, with molecular weights ranging from 1.6 to 2.6 kDa and peptide lengths of 18-30 amino acids. In silico network analysis suggested interactions of collagen type I with integrin receptors, and molecular docking results predicted binding affinities of the identified peptides towards integrin α2β1, surpassing that of the positive control. Collectively, these findings demonstrate the therapeutic potential of W. tinctoria-hydrolysed cobia skin collagen as a promising bioactive material for wound management.",
+      "year": "2026",
+      "journal": "Applied biochemistry and biotechnology",
+      "authors": [
+        "Karthik Parimala",
+        "Sukumaran Bindhu Omana",
+        "Jamora Colin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42118403/"
+    },
+    {
+      "pmid": "42112663",
+      "title": "Peptide-Immobilized Core-Sheath Architecture Sutures with Enhanced Mechanical Strength and Antimicrobial Activity.",
+      "abstract": "To address surgical site infections (SSIs), we developed a core-sheath suture via electrospinning consisting of a robust silk core for mechanical strength and a functionalized polycaprolactone (PCL) nanofiber sheath. The antimicrobial peptide KR-12 was covalently immobilized onto the sheath, enabling potent antibacterial activity while mitigating cytotoxicity. The suture exhibited broad-spectrum efficacy against Gram-positive and Gram-negative bacteria, including MRSA, and significantly inhibited biofilm formation. It provided sustained antibacterial performance for up to 14 days, with over 97% inhibition against ",
+      "year": "2026",
+      "journal": "Biomacromolecules",
+      "authors": [
+        "Wang Yiran",
+        "Yu Hongda",
+        "Zhang Ruiying",
+        "Chen Xin",
+        "Zhang Bing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112663/"
+    },
+    {
+      "pmid": "42097341",
+      "title": "Egg yolk oil promotes deep second-degree burn healing via multiple regulation and Annexin A1-Formyl peptide receptor 2 axis activation.",
+      "abstract": "Egg yolk oil (EYO) has been traditionally applied to treat skin fissures and burns. It has long been applied topically to promote wound healing and alleviate inflammation. Despite its extensive historical use and reported clinical benefits, the scientific basis and molecular mechanisms underlying its therapeutic effects, particularly in deep second-degree burn repair, remain insufficiently understood.",
+      "year": "2026",
+      "journal": "Journal of ethnopharmacology",
+      "authors": [
+        "Gao Xiao-Fa",
+        "Lin Zi-Bo",
+        "Wang Jun",
+        "Wu Shi-Jin",
+        "Li Huan"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Annexin A1",
+        "Burns",
+        "Egg Yolk",
+        "Rats, Sprague-Dawley",
+        "Male",
+        "Receptors, Formyl Peptide",
+        "Rats",
+        "Receptors, Lipoxin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42097341/"
+    },
+    {
+      "pmid": "42087486",
+      "title": "Effectiveness and Safety of Recombinant Type III Humanized Collagen Solution Injection Combined With Collagen-III Multi-Peptide Serum in Improving Signs of Photoaging: A Prospective, Split-Face Controlled Clinical Trial.",
+      "abstract": "Skin aging is a multifactorial process involving the progressive deterioration of skin structure and function, marked by collagen degeneration, impairing the structural integrity of the dermis. Intradermal injection of recombinant type III humanized collagen (RhCol-III) solution is a promising anti-aging strategy through direct collagen replenishment, but its synergistic effects when combined with a collagen-III multi-peptide serum remain unexplored.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Qin Xiaolei",
+        "Zhai Jinlong",
+        "Liu Lingyan",
+        "Shu Hong",
+        "Zhu Lin"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Female",
+        "Prospective Studies",
+        "Injections, Intradermal",
+        "Middle Aged",
+        "Single-Blind Method",
+        "Male",
+        "Adult",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42087486/"
+    },
+    {
+      "pmid": "42081631",
+      "title": "Weight Loss and Its Impact on Soft Tissue.",
+      "abstract": "Rapid and intentional weight loss can result from bariatric surgery, pharmacologic agents such as glucagon-like peptide-1 receptor agonists, and intensive lifestyle changes. Although effective in lowering body weight, these interventions often produce broader physiologic effects. Patients may experience changes beyond size, including decreased skin firmness, muscle loss, and reduced bone density.",
+      "year": "2026",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Fathizadeh Sam",
+        "Palm Melanie D",
+        "Hooper Deirdre"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Weight Loss",
+        "Bariatric Surgery",
+        "Obesity",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42081631/"
+    },
+    {
+      "pmid": "42074746",
+      "title": "Effects of Glucagon-like Peptide-1 Receptor Agonists on Skin Homeostasis and Skin Aging Processes.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) is an incretin hormone involved in glucose regulation. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are widely used in the treatment of type 2 diabetes mellitus and obesity, as well as in cardiovascular risk reduction. Recent evidence suggests that GLP-1 receptors are expressed in cutaneous tissues; however, their role in skin homeostasis and aging remains insufficiently clarified. This review summarizes recent experimental and clinical studies examining the effects of GLP-1 receptor agonists on skin homeostasis, wound healing, regeneration, and aging processes. Experimental data indicate that GLP-1 RAs may promote wound healing through modulation of inflammatory pathways, enhancement of keratinocyte migration, improved microvascular perfusion, and support of fibroblast function. Antioxidant and cytoprotective mechanisms have also been described. Conversely, rapid weight loss associated with GLP-1 RA therapy has been linked to structural facial changes, including reduction in dermal white adipose tissue and decreased collagen synthesis, which may clinically resemble accelerated skin aging. Mechanistic findings suggest heterogeneous and pathway-dependent effects. Overall, the impact of GLP-1 receptor agonists on skin biology appears multifaceted, and further well-designed clinical studies are required to determine their precise dermatological implications.",
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Žaliukaitė Gabrielė",
+        "Lebbar Noura"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42074746/"
+    },
+    {
+      "pmid": "42057967",
+      "title": "Novel bioactive peptides targeting Keap1-Nrf2 interaction for combating UVA-induced skin aging: Computational discovery and experimental validation.",
+      "abstract": "Ultraviolet A (UVA)-induced skin aging poses a significant threat to skin health and aesthetics, yet effective and biosafe therapeutic interventions remain scarce. This study focused on identifying bioactive peptide inhibitors targeting the Kelch-like ECH-associated protein 1 (Keap1)-nuclear factor erythroid 2-related factor 2 (Nrf2) protein-protein interaction (PPI) to counteract UVA-induced skin aging. Using computational virtual screening, we identified two high-affinity, low-toxicity peptides, Seq1 and Seq3, which effectively activated the Nrf2-antioxidant response element (ARE) pathway. This activation led to the upregulation of antioxidant genes and significantly reduced oxidative stress. Additionally, these peptides inhibited the mitogen-activated protein kinase (MAPK) and nuclear factor kappa-B (NF-κB) signaling pathways, thereby reducing inflammation and suppressing the expression of matrix metalloproteinases (MMPs), key contributors to skin aging. ",
+      "year": "2026",
+      "journal": "Journal of pharmaceutical analysis",
+      "authors": [
+        "Guo Haiqiong",
+        "Sun Yueting",
+        "Shi Wenyu",
+        "Huang Rui",
+        "Zhi Xiaobei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42057967/"
+    }
+  ],
+  "crawled_at": "2026-06-01T23:14:23.830337"
+}

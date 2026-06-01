@@ -1,0 +1,199 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42219359",
+      "title": "Sensitivity of respiratory cell lines to unsaturated carbonyl compounds in cigarette smoke is regulated by intracellular glutathione.",
+      "abstract": "Cigarette smoking is a risk factor for various diseases, including chronic obstructive pulmonary disease (COPD). Cell death induced by cigarette smoke is one of the underlying causes of COPD. Unsaturated carbonyl compounds, such as acrolein and methyl vinyl ketone, are major cytotoxic factors in the gas phase of cigarette smoke. To elucidate the molecular mechanisms for induction of cell death by the unsaturated carbonyl compounds in respiratory cells, two lung cancer cell lines, A549 cells and SBC-3 cells, were exposed to the unsaturated carbonyl compounds. A549 cells were resistant to the unsaturated carbonyl compounds, while SBC-3 cells were sensitive to these compounds. Pharmacological analyses revealed that these compounds induce protein kinase C-dependent ferroptosis in SBC-3 cells. Inhibition of glutathione (GSH) synthesis increased the sensitivity of A549 cells to unsaturated carbonyl compounds. GSH level in A549 cells was approximately four times higher than that in SBC-3 cells. Inhibition of SLC7A11, a cystine transporter, in A549 cells increased their sensitivity to unsaturated carbonyl compounds, while overexpression of SLC7A11 in SBC-3 cells decreased their sensitivity to these compounds. These results indicate that the GSH synthetic capacity determines cell sensitivity to unsaturated carbonyl compounds. Accordingly, GSH may be a key factor for the pathogenesis of cigarette smoke-induced COPD.",
+      "year": "2026",
+      "journal": "The Journal of toxicological sciences",
+      "authors": [
+        "Higashi Tsunehito",
+        "Naganuma Fumito",
+        "Mai Yosuke",
+        "Handa Haruka",
+        "Maenaka Katsumi"
+      ],
+      "mesh_terms": [
+        "Glutathione",
+        "Humans",
+        "Smoke",
+        "Acrolein",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Ferroptosis",
+        "Cell Death",
+        "A549 Cells",
+        "Protein Kinase C",
+        "Cell Line, Tumor"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219359/"
+    },
+    {
+      "pmid": "42213528",
+      "title": "Pirfenidone Inhibits Inflammatory Mediators in Human Cornea ",
+      "abstract": "Corneal inflammation is a common clinical condition that contributes to loss of corneal transparency. This study evaluated the potential of pirfenidone (PFD), an FDA-approved drug, to inhibit inflammation in the human cornea using an ",
+      "year": "2026",
+      "journal": "Journal of ocular pharmacology and therapeutics : the official journal of the Association for Ocular Pharmacology and Therapeutics",
+      "authors": [
+        "Hofmann Alexandria C",
+        "Sinha Nishant R",
+        "Hurtado Abigail",
+        "Davis Alaina R",
+        "Suleiman Laila A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42213528/"
+    },
+    {
+      "pmid": "42209186",
+      "title": "[Effects of glutathione on acute cutaneous photodamage in mice and its mechanism].",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Zhonghua shao shang yu chuang mian xiu fu za zhi",
+      "authors": [
+        "Wang Q",
+        "Zhou L",
+        "Deng Y",
+        "Qiu Z J",
+        "Wu X"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Mice",
+        "Glutathione",
+        "Mice, Inbred C57BL",
+        "Skin",
+        "Ultraviolet Rays",
+        "Tumor Necrosis Factor-alpha",
+        "Skin Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42209186/"
+    },
+    {
+      "pmid": "42198417",
+      "title": "S-Methylmethionine (Vitamin U): A Critical Narrative Review of Pharmacological Mechanisms, Evidence Levels, and Translational Barriers.",
+      "abstract": "S-methylmethionine (SMM, also known as vitamin U) is a sulfur-containing vitamin-like compound that has been investigated since the 1940s for its gastroprotective and cytoprotective properties. Historically derived from observations of antiulcer activity in plant-derived foods, SMM has been studied in preclinical models and limited clinical settings for its multilevel pharmacological effects. This narrative review critically evaluates the available evidence on SMM's pharmacological actions across organ systems, with explicit differentiation between preclinical and clinical data. It covers the most consistently reported gastroprotective and antiulcer effects, as well as antioxidant, anti-inflammatory, cytoprotective, and regenerative activities observed predominantly in preclinical studies. Particular attention is paid to organ-specific protection in the nervous system, liver, kidneys, lungs, skin, eyes, and oral tissues, although human evidence remains scarce. Proposed mechanisms are mediated primarily through suppression of oxidative stress, modulation of inflammatory and immune responses, maintenance of glutathione homeostasis, activation of ERK/NF-κB and Nrf2/Keap1 pathways, and regulation of methylation processes. Building on recent descriptive reviews, this work provides a structured critical synthesis that grades evidence quality, compares SMM with the structurally related methyl donor S-adenosylmethionine (SAMe), and analyses the translational and regulatory barriers that have prevented Western drug registration despite over 70 years of investigation. Despite a substantial preclinical evidence base and historical clinical observations, the level of evidence for many indications remains limited. Well-designed Phase II randomized controlled trials and innovative pharmaceutical formulations (especially topical and mucosal delivery systems) are urgently needed to translate preclinical promise into clinical benefits.",
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Ananian Arsen A",
+        "Zelenina Tatiana Z",
+        "Stepanova Olga I",
+        "Popova Anna A",
+        "Bagatelia Zurab T"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42198417/"
+    },
+    {
+      "pmid": "42198295",
+      "title": "Smart Release of the Antioxidant from Chitosan-Hyaluronan Reservoir in Skin Wound Healing.",
+      "abstract": "Reactive oxygen species (ROS) play a dual role in biological systems as indispensable signaling molecules and as key mediators of oxidative damage. Chronic wounds are often associated with excessive ROS formation, which impedes the healing process. Locally applied antioxidants may mitigate such imbalance and support tissue regeneration. The chitosan-hyaluronan (Ch/HA) composite membranes' biocompatibility, moisture retention, and ability to maintain local redox balance rank these materials among the most promising next-generation wound dressings. The aim of this review is to summarize the Ch/HA composite membranes serving as reservoirs for locally applied antioxidants to accelerate the healing of full-thickness skin wounds in experimental animals. Composite Ch/HA membranes fortified with the selected antioxidants such as phosphatidylcholine dihydroquercetin and glutathione were evaluated in rats. A mitochondria-targeted derivative such as mitoquinone mesylate was evaluated in rats and rabbits, while l-(+)-ergothioneine has been examined in rabbits so far. This review demonstrates that smartly designed Ch/HA composite membranes represent a novel-generation wound dressing platform capable of smart antioxidant release and efficient stimulation of skin regeneration.",
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Šoltés Ladislav",
+        "Tamer Tamer M",
+        "Hassan Mohamed E",
+        "Mach Mojmír",
+        "Valachová Katarína"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42198295/"
+    },
+    {
+      "pmid": "42193841",
+      "title": "Comparative Skin Transcriptome Analysis Identifies Candidate Genes Associated with Skin Responses in Hu Sheep Raised Under Different Regional Rearing Conditions.",
+      "abstract": "To identify candidate genes associated with skin tissue responses in Hu sheep raised under different regional rearing environments and to preliminarily explore their potential relevance to low-temperature-related environmental responses, this study used 1-year-old female Hu sheep raised in Anhui and Xinjiang as the experimental animals. Skin tissues were collected from the left scapular region, and their transcriptomic profiles were characterized by integrating histological analysis, RNA sequencing (RNA-seq), differential expression analysis, functional enrichment analysis, protein-protein interaction (PPI) network construction, and RT-qPCR validation. The results showed significant differences between the two groups in body weight, body length, body height, cannon circumference, rectal temperature, and ear temperature. Hematoxylin and eosin (H&E) staining indicated that the Xinjiang group exhibited a denser distribution of hair follicles, a relatively thicker dermis, and a more compact arrangement of collagen fibers, suggesting enhanced insulation-related skin characteristics. Transcriptome sequencing identified 295 differentially expressed genes (DEGs), including 193 upregulated and 102 downregulated genes. GO and KEGG enrichment analyses showed that these DEGs were mainly involved in immune and inflammatory responses, redox processes, extracellular matrix remodeling, and lipid and energy metabolism-related pathways, with significant enrichment in cytokine-cytokine receptor interaction, the chemokine signaling pathway, the NF-κB signaling pathway, glutathione metabolism, and drug metabolism-cytochrome P450. By further integrating PPI network analysis and functional annotation, ",
+      "year": "2026",
+      "journal": "Animals : an open access journal from MDPI",
+      "authors": [
+        "Ouyang Gaoyi",
+        "Hu Yifan",
+        "Dong Wenping",
+        "Wu Yaqin",
+        "Wei Peiling"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42193841/"
+    },
+    {
+      "pmid": "42190566",
+      "title": "Topical eucalyptol accelerates the healing of MRSA-infected diabetic wounds in rats by regulating TLR4, NF-κB, VEGFA and MMP-9 pathways.",
+      "abstract": "Diabetic-infected wounds are complex conditions that cause chronic inflammation that is difficult to heal. Although eucalyptol (1.8 cineole) has been shown to have antimicrobial, antioxidative and anti-inflammatory properties, its effectiveness in diabetic-infected wounds has not yet been proven.",
+      "year": "2026",
+      "journal": "Tissue & cell",
+      "authors": [
+        "Kirgiz Omer",
+        "Kirgiz Fatma Ceren",
+        "Akcakavak Gokhan",
+        "Alakus Ibrahi̇m",
+        "Karatas Ozhan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42190566/"
+    },
+    {
+      "pmid": "42183737",
+      "title": "Systemic glutathione for skin lightening - A scoping review of current evidence.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "authors": [
+        "Dlova Ncoza Cordelia",
+        "Enechukwu Nkechi Anne",
+        "Cole-Adeife Olufolakemi",
+        "Sagoe Dominic",
+        "Mitchell Jalil Alan Henry"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42183737/"
+    },
+    {
+      "pmid": "42183686",
+      "title": "N-acetylcysteine: reinventing classic pharmacology through skin.",
+      "abstract": "N-acetylcysteine (NAC), traditionally known for its mucolytic properties and as an antidote for acetaminophen poisoning, has emerged as a multifunctional molecule with growing interest in dermatology. Its pleiotropic mechanisms -including modulation of redox balance, disulfide bond disruption, replenishment of intracellular glutathione, and regulation of inflammatory, microbial, and epigenetic pathways- have opened avenues for its therapeutic repurposing in cutaneous medicine. In congenital ichthyoses, topical NAC formulations have shown promising results, improving scaling and barrier function. NAC has also demonstrated efficacy in psychodermatological conditions such as trichotillomania and excoriation disorder, likely through glutamatergic modulation. In acne vulgaris and wound healing, its antioxidant and anti-inflammatory actions appear beneficial, with early data supporting its role as an adjunctive treatment. Moreover, its use in preventing UV-induced photodamage and improving dermal matrix remodelling further highlights its potential in both therapeutic and preventive dermatology. Although findings are encouraging, most studies remain limited in scale and methodological rigor. NAC represents a paradigmatic case of drug repurposing with a solid biochemical rationale, offering a versatile and low-cost option that may complement conventional dermatological therapies across multiple disease spectrums. Larger randomized controlled trials are needed to confirm its clinical utility.",
+      "year": "2026",
+      "journal": "European journal of dermatology : EJD",
+      "authors": [
+        "Molina-Espinosa José",
+        "Pérez-López Israel",
+        "Ezomo-Gervilla Pedro José",
+        "Ruiz-Villaverde Ricardo"
+      ],
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Humans",
+        "Skin Diseases",
+        "Antioxidants",
+        "Drug Repositioning",
+        "Wound Healing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42183686/"
+    },
+    {
+      "pmid": "42182869",
+      "title": "Engineered acetylcholinesterase-loaded dissolvable microneedles mitigate dermal toxicity by targeting trichlorfon binding and metabolic pathway modulation.",
+      "abstract": "Trichlorfon (TCF), a widely used organophosphorus pesticide for crop protection, poses severe dermal toxicity risks as it readily penetrates the epidermal barrier and metabolizes into the more toxic dichlorvos (DDVP), triggering neurotoxicity, oxidative stress and inflammatory damage in exposed individuals. As a promising stoichiometric bioscavenger for pesticide detoxification, natural acetylcholinesterase (AChE) is still plagued by bottlenecks in thermal stability and transdermal delivery efficiency. To address these issues, this study employed a previously engineered high-activity and thermostable AChE variant (",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Jiang Shuoqi",
+        "Zheng Zi-Wei",
+        "Gu Qiuya",
+        "Li Jian-Xin",
+        "Yu Xiaobin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42182869/"
+    }
+  ],
+  "crawled_at": "2026-06-01T23:10:04.604222",
+  "source": "pubmed"
+}

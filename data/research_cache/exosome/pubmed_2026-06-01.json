@@ -1,0 +1,194 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42220783",
+      "title": "Umbilical Cord Mesenchymal Stem Cell-Derived Exosome-Mediated Regeneration in Hypertrophic Burn Scars Treated With Dual-Wavelength Laser: A Case Report.",
+      "abstract": "Hypertrophic scarring following second-degree thermal injuries presents significant functional and cosmetic burdens, often characterized by dysregulated collagen deposition and persistent inflammation. Emerging multimodal treatment protocols involving the combination of regenerative medicine and non-ablative laser treatments offer novel scar management potential. We report the case of a 46-year-old woman presenting with a symptomatic hypertrophic scar resulting from a thermal injury sustained one month prior. The patient underwent a combined treatment protocol consisting of two sessions of fractional laser treatment (1550 + 577 nm), immediately followed by the application of umbilical cord mesenchymal stem cell (UCMSC)-derived exosomes via microneedling. Following two treatment courses, the patient demonstrated significant clinical improvement, characterized by a marked reduction in pigmentation, decreased erythema, and improved tissue pliability. This observed treatment efficacy is likely attributed to the synergistic effect of the ability of fractional lasers to create photothermolysis for remodeling fibrotic tissues, and the regenerative ability of UCMSC-exosomes to mitigate local inflammation and promote a controlled wound healing process. This case highlights the treatment potential of a multimodal protocol for managing hypertrophic burn scars. Further prospective, controlled studies are necessary to determine if exosome integration offers a definitive clinical advantage over energy-based monotherapies and to establish standardized treatment parameters.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Pamela Ruri",
+        "Kang Chi-Chih",
+        "Lien Lenny",
+        "Lee Grace",
+        "Yi Kyuho"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42220783/"
+    },
+    {
+      "pmid": "42219094",
+      "title": "A multifunctional adhesive antibacterial chitosan/hyaluronic acid hydrogel enabling sustained release of human umbilical cord mesenchymal stem cell-derived exosomes for accelerated full-thickness skin repair.",
+      "abstract": "Promoting skin wound healing is a major global public health challenge. Stem cell exosomes are regarded as a promising and ideal therapeutic approach. However, effective stem cell exosome therapy also depends on suitable vectors to promote the release and stability of exosomes. In this study, exosomes derived from human umbilical cord mesenchymal stem cells (UCMSCs-exo) were loaded into crosslinked hydrogels of chitosan (CS) and hyaluronic acid (HA) to prepare a novel multifunctional hydrogel dressing with sustained release of exosomes (UCMSCs-exo@CS-HA). The UCMSCs-exo@CS-HA hydrogels had good properties, including three-dimensional porous structure, exosomes loading performance, mechanical properties, tissue adhesion, antibacterial activity, degradation performance, and good biocompatibility. The whole skin defect model of mice verified that the UCMSCs-exo@CS-HA hydrogels reduced the expression level of inflammatory factor cyclooxygenase-2 (COX2) and inducible nitric oxide synthase (iNOS), promoted the orderly deposition of collagen and angiogenesis, and effectively promoted wound healing. Overall, the UCMSCs-exo@CS-HA hydrogels can effectively regulate the interaction between inflammation, tissue fibrosis, and angiogenesis, providing a promising solution for the treatment of skin injury.",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Luo Zhonghua",
+        "Hou Zhiquan",
+        "Wu Mi",
+        "Zhao Yan",
+        "Hui Fuhai"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219094/"
+    },
+    {
+      "pmid": "42216026",
+      "title": "KRT6A derived from mesenchymal stem cells as a potential biomarker and therapeutic target for alopecia areata: insights from multi-omics analysis and experimental evidence.",
+      "abstract": "Mesenchymal stem cells (MSCs) secretome have shown promise in the treatment of alopecia areata (AA). However, the key therapeutic genes remain unclear. This study aimed to identify potential critical therapeutic molecules using multi-omics approaches.",
+      "year": "2026",
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Peng Shixiong",
+        "Deng Jia",
+        "Meng Xiuming",
+        "Deng Shuangjie",
+        "Yan Wenjie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42216026/"
+    },
+    {
+      "pmid": "42212370",
+      "title": "Epigenetic orchestration of scar formation: Therapeutic potential of targeting DNA methylation and non‑coding RNAs in cutaneous fibrosis (Review).",
+      "abstract": "Cutaneous fibrosis is sustained by epigenetic 'memory' rather than chronic inflammation. DNA hypermethylation, repressive histone marks and non‑coding RNA networks lock dermal fibroblasts into a collagen‑secretory state that can persist years after wounding. Single‑cell methylomes have identified DNA methyltransferase (DNMT)3B as the key epigenetic writer driving anti‑fibrotic gene silencing, whereas N6‑methyladenosine‑modified long non‑coding RNAs and reinforce these loops by tethering methylation machinery to chromatin. Local delivery of DNMT inhibitors, microRNA‑29 mimics or antisense oligonucleotides via dissolvable microneedles, metal‑organic framework patches or exosome arrays reproducibly reduces scar volume by 25‑55% in pre‑clinical models without systemic exposure of therapeutic agents. The present review integrates multi‑omic mechanistic data with emerging device platforms to chart a precision roadmap for converting scar‑forming repair into scar‑sparing regeneration.",
+      "year": "2026",
+      "journal": "Molecular medicine reports",
+      "authors": [
+        "Li Jinshun",
+        "Liu Weiyun",
+        "Yang Jin",
+        "Li Yanan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cicatrix",
+        "DNA Methylation",
+        "Epigenesis, Genetic",
+        "Animals",
+        "Fibrosis",
+        "RNA, Untranslated",
+        "MicroRNAs",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42212370/"
+    },
+    {
+      "pmid": "42210742",
+      "title": "Cucumber-derived exosome-like nanovesicles encapsulating epigallocatechin gallate for skin depigmentation: molecular docking, stability, and efficacy in B16/F10 cells and zebrafish.",
+      "abstract": "To address the challenges of instability and low bioavailability that limit the application of (-)-epigallocatechin gallate (EGCG) as a whitening agent, we engineered a cucumber-derived exosome-like nanovesicle (CEV) as a synergistic nanocarrier. A hybrid isolation method combining polyethylene glycol precipitation with electrophoretic dialysis (PED) was established to obtain high-purity CEVs. The resulting EGCG-loaded CEVs (EGCG@CEVs) achieved 95.43% encapsulation efficiency with enhanced stability and a sustained release profile. Metabolomics and network pharmacology identified the STAT3/MAPK signaling axis as the primary target, a mechanism subsequently validated in B16F10 melanocytes and zebrafish models. Compared with free EGCG, EGCG@CEVs significantly decreased tyrosinase activity and melanin production. With the stable EGCG@CEV system, the ERK-STAT3-MITF pathway can be regulated, potentially functioning as a plant-based cosmetic system.",
+      "year": "2026",
+      "journal": "Journal of materials chemistry. B",
+      "authors": [
+        "Tao Li",
+        "Wang Ping",
+        "Zhang Mengying",
+        "Zhang Wenyue",
+        "Zhang Rui"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210742/"
+    },
+    {
+      "pmid": "42196047",
+      "title": "Tendon dECM Composited with Chitosan with Loading Skin Precursor Stem Cell Exosome for Enhanced Diabetic Wound Healing.",
+      "abstract": "Diabetic wounds are a common and severe complication of diabetes mellitus, characterized by delayed healing due to persistent inflammation, impaired angiogenesis, and cellular dysfunction. Conventional therapeutic approaches remain limited in efficacy. In recent years, exosomes have attracted considerable attention in wound healing and regenerative medicine because of their crucial role in intercellular communication and tissue repair. However, rapid clearance of exosomes in vivo greatly limits their therapeutic efficacy. To address this critical limitation, we engineered a decellularized extracellular matrix (dECM)-based hydrogel system functionalized with exosomes derived from skin-derived precursor cells (SKPs). This biomimetic scaffold was designed to serve as a local exosome-delivery platform at the wound site, with the aim of improving exosome utilization and augmenting their regenerative effects. Comprehensive in vitro characterization demonstrated that the exosome-loaded composite hydrogels exhibited robust pro-angiogenic activity, as evidenced by enhanced endothelial cell proliferation, migration, and tube formation. Moreover, the hydrogels displayed significant antibacterial effects against wound-relevant pathogens and potent reactive oxygen species (ROS)-scavenging capacity, thereby mitigating oxidative damage. Notably, the composite hydrogels also promoted the phenotypic polarization of macrophages toward the pro-regenerative M2 phenotype. In parallel, in vivo studies using a streptozotocin-induced diabetic rat wound model confirmed that treatment with the composite hydrogels significantly accelerated wound closure rates compared to control groups. Histological and immunohistochemical analyses revealed enhanced angiogenesis, as evidenced by increased CD31-positive microvessel density, as well as improved collagen deposition, re-epithelialization, and an attenuated local inflammatory microenvironment characterized by reduced pro-inflammatory cytokine expression and elevated M2 macrophage infiltration. Collectively, the SKPs exosome-loaded dECM based composite hydrogels developed in this study represent a potential therapeutic strategy for the treatment of diabetic wounds.",
+      "year": "2026",
+      "journal": "Gels (Basel, Switzerland)",
+      "authors": [
+        "Chen Yunguang",
+        "Liang Yingying",
+        "Deng Yaling",
+        "Nie Lei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42196047/"
+    },
+    {
+      "pmid": "42193882",
+      "title": "Stem Cell-Derived Exosomes in Wound Healing and Skin Regeneration: Emerging Therapeutic Strategies and Mechanisms.",
+      "abstract": "Chronic cutaneous wounds and traumatic skin injuries remain a major clinical challenge, characterized by dysregulated healing phases, high susceptibility to microbial infection, and suboptimal response to conventional therapies. Stem cell-derived exosomes (SC-Exos) have emerged as a paradigm-shifting, cell-free nanotherapeutic platform that harnesses the paracrine secretome of stem cells while avoiding the immunological and proliferative complications inherent to direct cell transplantation. Exosomes derived from diverse stem cell sources orchestrate multifactorial wound repair by modulating key cellular signaling cascades and transcriptomic programs that collectively regulate inflammation, angiogenesis, re-epithelialization, extracellular matrix (ECM) remodeling, and scar formation. Beyond their intrinsic regenerative capacity, SC Exos can be engineered using direct strategies (cargo loading, surface modification, biomaterial integration, and conjugation) and indirect approaches (genetic engineering, pretreatment, and preconditioning of parental cells), thereby enabling spatially controlled and temporally sustained exosome release at wound sites with enhanced bioavailability and therapeutic efficacy. In parallel, biomaterial-assisted delivery platforms, including hydrogels, scaffolds, and nanofibers, enhance exosome retention, stability, and controlled-release profiles within the wound microenvironment, thereby further potentiating tissue repair. This review provides a comprehensive overview of recent advances in SC Exos for wound healing and skin regeneration. We first summarize exosome biogenesis, molecular composition, and the distinctive characteristics of exosomes derived from different stem cell sources, along with preclinical evidence supporting their efficacy in cutaneous repair. We then critically examine exosome engineering strategies and biomaterial-integrated delivery systems that augment and fine-tune therapeutic outcomes. Finally, we discuss the current status of clinical trials of SC Exo-based therapies, key manufacturing and regulatory challenges, and future directions for translating these nanoscale, cell-free therapeutics into advanced, personalized wound management.",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Vidiyala Nithin",
+        "Sunkishala Pavani",
+        "Parupathi Prashanth Reddy",
+        "Nyavanandi Dinesh"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Wound Healing",
+        "Stem Cells",
+        "Regeneration",
+        "Animals",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42193882/"
+    },
+    {
+      "pmid": "42190946",
+      "title": "Use of Exosomes as Adjuvant Therapy in the Reconstruction of Traumatic Eyelid Wounds: A Case Report.",
+      "abstract": "Traumatic eyelid wounds with tissue loss pose a reconstructive challenge due to the risk of inflammation-driven fibrosis and functional impairment. Mesenchymal stem cell-derived exosomes have demonstrated regenerative and antifibrotic effects in cutaneous wound-healing models. We report a case of high-energy periocular trauma in which standard oculoplastic reconstruction was supplemented with staged topical and microneedling-assisted exosome therapy. Accelerated epithelialization, favorable scar modulation, and preservation of eyelid contour and function were observed without adverse events. This case supports the feasibility of exosome-based therapy as an adjunct in complex eyelid wound reconstruction.",
+      "year": "2026",
+      "journal": "Archivos de la Sociedad Espanola de Oftalmologia",
+      "authors": [
+        "Velasco Y Levy A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42190946/"
+    },
+    {
+      "pmid": "42189761",
+      "title": "LLLT-ADSCs Curtail the Progression of Keloid Through Exosomal miR-26a-5p Downregulating Jag/Notch Pathway.",
+      "abstract": "Adipose-derived stem cells treated with low-level laser light (LLLT-ADSCs) demonstrate an inhibitory effect on keloid scars, although the underlying molecular mechanisms remain largely unknown. This study aims to elucidate these mechanisms.",
+      "year": "2026",
+      "journal": "Lasers in surgery and medicine",
+      "authors": [
+        "Han Bing",
+        "Yang Jifan",
+        "Bai Peiwen",
+        "Jiao Hu",
+        "Yuan Xiang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42189761/"
+    },
+    {
+      "pmid": "42185524",
+      "title": "Bio inspired assessment of titanium-organic framework and exosome-constructed p-Synephrine carriage: pursuing the PI3K/mTOR pathway in a simulated periodontitis.",
+      "abstract": "Periodontitis, a chronic inflammatory disease, is driven by bacterial infection and oxidative stress, leading to tissue destruction and potential tooth loss. This study investigates the anti-inflammatory and antioxidant potential of p-Synephrine and enhanced delivery through NH",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Kishta Mohamed S",
+        "Elshaar Abdelrahman H",
+        "Makled Rawan N",
+        "Abdel-Aleem Ghada A",
+        "Makled Mirhan N"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "TOR Serine-Threonine Kinases",
+        "Phosphatidylinositol 3-Kinases",
+        "Signal Transduction",
+        "Periodontitis",
+        "Fibroblasts",
+        "Gingiva",
+        "Dental Pulp",
+        "Oxidative Stress"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42185524/"
+    }
+  ],
+  "crawled_at": "2026-06-01T23:09:59.098045",
+  "source": "pubmed"
+}

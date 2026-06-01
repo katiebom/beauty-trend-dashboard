@@ -1,0 +1,30 @@
+{
+  "ingredient_id": "spicule",
+  "name_kr": "스피큘",
+  "name_en": "Spicule",
+  "query": "(\"Spicule\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 1,
+  "recent_complete_count": 1,
+  "trials": [
+    {
+      "nct_id": "NCT06861023",
+      "title": "Review of the Literature and Serie of Patients Who Underwent Reconstruction After Wide Local Excision of Nail Apparatus for Melanoma",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Patients who have undergone extensive nail resection with reconstruction"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "primary_completion": "2025-02-28",
+      "url": "https://clinicaltrials.gov/study/NCT06861023"
+    }
+  ],
+  "fetched_at": "2026-06-01T23:14:03.571403"
+}

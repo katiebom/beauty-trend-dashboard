@@ -1,0 +1,739 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 25,
+  "trials": [
+    {
+      "nct_id": "NCT06652347",
+      "title": "Understanding the Preferences and Views of Older Adults on the Use of Geriatric and Objective Functional Assessments for Cancer Treatment Planning.",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Care Delivery",
+        "Geriatrics",
+        "Geriatric Assessment"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Cancer care delivery"
+        }
+      ],
+      "sponsor": "Fox Chase Cancer Center",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT06652347"
+    },
+    {
+      "nct_id": "NCT06339177",
+      "title": "Hemophagocytic Lymphohistiocytosis (HLH) Evaluation and Research of Clinical, ImmUnoLogic and TranscriptomE Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Lymphohistiocytosis, Hemophagocytic",
+        "Secondary Hemophagocytic Lymphohistiocytosis",
+        "Macrophage Activation Syndrome",
+        "Hyperinflammatory Syndromes"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "primary_completion": "2030-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06339177"
+    },
+    {
+      "nct_id": "NCT05799378",
+      "title": "Effects of Stopping Hydroxychloroquine in Elderly Lupus Disease",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Hydroxychloroquine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "NYU Langone Health",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05799378"
+    },
+    {
+      "nct_id": "NCT05238285",
+      "title": "Production of Nonverbal Acoustic Signals and Resulting Physiological Responses",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Self-Perception"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Production of vocal sounds"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Saint Etienne",
+      "primary_completion": "2027-04",
+      "url": "https://clinicaltrials.gov/study/NCT05238285"
+    },
+    {
+      "nct_id": "NCT06544226",
+      "title": "The Use of Smart Devices in Capturing Digital Biomarkers in Eating Disorders",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Eating Disorders"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "UH100"
+        }
+      ],
+      "sponsor": "Univa Health",
+      "primary_completion": "2025-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT06544226"
+    },
+    {
+      "nct_id": "NCT07093138",
+      "title": "Evaluation of Efficacy and Safety of Topical Cannabidiol (Canvert-M Produced by Alasht Pharmed co. Iran) in the Treatment of Migraine Attacks",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Migraine Disorders"
+      ],
+      "interventions": [
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Canvert-M (Produced by Alasht Pharmed co. Iran)"
+        }
+      ],
+      "sponsor": "Alasht Pharmed",
+      "primary_completion": "2025-09-16",
+      "url": "https://clinicaltrials.gov/study/NCT07093138"
+    },
+    {
+      "nct_id": "NCT07559500",
+      "title": "Tirzepatide s Dopaminergic Effects in Alcohol Use Disorders (AUD)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alcohol Use Disorder (AUD)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "[11C]raclopride plus drug"
+        },
+        {
+          "type": "DRUG",
+          "name": "[11C]NNC-112"
+        }
+      ],
+      "sponsor": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)",
+      "primary_completion": "2031-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07559500"
+    },
+    {
+      "nct_id": "NCT07312604",
+      "title": "A Pilot Study to Evaluate the Therapeutic Efficacy of Intra-Lesional Immunotherapy in Patients Aged 10-60 Years With Recalcitrant Tinea Cruris and Corporis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Tinea Corporis",
+        "Tinea Cruris"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Intra-Lesional MMR Immunotherapy"
+        }
+      ],
+      "sponsor": "Abeer Mohamed Abdelaziz Elkholy",
+      "primary_completion": "2026-03-09",
+      "url": "https://clinicaltrials.gov/study/NCT07312604"
+    },
+    {
+      "nct_id": "NCT06774547",
+      "title": "Early Implementation of Plyometric Exercises in the Rehabilitation of Individuals Suffering From Lower-Extremity Tendinopathies",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Achilles Tendinopathy",
+        "Patellar Tendinopathy",
+        "Plantar Fasciopathy"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Heavy-slow resistance training"
+        },
+        {
+          "type": "OTHER",
+          "name": "Plyometric exercise"
+        }
+      ],
+      "sponsor": "Aalborg University",
+      "primary_completion": "2027-10",
+      "url": "https://clinicaltrials.gov/study/NCT06774547"
+    },
+    {
+      "nct_id": "NCT06978647",
+      "title": "A Clinical Study of YTS109 Cell in R/R Autoimmune Diseases",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus (SLE)",
+        "Systemic Sclerosis (SSc)",
+        "Inflammatory Myopathy",
+        "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+        "Antiphospholipid Syndrome (APS)",
+        "Rheumatoid Arthritis (RA)",
+        "IgG4-Related Diseases",
+        "Sjogren&#39;s Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "YTS109 cell"
+        }
+      ],
+      "sponsor": "China Immunotech (Beijing) Biotechnology Co., Ltd.",
+      "primary_completion": "2026-05-19",
+      "url": "https://clinicaltrials.gov/study/NCT06978647"
+    },
+    {
+      "nct_id": "NCT06488482",
+      "title": "Assessment of Short Immunotherapy After Radical Surgery of High-risk Malignant Melanoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "High-risk Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "nivolumab or pembrolizumab"
+        }
+      ],
+      "sponsor": "Uppsala University",
+      "primary_completion": "2030-09",
+      "url": "https://clinicaltrials.gov/study/NCT06488482"
+    },
+    {
+      "nct_id": "NCT06658639",
+      "title": "Ultrasound Lipolysis Versus Cryolipolysis On Lipid Profile Levels In Centrally Obese Middle Aged Men",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Ultrasound Lipolysis",
+        "Cryolipolysis",
+        "Lipid Profile",
+        "Central Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Ultrasound lipolysis"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Cryolipolysis"
+        },
+        {
+          "type": "OTHER",
+          "name": "Low Caloric Diet"
+        }
+      ],
+      "sponsor": "Cairo University",
+      "primary_completion": "2025-03-05",
+      "url": "https://clinicaltrials.gov/study/NCT06658639"
+    },
+    {
+      "nct_id": "NCT07067879",
+      "title": "The Effectiveness of a Novel Lip Product Containing Caulerpa Lentillifera Extract for Reducing Lip Hyperpigmentation",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hyperpigmentation"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Lip product"
+        }
+      ],
+      "sponsor": "Chulalongkorn University",
+      "primary_completion": "2025-08-13",
+      "url": "https://clinicaltrials.gov/study/NCT07067879"
+    },
+    {
+      "nct_id": "NCT04787042",
+      "title": "Phase 1a and Phase 2 Study for Safety, Preliminary Efficacy, PK and PD of ST-067",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cancer",
+        "Solid Tumor",
+        "Melanoma",
+        "Renal Cell Carcinoma",
+        "Triple-negative Breast Cancer",
+        "Non Small Cell Lung Cancer",
+        "Squamous Cell Carcinoma of the Head and Neck",
+        "Carcinoma",
+        "MSI-High"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "ST-067"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Obinutuzumab 25 MG/1 ML Intravenous Solution [GAZYVA]"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "pembrolizumab"
+        }
+      ],
+      "sponsor": "Simcha IL-18, Inc.",
+      "primary_completion": "2025-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT04787042"
+    },
+    {
+      "nct_id": "NCT07332052",
+      "title": "Predicting of Frailty",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Femur Fractures",
+        "Frailty",
+        "Sarcopenia"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Clinical and Functional Assessment"
+        },
+        {
+          "type": "OTHER",
+          "name": "Rectus femoris thickness measurement"
+        }
+      ],
+      "sponsor": "ali ihsan uysal",
+      "primary_completion": "2026-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT07332052"
+    },
+    {
+      "nct_id": "NCT06995443",
+      "title": "Breast Cancer and Chemobrain : Effects of Photobiomodulation on the Improvement of Perceived Cognitive Impairment",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Oncology",
+        "Support Care",
+        "Cognitive Disorders"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Photobiomodulation"
+        }
+      ],
+      "sponsor": "Centre Hospitalier de Valenciennes",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT06995443"
+    },
+    {
+      "nct_id": "NCT07333508",
+      "title": "Fospropofol Disodium ED95 for Elderly Spinal Anesthesia Sedation",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lower Extremity Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Fospropofol Disodium"
+        }
+      ],
+      "sponsor": "Ya-Qun Zhou",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07333508"
+    },
+    {
+      "nct_id": "NCT05027776",
+      "title": "Immunogenicity and Safety of Quadrivalent HPV Vaccine in Healthy Chinese Female Subjects Aged 9 to 19 Years",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "HPV Infections",
+        "Cervical Cancer Stage IIa",
+        "Vaginal Cancer",
+        "Genital Wart",
+        "CIN1",
+        "CIN2",
+        "CIN3"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "2-doses Group among 9-14 years"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "3-doses Group among 9-19 years"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "3-doses Group among 20-26 years"
+        }
+      ],
+      "sponsor": "Shanghai Bovax Biotechnology Co., Ltd.",
+      "primary_completion": "2023-11-22",
+      "url": "https://clinicaltrials.gov/study/NCT05027776"
+    },
+    {
+      "nct_id": "NCT03716843",
+      "title": "Dynamic Pressure Monitoring System for Orthotic Treatment of Scoliosis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Adolescent Idiopathic Scoliosis"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Pressure monitoring system"
+        }
+      ],
+      "sponsor": "The Hong Kong Polytechnic University",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03716843"
+    },
+    {
+      "nct_id": "NCT07337343",
+      "title": "Co-Development and Validation of Colonic Symptom Pictograms for Young People",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Constipation - Functional",
+        "Abdominal Pain (AP)",
+        "Nausea and Vomitting",
+        "Bloating",
+        "Flatulence",
+        "IBS, Constipation Predominant"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Pictogram comprehension and validation"
+        }
+      ],
+      "sponsor": "University of Auckland, New Zealand",
+      "primary_completion": "2027-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT07337343"
+    },
+    {
+      "nct_id": "NCT06569160",
+      "title": "Efficacy of Ultraviolet Germicidal Irradiation Devices to Reduce Respiratory Infections in Nursing Homes: Cluster Randomized Crossover Trial",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acute Respiratory Infections"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Upper-room UVGI (Ultra-Violet Germicidal Irradiation)"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Emile Roux",
+      "primary_completion": "2026-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT06569160"
+    },
+    {
+      "nct_id": "NCT06447779",
+      "title": "Efficacy, Safety and Immunogenicity Study of Recombinant Zoster Vaccine(CHO Cell) in Adults Aged 40 Years and Older",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Herpes Zoster"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Recombinant Zoster Vaccine (CHO Cell)"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "NaCl solution Placebo"
+        }
+      ],
+      "sponsor": "MAXVAX Biotechnology Limited Liability Company",
+      "primary_completion": "2025-09",
+      "url": "https://clinicaltrials.gov/study/NCT06447779"
+    },
+    {
+      "nct_id": "NCT06930170",
+      "title": "Evaluation of Cochlear Implantation in Unilateral or Asymmetric Hearing Loss in Children.",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Unilateral Hearing Loss",
+        "Asymmetric Hearing Loss"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Cochlear implantation"
+        },
+        {
+          "type": "DEVICE",
+          "name": "CROS or BiCROS device fitting"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "French simplified matrix test (FraSimat)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Sound localization test (ERKI)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Cortical Auditory Evoked Potentials (PEAc)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Speech, Spatial and Qualities of Hearing Scale (SSQ)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Peabody Picture Vocabulary Scale (PPVT or EVIP in french)"
+        },
+        {
+          "type": "OTHER",
+          "name": "NEPSY-II (A Developmental Neuropsychological Assessment)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Pediatric Quality of Life Inventory™ Multidimensional Fatigue Scale (PedsQL MFS)"
+        }
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "primary_completion": "2029-01",
+      "url": "https://clinicaltrials.gov/study/NCT06930170"
+    },
+    {
+      "nct_id": "NCT07017842",
+      "title": "PREDICT-H Study: Prospective Research on Essential Determinants Influencing Complication Trends in Hypospadias - a Landmark Prospective Multicenter Cohort Study Aimed at Improving Outcome Prediction in Hypospadias Surgery",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Hypospadias"
+      ],
+      "interventions": [],
+      "sponsor": "Sidra Medicine",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07017842"
+    },
+    {
+      "nct_id": "NCT06226493",
+      "title": "EEG Changes and DNA Markers Related to taVNS in Stroke Patients: a Preliminary Study",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Stroke"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Transcutaneous vagus nerve stimulation"
+        }
+      ],
+      "sponsor": "Casa Colina Hospital and Centers for Healthcare",
+      "primary_completion": "2027-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06226493"
+    },
+    {
+      "nct_id": "NCT07366671",
+      "title": "SAvvywire for Pacing and Procedural Hemodynamics In Transcatheter Aortic Valve Replacement Evaluation",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "TAVI(Transcatheter Aortic Valve Implantation)",
+        "Aortic Valve Disease"
+      ],
+      "interventions": [],
+      "sponsor": "dr Pim A.L. Tonino",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT07366671"
+    },
+    {
+      "nct_id": "NCT07103681",
+      "title": "White Matter Distortion and Dementia Biomarkers in Normal Pressure Hydrocephalus (NPH)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Normal Pressure Hydrocephalus"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Ventriculoperitoneal Shunt (VP)"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Brain and Skin Biopsy"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "MRI Brain"
+        }
+      ],
+      "sponsor": "Imperial College London",
+      "primary_completion": "2028-02",
+      "url": "https://clinicaltrials.gov/study/NCT07103681"
+    },
+    {
+      "nct_id": "NCT05996536",
+      "title": "Feasibility of Adipose Tissue Triglyceride (TG) Labelling in Familial Partial Lipodystrophy (FPLD)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Lipodystrophy"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "primary_completion": "2026-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT05996536"
+    },
+    {
+      "nct_id": "NCT06943911",
+      "title": "Reflects the Intervention (AI Chatbot)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer Early Stage Breast Cancer (Stage 1-3)"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "AI Chatbot for Breast Cancer Patient Education and Empowerment"
+        }
+      ],
+      "sponsor": "Mostafa Shaban",
+      "primary_completion": "2025-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06943911"
+    },
+    {
+      "nct_id": "NCT03906253",
+      "title": "Effectiveness of Fractionated Laser Resurfacing to Protect Geriatric Skin From Actinic Neoplasia",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Actinic Keratoses",
+        "Aging",
+        "Non-Melanoma Skin Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Fractionated Laser Resurfacing"
+        }
+      ],
+      "sponsor": "Wright State University",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT03906253"
+    }
+  ],
+  "fetched_at": "2026-06-01T23:14:16.524526"
+}

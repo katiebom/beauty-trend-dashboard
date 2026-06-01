@@ -1,0 +1,1112 @@
+{
+  "generated_at": "2026-06-01T23:18:57.735979",
+  "total_analyzed": 30,
+  "results": {
+    "glp1_topical": {
+      "id": "glp1_topical",
+      "commercial_tier": "C0",
+      "tier_rationale": "신규 성분으로 아직 대중적인 상업화 제품이 거의 없고, 주로 연구 및 시술 영역에서 논의되고 있어 매스 시장 진입이 미미함.",
+      "top_brands_kr": [],
+      "top_brands_us": [],
+      "marketing_intensity": "low",
+      "market_gap": "GLP-1 외용제의 효능을 입증하고 이를 대중적으로 접근 가능한 화장품 형태로 개발하여 시장을 선점할 기회가 있음.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "GLP-1 외용제의 효능 및 안전성에 대한 심층 연구를 진행하고, 이를 기반으로 혁신적인 안티에이징 제품 개발을 선도하여 시장을 개척해야 합니다.",
+      "key_competitor_to_beat": "none"
+    },
+    "bakuchiol": {
+      "id": "bakuchiol",
+      "commercial_tier": "C1",
+      "tier_rationale": "레티놀 대체재로 주목받기 시작했으나, 아직은 소수의 브랜드에서만 제품을 출시하고 있어 시장 점유율이 확정되지 않은 초기 단계임.",
+      "top_brands_kr": [
+        {
+          "brand": "마녀공장",
+          "product_example": "갈락 나이아신 2.0 에센스",
+          "strength": "medium"
+        },
+        {
+          "brand": "어노브",
+          "product_example": "더블 펩타이드 세럼 컴플렉스",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "The Ordinary",
+          "product_example": "Granactive Retinoid 2% Emulsion",
+          "strength": "high"
+        },
+        {
+          "brand": "Paula's Choice",
+          "product_example": "1% Retinol Treatment",
+          "strength": "high"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "바쿠치올 단독 또는 시너지 효과를 극대화하는 페어링 성분 조합, 그리고 민감성 피부를 위한 저자극 포뮬레이션 개발이 필요함.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "바쿠치올의 효능을 극대화하는 독자적인 포뮬레이션 기술을 개발하고, 레티놀 대비 우수한 안전성과 효능을 강조하여 차별화된 제품을 선보여야 합니다.",
+      "key_competitor_to_beat": "The Ordinary"
+    },
+    "madecassoside": {
+      "id": "madecassoside",
+      "commercial_tier": "C2",
+      "tier_rationale": "병풀 추출물의 핵심 성분으로, 피부 장벽 강화 및 진정 효과가 입증되어 다수의 더마 코스메틱 브랜드에서 주력 성분으로 활용하며 경쟁이 심화되고 있음.",
+      "top_brands_kr": [
+        {
+          "brand": "닥터지",
+          "product_example": "레드 블레미쉬 클리어 수딩 크림",
+          "strength": "high"
+        },
+        {
+          "brand": "스킨1004",
+          "product_example": "마다가스카르 센텔라 앰플",
+          "strength": "high"
+        },
+        {
+          "brand": "토리든",
+          "product_example": "다이브인 저분자 히알루론산 세럼",
+          "strength": "high"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "La Roche-Posay",
+          "product_example": "Cicaplast Baume B5",
+          "strength": "high"
+        },
+        {
+          "brand": "CeraVe",
+          "product_example": "Healing Ointment",
+          "strength": "high"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "고농축 마데카소사이드 단독 제형 또는 특정 피부 고민(예: 홍조, 트러블 자국)에 특화된 복합 솔루션 개발이 필요함.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "마데카소사이드의 효능을 극대화하는 고함량 제형 또는 특정 피부 고민에 최적화된 복합 성분 배합을 통해 경쟁 브랜드와 차별화해야 합니다.",
+      "key_competitor_to_beat": "닥터지"
+    },
+    "spilanthol": {
+      "id": "spilanthol",
+      "commercial_tier": "C1",
+      "tier_rationale": "천연 보톡스 효과로 주목받으며 신규 브랜드 및 제품 출시가 늘고 있으나, 아직은 특정 브랜드 중심으로 시장이 형성되는 초기 단계임.",
+      "top_brands_kr": [
+        {
+          "brand": "아누아",
+          "product_example": "하트리프 카밍 70% 수분 토너",
+          "strength": "medium"
+        },
+        {
+          "brand": "메디큐브",
+          "product_example": "에이지-알엑스 프로 레티날 샷",
+          "strength": "high"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Glow Recipe",
+          "product_example": "Watermelon Glow Niacinamide Dew Drops",
+          "strength": "high"
+        },
+        {
+          "brand": "Herbivore",
+          "product_example": "Bakuchiol Retinol Alternative Serum",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "스필란톨의 즉각적인 리프팅 및 주름 개선 효과를 강조하는 제품, 그리고 다른 안티에이징 성분과의 시너지 효과를 탐색할 필요가 있음.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "스필란톨의 즉각적인 주름 개선 및 탄력 증진 효과를 명확히 소구하는 제품을 개발하고, 레티놀 대체재로서의 강점을 부각하여 시장을 공략해야 합니다.",
+      "key_competitor_to_beat": "Glow Recipe"
+    },
+    "tranexamic_acid": {
+      "id": "tranexamic_acid",
+      "commercial_tier": "C2",
+      "tier_rationale": "색소 침착 개선 효과로 널리 알려져 있으며, 다양한 브랜드에서 미백 기능성 제품에 적극적으로 활용하여 경쟁이 치열한 성장기 시장임.",
+      "top_brands_kr": [
+        {
+          "brand": "메디큐브",
+          "product_example": "제로 모공 패드 2.0",
+          "strength": "high"
+        },
+        {
+          "brand": "코스알엑스",
+          "product_example": "RX 더 비타민 C 23 세럼",
+          "strength": "high"
+        },
+        {
+          "brand": "마녀공장",
+          "product_example": "갈락 나이아신 2.0 에센스",
+          "strength": "high"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Paula's Choice",
+          "product_example": "10% Niacinamide Booster",
+          "strength": "high"
+        },
+        {
+          "brand": "The Ordinary",
+          "product_example": "Alpha Arbutin 2% + HA",
+          "strength": "high"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "트라넥삼산 단독 고함량 제형, 또는 비타민 C, 나이아신아마이드 등과의 시너지 효과를 극대화한 복합 미백 솔루션 개발이 필요함.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "트라넥삼산의 강력한 미백 효과를 극대화하는 고함량 또는 복합 성분 제형을 개발하고, 기존 제품과의 차별점을 명확히 하여 시장 점유율을 확대해야 합니다.",
+      "key_competitor_to_beat": "메디큐브"
+    },
+    "cysteamine": {
+      "id": "cysteamine",
+      "commercial_tier": "C1",
+      "tier_rationale": "멜라닌 생성 억제 효과가 뛰어나 차세대 미백 성분으로 주목받고 있으나, 아직은 소수의 전문 브랜드에서만 제품을 출시하는 초기 단계임.",
+      "top_brands_kr": [
+        {
+          "brand": "어노브",
+          "product_example": "더블 펩타이드 세럼 컴플렉스",
+          "strength": "medium"
+        },
+        {
+          "brand": "마녀공장",
+          "product_example": "갈락 나이아신 2.0 에센스",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "The Ordinary",
+          "product_example": "10% L-Ascorbic Acid + Alpha Arbutin 2%",
+          "strength": "high"
+        },
+        {
+          "brand": "Paula's Choice",
+          "product_example": "C15 Super Booster",
+          "strength": "high"
+        }
+      ],
+      "marketing_intensity": "low",
+      "market_gap": "시스테아민의 안정화 기술 및 피부 흡수율 증진, 그리고 다른 미백 성분과의 시너지 효과를 탐색하는 제품 개발이 필요함.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "시스테아민의 안정성과 효능을 극대화하는 독자적인 기술을 개발하고, 차세대 미백 성분으로서의 잠재력을 앞세워 시장을 선점하는 전략이 필요합니다.",
+      "key_competitor_to_beat": "none"
+    },
+    "ectoin": {
+      "id": "ectoin",
+      "commercial_tier": "C1",
+      "tier_rationale": "강력한 보습 및 세포 보호 효과로 주목받으며 더마 코스메틱 시장에서 점차 인지도를 높여가고 있으나, 아직은 소수 브랜드의 제품 라인업에 포함되는 수준임.",
+      "top_brands_kr": [
+        {
+          "brand": "닥터지",
+          "product_example": "레드 블레미쉬 수딩 크림",
+          "strength": "high"
+        },
+        {
+          "brand": "일리윤",
+          "product_example": "세라마이드 더마 집중 크림",
+          "strength": "high"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Eucerin",
+          "product_example": "Eczema Relief Cream",
+          "strength": "high"
+        },
+        {
+          "brand": "Avene",
+          "product_example": "Cicalfate+ Restorative Protective Cream",
+          "strength": "high"
+        }
+      ],
+      "marketing_intensity": "low",
+      "market_gap": "엑토인의 피부 보호 및 회복 효능을 극대화하는 고함량 제형, 그리고 외부 스트레스 요인으로부터 피부를 보호하는 컨셉의 제품 개발이 필요함.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "엑토인의 강력한 세포 보호 및 회복 효능을 강조하는 고함량 제품을 개발하고, 외부 환경으로부터 피부를 보호하는 컨셉으로 차별화된 마케팅을 진행해야 합니다.",
+      "key_competitor_to_beat": "Eucerin"
+    },
+    "senolytics": {
+      "id": "senolytics",
+      "commercial_tier": "C0",
+      "tier_rationale": "노화 세포 제거라는 혁신적인 컨셉으로 연구가 활발하나, 아직은 학술적 단계에 머물러 있으며 상업화된 화장품은 거의 존재하지 않음.",
+      "top_brands_kr": [],
+      "top_brands_us": [],
+      "marketing_intensity": "low",
+      "market_gap": "세놀리틱스의 안전성과 효능을 입증하고, 이를 화장품에 적용할 수 있는 기술 개발 및 시장 진입 전략 수립이 시급함.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "세놀리틱스 성분의 안전성과 효능에 대한 선도적인 연구를 수행하고, 혁신적인 안티에이징 솔루션으로서의 잠재력을 바탕으로 시장을 개척해야 합니다.",
+      "key_competitor_to_beat": "none"
+    },
+    "beta_glucan": {
+      "id": "beta_glucan",
+      "commercial_tier": "C1",
+      "tier_rationale": "베타글루칸은 보습 및 피부 장벽 강화 효과로 인해 점진적으로 인지도를 높이고 있으나, 아직 특정 브랜드가 시장을 장악하지 못한 진입 단계에 있습니다.",
+      "top_brands_kr": [
+        {
+          "brand": "아누아",
+          "product_example": "어성초 약산성 스킨",
+          "strength": "high"
+        },
+        {
+          "brand": "토리든",
+          "product_example": "다이브인 저분자 히알루론산 세럼",
+          "strength": "high"
+        },
+        {
+          "brand": "코스알엑스",
+          "product_example": "카테킨 앰플",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Krave Beauty",
+          "product_example": "Great Barrier Relief",
+          "strength": "high"
+        },
+        {
+          "brand": "Paula's Choice",
+          "product_example": "RESIST Hyaluronic Acid Booster",
+          "strength": "medium"
+        },
+        {
+          "brand": "The Ordinary",
+          "product_example": "Hyaluronic Acid 2% + B5",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "고농축 베타글루칸 단일 성분 제품 또는 베타글루칸과 시너지 효과를 낼 수 있는 다른 장벽 강화 성분과의 조합 제품이 부족합니다.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "베타글루칸의 뛰어난 피부 장벽 강화 및 진정 효과를 강조하는 고농축 세럼 또는 크림을 출시하여 시장 선점 효과를 노립니다. 특히 민감성 피부 타겟 마케팅을 강화합니다.",
+      "key_competitor_to_beat": "아누아"
+    },
+    "rice_bran": {
+      "id": "rice_bran",
+      "commercial_tier": "C1",
+      "tier_rationale": "쌀겨 성분은 천연 유래 성분에 대한 관심 증가와 함께 주목받고 있으나, 아직 대중적인 인지도와 제품 수가 많지 않아 진입 단계에 있습니다.",
+      "top_brands_kr": [
+        {
+          "brand": "스킨1004",
+          "product_example": "마다가스카르 센텔라 앰플",
+          "strength": "high"
+        },
+        {
+          "brand": "아누아",
+          "product_example": "어성초 약산성 스킨",
+          "strength": "high"
+        },
+        {
+          "brand": "마녀공장",
+          "product_example": "갈락토미세스 나이아신아마이드 2.0 앰플",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Glow Recipe",
+          "product_example": "Watermelon Glow Niacinamide Dew Drops",
+          "strength": "high"
+        },
+        {
+          "brand": "Beauty of Joseon",
+          "product_example": "Revive Serum: Ginseng + Snail Mucin",
+          "strength": "high"
+        },
+        {
+          "brand": "Krave Beauty",
+          "product_example": "Great Barrier Relief",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "low",
+      "market_gap": "쌀겨의 미백, 항산화, 보습 효과를 집중적으로 내세운 단일 성분 제품이나, 쌀겨 추출물을 활용한 혁신적인 제형의 제품이 부족합니다.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "쌀겨의 풍부한 영양과 천연 유래 성분임을 강조하며, 피부 톤 개선 및 영양 공급에 초점을 맞춘 에센스 또는 마스크팩을 출시합니다. 'K-Beauty'의 전통적인 성분 이미지를 활용합니다.",
+      "key_competitor_to_beat": "스킨1004"
+    },
+    "beef_tallow": {
+      "id": "beef_tallow",
+      "commercial_tier": "C0",
+      "tier_rationale": "비프 탈로우는 극소수의 니치 브랜드나 전통적인 보습제 형태로만 존재하며, 주류 화장품 시장에서는 거의 찾아보기 힘든 무주공산에 가깝습니다.",
+      "top_brands_kr": [
+        {
+          "brand": "unknown",
+          "product_example": "unknown",
+          "strength": "low"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Beef Tallow Skincare",
+          "product_example": "Beef Tallow Balm",
+          "strength": "high"
+        },
+        {
+          "brand": "Dr. Squatch",
+          "product_example": "Handmade Soap",
+          "strength": "medium"
+        },
+        {
+          "brand": "unknown",
+          "product_example": "unknown",
+          "strength": "low"
+        }
+      ],
+      "marketing_intensity": "low",
+      "market_gap": "현대적인 제형과 사용감으로 비프 탈로우의 보습력을 재해석한 제품, 그리고 비건/윤리적 소비 트렌드에 부합하는 대체 성분과의 조합 제품이 부재합니다.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "비프 탈로우의 강력한 보습 및 피부 보호 효과를 현대적인 제형(예: 밤 타입 세럼, 고보습 크림)으로 구현하여 출시합니다. '레트로 뷰티' 또는 '극건성 피부 솔루션' 컨셉으로 차별화합니다.",
+      "key_competitor_to_beat": "none"
+    },
+    "zinc_pca": {
+      "id": "zinc_pca",
+      "commercial_tier": "C2",
+      "tier_rationale": "징크 PCA는 피지 조절 및 모공 케어 효과로 인해 더마 코스메틱 중심으로 꾸준히 사용되고 있으며, 몇몇 브랜드가 이 분야에서 강세를 보이고 있습니다.",
+      "top_brands_kr": [
+        {
+          "brand": "닥터지",
+          "product_example": "레드 블레미쉬 클리어 수딩 크림",
+          "strength": "high"
+        },
+        {
+          "brand": "코스알엑스",
+          "product_example": "AC 컬렉션 카밍 젤 크림",
+          "strength": "high"
+        },
+        {
+          "brand": "아누아",
+          "product_example": "어성초 약산성 스킨",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "La Roche-Posay",
+          "product_example": "Effaclar Duo Dual Action Acne Treatment",
+          "strength": "high"
+        },
+        {
+          "brand": "Paula's Choice",
+          "product_example": "SKIN PERFECTING 2% BHA Liquid Exfoliant",
+          "strength": "high"
+        },
+        {
+          "brand": "CeraVe",
+          "product_example": "Acne Control Cleanser",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "징크 PCA 단독으로 고농축 포어 케어 앰플을 출시하거나, 징크 PCA와 함께 각질 제거 및 피부결 개선 효과를 동시에 제공하는 제품이 부족합니다.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "징크 PCA의 피지 조절 및 모공 수렴 효과를 극대화한 고농축 앰플을 출시하고, 살리실산 등 각질 제거 성분과의 시너지를 강조합니다. '번들거림 없는 산뜻한 피부'를 타겟으로 합니다.",
+      "key_competitor_to_beat": "닥터지"
+    },
+    "ceramide": {
+      "id": "ceramide",
+      "commercial_tier": "C3",
+      "tier_rationale": "세라마이드는 피부 장벽 강화의 핵심 성분으로 널리 알려져 있으며, 수많은 브랜드에서 다양한 제품을 출시하여 시장이 포화 상태에 이르렀습니다.",
+      "top_brands_kr": [
+        {
+          "brand": "토리든",
+          "product_example": "다이브인 저분자 히알루론산 세럼",
+          "strength": "high"
+        },
+        {
+          "brand": "일리윤",
+          "product_example": "세라마이드 더마 진정 크림",
+          "strength": "high"
+        },
+        {
+          "brand": "닥터지",
+          "product_example": "레드 블레미쉬 수딩 크림",
+          "strength": "high"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "CeraVe",
+          "product_example": "Moisturizing Cream",
+          "strength": "extreme"
+        },
+        {
+          "brand": "La Roche-Posay",
+          "product_example": "Cicaplast Baume B5",
+          "strength": "high"
+        },
+        {
+          "brand": "Kiehl's",
+          "product_example": "Ultra Facial Cream",
+          "strength": "high"
+        }
+      ],
+      "marketing_intensity": "extreme",
+      "market_gap": "세라마이드의 다양한 종류(NP, AP, EOP 등)를 조합하여 시너지를 극대화하거나, 특정 피부 고민(예: 노화, 색소침착)과 결합한 프리미엄 라인 제품이 더 필요합니다.",
+      "aplb_strategic_posture": "Late_Entry_Premium",
+      "aplb_action_kr": "APLB의 기존 강점인 피부 과학 기술력을 바탕으로, 고함량 복합 세라마이드와 혁신적인 전달체 기술을 적용한 프리미엄 라인 세라마이드 앰플을 출시합니다. '궁극의 피부 장벽 솔루션'으로 포지셔닝합니다.",
+      "key_competitor_to_beat": "CeraVe"
+    },
+    "glutathione": {
+      "id": "glutathione",
+      "commercial_tier": "C2",
+      "tier_rationale": "글루타치온은 강력한 항산화 및 미백 효과로 주목받으며 성장하고 있으며, 특히 이너뷰티와 함께 스킨케어에서도 입지가 강화되고 있습니다.",
+      "top_brands_kr": [
+        {
+          "brand": "메디큐브",
+          "product_example": "제로 모공 패드 2.0",
+          "strength": "high"
+        },
+        {
+          "brand": "아누아",
+          "product_example": "어성초 약산성 스킨",
+          "strength": "high"
+        },
+        {
+          "brand": "비레디",
+          "product_example": "글루타치온 샷",
+          "strength": "high"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "The Ordinary",
+          "product_example": "Ascorbyl Glucoside Solution 12%",
+          "strength": "medium"
+        },
+        {
+          "brand": "Paula's Choice",
+          "product_example": "C15 Super Booster",
+          "strength": "medium"
+        },
+        {
+          "brand": "Glow Recipe",
+          "product_example": "Watermelon Glow Niacinamide Dew Drops",
+          "strength": "high"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "글루타치온의 미백 효과를 극대화하기 위한 고농축 단일 성분 앰플이나, 비타민 C 등 다른 미백 성분과의 시너지를 강화한 제품이 더 필요합니다.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "글루타치온의 강력한 항산화 및 브라이트닝 효과를 강조하는 고농축 앰플을 출시합니다. 비타민 C 유도체나 나이아신아마이드와의 시너지를 통해 '맑고 투명한 피부'를 위한 솔루션으로 제안합니다.",
+      "key_competitor_to_beat": "메디큐브"
+    },
+    "alpha_arbutin": {
+      "id": "alpha_arbutin",
+      "commercial_tier": "C2",
+      "tier_rationale": "알파 아르부틴은 멜라닌 생성을 억제하여 색소 침착 개선에 효과적인 성분으로, 미백 기능성 제품에서 꾸준히 사용되며 성장기에 있습니다.",
+      "top_brands_kr": [
+        {
+          "brand": "코스알엑스",
+          "product_example": "RX 더 비타민 C 23 세럼",
+          "strength": "high"
+        },
+        {
+          "brand": "마녀공장",
+          "product_example": "갈락토미세스 나이아신아마이드 2.0 앰플",
+          "strength": "high"
+        },
+        {
+          "brand": "어퓨",
+          "product_example": "글루타치온 클리어 세럼",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "The Ordinary",
+          "product_example": "Alpha Arbutin 2% + HA",
+          "strength": "high"
+        },
+        {
+          "brand": "Good Molecules",
+          "product_example": "Alpha Arbutin Serum",
+          "strength": "high"
+        },
+        {
+          "brand": "Paula's Choice",
+          "product_example": "10% Niacinamide Booster",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "알파 아르부틴 단독으로 고농축 앰플을 출시하거나, 비타민 C, 나이아신아마이드 등 다른 미백 성분과의 최적 배합을 통해 시너지를 극대화한 제품이 부족합니다.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "알파 아르부틴의 강력한 색소 침착 개선 효과를 강조하는 고농축 앰플을 출시합니다. 비타민 C 또는 나이아신아마이드와의 시너지를 통해 '잡티 없는 맑은 피부'를 위한 솔루션으로 제안합니다.",
+      "key_competitor_to_beat": "The Ordinary"
+    },
+    "azelaic_acid": {
+      "id": "azelaic_acid",
+      "commercial_tier": "C2",
+      "tier_rationale": "아젤라산은 항염, 항균, 미백 효과를 겸비하여 여드름 및 색소 침착 개선에 효과적이며, 더마 코스메틱 중심으로 성장하고 있는 성분입니다.",
+      "top_brands_kr": [
+        {
+          "brand": "코스알엑스",
+          "product_example": "AC 컬렉션 아크네 클리어 패드",
+          "strength": "high"
+        },
+        {
+          "brand": "닥터지",
+          "product_example": "레드 블레미쉬 포 페이스 클렌저",
+          "strength": "high"
+        },
+        {
+          "brand": "스킨1004",
+          "product_example": "마다가스카르 센텔라 앰플",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Paula's Choice",
+          "product_example": "10% Azelaic Acid Booster",
+          "strength": "high"
+        },
+        {
+          "brand": "The Ordinary",
+          "product_example": "Azelaic Acid Suspension 10%",
+          "strength": "high"
+        },
+        {
+          "brand": "La Roche-Posay",
+          "product_example": "Effaclar Duo Dual Action Acne Treatment",
+          "strength": "high"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "아젤라산의 항염 및 진정 효과를 강조한 제품이나, 여드름 흉터 및 색소 침착 개선을 위한 고농축 앰플 또는 크림 제형이 더 필요합니다.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "아젤라산의 항염, 항균, 미백 효과를 모두 담은 고농축 앰플을 출시합니다. 여드름성 피부 및 색소 침착 고민을 가진 소비자를 타겟으로 '깨끗하고 균일한 피부톤'을 위한 솔루션으로 제안합니다.",
+      "key_competitor_to_beat": "Paula's Choice"
+    },
+    "ginseng": {
+      "id": "ginseng",
+      "commercial_tier": "C2",
+      "tier_rationale": "다수의 한국 브랜드에서 활발히 사용되며, 북미에서도 자연주의 트렌드와 함께 인지도가 상승 중.",
+      "top_brands_kr": [
+        {
+          "brand": "아누아",
+          "product_example": "하트잎쑥 진정 세럼",
+          "strength": "high"
+        },
+        {
+          "brand": "코스알엑스",
+          "product_example": "진생 95 플러스 라이트 에센스",
+          "strength": "medium"
+        },
+        {
+          "brand": "달바",
+          "product_example": "화이트 트러플 비건 톤업 선크림",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Beauty of Joseon",
+          "product_example": "Ginseng Essence Water",
+          "strength": "high"
+        },
+        {
+          "brand": "Innisfree",
+          "product_example": "Green Tea Seed Hyaluronic Serum",
+          "strength": "medium"
+        },
+        {
+          "brand": "Origins",
+          "product_example": "GinZing™ Oil-Free Energy-Boosting Gel Moisturizer",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "고농축 인삼 추출물을 활용한 안티에이징 또는 강력한 항산화 효능을 강조하는 제품.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "인삼의 항산화 및 항염 효능을 과학적으로 입증하고, 독자적인 추출 또는 배합 기술을 강조하여 차별화된 제품 개발.",
+      "key_competitor_to_beat": "아누아"
+    },
+    "allantoin": {
+      "id": "allantoin",
+      "commercial_tier": "C2",
+      "tier_rationale": "진정 및 피부 보호 효과로 인해 더마 코스메틱 전반에 널리 사용되며, 북미에서도 순한 성분으로 인식되어 꾸준히 사용됨.",
+      "top_brands_kr": [
+        {
+          "brand": "닥터지",
+          "product_example": "레드 블레미쉬 클리어 수딩 크림",
+          "strength": "high"
+        },
+        {
+          "brand": "일리윤",
+          "product_example": "세라마이드 더마 릴리프 모이스처 로션",
+          "strength": "high"
+        },
+        {
+          "brand": "코스알엑스",
+          "product_example": "퓨어 핏 시카 세럼",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "CeraVe",
+          "product_example": "Moisturizing Cream",
+          "strength": "high"
+        },
+        {
+          "brand": "La Roche-Posay",
+          "product_example": "Cicaplast Baume B5",
+          "strength": "high"
+        },
+        {
+          "brand": "Eucerin",
+          "product_example": "Eczema Relief Cream",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "민감성 피부를 위한 고효능 진정 솔루션으로, 알란토인의 농도를 높이거나 다른 진정 성분과의 시너지를 강조.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "알란토인의 피부 장벽 강화 및 진정 효과를 극대화하는 독자적인 제형 기술을 개발하고, 민감성 피부 타겟 마케팅 강화.",
+      "key_competitor_to_beat": "닥터지"
+    },
+    "squalane": {
+      "id": "squalane",
+      "commercial_tier": "C2",
+      "tier_rationale": "보습 및 피부 유연 효과로 인해 다양한 제형에 활용되며, 비건 트렌드와 맞물려 북미에서도 인기가 높음.",
+      "top_brands_kr": [
+        {
+          "brand": "토리든",
+          "product_example": "다이브인 저분자 히알루론산 세럼",
+          "strength": "high"
+        },
+        {
+          "brand": "코스알엑스",
+          "product_example": "더 뮤신 파워 에센스",
+          "strength": "medium"
+        },
+        {
+          "brand": "아누아",
+          "product_example": "하트잎쑥 진정 세럼",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "The Ordinary",
+          "product_example": "100% Plant-Derived Squalane",
+          "strength": "high"
+        },
+        {
+          "brand": "Biossance",
+          "product_example": "Squalane + Vitamin C Rose Oil",
+          "strength": "high"
+        },
+        {
+          "brand": "Glow Recipe",
+          "product_example": "Plum Plump Hyaluronic Serum",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "고순도 식물성 스쿠알란을 활용한 '클린 뷰티' 컨셉의 보습 라인 또는 노화 방지 기능 강화 제품.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "고순도 스쿠알란을 활용한 차별화된 보습 및 항산화 효능을 강조하고, 비건 및 클린 뷰티 트렌드에 부합하는 마케팅 전략 수립.",
+      "key_competitor_to_beat": "토리든"
+    },
+    "exosome": {
+      "id": "exosome",
+      "commercial_tier": "C1",
+      "tier_rationale": "최신 바이오 기술로 주목받으며 일부 고급 브랜드 및 시술 시장에서 사용 시작, 아직 대중화 초기 단계.",
+      "top_brands_kr": [
+        {
+          "brand": "ExoCoBio",
+          "product_example": "ASCEsphere",
+          "strength": "high"
+        },
+        {
+          "brand": "Rejuran",
+          "product_example": "Rejuran Healer",
+          "strength": "high"
+        },
+        {
+          "brand": "셀바이오랩",
+          "product_example": "엑소좀 앰플",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "ExoCoBio",
+          "product_example": "ASCEplus",
+          "strength": "high"
+        },
+        {
+          "brand": "Circadia",
+          "product_example": "Prodigy-Peel Px",
+          "strength": "medium"
+        },
+        {
+          "brand": "unknown",
+          "product_example": "unknown",
+          "strength": "low"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "안정화된 엑소좀 추출 및 전달 기술을 기반으로 한 강력한 피부 재생 및 항염 효과를 강조하는 프리미엄 라인.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "엑소좀의 피부 재생 및 항염 효능에 대한 임상 데이터를 확보하고, 독자적인 엑소좀 유래 성분 개발 및 안정화 기술을 통해 시장 선점.",
+      "key_competitor_to_beat": "ExoCoBio"
+    },
+    "retinol": {
+      "id": "retinol",
+      "commercial_tier": "C2",
+      "tier_rationale": "안티에이징 성분으로 꾸준히 사용되며, 최근 저자극 레티놀 제품 출시로 대중화 확대, 북미에서도 강력한 시장 형성.",
+      "top_brands_kr": [
+        {
+          "brand": "메디큐브",
+          "product_example": "레티놀 샷 앰플",
+          "strength": "high"
+        },
+        {
+          "brand": "코스알엑스",
+          "product_example": "더 레티놀 0.1 크림",
+          "strength": "high"
+        },
+        {
+          "brand": "아누아",
+          "product_example": "하트잎쑥 진정 세럼",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Paula's Choice",
+          "product_example": "1% Retinol Treatment",
+          "strength": "high"
+        },
+        {
+          "brand": "RoC",
+          "product_example": "Retinol Correxion Deep Wrinkle Night Cream",
+          "strength": "high"
+        },
+        {
+          "brand": "CeraVe",
+          "product_example": "Resurfacing Retinol Serum",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "extreme",
+      "market_gap": "저자극이면서도 강력한 주름 개선 및 탄력 효과를 제공하는 고함량 레티놀 제품 또는 레티날/레티노이드 복합체.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "저자극 기술과 고효능을 결합한 차세대 레티놀 또는 레티날 제품을 개발하고, 피부 타입별 맞춤 솔루션 제공.",
+      "key_competitor_to_beat": "메디큐브"
+    },
+    "caffeine": {
+      "id": "caffeine",
+      "commercial_tier": "C2",
+      "tier_rationale": "주로 아이케어 및 모공/피지 케어 제품에 활용되며, 북미에서도 다크서클 완화 등 특정 효능 강조 제품에 사용.",
+      "top_brands_kr": [
+        {
+          "brand": "코스알엑스",
+          "product_example": "카테킨 쿨링 아이 세럼",
+          "strength": "medium"
+        },
+        {
+          "brand": "이니스프리",
+          "product_example": "블랙 티 유스 인핸싱 앰플",
+          "strength": "medium"
+        },
+        {
+          "brand": "마녀공장",
+          "product_example": "갈락토미 나이아신 2.0 에센스",
+          "strength": "low"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "The Ordinary",
+          "product_example": "Caffeine Solution 5% + EGCG",
+          "strength": "high"
+        },
+        {
+          "brand": "Glow Recipe",
+          "product_example": "Guava Vitamin C Bright Serum",
+          "strength": "medium"
+        },
+        {
+          "brand": "Inkey List",
+          "product_example": "Caffeine Eye Cream",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "모공 수렴 및 피지 조절 효과를 극대화한 고농축 카페인 세럼 또는 붓기 완화 아이케어 제품.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "카페인의 모공 수렴 및 항산화 효과를 활용한 독자적인 포뮬러 개발, 특히 피지 및 모공 고민을 가진 타겟층 공략 강화.",
+      "key_competitor_to_beat": "The Ordinary"
+    },
+    "succinic_acid": {
+      "id": "succinic_acid",
+      "commercial_tier": "C1",
+      "tier_rationale": "최근 각광받는 성분으로, 피지 조절 및 각질 제거 효과로 인해 일부 브랜드에서 사용 시작, 아직 시장 초기 단계.",
+      "top_brands_kr": [
+        {
+          "brand": "어노브",
+          "product_example": "더블 릴리프 톤업 선스크린",
+          "strength": "medium"
+        },
+        {
+          "brand": "아누아",
+          "product_example": "하트잎쑥 진정 세럼",
+          "strength": "medium"
+        },
+        {
+          "brand": "unknown",
+          "product_example": "unknown",
+          "strength": "low"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "The Ordinary",
+          "product_example": "Salicylic Acid 2% Solution",
+          "strength": "low"
+        },
+        {
+          "brand": "Naturium",
+          "product_example": "Niacinamide Serum 12% Plus Zinc 2%",
+          "strength": "low"
+        },
+        {
+          "brand": "unknown",
+          "product_example": "unknown",
+          "strength": "low"
+        }
+      ],
+      "marketing_intensity": "low",
+      "market_gap": "피지 조절 및 각질 제거 효과를 극대화한 고농축 호박산 세럼 또는 톤업/모공 커버 기능성 제품.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "호박산의 피지 조절 및 각질 제거 효능을 과학적으로 입증하고, 이를 활용한 혁신적인 제형 개발로 시장 선점.",
+      "key_competitor_to_beat": "unknown"
+    },
+    "propolis": {
+      "id": "propolis",
+      "commercial_tier": "C2",
+      "tier_rationale": "항염 및 항균 효과로 인해 민감성 및 트러블 케어 제품에 널리 사용되며, 북미에서도 자연 유래 성분으로 인기.",
+      "top_brands_kr": [
+        {
+          "brand": "아누아",
+          "product_example": "하트잎쑥 진정 세럼",
+          "strength": "high"
+        },
+        {
+          "brand": "코스알엑스",
+          "product_example": "프로폴리스 라이트 앰플",
+          "strength": "high"
+        },
+        {
+          "brand": "스킨1004",
+          "product_example": "마다가스카르 센텔라 앰플",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Farmacy",
+          "product_example": "Honey Drop Lightweight Moisturizer",
+          "strength": "medium"
+        },
+        {
+          "brand": "Glow Recipe",
+          "product_example": "Watermelon Glow Niacinamide Dew Drops",
+          "strength": "medium"
+        },
+        {
+          "brand": "Beauty of Joseon",
+          "product_example": "Revive Serum : Ginseng + Snail Mucin",
+          "strength": "low"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "고농축 프로폴리스를 활용한 강력한 항염 및 피부 장벽 강화 솔루션 또는 트러블 진정 효과를 극대화한 제품.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "프로폴리스의 항염, 항균, 항산화 효능을 극대화하는 독자적인 추출 및 배합 기술을 개발하고, 민감성 및 트러블 피부 타겟 마케팅 강화.",
+      "key_competitor_to_beat": "아누아"
+    },
+    "pdrn": {
+      "id": "pdrn",
+      "commercial_tier": "C1",
+      "tier_rationale": "주로 시술 영역에서 강세이며, 화장품 라인은 소수 브랜드에서만 출시되어 진입기에 해당함.",
+      "top_brands_kr": [
+        {
+          "brand": "Rejuran",
+          "product_example": "Rejuran Healer",
+          "strength": "high"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Rejuran",
+          "product_example": "Rejuran Healer",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "고농도 PDRN 함유 제품 또는 PDRN과 시너지 효과를 내는 다른 재생 성분과의 조합 제품이 부족함.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "고순도 PDRN을 고함량으로 함유한 차별화된 제형의 재생 크림 또는 세럼을 출시하여, 시술 후 관리 및 홈케어 시장을 공략합니다.",
+      "key_competitor_to_beat": "Rejuran"
+    },
+    "resveratrol": {
+      "id": "resveratrol",
+      "commercial_tier": "C2",
+      "tier_rationale": "안티에이징 성분으로 인지도가 높아 다수 브랜드에서 활용 중이며, 강자 브랜드들이 형성되고 있음.",
+      "top_brands_kr": [
+        {
+          "brand": "어노브",
+          "product_example": "퍼스트 에센스",
+          "strength": "high"
+        },
+        {
+          "brand": "마녀공장",
+          "product_example": "갈락 나이아신 에센스",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Paula's Choice",
+          "product_example": "RESIST Anti-Aging Antioxidant Serum",
+          "strength": "high"
+        },
+        {
+          "brand": "The Ordinary",
+          "product_example": "Resveratrol 3% + Ferulic Acid 3%",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "레스베라트롤의 안정화 기술 및 고효능을 강조하는 제품, 또는 다른 항산화 성분과의 복합 처방을 통한 시너지 효과를 강조하는 제품이 더 필요함.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "안정화된 고함량 레스베라트롤과 비타민 C 등 강력한 항산화 성분을 결합한 고효능 세럼을 출시하여, 노화 방지 시장에서 프리미엄 이미지를 구축합니다.",
+      "key_competitor_to_beat": "Paula's Choice"
+    },
+    "mugwort": {
+      "id": "mugwort",
+      "commercial_tier": "C2",
+      "tier_rationale": "진정 및 항염 효과로 K-뷰티에서 인기가 높아 다수 브랜드에서 경쟁 중이며, 시장이 성장하고 있음.",
+      "top_brands_kr": [
+        {
+          "brand": "아누아",
+          "product_example": "쑥 진정 에센스",
+          "strength": "high"
+        },
+        {
+          "brand": "스킨1004",
+          "product_example": "마다가스카르 센텔라 쑥 카밍 크림",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Beauty of Joseon",
+          "product_example": "Revive Serum : Ginseng + Snail Mucin",
+          "strength": "medium"
+        },
+        {
+          "brand": "Glow Recipe",
+          "product_example": "Watermelon Glow PHA + BHA Pore-Tightening Toner",
+          "strength": "low"
+        }
+      ],
+      "marketing_intensity": "extreme",
+      "market_gap": "단순 진정 효과를 넘어 쑥의 항산화 및 피부 장벽 강화 효능을 심층적으로 소구하는 제품, 또는 민감성 피부를 위한 저자극 고효능 라인이 부족함.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "고농축 쑥 추출물과 함께 피부 장벽 강화 성분을 배합한 저자극 진정 세럼을 출시하여, 민감성 및 트러블 피부 타겟 시장을 공략합니다.",
+      "key_competitor_to_beat": "아누아"
+    },
+    "urea": {
+      "id": "urea",
+      "commercial_tier": "C2",
+      "tier_rationale": "보습 효과가 뛰어나 더마 코스메틱 중심으로 널리 사용되고 있으며, 경쟁이 치열한 성장기 시장임.",
+      "top_brands_kr": [
+        {
+          "brand": "일리윤",
+          "product_example": "세라마이드 아토 집중 크림",
+          "strength": "high"
+        },
+        {
+          "brand": "닥터지",
+          "product_example": "레드 블레미쉬 클리어 수딩 크림",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "CeraVe",
+          "product_example": "Moisturizing Cream",
+          "strength": "high"
+        },
+        {
+          "brand": "Eucerin",
+          "product_example": "Advanced Repair Cream",
+          "strength": "medium"
+        }
+      ],
+      "marketing_intensity": "high",
+      "market_gap": "고농도 우레아를 안정적으로 배합하여 각질 제거와 보습을 동시에 제공하는 제품, 또는 민감성 피부를 위한 저자극 고보습 제품이 더 필요함.",
+      "aplb_strategic_posture": "Differentiator",
+      "aplb_action_kr": "5% 이상의 고함량 우레아를 함유하면서도 피부 자극을 최소화한 보습 필링 세럼을 출시하여, 건조하고 각질이 고민인 피부를 위한 솔루션을 제공합니다.",
+      "key_competitor_to_beat": "CeraVe"
+    },
+    "silica": {
+      "id": "silica",
+      "commercial_tier": "C1",
+      "tier_rationale": "주로 모공 및 피지 케어 제품에 활용되나, 아직 전문적인 성분으로 부각되지 않아 소수 브랜드에서만 사용되는 진입기 시장임.",
+      "top_brands_kr": [
+        {
+          "brand": "코스알엑스",
+          "product_example": "퓨어 핏 시카 세럼",
+          "strength": "low"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "The Ordinary",
+          "product_example": "Salicylic Acid 2% Solution",
+          "strength": "low"
+        }
+      ],
+      "marketing_intensity": "low",
+      "market_gap": "실리카의 흡유 및 모공 수렴 효과를 극대화한 고효능 제품, 또는 실리카와 함께 모공 타이트닝 및 각질 제거에 효과적인 성분을 배합한 제품이 부족함.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "실리카를 핵심 성분으로 활용하여 피지 흡착 및 모공 수렴 효과를 극대화한 클레이 마스크 또는 딥 클렌저를 출시하여, 모공 케어 시장의 새로운 강자로 포지셔닝합니다.",
+      "key_competitor_to_beat": "none"
+    },
+    "spicule": {
+      "id": "spicule",
+      "commercial_tier": "C1",
+      "tier_rationale": "최근 주목받기 시작한 신규 성분으로, 일부 브랜드에서 안티에이징 및 피부 재생 효과를 소구하며 진입하고 있는 초기 시장임.",
+      "top_brands_kr": [
+        {
+          "brand": "셀바이오랩",
+          "product_example": "셀엑소좀 스피큘 앰플",
+          "strength": "medium"
+        }
+      ],
+      "top_brands_us": [
+        {
+          "brand": "Naturium",
+          "product_example": "Niacinamide Serum 12% Plus Zinc 2%",
+          "strength": "low"
+        }
+      ],
+      "marketing_intensity": "medium",
+      "market_gap": "스피큘의 피부 침투력과 효능을 극대화하는 기술력, 또는 스피큘과 시너지 효과를 내는 펩타이드, 성장인자 등과의 복합 처방 제품이 부족함.",
+      "aplb_strategic_posture": "Pioneer",
+      "aplb_action_kr": "미세 스피큘 기술을 적용하여 피부 깊숙이 유효 성분을 전달하는 고효능 안티에이징 앰플을 출시하고, 시술 효과를 집약한 홈케어 솔루션으로 포지셔닝합니다.",
+      "key_competitor_to_beat": "셀바이오랩"
+    }
+  }
+}

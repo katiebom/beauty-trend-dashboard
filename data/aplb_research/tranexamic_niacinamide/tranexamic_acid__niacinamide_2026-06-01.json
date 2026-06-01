@@ -1,0 +1,342 @@
+{
+  "ingredient_a": "tranexamic acid",
+  "ingredient_b": "niacinamide",
+  "query": "(\"tranexamic acid\"[Title/Abstract] AND \"niacinamide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42220732",
+      "title": "Successful Therapeutic Approach to Facial Hyperpigmentation Secondary to Addison's Disease: A Case Report and Literature Review.",
+      "abstract": "Addison's disease, or primary adrenal insufficiency, is a rare endocrine disorder characterized by deficient glucocorticoid and mineralocorticoid production, frequently associated with cutaneous hyperpigmentation due to chronic elevation of adrenocorticotropic hormone. Facial hyperpigmentation may persist despite adequate hormonal replacement, representing a therapeutic challenge with limited evidence to guide dermatologic management. We report the case of a 41-year-old female patient with an eight-year history of progressive hyperpigmentation affecting the face, hands, and oral mucosa. Physical examination revealed severe facial involvement with brown-violaceous macules and associated telangiectasias. The patient had a prior diagnosis of autoimmune ovarian failure in 2017 and was diagnosed with Addison's disease in 2020, receiving stable glucocorticoid replacement therapy. Histopathological evaluation demonstrated basal layer hyperpigmentation without interface dermatitis, consistent with endocrine-related pigmentation and overlapping melasma features. A multimodal therapeutic approach was implemented, including picosecond Nd:YAG laser therapy (approximately seven sessions at six- to eight-week intervals), oral tranexamic acid (250 mg twice daily), and a topical depigmenting regimen containing tranexamic acid, niacinamide, retinoids, and antioxidants. The patient demonstrated a significant reduction in modified Melasma Area and Severity Index score from 19.8 to 7.8 (60.6% reduction), along with a marked improvement in quality of life, as evidenced by a posttreatment Melasma Quality of Life Scale score of 20/70. This case highlights that persistent hyperpigmentation in Addison's disease may not fully resolve with endocrine treatment alone and may require adjunctive dermatologic interventions. A personalized, multimodal strategy targeting multiple pathogenic pathways, including melanogenesis, plasmin-mediated signaling, vascular factors, and dermal pigment deposition, can achieve significant improvement, even in patients with darker phototypes and long-standing disease. These findings underscore the importance of a multidisciplinary approach and suggest a potential role for combination therapies, including laser-based modalities, in managing complex pigmentary disorders associated with systemic conditions. Further studies are needed to establish standardized treatment protocols and evaluate long-term outcomes.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Colorado Franco Laura A",
+        "Villamizar Melanie",
+        "Caceres Cindy Lorena",
+        "González Ardila César",
+        "Holguín Molina Angie Julieth"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42220732/"
+    },
+    {
+      "pmid": "42152519",
+      "title": "Multitargeted Modulation of Skin Dullness by HNHT Formulation: Synergistic Inhibition of Melanogenesis, Glycation, and Lipofuscin Deposition.",
+      "abstract": "Skin dullness, characterized by pigmentation disorders and yellowing, is a major cosmetic concern in Asian populations. Lipofuscin exhibits ultraviolet (UV)/visible light spectral absorption, reduces skin reflectance, and contributes to dullness, whereas existing therapies targeting melanogenesis and glycation lack comprehensive efficacy. This study aimed to evaluate the multimodal anti-dullness effects of a novel formulation (HNHT: hyaluronic acid, niacinamide, hydrolyzed red algae, and tranexamic acid).",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Wang Zheng",
+        "Fan Yumei",
+        "Ling Peixue"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanins",
+        "Melanocytes",
+        "Lipofuscin",
+        "Skin Pigmentation",
+        "Skin",
+        "Ultraviolet Rays",
+        "Glycosylation",
+        "Keratinocytes",
+        "Niacinamide"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42152519/"
+    },
+    {
+      "pmid": "41832625",
+      "title": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
+      "abstract": "Excess melanin deposition causes hyperpigmentation, a common dermatological disorder that leads to skin discoloration and an uneven skin tone. Traditional therapies such as topical creams and chemical peels have limitations due to insufficient skin penetration, lengthy treatment durations, and potential adverse effects. Transdermal drug administration has emerged as a viable alternative, offering improved therapeutic effectiveness, sustained release, and enhanced drug absorption. Among transdermal systems, microneedle-based patches have gained significant interest because of their ability to deliver active compounds directly through the skin, bypassing the stratum corneum. This study examines recent advancements in transdermal delivery for hyperpigmentation treatment, with a focus on dissolving microneedle (DMN) patches. Research indicates that DMN patches containing niacinamide, glabridin, and tranexamic acid exhibit greater skin-lightening effects than traditional topical formulations. Clinical studies have validated their safety, efficacy, and ability to reduce melasma and post-inflammatory hyperpigmentation with minimal side effects. Furthermore, novel polymeric formulations enhance drug absorption and stability, optimizing therapeutic outcomes. The use of multifunctional components, targeting tyrosinase inhibition, oxidative stress reduction, and melanin transfer, further improves depigmentation efficacy. The paper also highlights how emerging carriers, such as tetrahedral framework nucleic acids (tFNAs), may enhance drug delivery efficiency. As transdermal technologies continue to advance, microneedlebased approaches hold strong potential to transform hyperpigmentation treatment by providing a highly effective, non-invasive, and patient-friendly therapeutic option. Future research should focus on expanding clinical applications and refining formulation parameters to maximize benefits across diverse skin types.",
+      "year": "2026",
+      "journal": "Recent advances in drug delivery and formulation",
+      "authors": [
+        "Yadav Ayushi",
+        "Gupta Nakul",
+        "Alam Md Sarfaraz",
+        "Thakur Shreyasi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41832625/"
+    },
+    {
+      "pmid": "41537948",
+      "title": "Egyptian National Consensus on Dermocosmetic Ingredient Selection Across Common Dermatology Scenarios: A RAND/UCLA Appropriateness Study.",
+      "abstract": "Dermocosmetics are widely used to complement dermatologic care, yet context-specific guidance remains limited for populations with Fitzpatrick skin types III-V. We convened a national expert panel to generate transparent, reproducible recommendations across ten common clinical scenarios.",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Rageh Mahmoud A",
+        "Seoudy Wael M",
+        "Abozeid Mohamed F",
+        "Elkholy Abeer Mohamed",
+        "Moubasher Alaa E A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41537948/"
+    },
+    {
+      "pmid": "41315336",
+      "title": "Safety and efficacy of niosomal and conventional tranexamic acid/niacinamide vs. hydroquinone creams in melasma: A randomized, double-blind, case-controlled clinical trial.",
+      "abstract": "Melasma is a common hyperpigmentary skin disorder. Because of its high prevalence and serious complications, including negative psychiatric effects, early diagnosis and treatment would be essential. This randomized, double-blind, case-controlled clinical trial compared the efficacy of niosomal tranexamic acid (TXA) 2%/niacinamide (NCA) 2% cream and conventional TXA 5%/NCA 4% cream with topical hydroquinone (HQ) 4% cream as a gold standard in melasma patients. A total of 99 patients were randomly assigned to three groups: Group A received niosomal TXA/NCA cream, Group B received conventional TXA/NCA cream, and Group C received HQ cream for three months. Each patient attended five dermatologist visits to evaluate clinical efficacy. All treatment groups showed a considerable reduction in melanin index and modified melasma area and severity index (mMASI) scores, as well as a notable improvement in patients' quality of life. Although both niosomal TXA/NCA cream and conventional TXA/NCA cream were as effective as HQ cream in management of melasma, adverse reactions and relapse were observed in HQ group. Niosomal or conventional TXA/NCA creams are as effective as HQ 4% cream and due to less serious adverse reactions they would be better choices than HQ-containing preparations in hyperpigmentary disorders. Clinical Trial Registration No.: IRCT20220609055116N1 (Approval date: 07/23/2023).",
+      "year": "2025",
+      "journal": "Scientific reports",
+      "authors": [
+        "Ghasemiyeh Parisa",
+        "Haghighi Negin Fazelzadeh",
+        "Dastgheib Ladan",
+        "Ranjbar Sara",
+        "Mohammadi-Samani Soliman"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanosis",
+        "Tranexamic Acid",
+        "Female",
+        "Double-Blind Method",
+        "Adult",
+        "Hydroquinones",
+        "Male",
+        "Middle Aged",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41315336/"
+    },
+    {
+      "pmid": "41307217",
+      "title": "Emerging topical therapies for melasma: a comparative analysis of efficacy and safety.",
+      "abstract": "Melasma, a prevalent acquired hypermelanosis, significantly impacts psychological well-being. It presents as irregular, bilateral patches of brown or gray skin discoloration and currently lacks a curative treatment. Management focuses on controlling disease progression and preventing further hyperpigmentation through photoprotection, topical and oral medications, and dermatological procedures such as chemical peels, lasers, and microneedling.",
+      "year": "2025",
+      "journal": "The Journal of dermatological treatment",
+      "authors": [
+        "Suliman Rasha Saad",
+        "Alhuwayshil Jinan",
+        "Almuflehi Amal Ahmed",
+        "Al Zaghir Aya Khaldoon",
+        "Alateqi Hanan Awadh"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanosis",
+        "Dermatologic Agents",
+        "Treatment Outcome",
+        "Administration, Cutaneous",
+        "Hydroquinones",
+        "Severity of Illness Index",
+        "Randomized Controlled Trials as Topic",
+        "Tranexamic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41307217/"
+    },
+    {
+      "pmid": "40710660",
+      "title": "Clinical Safety and Efficacy of Hyaluronic Acid-Niacinamide-Tranexamic Acid Injectable Hydrogel for Multifactorial Facial Skin Quality Enhancement with Dark Skin Lightening.",
+      "abstract": "Facial aging is a complex process manifesting as skin hyperpigmentation, textural irregularities, and a diminished elasticity, hydration, and evenness of tone. The escalating demand for minimally invasive aesthetic interventions has driven the development of advanced hydrogel-based injectable formulations. This clinical study assessed the safety and efficacy of Hydragel A1, an injectable hydrogel containing hyaluronic acid (HA), niacinamide, and tranexamic acid (TXA), designed to simultaneously address multiple facets of facial skin aging. A cohort of 49 female participants underwent a series of objective and subjective assessments, including the Global Aesthetic Improvement Scale (GAIS), instrumental measurements (Antera 3D, Chromameter, Cutometer, Dermascan, Corneometer), and standardized photographic documentation at baseline (Day 0) and 14, 28, and 70 days post-treatment. The results demonstrated statistically significant improvements in skin hydration, texture, elasticity, and pigmentation following Hydragel A1 administration. Notably, no serious adverse events or significant injection site reactions were observed, confirming the favorable safety profile of the investigated device. Collectively, these findings underscore the potential of a combined HA, niacinamide, and TXA injectable formulation to provide a comprehensive approach to facial skin rejuvenation, effectively targeting multiple aging-related mechanisms.",
+      "year": "2025",
+      "journal": "Gels (Basel, Switzerland)",
+      "authors": [
+        "Hsin Sarah",
+        "Lourenço Kelly",
+        "Porcello Alexandre",
+        "Chemali Michèle",
+        "Marques Cíntia"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40710660/"
+    },
+    {
+      "pmid": "40626342",
+      "title": "Clinical Efficacy of a Novel Topical Formulation on Periorbital Dark Circles: An Objective Analysis.",
+      "abstract": "Hyperpigmentation and periorbital dark circles remain challenging dermatological concerns due to their multifactorial etiology, including vascular, pigmentary, and structural components. This study evaluates the efficacy of a novel multi-action topical formulation designed to target hyperpigmentation and skin aging through a synergistic blend of active ingredients.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Brady Robert Thomas",
+        "Shah-Desai Sabrina"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hyperpigmentation",
+        "Middle Aged",
+        "Female",
+        "Adult",
+        "Skin Aging",
+        "Administration, Cutaneous",
+        "Skin Pigmentation",
+        "Treatment Outcome",
+        "Dermatologic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40626342/"
+    },
+    {
+      "pmid": "40091954",
+      "title": "Comparative Efficacy of Skin-Lightening Formulations in Suppressing Ultraviolet B (UVB)-Induced Arachidonic Acid, Alpha-Melanocyte-Stimulating Hormone (α-MSH), and Melanin Expression: An In Vitro Keratinocyte-Melanocyte Co-culture Study.",
+      "abstract": "Melasma is a chronic hyperpigmentary disorder exacerbated by sun exposure, characterized by asymptomatic hyperpigmented macules and patches. Its pathogenesis involves ultraviolet B (UVB)-induced activation of melanogenesis pathways, including arachidonic acid (AA) metabolism, alpha-melanocyte-stimulating hormone (α-MSH) secretion, and melanin synthesis. This study aimed to evaluate the efficacy of a multi-ingredient skin-lightening formulation (3% tranexamic acid, 2% ascorbyl glucoside, 2.5% arbutin, and 5% niacinamide) compared to a 10% vitamin C preparation and 4% hydroquinone (HQ) in suppressing UVB-induced AA, α-MSH, and melanin production in a keratinocyte-melanocyte co-culture model.",
+      "year": "2025",
+      "journal": "Cureus",
+      "authors": [
+        "Ribero Simone",
+        "Romani Andrea",
+        "Mattozzi Carlo",
+        "Minoretti Piercarlo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40091954/"
+    },
+    {
+      "pmid": "40062688",
+      "title": "Evaluation of the Efficacy of a Serum Containing Niacinamide, Tranexamic Acid, Vitamin C, and Hydroxy Acid Compared to 4% Hydroquinone in the Management of Melasma.",
+      "abstract": "Melasma is a common skin condition that remains challenging to treat. Hydroquinone at 4% (HQ4%) is a frequently prescribed depigmenting compound that has been associated with potential side effects.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Rocio Juliane",
+        "Pittet Jean Christophe",
+        "Sachdev Mukta",
+        "Kovylkina Natalia",
+        "Deloche Bensmaine Claire"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Melanosis",
+        "Tranexamic Acid",
+        "Adult",
+        "Middle Aged",
+        "Hydroquinones",
+        "Single-Blind Method",
+        "Niacinamide",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40062688/"
+    },
+    {
+      "pmid": "38709701",
+      "title": "A Practical Algorithm for Integrating Skincare to Improve Patient Outcomes and Satisfaction With Energy-Based Dermatologic Procedures.",
+      "abstract": "Medical aesthetic procedures for facial antiaging with laser and energy-based devices (EBDs) are rapidly increasing, but standards integrating skincare before, during, and after these treatments are lacking. The algorithm for integrated skin care for facial antiaging treatment with EBDs aims to stimulate healing, reduce downtime, and improve comfort and treatment outcomes.",
+      "year": "2024",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Lain Edward",
+        "Alexis Andrew F",
+        "Andriessen Anneke",
+        "Campos Valeria Barreto",
+        "Haus Ariel"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Patient Satisfaction",
+        "Algorithms",
+        "Skin Care",
+        "Delphi Technique",
+        "Treatment Outcome",
+        "Face",
+        "Laser Therapy",
+        "Sunscreening Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38709701/"
+    },
+    {
+      "pmid": "38564400",
+      "title": "A Practical Algorithm Integrating Skin Care With Nonenergy and Injectable Dermatologic Procedures to Improve Patient Outcomes and Satisfaction.",
+      "abstract": "The most rapidly increasing medical aesthetic procedures for facial antiaging comprise nonenergy and injectable treatments. Currently, standards for skin care before, during, and after nonenergy and injectable treatments are lacking. The algorithm on supportive skin care for facial antiaging nonenergy and injectable treatments aims to stimulate healing, reduce downtime, and improve comfort and treatment outcomes.&nbsp; Methods: A panel of 7 global physicians employed a modified Delphi method and reached a consensus on an algorithm for supportive skin care for nonenergy and injectable antiaging treatments based on the best available evidence and the panel members&rsquo; clinical experiences and opinions.",
+      "year": "2024",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Lain Edward",
+        "Andriessen Anneke",
+        "Campos Valeria Barreto",
+        "Fabi Sabrina Guillen",
+        "Ginn Lisa"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Patient Satisfaction",
+        "Skin",
+        "Treatment Outcome",
+        "Antioxidants",
+        "Skin Care",
+        "Personal Satisfaction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38564400/"
+    },
+    {
+      "pmid": "38549196",
+      "title": "Efficacy and tolerability of a depigmenting gel serum comprising tranexamic acid, niacinamide, 4-butylresorcinol, phytic acid, and a mixture of hydroxy acids that targets the biological processes regulating skin melanogenesis.",
+      "abstract": "The diverse causes of hyperpigmentation and complex nature of melanogenesis make it a challenge to manage. Current approaches either fail to deliver effective pigmentation control or have undesirable safety profiles that preclude their long-term use.",
+      "year": "2024",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Furmanczyk Marta",
+        "Brown Anthony",
+        "Bustos Javier",
+        "de Henestrosa Antonio R Fernández",
+        "Trullas Carles"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Administration, Cutaneous",
+        "Drug Combinations",
+        "Epidermis",
+        "Gels"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38549196/"
+    },
+    {
+      "pmid": "38116639",
+      "title": "Role of interleukin-6 and endothelin-1 receptors in enhanced melanocyte dendricity of facial spots and suppression of their ligands by niacinamide and tranexamic acid.",
+      "abstract": "Hyperpigmented spots are common issues in all ethnicities with a hallmark characteristic of increased melanocyte dendricity.",
+      "year": "2024",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "authors": [
+        "Hakozaki T",
+        "Wang J",
+        "Laughlin T",
+        "Jarrold B",
+        "Zhao W"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Young Adult",
+        "Endothelin-1",
+        "Hyperpigmentation",
+        "Interleukin-6",
+        "Keratinocytes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38116639/"
+    },
+    {
+      "pmid": "37102219",
+      "title": "The clinical benefit of a multimodal topical approach to treating skin dyspigmentation.",
+      "abstract": "The recent removal of hydroquinone from the over-the-counter market has created a need for modern skin lightening formulations. An effective pigment lightening formulation must be non-irritating to prevent skin darkening from post-inflammatory hyperpigmentation, penetration enhanced to reach the epidermal/dermal junction, contain anti-inflammatory ingredients, and address multiple mechanisms of pigment production.",
+      "year": "2023",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Draelos Zoe Diana",
+        "Diaz Isabel"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Dermatologic Agents",
+        "Tranexamic Acid",
+        "Treatment Outcome",
+        "Hyperpigmentation",
+        "Niacinamide"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37102219/"
+    }
+  ],
+  "crawled_at": "2026-06-01T23:14:28.447606"
+}
