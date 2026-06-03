@@ -1,0 +1,222 @@
+{
+  "ingredient_id": "beta_glucan",
+  "name_en": "Beta-Glucan",
+  "name_kr": "베타글루칸",
+  "category": "barrier",
+  "query": "\"Beta-Glucan\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42197294",
+      "title": null,
+      "abstract": "Extracted from ",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Huang Cheng-Fu",
+        "Chang Jia-Feng",
+        "Yang Hui-Shan",
+        "Hsu Chih-Ping",
+        "Lin Chih-Cheng"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Mice",
+        "Reishi",
+        "Polysaccharides",
+        "Skin",
+        "Cell Movement",
+        "Wound Healing",
+        "NIH 3T3 Cells",
+        "Fungal Polysaccharides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42197294/"
+    },
+    {
+      "pmid": "42143050",
+      "title": "β-Glucan chitosan particle provides cross-protection against multi-drug-resistant Candida auris.",
+      "abstract": "Multidrug-resistant fungi, Candida auris, persist in the healthcare environment and colonize human skin and medical devices, causing life-threatening infections with mortality rates approaching ~60% in immunocompromised patients. Because some isolates are resistant to nearly all available antifungal drugs, alternative therapeutic approaches are urgently needed. C. auris cell wall contains β-glucan and highly conserved fungal glycan structures. Moreover, many cell wall proteins are heavily β-glycosylated, and a monoclonal antibody raised against β-glucan has been shown to recognize C. albicans hyphal-regulated cell wall protein (Hyr1p), which has homologous proteins in C. auris. Based on this conversation, we evaluated β-glucan chitosan particles (GCP) as a vaccine candidate and evaluated the humoral and cellular immune responses. GCP induced robust IgG antibody and IFN-γ, IL-4, and IL17 producing T cells that recognized purified C. auris cell wall proteins. Anti-GCP antibodies recognized the cell walls of C. auris isolates from four phylogenetic clades through binding to cell wall glycoproteins. Mice vaccinated with GCP were protected from disseminated C. auris infection (40% vs. 0% survival, p = <0.0001). GCP-vaccinated mice had significantly lower fungal burden than placebo in target organs (kidney, heart, and brain) and fewer fungal abscesses. These findings support GCP vaccination as a promising strategy against MDR C. auris.",
+      "year": "2026",
+      "journal": "NPJ vaccines",
+      "authors": [
+        "Singh Shakti",
+        "Barbarino Ashley",
+        "Youssef Eman G",
+        "Das Gupta Kaustav",
+        "Nabeela Sunna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42143050/"
+    },
+    {
+      "pmid": "42140134",
+      "title": "An HSP90-inhibitory thermosensitive hydrogel enhances photothermal therapy against triple-negative breast cancer.",
+      "abstract": "Triple-negative breast cancer (TNBC) is highly aggressive and prone to recurrence, and durable therapeutic efficacy is often difficult to achieve with monotherapy. Photothermal therapy (PTT) offers advantages such as minimal invasiveness and spatiotemporal controllability and induces tumor cell death through localized hyperthermia. However, thermal stimulation simultaneously activates protective heat-stress responses in tumor cells, among which the inducible upregulation of heat shock protein 90 (HSP90) enhances thermotolerance and consequently compromises the efficacy of PTT. To overcome this limitation, we proposed a synergistic strategy based on HSP90 inhibition to induce tumor cell apoptosis while sensitizing tumors to PTT, and constructed an intratumorally injectable thermosensitive hydrogel for localized drug delivery. The HSP90 inhibitor geldanamycin (GA) was loaded into mesoporous polydopamine (MPDA) to form MGA, which was subsequently encapsulated within a PNIPAM/β-glucan composite thermosensitive hydrogel, yielding MGA@Gel. Both in vitro and in vivo studies demonstrated that MGA@Gel markedly enhanced antitumor efficacy under near-infrared (NIR) laser irradiation and effectively suppressed HSP90-associated heat-stress tolerance. Notably, in a 4T1 tumor-bearing mouse model, a single intratumoral injection established a sustained local drug depot. When combined with NIR laser irradiation, this system enabled efficient tumor suppression, pronounced downregulation of HSP90 signaling, increased apoptosis, and reduced tumor cell proliferation. These findings confirm that GA, by blocking the heat-stress protective pathway, effectively potentiates the antitumor effects of PTT. Overall, we developed a thermosensitive in situ hydrogel delivery system that enhances PTT via HSP90 inhibition, thereby overcoming tumor thermoresistance and providing a promising strategy for precise local treatment of TNBC.",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Wang Ke",
+        "Xu Tao",
+        "Li Ruixiao",
+        "Tao Chao",
+        "Chen Weiyi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140134/"
+    },
+    {
+      "pmid": "42053902",
+      "title": "A Cationic Supramolecule With Potent Antifungal Activity, Single-Species Selectivity, and Strong Synergy With Echinocandins.",
+      "abstract": "Claiming 3.8 million lives annually, fungal pathogens represent a major health threat, where Candida species are the leading cause with >40% mortality rates. Despite rising prevalence of life-threatening fungal species/strains, progress in developing new antifungal agents remains limited. Here, we report a new synthetic membrane-active cationic supramolecule Gua-SMACS-16 that exhibits high antifungal potency and selectivity for Candida tropicalis (MIC = 0.4-0.8 µM) without affecting other phylogenetically close species in the Candida genus, non-Candida fungal, or common opportunistic bacterial species in the human microbiome. Gua-SMACS-16 exerts its activity by disrupting the cytoplasmic membrane, while its C. tropicalis selectivity is attributed to the species' low cell wall β-glucan level, which fails to block the supramolecule entry. It also exhibits minimal toxicity to mammalian cells and zebrafish embryos, suggesting a high clinical translation potential. Moreover, an ultra-strong synergy was observed between Gua-SMACS-16 and caspofungin, a clinical antifungal drug inhibiting 1,3-β-glucan synthase, reducing their MICs by orders of magnitude against all tested Candida species including the intractable C. auris. Together, this work highlights the importance of cell wall glucan for membrane-active antifungal amphiphiles, provides a novel design principle for species-specific antifungal agents, and uncovers a new approach to developing synergizers for combination antifungal therapy.",
+      "year": "2026",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Dai Tianjiao",
+        "Chen Adrielle Xianwen",
+        "Chow Eve Wai Ling",
+        "Pang Li Mei",
+        "Li Jianguo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42053902/"
+    },
+    {
+      "pmid": "41881222",
+      "title": "Sustainable valorization of waste biomass for β-glucan production: Key technologies, quality control and future prospects: A review.",
+      "abstract": "β-glucan, a biologically active polysaccharide with remarkable health benefits and versatile industrial applications, has attracted extensive research attention. Sustainable production of β-glucan from waste biomass is consistent with global initiatives to promote the circular economy and green biotechnology. This review comprehensively summarizes the latest progress in process development for β-glucan production using sustainable waste resources. The biological functions and application potential of β-glucan are outlined, with emphasis on its critical roles in pharmaceutical, food, cosmetic and agricultural industries. Various types of waste substrates and their suitability for β-glucan biosynthesis are discussed. Key technologies, including fermentation and enzymatic hydrolysis, as well as optimization strategies to improve yield and process efficiency, are highlighted. In addition, characterization techniques for evaluating the physicochemical properties and bioactivity of β-glucan are systematically reviewed. Despite considerable progress, current production methods face technical and economic challenges, such as substrate variability, process scalability and cost-effectiveness. Based on recent research advances, this review identifies critical bottlenecks and proposes future directions for sustainable β-glucan production. Ultimately, this work aims to provide theoretical support and practical guidance for the development of green, efficient and commercially viable β-glucan manufacturing from waste materials.",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Qiang Wei"
+      ],
+      "mesh_terms": [
+        "beta-Glucans",
+        "Biomass",
+        "Quality Control",
+        "Biotechnology",
+        "Hydrolysis",
+        "Fermentation",
+        "Waste Products"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41881222/"
+    },
+    {
+      "pmid": "41750354",
+      "title": "Intranasal Resveratrol Plus Carboxymethyl-β-Glucan: A Promising Option in Clinical Practice.",
+      "abstract": "Resveratrol is a polyphenol with numerous beneficial properties, acting as a phytoalexin. Plants produce resveratrol in response to various types of stress, such as infections and external damage. Resveratrol is a natural medicine thanks to its antimicrobial, antioxidant, anti-inflammatory, immunomodulatory, and antiallergic properties. However, resveratrol has poor oral bioavailability. To overcome this drawback, a topical nasal formulation has been developed, characterized by the fixed combination of carboxymethyl-β-glucan (CMBG) with trans-resveratrol. This innovative molecule has been the subject of in-depth preclinical studies to demonstrate its stability and solubility. Subsequently, several controlled clinical studies have shown that this formulation is effective and safe in patients with respiratory infections, allergic rhinitis, and nasal surgery. Therefore, taken together, these findings suggest that intranasal resveratrol-CMBG might be a promising option for the management of upper airway diseases.",
+      "year": "2026",
+      "journal": "Biomolecules",
+      "authors": [
+        "Ciprandi Giorgio",
+        "Tosca Maria Angela"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "beta-Glucans",
+        "Humans",
+        "Administration, Intranasal",
+        "Animals",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41750354/"
+    },
+    {
+      "pmid": "41685898",
+      "title": "Profound cell wall remodeling in ",
+      "abstract": "Antifungal tolerance can promote the emergence of resistance yet often incurs fitness costs for fungal pathogens. How tolerant populations compensate for these deficits and how they may be therapeutically targeted remain poorly understood. Here, we investigate four sequential ",
+      "year": "2026",
+      "journal": "Microbiology spectrum",
+      "authors": [
+        "Daneshnia Farnaz",
+        "Cai Liuyang",
+        "Gunasekaran Deepika",
+        "Gautam Isha",
+        "Perry Austin M"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Cell Wall",
+        "Candida parapsilosis",
+        "Animals",
+        "Mice",
+        "Echinocandins",
+        "Amphotericin B",
+        "Biofilms",
+        "Candidiasis",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41685898/"
+    },
+    {
+      "pmid": "41632999",
+      "title": "Yeast β-glucan accelerates diabetic wound healing via macrophage polarization and anti-inflammatory modulation.",
+      "abstract": "Diabetic foot ulcers (DFUs) represent a severe, non-healing complication of diabetes, primarily driven by chronic inflammation and impaired tissue regeneration. This study investigated the therapeutic efficacy and underlying immunological mechanisms of a novel topical formulation: a water-soluble β-glucan/cross-linked sodium hyaluronate hydrogel, on wound healing in db/db diabetic mice. Wound closure analysis demonstrated that daily application of the β-glucan hydrogel significantly accelerated healing, achieving an average closure rate of 90.95 %±3.15 % by postoperative day (POD) 14, markedly surpassing the 65.67 %±3.64 % observed in the control group. Histological examination revealed enhanced epithelialization, collagen deposition, and microvessel density (MVD), alongside a substantial reduction in total inflammatory cell and mast cell infiltration. Immunofluorescence and qRT-PCR analyses showed that β-glucan significantly promoted macrophage polarization toward the pro-reparative M2 phenotype (marked by increased CD206",
+      "year": "2026",
+      "journal": "Burns : journal of the International Society for Burn Injuries",
+      "authors": [
+        "Pan Jie",
+        "He Liuyang",
+        "Ding Jun",
+        "Shao Fang",
+        "Hao Yongzhe"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "beta-Glucans",
+        "Mice",
+        "Macrophages",
+        "Wound Healing",
+        "Diabetic Foot",
+        "Transforming Growth Factor beta",
+        "Male",
+        "Diabetes Mellitus, Experimental",
+        "Hydrogels"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41632999/"
+    },
+    {
+      "pmid": "41595125",
+      "title": "Dietary Fiber and Melanoma: Exploring Microbiome-Driven Immune Modulation.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Cancers",
+      "authors": [
+        "Turner Laci",
+        "Sisk Connor K",
+        "Yusuf Nabiha"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41595125/"
+    },
+    {
+      "pmid": "41586506",
+      "title": "Non-receptor tyrosine kinase c-Abl downstream of C-type lectin receptors regulates innate antifungal immunity through c-Cbl/MAPK pathway.",
+      "abstract": "Non-receptor tyrosine kinase c-Abl is critical for host defense against bacterial and viral infections, yet its role in antifungal immunity remains elusive. Here, we report that inhibition of c-Abl with flumatinib mesylate significantly impairs the survival rate and exacerbates fungal burden in mice infected with ",
+      "year": "2026",
+      "journal": "Infection and immunity",
+      "authors": [
+        "Ma Shu-Jun",
+        "Xie Ke-Fang",
+        "Duan Jie-Lin",
+        "Wang Xian-Long",
+        "Yang Yi-Heng"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Immunity, Innate",
+        "Candida albicans",
+        "Mice",
+        "Proto-Oncogene Proteins c-cbl",
+        "Proto-Oncogene Proteins c-abl",
+        "Dendritic Cells",
+        "Lectins, C-Type",
+        "Candidiasis",
+        "Mice, Inbred C57BL"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41586506/"
+    }
+  ],
+  "crawled_at": "2026-06-03T23:14:46.767643",
+  "source": "pubmed"
+}
