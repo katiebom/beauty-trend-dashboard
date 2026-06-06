@@ -1,0 +1,204 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42243613",
+      "title": "Efficacy and Mechanism of Silymarin Extract for Deep Second-Degree Burns in Rats.",
+      "abstract": "To investigate the therapeutic efficacy of silymarin extract on deep second-degree burns in vivo and in vitro and elucidate the underlying molecular mechanisms.",
+      "year": "2026",
+      "journal": "Chinese journal of integrative medicine",
+      "authors": [
+        "Zhang Xue",
+        "Yuan Yong",
+        "Wang Zi-Qiang",
+        "Wang Zi-Han",
+        "Wang Chuan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42243613/"
+    },
+    {
+      "pmid": "42243247",
+      "title": "Mechanism of Artemisia annua active component quercetin in treating psoriasis by regulating ferroptosis.",
+      "abstract": "This study aimed to investigate the mechanism by which active components of Artemisia annua modulate ferroptosis in the treatment of psoriasis vulgaris through an integrated approach combining network pharmacology, molecular docking, and in vivo validation. Therapeutic targets of Artemisia annua active components and psoriasis vulgaris-related genes were retrieved from the TCMSP and GeneCards databases, respectively. Common targets were identified using Venn analysis. Protein-protein interaction (PPI) networks were constructed using Cytoscape, with core targets extracted via the CytoHubba plugin. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses were performed. Ferroptosis-related genes were acquired from the FerrDb database. Molecular docking assessed the binding affinity between key active components and critical targets. In vivo experiments using an imiquimod (IMQ)-induced psoriasis-like mouse model were conducted to validate the network pharmacology predictions. Network pharmacology identified 22 active components of Artemisia annua, 202 potential targets, and 1,312 psoriasis-related genes, yielding 96 common targets. Further analysis revealed 485 ferroptosis-related genes, with 26 overlapping targets associated with 17 active components. PPI network analysis indicated TP53(P53), IL6, and IL1B as core targets. Quercetin, kaempferol, and luteolin were identified as the primary active components. Molecular docking demonstrated strong binding affinity between quercetin and TP53(P53). In vivo experiments showed that quercetin significantly alleviated psoriatic-like skin lesions, increased epidermal glutathione (GSH) levels, reduced Fe²⁺ accumulation and reactive oxygen species (ROS) production, and improved mitochondrial morphology. Furthermore, quercetin downregulated the protein and mRNA expression of P53, SAT1, and ALOX15. This study demonstrates that quercetin is the major active component of Artemisia annua responsible for mediating epidermal ferroptosis in psoriasis treatment. Experimental results indicate that quercetin alleviates the inflammatory response in psoriasis by inhibiting epidermal ferroptosis, a process that may be associated with the regulation of the P53/SAT1/ALOX15 signaling pathway.",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Xu Ke",
+        "Liu Fangrong",
+        "Li Min",
+        "Wang Yuntong",
+        "Hu Fengming"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42243247/"
+    },
+    {
+      "pmid": "42241945",
+      "title": "Bioinformatic analysis of the glutathione S-transferase gene family in Sarcoptes scabiei and protective immunity of Delta-class SsGSTd3 and SsGSTd5 in rabbits.",
+      "abstract": "Glutathione S-transferases (GSTs) are key detoxification enzymes and immune antigens in parasites. Sarcoptes scabiei has 14 GSTs in four subclasses (Delta, Mu, Kappa, Zeta), tandemly arranged in four chromosomes. Bioinformatic analysis revealed molecular weights of 22.28-43.73 kDa, isoelectric points of 4.90-8.70, and inter-subclass sequence similarity of 6.6%-21.03%. Transcriptomics and RT-qPCR showed consistent high expression of SsGSTd3, SsGSTd5, SsGSTm3, and SsGSTm4 across different host sources and stages. Since Delta GSTs are unique to S. scabiei, we expressed recombinant SsGSTd3 and SsGSTd5, and evaluated their immunoprotective effect. Western blotting confirmed the immunoreactivity of both proteins to rabbit serum; immunofluorescence showed that the SsGSTd3 localized mainly to inner organs, whereas SsGSTd5 was widely distributed within mites and possibly secreted to the host-parasite interface. Our vaccination trial demonstrated that the rSsGSTd3, rSsGSTd5, and cocktail groups showed significantly lower lesion scores and mite counts than control groups, including Phosphate-Buffered Saline (PBS) as a negative control, Quil A as an adjuvant control, and pET-32a as an empty vector control. The mean lesion scores in three experimental groups were 2.15 ± 1.24, 1.30 ± 0.49 and 1.46 ± 0.68, respectively, whereas in three control groups, the scores were 3.77 ± 0.47, 3.08 ± 0.64 and 3.54 ± 0.52, respectively. Compared to PBS (15360 ± 4102 mites), the rSsGSTd3, rSsGSTd5, and cocktail groups had 4129 ± 1348, 2831 ± 647, and 3128 ± 1060 mites, with reduction rates of 73.12%, 81.57%, and 79.63%, respectively. All recombinant proteins induced high specific IgG titers but no significant changes in IFN-γ, IL-2, IL-4, or IL-13. Overall, SsGSTd5 is the most promising vaccine candidate (lowest lesion score and highest mite reduction), with protection likely mediated by humoral immunity.",
+      "year": "2026",
+      "journal": "Veterinary parasitology",
+      "authors": [
+        "Xu Jing",
+        "Wang Hongmei",
+        "Lei Bo",
+        "Bao Xinyu",
+        "Gu Xiaobin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42241945/"
+    },
+    {
+      "pmid": "42237409",
+      "title": "Multi-omics characterization of the skin microbiota reveals the anti-aging roles of Stenotrophomonas maltophilia.",
+      "abstract": "Shifts in the skin microbiome have shown a close link to chronological age. However, the contribution of the skin microbiome in skin-aging phenotypes remains unclear.",
+      "year": "2026",
+      "journal": "Microbiome",
+      "authors": [
+        "Guo Danni",
+        "Chen Yuanyuan",
+        "Wu Yahong",
+        "Cheng Jingmin",
+        "Lin Yawen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42237409/"
+    },
+    {
+      "pmid": "42235265",
+      "title": "A pH/glutathione-dual-responsive drug-loaded heterostructure nanozyme for synergistic chemotherapy/chemodynamic therapy against melanoma.",
+      "abstract": "Melanoma is an aggressive skin malignancy that originates from melanocytes. It remains a major clinical challenge because of its high drug resistance, frequent relapse, and metastatic potential. Although chemodynamic therapy (CDT) can selectively kill cancer cells by generating hydroxyl radicals (·OH) in the tumour microenvironment (TME), its efficacy is often limited by insufficient reactive oxygen species (ROS) production. In this study, we used a hyaluronic acid (HA)-modified Fe-based metal-organic framework (MOF) co-loaded with the chemotherapeutic drug norcantharidin (NCTD) and gold nanoparticles (AuNPs) to develop a pH/glutathione dual-responsive MOF-AuNPs-NCTD@HA (MAuN@HA) heterostructure nanozyme that amplifies ROS generation for synergistic chemotherapy/CDT against melanoma. Within the weakly acidic TME, the MAuN@HA dissociates, releasing iron ions and NCTD, enabling combined chemotherapy and Fe-mediated CDT. The integrated gold nanozyme executed cascade catalytic reactions, enabled by enhanced catalase-, peroxidase-, and oxidase-like activities along with the Russell effect, generating a burst of diverse ROS (including singlet oxygen, superoxide anion, and ·OH) and amplifying oxidative stress. Notably, HA modification conferred active tumour targeting. In a B16 tumour-bearing mouse model, the MAuN@HA heterostructure nanozyme potently suppressed melanoma progression. Overall, this study presented a TME-responsive nanozyme strategy that combined cascade catalysis with drug release to achieve an effective ROS-amplified synergistic therapy against melanoma.",
+      "year": "2026",
+      "journal": "Journal of colloid and interface science",
+      "authors": [
+        "Zhou Yuzhu",
+        "Liu Yanfei",
+        "Feng Yufeng",
+        "Wu Lilin",
+        "Cai Bingbing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42235265/"
+    },
+    {
+      "pmid": "42234170",
+      "title": "Smartphone-assisted colorimetric sensing platform based on manganese phosphonate MOF nanozyme for total antioxidant capacity evaluation in fruits and cosmetics.",
+      "abstract": "Accurate evaluation of total antioxidant capacity (TAC) is crucial for assessing the functional benefits of antioxidant-rich foods and cosmetic products. Although colorimetric sensing offers a simple and low-cost strategy for TAC determination, its practical performance depends strongly on the stability and catalytic efficiency of the chromogenic system. Herein, we report a manganese phosphonate metal-organic framework (MnP MOF), constructed from Mn",
+      "year": "2026",
+      "journal": "Mikrochimica acta",
+      "authors": [
+        "Hu Feifan",
+        "Wu Zhiwen",
+        "Wang Minghui",
+        "Xiong Lihao",
+        "Qin Guoqing"
+      ],
+      "mesh_terms": [
+        "Colorimetry",
+        "Antioxidants",
+        "Organophosphonates",
+        "Manganese",
+        "Smartphone",
+        "Fruit",
+        "Cosmetics",
+        "Ascorbic Acid",
+        "Limit of Detection",
+        "Glutathione"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42234170/"
+    },
+    {
+      "pmid": "42219359",
+      "title": "Sensitivity of respiratory cell lines to unsaturated carbonyl compounds in cigarette smoke is regulated by intracellular glutathione.",
+      "abstract": "Cigarette smoking is a risk factor for various diseases, including chronic obstructive pulmonary disease (COPD). Cell death induced by cigarette smoke is one of the underlying causes of COPD. Unsaturated carbonyl compounds, such as acrolein and methyl vinyl ketone, are major cytotoxic factors in the gas phase of cigarette smoke. To elucidate the molecular mechanisms for induction of cell death by the unsaturated carbonyl compounds in respiratory cells, two lung cancer cell lines, A549 cells and SBC-3 cells, were exposed to the unsaturated carbonyl compounds. A549 cells were resistant to the unsaturated carbonyl compounds, while SBC-3 cells were sensitive to these compounds. Pharmacological analyses revealed that these compounds induce protein kinase C-dependent ferroptosis in SBC-3 cells. Inhibition of glutathione (GSH) synthesis increased the sensitivity of A549 cells to unsaturated carbonyl compounds. GSH level in A549 cells was approximately four times higher than that in SBC-3 cells. Inhibition of SLC7A11, a cystine transporter, in A549 cells increased their sensitivity to unsaturated carbonyl compounds, while overexpression of SLC7A11 in SBC-3 cells decreased their sensitivity to these compounds. These results indicate that the GSH synthetic capacity determines cell sensitivity to unsaturated carbonyl compounds. Accordingly, GSH may be a key factor for the pathogenesis of cigarette smoke-induced COPD.",
+      "year": "2026",
+      "journal": "The Journal of toxicological sciences",
+      "authors": [
+        "Higashi Tsunehito",
+        "Naganuma Fumito",
+        "Mai Yosuke",
+        "Handa Haruka",
+        "Maenaka Katsumi"
+      ],
+      "mesh_terms": [
+        "Glutathione",
+        "Humans",
+        "Smoke",
+        "Acrolein",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Ferroptosis",
+        "Cell Death",
+        "A549 Cells",
+        "Protein Kinase C",
+        "Cell Line, Tumor"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219359/"
+    },
+    {
+      "pmid": "42213528",
+      "title": "Pirfenidone Inhibits Inflammatory Mediators in Human Cornea ",
+      "abstract": "Corneal inflammation is a common clinical condition that contributes to loss of corneal transparency. This study evaluated the potential of pirfenidone (PFD), an FDA-approved drug, to inhibit inflammation in the human cornea using an ",
+      "year": "2026",
+      "journal": "Journal of ocular pharmacology and therapeutics : the official journal of the Association for Ocular Pharmacology and Therapeutics",
+      "authors": [
+        "Hofmann Alexandria C",
+        "Sinha Nishant R",
+        "Hurtado Abigail",
+        "Davis Alaina R",
+        "Suleiman Laila A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42213528/"
+    },
+    {
+      "pmid": "42209186",
+      "title": "[Effects of glutathione on acute cutaneous photodamage in mice and its mechanism].",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Zhonghua shao shang yu chuang mian xiu fu za zhi",
+      "authors": [
+        "Wang Q",
+        "Zhou L",
+        "Deng Y",
+        "Qiu Z J",
+        "Wu X"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Mice",
+        "Glutathione",
+        "Mice, Inbred C57BL",
+        "Skin",
+        "Ultraviolet Rays",
+        "Tumor Necrosis Factor-alpha",
+        "Skin Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42209186/"
+    },
+    {
+      "pmid": "42198417",
+      "title": "S-Methylmethionine (Vitamin U): A Critical Narrative Review of Pharmacological Mechanisms, Evidence Levels, and Translational Barriers.",
+      "abstract": "S-methylmethionine (SMM, also known as vitamin U) is a sulfur-containing vitamin-like compound that has been investigated since the 1940s for its gastroprotective and cytoprotective properties. Historically derived from observations of antiulcer activity in plant-derived foods, SMM has been studied in preclinical models and limited clinical settings for its multilevel pharmacological effects. This narrative review critically evaluates the available evidence on SMM's pharmacological actions across organ systems, with explicit differentiation between preclinical and clinical data. It covers the most consistently reported gastroprotective and antiulcer effects, as well as antioxidant, anti-inflammatory, cytoprotective, and regenerative activities observed predominantly in preclinical studies. Particular attention is paid to organ-specific protection in the nervous system, liver, kidneys, lungs, skin, eyes, and oral tissues, although human evidence remains scarce. Proposed mechanisms are mediated primarily through suppression of oxidative stress, modulation of inflammatory and immune responses, maintenance of glutathione homeostasis, activation of ERK/NF-κB and Nrf2/Keap1 pathways, and regulation of methylation processes. Building on recent descriptive reviews, this work provides a structured critical synthesis that grades evidence quality, compares SMM with the structurally related methyl donor S-adenosylmethionine (SAMe), and analyses the translational and regulatory barriers that have prevented Western drug registration despite over 70 years of investigation. Despite a substantial preclinical evidence base and historical clinical observations, the level of evidence for many indications remains limited. Well-designed Phase II randomized controlled trials and innovative pharmaceutical formulations (especially topical and mucosal delivery systems) are urgently needed to translate preclinical promise into clinical benefits.",
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Ananian Arsen A",
+        "Zelenina Tatiana Z",
+        "Stepanova Olga I",
+        "Popova Anna A",
+        "Bagatelia Zurab T"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42198417/"
+    }
+  ],
+  "crawled_at": "2026-06-06T22:09:48.843360",
+  "source": "pubmed"
+}

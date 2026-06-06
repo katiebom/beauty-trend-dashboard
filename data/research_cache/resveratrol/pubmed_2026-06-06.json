@@ -1,0 +1,190 @@
+{
+  "ingredient_id": "resveratrol",
+  "name_en": "Resveratrol",
+  "name_kr": "레스베라트롤",
+  "category": "anti_aging",
+  "query": "\"Resveratrol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42219757",
+      "title": "Changes in Cancer Stem Cell Signalling Pathways With Plant Metabolites to Discover Chemotherapy.",
+      "abstract": "Cancer stem cells (CSCs) are metabolically different from differentiated tumour cells, which are known as bulk cells. In this communication, we discuss the metabolic and biological differences between bulk tumour cells and CSCs. We further aim to discuss how plant metabolites can reorchestrate CSC signalling pathways, pushing these metabolically precarious cells towards differentiation and cell death. We delineate how plant metabolites curcumin, resveratrol, epigallocatechin gallate (EGCG) and genistein alter signaling in CSCs. The chemotherapeutic and chemopreventive potential of plant metabolites is also discussed, along with an analysis of how this field is going to progress with reference to drug discovery.",
+      "year": "2026",
+      "journal": "Chemistry & biodiversity",
+      "authors": [
+        "Rizvi Asim",
+        "Farhan Mohd",
+        "Ahmad Aamir",
+        "Aatif Mohammad"
+      ],
+      "mesh_terms": [
+        "Neoplastic Stem Cells",
+        "Humans",
+        "Signal Transduction",
+        "Plants",
+        "Antineoplastic Agents, Phytogenic",
+        "Resveratrol",
+        "Drug Discovery",
+        "Catechin",
+        "Curcumin",
+        "Genistein"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219757/"
+    },
+    {
+      "pmid": "42219068",
+      "title": "Smilacis Chinae Rhizoma ethyl acetate fraction alleviates IMQ-induced psoriasis by inhibiting IL-17-driven T-cell immune responses.",
+      "abstract": "Smilacis Chinae Rhizoma (SCR), derived from the rhizome of Smilax china L., has long been utilized in traditional Chinese medicine for the treatment of inflammatory dermatological disorders, including cutaneous abscesses.",
+      "year": "2026",
+      "journal": "Journal of ethnopharmacology",
+      "authors": [
+        "Wang Yingying",
+        "Wei Feng",
+        "Guo Yingxue",
+        "Tang Shuiyan",
+        "Zhang Houwen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219068/"
+    },
+    {
+      "pmid": "42210580",
+      "title": "Self-Powered Piezoelectric Nanofibrous Hydrogel for Synergistic Electro-Pharmacological Therapy of Chronic Wounds.",
+      "abstract": "Chronic wounds such as diabetic foot ulcers and burns pose clinical challenges due to persistent inflammation and impaired endogenous bioelectric signaling. Here, we report a self-powered piezoelectric nanofibrous hydrogel for synergistic electro-pharmacological therapy, fabricated via dual-nozzle electrospinning and Ca",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Wang Baoyu",
+        "Wang Yuting",
+        "Li Meiying",
+        "Wan Chubin",
+        "Ju Xin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210580/"
+    },
+    {
+      "pmid": "42206507",
+      "title": "Design and evaluation of multi-target AGEs/ALEs inhibitors for potential application in skin anti-aging.",
+      "abstract": "The main causes of skin aging include both intrinsic and extrinsic factors such as oxidative stress triggered by reactive oxygen species (ROS), modification of collagen and elastin by reactive carbonyl species (RCS), UV exposure, lifestyle habits and environmental pollutants. Skin aging is the most visible manifestation of senescence and is unavoidable. In particular, delaying age-related changes in facial appearance is a key objective for older adults. To address this issue, naturally occurring compounds including vitamin C, vitamin E, coenzyme Q10, resveratrol, niacinamide, carnosine, retinols (vitamin A derivatives), and hyaluronic acid are commonly used in commercially available anti-aging skincare products. These compounds are considered to be ROS and RCS scavengers or powerful humectant. This article describes a new multi-targeted anti-aging compounds for skin applications, composed of two functional moieties: one that neutralizes ROS and the other scavenges RCS. These compounds exhibit potent skin anti-aging properties, as demonstrated by their rapid and efficient scavenging of RCS, an ORAC value more than twice that of Trolox, and strong transition-metal-chelating activity.",
+      "year": "2026",
+      "journal": "Future medicinal chemistry",
+      "authors": [
+        "Sasaki N André",
+        "Sonnet Pascal"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42206507/"
+    },
+    {
+      "pmid": "42188291",
+      "title": "Diatomaceous Earth-Enabled Resveratrol Microemulsion for Enhanced Permeation and Stability.",
+      "abstract": "This study developed a microemulsion system based on diatomaceous earth (DE) for the topical delivery of resveratrol. The microemulsions were prepared using pseudo-ternary phase diagrams. A 4:1 ethanol:virgin coconut oil ratio resulted in a larger microemulsion region than a 3:1 ratio. Two formulations with oil (ethanol:virgin coconut oil, 3:1):Cremophor RH40:water ratios of 1:5:4 (ME1) and 2:5:3 (ME2) were selected for resveratrol loading and subsequently combined with DE at ratios of DE:microemulsion (DE:ME) 0.5:1, 0.5:2, and 0.5:3. The transmission electron microscopy images demonstrated the different microstructures of the microemulsions. Rheological analysis revealed an increase in storage modulus and a decrease in the linear viscoelastic region with increasing DE concentration, particularly in ME1. Differential scanning calorimetry showed disruption of boundary water following DE incorporation. Fourier-transform infrared spectroscopy indicated primarily physical interactions between resveratrol and the DE:ME system. DE:ME demonstrated high resveratrol content, approaching 100%. DE:ME1 0.5:2 significantly enhanced resveratrol permeation, resulting in a 3-fold increase compared with the microemulsion alone after 8 h. DE:ME1 0.5:2 and DE:ME2 0.5:3 enhanced the photostability of resveratrol and the formulations remained stable after storage at 40 °C for 6 months. The DE:ME system maintained its cellular uptake capability, preserved the biological activity of resveratrol, and exhibited low cytotoxicity in human keratinocytes, with cell viability remaining above 70%. These results highlight the potential of DE-based systems for incorporating microemulsions of low-water soluble photo-sensitizing substances in topical drug delivery applications.",
+      "year": "2026",
+      "journal": "Marine drugs",
+      "authors": [
+        "Weerapol Yotsanan",
+        "Manmuan Suwisit",
+        "Yammen Somnathtai",
+        "Werayachankul Thiyapha",
+        "Chaothanaphat Nattaya"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "Emulsions",
+        "Humans",
+        "Drug Stability",
+        "Coconut Oil",
+        "Permeability",
+        "Drug Delivery Systems",
+        "Polyethylene Glycols",
+        "Calorimetry, Differential Scanning",
+        "Rheology"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42188291/"
+    },
+    {
+      "pmid": "42177899",
+      "title": "Multifunctional hybrid lipid-polymeric nanoparticle enabling resveratrol and siRNA co-delivery for enhanced cutaneous wound repair.",
+      "abstract": "Chronic ulcers impose a significant global healthcare burden due to the limited availability of effective and durable treatments. Impaired spatial and temporal coordination of immune, epithelial, and endothelial responses contributes to persistent inflammation and defective tissue repair. To address this complexity, in this study, we report the rational design and characterization of a hybrid lipid-polymeric nanoparticle (HLPN) platform for prolonged topical co-delivery of resveratrol (RSV), targeting oxidative and inflammatory pathways, and siRNA against matrix metalloproteinase-9 (siMMP9), a key mediator of chronicity. The optimized HLPNs exhibited a mean diameter of ∼180 nm, low polydispersity (PDI <0.2), and positive surface charge (∼20 mV), with high RSV encapsulation efficiency (98%). Surface-complexed siRNA remained protected from RNase degradation for up to 24 h. Incorporation of HLPNs into a hydroxyethylcellulose hydrogel resulted in favorable colloidal properties, leading to enhanced penetration and retention of the therapeutic agents in both intact and barrier-impaired skin. HLPN effectively mediated the cellular uptake of siRNA, resulting in significant MMP-9 gene silencing (≈11-36.5-fold reduction). The co-delivery system also markedly decreased intracellular reactive oxygen species and pro-inflammatory cytokines TNF-α and IL-6 (≈3.8 and 12.9-fold). Importantly, lipopolysaccharide-induced impairment of fibroblast migration was reversed, with the HLPN-RSV-siMMP9 formulation increasing cell migration compared with untreated inflamed controls. Together, these findings demonstrate that the multifunctional HLPN platform developed enables effective multimodal modulation of inflammatory and proteolytic pathways, representing a promising nanotherapeutic strategy for chronic wound management.",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Morais Milena Finazzi",
+        "Silvestrini Ana Vitória Pupo",
+        "Depieri Lívia Vieira",
+        "da Silva Ualisson José",
+        "Ramos Ana Paula"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42177899/"
+    },
+    {
+      "pmid": "42174671",
+      "title": "Integrating network pharmacology, transcriptomics, and experimental validation: Compound Baixianpi Formula targets IL-17A to inhibit dual PI3K-AKT/JAK2-STAT3 pathways for psoriasis improvement.",
+      "abstract": "Psoriasis is an immune-mediated chronic inflammatory skin disease. Existing therapies have limitations, necessitating the development of new treatment approaches. Compound Baixianpi Formula (FFBXP) is a clinically effective topical Chinese herbal formula, but its material basis and mechanism of action remain unclear.",
+      "year": "2026",
+      "journal": "Chinese medicine",
+      "authors": [
+        "Tang Lin",
+        "Wang Yanli",
+        "Zhou Yue",
+        "Gan Chunli",
+        "Wang Jinhui"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42174671/"
+    },
+    {
+      "pmid": "42164887",
+      "title": "AHR: The Overlooked Mediator in SkincareBridging Environmental Sensing and Skin Physiology.",
+      "abstract": "The aryl hydrocarbon receptor (AHR) has expanded beyond its classical role and is increasingly recognized for its involvement in mediating the biological effects of cosmetic bioactives. Increasing evidence indicates that key cosmetic compounds, including resveratrol, ferulic acid, and curcumin, exert part of their effects through AHR activation, rather than solely via classical nuclear factor erythroid 2related factor 2 (NRF2) and nuclear factor kappa B (NF-κB)mediated pathways. Based on a comprehensive review of existing studies, AHR regulates multiple pathways relevant to skin function, including collagen synthesis, melanogenesis, barrier integrity, and metabolic signaling, highlighting its role as an integrative hub coordinating complex skin responses. This review frames AHR not merely as a xenobiotic sensor but as a transcription factor integrating multiple signals from environmental and bioactive inputs. Finally, we discuss how emerging tools, including AI-driven modeling and synthetic biology, may expand opportunities for future AHR-focused research and help inform more tailored skincare strategies.",
+      "year": "2026",
+      "journal": "Environment & health (Washington, D.C.)",
+      "authors": [
+        "Hu Xiaoxu",
+        "Zhu Ruihong",
+        "Zhen Yu",
+        "Li Qi",
+        "Liu Yiyun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42164887/"
+    },
+    {
+      "pmid": "42146866",
+      "title": "Mechanistic and preclinical evaluation of SIRT3 as a therapeutic target in melanoma.",
+      "abstract": "Despite advances in targeted inhibitors and immunotherapies, melanoma remains one of the deadliest skin cancers due to high metastatic potential and resistance to current therapies. This underscores a critical need for new, mechanism-based treatment strategies. Sirtuins, a family of class III histone deacetylases, have been implicated by our lab and others in numerous cellular functions, diseases, and cancers including melanoma. Here, we sought to extend our findings on the pro-proliferative role of SIRT3 by: (i) defining downstream mechanisms using PCR array and NanoString gene-expression profiling on CRISPR/Cas9-mediated SIRT3 knockout (KO) in melanoma cells; (ii) assessing effects of siRNA against SIRT3 in patient-derived xenograft (PDX) and Braf",
+      "year": "2026",
+      "journal": "Journal of dermato-oncology",
+      "authors": [
+        "Anaya Aldrete Karla B",
+        "Ndiaye Mary A",
+        "Guzmán-Pérez Glorimar",
+        "Zaemisch Gabriella R",
+        "Singh Chandra K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42146866/"
+    },
+    {
+      "pmid": "42140402",
+      "title": "Preclinical development of a 3D-printed hollow microneedle platform for intradermal delivery of antioxidant-loaded nanocarriers.",
+      "abstract": "The poor penetration of topical antioxidants underscores the need for advanced intradermal delivery platforms that overcome stratum corneum limitations while protecting labile compounds. Despite their efficacy, in-clinic treatments (microneedling, laser, injections) require frequent administration and entail high costs. Hollow microneedles (HMNs) provide a minimally invasive, precise, and versatile platform for intradermal drug delivery. Combined with nanotherapy approaches, they can protect labile compounds and enable localized release profiles. Here, we report the preclinical development of two designs of a 3D-printed HMN platform for intradermal delivery of resveratrol-loaded PLGA nanoparticles (RSV-NPs), as a proof-of-concept for antioxidant treatments. The HMNs fabricated by DLP 3D printing show precise geometry, favorable margin of safety, and enhanced RSV retention in the skin. An important advantage of this technology is the easy tunability of microneedle size, a critical parameter for depth-specific insertion and delivery control. Histological analysis confirms HMN (1 mm) reach the dermis, while HMN (1.5 mm) penetrate the dermis-hypodermis interface, enabling distinct delivery depths. RSV-NPs display optimal size, stability, high encapsulation efficiency, RSV photoprotection, sustained release, and controlled antioxidant activity with good biocompatibility. In vivo studies in human volunteers confirm the skin compatibility of the nanocarrier alone.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Basto Renata",
+        "Junqueira Laura Andrade",
+        "Tabriz Atabak Ghanizadeh",
+        "Douroumis Dennis",
+        "Pereira-Leite Catarina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140402/"
+    }
+  ],
+  "crawled_at": "2026-06-06T22:10:19.317000",
+  "source": "pubmed"
+}
