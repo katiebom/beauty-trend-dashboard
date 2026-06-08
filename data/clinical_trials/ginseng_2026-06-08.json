@@ -1,0 +1,122 @@
+{
+  "ingredient_id": "ginseng",
+  "name_kr": "인삼",
+  "name_en": "Ginseng",
+  "query": "(\"Ginseng\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 4,
+  "recent_complete_count": 3,
+  "trials": [
+    {
+      "nct_id": "NCT06137833",
+      "title": "Wide Spectrum Micronutrients Supplementation in Patients With Cancer Related Fatigue During Neoadjuvant and Adjuvant Chemotherapy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Fatigue",
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "APPOPRTAL®"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Pharmanutra S.p.a.",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06137833"
+    },
+    {
+      "nct_id": "NCT05875233",
+      "title": "A Study to Evaluate the Effect of Elix Cycle Balance and Daily Harmony on Polycystic Ovary Syndrome",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Polycystic Ovary Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Elix Daily Harmony"
+        },
+        {
+          "type": "OTHER",
+          "name": "Elix Cycle Balance"
+        }
+      ],
+      "sponsor": "Zenchi, Inc.",
+      "primary_completion": "2024-08-30",
+      "url": "https://clinicaltrials.gov/study/NCT05875233"
+    },
+    {
+      "nct_id": "NCT05241405",
+      "title": "Evaluation of the Impact of Taking American Ginseng for 8 Weeks on Fatigue in Patients Treated for Localized Breast or Gynecological Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Fatigue"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "QISENG"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "PLACEBO"
+        }
+      ],
+      "sponsor": "Centre Francois Baclesse",
+      "primary_completion": "2027-09",
+      "url": "https://clinicaltrials.gov/study/NCT05241405"
+    },
+    {
+      "nct_id": "NCT07081802",
+      "title": "The Effect of Perioperative Transcutaneous Electrical Acupoint Stimulation Combined With Traditional Chinese Medicine on Gastrointestinal Function Recovery in Patients Undergoing Abdominal Surgery",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "ERAS",
+        "Traditional Chinese Medication (TCM)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Da Jian Zhong Tang (Zanthoxylum, Ginger, Ginseng, Maltose)"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Transcutaneous Electrical Acupoint Stimulation (TEAS)"
+        },
+        {
+          "type": "OTHER",
+          "name": "ERAS"
+        },
+        {
+          "type": "OTHER",
+          "name": "Multimodal Prehabilitation Program"
+        }
+      ],
+      "sponsor": "Guang'anmen Hospital of China Academy of Chinese Medical Sciences",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07081802"
+    }
+  ],
+  "fetched_at": "2026-06-08T22:38:15.276368"
+}

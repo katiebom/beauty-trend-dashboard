@@ -1,0 +1,81 @@
+{
+  "ingredient_a": "glutathione",
+  "ingredient_b": "niacinamide",
+  "query": "(\"glutathione\"[Title/Abstract] AND \"niacinamide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 3,
+  "articles": [
+    {
+      "pmid": "38433524",
+      "title": "A Bayesian network meta-analysis of 14 molecules inhibiting UV daylight-induced pigmentation.",
+      "abstract": "Hyperpigmentation disorders are very frequent, affect the quality of life and may become a psychological burden for afflicted patients. Many anti-pigmenting or depigmenting agents are available with various efficacy and almost no comparative data. 2-mercaptonicotinoyl glycine (2-MNG) was recently proposed as a viable candidate showing safe and effective results on hyperpigmentation control in vitro and in vivo.",
+      "year": "2024",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "authors": [
+        "Muller Benoit",
+        "Flament Frederic",
+        "Jouni Hussein",
+        "Sextius Peggy",
+        "Tachon Romain"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Bayes Theorem",
+        "Ultraviolet Rays",
+        "Hyperpigmentation",
+        "Skin Pigmentation",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38433524/"
+    },
+    {
+      "pmid": "28512843",
+      "title": "Assessment of the efficacy and safety of a new complex skin cream in Asian women: A controlled clinical trial.",
+      "abstract": "Medical products such as hydroquinone and tretinoin have been widely used to treat various types of skin hyperpigmentation. However, these products are limited in daily use given their adverse effects. Other alternative agents with fewer adverse side effects have been developed. However, single agents often do not produce satisfactory results.",
+      "year": "2017",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Jung Yu Seok",
+        "Lee Ji Hae",
+        "Bae Jung Min",
+        "Lee Dong Won",
+        "Kim Gyong Moon"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adult",
+        "Asian People",
+        "Bleaching Agents",
+        "Female",
+        "Humans",
+        "Hyperpigmentation",
+        "Middle Aged",
+        "Skin Cream",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28512843/"
+    },
+    {
+      "pmid": "24002160",
+      "title": "Natural ingredients for darker skin types: growing options for hyperpigmentation.",
+      "abstract": "Dyschromia is one of the most common dermatological concerns in patients with darker skin.1 Disorders of hyperpigmentation, including postinflammatory hyperpigmentation, melasma, solar lentigines, and miscellaneous causes of facial hyperpigmentation, are the most frequently treated dyschromias and can have a considerable psychosocial impact. Given the high prevalence of hyperpigmentation and the considerable demand for an even complexion, newer treatment options for hyperpigmentation are of growing interest among consumers, manufacturers, and dermatologists. Blinded, controlled studies demonstrating skin lightening effects in soy, niacinamide, n-acetylglucosamine, licorice extract, arbutin, vitamin c, kojic acid, emblica extract, lignin peroxidase, and glutathione have led to the development of a growing list of non-prescription skin care products that can be incorporated (mostly as adjuncts) in the management of hyperpigmentation.",
+      "year": "2013",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Alexis Andrew F",
+        "Blackcloud Paul"
+      ],
+      "mesh_terms": [
+        "Biological Products",
+        "Dermatologic Agents",
+        "Humans",
+        "Hyperpigmentation",
+        "Melanosis",
+        "Nonprescription Drugs",
+        "Skin Care",
+        "Skin Pigmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/24002160/"
+    }
+  ],
+  "crawled_at": "2026-06-08T22:38:21.897568"
+}

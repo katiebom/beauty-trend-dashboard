@@ -1,0 +1,752 @@
+{
+  "ingredient_id": "glp1_topical",
+  "name_kr": "GLP-1 외용",
+  "name_en": "GLP-1 topical",
+  "query": "(\"GLP-1 topical\" OR \"GLP-1\" OR \"glucagon-like peptide-1\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 26,
+  "trials": [
+    {
+      "nct_id": "NCT05798494",
+      "title": "PRE-Pregnancy Weight Loss And the Reducing Effect on CHILDhood Overweight - Aarhus",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Overweight and Obesity",
+        "Weight Loss",
+        "Pregnancy Related",
+        "Child Nutrition Sciences",
+        "Body Composition"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Weight loss intervention"
+        }
+      ],
+      "sponsor": "Ulla Kampmann Opstrup",
+      "primary_completion": "2025-04-11",
+      "url": "https://clinicaltrials.gov/study/NCT05798494"
+    },
+    {
+      "nct_id": "NCT07224880",
+      "title": "Ellacor® Micro-Coring Technology® in Fitzpatrick Skin Types I-VI, Including Patients Receiving Glucagon-Like Peptide-1 Receptor Agonists",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "glp1 Agonist",
+        "Gene Expression",
+        "Skin Laxity"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "ellacor"
+        }
+      ],
+      "sponsor": "Cytrellis Biosystems, Inc.",
+      "primary_completion": "2026-01-30",
+      "url": "https://clinicaltrials.gov/study/NCT07224880"
+    },
+    {
+      "nct_id": "NCT07347080",
+      "title": "A Single-Center, Open-Label, Single Ascending Dose Study of Exenatide Circular RNA-Lipid Nanoparticle Injection (CR059) in Chinese Subjects With Type 2 Diabetes Mellitus",
+      "status": "RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "T2DM"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Exenatide Circular RNA-Lipid Nanoparticle Injection（ CR059））"
+        }
+      ],
+      "sponsor": "The First Affiliated Hospital of Henan University of Science and Technology",
+      "primary_completion": "2026-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT07347080"
+    },
+    {
+      "nct_id": "NCT06864026",
+      "title": "A Study to Investigate Effectiveness of Tirzepatide Following Initiation of Ixekizumab in Participants With Active Psoriatic Arthritis and Overweight or Obesity in Clinical Practice (TOGETHER AMPLIFY-PsA)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriatic Arthritis",
+        "Overweight or Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        }
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "primary_completion": "2027-11",
+      "url": "https://clinicaltrials.gov/study/NCT06864026"
+    },
+    {
+      "nct_id": "NCT07478198",
+      "title": "Study on the Efficacy and Safety of PLLA Injections for Improving Facial Laxity Following GLP-1 Analog Therapy",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Facial Skin Laxity"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "PLLA injection"
+        }
+      ],
+      "sponsor": "Shanghai Punan Hospital of Pudong New District",
+      "primary_completion": "2026-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT07478198"
+    },
+    {
+      "nct_id": "NCT07046819",
+      "title": "Tirzepatide in MetALD",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metabolic Alcohol-associated Liver Disease",
+        "Alcohol Use Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)",
+      "primary_completion": "2026-07-30",
+      "url": "https://clinicaltrials.gov/study/NCT07046819"
+    },
+    {
+      "nct_id": "NCT05872022",
+      "title": "A Study to Evaluate Safety of Exposure to Wegovy During Pregnancy",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Pregnancy",
+        "Obesity",
+        "Overweight"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "No Intervention"
+        }
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "primary_completion": "2032-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT05872022"
+    },
+    {
+      "nct_id": "NCT07341243",
+      "title": "Exercising in Hot Conditions: How Does it Effect Blood Glucose in People With T1D",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Type 1 Diabetes (T1D)"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Exercise"
+        }
+      ],
+      "sponsor": "Liverpool John Moores University",
+      "primary_completion": "2026-11-01",
+      "url": "https://clinicaltrials.gov/study/NCT07341243"
+    },
+    {
+      "nct_id": "NCT07443956",
+      "title": "Combination of Biologic and Anti-obesity Therapies in Psoriatic Arthritis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriatic Arthritis (PsA)",
+        "Obesity & Overweight"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ixekizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        }
+      ],
+      "sponsor": "NHS Greater Glasgow and Clyde",
+      "primary_completion": "2028-02",
+      "url": "https://clinicaltrials.gov/study/NCT07443956"
+    },
+    {
+      "nct_id": "NCT07006636",
+      "title": "Effect of Watermelon on Cardiometabolic Health",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cardiometabolic Health Indicators",
+        "Whole-body Antioxidant Capacity"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Watermelon Juice + liquid meal test at baseline"
+        },
+        {
+          "type": "OTHER",
+          "name": "Sweetened placebo beverage +liquid meal test at baseline"
+        }
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "primary_completion": "2027-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT07006636"
+    },
+    {
+      "nct_id": "NCT07216352",
+      "title": "Evaluate the Safety and Efficacy of a Topical Serum (AGE Serum) in Improving Visible Signs of Aging",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Laxity; Skin"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "AGE Serum"
+        }
+      ],
+      "sponsor": "Goldman, Butterwick, Fitzpatrick and Groff",
+      "primary_completion": "2026-03-30",
+      "url": "https://clinicaltrials.gov/study/NCT07216352"
+    },
+    {
+      "nct_id": "NCT07245771",
+      "title": "Phase 1/2a Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Effect on Body Weight of RN3161 as Monotherapy and in Combination With Tirzepatide in Adults With Overweight and Obesity",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity &Amp; Overweight"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "RN3161"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo Control"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        }
+      ],
+      "sponsor": "Ikaria Bioscience Pty Ltd",
+      "primary_completion": "2027-02-15",
+      "url": "https://clinicaltrials.gov/study/NCT07245771"
+    },
+    {
+      "nct_id": "NCT07419854",
+      "title": "Restoring Facial Volume After GLP-1 Weight Loss With Radiesse",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Volume Loss (Soft Tissue Ptosis or Atrophy )"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Hyperdiluted Calcium Hydroxylapatite"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Calcium hydroxylapatite"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Calcium hydroxylapatite with integral lidocaine"
+        }
+      ],
+      "sponsor": "Kalpna Kay Durairaj, MD, FACS",
+      "primary_completion": "2027-08",
+      "url": "https://clinicaltrials.gov/study/NCT07419854"
+    },
+    {
+      "nct_id": "NCT05202353",
+      "title": "A Study in People With Obesity to Test the Effects of BI 456906 Compared With Semaglutide on Glucagon Receptor Activity in the Liver",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BI 456906"
+        },
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        }
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "primary_completion": "2026-12-02",
+      "url": "https://clinicaltrials.gov/study/NCT05202353"
+    },
+    {
+      "nct_id": "NCT07563699",
+      "title": "Safety, Tolerability and Efficacy of Semaglutide Depot in Subjects With Type-2 Diabetes Mellitus",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabete Type 2"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SG Depot 2 mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "SG Depot 4 mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "SG Depot 6 mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "SG Depot 8 mg"
+        }
+      ],
+      "sponsor": "Mapi Pharma Ltd.",
+      "primary_completion": "2028-04",
+      "url": "https://clinicaltrials.gov/study/NCT07563699"
+    },
+    {
+      "nct_id": "NCT04775082",
+      "title": "SCALE KIDS: Research Study to Look at How Well a New Medicine is at Lowering Weight in Children With Obesity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Liraglutide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "primary_completion": "2023-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT04775082"
+    },
+    {
+      "nct_id": "NCT07382388",
+      "title": "A Real-World Study on the Impact of Weight Loss on Treatment Efficacy in Overweight/Obese Patients With Plaque Psoriasis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Weight loss and psoriasis treatment"
+        },
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "psoriasis treatment"
+        }
+      ],
+      "sponsor": "Peking University Third Hospital",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07382388"
+    },
+    {
+      "nct_id": "NCT07505043",
+      "title": "First-in-Human Study of ISH0688: Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy Subjects",
+        "Hyperlipidemia, Hypertriglyceridemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ISH0688 for injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "SUNHO（China）BioPharmaceutical CO., Ltd.",
+      "primary_completion": "2027-02-28",
+      "url": "https://clinicaltrials.gov/study/NCT07505043"
+    },
+    {
+      "nct_id": "NCT06857942",
+      "title": "A Study to Investigate the Effectiveness of Tirzepatide (LY3298176) Following Initiation of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque PsO and Obesity or Overweight in Clinical Practice (TOGETHER AMPLIFY-PsO)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriasis",
+        "Overweight or Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        }
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "primary_completion": "2028-05",
+      "url": "https://clinicaltrials.gov/study/NCT06857942"
+    },
+    {
+      "nct_id": "NCT06588283",
+      "title": "Ixekizumab Concomitantly Administered With Tirzepatide in Adults With Moderate-to-Severe Plaque Psoriasis and Obesity or Overweight",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriasis",
+        "Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ixekizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        }
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "primary_completion": "2026-01-08",
+      "url": "https://clinicaltrials.gov/study/NCT06588283"
+    },
+    {
+      "nct_id": "NCT06015893",
+      "title": "Semaglutide Therapy for Alcohol Reduction (STAR)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Addiction",
+        "Alcohol Use Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Take Control"
+        },
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2030-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06015893"
+    },
+    {
+      "nct_id": "NCT07428746",
+      "title": "Investigating the Impact of GLP-1 RA Therapy on Osteosarcopenia in Older Female Adults With Diabetes",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetes Mellitus, Type 2"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        }
+      ],
+      "sponsor": "Emory University",
+      "primary_completion": "2028-11",
+      "url": "https://clinicaltrials.gov/study/NCT07428746"
+    },
+    {
+      "nct_id": "NCT07221461",
+      "title": "Assess Impact of Microdroplet Hyaluronic Acid Filler on Skin Quality in Patients on Glucagon-like Peptide-1 Agonists",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Wrinkle"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Skinvive"
+        }
+      ],
+      "sponsor": "Goldman, Butterwick, Fitzpatrick and Groff",
+      "primary_completion": "2026-01-30",
+      "url": "https://clinicaltrials.gov/study/NCT07221461"
+    },
+    {
+      "nct_id": "NCT07430059",
+      "title": "Safety, Tolerability and Pharmacokinetics of a Subcutaneous Semaglutide Implant",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity & Overweight"
+      ],
+      "interventions": [
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Semaglutide Implant (NPM-139)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Semaglutide (Wegovy) weekly injection"
+        }
+      ],
+      "sponsor": "Vivani Medical, Inc",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT07430059"
+    },
+    {
+      "nct_id": "NCT07567378",
+      "title": "CARTIZ Registry: Cartilage, Arthropathy and Imaging Under Tirzepatide in Zone-stratified Cohorts - A Four-Institute Mexican Observational Registry",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Psoriatic Arthritis",
+        "Osteoarthitis",
+        "Knee",
+        "Diabetes (DM)",
+        "Type 2 Diabetes Mellitus (T2DM)",
+        "Obesity (Disorder)",
+        "Insulin Resistance Syndrome",
+        "Metabolic Syndrome",
+        "Heart Failure",
+        "Preserved Ejection Fraction",
+        "Coronary Artery Disease",
+        "Atrial Fibrillation (AF)",
+        "Non Alcholic Fatty Liver Disease",
+        "Sarcopenia",
+        "Pericardium"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        }
+      ],
+      "sponsor": "JULIO GRANADOS MONTIEL",
+      "primary_completion": "2027-11",
+      "url": "https://clinicaltrials.gov/study/NCT07567378"
+    },
+    {
+      "nct_id": "NCT07559500",
+      "title": "Tirzepatide s Dopaminergic Effects in Alcohol Use Disorders (AUD)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alcohol Use Disorder (AUD)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "[11C]raclopride plus drug"
+        },
+        {
+          "type": "DRUG",
+          "name": "[11C]NNC-112"
+        }
+      ],
+      "sponsor": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)",
+      "primary_completion": "2031-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07559500"
+    },
+    {
+      "nct_id": "NCT06893211",
+      "title": "Effect of Tirzepatide on Brown Adipose Tissue in Obesity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University Medical Centre Ljubljana",
+      "primary_completion": "2025-11",
+      "url": "https://clinicaltrials.gov/study/NCT06893211"
+    },
+    {
+      "nct_id": "NCT07491133",
+      "title": "Effect of Ambient Temperature on Blood Glucose and Insulin Absorption in Adults With Type 1 Diabetes",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Type 1 Diabetes Mellitus"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Environmental Temperature Exposure"
+        }
+      ],
+      "sponsor": "Institut de Recherches Cliniques de Montreal",
+      "primary_completion": "2027-03",
+      "url": "https://clinicaltrials.gov/study/NCT07491133"
+    },
+    {
+      "nct_id": "NCT07511543",
+      "title": "Glucagon-like Peptide-1 Receptor Agonists for Endovascular Stroke Thrombectomy",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Ischemic Stroke"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        }
+      ],
+      "sponsor": "Population Health Research Institute",
+      "primary_completion": "2028-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07511543"
+    },
+    {
+      "nct_id": "NCT06341179",
+      "title": "Effect of Sleep Extension on Body Weight and Learning in Children (More2Sleep)",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sleep Duration",
+        "Child Obesity",
+        "Child Development",
+        "Child Behavior"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Sleep extension"
+        }
+      ],
+      "sponsor": "University of Copenhagen",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06341179"
+    }
+  ],
+  "fetched_at": "2026-06-08T22:38:19.592232"
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "complex_id": "azelaic_peptide",
+    "trade_mark": "",
+    "grade": "🟠 REVISE — 위반 표현 수정 필요",
+    "pmid_validity_pct": 100.0,
+    "completeness_pct": 100.0,
+    "cited_pmids_count": 3,
+    "valid_pmids_count": 3,
+    "hallucinated_pmids": [],
+    "violations": [
+      "[Hero.scientific_basis_kr] ⚠️ 국문 위반 표현: '치료'",
+      "[RTB#2.point_kr] ⚠️ 국문 위반 표현: '치료'"
+    ],
+    "completeness_detail": {
+      "has_hero_headline": true,
+      "has_hero_headline_kr": true,
+      "has_subheadline": true,
+      "has_scientific_basis": true,
+      "has_rtb_points": true,
+      "has_rtb_kr": true,
+      "has_tech_story": true,
+      "has_citations": true,
+      "has_north_america": true,
+      "has_north_america_kr": true,
+      "has_risky_claims": true
+    },
+    "checked_at": "2026-06-08T22:42:41.252581"
+  },
+  {
+    "complex_id": "collagen_pept_cen",
+    "trade_mark": "Collagen Pept Cen™",
+    "grade": "🟢 PASS — 마케팅 사용 가능",
+    "pmid_validity_pct": 100.0,
+    "completeness_pct": 100.0,
+    "cited_pmids_count": 5,
+    "valid_pmids_count": 5,
+    "hallucinated_pmids": [],
+    "violations": [],
+    "completeness_detail": {
+      "has_hero_headline": true,
+      "has_hero_headline_kr": true,
+      "has_subheadline": true,
+      "has_scientific_basis": true,
+      "has_rtb_points": true,
+      "has_rtb_kr": true,
+      "has_tech_story": true,
+      "has_citations": true,
+      "has_north_america": true,
+      "has_north_america_kr": true,
+      "has_risky_claims": true
+    },
+    "checked_at": "2026-06-08T22:42:41.255079"
+  },
+  {
+    "complex_id": "exosome_aplb_synergy",
+    "trade_mark": "",
+    "grade": "🟢 PASS — 마케팅 사용 가능",
+    "pmid_validity_pct": 100.0,
+    "completeness_pct": 100.0,
+    "cited_pmids_count": 4,
+    "valid_pmids_count": 4,
+    "hallucinated_pmids": [],
+    "violations": [],
+    "completeness_detail": {
+      "has_hero_headline": true,
+      "has_hero_headline_kr": true,
+      "has_subheadline": true,
+      "has_scientific_basis": true,
+      "has_rtb_points": true,
+      "has_rtb_kr": true,
+      "has_tech_story": true,
+      "has_citations": true,
+      "has_north_america": true,
+      "has_north_america_kr": true,
+      "has_risky_claims": true
+    },
+    "checked_at": "2026-06-08T22:42:41.259854"
+  },
+  {
+    "complex_id": "ha_b5_ceramide",
+    "trade_mark": "HA B5™",
+    "grade": "🟠 REVISE — 위반 표현 수정 필요",
+    "pmid_validity_pct": 100.0,
+    "completeness_pct": 100.0,
+    "cited_pmids_count": 3,
+    "valid_pmids_count": 3,
+    "hallucinated_pmids": [],
+    "violations": [
+      "[RTB#5.point_en] ⚠️ 영문 위반 동사: 'healing'",
+      "[RTB#5.point_kr] ⚠️ 국문 위반 표현: '치유'"
+    ],
+    "completeness_detail": {
+      "has_hero_headline": true,
+      "has_hero_headline_kr": true,
+      "has_subheadline": true,
+      "has_scientific_basis": true,
+      "has_rtb_points": true,
+      "has_rtb_kr": true,
+      "has_tech_story": true,
+      "has_citations": true,
+      "has_north_america": true,
+      "has_north_america_kr": true,
+      "has_risky_claims": true
+    },
+    "checked_at": "2026-06-08T22:42:41.261548"
+  },
+  {
+    "complex_id": "lipo_gluta_niac_cen",
+    "trade_mark": "LIPO GLUTA NIAC CEN™",
+    "grade": "🟢 PASS — 마케팅 사용 가능",
+    "pmid_validity_pct": 100.0,
+    "completeness_pct": 100.0,
+    "cited_pmids_count": 3,
+    "valid_pmids_count": 3,
+    "hallucinated_pmids": [],
+    "violations": [],
+    "completeness_detail": {
+      "has_hero_headline": true,
+      "has_hero_headline_kr": true,
+      "has_subheadline": true,
+      "has_scientific_basis": true,
+      "has_rtb_points": true,
+      "has_rtb_kr": true,
+      "has_tech_story": true,
+      "has_citations": true,
+      "has_north_america": true,
+      "has_north_america_kr": true,
+      "has_risky_claims": true
+    },
+    "checked_at": "2026-06-08T22:42:41.266331"
+  },
+  {
+    "complex_id": "retinol_vitamin_ce",
+    "trade_mark": "",
+    "grade": "🟠 REVISE — 위반 표현 수정 필요",
+    "pmid_validity_pct": 100.0,
+    "completeness_pct": 100.0,
+    "cited_pmids_count": 4,
+    "valid_pmids_count": 4,
+    "hallucinated_pmids": [],
+    "violations": [
+      "[Tech.supporting_facts_kr#1] ⚠️ 절대적 표현: '보장'"
+    ],
+    "completeness_detail": {
+      "has_hero_headline": true,
+      "has_hero_headline_kr": true,
+      "has_subheadline": true,
+      "has_scientific_basis": true,
+      "has_rtb_points": true,
+      "has_rtb_kr": true,
+      "has_tech_story": true,
+      "has_citations": true,
+      "has_north_america": true,
+      "has_north_america_kr": true,
+      "has_risky_claims": true
+    },
+    "checked_at": "2026-06-08T22:42:41.268781"
+  },
+  {
+    "complex_id": "salicylic_arbutin_cen",
+    "trade_mark": "Salicylic Acid BHA Arbutin",
+    "grade": "🟢 PASS — 마케팅 사용 가능",
+    "pmid_validity_pct": 100.0,
+    "completeness_pct": 100.0,
+    "cited_pmids_count": 3,
+    "valid_pmids_count": 3,
+    "hallucinated_pmids": [],
+    "violations": [],
+    "completeness_detail": {
+      "has_hero_headline": true,
+      "has_hero_headline_kr": true,
+      "has_subheadline": true,
+      "has_scientific_basis": true,
+      "has_rtb_points": true,
+      "has_rtb_kr": true,
+      "has_tech_story": true,
+      "has_citations": true,
+      "has_north_america": true,
+      "has_north_america_kr": true,
+      "has_risky_claims": true
+    },
+    "checked_at": "2026-06-08T22:42:41.270642"
+  },
+  {
+    "complex_id": "tranexamic_niacinamide",
+    "trade_mark": "",
+    "grade": "🟢 PASS — 마케팅 사용 가능",
+    "pmid_validity_pct": 100.0,
+    "completeness_pct": 100.0,
+    "cited_pmids_count": 4,
+    "valid_pmids_count": 4,
+    "hallucinated_pmids": [],
+    "violations": [],
+    "completeness_detail": {
+      "has_hero_headline": true,
+      "has_hero_headline_kr": true,
+      "has_subheadline": true,
+      "has_scientific_basis": true,
+      "has_rtb_points": true,
+      "has_rtb_kr": true,
+      "has_tech_story": true,
+      "has_citations": true,
+      "has_north_america": true,
+      "has_north_america_kr": true,
+      "has_risky_claims": true
+    },
+    "checked_at": "2026-06-08T22:42:41.272294"
+  }
+]

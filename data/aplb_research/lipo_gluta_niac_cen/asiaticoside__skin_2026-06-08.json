@@ -1,0 +1,387 @@
+{
+  "ingredient_a": "asiaticoside",
+  "ingredient_b": "skin",
+  "query": "(\"asiaticoside\"[Title/Abstract] AND \"skin\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "41866921",
+      "title": "Therapeutic potential of ",
+      "abstract": "Endoscopic submucosal dissection (ESD) is the standard treatment for early gastrointestinal cancers but is often complicated by delayed healing and stenosis. Current therapies like proton pump inhibitors primarily suppress acid without actively promoting mucosal regeneration. ",
+      "year": "2026",
+      "journal": "Pharmaceutical biology",
+      "authors": [
+        "Li Qinghua",
+        "Chen Wangqi",
+        "Xie Yuxia",
+        "Zhu Hong"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Triterpenes",
+        "Animals",
+        "Endoscopic Mucosal Resection",
+        "Drug Delivery Systems",
+        "Centella"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41866921/"
+    },
+    {
+      "pmid": "41802486",
+      "title": "A multi-target combinatorial therapy of MDBA alleviates atopic dermatitis via synchronized immunosuppression and barrier repair.",
+      "abstract": "The pathogenesis of atopic dermatitis (AD) involves immune dysregulation and skin barrier dysfunction. Existing therapies often struggle to concurrently address immune modulation and barrier repair, and long-term use may lead to side effects. This study systematically evaluated the comprehensive potential and mechanisms of action of MDBA, a complex comprising matrine (M), dipotassium glycyrrhizinate (D), alpha-bisabolol (B), and asiaticoside (A), which has been employed for the first time to treat AD. In a calcipotriol (MC903)-induced mouse and guinea pig models of AD-like dermatitis, topical application of MDBA significantly ameliorated disease severity, as evidenced by reduced EASI scores and epidermal thickness. Mechanistic investigations revealed that the therapeutic effects of MDBA are likely mediated through the inhibition of the phosphatidylinositide 3-kinase/protein kinase B (PI3K/AKT) signaling pathway, achieving dual regulation: on one hand, it effectively suppressed the overactivation of Th2-type immunity, demonstrated by decreased levels of interleukin (IL)-4, IL-13, and IL-31 in ear tissue and serum, reduced infiltration of cluster of differentiation 4-positive T (CD4",
+      "year": "2026",
+      "journal": "European journal of pharmacology",
+      "authors": [
+        "Zhu Congcong",
+        "Xia Anqi",
+        "Huang Zhinan",
+        "Liu Chenxia",
+        "Chen Ya"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dermatitis, Atopic",
+        "Mice",
+        "Guinea Pigs",
+        "Filaggrin Proteins",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction",
+        "Skin",
+        "Quinolizines",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41802486/"
+    },
+    {
+      "pmid": "41534264",
+      "title": "Synergistic intercellular junction and anti-inflammation wound healing therapy via bioengineered hybrid nanovesicles.",
+      "abstract": "Impaired skin wound healing with excessive inflammation affects millions of patients globally. The resulting chronic pain can severely impact the quality of life for people afflicted by the condition. However, the treatment of skin wounds faces enormous challenges due to complex wound microenvironments. Here, we report the design of bioengineered hybrid nanovesicles (BHNVs) that enable advanced wound healing by concurrently providing effective intercellular junction and inflammation relief. The surface of hybrid nanovesicles is modified by trans-membrane DNA functional structures with a zipper part at the outside and a DNAzyme signal output part at the inside. Asiaticoside, an active ingredient from herbal medicines, and signal recognition DNA complex are encapsulated into the nanovesicles. From both outside and inside, these components of the hybrid nanovesicles work synergistically to address wound healing from both extra- and intracellular perspectives. Upon vesicle-cell fusion, the zipper part at the outside can facilitate cell-cell junction, and the DNAzyme signal output part at the inside can hinder while monitoring inflammatory responses. The released Asiaticoside can improve cell proliferation, enhance angiogenesis, accelerate cell migration/adhesion, and promote wound healing with the combination effect of anti-oxidation and anti-ulceration. Together, BHNVs are shown to successfully accelerate wound healing and prevent inflammation. Favorable therapeutic outcomes are achieved both in vitro and in vivo, indicating a robust modality for local wound management with enhanced therapeutic effects.",
+      "year": "2026",
+      "journal": "Biomaterials",
+      "authors": [
+        "Zhang Shi-Yi",
+        "He Zhi-Ying",
+        "Zhou Ze-Rui",
+        "Xu Han-Bin",
+        "Zheng Shi-Yu"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Animals",
+        "Humans",
+        "Inflammation",
+        "Mice",
+        "Anti-Inflammatory Agents",
+        "Cell Proliferation",
+        "Triterpenes",
+        "Bioengineering",
+        "Cell Movement"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41534264/"
+    },
+    {
+      "pmid": "41516082",
+      "title": "Oral ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Choi Yean Jung",
+        "Cho Eun-Chae",
+        "Lim Seungtae",
+        "Lee Jaemin",
+        "Bae Jaewoo"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ultraviolet Rays",
+        "Skin Aging",
+        "Mice, Hairless",
+        "Antioxidants",
+        "Mice",
+        "Anti-Inflammatory Agents",
+        "Centella",
+        "Triterpenes",
+        "Extracellular Matrix"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41516082/"
+    },
+    {
+      "pmid": "41507645",
+      "title": "Smart Stings of Nature: Harnessing Microneedles Assisted Targeted Phytoconstituent Delivery for Dermatological Disorders.",
+      "abstract": "Microneedle-mediated transdermal delivery of phytoconstituents represents a sophisticated and emerging paradigm in dermatological therapeutics, bridging the pharmacological efficacy of plant-derived bioactive with the precision of advanced biomedical engineering. Conventional topical dosage forms are often constrained by the formidable barrier function of the stratum corneum, instability of phytochemicals, and suboptimal patient adherence. Microneedle arrays circumvent these limitations by creating transient microchannels that enable minimally invasive, painless, and controlled delivery of therapeutics into the viable epidermal and dermal layers. The bioactive compounds such as curcumin, resveratrol, asiaticoside, and glycyrrhizin exhibit multifaceted pharmacological activities, including anti-inflammatory, antioxidant, antimicrobial, and pro-regenerative effects, which are beneficial for the management of cutaneous pathologies such as psoriasis, eczema, acne vulgaris, and chronic ulcerations. The incorporation of these phytoconstituents into dissolving or hydrogel-forming microneedles enhances their physicochemical stability, facilitates sustained and localized drug release, and minimizes systemic exposure, thereby improving therapeutic efficacy and safety. The utilization of natural, biodegradable, and biocompatible polymers such as chitosan, hyaluronic acid, silk fibroin, and alginate, further augments the structural integrity and bioperformance of microneedle systems while aligning with eco-sustainable pharmaceutical design principles. This integrative strategy signifies a pivotal advancement toward personalized dermatological interventions, enabling precise dosing and targeted pharmacokinetics. The future research should emphasize material innovation, in vivo pharmacodynamic assessment, and large-scale translational studies to validate the clinical potential of phytoconstituent-loaded microneedles as next-generation bioresponsive platforms for skin therapeutics.",
+      "year": "2026",
+      "journal": "AAPS PharmSciTech",
+      "authors": [
+        "Kumar Akshay",
+        "Kondaveeti Suresh Babu",
+        "Tripathi Arpan Kumar",
+        "Agrawal Mohit",
+        "Singh Thakur Gurjeet"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Microneedle Drug Delivery",
+        "Administration, Cutaneous",
+        "Skin Diseases",
+        "Animals",
+        "Phytochemicals",
+        "Drug Delivery Systems",
+        "Needles",
+        "Percutaneous Collagen Induction",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41507645/"
+    },
+    {
+      "pmid": "41478185",
+      "title": "Skin-inspired biogel/nanofiber composite dressing for sustained co-delivery of asiaticoside and zinc ions enabling synergistic burn wound healing.",
+      "abstract": "Deep burn wounds present significant challenges to rapid healing due to their complex microenvironment, characterized by multiple bacterial infections, excessive oxidative stress and blocked angiogenesis. Herein, a skin-inspired biogel/nanofiber composite dressing composed of gelatin-based biogel and electrospun nanofiber membrane co-loaded with asiaticoside (AS) and ZnO is designed and prepared for regulating the wound microenvironment to accelerate deep burn wound healing. Sodium pyrrolidone carboxylate (PCA-Na) as a natural moisturizing factor is introduced into the gelatin solution to prepare a skin-inspired biogel with strong tissue adhesion, high mechanical strength and good water retention capacity. The sustained release of AS and zinc ions (Zn",
+      "year": "2026",
+      "journal": "Journal of colloid and interface science",
+      "authors": [
+        "Wang Zhen",
+        "Han Huizhen",
+        "Wu Tong",
+        "Zhao Chunyue",
+        "Zhao Fangzheng"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Nanofibers",
+        "Burns",
+        "Animals",
+        "Zinc",
+        "Anti-Bacterial Agents",
+        "Bandages",
+        "Triterpenes",
+        "Humans",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41478185/"
+    },
+    {
+      "pmid": "41460316",
+      "title": "Development and optimization of asiaticoside co-crystal-loaded transdermal patch for topical therapy.",
+      "abstract": "The objective of this study was to develop and optimize a transdermal patch incorporating asiaticoside co-crystals to enhance solubility, mechanical properties, and sustained release for effective topical therapy in wound management. Asiaticoside co-crystals were prepared by the solvent evaporation method using ethanol-water (70:30) with succinic acid (1:1 molar ratio) as co-former and incorporated into hydrogel-based transdermal patches using HPMC K100M and PEG 400. A 3",
+      "year": "2026",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": [
+        "Siddheshwar Suhas Shivaji",
+        "Atkare Omkar",
+        "Ghorpade Arti Changdev",
+        "Ghogare Rajashri",
+        "Mankar Someshwar Dattatraya"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Transdermal Patch",
+        "Triterpenes",
+        "Drug Liberation",
+        "Wound Healing",
+        "Administration, Cutaneous",
+        "Male",
+        "Solubility",
+        "Skin",
+        "Polyethylene Glycols"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41460316/"
+    },
+    {
+      "pmid": "41025315",
+      "title": "Transfersomal delivery of ",
+      "abstract": "This study presents the development and evaluation of ",
+      "year": "2025",
+      "journal": "Drug delivery",
+      "authors": [
+        "Lapmanee Sarawut",
+        "Bunwatcharaphansakun Phichaporn",
+        "Phongsupa Waleewan",
+        "Namdee Katawut",
+        "Suttisintong Khomson"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Mice",
+        "Triterpenes",
+        "Rats",
+        "RAW 264.7 Cells",
+        "Centella",
+        "Nanoparticles",
+        "Administration, Cutaneous",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41025315/"
+    },
+    {
+      "pmid": "40952057",
+      "title": "Quaternary Ammonium Chitosan Hydrogel Platform with Zinc-Enhanced Bioactivity toward Scar-Free Wound Healing.",
+      "abstract": "Scar-free wound regeneration remains a challenge, as it requires controlled collagen and extracellular matrix deposition to prevent excessive fibrosis. To overcome this issue, wound dressings that incorporate hydrogels and possess superior biochemical and mechanical properties integrated with bioactive compounds have been explored. In this paper, the composite hydrogel has been developed using O-chitosan quaternary ammonium salt (O-HACC) and 3-maleimidopropionic acid-modified pullulan polysaccharide (PL-MA), with incorporated polydopamine-loaded asiaticoside Zif-8 nanoparticles. The hydrogel demonstrated efficient antibacterial activity, with inhibition rates of 76.6 ± 1.6% against ",
+      "year": "2025",
+      "journal": "ACS applied materials & interfaces",
+      "authors": [
+        "Nie Lei",
+        "Ding Xiaoyue",
+        "Li Man",
+        "Simińska-Stanny Julia",
+        "Okoro Oseweuba Valentine"
+      ],
+      "mesh_terms": [
+        "Hydrogels",
+        "Chitosan",
+        "Wound Healing",
+        "Animals",
+        "Zinc",
+        "Anti-Bacterial Agents",
+        "Staphylococcus aureus",
+        "Mice",
+        "Escherichia coli",
+        "Quaternary Ammonium Compounds"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40952057/"
+    },
+    {
+      "pmid": "40848644",
+      "title": "CaOSC5-CaOSC7 module governs metabolic partitioning between asiaticoside and asiaticoside B in Centella asiatica.",
+      "abstract": "Asiaticoside and asiaticoside B, bioactive triterpenoid saponins from Centella asiatica (C. asiatica), exhibit distinct structural, pharmacological, and accumulation profiles. Asiaticoside (ursane-type, α-amyrin-derived) possesses skin-lightening and wound-healing properties, whereas asiaticoside B (oleanane-type, β-amyrin-derived) displays antitumor activity. Their accumulation varies significantly across different C. asiatica sources. To elucidate the basis for this differential accumulation, we analyzed 26 wild C. asiatica accessions from diverse Chinese regions. HPLC revealed substantial variation, with accession A38 accumulating higher levels of asiaticoside and A41 accumulating more asiaticoside B. Integrated omics and biochemical analyses identified CaOSC5 and CaOSC7 as key oxidosqualene cyclases (OSCs). CaOSC7 produced both α-amyrin and β-amyrin (in a 7:3 ratio), while CaOSC5 exclusively synthesized β-amyrin. AlphaFold3 predictions combined with mutagenesis pinpointed critical residues (CaOSC5: V263, K526, G424, G489, V613, S676, H680, Y742) responsible for their functional divergence. Dominant CaOSC5 expression in A41 favored asiaticoside B accumulation, whereas dominant CaOSC7 expression in A38 promoted asiaticoside accumulation. Thus, CaOSC5 and CaOSC7 form a core genetic module regulating metabolic flux balance through their differential activities and expression patterns. Correlation analysis of saponins and OSC transcription levels across 26 wild populations further confirmed that CaOSC5 and CaOSC7 expression positively correlates with corresponding asiaticoside B and asiaticoside accumulation, highlighting their marker-assisted breeding for high-asiaticoside B varieties. This study elucidates the molecular basis for the genetic regulation of asiaticoside and asiaticoside B biosynthesis in C. asiatica, providing a foundation for targeted OSC metabolic engineering.",
+      "year": "2025",
+      "journal": "Plant physiology and biochemistry : PPB",
+      "authors": [
+        "Zhang Yunluo",
+        "Wei Hengwei",
+        "Chen Xueqing",
+        "Lei Rui",
+        "Yin Chao"
+      ],
+      "mesh_terms": [
+        "Triterpenes",
+        "Centella",
+        "Intramolecular Transferases",
+        "Plant Proteins",
+        "Gene Expression Regulation, Plant"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40848644/"
+    },
+    {
+      "pmid": "40659547",
+      "title": "Enhanced Skin-Protective Effects of a Novel ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "Journal of microbiology and biotechnology",
+      "authors": [
+        "Ko Kayoung",
+        "Cheon Ga Yeong",
+        "Ha Yeon Ji",
+        "Ko Ye Rin",
+        "Kim Jeong Hwan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Centella",
+        "Antioxidants",
+        "Keratinocytes",
+        "Skin",
+        "Plant Extracts",
+        "HaCaT Cells",
+        "Collagen",
+        "Triterpenes",
+        "Polyphenols"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40659547/"
+    },
+    {
+      "pmid": "40386462",
+      "title": "Supramolecular nanofibers of natural asiaticoside for self-supporting gelation and enhanced transdermal delivery.",
+      "abstract": "The study aimed to develop a supramolecular hydrogel of asiaticoside (AS) via self-assembly and evaluate its potential for enhanced transdermal delivery.",
+      "year": "2025",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "authors": [
+        "Hu Xixi",
+        "Tian Shuang",
+        "Wang Jiao",
+        "Luo Weixi",
+        "Yao Jiangli"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40386462/"
+    },
+    {
+      "pmid": "40215734",
+      "title": "Discovery and engineering of the asiaticoside, madecassoside and asiaticoside B biosynthetic pathway.",
+      "abstract": "Asiaticoside, madecassoside, and asiaticoside B are pentacyclic triterpenoid saponins derived from Centella asiatica, known to possess remarkable in wound-healing and skin-protective properties. However, the key biosynthetic steps for these bioactive compounds remain unclear, hampering the role of heterologous biosynthesis in ensuring a stable supply of these clinically important products. Here, we identified and characterized two missing enzymes (UGT94M2 and UGT94BE1) in the asiaticoside, madecassoside and asiaticoside B biosynthetic pathway, which sequentially added glucosyl moiety of UDP-Glucose and UDP-Rhamnose to the monoglucosides of asiatic acid (1), madecassic acid (5) and terminolic acid (9) in C. asiatica at C-28, respectively. Additionally, the multienzyme one-pot reaction was used to elucidate the biosynthetic pathway and generate the asiaticoside (4), madecassoside (8), asiaticoside B (12) and intermediate compounds, and the conversion rates for asiatic acid, madecassic acid and terminolic acid with UGT73AD1, UGT94M2 and UGT94BE1 was 77 %, 84 % and 82 %, respectively. Notably, the reconstruction of asiaticoside, madecassoside and asiaticoside B was realized in N. benthamiana with the newly identified genes, as well as seven already known ones. This study presents an almost complete biosynthetic pathway for asiaticoside, madecassoside and asiaticoside B, enabling the heterologous biosynthesis of these pentacyclic triterpenoids in other organisms.",
+      "year": "2025",
+      "journal": "Plant physiology and biochemistry : PPB",
+      "authors": [
+        "Zhou Peina",
+        "Yang Peng",
+        "Zhang Kaiwei",
+        "Guo Huijun",
+        "Du Jinfa"
+      ],
+      "mesh_terms": [
+        "Triterpenes",
+        "Centella",
+        "Biosynthetic Pathways"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40215734/"
+    },
+    {
+      "pmid": "39805460",
+      "title": "Microneedle drug delivery system based on hyaluronic acid for improving therapeutic efficiency of hypertrophic scars.",
+      "abstract": "Hypertrophic scar (HS) is a disease with excessive skin fibrosis and collagen disorder, which is generally caused by abnormal wound repair process after burn and trauma. Although intralesional injection of 5-fluorouracil (5-Fu) has been used in clinical treatment of HS, the patients' compliance of injection treatment is poor. In this study, a double-layer dissolution microneedle (MN) containing asiaticoside (AS) and 5-Fu was designed for the treatment of HS. Biological macromolecules materials affected the formability, drug release, and hardness of MNs. Therefore, several types of biomacromolecules, including hyaluronic acid (HA), chitosan, and sodium alginate, which could be used to prepare MNs, underwent prescription optimization experiments and the optimized MN prescriptions were obtained. In vitro characterization showed that the MN was sufficient to deliver drugs through the skin. Animal in vivo experiments showed that AS and 5-Fu can synergistically treat HS, significantly reduce the abnormal proliferation of fibroblasts and collagen fiber deposition, and down-regulated collagen I (Col I) and transforming growth factor-β",
+      "year": "2025",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Zhang Zhiqiang",
+        "Fang Chenxi",
+        "Ke Junfang",
+        "Li Yue",
+        "Duan Meitao"
+      ],
+      "mesh_terms": [
+        "Hyaluronic Acid",
+        "Cicatrix, Hypertrophic",
+        "Animals",
+        "Fluorouracil",
+        "Drug Delivery Systems",
+        "Needles",
+        "Drug Liberation",
+        "Fibroblasts",
+        "Humans",
+        "Cell Proliferation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39805460/"
+    },
+    {
+      "pmid": "39701194",
+      "title": "Co-assembled supramolecular hydrogel of asiaticoside and Panax notoginseng saponins for enhanced wound healing.",
+      "abstract": "Self-assembling natural drug hydrogels have emerged as promising biomaterials for scalable and customizable drug delivery systems attributed to their inherent biocompatibility and biodegradability. Asiaticoside (AS), a bioactive compound derived from Centella asiatica (L.) Urb., is known for its antioxidant, antifibrotic, and anti-inflammatory properties, primarily accelerating wound healing through the promotion of collagen synthesis. However, its low water solubility leads to poor transdermal absorption and reduced bioavailability when applied topically. Panax notoginseng saponins (PNS), active compounds derived from the stems of Panax notoginseng (Burk.) F.H. Chen, exhibit amphiphilic and surfactant properties, rendering them effective stabilizers. Our research has demonstrated that the co-assembly of AS and PNS forms a hydrogel, termed AS&PNS hydrogel, which significantly enhances wound healing by reducing interleukin-6 (IL-6) levels and promoting the production of vascular endothelial growth factor (VEGF). Treatment with AS&PNS hydrogel also tended to normalize epidermal thickness and improve collagen fiber organization at the wound site. This novel hydrogel material presents a straightforward and effective approach to managing skin wounds.",
+      "year": "2025",
+      "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V",
+      "authors": [
+        "Huang Hanmei",
+        "Yang Xiaohong",
+        "Qin Xueying",
+        "Shen Yingyan",
+        "Luo Yu"
+      ],
+      "mesh_terms": [
+        "Hydrogels",
+        "Animals",
+        "Saponins",
+        "Wound Healing",
+        "Triterpenes",
+        "Panax notoginseng",
+        "Mice",
+        "Male",
+        "Drug Delivery Systems",
+        "Centella"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39701194/"
+    }
+  ],
+  "crawled_at": "2026-06-08T22:38:32.015891"
+}

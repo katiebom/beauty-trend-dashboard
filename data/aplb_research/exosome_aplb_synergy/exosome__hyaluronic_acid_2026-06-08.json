@@ -1,0 +1,340 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "hyaluronic acid",
+  "query": "(\"exosome\"[Title/Abstract] AND \"hyaluronic acid\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42219094",
+      "title": "A multifunctional adhesive antibacterial chitosan/hyaluronic acid hydrogel enabling sustained release of human umbilical cord mesenchymal stem cell-derived exosomes for accelerated full-thickness skin repair.",
+      "abstract": "Promoting skin wound healing is a major global public health challenge. Stem cell exosomes are regarded as a promising and ideal therapeutic approach. However, effective stem cell exosome therapy also depends on suitable vectors to promote the release and stability of exosomes. In this study, exosomes derived from human umbilical cord mesenchymal stem cells (UCMSCs-exo) were loaded into crosslinked hydrogels of chitosan (CS) and hyaluronic acid (HA) to prepare a novel multifunctional hydrogel dressing with sustained release of exosomes (UCMSCs-exo@CS-HA). The UCMSCs-exo@CS-HA hydrogels had good properties, including three-dimensional porous structure, exosomes loading performance, mechanical properties, tissue adhesion, antibacterial activity, degradation performance, and good biocompatibility. The whole skin defect model of mice verified that the UCMSCs-exo@CS-HA hydrogels reduced the expression level of inflammatory factor cyclooxygenase-2 (COX2) and inducible nitric oxide synthase (iNOS), promoted the orderly deposition of collagen and angiogenesis, and effectively promoted wound healing. Overall, the UCMSCs-exo@CS-HA hydrogels can effectively regulate the interaction between inflammation, tissue fibrosis, and angiogenesis, providing a promising solution for the treatment of skin injury.",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Luo Zhonghua",
+        "Hou Zhiquan",
+        "Wu Mi",
+        "Zhao Yan",
+        "Hui Fuhai"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219094/"
+    },
+    {
+      "pmid": "42169069",
+      "title": "HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.",
+      "abstract": "Diabetic wound healing impairment poses significant clinical challenges due to infection risks, poor angiogenesis, and chronic inflammation, often leading to amputation or death. Recently, mesenchymal stem cell-derived exosomes (Exos) exhibit potential in enhancing angiogenesis and suppressing inflammation, yet clinical application is limited by short half-life, low bioavailability, and high costs. Three-dimensional (3D) culture technology improves exosome yield and therapeutic efficacy, demonstrating superior performance in tissue regeneration. Concurrently, microneedle (MN) systems enable efficient transdermal drug delivery with minimal invasiveness. This study integrates 3d-Exo with Mupirocin into a hyaluronic acid methacrylate (HAMA)-based MN patch (3d-Exo MN) to enhance diabetic wound healing. The HAMA matrix ensures exosome stability and controlled release, while Mupirocin targets infection. In vitro and in vivo evaluations reveal that 3d-Exo MN significantly promotes cell proliferation, migration, and neovascularization, addressing key limitations of conventional therapies. By synergizing 3d-Exo advantages with MN-mediated delivery, this innovative platform offers a targeted, biocompatible strategy for diabetic wound management, bridging gaps in current treatment paradigms through enhanced drug efficacy and localized action.",
+      "year": "2026",
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Hu Ying",
+        "Wu Yu",
+        "Luo Yuansen",
+        "Kong Xiangkai",
+        "Zhu Delong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42169069/"
+    },
+    {
+      "pmid": "42059240",
+      "title": "The Tripartite Regulatory Framework of the Skin Extracellular Microenvironment and Related Anti-aging Strategies.",
+      "abstract": "This review proposes a tripartite regulatory framework for the Skin Extracellular Microenvironment (SEM), which the authors conceptualize as three cross-talked functional domains: hydration, nutritional, and signaling microenvironments. It systematically elaborates on the core functional architectures of each component-for instance, Hyaluronic Acid (HA) as the foundational element of the hydration microenvironment, collagen-based transport pathways in the nutritional microenvironment, and multi-axis signal networks (inflammatory, biochemical, mechanical) in the signaling microenvironment. Based on this, age-related dynamic alterations within each domain were further delineated: the hydration microenvironment undergoes progressive HA degradation and reduced biosynthesis, leading to decreased skin water retention, increased transepidermal water loss, and clinical manifestations like dryness and fine lines; the nutritional microenvironment exhibits microvascular degeneration, disrupted nutrient transport, and advanced glycation end-product accumulation, impairing extracellular matrix metabolic homeostasis; the signaling microenvironment suffers from chronic inflammation, TGF-β/Smad pathway imbalance, and mechanical signaling dysfunction, triggering a cascade of \"inflammatory activation-uncontrolled degradation- mechanical disruption.\" Cross-regulatory interactions among the three microenvironments (e.g., hydration-signaling coupling via TGF-β/HAS2) are summarized to highlight their integrated regulatory nature. Additionally, targeted anti-aging strategies are discussed: exogenous HA supplementation and endogenous activation for the hydration microenvironment, metabolic substrate supply (e.g., proline, trace elements) for the nutritional microenvironment, and multi-pathway modulation (e.g., anti-inflammatory agents, platelet-rich plasma, collagen stimulants) for the signaling microenvironment, with particular attention to the synergistic effects observed in combination approaches such as mesotherapy-based cocktails and exosome therapy. Overall, this framework integrates previously fragmented SEM research and provides a coherent theoretical basis for evidence-based clinical anti-aging strategies and future precision interventions targeting skin aging.",
+      "year": "2026",
+      "journal": "Mini reviews in medicinal chemistry",
+      "authors": [
+        "Zhao Liangsen",
+        "Liao Yong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42059240/"
+    },
+    {
+      "pmid": "41800728",
+      "title": "Biologically Distinct, Clinically Convergent: A Comparative Study of Umbilical Cord- and Adipose-Derived Mesenchymal Stem Cell Exosomes in Human Skin Regeneration.",
+      "abstract": "Mesenchymal stem cell (MSC)-derived exosomes are emerging as cell-free bioregenerative platforms in aesthetic dermatology. Umbilical cord (UC-MSC) and adipose-derived (AD-MSC) exosomes are among the most studied sources, yet existing data derive from heterogeneous models that preclude direct comparison. No standardized head-to-head evaluation in a human skin aging model has been conducted. The aim of the study is to compare the regenerative and antiaging effects of UC-MSC and AD-MSC exosomes using a physiologically relevant ex vivo human skin aging model. MSCs were isolated and characterized per International Society for Cellular Therapy criteria. Exosomes were purified through differential ultracentrifugation and analyzed by nanoparticle tracking and flow cytometry. Cytokine cargo was profiled using multiplex assays. Human dermal fibroblasts and ex vivo skin explants were used to assess proliferation, senescence-associated β-gal activity, melanogenesis, senescence-associated secretory phenotype (SASP) suppression (interleukin-6, matrix metalloproteinase-9), and extracellular matrix (ECM) biosynthesis. Topical retinoic acid and resveratrol served as reference controls. Both exosome types increased fibroblast proliferation and reduced senescence. AD-MSC exosomes showed higher vascular endothelial growth factor (VEGF) content, driving angiogenesis and greater collagen and hyaluronic acid production. UC-MSC exosomes, enriched in transforming growth factor-beta and platelet-derived growth factor-BB (PDGF-BB), demonstrated stronger immunomodulatory activity and more pronounced SASP reduction in ultraviolet-damaged skin. Both reduced melanogenesis without altering melanocyte viability. UC-MSC and AD-MSC exosomes exhibit distinct yet complementary regenerative profiles. AD-MSC exosomes favor dermal ECM remodeling and hydration, whereas UC-MSC exosomes exert potent anti-inflammatory and photo-protective effects. These findings support their potential for personalized regenerative dermatology and combinatory exosome-based facial rejuvenation strategies.",
+      "year": "2026",
+      "journal": "Aesthetic surgery journal",
+      "authors": [
+        "Ponnikorn Saranyoo",
+        "Thanasarnaksorn Wilai",
+        "Hongeng Suradej",
+        "Ratanapun Natchanon",
+        "Phukhao Suprawi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Mesenchymal Stem Cells",
+        "Adipose Tissue",
+        "Skin Aging",
+        "Umbilical Cord",
+        "Fibroblasts",
+        "Regeneration",
+        "Cell Proliferation",
+        "Cells, Cultured"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41800728/"
+    },
+    {
+      "pmid": "41754964",
+      "title": "A Purified Platelet-Derived Exosome Product for Chronic Wound Healing: A Novel Therapeutic Strategy and Next-Generation Delivery Platform.",
+      "abstract": "Chronic wounds remain a major unmet clinical challenge, often failing to progress to normal healing due to persistent inflammation, impaired angiogenesis, and cellular senescence. Exosomes have recently been investigated as promising acellular therapeutics capable of restoring intercellular communication and promoting tissue regeneration. Among these, the Purified Exosome Product (PEP) represents a next-generation, platelet-derived exosome formulation manufactured under Good Manufacturing Practice (GMP) conditions with high purity, stability, and reproducibility. This review summarizes the current advances in exosome-based chronic wound therapeutics and PEP delivery systems and their translational potentials. Incorporation of PEP into bioengineered carriers such as fibrin sealant, collagen scaffolds, and hyaluronic acid (HA) hydrogels enables localized and sustained exosome release, significantly prolonging therapeutic effects and improving regenerative outcomes. Fibrin-based PEP delivery achieved complete wound closure and functional skin regeneration in animal models, while collagen and HA-based systems showed promising results for injectable and dermatologic applications. Beyond its intrinsic healing effects, PEP may also serve as a nanocarrier for other drugs, offering a future direction in chronic wound management.",
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Wan Rou",
+        "Nishimura Ken",
+        "Behfar Atta",
+        "Zhao Chunfeng",
+        "Moran Steven L"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41754964/"
+    },
+    {
+      "pmid": "41748500",
+      "title": "A Split-Scar Study: Study of Surgical Scar Using Exosomes.",
+      "abstract": "Exosomes have emerged as a promising therapeutic agent for various dermatological conditions such as acne, atopic dermatitis, and wound healing. This study aims to evaluate exosome's efficacy in improving postoperative scars.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Jeong Kyung Hwan",
+        "Park Kui Young",
+        "Jung Dong-Woo"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cicatrix",
+        "Exosomes",
+        "Female",
+        "Adult",
+        "Male",
+        "Rhinoplasty",
+        "Treatment Outcome",
+        "Middle Aged",
+        "Hyaluronic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41748500/"
+    },
+    {
+      "pmid": "41735774",
+      "title": "A Single-Center, Open-Label Study to Evaluate the Efficacy and Tolerability of Retinal Encapsulated in a Novel Biomimetic Exosome in the Treatment of Mild-To-Moderate Facial Photodamage.",
+      "abstract": "Numerous retinoid-based skincare products are available over-the-counter for photodamaged and photoaged skin, but are associated with objective (e.g., erythema, dryness, flaking, edema) and subjective (e.g., itching, tingling, stinging, burning) tolerability issues. A novel retinal formulation was developed using an engineered biomimetic vegan exosome as a delivery system. The formulation also contains proprietary and potent hyaluronic acid, as well as plant-based actives commonly used in traditional herbal medicines for their anti-inflammatory and antioxidant properties.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Gold Michael H",
+        "Enright Kaitlyn M",
+        "Ablon Glynis",
+        "Barbarino Sheila",
+        "Chilukuri Suneel"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Skin Aging",
+        "Middle Aged",
+        "Adult",
+        "Aged",
+        "Treatment Outcome",
+        "Exosomes",
+        "Face",
+        "Retinaldehyde"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41735774/"
+    },
+    {
+      "pmid": "41677720",
+      "title": "Skin Barrier Enhancement and Moisturizing Effects of Exosome Extracts Derived from ",
+      "abstract": "Exosomes are nano-sized particles with a structure similar to cells, and they are attracting attention as a premium cosmetic raw material because they can be effectively absorbed through skin pores and delivered without decomposing the active ingredients. In this study, the effects of exosome extracts derived from ",
+      "year": "2026",
+      "journal": "Biology",
+      "authors": [
+        "Kim Ha-Rim",
+        "Lee Seung-Hyeon",
+        "Bae Won Been",
+        "Shin Min-Ji",
+        "Kim Seon-Young"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41677720/"
+    },
+    {
+      "pmid": "41013759",
+      "title": "Hyaluronic acid-ornithine crosslinked hydrogel as a superior 3D culture platform for high-quality exosome production in advanced wound healing.",
+      "abstract": "Extracellular vesicle (EV)-based cell-free therapies have emerged as a powerful alternative to stem cell transplantation in regenerative medicine, owing to their ability to promote tissue repair while avoiding safety concerns associated with live-cell therapies. However, traditional two-dimensional (2D) cell cultures used for EV production are constrained by low exosome (Exo) yields and limited biological activity.",
+      "year": "2025",
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Qu Shuangquan",
+        "Zhao Rui",
+        "Li Ke",
+        "Tan Yutao",
+        "Li Pei"
+      ],
+      "mesh_terms": [
+        "Hyaluronic Acid",
+        "Wound Healing",
+        "Animals",
+        "Hydrogels",
+        "Mice",
+        "Exosomes",
+        "Humans",
+        "Cell Proliferation",
+        "Cell Culture Techniques, Three Dimensional"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41013759/"
+    },
+    {
+      "pmid": "40711910",
+      "title": "Recent Clinical Advances of the Use of Three Kinds of Laser Systems Combined with a New Exosome-Based Postlaser Booster Solution.",
+      "abstract": null,
+      "year": "2025",
+      "journal": "Photobiomodulation, photomedicine, and laser surgery",
+      "authors": [
+        "Ricardo Galimberti Daniel",
+        "Gallo Giustino",
+        "Fusco Irene",
+        "Madeddu Francesca",
+        "Colombo Carola"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Aged",
+        "Middle Aged",
+        "Female",
+        "Adult",
+        "Skin Aging",
+        "Aged, 80 and over",
+        "Exosomes",
+        "Low-Level Light Therapy",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40711910/"
+    },
+    {
+      "pmid": "40210183",
+      "title": "Drug-loaded microneedle patches containing regulatory T cell-derived exosomes for psoriasis treatment.",
+      "abstract": "Psoriasis is a chronic inflammatory skin disease characterized by epidermal hyperplasia, skin inflammation, and immune dysregulation. These factors contribute to the persistent progression of the disease. While addressing excessive keratinocyte proliferation or inhibiting inflammation may provide temporary therapeutic relief, unresolved immune dysregulation often exacerbates the condition. Therefore, comprehensive treatments that alleviate skin symptoms and regulate immune tolerance are urgently required. An ideal treatment would target multiple factors, including keratinocyte proliferation, inflammation, and immune tolerance, while minimizing systemic side effects. In this study, we developed a dissolvable hyaluronic acid microneedle patch containing regulatory T cell (Treg) exosomes loaded with dimethyl fumarate (DMF) (rExo@DMF MNs). DMF acts as an inhibitor of keratinocyte proliferation and an anti-inflammatory agent through NF-κB suppression and Nrf2 activation, inhibiting the production of pro-inflammatory cytokines and the activation of inflammatory cells. Delivering DMF via Treg exosomes enhances its retention at the lesion site. This system inhibits keratinocyte proliferation and migration, reduces pro-inflammatory cytokine release, and alleviates epidermal hyperplasia and inflammation in an imiquimod-induced psoriasis mouse model. Additionally, Treg exosomes modulate immune responses to promote tolerance. rExo@DMF MNs demonstrate immunomodulatory effects by inhibiting T helper 17 (Th17) cells and inducing regulatory immune cells such as Tregs and tolerogenic dendritic cells (tDCs) differentiation. rExo@DMF MNs alleviate skin symptoms and regulate immune cells in the skin, spleen, and lymph nodes, demonstrating both local and systemic immunoregulation with promising therapeutic potential for psoriasis. STATEMENT OF SIGNIFICANCE: Novel therapies are urgently needed to alleviate skin symptoms and regulate immunity, as current psoriasis treatments focus on symptom relief while neglecting the underlying immune dysfunction, resulting in limited efficacy. Moreover, systemic immunosuppression often leads to severe side effects. This study introduces a hybrid microneedle system (rExo@DMF MNs) that alleviates psoriasis symptoms and modulates immune responses locally and systemically. In addition, rExo@DMF MNs penetrate hyperkeratotic skin, ensuring targeted rExo@DMF release while minimizing systemic exposure and side effects. All components of the system, including hyaluronic acid (a key component of the skin matrix), regulatory T cell-derived exosomes, and DMF (a clinically validated drug), exhibit biocompatibility. This comprehensive approach addresses multiple pathogenic factors, promising an effective and safe psoriasis treatment.",
+      "year": "2025",
+      "journal": "Acta biomaterialia",
+      "authors": [
+        "Ou Meitong",
+        "Cao Jiahui",
+        "Luo Ran",
+        "Zhu Baisong",
+        "Miao Rourou"
+      ],
+      "mesh_terms": [
+        "Psoriasis",
+        "Animals",
+        "T-Lymphocytes, Regulatory",
+        "Exosomes",
+        "Mice",
+        "Humans",
+        "Keratinocytes",
+        "Dimethyl Fumarate",
+        "Needles",
+        "Cell Proliferation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40210183/"
+    },
+    {
+      "pmid": "40210123",
+      "title": "A dual-action strategy: Wound microenvironment responsive hydrogel and exosome-mediated glucose regulation enhance inside-out diabetic wound repair.",
+      "abstract": "Sustained hyperglycemia induces complex pathological microenvironment in diabetic wounds, significantly hindering wound healing. Most current therapeutic approaches (e.g., hydrogel dressings) have paid little attention to the effect of blood glucose levels on diabetic wound healing. In this study, a synergetic therapeutic strategy including a wound microenvironment responsive, multifunctional hydrogel and the exosome-mediated glucose regulation is developed for diabetic wound treatment. First, a gelatin-dopamine (Gel-DA) crosslinked hyaluronic acid-phenylboronic acid (HA-PBA) hydrogel (GDHP) is constructed with good injectable, self-healing, and adhesive abilities. Such GDHP hydrogel not only can effectively relieve oxidative stress and reduce inflammation, but also promote keratinocyte migration. Then, ciprofloxacin hydrochloride (CIP·H) is loaded to prepare the GDHPC hydrogel that may respond to diabetic wound microenvironment (e.g., low pH, high glucose and reactive oxygen species) and degrade for controlled release of CIP·H, showing on-demand antibacterial properties. Exosomes derived from human umbilical cord mesenchymal stem cells (hucMSC-exos) are administered via tail vein injection in diabetic mice, which may repair injured pancreatic islets by modulating the pancreatic immune microenvironment, thus promoting insulin secretion and further reducing blood glucose levels. By applying this synergetic therapeutic strategy, the full-thickness cutaneous wounds in type 1 diabetic mice heal well and quickly compared to that treated with the GDHPC hydrogel and the hucMSC-exos alone. This promotion effect on wound healing may associate with reducing inflammation and promoting angiogenesis. This study sheds new light on the development of a dual-action strategy that can effectively maintain glucose homeostasis, improve the wound microenvironment, and consequently promote inside-out repair of diabetic wounds, offering a promising therapeutic avenue for future diabetic wound treatment.",
+      "year": "2025",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "authors": [
+        "Tang Shaoxin",
+        "Feng Keru",
+        "Yang Rui",
+        "Cheng Yang",
+        "Shi Nianyuan"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Hydrogels",
+        "Wound Healing",
+        "Humans",
+        "Exosomes",
+        "Diabetes Mellitus, Experimental",
+        "Anti-Bacterial Agents",
+        "Male",
+        "Ciprofloxacin",
+        "Mesenchymal Stem Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40210123/"
+    },
+    {
+      "pmid": "40129344",
+      "title": "Hypoxia-conditioned mesenchymal stem cells (MSC) exosomes attenuate ultraviolet-B (UVB)-mediated malondialdehyde (MDA) and matrix metalloproteinase-1 (MMP)-1 upregulation in collagen loss models.",
+      "abstract": "To investigate the effects of exosome-derived human mesenchymal stem cells (EH-MSCs) on matrix metalloproteinase-1 (MMP)-1 and malondialdehyde (MDA) levels in ultraviolet-B (UVB)-irradiated Wistar rats.",
+      "year": "2025",
+      "journal": "Medicinski glasnik : official publication of the Medical Association of Zenica-Doboj Canton, Bosnia and Herzegovina",
+      "authors": [
+        "Angelina Jessica",
+        "Putra Agung",
+        "Trisnadi Setyo",
+        "Hermansyah Dedy",
+        "Setiawan Eko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40129344/"
+    },
+    {
+      "pmid": "39366455",
+      "title": "Milk exosome-infused fibrous matrix for treatment of acute wound.",
+      "abstract": "To provide an advanced therapy for wound recovery, in this study, pasteurized bovine milk-derived exosomes (mEXO) are immobilized onto a polydopamine (PDA)-coated hyaluronic acid (HA)-based electrospun nanofibrous matrix (mEXO@PMAT) via a simple dip-coating method to formulate an mEXO-immobilized mesh as a wound-healing biomaterial. Purified mEXOs (∼82 nm) contain various anti-inflammatory, cell proliferation, and collagen synthesis-related microRNAs (miRNAs), including let-7b, miR-184, and miR-181a, which elicit elevated mRNA expression of keratin5, keratin14, and collagen1 in human keratinocytes (HaCaT) and fibroblasts (HDF). The mEXOs immobilized onto the PDA-coated meshes are gradually released from the meshes over 14 days without burst-out effect. After treatment with HaCaT and HDF, the degree of in vitro cell migration increases significantly in the mEXO@PMAT-treated HaCaT and HDF cells compared to the unmodified or PDA-coated meshes-treated cells. Additionally, the mEXO@PMAT provides significantly faster wound closure in vivo without notable toxicity. Thus, the sustained liberation of bioactive mEXO from the meshes can effectively enhance cell proliferation in vitro and accelerate wound closure in vivo, which could be harnessed mEXO@PMAT as a promising wound-healing biomaterial.",
+      "year": "2024",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "authors": [
+        "Bui Hoai-Thuong Duc",
+        "You Gayeon",
+        "Lee Miso",
+        "Mao Wei",
+        "So Chaewon"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Humans",
+        "Exosomes",
+        "Cell Proliferation",
+        "Milk",
+        "Hyaluronic Acid",
+        "Fibroblasts",
+        "Cell Movement",
+        "Polymers"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39366455/"
+    },
+    {
+      "pmid": "39072636",
+      "title": "Fabrication and Characterization of Microneedle Patches for Loading and Delivery of Exosomes.",
+      "abstract": "Exosomes, as emerging \"next-generation\" biotherapeutics and drug delivery vectors, hold immense potential in diverse biomedical fields, ranging from drug delivery and regenerative medicine to disease diagnosis and tumor immunotherapy. However, the rapid clearance by traditional bolus injection and poor stability of exosomes restrict their clinical application. Microneedles serve as a solution that prolongs the residence time of exosomes at the administration site, thereby maintaining the drug concentration and facilitating sustained therapeutic effects. In addition, microneedles also possess the ability to maintain the stability of bioactive substances. Therefore, we introduce a microneedle patch for loading and delivering exosomes and share the methods, including isolation of exosomes, fabrication, and characterization of exosome-loaded microneedle patches. The microneedle patches were fabricated using trehalose and hyaluronic acid as the tip materials and polyvinylpyrrolidone as the backing material through a two-step casting method. The microneedles demonstrated robust mechanical strength, with tips able to withstand 2 N. Pig skin was used to simulate human skin, and the tips of microneedles completely melted within 60 s after skin puncture. The exosomes released from the microneedles exhibited morphology, particle size, marker proteins, and biological functions comparable to those of fresh exosomes, enabling dendritic cells uptake and promoting their maturation.",
+      "year": "2024",
+      "journal": "Journal of visualized experiments : JoVE",
+      "authors": [
+        "Mu Sijia",
+        "Chang Hao",
+        "Qu Fengli"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Animals",
+        "Needles",
+        "Swine",
+        "Drug Delivery Systems",
+        "Microinjections",
+        "Hyaluronic Acid",
+        "Humans",
+        "Povidone",
+        "Transdermal Patch"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39072636/"
+    }
+  ],
+  "crawled_at": "2026-06-08T22:38:54.959167"
+}

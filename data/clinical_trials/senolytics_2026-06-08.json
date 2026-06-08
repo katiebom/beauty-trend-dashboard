@@ -1,0 +1,805 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 23,
+  "trials": [
+    {
+      "nct_id": "NCT06687967",
+      "title": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lichen Simplex Chronicus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dupilumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Sanofi",
+      "primary_completion": "2026-06-08",
+      "url": "https://clinicaltrials.gov/study/NCT06687967"
+    },
+    {
+      "nct_id": "NCT07364903",
+      "title": "Effectiveness of Family-Integrated Newborn Care to Improve Outcomes for Preterm and Low-birth-weight Neonates",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Family Involvement/Empowerment",
+        "Family-centered Care",
+        "Intensive Care Units, Neonatal",
+        "Family Integrated Newborn Care"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Family Integrated Newborn Care, an intervention to integrate family in the care targeted their preterm and Low-birth weight neonates"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Standard medical treatment"
+        }
+      ],
+      "sponsor": "Laerdal Foundation",
+      "primary_completion": "2026-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT07364903"
+    },
+    {
+      "nct_id": "NCT07259603",
+      "title": "Association Between Vitamin D Deficiency and Inflammatory Bowel Disease",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Inflammatory Bowel Diseases"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Serum 25(OH)D (Vitamin D3), C- reactive protein, Erthrocyte sedimentation rate"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT07259603"
+    },
+    {
+      "nct_id": "NCT06525870",
+      "title": "Efficacy of Topical 85% TCA in the Treatment of LSIL After Low-grade Abnormality of Screening Test: a Randomized Controlled Trial",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cervical Intraepithelial Neoplasia",
+        "Trichloroacetic Acid"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "85%TCA topical application"
+        },
+        {
+          "type": "DRUG",
+          "name": "3% acetic acid"
+        }
+      ],
+      "sponsor": "Department of Medical Services Ministry of Public Health of Thailand",
+      "primary_completion": "2025-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT06525870"
+    },
+    {
+      "nct_id": "NCT07250880",
+      "title": "Evaluation of Serum Ceramides C16, C24, and Sphingosine-1-Phosphate (S1P) in Patients With Acne Vulgaris",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Acne Vulgaris"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Blood sample collection for biochemical analysis of serum ceramides (C16, C24) and sphingosine-1-phosphate (S1P)."
+        }
+      ],
+      "sponsor": "Sohag University",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT07250880"
+    },
+    {
+      "nct_id": "NCT03944434",
+      "title": "FACILE: FeAsibility of First-line RiboCIclib in OLdEr Patients with Advanced Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ribociclib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Aromatase Inhibitors, non steroideal"
+        },
+        {
+          "type": "DRUG",
+          "name": "LHRH agonist"
+        }
+      ],
+      "sponsor": "Fondazione Sandro Pitigliani",
+      "primary_completion": "2024-12-27",
+      "url": "https://clinicaltrials.gov/study/NCT03944434"
+    },
+    {
+      "nct_id": "NCT06144567",
+      "title": "Response to Upadacitinib of Enthesitis Evaluated by Ultrasound in Patients With Psoriatic Arthritis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Psoriatic Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Upadacitinib"
+        }
+      ],
+      "sponsor": "Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT06144567"
+    },
+    {
+      "nct_id": "NCT07307534",
+      "title": "Nevus Removal vs. Conservative Treatment in Halo Nevus With Vitiligo: A Randomized Study",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Vitiligo",
+        "Halo Nevus"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Central Nevus Excision"
+        },
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "The Standardized Medication Regimen"
+        }
+      ],
+      "sponsor": "Xijing Hospital",
+      "primary_completion": "2027-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07307534"
+    },
+    {
+      "nct_id": "NCT02719314",
+      "title": "Glucocorticoid-induced Osteoporosis in Patients With Chronic Inflammatory Rheumatic Diseases or Psoriasis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Osteoporosis",
+        "Inflammatory Rheumatism"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Glucocorticoid treatment"
+        }
+      ],
+      "sponsor": "Prof Dr Frank Buttgereit",
+      "primary_completion": "2025-11",
+      "url": "https://clinicaltrials.gov/study/NCT02719314"
+    },
+    {
+      "nct_id": "NCT06920108",
+      "title": "TRACE4BUS for BI-RADS Classification",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [],
+      "sponsor": "DeepTrace Technologies S.r.l.",
+      "primary_completion": "2026-01",
+      "url": "https://clinicaltrials.gov/study/NCT06920108"
+    },
+    {
+      "nct_id": "NCT06894485",
+      "title": "Sensory Training in Distal Radius Fractures",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Distal Radius Fractures"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Conventional therapy"
+        },
+        {
+          "type": "OTHER",
+          "name": "Sensory Training"
+        }
+      ],
+      "sponsor": "Istanbul University",
+      "primary_completion": "2026-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT06894485"
+    },
+    {
+      "nct_id": "NCT06154590",
+      "title": "Anastrozole Adjuvant Trial - Study of Anastrozole Compared to NOLVADEX (Tamoxifen Citrate) for Adjuvant Treatment of Early Breast Cancer Clinical Studies), Adjunct Cytotoxic Chemotherapy and Malignant Joint Tumor",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Metastatic Breast Cancer",
+        "Tumor",
+        "Muscle Neoplasms",
+        "Chronic Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Method(s)1 Attribution"
+        },
+        {
+          "type": "DRUG",
+          "name": "Method(s)2 Attribution,"
+        }
+      ],
+      "sponsor": "DR. DIANE CHISESI NFS. MD. PHD.",
+      "primary_completion": "2025-08",
+      "url": "https://clinicaltrials.gov/study/NCT06154590"
+    },
+    {
+      "nct_id": "NCT06253520",
+      "title": "Autologous T-cells Genetically Engineered to Express Receptors Reactive Against KRAS Mutations in Conjunction With a Vaccine Directed Against These Antigens in Participants With Metastatic Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metastatic Solid Cancers",
+        "Colorectal Cancer",
+        "Breast Cancer",
+        "Non-Small Cell Lung Cancer",
+        "Gastrointestinal Cancer",
+        "Ovarian Cancer",
+        "Genitourinary Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Aldesleukin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "KRAS TCR-Transduced PBL"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "GRT-C903/GRT-R904"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2029-02-20",
+      "url": "https://clinicaltrials.gov/study/NCT06253520"
+    },
+    {
+      "nct_id": "NCT03228459",
+      "title": "The ILERVAS Project: Assessing the Prevalence of Subclinical Vascular Disease and Hidden Kidney Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atherosclerosis",
+        "Chronic Kidney Diseases",
+        "Metabolic Syndrome",
+        "PreDiabetes",
+        "Subclinical Disease and/or Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Dried blood spot test"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Urine test"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Artery ultrasound"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Ankle-brachial index"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Spirometry"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Determination of advanced glycation-end products"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Atrial fibrillation screening"
+        },
+        {
+          "type": "OTHER",
+          "name": "Biological sample collection"
+        },
+        {
+          "type": "OTHER",
+          "name": "Result and recommendation report"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Pulse wave velocity"
+        }
+      ],
+      "sponsor": "Institut de Recerca Biomèdica de Lleida",
+      "primary_completion": "2018-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03228459"
+    },
+    {
+      "nct_id": "NCT06733155",
+      "title": "Trial to Evaluate the Impact of Various Interventions to Increase the Uptake of Surveillance Mammography in Eligible Women in Singapore",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "This Study Evaluates Interventions to Increase Surveillance Mammography Uptake for Early Breast Cancer Detection Among Singaporean Women"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Financial intervention"
+        },
+        {
+          "type": "OTHER",
+          "name": "Lottery intervention"
+        },
+        {
+          "type": "OTHER",
+          "name": "Health Messages"
+        },
+        {
+          "type": "OTHER",
+          "name": "Personal Health Concierge"
+        },
+        {
+          "type": "OTHER",
+          "name": "Only reminder mailer"
+        }
+      ],
+      "sponsor": "National University Hospital, Singapore",
+      "primary_completion": "2024-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06733155"
+    },
+    {
+      "nct_id": "NCT07484035",
+      "title": "Safety and Efficacy Evaluation of an Extensively Hydrolyzed Formula in Infants With Cow's Milk Protein Allergy (CMPA)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cow's Milk Protein Allergy (CMPA)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Feihe Extensively Hydrolyzed Formula"
+        },
+        {
+          "type": "OTHER",
+          "name": "Nestlé Extensively Hydrolyzed Formula"
+        }
+      ],
+      "sponsor": "Heilongjiang Feihe Dairy Co. Ltd.",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT07484035"
+    },
+    {
+      "nct_id": "NCT06626152",
+      "title": "Measuring Psychomotor Response to L-DOPA Challenge As a Biomarker for Outcomes in Late-Life Depression: a Pilot Feasibility Trial",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Major Depressive Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Apo-levocarb"
+        }
+      ],
+      "sponsor": "University of British Columbia",
+      "primary_completion": "2026-05-30",
+      "url": "https://clinicaltrials.gov/study/NCT06626152"
+    },
+    {
+      "nct_id": "NCT06824935",
+      "title": "Evaluation of Perioperative Anesthesia Requirements of Outpatient Cataract Patients",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Preoperative Evaluation",
+        "Outpatient",
+        "Cataract Surgery Anesthesia"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Anesthesia"
+        }
+      ],
+      "sponsor": "Naime Yalçın",
+      "primary_completion": "2025-05-02",
+      "url": "https://clinicaltrials.gov/study/NCT06824935"
+    },
+    {
+      "nct_id": "NCT07333508",
+      "title": "Fospropofol Disodium ED95 for Elderly Spinal Anesthesia Sedation",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lower Extremity Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Fospropofol Disodium"
+        }
+      ],
+      "sponsor": "Ya-Qun Zhou",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07333508"
+    },
+    {
+      "nct_id": "NCT07337343",
+      "title": "Co-Development and Validation of Colonic Symptom Pictograms for Young People",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Constipation - Functional",
+        "Abdominal Pain (AP)",
+        "Nausea and Vomitting",
+        "Bloating",
+        "Flatulence",
+        "IBS, Constipation Predominant"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Pictogram comprehension and validation"
+        }
+      ],
+      "sponsor": "University of Auckland, New Zealand",
+      "primary_completion": "2027-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT07337343"
+    },
+    {
+      "nct_id": "NCT06884150",
+      "title": "fNIRS-based Analysis and Evaluation of the Effect of Schroth Rehabilitation on Motor Functions in Adolescent Idiopathic Scoliosis (AIS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Scoliosis Idiopathic",
+        "Scoliosis; Adolescence"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Exercise"
+        }
+      ],
+      "sponsor": "Akdeniz University",
+      "primary_completion": "2025-09-02",
+      "url": "https://clinicaltrials.gov/study/NCT06884150"
+    },
+    {
+      "nct_id": "NCT07352735",
+      "title": "Upper Extremity Sensation and Function in Children With Cerebral Palsy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Cerebral Palsy",
+        "Sensation Disorders",
+        "Upper Extremity Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Vibration Sense Assessment"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Stereognosis"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Tactile Sense"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Two Point Discrimination"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Joint position sense"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Jebsen-Taylor EHand Function Test"
+        },
+        {
+          "type": "OTHER",
+          "name": "ABILHAND-Kids survey"
+        }
+      ],
+      "sponsor": "Abant Izzet Baysal University",
+      "primary_completion": "2026-06-03",
+      "url": "https://clinicaltrials.gov/study/NCT07352735"
+    },
+    {
+      "nct_id": "NCT06562192",
+      "title": "Phase I Study of [177Lu]Lu-NNS309 in Patients With Pancreatic, Lung, Breast and Colorectal Cancers",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pancreatic Ductal Adenocarcinoma",
+        "Non-small Cell Lung Cancer",
+        "HR+/HER2- Ductal and Lobular Breast Cancer",
+        "Triple Negative Breast Cancer",
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "[68Ga]Ga-NNS309"
+        },
+        {
+          "type": "DRUG",
+          "name": "[177Lu]Lu-NNS309"
+        }
+      ],
+      "sponsor": "Novartis Pharmaceuticals",
+      "primary_completion": "2031-01-15",
+      "url": "https://clinicaltrials.gov/study/NCT06562192"
+    },
+    {
+      "nct_id": "NCT06767332",
+      "title": "EMDR for Fear of Cancer Recurrence in Patients with Familial Melanoma: a Waiting List Control Trial",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Familial Melanoma",
+        "Fear of Cancer Recurrence",
+        "Eye Movement Desensitization and Reprocessing",
+        "Psychological Intervention"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "eye movement desensitization and reprocessing (EMDR)"
+        }
+      ],
+      "sponsor": "Leiden University Medical Center",
+      "primary_completion": "2025-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06767332"
+    },
+    {
+      "nct_id": "NCT06899906",
+      "title": "Efficacy and Safety of Dalbavancin As Suppressive Therapy",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Efficacy and Safety of Dalbavancin",
+        "In Subjects Who Received SAT with DAL",
+        "For Acute or Chronic Infections Between July 2019 and December 2024"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Determine patient demographic and clinical characteristics at baseline"
+        }
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "primary_completion": "2025-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT06899906"
+    },
+    {
+      "nct_id": "NCT06488963",
+      "title": "The Effect of Cold Therapy on Peripheral Neuropathy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Peripheral Neuropathy"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "NatraCure Cold Therapy gloves and socks"
+        }
+      ],
+      "sponsor": "Koç University",
+      "primary_completion": "2024-11",
+      "url": "https://clinicaltrials.gov/study/NCT06488963"
+    },
+    {
+      "nct_id": "NCT06103487",
+      "title": "Long Term Follow-Up for RGX-111",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Mucopolysaccharidosis I"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "No Intervention"
+        }
+      ],
+      "sponsor": "REGENXBIO Inc.",
+      "primary_completion": "2027-09",
+      "url": "https://clinicaltrials.gov/study/NCT06103487"
+    },
+    {
+      "nct_id": "NCT06451432",
+      "title": "The (Cost-) Effectiveness of Paediatric Laparoscopic Hernia Repair Compared to Open Hernia Repair",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Inguinal Hernia"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Percutaneous Inguinal Ring Suturing (PIRS) technique"
+        }
+      ],
+      "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+      "primary_completion": "2027-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT06451432"
+    },
+    {
+      "nct_id": "NCT07333014",
+      "title": "Adapted Visual Safety Plan for Autistic Youth (VSP-AY) to Address Self-harm, Suicidal Ideation, and Suicide Behaviors",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Autism Spectrum Disorder",
+        "Suicidal Ideation",
+        "Suicidal Behavior",
+        "Self-Injurious Behavior",
+        "Depression"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Adapted Visual Safety Plan for Autistic Youth (VSP-AY) to Address Self-harm, Suicidal Ideation, and Suicide Behaviors"
+        }
+      ],
+      "sponsor": "College of Management Academic Studies",
+      "primary_completion": "2029-07-30",
+      "url": "https://clinicaltrials.gov/study/NCT07333014"
+    },
+    {
+      "nct_id": "NCT06958393",
+      "title": "Effect of Opioid-free Anaesthesia on Postoperative Delirium in Elderly Patients Undergoing Gastrointestinal Surgery",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Delirium - Postoperative",
+        "Opioid-Free Anaesthesia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dexmedetomidine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Esketamine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Esmolol"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sufentanil"
+        },
+        {
+          "type": "DRUG",
+          "name": "Remifentanil"
+        }
+      ],
+      "sponsor": "Qianfoshan Hospital",
+      "primary_completion": "2026-01-05",
+      "url": "https://clinicaltrials.gov/study/NCT06958393"
+    }
+  ],
+  "fetched_at": "2026-06-08T22:38:20.175017"
+}

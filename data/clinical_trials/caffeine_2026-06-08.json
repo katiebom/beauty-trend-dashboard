@@ -1,0 +1,792 @@
+{
+  "ingredient_id": "caffeine",
+  "name_kr": "카페인",
+  "name_en": "Caffeine",
+  "query": "(\"Caffeine\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 26,
+  "trials": [
+    {
+      "nct_id": "NCT05300308",
+      "title": "Lymphoedema and Nocturia/Nocturnal Polyuria After Pelvic LND for Urogenital Cancer",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Urogenital Cancer",
+        "Lower Limb Lymphedema",
+        "Nocturia",
+        "Nocturnal Polyuria"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "usual care"
+        }
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT05300308"
+    },
+    {
+      "nct_id": "NCT01984138",
+      "title": "REVIVE: Replens Versus Intra-Vaginal Estrogen for the Treatment of Vaginal Dryness on Aromatase Inhibitor Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Estrogen Receptor Positive Breast Cancer",
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ESTRING"
+        },
+        {
+          "type": "DRUG",
+          "name": "Replens"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vagifem"
+        }
+      ],
+      "sponsor": "Polly A. Niravath, MD",
+      "primary_completion": "2025-06-03",
+      "url": "https://clinicaltrials.gov/study/NCT01984138"
+    },
+    {
+      "nct_id": "NCT07469852",
+      "title": "Effects of Caffeine Ingestion on Morning Cognitive and 4-km Time Trial Performance in Males",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Caffeine",
+        "Placebo - Control",
+        "No Pill"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Caffeine (300 mg)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        },
+        {
+          "type": "OTHER",
+          "name": "No Pill"
+        }
+      ],
+      "sponsor": "Liverpool John Moores University",
+      "primary_completion": "2026-03-25",
+      "url": "https://clinicaltrials.gov/study/NCT07469852"
+    },
+    {
+      "nct_id": "NCT06978777",
+      "title": "Effect of Caffeine on Cold-stimulated Brown Adipose Tissue Activity",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Brown Adipose Tissue (BAT) Physiology",
+        "Cold Exposure"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Caffeine (200 mg)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University Hospital, Basel, Switzerland",
+      "primary_completion": "2026-05-31",
+      "url": "https://clinicaltrials.gov/study/NCT06978777"
+    },
+    {
+      "nct_id": "NCT07109453",
+      "title": "To Assess Skin Safety of Test Product(s) by Patch Test on Adult Healthy Human Subjects",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Normal",
+        "Sensitive Skin"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "18 Test Products along with positive and negative control"
+        }
+      ],
+      "sponsor": "NovoBliss Research Pvt Ltd",
+      "primary_completion": "2025-09",
+      "url": "https://clinicaltrials.gov/study/NCT07109453"
+    },
+    {
+      "nct_id": "NCT07271212",
+      "title": "Scalp Care Efficacy Evaluation for Premium Revitalizing Elixir",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Scalp Health",
+        "Hair Condition",
+        "Hair Loss",
+        "Alopecia",
+        "Sebum Production",
+        "Hair Health",
+        "Hair Thinning"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Placebo control"
+        },
+        {
+          "type": "OTHER",
+          "name": "Base formula only"
+        },
+        {
+          "type": "OTHER",
+          "name": "Base formula plus IGF-1 and FGF-7"
+        },
+        {
+          "type": "OTHER",
+          "name": "Base formula plus Centella asiatica and ginger extracellular vesicles"
+        },
+        {
+          "type": "OTHER",
+          "name": "Base formula plus Centella asiatica and ginger extracellular vesicles, IGF-1 & FGF-7"
+        }
+      ],
+      "sponsor": "Hungkuang University",
+      "primary_completion": "2026-05",
+      "url": "https://clinicaltrials.gov/study/NCT07271212"
+    },
+    {
+      "nct_id": "NCT06962046",
+      "title": "Can the Use of Virtual Reality Improve TKA Outcomes",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Total Knee Arthroplasty"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Virtual Reality"
+        }
+      ],
+      "sponsor": "Belfast Health and Social Care Trust",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT06962046"
+    },
+    {
+      "nct_id": "NCT07483541",
+      "title": "Identification of Modifiable Sleep-related Factors in Patients With Systemic Lupus Erythematosus.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Adults with systemic lupus erythematosus"
+        }
+      ],
+      "sponsor": "Investigación en Hemofilia y Fisioterapia",
+      "primary_completion": "2026-06-13",
+      "url": "https://clinicaltrials.gov/study/NCT07483541"
+    },
+    {
+      "nct_id": "NCT07260721",
+      "title": "Evaluation of a Single-lead ECG Patch-based Telemetry System for In-hospital Monitoring",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Arrhythmias",
+        "Atrial Fibrillation",
+        "Ventricular Tachycardia",
+        "Supraventricular Tachycardia",
+        "Bradycardia",
+        "Telemetry",
+        "Patient Monitoring",
+        "Hospitalization"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "MEMO-Cue-based telemetry monitoring"
+        }
+      ],
+      "sponsor": "Yonsei University",
+      "primary_completion": "2026-05",
+      "url": "https://clinicaltrials.gov/study/NCT07260721"
+    },
+    {
+      "nct_id": "NCT07368088",
+      "title": "PNEUMOSTEM® for Improving Respiratory Outcomes in Very Premature Infants Diagnosed With Early Pulmonary Arterial Hypertension",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pulmonary Arterial Hypertension (PAH)",
+        "Premature Infants"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "PNEUMOSTEM®"
+        }
+      ],
+      "sponsor": "Samsung Medical Center",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT07368088"
+    },
+    {
+      "nct_id": "NCT07137442",
+      "title": "Distinguishing Tics and Functional Tics Using Clinical Neurophysiological Techniques",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Tics",
+        "Functional Tics"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "primary_completion": "2034-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07137442"
+    },
+    {
+      "nct_id": "NCT05931874",
+      "title": "Optimizing a mHealth Physical Activity Intervention With Mindful Awareness Lessons in Breast Cancer Survivors",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Core Intervention"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "E-Coach"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Buddy"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "General Mindfulness Training"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "MVPA-Specific Mindfulness Training"
+        }
+      ],
+      "sponsor": "Northwestern University",
+      "primary_completion": "2026-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT05931874"
+    },
+    {
+      "nct_id": "NCT06787794",
+      "title": "Reducing Itch With Hypnosis and Virtual Reality",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "ITCH",
+        "Pruritus"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Virtual Reality-assisted hypnosis"
+        }
+      ],
+      "sponsor": "Universiteit Leiden",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06787794"
+    },
+    {
+      "nct_id": "NCT06868914",
+      "title": "Phase I Trial of High-Density Theta Burst Stimulation (hdTBS)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy Volunteers"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TMS (MagVenture MagPro 100 with MagOption)"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2028-01-13",
+      "url": "https://clinicaltrials.gov/study/NCT06868914"
+    },
+    {
+      "nct_id": "NCT05675436",
+      "title": "Investigating the Mechanistic Effects of Mitapivat in Subjects With Sickle Cell Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Sickle Cell Anemia",
+        "Sickle Cell Thalassemia",
+        "Sickle Cell Pain",
+        "Hbss",
+        "Hbsc",
+        "Sickle Beta Thalassemia",
+        "Sickle Beta Zero Thalassemia",
+        "Sickle Cell Syndrome Variant"
+      ],
+      "interventions": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "primary_completion": "2027-10-27",
+      "url": "https://clinicaltrials.gov/study/NCT05675436"
+    },
+    {
+      "nct_id": "NCT06917690",
+      "title": "A Study to Learn About the Safety and Efficacy of the Drug Oleogel-S10 in Japanese Patients With Epidermolysis Bullosa",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Epidermolysis Bullosa",
+        "Junctional Epidermolysis Bullosa",
+        "Epidermolysis Bullosa, Dystrophic",
+        "Epidermolysis Bullosa, Junctional",
+        "Skin Abnormalities",
+        "Connective Tissue Disease",
+        "Collagen Diseases",
+        "Skin Diseases",
+        "Genetic Diseases, Inborn",
+        "Congenital Abnormalities"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Oleogel-S10"
+        }
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "primary_completion": "2026-03",
+      "url": "https://clinicaltrials.gov/study/NCT06917690"
+    },
+    {
+      "nct_id": "NCT06717828",
+      "title": "The Effects of Tai Chi on Metabolic Dysfunction-associated Fatty Liver Disease in Middle-Aged and Older Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Non-Alcoholic Fatty Liver Disease"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Tai Chi Exercise"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Regular Exercise"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Control"
+        }
+      ],
+      "sponsor": "Fujian Provincial Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06717828"
+    },
+    {
+      "nct_id": "NCT07189637",
+      "title": "The Combined Effect of the Mediterranean Diet and Intermittent Fasting on Hypertension",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hypertension"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Face-to-face nutrition education"
+        },
+        {
+          "type": "OTHER",
+          "name": "Intermittent Fasting Diet"
+        },
+        {
+          "type": "OTHER",
+          "name": "Mediterranean Diet"
+        }
+      ],
+      "sponsor": "Nadide Gizem Tarakci Filiz",
+      "primary_completion": "2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT07189637"
+    },
+    {
+      "nct_id": "NCT07273812",
+      "title": "Evaluating an AI-Based Mobile Application for Chemotherapy Support in Breast Cancer Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Breast Neoplasm",
+        "Chemotherapy-Related Toxicities",
+        "Medication Adherence",
+        "Quality of Life in Cancer Patients",
+        "Accuracy of AI App",
+        "Symptom Management"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "AI-Based Mobile Application for Personalized Chemotherapy Support"
+        },
+        {
+          "type": "OTHER",
+          "name": "Usual Care"
+        }
+      ],
+      "sponsor": "Dena h. Al-Tameemi",
+      "primary_completion": "2026-07",
+      "url": "https://clinicaltrials.gov/study/NCT07273812"
+    },
+    {
+      "nct_id": "NCT06541496",
+      "title": "Influence of Fitzpatrick Skin Phototype and Body Mass Index on Non-invasive Optoacoustic Imaging",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Multispectral Optoacoustic Tomography (MSOT)"
+        }
+      ],
+      "sponsor": "University of Erlangen-Nürnberg Medical School",
+      "primary_completion": "2024-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06541496"
+    },
+    {
+      "nct_id": "NCT03299179",
+      "title": "The Effects of the Female Hormones on Cerebral Perfusion",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Cerebral Perfusion",
+        "Contraception",
+        "Menstrual Cycle"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "MRI scan"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Physiological monitoring"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Blood sample"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Blood pressure measurement"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Body temperature"
+        },
+        {
+          "type": "OTHER",
+          "name": "Questionnaires"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Pregnancy test"
+        }
+      ],
+      "sponsor": "University Ghent",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03299179"
+    },
+    {
+      "nct_id": "NCT05697159",
+      "title": "7 Tesla MRI Brain Imaging to Decipher Filgotinib's Mode of Analgesic Action in Rheumatoid Arthritis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis",
+        "Sickness Behavior",
+        "Inflammatory Disease",
+        "Autoimmune",
+        "Pain, Chronic"
+      ],
+      "interventions": [],
+      "sponsor": "NHS Greater Glasgow and Clyde",
+      "primary_completion": "2025-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT05697159"
+    },
+    {
+      "nct_id": "NCT07158125",
+      "title": "Pathogenesis of Periodontal Disease in Individuals With Psoriasis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Psoriasis"
+      ],
+      "interventions": [],
+      "sponsor": "Recep Tayyip Erdogan University Training and Research Hospital",
+      "primary_completion": "2026-02-02",
+      "url": "https://clinicaltrials.gov/study/NCT07158125"
+    },
+    {
+      "nct_id": "NCT07099092",
+      "title": "Causal Mechanisms of Odor-Guided Behavior in Humans",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Normal Physiology"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TUS PirC"
+        },
+        {
+          "type": "DEVICE",
+          "name": "TUS Amy"
+        },
+        {
+          "type": "DEVICE",
+          "name": "TUS Sham"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2035-07-14",
+      "url": "https://clinicaltrials.gov/study/NCT07099092"
+    },
+    {
+      "nct_id": "NCT07012070",
+      "title": "Improving Walking Performance in Patients With Peripheral Artery Disease Through Wearable Activity Trackers",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Peripheral Artery Disease"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "supervised exercise therapy (SET)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Wearable activities monitor (WAM)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "enhanced HBET"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Mobile application"
+        }
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07012070"
+    },
+    {
+      "nct_id": "NCT07583719",
+      "title": "Effects of Moderate-intensity Interval Aerobic Exercise (MIIAE) on Inflammatory, Immune, Metabolic, Physical Fitness, and Quality of Life Parameters in Breast Cancer Patients Undergoing Radiotherapy.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Radiotherapy",
+        "Inflamation",
+        "Immune System",
+        "Physical Fitness",
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Moderate-Intensity Interval Aerobic Exercise"
+        }
+      ],
+      "sponsor": "Universidad Francisco de Vitoria",
+      "primary_completion": "2026-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT07583719"
+    },
+    {
+      "nct_id": "NCT06804642",
+      "title": "Spinal Cord Stimulation for Parkinson's Disease Rehabilitation",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Parkinson Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Spinal cord transcutaneous stimulation (scTS)"
+        }
+      ],
+      "sponsor": "University of Louisville",
+      "primary_completion": "2029-12-11",
+      "url": "https://clinicaltrials.gov/study/NCT06804642"
+    },
+    {
+      "nct_id": "NCT02728388",
+      "title": "Photodynamic Therapy for Benign Dermal Neurofibromas- Phase II",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "NEUROFIBROMATOSIS 1"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "aminolevulinic acid"
+        }
+      ],
+      "sponsor": "Donald Basel",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT02728388"
+    },
+    {
+      "nct_id": "NCT07127861",
+      "title": "Effects of Treadmill-Based Gait Training in Patients With Stroke",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gait",
+        "Thermography",
+        "Walking Speed, Mesh id D000072797",
+        "Endurance",
+        "Step Time and Length",
+        "Gait Analysis"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Treadmill gait training"
+        },
+        {
+          "type": "OTHER",
+          "name": "CONVENTIONAL PHYSIOTHERAPY"
+        }
+      ],
+      "sponsor": "University of Salamanca",
+      "primary_completion": "2025-09-15",
+      "url": "https://clinicaltrials.gov/study/NCT07127861"
+    },
+    {
+      "nct_id": "NCT06597474",
+      "title": "Food-Body-Mind Intervention (16 Weeks)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Mental Health Wellness",
+        "Emotional Problem",
+        "Behavioral Problem of Child",
+        "Social Skills",
+        "Obesity, Childhood"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Food-Body-Mind"
+        }
+      ],
+      "sponsor": "Michigan State University",
+      "primary_completion": "2028-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT06597474"
+    }
+  ],
+  "fetched_at": "2026-06-08T22:38:11.065232"
+}

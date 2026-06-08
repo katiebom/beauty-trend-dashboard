@@ -1,0 +1,94 @@
+{
+  "ingredient_a": "niacinamide",
+  "ingredient_b": "melanin transfer",
+  "query": "(\"niacinamide\"[Title/Abstract] AND \"melanin transfer\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 4,
+  "articles": [
+    {
+      "pmid": "41901315",
+      "title": "Glabridin Inhibits Melanogenesis and Melanin Transfer via Wnt/β-Catenin Pathway and Rho Family GTPase-Mediated Dendritic Formation Suppression.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Li Lili",
+        "Zhang Xiaoya",
+        "Tang Guangyuan",
+        "Wu Jianxin",
+        "Huang Qing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41901315/"
+    },
+    {
+      "pmid": "41832625",
+      "title": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
+      "abstract": "Excess melanin deposition causes hyperpigmentation, a common dermatological disorder that leads to skin discoloration and an uneven skin tone. Traditional therapies such as topical creams and chemical peels have limitations due to insufficient skin penetration, lengthy treatment durations, and potential adverse effects. Transdermal drug administration has emerged as a viable alternative, offering improved therapeutic effectiveness, sustained release, and enhanced drug absorption. Among transdermal systems, microneedle-based patches have gained significant interest because of their ability to deliver active compounds directly through the skin, bypassing the stratum corneum. This study examines recent advancements in transdermal delivery for hyperpigmentation treatment, with a focus on dissolving microneedle (DMN) patches. Research indicates that DMN patches containing niacinamide, glabridin, and tranexamic acid exhibit greater skin-lightening effects than traditional topical formulations. Clinical studies have validated their safety, efficacy, and ability to reduce melasma and post-inflammatory hyperpigmentation with minimal side effects. Furthermore, novel polymeric formulations enhance drug absorption and stability, optimizing therapeutic outcomes. The use of multifunctional components, targeting tyrosinase inhibition, oxidative stress reduction, and melanin transfer, further improves depigmentation efficacy. The paper also highlights how emerging carriers, such as tetrahedral framework nucleic acids (tFNAs), may enhance drug delivery efficiency. As transdermal technologies continue to advance, microneedlebased approaches hold strong potential to transform hyperpigmentation treatment by providing a highly effective, non-invasive, and patient-friendly therapeutic option. Future research should focus on expanding clinical applications and refining formulation parameters to maximize benefits across diverse skin types.",
+      "year": "2026",
+      "journal": "Recent advances in drug delivery and formulation",
+      "authors": [
+        "Yadav Ayushi",
+        "Gupta Nakul",
+        "Alam Md Sarfaraz",
+        "Thakur Shreyasi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41832625/"
+    },
+    {
+      "pmid": "33713560",
+      "title": "Comparison Study of the Effects of Cationic Liposomes on Delivery across 3D Skin Tissue and Whitening Effects in Pigmented 3D Skin.",
+      "abstract": "Charged phospholipids are employed to formulate liposomes with different surface charges to enhance the permeation of active ingredients through epidermal layers. Although 3D skin tissue is widely employed as an alternative to permeation studies using animal skin, only a small number of studies have compared the difference between these skin models. Liposomal delivery strategies are investigated herein, through 3D skin tissue based on their surface charges. Cationic, anionic, and neutral liposomes are formulated and their size, zeta-potential, and morphology are characterized using dynamic light scattering and cryogenic-transmission electron microscopy (cryo-TEM). A Franz diffusion cell is employed to determine the delivery efficiency of various liposomes, where all liposomes do not exhibit any recognizable difference of permeation through the synthetic membrane. When the fluorescence liposomes are applied to 3D skin, considerable fluorescence intensity is observed at the stratum cornea and epithelium layers. Compared to other liposomes, cationic liposomes exhibit the highest fluorescence intensity, suggesting the enhanced permeation of liposomes through the 3D skin layers. Finally, the ability of niacinamide (NA)-incorporated liposomes to suppress melanin transfer in pigmented 3D skin is examined, where cationic liposomes exhibit the highest degree of whitening effects.",
+      "year": "2021",
+      "journal": "Macromolecular bioscience",
+      "authors": [
+        "Lee Mi So",
+        "Lee Ju Won",
+        "Kim Su Ji",
+        "Pham-Nguyen Oanh-Vu",
+        "Park Jongmin"
+      ],
+      "mesh_terms": [
+        "Cations",
+        "Cryoelectron Microscopy",
+        "Drug Carriers",
+        "HEK293 Cells",
+        "Humans",
+        "Liposomes",
+        "Microscopy, Electron, Transmission",
+        "Models, Biological",
+        "Skin",
+        "Skin Absorption"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33713560/"
+    },
+    {
+      "pmid": "23278898",
+      "title": "The effects of Sophora angustifolia and other natural plant extracts on melanogenesis and melanin transfer in human skin cells.",
+      "abstract": "Skin pigmentation is a multistep process of melanin synthesis by melanocytes, its transfer to recipient keratinocytes and its degradation. As dyspigmentation is a prominent marker of skin ageing, novel effective agents that modulate pigmentation safely are being sought for both clinical and cosmetic use. Here, a number of plant extracts were examined for their effect on melanogenesis (by melanin assay and Western blotting) and melanin transfer (by confocal immunomicroscopy of gp100-positive melanin granules in cocultures and by SEM analysis of filopodia), in human melanocytes and in cocultures with phototype-matched normal adult epidermal keratinocytes. Mulberry, Kiwi and Sophora extracts were assessed against isobutylmethylxanthine, hydroquinone, vitamin C and niacinamide. Compared with unstimulated control, all extracts significantly reduced melanogenesis in human melanoma cells and normal adult epidermal melanocytes. These extracts also reduced melanin transfer and reduced filopodia expression on melanocytes, similar to hydroquinone and niacinamide, indicating their effectiveness as multimode pigmentation actives.",
+      "year": "2013",
+      "journal": "Experimental dermatology",
+      "authors": [
+        "Singh Suman K",
+        "Baker Richard",
+        "Wibawa Judata I D",
+        "Bell Mike",
+        "Tobin Desmond J"
+      ],
+      "mesh_terms": [
+        "1-Methyl-3-isobutylxanthine",
+        "Actinidia",
+        "Ascorbic Acid",
+        "Cells, Cultured",
+        "Coculture Techniques",
+        "Fruit",
+        "Humans",
+        "Hydroquinones",
+        "Keratinocytes",
+        "Melanins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/23278898/"
+    }
+  ],
+  "crawled_at": "2026-06-08T22:38:28.355001"
+}

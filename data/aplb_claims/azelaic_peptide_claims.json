@@ -2,44 +2,44 @@
   "complex_id": "azelaic_peptide",
   "trade_mark": "",
   "name_kr": "아젤라익산-펩타이드",
-  "generated_at": "2026-06-01T23:18:07.705397",
+  "generated_at": "2026-06-08T22:42:33.978758",
   "claims": {
     "hero_claim": {
-      "headline_en": "Azelaic Acid & Peptide Complex: Visibly Calms Redness and Refines Skin.",
-      "headline_kr": "아젤라익산-펩타이드 콤플렉스: 붉은기 진정 및 피부결 개선에 도움을 줍니다.",
-      "subheadline_en": "Soothes redness, supports clarity.",
-      "subheadline_kr": "붉은기 진정, 피부결 개선에 도움.",
-      "scientific_basis_en": "Azelaic acid is a well-established ingredient for managing redness and inflammatory conditions like rosacea. Peptides are known for their skin-conditioning and anti-inflammatory properties. Their combination is supported by research on integrated skincare approaches and cosmeceuticals for various skin concerns, including acne and rosacea. (PMID: 42087526, 41923969, 42079476, 42070484)",
-      "scientific_basis_kr": "아젤라익산은 붉은기와 주사비와 같은 염증성 피부 고민 관리에 효과적인 성분으로 알려져 있습니다. 펩타이드는 피부 컨디셔닝 및 항염증 효과를 제공합니다. 이 두 성분의 조합은 통합 스킨케어 접근법 및 코스메슈티컬 연구를 통해 여드름 및 주사비 등 다양한 피부 고민 개선에 대한 근거를 제시합니다. (PMID: 42087526, 41923969, 42079476, 42070484)",
+      "headline_en": "Azelaic Acid & Peptide Complex: Soothes Redness, Calms Sensitivity.",
+      "headline_kr": "아젤라익산-펩타이드 컴플렉스: 붉은 기 진정, 민감함 완화.",
+      "subheadline_en": "Visibly reduces redness and calms sensitive skin.",
+      "subheadline_kr": "눈에 띄는 붉은 기 감소 및 민감 피부 진정.",
+      "scientific_basis_en": "Azelaic acid is a well-established topical therapy for rosacea, known for its anti-inflammatory properties that help reduce redness and papules (PMID:42070484). Peptides, when combined with such actives, can further support skin barrier function and soothe irritation, contributing to overall skin resilience. The synergistic effect of azelaic acid and other cosmeceuticals like niacinamide is also recognized for managing inflammatory skin conditions like acne (PMID:41923969).",
+      "scientific_basis_kr": "아젤라익산은 붉은 기와 구진을 줄이는 항염증 특성으로 잘 알려진 로사시아의 표준 국소 치료법입니다 (PMID:42070484). 펩타이드는 이러한 활성 성분과 결합될 때 피부 장벽 기능을 더욱 강화하고 자극을 진정시켜 전반적인 피부 회복력을 높이는 데 도움을 줄 수 있습니다. 아젤라익산과 나이아신아마이드와 같은 다른 코스메슈티컬의 시너지 효과는 여드름과 같은 염증성 피부 질환 관리에도 효과적입니다 (PMID:41923969).",
       "tier": "strong"
     },
     "rtb_points": [
       {
         "point_en": "Azelaic acid helps manage facial redness and inflammatory papules associated with rosacea.",
-        "point_kr": "아젤라익산은 주사비 관련 안면 홍조 및 염증성 병변 관리에 도움을 줍니다.",
-        "evidence": "PMID: 42070484, Topical PEGylated azelaic acid nanohybrids: A lipid-polymer hydrogel system for sustained dermal delivery in rosacea man"
+        "point_kr": "아젤라익산은 안면 홍조 및 로사시아 관련 염증성 구진 관리에 도움을 줍니다.",
+        "evidence": "42070484 | Topical PEGylated azelaic acid nanohybrids: A lipid-polymer hydrogel system for sustained dermal delivery in rosacea man"
       },
       {
-        "point_en": "Integrated skincare combining actives like azelaic acid and niacinamide supports overall skin health and treatment outcomes.",
-        "point_kr": "아젤라익산, 나이아신아마이드 등 활성 성분의 통합 스킨케어는 전반적인 피부 건강 및 치료 결과 개선에 기여합니다.",
-        "evidence": "PMID: 42087526, International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med"
+        "point_en": "Cosmeceuticals like azelaic acid and niacinamide are recognized for their role in managing acne and reducing side effects of treatments.",
+        "point_kr": "아젤라익산, 나이아신아마이드 등 코스메슈티컬은 여드름 관리 및 치료 부작용 감소에 기여합니다.",
+        "evidence": "41923969 | Cosmeceuticals in acne vulgaris: from mechanism of action to clinical application."
       },
       {
-        "point_en": "Cosmeceuticals including azelaic acid are recognized as adjunctive therapies for acne vulgaris, reducing side effects and improving compliance.",
-        "point_kr": "아젤라익산을 포함한 코스메슈티컬은 여드름 치료 시 부작용을 줄이고 순응도를 높이는 보조 요법으로 인정받고 있습니다.",
-        "evidence": "PMID: 41923969, Cosmeceuticals in acne vulgaris: from mechanism of action to clinical application."
+        "point_en": "Integrated skincare approaches combining dermocosmetics can improve treatment outcomes for various skin conditions.",
+        "point_kr": "더모코스메틱과 의료 시술을 결합한 통합 스킨케어는 다양한 피부 고민의 개선 효과를 높입니다.",
+        "evidence": "42087526 | International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med"
       }
     ],
     "tech_story": {
-      "headline_en": "Synergistic Azelaic Acid & Peptide Formulation for Enhanced Efficacy.",
-      "headline_kr": "효과를 극대화하는 시너지 아젤라익산 & 펩타이드 포뮬레이션.",
+      "headline_en": "Advanced Peptide Technology Enhances Azelaic Acid Delivery and Efficacy.",
+      "headline_kr": "첨단 펩타이드 기술로 아젤라익산의 전달력과 효능을 극대화합니다.",
       "supporting_facts_en": [
-        "Optimized delivery systems enhance azelaic acid penetration for improved results in rosacea management.",
-        "Peptides complement azelaic acid's action by supporting skin barrier function and reducing inflammation."
+        "Peptides work synergistically with Azelaic Acid to soothe and strengthen sensitive skin.",
+        "Formulated for enhanced penetration and sustained release of active ingredients."
       ],
       "supporting_facts_kr": [
-        "최적화된 전달 시스템은 아젤라익산의 피부 침투를 향상시켜 주사비 개선 효과를 높입니다.",
-        "펩타이드는 피부 장벽 기능 강화 및 염증 감소를 통해 아젤라익산의 작용을 보완합니다."
+        "펩타이드가 아젤라익산과 시너지 효과를 내어 민감한 피부를 진정시키고 강화합니다.",
+        "활성 성분의 피부 흡수율과 지속적인 방출을 위해 최적화된 포뮬러입니다."
       ]
     },
     "citation_ready_papers": [
@@ -47,39 +47,39 @@
         "pmid": "42070484",
         "title": "Topical PEGylated azelaic acid nanohybrids: A lipid-polymer hydrogel system for sustained dermal delivery in rosacea man",
         "year": "2026",
-        "use_case_en": "To support the claim that azelaic acid is effective for rosacea and that advanced delivery systems can improve its efficacy.",
-        "use_case_kr": "아젤라익산의 주사비 효능 및 전달 시스템을 통한 효과 개선을 뒷받침하는 근거로 인용."
-      },
-      {
-        "pmid": "42087526",
-        "title": "International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med",
-        "year": "2026",
-        "use_case_en": "To highlight the importance of combining active ingredients like azelaic acid and niacinamide in comprehensive skincare routines.",
-        "use_case_kr": "아젤라익산, 나이아신아마이드 등 활성 성분의 통합적 스킨케어 루틴 적용의 중요성을 강조하는 근거로 인용."
+        "use_case_en": "To support claims related to azelaic acid's efficacy in managing rosacea symptoms like erythema and papules, highlighting its role as a first-line topical therapy.",
+        "use_case_kr": "붉은 기와 구진과 같은 로사시아 증상 관리에 있어 아젤라익산의 효능을 뒷받침하며, 1차 국소 치료제로서의 역할을 강조하는 데 인용합니다."
       },
       {
         "pmid": "41923969",
         "title": "Cosmeceuticals in acne vulgaris: from mechanism of action to clinical application.",
         "year": "2026",
-        "use_case_en": "To support the use of azelaic acid as a cosmeceutical adjunctive therapy for acne.",
-        "use_case_kr": "아젤라익산의 여드름 코스메슈티컬 보조 요법으로서의 사용을 지지하는 근거로 인용."
+        "use_case_en": "To provide evidence for the use of azelaic acid and other cosmeceuticals as adjunctive therapies in managing acne, improving compliance, and reducing side effects.",
+        "use_case_kr": "아젤라익산 및 기타 코스메슈티컬을 여드름의 보조 요법으로 사용하고, 순응도를 높이며, 부작용을 줄이는 데 대한 근거로 인용합니다."
+      },
+      {
+        "pmid": "42087526",
+        "title": "International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Med",
+        "year": "2026",
+        "use_case_en": "To support the concept of integrated skincare, where dermocosmetics are combined with medical procedures for improved outcomes, relevant for sensitive or compromised skin.",
+        "use_case_kr": "더모코스메틱과 의료 시술을 결합하여 개선된 결과를 얻는 통합 스킨케어 개념을 뒷받침하며, 민감하거나 손상된 피부에 적용 가능함을 시사하는 데 인용합니다."
       }
     ],
     "world_first_opportunity_en": null,
     "world_first_opportunity_kr": null,
     "risky_claims_to_avoid_en": [
       "Azelaic acid cures rosacea.",
-      "Peptides eliminate acne.",
-      "This product guarantees clear skin.",
-      "100% reduction in redness."
+      "Peptides eliminate acne scars.",
+      "This product prevents all redness.",
+      "Guaranteed results in 1 week."
     ],
     "risky_claims_to_avoid_kr": [
-      "아젤라익산은 주사비를 완치합니다.",
-      "펩타이드는 여드름을 완전히 제거합니다.",
-      "이 제품은 깨끗한 피부를 보장합니다.",
-      "붉은기 100% 감소."
+      "아젤라익산이 로사시아를 완치합니다.",
+      "펩타이드가 여드름 흉터를 완벽 제거합니다.",
+      "이 제품은 모든 붉은 기를 예방합니다.",
+      "1주 내 결과 100% 보장."
     ],
-    "north_america_angle_en": "Leverages azelaic acid's established reputation in North America for managing redness and acne, enhanced by peptide technology for a sophisticated, multi-benefit approach.",
-    "north_america_angle_kr": "북미에서 붉은기 및 여드름 관리에 대한 아젤라익산의 확고한 명성을 활용하며, 펩타이드 기술로 효능을 강화하여 정교하고 다각적인 솔루션을 제공합니다."
+    "north_america_angle_en": "Leverages Azelaic Acid, a dermatologist-recommended ingredient for redness and acne, combined with advanced peptide technology for enhanced soothing and barrier support, appealing to consumers seeking effective, science-backed solutions for sensitive and reactive skin.",
+    "north_america_angle_kr": "북미 시장에서는 피부과 전문의들이 추천하는 아젤라익산을 활용하여 붉은 기와 여드름 개선에 초점을 맞추고, 첨단 펩타이드 기술을 더해 진정 및 장벽 강화 효과를 높여 민감하고 반응성 높은 피부를 위한 효과적이고 과학적인 솔루션을 찾는 소비자들에게 어필합니다."
   }
 }

@@ -1,0 +1,997 @@
+{
+  "ingredient_id": "glutathione",
+  "name_kr": "글루타치온",
+  "name_en": "Glutathione",
+  "query": "(\"Glutathione\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 24,
+  "trials": [
+    {
+      "nct_id": "NCT06987565",
+      "title": "Transcutaneous Vagus Nerve Stimulation in SLE",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Active vagus nerve stimulation"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham vagus nerve stimulation"
+        }
+      ],
+      "sponsor": "Northwell Health",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT06987565"
+    },
+    {
+      "nct_id": "NCT06654167",
+      "title": "Acute Effects of Cold Exposure on Cognitive Function",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cognitive Function"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Low temperature (15℃) group"
+        },
+        {
+          "type": "OTHER",
+          "name": "Moderate temperature (22℃) group"
+        }
+      ],
+      "sponsor": "Fudan University",
+      "primary_completion": "2024-11-16",
+      "url": "https://clinicaltrials.gov/study/NCT06654167"
+    },
+    {
+      "nct_id": "NCT07477275",
+      "title": "Combination of Oral and Topical Whitening Agents for Reducing Skin Pigmentation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dark Spots"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "oral supplement"
+        },
+        {
+          "type": "OTHER",
+          "name": "Retinol serum"
+        }
+      ],
+      "sponsor": "USMARI Research & Innovation Centre",
+      "primary_completion": "2026-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT07477275"
+    },
+    {
+      "nct_id": "NCT05575752",
+      "title": "Acute Health Effects of High Temperature Exposure",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cardiovascular System",
+        "Respiratory System",
+        "Cognitive Function"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "high temperature (32℃) group"
+        },
+        {
+          "type": "OTHER",
+          "name": "moderate temperature (22℃) group"
+        }
+      ],
+      "sponsor": "Fudan University",
+      "primary_completion": "2022-11-19",
+      "url": "https://clinicaltrials.gov/study/NCT05575752"
+    },
+    {
+      "nct_id": "NCT03999021",
+      "title": "FIGHT-RP 1 Extension Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Retinitis Pigmentosa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "NAC effervescent tablets"
+        }
+      ],
+      "sponsor": "Johns Hopkins University",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT03999021"
+    },
+    {
+      "nct_id": "NCT07162623",
+      "title": "Clinical Study to Assess Safety, Efficacy and In-Use Tolerability of Oziva Bioactive Gluta Fizzy Effervescent Tablets on Subjects With Facial Dark Spots Such as Pimple Marks, Sunspots, Age Spots and Uneven Skin Tone",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hyperpigmentation"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Oziva Bioactive Gluta Fizzy Effervescent Tablets 4.1 g containing Glutathione"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo Effervescent Tablets 4.1 g"
+        }
+      ],
+      "sponsor": "NovoBliss Research Pvt Ltd",
+      "primary_completion": "2026-04-15",
+      "url": "https://clinicaltrials.gov/study/NCT07162623"
+    },
+    {
+      "nct_id": "NCT07325851",
+      "title": "Patients Referred to the Chronic Pain Unit for Palliative Treatment With Ozone Therapy Between 2026 and 2029.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Chemotherapy-Induced Peripheral Neuropathy",
+        "Radiation Toxicity",
+        "Chronic Pain",
+        "Delayed Wound Healing",
+        "Refractory Symptoms"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Ozone Therapy"
+        }
+      ],
+      "sponsor": "Bernardino Clavo, MD, PhD",
+      "primary_completion": "2029-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07325851"
+    },
+    {
+      "nct_id": "NCT06607432",
+      "title": "Temporal Interference Stimulation for Social Cognition",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy Controls"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Transcranial Interference Stimulation (tIS)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Sham tIS"
+        }
+      ],
+      "sponsor": "Columbia University",
+      "primary_completion": "2027-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT06607432"
+    },
+    {
+      "nct_id": "NCT03655223",
+      "title": "Early Check: Expanded Screening in Newborns",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Spinal Muscular Atrophy",
+        "Fragile X Syndrome",
+        "Fragile X - Premutation",
+        "Duchenne Muscular Dystrophy",
+        "Hyperinsulinemic Hypoglycemia, Familial 1",
+        "Diabetes Mellitus",
+        "Adrenoleukodystrophy, Neonatal",
+        "Medium-chain Acyl-CoA Dehydrogenase Deficiency",
+        "Very Long Chain Acyl Coa Dehydrogenase Deficiency",
+        "Beta-ketothiolase Deficiency",
+        "Severe Combined Immunodeficiency Due to Adenosine Deaminase Deficiency",
+        "Primary Hyperoxaluria Type 1",
+        "Congenital Bile Acid Synthesis Defect Type 2",
+        "Pyridoxine-Dependent Epilepsy",
+        "Hereditary Fructose Intolerance",
+        "Hypophosphatasia",
+        "Hyperargininemia",
+        "Mucopolysaccharidosis Type 6",
+        "Argininosuccinic Aciduria",
+        "Citrullinemia, Type I",
+        "Wilson Disease",
+        "Maple Syrup Urine Disease, Type 1A",
+        "Maple Syrup Urine Disease, Type 1B",
+        "Biotinidase Deficiency",
+        "Neonatal Severe Primary Hyperparathyroidism",
+        "Intrinsic Factor Deficiency",
+        "Usher Syndrome Type 1D/F Digenic (Diagnosis)",
+        "Cystic Fibrosis",
+        "Stickler Syndrome Type 2",
+        "Stickler Syndrome Type 1",
+        "Alport Syndrome, Autosomal Recessive",
+        "Alport Syndrome, X-Linked",
+        "Carbamoyl Phosphate Synthetase I Deficiency Disease",
+        "Carnitine Palmitoyl Transferase 1A Deficiency",
+        "Carnitine Palmitoyltransferase II Deficiency",
+        "Cystinosis",
+        "Chronic Granulomatous Disease",
+        "Cerebrotendinous Xanthomatoses",
+        "Maple Syrup Urine Disease, Type 2",
+        "Severe Combined Immunodeficiency Due to DCLRE1C Deficiency",
+        "Thyroid Dyshormonogenesis 6",
+        "Thyroid Dyshormonogenesis 5",
+        "Supravalvar Aortic Stenosis",
+        "Factor X Deficiency",
+        "Hemophilia A",
+        "Hemophilia B",
+        "Tyrosinemia, Type I",
+        "Fructose 1,6 Bisphosphatase Deficiency",
+        "Glycogen Storage Disease Type I",
+        "G6PD Deficiency",
+        "Glycogen Storage Disease II",
+        "Galactokinase Deficiency",
+        "Mucopolysaccharidosis Type IV A",
+        "Galactosemias",
+        "Guanidinoacetate Methyltransferase Deficiency",
+        "Agat Deficiency",
+        "Glutaryl-CoA Dehydrogenase Deficiency",
+        "Gtp Cyclohydrolase I Deficiency",
+        "Hyperinsulinism-Hyperammonemia Syndrome",
+        "Primary Hyperoxaluria Type 2",
+        "3-Hydroxyacyl-CoA Dehydrogenase Deficiency",
+        "Long-chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency",
+        "Mitochondrial Trifunctional Protein Deficiency",
+        "Sickle Cell Disease",
+        "Beta-Thalassemia",
+        "Holocarboxylase Synthetase Deficiency",
+        "3-Hydroxy-3-Methylglutaric Aciduria",
+        "Primary Hyperoxaluria Type 3",
+        "Hermansky-Pudlak Syndrome 1",
+        "Hermansky-Pudlak Syndrome 4",
+        "Apparent Mineralocorticoid Excess",
+        "HSDB",
+        "CBAS1",
+        "Mucopolysaccharidosis Type 2",
+        "Mucopolysaccharidosis Type 1",
+        "Severe Combined Immunodeficiency, X Linked",
+        "Severe Combined Immunodeficiency Due to IL-7Ralpha Deficiency",
+        "Diabetes Mellitus, Permanent Neonatal",
+        "Isovaleric Acidemia",
+        "Severe Combined Immunodeficiency T-Cell Negative B-Cell Positive Due to Janus Kinase-3 Deficiency (Disorder)",
+        "Jervell and Lange-Nielsen Syndrome 2",
+        "Hyperinsulinemic Hypoglycemia, Familial, 2",
+        "Diabetes Mellitus, Permanent Neonatal, With Neurologic Features",
+        "Jervell and Lange-Nielsen Syndrome 1",
+        "Lysosomal Acid Lipase Deficiency",
+        "CblF",
+        "3-Methylcrotonyl CoA Carboxylase 1 Deficiency",
+        "3-Methylcrotonyl CoA Carboxylase 2 Deficiency",
+        "Waardenburg Syndrome Type 2A",
+        "Methylmalonic Aciduria cblA Type",
+        "Methylmalonic Aciduria cblB Type",
+        "Methylmalonic Aciduria and Homocystinuria Type cblC",
+        "MAHCD",
+        "Methylmalonic Aciduria Due to Methylmalonyl-CoA Mutase Deficiency",
+        "Congenital Disorder of Glycosylation Type 1B",
+        "Mthfr Deficiency",
+        "Methylcobalamin Deficiency Type Cbl G (Disorder)",
+        "Methylcobalamin Deficiency Type cblE",
+        "Usher Syndrome, Type 1B",
+        "N-acetylglutamate Synthase Deficiency",
+        "Ornithine Transcarbamylase Deficiency",
+        "Phenylketonurias",
+        "Waardenburg Syndrome Type 1",
+        "Congenital Hypothyroidism",
+        "Propionic Acidemia",
+        "Usher Syndrome, Type 1F",
+        "Pancreatic Agenesis 1",
+        "Hereditary Hypophosphatemic Rickets",
+        "Glycogen Storage Disease IXB",
+        "Glycogen Storage Disease IXC",
+        "MOWS",
+        "Epilepsy, Early-Onset, Vitamin B6-Dependent",
+        "Pyridoxal Phosphate-Responsive Seizures",
+        "Pituitary Hormone Deficiency, Combined, 1",
+        "Ptsd",
+        "Dihydropteridine Reductase Deficiency",
+        "Severe Combined Immunodeficiency Due to RAG1 Deficiency",
+        "Severe Combined Immunodeficiency Due to RAG2 Deficiency",
+        "Retinoblastoma",
+        "Multiple Endocrine Neoplasia Type 2B",
+        "Pseudohypoaldosteronism, Type I",
+        "Liddle Syndrome",
+        "Biotin-Responsive Basal Ganglia Disease",
+        "SCD",
+        "DIAR1",
+        "GSD1C",
+        "Acrodermatitis Enteropathica",
+        "Thyroid Dyshormonogenesis 1",
+        "Riboflavin Transporter Deficiency",
+        "Waardenburg Syndrome, Type 2E",
+        "SRD",
+        "Congenital Lipoid Adrenal Hyperplasia Due to STAR Deficiency",
+        "Barth Syndrome",
+        "Adrenocorticotropic Hormone Deficiency",
+        "Transcobalamin II Deficiency",
+        "Thyroid Dyshormonogenesis 3",
+        "Segawa Syndrome, Autosomal Recessive",
+        "Autosomal Recessive Nonsyndromic Hearing Loss",
+        "Thyroid Dyshormonogenesis 2A",
+        "Congenital Isolated Thyroid Stimulating Hormone Deficiency",
+        "Hypothyroidism Due to TSH Receptor Mutations",
+        "Usher Syndrome Type 1C",
+        "Usher Syndrome Type 1G (Diagnosis)",
+        "Von Willebrand Disease, Type 3",
+        "Combined Immunodeficiency Due to ZAP70 Deficiency",
+        "Adenine Phosphoribosyltransferase Deficiency",
+        "Metachromatic Leukodystrophy",
+        "Canavan Disease",
+        "Menkes Disease",
+        "Carbonic Anhydrase VA Deficiency",
+        "Developmental and Epileptic Encephalopathy 2",
+        "17 Alpha-Hydroxylase Deficiency",
+        "Smith-Lemli-Opitz Syndrome",
+        "Krabbe Disease",
+        "Glutathione Synthetase Deficiency",
+        "Mucopolysaccharidosis Type 7",
+        "Rett Syndrome",
+        "Molybdenum Cofactor Deficiency, Type A",
+        "Niemann-Pick Disease, Type C1",
+        "Niemann-Pick Disease Type C2",
+        "Ornithine Aminotransferase Deficiency",
+        "3-Phosphoglycerate Dehydrogenase Deficiency",
+        "Leber Congenital Amaurosis 2",
+        "Dravet Syndrome",
+        "Mucopolysaccharidosis Type 3 A",
+        "Ornithine Translocase Deficiency",
+        "Carnitine-acylcarnitine Translocase Deficiency",
+        "Glucose Transporter Type 1 Deficiency Syndrome",
+        "Creatine Transporter Deficiency",
+        "Niemann-Pick Disease Type A",
+        "Pitt Hopkins Syndrome",
+        "Tuberous Sclerosis 1",
+        "Tuberous Sclerosis 2",
+        "Ataxia With Isolated Vitamin E Deficiency",
+        "Angelman Syndrome",
+        "Prader-Willi Syndrome",
+        "Homocystinuria",
+        "Permanent Neonatal Diabetes Mellitus",
+        "Transient Neonatal Diabetes Mellitus",
+        "Factor VII Deficiency",
+        "Glycogen Storage Disease Type IXA1",
+        "Glycogen Storage Disease, Type IXA2",
+        "Glycogen Storage Disease IC",
+        "Glycogen Storage Disease Type IB",
+        "Central Hypoventilation Syndrome With or Without Hirschsprung Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Confirmatory Testing"
+        }
+      ],
+      "sponsor": "RTI International",
+      "primary_completion": "2025-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT03655223"
+    },
+    {
+      "nct_id": "NCT06750523",
+      "title": "Advancing Early Bone Health: New Frontiers for Osteoporosis Prevention",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Low-Risk Pregnant Women at Full-Term Gestation",
+        "Healthy Fetal Population",
+        "Healthy Neonatal Population"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Cord blood sampling"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "urine sampling"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Life style questionnaire"
+        }
+      ],
+      "sponsor": "University of Parma",
+      "primary_completion": "2025-06",
+      "url": "https://clinicaltrials.gov/study/NCT06750523"
+    },
+    {
+      "nct_id": "NCT07475546",
+      "title": "Combination Gerotherapeutic Interventions for Healthspan Improvement",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthspan Improvement",
+        "Aging",
+        "Longevity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rapamycin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Naltrexone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Metformin"
+        },
+        {
+          "type": "DRUG",
+          "name": "NAD+"
+        },
+        {
+          "type": "DRUG",
+          "name": "GSH"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Infinite Supplement"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo/control"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "B12"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Intervention: Guided Meditation Program"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Control: Podcast Listening Activity"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Control: Standard Exercise Regimen"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Intervention: Structured Exercise Program"
+        }
+      ],
+      "sponsor": "AgelessRx",
+      "primary_completion": "2026-04",
+      "url": "https://clinicaltrials.gov/study/NCT07475546"
+    },
+    {
+      "nct_id": "NCT06316284",
+      "title": "miRNA in Chronic Kidney Diseases",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Chronic Kidney Diseases"
+      ],
+      "interventions": [],
+      "sponsor": "Josip Juraj Strossmayer University of Osijek",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06316284"
+    },
+    {
+      "nct_id": "NCT07536529",
+      "title": "Oxidative Stress in Autoimmune Rheumatic Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Inflammatory Joint Diseases",
+        "Rheumatoid Arthritis (RA)",
+        "Psoriatic Arthritis (PsA)",
+        "Ankylosing Spondylitis (AS)"
+      ],
+      "interventions": [],
+      "sponsor": "University of Thessaly",
+      "primary_completion": "2026-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT07536529"
+    },
+    {
+      "nct_id": "NCT07073846",
+      "title": "Effect of Lidocaine-Dexmedetomidine on Pain, Inflammation, and Oxidative Stress After Bariatric Surgery.",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Morbid Obesity Requiring Bariatric Surgery",
+        "Postoperative Pain",
+        "Postoperative Pain Management",
+        "Postoperative Analgesia",
+        "Postoperative Adjuvant Treatment",
+        "Postoperative Inflammatory Markers",
+        "Postoperative Inflammatory Response"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Intravenous Lidocaine infusion + Standard Anesthesia"
+        },
+        {
+          "type": "DRUG",
+          "name": "Intravenous Dexmedetomidine infusion + Standard Anesthesia"
+        },
+        {
+          "type": "DRUG",
+          "name": "Lidocaine + Dexmedetomidine Combination (LIDEX) + Standard Anesthesia"
+        },
+        {
+          "type": "DRUG",
+          "name": "0.9 % Saline Placebo + Standard Anesthesia"
+        }
+      ],
+      "sponsor": "Instituto Mexicano del Seguro Social",
+      "primary_completion": "2027-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07073846"
+    },
+    {
+      "nct_id": "NCT07324759",
+      "title": "Clinical Study to Assess Safety, Effectiveness and In-Use Tolerability of Saffron Extract Capsules for Improving Skin Health and Reducing Signs of Aging on Healthy Adult Male and Female Subjects.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Wrinkles",
+        "Fine Lines",
+        "Hyperpigmentation",
+        "Dark Spots"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Standardized Saffron Extract (Crocus Sativus L) 10 mg Capsule"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo (capsules containing Maltodextrin, Calcium carbonate, Sunset yellow, Maize starch, Mg Stearate, Talc)"
+        }
+      ],
+      "sponsor": "NovoBliss Research Pvt Ltd",
+      "primary_completion": "2026-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07324759"
+    },
+    {
+      "nct_id": "NCT04866329",
+      "title": "Female Fertility, Environmental Agents and Stress Oxidant",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Female Infertility"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Blood sample"
+        },
+        {
+          "type": "OTHER",
+          "name": "Urine sample"
+        },
+        {
+          "type": "OTHER",
+          "name": "Follicular fluid and granulosa cells sample"
+        }
+      ],
+      "sponsor": "University Hospital, Tours",
+      "primary_completion": "2026-12-08",
+      "url": "https://clinicaltrials.gov/study/NCT04866329"
+    },
+    {
+      "nct_id": "NCT07263347",
+      "title": "DIEP Flap Breast Reconstruction: Perioperative Biomarkers and Outcomes",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Neoplasms",
+        "Ischemia-Reperfusion Injury",
+        "Postoperative Complications",
+        "Wound Healing",
+        "Oxidative Stress",
+        "Inflammation"
+      ],
+      "interventions": [],
+      "sponsor": "Hubei Cancer Hospital",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT07263347"
+    },
+    {
+      "nct_id": "NCT07471542",
+      "title": "Copper Supplementation in Cirrhosis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cirrhosis",
+        "Chronic Liver Disease",
+        "Fibrosis",
+        "Infection"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Copper Gluconate"
+        }
+      ],
+      "sponsor": "University of Washington",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT07471542"
+    },
+    {
+      "nct_id": "NCT06495619",
+      "title": "Integrative Intervention Strategies for Binge Eating in Patients With Overweight or Obesity",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Binge Eating",
+        "Overweight and Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "treatment-as-usual"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "combined TAU and guided self-help"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "combined TAU, GSH, and biofeedback"
+        }
+      ],
+      "sponsor": "G. d'Annunzio University",
+      "primary_completion": "2024-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT06495619"
+    },
+    {
+      "nct_id": "NCT07572890",
+      "title": "Adia Med of Winter Park LLC Chronic Kidney Disease Research Study",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Kidney Disease",
+        "Kidney Disease",
+        "Kidney Disease, Chronic",
+        "Chronic Kidney Disease (CKD)",
+        "CKD"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Umbilical Cord Blood-Derived Stem Cells and Exosomes"
+        },
+        {
+          "type": "DRUG",
+          "name": "Glutathione IV"
+        },
+        {
+          "type": "DRUG",
+          "name": "Glutathione Spray"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo IV"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo Glutathione IV"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo Spray"
+        }
+      ],
+      "sponsor": "Adia Med of Winter Park LLC",
+      "primary_completion": "2028-01",
+      "url": "https://clinicaltrials.gov/study/NCT07572890"
+    },
+    {
+      "nct_id": "NCT06325800",
+      "title": "Glycoxidation, Arterial Biomechanics, and Target Organ Damage",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Oxidative Stress",
+        "Cardiovascular Risk",
+        "Target Organ Damage"
+      ],
+      "interventions": [],
+      "sponsor": "Complejo Hospitalario Universitario de Santiago",
+      "primary_completion": "2024-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06325800"
+    },
+    {
+      "nct_id": "NCT07304440",
+      "title": "Adia MED of Winter Park LLC Autism Spectrum Disorder Research Study",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Autism Spectrum Disorder",
+        "Autism",
+        "ASD",
+        "Autism Spectrum Disorder (ASD)"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Umbilical Cord Blood-Derived Stem Cells and Exosomes"
+        },
+        {
+          "type": "DRUG",
+          "name": "Glutathione"
+        }
+      ],
+      "sponsor": "Adia Med of Winter Park LLC",
+      "primary_completion": "2028-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT07304440"
+    },
+    {
+      "nct_id": "NCT07379216",
+      "title": "Efficacy Evaluation Study of Vitamin C and Glutathione Liquid Sachet",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Skin Condition",
+        "Anti-Oxidative Stress"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo sachet"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Vitamin C and Glutathione Liquid Sachet"
+        }
+      ],
+      "sponsor": "TCI Co., Ltd.",
+      "primary_completion": "2026-05-18",
+      "url": "https://clinicaltrials.gov/study/NCT07379216"
+    },
+    {
+      "nct_id": "NCT07202156",
+      "title": "Ultrasound-Enhanced Delivery of Compound TXA Solution in Melasma",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma (Facial Melasma)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "10%TXA+2%Reduced Glutathione applied via ultrasound at 5W/cm² in10min"
+        },
+        {
+          "type": "OTHER",
+          "name": "10%TXA+2%Reduced Glutathione applied via ultrasound at 0W/cm² 10min"
+        }
+      ],
+      "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+      "primary_completion": "2026-02-07",
+      "url": "https://clinicaltrials.gov/study/NCT07202156"
+    },
+    {
+      "nct_id": "NCT07448415",
+      "title": "Evaluation of the Efficacy of Oral Tranexamic Acid and Glutathione-assisted Microneedling in Treatment of Melasma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "microneedling"
+        },
+        {
+          "type": "DRUG",
+          "name": "Oral tranexamic acid"
+        },
+        {
+          "type": "OTHER",
+          "name": "Glutathione"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2027-02",
+      "url": "https://clinicaltrials.gov/study/NCT07448415"
+    },
+    {
+      "nct_id": "NCT06268184",
+      "title": "Effect of Omega 3 on Oxidative Stress and Nutritional Status of Children on Regular Dialysis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Oxidative Stress"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "D3 LAB SYRUP"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "placebo syrup"
+        }
+      ],
+      "sponsor": "Tanta University",
+      "primary_completion": "2024-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT06268184"
+    },
+    {
+      "nct_id": "NCT05366933",
+      "title": "B-Complex: A Nutraceutical SANS Countermeasure",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Optic Disc Edema",
+        "Endothelial Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vitamin B-Complex Supplement"
+        }
+      ],
+      "sponsor": "National Aeronautics and Space Administration (NASA)",
+      "primary_completion": "2027-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT05366933"
+    },
+    {
+      "nct_id": "NCT07314359",
+      "title": "Rapid Effects of a Biofield Patch on Antioxidant Status and Cellular Energy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Antioxidant Status"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Active dermal patch"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo dermal patch"
+        }
+      ],
+      "sponsor": "Natural Immune Systems Inc",
+      "primary_completion": "2026-07",
+      "url": "https://clinicaltrials.gov/study/NCT07314359"
+    },
+    {
+      "nct_id": "NCT07149064",
+      "title": "Effect of Chronic Exposure to Nextida GC-B on Glycemic Control in Adults With Normoglycemia or Prediabetes",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Normoglycemia",
+        "Prediabetes",
+        "Glycemic Control"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Nextida GC-B"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Rousselot BVBA",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT07149064"
+    },
+    {
+      "nct_id": "NCT07360405",
+      "title": "Dietary Intervention for Migraine Relief",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Migraine"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Dietary training"
+        }
+      ],
+      "sponsor": "American University",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT07360405"
+    }
+  ],
+  "fetched_at": "2026-06-08T22:38:06.377177"
+}
