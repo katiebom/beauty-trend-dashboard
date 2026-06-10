@@ -1,0 +1,518 @@
+{
+  "ingredient_id": "glp1_topical",
+  "name_en": "GLP-1 topical",
+  "name_kr": "GLP-1 외용",
+  "category": "anti_aging",
+  "query": "\"GLP-1\" AND (skin OR topical)",
+  "paper_count": 25,
+  "articles": [
+    {
+      "pmid": "42266681",
+      "title": "Meta-inflammation in Hidradenitis suppurativa: from pathogenic evidence to therapeutic approaches.",
+      "abstract": "Hidradenitis suppurativa (HS) is a chronic, recurrent inflammatory skin disorder of the pilosebaceous unit, characterized by nodules, abscesses, and sinus tracts formation in apocrine gland-bearing skin. Increasing evidence suggests that HS is not solely a localized dermatological condition, but part of a broader systemic inflammatory state closely associated with metabolic dysfunction. Meta-inflammation, defined as a chronic, low-grade inflammatory response driven by metabolic imbalance, has emerged as a key mechanism linking obesity, insulin resistance, and immune dysregulation to the pathogenesis and progression of HS. It has indeed been demonstrated in numerous studies that HS and metabolic syndrome (MetS) share a core link through meta-inflammation, driven by common pro-inflammatory cytokines, such as tumor necrosis factor (TNF)-α, interleukin (IL)-1β and IL-6. These pathways, along with insulin resistance and obesity-related adipose tissue dysfunction, drive both skin disease severity and metabolic comorbidities often creating a self-perpetuating cycle of inflammation and tissue damage. Understanding the interplay between meta-inflammation and HS provides important insights into disease heterogeneity and highlights the need for a multidisciplinary therapeutic approach. Targeting meta-inflammation through lifestyle interventions, weight management, and immuno-metabolic therapies may complement established treatments and improve clinical outcomes. In this review, we explore the pathogenic link between meta-inflammation and HS and discuss the therapeutic targets arising from this intricate interplay.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Moltrasio Chiara",
+        "Khan Abbas",
+        "Ahmad Namra",
+        "Malik Muhammad Adil",
+        "Tricarico Paola Maura"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42266681/"
+    },
+    {
+      "pmid": "42264283",
+      "title": "GLP-1 Receptor Agonists and Primary Prevention of Cancer Therapy-Related Cardiac Dysfunction.",
+      "abstract": "Cancer therapy-related cardiac dysfunction (CTRCD) is becoming more prevalent, while the role of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in mitigating CTRCD remains uncertain. We assessed the association between GLP-1 RA and CTRCD in cancer patients using the TriNetX database (2010-2023), identifying adult cancer patients (≥18 years) without prior heart failure (HF) who were receiving cardiotoxic antineoplastic therapy. Patients were stratified into GLP-1 RA-exposed and unexposed groups, and the primary outcome was CTRCD, defined as new-onset HF or intravenous diuretic initiation. Cox proportional hazard models were used to evaluate outcomes at 1 and 3 years. Among 711,271 eligible patients, 21,465 (3.0%) received GLP-1 RAs. After propensity score matching, each cohort included 19,803 patients (mean age: 65.8 ± 12.3 years; 55.8% women), with metastatic cancer and skin cancer being the most common malignancies. GLP-1 RA exposure was associated with a significantly reduced risk of CTRCD at 1 year (HR: 0.49, 95% CI: 0.45-0.54, p < 0.01) and 3 years (HR: 0.56, 95% CI: 0.52-0.61, p < 0.01), with consistent effects across different cardiotoxic therapies. GLP-1 RA use was also associated with reductions in incident HF, all-cause mortality, myocardial infarction, and atrial fibrillation. In patients with metastatic cancer, similar benefits were observed, including lower risks of CTRCD, all-cause mortality, atrial fibrillation, hospitalizations or emergency room visits, and incident HF. Overall, GLP-1 RA use was associated with a lower risk of CTRCD and cardiovascular events in cancer patients receiving cardiotoxic antineoplastic therapy, including those with metastatic disease.",
+      "year": "2026",
+      "journal": "The American journal of cardiology",
+      "authors": [
+        "Javaid Syed Sarmad",
+        "Hanif Muhammad",
+        "Paulson Scott",
+        "Anker Markus S",
+        "Chew Nicholas W S"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42264283/"
+    },
+    {
+      "pmid": "42245794",
+      "title": "Use of GLP-1 Receptor Agonists is Associated with an Increased Rate of Upper Eyelid Blepharoplasty.",
+      "abstract": "Background Glucagon-like peptide-1 receptor agonists (GLP-1 RA) have transformed the management of obesity and type 2 diabetes. Emerging reports describe accelerated facial soft-tissue deflation and periorbital changes among treated patients, often referred to as \"Ozempic face.\" Given the thin skin and minimal subcutaneous tissue of the upper eyelid, rapid weight loss may exacerbate dermatochalasis and increase demand for surgical correction. This study evaluates whether GLP-1 RA therapy is associated with an increased rate of upper eyelid blepharoplasty. Methods A retrospective cohort study was conducted using the TriNetX Research Network. Female adults aged 18 or older with diabetes mellitus and essential hypertension between January 2015 and January 2020 were identified. Patients prescribed GLP-1 RA comprised the exposure cohort; patients without GLP-1 RA served as controls. Follow-up extended up to five years. The primary outcome was upper eyelid blepharoplasty. Propensity score matching (1:1 nearest neighbor) was performed for age, race, BMI, and comorbidities. Kaplan-Meier survival analysis and Cox proportional hazards modeling were performed. A secondary analysis compared patients achieving weight loss without GLP-1 RA to matched controls with stable BMI. Results A total of 821,792 eligible female patients were identified, of whom 28,970 received GLP-1 RA therapy. After propensity score matching, 23,349 patients remained in each cohort. At five-year follow-up, 96 GLP-1 RA users (0.41%) underwent blepharoplasty compared with 36 controls (0.15%). GLP-1 RA use was associated with an increased hazard of blepharoplasty (hazard ratio 2.22; 95% confidence interval 1.51-3.26; p < 0.001). Kaplan-Meier analysis demonstrated shorter time to surgery among GLP-1 RA users. In the secondary analysis, non-GLP-1 RA weight loss was not associated with increased blepharoplasty incidence (hazard ratio 1.31; 95% confidence interval 0.89-1.93; p = 0.56). Conclusions GLP-1 receptor agonist use is associated with a significantly increased rate and earlier timing of upper eyelid blepharoplasty compared with matched controls. Weight loss alone did not demonstrate the same association, suggesting a distinct pattern of facial remodeling related to GLP-1 RA therapy. As pharmacologic weight loss expands, plastic surgeons should anticipate increased demand for periorbital rejuvenation and counsel patients accordingly.",
+      "year": "2026",
+      "journal": "Research square",
+      "authors": [
+        "Almeida Victor F A",
+        "Ha John",
+        "Duraes Fernando",
+        "Dantas Manoela",
+        "Hashem Ahmed M"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42245794/"
+    },
+    {
+      "pmid": "42210894",
+      "title": "GLP-1 Receptor Agonists and Oral-Facial Aesthetics: The Intersection of Dentistry and Dermatologic Surgery.",
+      "abstract": "The morphologic and physiologic changes with use of glucagon-like peptide-1 receptor agonists (GLP-1RAs) are known to the dermatologic surgery community. More specifically, many patients note changes in periorificial appearance relating to inadvertent cosmetic and oral health concerns that span not only dermatology but also dentistry. This article explores the overlap between the dentistry and dermatology fields in managing effects of this class of medications.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Motamedi Salar",
+        "Minokadeh Ardalan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Dermatologic Surgical Procedures"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210894/"
+    },
+    {
+      "pmid": "42210892",
+      "title": "Targeting Inflammation and Fibrosis in Lipedema: The Potential Role of Glucagon-like Peptide-1 Receptor Agonist Therapies.",
+      "abstract": "Lipedema is a chronic disorder characterized by disproportionate accumulation of subcutaneous fat, most commonly affecting the extremities, and is associated with pain, inflammation, and fibrosis. Effective medical therapies are lacking, and liposuction remains the primary treatment. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) demonstrate metabolic and anti-inflammatory effects, but their role in lipedema remains unclear.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Mohseni Yasmine",
+        "Vazirnia Aria",
+        "Minokadeh Ardalan",
+        "Amron David M",
+        "Coleman William P"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exenatide",
+        "Fibrosis",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Inflammation",
+        "Lipedema",
+        "Semaglutide",
+        "Tirzepatide",
+        "Review Literature as Topic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210892/"
+    },
+    {
+      "pmid": "42210890",
+      "title": "GLP-1 Receptor Agonists in the Male Aesthetic Practice: Opportunities for the Dermatologic Surgeon.",
+      "abstract": "The demand for male aesthetic treatments continues to rise, and with increased utilization of the glucagon-like peptide-1 receptor agonists (GLP-1RAs), we anticipate a growing need to address these concerns. This narrative review examined the intersection of skin-related effects of GLP-1RAs and male aesthetics, focusing on the role of the dermatologic surgeon in their management.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Badalian Hrag",
+        "Minokadeh Ardalan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Cosmetic Techniques",
+        "Esthetics",
+        "Skin Aging",
+        "Alopecia",
+        "Dermal Fillers"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210890/"
+    },
+    {
+      "pmid": "42210888",
+      "title": "GLP-1-Induced Weight Loss and the Face: Anatomical Mechanisms and Rationale for Collagen-Stimulating and Volumizing Aesthetic Treatments.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists have transformed medical weight-loss therapy and have been associated with characteristic facial changes, including hollowing, skin laxity, and contour alterations that may accentuate pre-existing signs of aging.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Frank Konstantin",
+        "Guertler Anne",
+        "Hoffmeister Victoria",
+        "Kohler Lukas",
+        "Nikolis Andreas"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Weight Loss",
+        "Face",
+        "Cosmetic Techniques",
+        "Skin Aging",
+        "Collagen",
+        "Hyaluronic Acid",
+        "Dermal Fillers",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210888/"
+    },
+    {
+      "pmid": "42210887",
+      "title": "Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists and Cutaneous Biology: Implications for Skin Disease and Longevity.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have expanded from metabolic therapeutics to agents with broad effects on inflammation, tissue repair, cutaneous and adipose biology, and aging-related pathways. Clinicians increasingly encounter cutaneous manifestations and aesthetic sequelae with important implications for dermatologic counseling and multidisciplinary care.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Vyas Krishna",
+        "Gopinath Shilpa",
+        "Dacso Mara",
+        "Green Jeremy B",
+        "Wyles Saranya"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Skin Aging",
+        "Skin Diseases",
+        "Longevity",
+        "Wound Healing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210887/"
+    },
+    {
+      "pmid": "42210886",
+      "title": "Cutaneous Variations in Stem-Cell Population in Those on GLP1-Receptor Agonists: A Comparative Controlled Study.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists have been associated with cutaneous changes including accelerated skin aging and volume loss. The biological mechanisms underlying these effects remain poorly understood, with limited in vivo human data.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Firsowicz Maya",
+        "Kamrani Payvand",
+        "Zubair Raheel",
+        "Boen Monica",
+        "Dayan Steven H"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Stem Cells",
+        "Adipogenesis",
+        "Subcutaneous Fat",
+        "Fibroblasts",
+        "Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210886/"
+    },
+    {
+      "pmid": "42210884",
+      "title": "Reduced Epidermal p21 Expression Is Identified in Some Subjects on Systemic GLP-1 Receptor Agonists: A Hypothesis-Generating Pilot Study of Metabolic Modulation in Human Skin Senescence.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) exert systemic metabolic and anti-inflammatory effects that may be relevant to cellular senescence, a key driver of skin aging. However, human cutaneous data are lacking.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Wyles Saranya",
+        "Gopinath Shilpa",
+        "Lynn Brock",
+        "Pfizenmaier Zachary",
+        "Ozarslan Bengisu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Pilot Projects",
+        "Skin Aging",
+        "Cyclin-Dependent Kinase Inhibitor p21",
+        "Epidermis",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Middle Aged",
+        "Adult",
+        "Biopsy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210884/"
+    },
+    {
+      "pmid": "42210883",
+      "title": "Aesthetic Concerns and Nonsurgical Treatment Trends in Patients With GLP-1 Agonist-Associated Weight Loss.",
+      "abstract": "Weight loss associated with glucagon-like peptide-1 (GLP-1) agonists is frequently accompanied by reduced facial fat, sagging skin, and stubborn pockets of body fat.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Fabi Sabrina",
+        "Yoo Jane",
+        "Kaufman-Janette Joely",
+        "Dayan Steve",
+        "Boyd Charles"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Weight Loss",
+        "Esthetics",
+        "Female",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide",
+        "Cosmetic Techniques",
+        "Male",
+        "Glucagon-Like Peptide-1 Receptor Agonists"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210883/"
+    },
+    {
+      "pmid": "42210882",
+      "title": "A Novel Cosmetic Anti-inflammatory Peptide With Firming and Lifting Benefits: The Potential for Adjunctive Care for Skin Laxity Associated With Weight Loss.",
+      "abstract": "Glucagon-like peptide 1 receptor agonists (GLP-1 RAs) have demonstrated substantial therapeutic benefits for patients with Type 2 diabetes mellitus and/or obesity. Their use has recently expanded rapidly across diverse patient populations. However, GLP-1 RA-associated changes in body composition and skin quality, including premature skin aging and alterations in body contour, may create functional and aesthetic concerns for patients. Effective strategies to address these visible and unwanted effects are needed.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Lisante Toni A",
+        "Green Barbara",
+        "Hubert Kassidy",
+        "Parsa Ramine",
+        "Patel Shah Asha"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Weight Loss",
+        "Female",
+        "Anti-Inflammatory Agents",
+        "Animals",
+        "Glucagon-Like Peptide-1 Receptor Agonists"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210882/"
+    },
+    {
+      "pmid": "42210881",
+      "title": "Poly-l-Lactic Acid as a Regenerative Treatment for the Glucagon-like Peptide-1 Receptor Agonist User Population.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) used for weight management have introduced unintended facial changes only partially addressed by conventional volumizing fillers.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Franco Johnny",
+        "Aguilera Shino Bay",
+        "Le Jennifer Htd",
+        "Brasater Daniel",
+        "Nicodeme Edwige"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Polyesters",
+        "Cosmetic Techniques",
+        "Skin Aging",
+        "Face",
+        "Weight Loss",
+        "Regeneration",
+        "Dermal Fillers"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210881/"
+    },
+    {
+      "pmid": "42198298",
+      "title": "GLP-1 Receptor Agonists in Chronic Inflammatory Skin Diseases: Immunometabolic Mechanisms and Translational Perspectives.",
+      "abstract": "Chronic inflammatory skin diseases, including psoriasis, hidradenitis suppurativa (HS), and atopic dermatitis (AD), are increasingly recognized as systemic disorders associated with chronic immune dysregulation. Growing evidence supports their links with metabolic disorders, reflected in heightened interest in therapeutic strategies targeting the immunometabolic axis. This review summarizes current knowledge on the role of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in the regulation of immune and metabolic processes in chronic inflammatory skin diseases, with particular emphasis on molecular mechanisms and available experimental and clinical data. GLP-1RAs, widely used in the treatment of type 2 diabetes and obesity, may also exhibit anti-inflammatory and immunomodulatory properties beyond their classical metabolic effects. GLP-1 signalling can influence keratinocyte function, immune cell activity, and wound healing. Furthermore, it modulates multiple intracellular signalling pathways, including cAMP/PKA, AMPK, PI3K/Akt, and NF-κB, as well as immune axes such as IL-23/Th17/IL-17 and inflammasome-related signalling. Available evidence suggests that GLP-1RAs may reduce inflammation and disease activity in selected inflammatory dermatoses. However, current evidence remains limited and is based primarily on experimental studies, case reports, and small-scale observational studies. Further well-designed clinical trials are needed to better define the therapeutic potential of GLP-1RAs and their role in dermatological practice.",
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Andrzejczak Klara",
+        "Kucharczyk Emilia",
+        "Korgiel Matylda",
+        "Drozdowska Justyna",
+        "Maj Joanna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42198298/"
+    },
+    {
+      "pmid": "42196341",
+      "title": "Eyedrop Administration of DPP-4 Inhibitors: A New Strategy for Treating Early Stages of Diabetic Retinal Disease.",
+      "abstract": "This review is intended to highlight the need for non-invasive and earlier therapies for diabetic retinal disease (DRD), one of the most common complications of diabetes, with a high and increasing socioeconomic burden. Due to the growing evidence regarding the key role of neurodegeneration in the earliest stages of the disease and the underlying pathophysiological mechanisms, the relevance of evaluating the potential efficacy of neuroprotective therapies is emphasized. More specifically, the review addresses the current state of a promising neuroprotective approach based on the inhibition of the enzyme dipeptidyl peptidase-4 (DPP-4) using specific inhibitors administered via eyedrops, which allow direct retinal action on the neurovascular unit. The review discusses the main preclinical findings of a therapeutic strategy based on one DPP-4 inhibitor, sitagliptin, against early DRD in different experimental animal models and in vitro studies. In summary, sitagliptin eyedrops exhibit neuroprotective, anti-inflammatory, and antioxidant properties while reducing glial activation, hyperpermeability of the blood-retinal barrier, and the formation of acellular capillaries, leading to a functional improvement of the diabetic retina. However, as sitagliptin efficacy has only been evaluated at the preclinical level, clinical studies are needed to validate the translational applicability and long-term efficacy of topical administration not only of sitagliptin but also of other DPP-4 inhibitors for treating retinal diseases in which neurodegeneration plays a pathogenic role.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Ramos Hugo",
+        "Simó-Servat Olga",
+        "Hernández Cristina",
+        "Simó Rafael"
+      ],
+      "mesh_terms": [
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Humans",
+        "Animals",
+        "Diabetic Retinopathy",
+        "Sitagliptin Phosphate",
+        "Ophthalmic Solutions",
+        "Neuroprotective Agents",
+        "Dipeptidyl Peptidase 4"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42196341/"
+    },
+    {
+      "pmid": "42194666",
+      "title": "Angioedema After Accidental Semaglutide Dosing Error: A Case Report.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Kraft Bryan D",
+        "Matuszak Sarah"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42194666/"
+    },
+    {
+      "pmid": "42168638",
+      "title": "Dysesthesia associated with GLP-1 agonist therapies: data-mining analysis and literature review.",
+      "abstract": "An increasing number of anecdotal reports on social media platforms and medical blogs describe dysesthesia, particularly burning skin sensations, in association with glucagon-like peptide-1 receptor (GLP-1R) agonists. We performed a pharmacovigilance data-mining analysis to characterise cases of dysesthesia related to GLP-1R.",
+      "year": "2026",
+      "journal": "European journal of clinical pharmacology",
+      "authors": [
+        "Laroche Marie-Laure",
+        "Géniaux Hélène",
+        "Jardou Manon"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Data Mining",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Paresthesia",
+        "Pharmacovigilance",
+        "Hypoglycemic Agents",
+        "Exenatide",
+        "Glucagon-Like Peptides",
+        "Male",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168638/"
+    },
+    {
+      "pmid": "42164833",
+      "title": "Efficacy of glucagon-like peptide 1 analogues in psoriasis: A cohort study.",
+      "abstract": "Obesity-related metabolic inflammation contributes to psoriasis pathogenesis and is associated with reduced therapeutic response.",
+      "year": "2026",
+      "journal": "JAAD international",
+      "authors": [
+        "Bar Danielle",
+        "Pavlotsky Felix",
+        "Baum Sharon",
+        "Barzilai Aviv"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42164833/"
+    },
+    {
+      "pmid": "42162206",
+      "title": "Effects of GLP-1 Receptor Agonists on Skin Quality: A Comprehensive Literature Review.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), particularly semaglutide and liraglutide, have revolutionized the treatment of type 2 diabetes and obesity due to their potent effects on weight loss and glycemic control. However, emerging evidence has highlighted dermatologic side effects associated with the rapid reduction of subcutaneous adipose tissue, particularly in the context of aesthetic skin integrity. This systematic review aims to comprehensively evaluate the current evidence on the effects of GLP-1 RAs on skin quality, including dermal structure alterations, adipose compartment loss, and skin elasticity changes.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Barone Mauro",
+        "Brunetti Beniamino",
+        "D'Emilio Roberta",
+        "Caputo Maria Grazia",
+        "Tenna Stefania"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42162206/"
+    },
+    {
+      "pmid": "42140744",
+      "title": "Measuring Facial Appearance in GLP-1 Agonist Use with the FACE-Q Aesthetics Item Library.",
+      "abstract": "A patient-reported outcome measure (PROM) is needed to study facial appearance in the context of rapid weight loss following use of anti-obesity medications. Such treatments can cause sunken cheeks, hollow eyes, saggy skin and an aged appearance (e.g., Ozempic face). FACE-Q Aesthetics item library can be used to create short-form fit-for-purpose scales.",
+      "year": "2026",
+      "journal": "Aesthetic surgery journal",
+      "authors": [
+        "Klassen Anne F",
+        "Gallo Lucas",
+        "Dayan Steven",
+        "Poulsen Lotte",
+        "Kaur Manraj"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140744/"
+    },
+    {
+      "pmid": "42123471",
+      "title": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives.",
+      "abstract": "Therapeutic peptides are short chains of amino acids used to treat metabolic and endocrine conditions such as obesity and type 2 diabetes. While several peptide drugs have undergone rigorous approval processes that evaluate both safety and efficacy, novel, unapproved compounds have emerged and are rapidly expanding into preventive medicine and performance enhancement. Our objective is to present the effects, clinical applications, safety profiles, and regulatory status of prominent peptides used to treat several conditions. We reviewed 106 articles, prioritizing systematic reviews, meta-analyses, and randomized controlled trials in the PubMed, ScienceDirect, and SciELO databases. Our results suggest that therapeutic peptides are a promising tool for treating type 2 diabetes and obesity, for skin rejuvenation, and as hormone analogs for specific diseases and conditions. Although these are strategic and innovative options that can improve health, performance, and longevity, further studies are needed before most new peptides can be used safely in humans.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Renke Guilherme",
+        "Chinellato Lucas"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Peptides",
+        "Obesity",
+        "Diabetes Mellitus, Type 2",
+        "Animals",
+        "Metabolic Diseases",
+        "Endocrine System Diseases"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42123471/"
+    },
+    {
+      "pmid": "42122017",
+      "title": "Skin as a Metabolic Organ: Dermatologic Markers of Morbid Obesity and Their Role in Risk Stratification and Treatment Monitoring.",
+      "abstract": "Morbid obesity is a chronic condition characterized by metabolic disorders and low-grade chronic inflammation, both of which are closely linked to insulin resistance and adipokine dysregulation. In addition to its systemic effects, obesity also leads to structural and functional changes in the skin, supporting its role as an active metabolic and immunological organ. This study analyzed skin lesions occurring in individuals with morbid obesity and explored their potential relevance in the context of metabolic risk and treatment response rather than establishing clinically validated tools. The focus was on how excess adipose tissue affects the skin through metabolic, hormonal and mechanical mechanisms. Although this review focuses on morbid obesity, many of the included studies examine general obesity without separating its severity. Therefore, the findings may not fully reflect patients with BMI ≥ 40 kg/m",
+      "year": "2026",
+      "journal": "Diagnostics (Basel, Switzerland)",
+      "authors": [
+        "Sado Aleksandra",
+        "Tomaszewska Monika",
+        "Wójcik Simona",
+        "Rulkiewicz Anna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42122017/"
+    },
+    {
+      "pmid": "42101979",
+      "title": "Cutaneous Allodynia Associated With GLP-1RA Tirzepatide for Weight Management: A Case Series.",
+      "abstract": "BACKGROUND Cutaneous allodynia is reported as a pain resulting from a stimulus that does not normally provoke or elicit pain and an altered quality of sensation characterized by extreme sensitivity to touch or mild temperature change. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are widely prescribed for management of diabetes mellitus and for obesity and weight management. Tirzepatide is a synthetic polypeptide and dual agonist for glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide receptors. Clinical studies demonstrate that tirzepatide provides robust glycemic control and is highly effective for the treatment of obesity. Review of the tirzepatide U.S. prescribing information revealed hypersensitivity and injection site reactions as the only dermatological adverse events, with no reports of skin pain or allodynia. A recent pharmacovigilance analysis of the U.S. Food and Drug Administration Adverse Event Reporting System evaluating 6 GLP-1RAs, including tirzepatide, identified rare reports of allodynia; however, detailed case-level descriptions remain limited. CASE REPORT In this case series, we report moderate-to-severe allodynia in 2 patients with severe obesity treated with tirzepatide for weight management. Allodynia in these patients varied from static to dynamic in nature; the incidence of allodynia was temporally associated with dose escalation, related to higher doses, and resolved after termination of the drug, demonstrating strong association with tirzepatide treatment. CONCLUSIONS Although dermatologic adverse events, such as injection site reactions, hypersensitivity, and urticaria, have been reported, to the best of our knowledge, this is the first case series reporting allodynia specifically with tirzepatide therapy.",
+      "year": "2026",
+      "journal": "The American journal of case reports",
+      "authors": [
+        "Chakrabarti Madhu Parna",
+        "Han Steven",
+        "Campbell Natasha M"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Hyperalgesia",
+        "Tirzepatide",
+        "Male",
+        "Middle Aged",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Adult",
+        "Hypoglycemic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42101979/"
+    },
+    {
+      "pmid": "42074746",
+      "title": "Effects of Glucagon-like Peptide-1 Receptor Agonists on Skin Homeostasis and Skin Aging Processes.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) is an incretin hormone involved in glucose regulation. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are widely used in the treatment of type 2 diabetes mellitus and obesity, as well as in cardiovascular risk reduction. Recent evidence suggests that GLP-1 receptors are expressed in cutaneous tissues; however, their role in skin homeostasis and aging remains insufficiently clarified. This review summarizes recent experimental and clinical studies examining the effects of GLP-1 receptor agonists on skin homeostasis, wound healing, regeneration, and aging processes. Experimental data indicate that GLP-1 RAs may promote wound healing through modulation of inflammatory pathways, enhancement of keratinocyte migration, improved microvascular perfusion, and support of fibroblast function. Antioxidant and cytoprotective mechanisms have also been described. Conversely, rapid weight loss associated with GLP-1 RA therapy has been linked to structural facial changes, including reduction in dermal white adipose tissue and decreased collagen synthesis, which may clinically resemble accelerated skin aging. Mechanistic findings suggest heterogeneous and pathway-dependent effects. Overall, the impact of GLP-1 receptor agonists on skin biology appears multifaceted, and further well-designed clinical studies are required to determine their precise dermatological implications.",
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Žaliukaitė Gabrielė",
+        "Lebbar Noura"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42074746/"
+    },
+    {
+      "pmid": "42074711",
+      "title": "Effects of GLP-1 Agonists on Patients with Hidradenitis Suppurativa: A Systematic Review.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Caliezi Annik",
+        "Hosseini Aref",
+        "Wolf Ronald",
+        "Seyed Jafari Seyed Morteza"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42074711/"
+    }
+  ],
+  "crawled_at": "2026-06-10T23:03:36.114112",
+  "source": "pubmed_emerging"
+}
