@@ -1,0 +1,168 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42274921",
+      "title": "A viral uveitis masquerade: PCR-confirmed Listeria monocytogenes necrotizing chorioretinitis complicated by secondary macular hole.",
+      "abstract": "Listeria monocytogenes is a rare ocular pathogen, and posterior segment infection is particularly uncommon. When it involves the retina, its presentation may overlap with viral hypertensive uveitis or necrotizing viral retinitis, especially in eyes with unilateral ocular hypertension, iris atrophy, and chronic recurrent inflammation. This diagnostic overlap may delay recognition of an unusual bacterial cause.",
+      "year": "2026",
+      "journal": "Journal of ophthalmic inflammation and infection",
+      "authors": [
+        "Ho Hai Xuan",
+        "Tran Thanh Ngoc",
+        "Doan Thoa Thi",
+        "Hoang Loan Thi",
+        "Tran Lan Huong Thi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42274921/"
+    },
+    {
+      "pmid": "42274302",
+      "title": "Examining neuroretinal alterations in autism spectrum disorder: a systematic review of OCT and OCT-A studies.",
+      "abstract": "Autism Spectrum Disorder (ASD) affects around 1% of the population, and its diagnosis is primarily clinical. Therefore, the study of biological markers is essential. The retina and optic nerve have been studied in many ocular and non-ocular diseases using non-invasive techniques such as Optical Coherence Tomography (OCT) and OCT Angiography (OCT-A).",
+      "year": "2026",
+      "journal": "International journal of psychiatry in clinical practice",
+      "authors": [
+        "Vaquero-Puyuelo David",
+        "Boned-Murillo Ana",
+        "De-la-Cámara Concepción",
+        "Lobo Antonio",
+        "Gracia-García Patricia"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42274302/"
+    },
+    {
+      "pmid": "42270295",
+      "title": "Development of diagnostic criteria for Behçet's uveitis in a Chinese population.",
+      "abstract": "To develop and validate a novel set of ocular-centric diagnostic criteria for Behçet's uveitis (BU).",
+      "year": "2026",
+      "journal": "The British journal of ophthalmology",
+      "authors": [
+        "Yang Peizeng",
+        "Zhang Wanyun",
+        "Chen Ling",
+        "Zhang Pei",
+        "Weng Wuhong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42270295/"
+    },
+    {
+      "pmid": "42266610",
+      "title": "Nonfamilial Pseudoxanthoma Elasticum: A Case Report With Review of Selected Literature.",
+      "abstract": "A 44-year-old woman with classic cutaneous manifestations of nonfamilial PXE presented with multiple 3 to 10 mm yellowish papules coalescing into well-demarcated, cobblestone-like plaques. Previous ophthalmologic evaluation revealed retinal angioid streaks, while no cardiovascular involvement was reported. PXE is a rare multisystem disorder associated with significant morbidity, requiring a multidisciplinary approach to optimize patient outcomes and quality of life. Cutaneous involvement usually represents the initial manifestation of the disease; therefore, accurate recognition of these lesions may facilitate prompt diagnosis and prevent further complications. Advances in the understanding of the underlying molecular pathways open the possibility for the development of novel therapeutic strategies, which may improve patient prognosis and potentially modify the natural history of the disease.",
+      "year": "2026",
+      "journal": "Clinical case reports",
+      "authors": [
+        "Peniche-Luna Emilio",
+        "Uriarte-Ruiz Karen",
+        "Pérez-Nieto José Eduardo",
+        "Briseño-Gascón Genaro",
+        "Vega-Memije María Elisa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42266610/"
+    },
+    {
+      "pmid": "42260560",
+      "title": "Spontaneous closure of secondary full-thickness macular hole following pars plana vitrectomy for rhegmatogenous retinal detachment: a case report and literature review.",
+      "abstract": "Secondary full-thickness macular holes (sFTMHs) are rare complications following pars plana vitrectomy (PPV) for rhegmatogenous retinal detachment (RRD). Although surgical repair is standard, spontaneous closure occurs in a minority of cases. This report describes a case of spontaneous sFTMH closure and reviews the literature to elucidate associated factors and mechanisms.",
+      "year": "2026",
+      "journal": "Journal of medical case reports",
+      "authors": [
+        "Li Afeng",
+        "Chen Shuaiwei",
+        "Jiang Bo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42260560/"
+    },
+    {
+      "pmid": "42259938",
+      "title": "Stretchable high-fill-factor silicon-liquid metal platform for multilevel visual acquisition and depth sensing.",
+      "abstract": "High-density stretchable pixelated electronics that conform to complex, non-developable surfaces are key enablers of next-generation robotic vision systems, skin-mountable sensors and wearable electronics. Existing strategies for stretchable pixelated device arrays-such as buckling mechanics, pop-up structures, serpentine interconnects and kirigami designs-have offered partial solutions. However, a strategy that simultaneously achieves high device performance, stretchability, fill factor and integration density has remained elusive. Here we present a next-generation platform for stretchable pixelated electronics that integrates high-performance single-crystalline silicon pixels with finely patterned liquid metal interconnects on ultrathin elastomeric substrates. We developed a monolithic microfabrication strategy that enables customizable, densely packed and mechanically compliant pixelated device arrays. Using this platform, we demonstrate shape-reconfigurable imaging devices that achieve superb fill factors of up to 81% and a biaxial stretchability of 100%. We also present a human-eye-inspired robotic vision system with tunable focus and a skin-mountable lens-free imaging system. The complementary operation of retinal and epidermal imaging systems enables multiscale visual acquisition and depth sensing.",
+      "year": "2026",
+      "journal": "Nature materials",
+      "authors": [
+        "Park Chansul",
+        "Kim Do Hyeon",
+        "You Woosang",
+        "Jang Jinyoung",
+        "Choi Hyeonseung"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42259938/"
+    },
+    {
+      "pmid": "42256009",
+      "title": "Ex Vivo Biodistribution of α-Lipoic Acid in the Eye Using Ocular Inserts: A Novel Strategy for Retinal Antioxidant Therapy.",
+      "abstract": "This study aimed to investigate if topically administered natural occurring antioxidant, alpha-lipoic acid (ALA) incorporated in beta-cyclodextrins (β-CDs) (molar ratio 1:1 to increase ALA solubility and stability), can reach the tissues in the posterior segment of the eye, especially the retina.",
+      "year": "2026",
+      "journal": "Ophthalmology science",
+      "authors": [
+        "Ta Phuong Linh",
+        "Bernat-Just Lucia",
+        "Alambiaga-Caravaca Adrián M",
+        "Rodilla Vicent",
+        "Bosch-Morell Francisco"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42256009/"
+    },
+    {
+      "pmid": "42255841",
+      "title": "Uveal Effusion Following Yttrium Aluminum Garnet (YAG) Iridotomy in a Patient on Acetazolamide: A Case Report.",
+      "abstract": "To report a case of uveal effusion after yttrium aluminum garnet (YAG) laser iridotomy in a hyperopic patient on acetazolamide, illustrating the possible interaction between post-laser inflammation and medication-induced changes in intraocular fluid dynamics. A 73-year-old patient was referred for left ocular hypertension and was found to have bilaterally narrow iridocorneal angles, confirmed by gonioscopy and anterior segment optical coherence tomography (AS-OCT). After initial treatment with oral acetazolamide and a prostaglandin analog eye drop, a YAG laser peripheral iridotomy was performed in the left eye following pilocarpine instillation. Six days later, the patient developed persistent peripheral blurred vision in the treated eye. Fundus examination revealed an extensive peripheral serous choroidal detachment with a peripapillary serous retinal detachment. Discontinuation of acetazolamide and initiation of intensive topical corticosteroids led to a progressive resolution of the effusion within one month. Given the risk of recurrence in predisposed eyes and the absence of acute symptoms in the fellow eye, prophylactic iridotomy was deferred in favor of close monitoring. This case illustrates the potential role of an interaction between post-laser inflammation and pharmacologically induced transscleral pressure changes in the occurrence of uveal effusion. By reporting this case, we aim to raise awareness of this rare complication among clinicians to promote early diagnosis and prevent avoidable therapeutic complications.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "El Amrani Ibrahim",
+        "Schrooyen Marc",
+        "Rahali Majedeline",
+        "Motulsky Elie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42255841/"
+    },
+    {
+      "pmid": "42254813",
+      "title": "Multisystemic paracoccidioidomycosis with rare retinal and central nervous system involvement: a case report.",
+      "abstract": "We report a rare case of disseminated paracoccidioidomycosis in an immunocompetent 41-year-old woman presenting with granulomatous skin lesions, neurological involvement, and subretinal fibrosis leading to exudative retinal detachment and permanent vision loss. Diagnosis was confirmed by direct microscopy, histopathology, and serology. The patient was treated with liposomal amphotericin B followed by trimethoprim-sulfamethoxazole, showing significant clinical improvement. This case highlights an atypical presentation of paracoccidioidomycosis with ocular and central nervous system involvement, emphasizing the need to consider the disease in differential diagnoses even in unusual forms, especially in endemic regions.",
+      "year": "2026",
+      "journal": "Medical mycology case reports",
+      "authors": [
+        "Dos Santos Miguel Sarah",
+        "Yuki Mogami Bomfim Erika",
+        "Pasian Fagundes Santos Tiago",
+        "Orge Rodrigues Camila",
+        "da Silva Campana Pedro"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42254813/"
+    },
+    {
+      "pmid": "42249996",
+      "title": "Sarcoidosis presenting as fulminant bilateral multifocal choroiditis.",
+      "abstract": "To report a case of fulminant bilateral multifocal choroiditis as the presenting manifestation of sarcoidosis despite normal serum angiotensin-converting enzyme (ACE) and unremarkable thoracic imaging.",
+      "year": "2026",
+      "journal": "Journal of ophthalmic inflammation and infection",
+      "authors": [
+        "Tan Jason",
+        "Clark Ben",
+        "Nizamovski Jordan",
+        "Sousa David Cordeiro"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42249996/"
+    }
+  ],
+  "crawled_at": "2026-06-11T23:01:42.353673",
+  "source": "pubmed"
+}
