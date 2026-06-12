@@ -1,0 +1,550 @@
+{
+  "ingredient_id": "senolytics",
+  "name_en": "senolytics",
+  "name_kr": "세놀리틱스",
+  "category": "anti_aging",
+  "query": "\"senolytic\" AND skin",
+  "paper_count": 25,
+  "articles": [
+    {
+      "pmid": "42184749",
+      "title": "A photo-responsive, fisetin-functionalized DNA nanocage for programmed therapy to accelerate early-stage wound healing in aged skin.",
+      "abstract": "Age-related impaired wound healing presents distinct challenges compared to conventional wounds, primarily due to dysregulated phase kinetics of wound repair and chronic cellular senescence, which collectively disrupt the dynamic and orderly progression of tissue regeneration. Effective intervention requires a stage-specific and temporally programmed therapeutic strategy. To address this, we first performed transcriptome sequencing (RNA-seq) to elucidate the differential healing trajectory between young and aged wounds. Herein, we construct a photo-responsive, Fisetin-functionalized DNA nanocage (TAF) for spatiotemporally precise therapy of aged wounds. TAF is composed of a tetrahedral DNA nanocage loaded with a miR-29-targeting antisense oligonucleotide (ASO) covalently linked through a photocleavable linker and noncovalently encapsulating the senolytic agent Fisetin. The TAF platform enables a programmed therapeutic strategy: (a) the intrinsic antioxidant capacity of DNA scavenges excessive reactive oxygen species (ROS) during the early inflammatory phase; (b) photo-triggered ASO release in the proliferative phase promotes collagen synthesis; and (c) sustained Fisetin release eliminates senescent cells, fostering a pro-regenerative microenvironment. In vivo studies in aged mice reveal that TAF-mediated therapy significantly accelerates early wound closure and enhances high-quality tissue regeneration. In summary, TAF establishes an efficient nanomedicine platform that improves aged tissue repair through stage-specific, temporally programmed regulation.",
+      "year": "2026",
+      "journal": "Biomaterials",
+      "authors": [
+        "Yue Ziqi",
+        "Jiang Zhou",
+        "Yang Yichen",
+        "Yin Wumeng",
+        "Lin Yunfeng"
+      ],
+      "mesh_terms": [
+        "Flavonols",
+        "Animals",
+        "Wound Healing",
+        "DNA Nanostructures",
+        "Flavonoids",
+        "DNA",
+        "Mice",
+        "Skin",
+        "Humans",
+        "Oligonucleotides, Antisense"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42184749/"
+    },
+    {
+      "pmid": "42161224",
+      "title": "Integrated photoprotection and senescence modulation: A topical formulation counteracts cellular aging in human skin cells.",
+      "abstract": "Skin aging is driven by the accumulation of senescent cells that release a pro-inflammatory mediators, which collectively disrupt tissue homeostasis. Beside ultraviolet A (UVA) and ultraviolet B (UVB) radiation, high-energy visible blue-violet (HEV) light contributes to oxidative stress, mitochondrial dysfunction and premature keratinocyte senescence. A novel photoprotective topical formulation comprising hydroxyapatite, fermented oils, baicalin and crocin was developed to counteract these effects. This study evaluated its biological effect in human skin cell models under basal conditions, oxidative stress-induced premature senescence (SIPS) and HEV exposure.",
+      "year": "2026",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "authors": [
+        "Rzeszutek Iwona",
+        "Tomaszewska Anna",
+        "Rumian Dominika",
+        "Kulpa-Greszta Magdalena",
+        "Deręgowska Anna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42161224/"
+    },
+    {
+      "pmid": "42028013",
+      "title": "Natural senolytic activity of ",
+      "abstract": "The accumulation of senescent cells drives age-related diseases, and their removal (senolysis) has been reported to ameliorate pathological aging phenotypes. Here, we identified ",
+      "year": "2026",
+      "journal": "iScience",
+      "authors": [
+        "Furuuchi Ryo",
+        "Yoshida Yohko",
+        "Katsuumi Goro",
+        "Furihata Takaaki",
+        "Joki Yusuke"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42028013/"
+    },
+    {
+      "pmid": "41974671",
+      "title": "Dasatinib and quercetin senolytic treatment delays early onset intervertebral disc degeneration in SM/J mice.",
+      "abstract": "Genetic background is a major determinant of disc degeneration, a leading cause of chronic back pain and disability. Herein, we demonstrate that premature disc cell senescence contributes to early-onset degeneration in SM/J mice and test two systemic senotherapeutic strategies to mitigate it: Navitoclax (Nav.) and a cocktail of Dasatinib and Quercetin (DQ). While Nav. treatment did not improve severe degeneration in SM/J mice or senescence status, DQ-treated mice showed lower grades of degeneration and a decreased abundance of senescence markers, including p19ARF, p21, and the senescence-associated secretory phenotype (SASP). DQ improved disc cell viability and phenotype retention and retarded fibrosis of the nucleus pulposus tissue. Transcriptomic analysis revealed tissue-specific effects of the treatment, with cell cycle regulation and JNK signaling being commonly affected across different tissue types. A comparison of SM/J data with DQ-mediated aging-dependent amelioration of disc degeneration in C57BL/6 N mice identified Junb and Zfp36l1 signaling as shared DQ targets in the mouse disc. Notably, the in vitro inhibition studies of the JUN pathway in human degenerated NP cells mimicked the benefits of DQ, namely, a reduction in senescence and SASP. This study reinforces the efficacy of senolytic treatment in ameliorating local senescence and intervertebral disc fibrosis.",
+      "year": "2026",
+      "journal": "Bone research",
+      "authors": [
+        "Novais Emanuel J",
+        "Ottone Olivia K",
+        "Jagannath Sanjana",
+        "Akande Esther Jesutofunmi",
+        "Barve Ruteja A"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dasatinib",
+        "Quercetin",
+        "Intervertebral Disc Degeneration",
+        "Mice",
+        "Senotherapeutics",
+        "Mice, Inbred C57BL",
+        "Cellular Senescence",
+        "Humans",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41974671/"
+    },
+    {
+      "pmid": "41897518",
+      "title": "Polyphenol-Rich Extracts from ",
+      "abstract": "Cellular senescence of dermal fibroblasts is a central mechanism underlying skin aging and is closely linked to oxidative imbalance and mitochondrial dysfunction. In this study, we investigated the senotherapeutic effects of polyphenol-rich extracts obtained from peel and flesh of ",
+      "year": "2026",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Moriello Claudia",
+        "Alessio Nicola",
+        "Perrone Pasquale",
+        "Squillaro Tiziana",
+        "D'Angelo Stefania"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41897518/"
+    },
+    {
+      "pmid": "41730842",
+      "title": "Fisetin-Mediated Topical Modulation of Senescent Cells in Skin Improves Wound Healing Dynamics in Diabetic Mice.",
+      "abstract": "Diabetes mellitus affects over 25% of adults aged 65+ in the United States and is associated with a heightened risk of developing diabetic foot ulcers. Accumulation of senescent cells within the wound microenvironment can impair cutaneous repair, and senolytic therapies offer a promising approach to accelerate wound healing.",
+      "year": "2026",
+      "journal": "Advances in wound care",
+      "authors": [
+        "Numani Asfia",
+        "Carrasco-Jeldres Margarita",
+        "Hernandez-Rovira Barbara",
+        "Purushothaman K-Raman",
+        "Melin Matthew M"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41730842/"
+    },
+    {
+      "pmid": "41589354",
+      "title": "The role of cellular senescence in wound healing of diabetic skin.",
+      "abstract": "Diabetic foot ulcers are a severe complication of diabetes mellitus, characterized by impaired wound healing due to complex pathophysiological mechanisms. Cellular senescence, particularly the senescence-associated secretory phenotype (SASP), contributes to delayed healing by inducing persistent inflammation and dysfunction in dermal fibroblasts, macrophages and adipose tissue cells. Here, we review the molecular pathways leading to senescence in these cell types, including p53/p21 activation and apoptosis resistance, and how their SASP perpetuates chronic inflammation and impairs tissue regeneration. We also discuss emerging therapeutic approaches targeting senescent cells with senolytic and senomorphic agents to improve healing outcomes. These insights suggest that modulating cellular senescence may offer promising avenues for treating diabetic wounds, warranting further investigation into senescence-targeted therapies in clinical settings.",
+      "year": "2026",
+      "journal": "Journal of biochemistry",
+      "authors": [
+        "Ueda Naohiro",
+        "Saito Yuki",
+        "Ota Katsunori",
+        "Nagao Ayaka",
+        "Kasseki Dain"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Cellular Senescence",
+        "Animals",
+        "Senescence-Associated Secretory Phenotype",
+        "Diabetic Foot",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41589354/"
+    },
+    {
+      "pmid": "41560809",
+      "title": "Senolytic-loaded asymmetric wound dressing for targeted senescent cell clearance in diabetic wound healing.",
+      "abstract": "Chronic wounds, especially diabetic foot ulcers, pose a major clinical challenge due to persistent inflammation, impaired angiogenesis, and cellular senescence. Senolytic therapies, which selectively eliminate senescent cells, have shown promise in promoting healing, but systemic toxicity limits their application. To address this, we developed an asymmetric fabric-based composite platform for localized senolytic delivery. Using single-cell RNA sequencing, we characterized senescence-associated alterations in human diabetic foot ulcer tissues and screened several senolytic candidates in skin fibroblasts and endothelial cells. Among these, navitoclax (ABT-263) emerged as the most effective senolytic. Incorporating ABT-263 into the fabric-based platform to prepare ABT-263-CGH, we confirmed its ability to reduce senescent cell burden while maintaining biocompatibility. In a diabetic mouse model, the ABT-263-CGH significantly enhanced wound healing, reduced senescence markers, and exhibited no detectable systemic toxicity. These findings highlight the potential of localized senolytic therapy using an asymmetric fabric-based wound dressing as a novel strategy for enhancing chronic wound healing, offering a promising therapeutic avenue for diabetic wound management, and paving the way for future clinical applications.",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Zhang Ming",
+        "Wang Yamei",
+        "Dai Yao",
+        "Hu Yan",
+        "Fu Wanting"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41560809/"
+    },
+    {
+      "pmid": "41541559",
+      "title": "Senescent cell accumulation is associated with T-cell imbalance in the skin.",
+      "abstract": "Organismal aging is accompanied by the accumulation of senescent cells - damaged, non-functional cells that exhibit cell cycle arrest, resistance to apoptosis, metabolic dysfunction, and production of a wide range of pro-inflammatory substances. The age-related accumulation of these cells is associated with impaired tissue function, contributes to chronic inflammation (inflammaging), and promotes the development of various age-associated diseases. Conversely, the elimination of senescent cells restores tissue functions and positively affects overall metabolism. Under normal conditions, senescent cells are removed by the innate immune system; however, the efficiency of this process declines with age. The involvement of adaptive immunity and the role of T cells in the clearance of senescent cells remain poorly understood. The aim of this study was to identify alterations in local T cell immunity associated with the accumulation of senescent cells in human skin. The analysis was performed on publicly available single-cell RNA-sequencing data from skin biopsies, and the senescent status was assessed using the SenePy algorithm with Gaussian mixture models. It was found that the emergence of senescent cells occurs heterogeneously across cell types within the tissue. The accumulation of these cells is associated with alterations in the CD4+ to CD8+ T cell ratio, as well as with an increased abundance of regulatory T cells. Functional analysis revealed that these quantitative age-related shifts were accompanied by more pronounced activation of regulatory T cells together with features of anergy and exhaustion in CD8+ T cells, whereas functional changes in CD4+ T cells were heterogeneous. These findings underscore the importance of adaptive immunity in maintaining tissue homeostasis and suggest potential age-related dysfunction of tissue-resident T cells. Understanding the mechanisms underlying the interaction between adaptive immunity and senescent cells is crucial for the development of senolytic vaccines and other immunological approaches aimed at enhancing endogenous elimination of senescent cells.",
+      "year": "2025",
+      "journal": "Vavilovskii zhurnal genetiki i selektsii",
+      "authors": [
+        "Matveeva K S",
+        "Kolmykov S K",
+        "Sokolova T S",
+        "Salimov D R",
+        "Shevyrev D V"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41541559/"
+    },
+    {
+      "pmid": "41471101",
+      "title": "A State-of-the-Art Overview on (Epi)Genomics and Personalized Skin Rejuvenating Strategies.",
+      "abstract": "This article aims to point out new perspectives opened by genomics and epigenomics in skin rejuvenation strategies which target the main hallmarks of the ageing. In this respect, this article presents a concise overview on: the clinical relevance of the most important clocks and biomarkers used in skin anti-ageing strategy evaluation, the fundamentals, the main illustrating examples preclinically and clinically tested, the critical insights on knowledge gaps and future research perspectives concerning the most relevant skin anti-ageing and rejuvenation strategies based on novel epigenomic and genomic acquisitions. Thus the review dedicates distinct sections to: senolytics and senomorphics targeting senescent skin cells and their senescent-associated phenotype; strategies targeting genomic instability and telomere attrition by stimulation of the deoxyribonucleic acid (DNA) repair enzymes and proteins essential for telomeres' recovery and stability; regenerative medicine based on mesenchymal stem cells or cell-free products in order to restore skin-resided stem cells; genetically and chemically induced skin epigenetic partial reprogramming by using transcription factors or epigenetic small molecule agents, respectively; small molecule modulators of DNA methylases, histone deacetylases, telomerases, DNA repair enzymes or of sirtuins; modulators of micro ribonucleic acid (miRNA) and long-non-coding ribonucleic acid (HOTAIR's modulators) assisted or not by CRISPR-gene editing technology (CRISPR: Clustered Regularly Interspaced Short Palindromic Repeats); modulators of the most relevant altered nutrient-sensing pathways in skin ageing; as well as antioxidants and nanozymes to address mitochondrial dysfunctions and oxidative stress. In addition, some approaches targeting skin inflammageing, altered skin proteostasis, (macro)autophagy and intercellular connections, or skin microbiome, are very briefly discussed. The review also offers a comparative analysis among the newer genomic/epigenomic-based skin anti-ageing strategies vs. classical skin rejuvenation treatments from various perspectives: efficacy, safety, mechanism of action, evidence level in preclinical and clinical data and regulatory status, price range, current limitations. In these regards, a concise overview on senolytic/senomorphic agents, topical nutrigenomic pathways' modulators and DNA repair enzymes, epigenetic small molecules agents, microRNAs and HOTAIRS's modulators, is illustrated in comparison to classical approaches such as tretinoin and peptide-based cosmeceuticals, topical serum with growth factors, intense pulsed light, laser and microneedling combinations, chemical peels, botulinum toxin injections, dermal fillers. Finally, the review emphasizes the future research directions in order to accelerate the clinical translation of the (epi)genomic-advanced knowledge towards personalization of the skin anti-ageing strategies by integration of individual genomic and epigenomic profiles to customize/tailor skin rejuvenation therapies.",
+      "year": "2025",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Tauser Roxana-Georgiana",
+        "Vasincu Ioana-Mirela",
+        "Iacob Andreea-Teodora",
+        "Apotrosoaei Maria",
+        "Profire Bianca-Ștefania"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41471101/"
+    },
+    {
+      "pmid": "41471076",
+      "title": "Senotherapeutic Potential of Araliadiol in Senescent Human Dermal Fibroblasts: An In Vitro Study Using Three Senescence Models.",
+      "abstract": null,
+      "year": "2025",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Park Seokmuk",
+        "Baek Seyeol",
+        "Shin Hee-Jae",
+        "Hwang Jeong Yi",
+        "Yoo Dae Sung"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41471076/"
+    },
+    {
+      "pmid": "41320742",
+      "title": "Grape Seed Extract NSPCC1 Counteracts Mouse Skin Aging via Modulating MAPK and AMPK Pathways.",
+      "abstract": "Skin aging is driven by both extrinsic factors, such as daily ultraviolet (UV) exposure, and intrinsic processes, including oxidative stress, inflammation, and glycation. Plant-derived medicinal agents and supplements hold promise as interventions against skin aging due to their anti-inflammatory and antioxidant properties. Grape seed extract (GSE), a polyphenol-rich natural product, has demonstrated skin health benefits and is commonly incorporated into various skincare formulations. However, its efficacy and underlying mechanisms, particularly in addressing both intrinsic and extrinsic aging factors, remain incompletely understood. Procyanidin C1 (PCC1), a B-type trimeric procyanidin found in GSE, possesses senolytic properties and has been shown to extend both lifespan and health span in mice. In this study, a newly processed PCC1-rich GSE, named NSPCC1, was evaluated against UV- and d-galactose (d-gal)-induced skin aging in a mouse model. NSPCC1 supplementation mitigated skin cell death, collagen degradation, and structural atrophy while partially restoring skin elasticity and hydration. It also enhanced antioxidant defenses in serum and skin tissues. RNA sequencing revealed that NSPCC1 modulates the MAPK and AMPK pathways, counteracting their dysregulation observed in aged skin. These findings highlight the potential of NSPCC1 to combat skin aging, providing an alternative strategy for skincare interventions targeting both extrinsic and intrinsic aging processes.",
+      "year": "2025",
+      "journal": "Journal of food science",
+      "authors": [
+        "Zhang Zhen",
+        "Xue Zhaoyun",
+        "Wang Yufang",
+        "Zhang Yihan",
+        "Tu Chuyue"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Skin Aging",
+        "Mice",
+        "Grape Seed Extract",
+        "AMP-Activated Protein Kinases",
+        "Skin",
+        "Ultraviolet Rays",
+        "Proanthocyanidins",
+        "Antioxidants",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41320742/"
+    },
+    {
+      "pmid": "41291782",
+      "title": "Unleashing endogenous regeneration by senolytics.",
+      "abstract": "Regenerative medicine holds significant promise for the treatment of chronic diseases by harnessing the body’s innate capacity to repair and restore physiological function. However, regenerative activity declines markedly with age, a phenomenon traditionally attributed to depletion/exhaustion of progenitor cell pools. We propose an alternative, complementary mechanism: that age-associated accumulation of senescent cells contributes to impaired regeneration through the secretion of “anti-regenerative” factors. Senolytic therapies, which selectively eliminate senescent cells, may therefore exert therapeutic effects in part by de-repressing endogenous regenerative pathways. If senolytics restore progenitor cell function, their use in combination with interventions known to stimulate endogenous progenitor activity, yet not fully optimized for clinical translation, may provide a powerful strategy to enhance tissue repair. In this review, we examine current research on cellular senescence and the therapeutic potential of senolytics across diverse chronic disease contexts. We summarize the presence and role of endogenous regenerative cells in multiple organ systems and highlight mechanisms by which senescent cell-derived secretory factors inhibit regeneration. Finally, we propose potential applications in which senolytic therapy could be leveraged to augment both homeostatic regeneration and regeneration stimulated by therapeutic interventions.",
+      "year": "2025",
+      "journal": "Journal of translational medicine",
+      "authors": [
+        "Boddu Navneet K",
+        "Kesari Santosh",
+        "Chavez Brandy A",
+        "Bajnath Anil",
+        "Wheatley Maxim D"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41291782/"
+    },
+    {
+      "pmid": "41174683",
+      "title": "Immunosenescence and organoids: pathophysiology and therapeutic opportunities.",
+      "abstract": "Immunosenescence is the gradual deterioration in the functionality of the immune system that has various clinical manifestations, such as a weakened response to vaccination, higher susceptibility to viral/bacterial/fungal infection, and higher incidence rates regarding the ageing-based disorders. Conventionally used models, like animal or 2D models for unraveling the interactions between ageing and immunity are unable to depict the complexity of bodily environments. However, this major limitation can be addressed via using the organoid technology. For clarification, organoids are tissue-resembling 3D structures that are generated from stem cells; they have the major superiority of preserving the human physiology, multicellular intricateness, and the capability of dynamic interactions between the existing elements. Organoid-based technology has been applied for the study of different organ-specific immunosenescence, such as in the intestine, brain, liver, and skin. Besides, organoids offer the bright innovative future of senolytic CAR T lymphocytes and other regenerative-based therapies. This review narrates the cutting-edge application of organoids and the mechanisms involved in the detailed molecular processes of organ-specific immunosenescence.",
+      "year": "2025",
+      "journal": "Immunity & ageing : I & A",
+      "authors": [
+        "Kamroo Amirhossein",
+        "Kakroudi Mahsa Hosseini",
+        "Sarmadian Amirreza Jabbaripour",
+        "Firouzabadi Ayda",
+        "Mousavi Shaghayegh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41174683/"
+    },
+    {
+      "pmid": "41168880",
+      "title": "Integrative Omics Reveal Female-Specific Benefits of p16",
+      "abstract": "Aging is marked by the accumulation of cells expressing the cyclin-dependent kinase inhibitor p16Ink4a. These p16⁺ cells, largely senescent, contribute to inflammation and tissue dysfunction. While eliminating p16⁺ cells improves healthspan, sex-specific differences in their burden and clearance remain unclear. Through combined transcriptomic, proteomic, and functional analyses, we reveal distinct sex-dependent dynamics of p16⁺ cells during aging. Female mice accumulate significantly more p16⁺ cells across multiple tissues, particularly in the liver. In the p16-3MR model, selective ablation of these cells enhances grip strength, promotes skin regeneration, and reduces liver damage exclusively in females. Multi-omics profiling shows that p16⁺ cell removal shifts female liver expression toward youthful, health-associated profiles, marked by improved mitochondrial activity and reduced inflammatory signaling-molecular patterns resembling those induced by longevity interventions such as calorie restriction, rapamycin, and acarbose. Integrative analysis of our and independent datasets identifies a conserved transcriptional network involving Srm, Cd36, and Lrrfip1, suggesting shared mitochondrial-immune regulatory mechanisms. Overall, our findings establish p16⁺ cells as critical yet heterogeneous drivers of tissue aging, uncover sex-specific differences in their abundance and senolytic responsiveness, and support the development of precision senotherapeutics that consider sex as a key biological variable in aging and rejuvenation.",
+      "year": "2026",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Lin Yao",
+        "Wang Boshi",
+        "Huang Mengling",
+        "Wolters Justina C",
+        "Demaria Marco"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Mice",
+        "Aging",
+        "Cyclin-Dependent Kinase Inhibitor p16",
+        "Male",
+        "Proteomics",
+        "Liver",
+        "Mice, Inbred C57BL",
+        "Cellular Senescence"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41168880/"
+    },
+    {
+      "pmid": "41146662",
+      "title": "Nanocomposite-loaded hybrid microneedles reshape dermal microenvironment through senolytic delivery and collagen XVII-mediated barrier repair.",
+      "abstract": "Skin aging exacerbates chronic skin diseases, malignancies, and systemic aging. During the aging process, ultraviolet radiation induces oxidative stress, DNA damage, and senescence, resulting in dermal extracellular matrix (ECM) microenvironmental dysregulation. Based on this, reshaping strategies aiming at the dermal ECM microenvironment should center on two key mechanisms: (1) remodel the ECM microenvironment by removing senescent cells (SenCs); (2) restore the epidermal barrier function to maintain the homeostasis of the dermal ECM microenvironment. To achieve dual-action therapy, we propose a hybrid hydrogel microneedle system (SC/F-HMNs) that synergizes fisetin-loaded nanoparticles with recombinant human collagen XVII (rhCol17)-reinforced silk fibroin hydrogel. The SC/F-HMNs exhibited superior mechanical strength and sustained drug release, enabling deep dermal penetration. In UVA-irradiated human skin fibroblasts (HSFs), the SC/F hydrogel enhanced cell viability and migration capacity and promoted ECM remodeling, significantly reducing levels of reactive oxygen species (ROS) and DNA damage, and attenuating senescence. In UVA-irradiated photoaged mice, SC/F-HMNs treatment exhibited improvement in skin wrinkles and elasticity. Additionally, in vivo studies demonstrated that SC/F-HMNs decreased oxidative stress, DNA damage, and restored barrier function, effectively reshaping the dermal ECM environment, including the collagen and elastic pattern, as well as MMP1,3 expression. Our data demonstrate the therapeutic potential of SC/F-HMNs in reshaping the dermal microenvironmental dysregulation caused by oxidative stress in photoaging, thereby providing an innovative therapeutic strategy for treating skin diseases related to dermal microenvironmental dysregulation.",
+      "year": "2025",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Yang Fan",
+        "Xiong Yahui",
+        "Chen Shuying",
+        "Bie Fan",
+        "Li Zhanpeng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41146662/"
+    },
+    {
+      "pmid": "41090791",
+      "title": "Tert-Butyl Hydroperoxide in Human Adult Mesenchymal Stem Cells Isolated from Dermis: A Stress-Induced Premature Senescence Model.",
+      "abstract": "Stem cell (SC)-based therapy exploits the ability of cells to migrate to damaged tissues and repair them. In this context, there is a strong interest in the use of mesenchymal stem cells (MSCs), multipotent SCs that are easy to obtain and are able to differentiate into various cell lineages. However, MSCs undergo cellular senescence during in vitro expansion, and may also become senescent in vivo, influenced by multiple molecular, cellular, and environmental interactions. Therefore, the development of in vitro cell models is crucial to study the mechanisms underlying senescence in MSCs. This study aimed to investigate the effects of tert-butyl hydroperoxide (t-BHP) as a senescence inducer in human dermal MSCs (hDMSCs), a promising tool for tissue repair. t-BHP induced a pro-senescent effect on hDMSCs greater than hydrogen peroxide (H",
+      "year": "2025",
+      "journal": "Cells",
+      "authors": [
+        "Pampanella Luca",
+        "Petrocelli Giovannamaria",
+        "Abruzzo Provvidenza Maria",
+        "Tassinari Riccardo",
+        "Bassoli Beatrice"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "tert-Butylhydroperoxide",
+        "Mesenchymal Stem Cells",
+        "Cellular Senescence",
+        "Dermis",
+        "Cell Proliferation",
+        "Hydrogen Peroxide",
+        "Adult",
+        "Reactive Oxygen Species",
+        "DNA Damage"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41090791/"
+    },
+    {
+      "pmid": "40967492",
+      "title": "Advances in Cutaneous Melanoma Therapy: The Emerging Role of CDK4/6 Inhibitors.",
+      "abstract": "Cutaneous melanoma is a highly aggressive malignancy; however, recent advancements in targeted and immunologic therapies have significantly improved patient outcomes. MAPK-directed therapies and immune checkpoint inhibitors such as anti-PD-1 and CTLA-4 have increased overall survival for patients with advanced melanoma. Unfortunately, resistance to MAPK-directed therapies and a lack of response to immunotherapy in a subset of patients remain major challenges, underscoring the need for novel therapeutic strategies. The CDK4/6 pathway, which regulates cell cycle progression through the p16-cyclin D-CDK4/6-RB axis, is frequently dysregulated in melanoma, presenting a viable target for therapeutic intervention. CDK4/6 inhibitors (CDK4/6i), which have already demonstrated efficacy in hormone receptor-positive and human epidermal growth factor receptor 2-negative breast cancer, show promise in melanoma by inducing tumor senescence, modulating the tumor microenvironment, and enhancing patient immune responses. Preclinical and translational studies suggest that CDK4/6i could be particularly effective when combined with existing therapies, including MAPK inhibitors, immune checkpoint inhibitors, and senolytic agents. Ongoing clinical trials and emerging data on combination strategies underscore the promise of CDK4/6i as a critical component of future melanoma therapy. This review summarizes the current melanoma treatment landscape and explores the potential of CDK4/6i in advancing melanoma treatment, highlighting their ability to overcome therapy resistance, improve therapeutic efficacy, and offer new strategies for patients with advanced cutaneous melanoma.",
+      "year": "2025",
+      "journal": "Pharmacological research",
+      "authors": [
+        "Kim Uriel",
+        "McCormick Thomas S",
+        "Mangla Ankit",
+        "Cooper Kevin D",
+        "Schwartz Gary K"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cyclin-Dependent Kinase 4",
+        "Melanoma",
+        "Cyclin-Dependent Kinase 6",
+        "Skin Neoplasms",
+        "Animals",
+        "Protein Kinase Inhibitors",
+        "Antineoplastic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40967492/"
+    },
+    {
+      "pmid": "40921255",
+      "title": "A senescence-responsive nanodrug amplifies radiotherapy efficacy.",
+      "abstract": "Radiotherapy (RT) is a mainstay of cancer treatment but is limited by tumor resistance and off-target tissue damage, often mediated by therapy-induced cellular senescence. Here, we developed a \"one-two punch\" nanodrug, Lipo@ABT263@Au, that integrated a senolytic agent (ABT-263) with a gold-shelled liposome for radiosensitization and sustained drug release. High-throughput screening and transcriptomic analysis identified senescence as a key RT-induced vulnerability. In vitro, Lipo@ABT263@Au eliminated senescent tumor cells, enhanced RT-induced apoptosis, and suppressed the pro-tumorigenic effects of the senescence-associated secretory phenotype (SASP). In vivo, the nanodrug accumulated efficiently at tumor sites, significantly inhibited tumor growth, and mitigated RT-induced skin fibrosis by targeting senescent fibroblasts, without systemic toxicity. These findings highlight Lipo@ABT263@Au as a clinically relevant platform for advancing cancer radiotherapy.",
+      "year": "2025",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "authors": [
+        "Hua Yu",
+        "Song Hua",
+        "Deng Hongpei",
+        "Tian Hao",
+        "Liu Chang"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Cellular Senescence",
+        "Humans",
+        "Gold",
+        "Liposomes",
+        "Radiation-Sensitizing Agents",
+        "Neoplasms",
+        "Cell Line, Tumor",
+        "Mice",
+        "Apoptosis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40921255/"
+    },
+    {
+      "pmid": "40868181",
+      "title": "Targeting Dermal Fibroblast Senescence: From Cellular Plasticity to Anti-Aging Therapies.",
+      "abstract": "Dermal fibroblasts, the primary stromal cells of the dermis, exhibit remarkable plasticity in response to various stimuli, playing crucial roles in tissue homeostasis, wound healing, and ECM production. This study examines the molecular mechanisms underlying fibroblast plasticity, including key signaling pathways, epigenetic regulation, and microRNA-mediated control. The impact of aging on ECM synthesis and remodeling is discussed, and the diminished production of vital components such as collagen, elastin, and glycosaminoglycans are highlighted, alongside enhanced ECM degradation through upregulated matrix metalloproteinase activity and accumulation of advanced glycation end products. The process of cellular senescence in dermal fibroblasts is explored, with its role in skin aging and its effects on tissue homeostasis and repair capacity being highlighted. The senescence-associated secretory phenotype (SASP) is examined for its contribution to chronic inflammation and ECM disruption. This review also presents therapeutic perspectives, focusing on senolytics and geroprotectors as promising strategies to combat the negative effects of fibroblast senescence. Current challenges in translating preclinical findings to human therapies are addressed, along with future directions for research in this field. This comprehensive review explores the complex interplay between dermal fibroblast plasticity, cellular senescence, and extracellular matrix (ECM) remodeling in the context of skin aging. In conclusion, understanding the complex interplay between dermal fibroblast plasticity, cellular senescence, and extracellular matrix (ECM) remodeling is essential for developing effective anti-aging interventions, which highlights the need for further research into senolytic and geroprotective therapies to enhance skin health and longevity. This approach has shown promising results in preclinical studies, demonstrating improved skin elasticity and reduced signs of aging.",
+      "year": "2025",
+      "journal": "Biomedicines",
+      "authors": [
+        "Jipu Raluca",
+        "Serban Ionela Lacramioara",
+        "Goriuc Ancuta",
+        "Jipu Alexandru Gabriel",
+        "Luchian Ionut"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40868181/"
+    },
+    {
+      "pmid": "40818742",
+      "title": "Targeted elimination of senescent cells by ProcyanidinC1 improves diabetic wound healing and restores skin quality.",
+      "abstract": "For diabetic patients, impaired wound healing is a serious complication, which characterized by prolonged inflammation, wound granulation tissue formation obstruction and impaired re-epithelialization. Accumulating evidence shows that senescent cells play a crucial role in the pathomechanism of diabetic wounds. In this study, we systematically evaluated the role of senescent cells in diabetic wound healing through diabetic mice (DM mice) model (including streptozotocin-induced type I DM mice model and db/db (type II DM) mice model, and actively assessed the therapeutic potential of ProcyanidinC1 (PCC1), the novel senolytic compound. We demonstrated that diabetic mice accumulated a significant number of senescent cells, primarily fibroblasts, in their normal skin and wound tissues. Local application of PCC1 selectively eliminated these senescent cells, leading to improved wound healing outcomes. By modulating the NF-κB signaling axis, PCC1 administration effectively downregulated senescence-associated secretory phenotype components, thereby ameliorating immune dysregulation in diabetic wounds. This therapeutic intervention concurrently revitalized the functional capacity of dermal fibroblasts and vascular endothelial cells, while stimulating coordinated matrix deposition and architectural remodeling of the extracellular compartment. Furthermore, PCC1 treatment enhanced epidermal barrier function after healing, a crucial aspect of wound repair which is often impaired in diabetes. And we also found that PCC1 would improve wound healing at type II diabetic mouse. Collectively, our findings elucidate the complex detrimental roles of senescent cells in diabetic wound repair and establish PCC1-mediated senolytic clearance as a promising therapeutic intervention.",
+      "year": "2025",
+      "journal": "Free radical biology & medicine",
+      "authors": [
+        "Shang Ruoyu",
+        "Yang Jiacai",
+        "Hu Wengang",
+        "Hu Jianhong",
+        "Tang Yuanyang"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Wound Healing",
+        "Diabetes Mellitus, Experimental",
+        "Cellular Senescence",
+        "Fibroblasts",
+        "Skin",
+        "Humans",
+        "Male",
+        "Mice, Inbred C57BL"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40818742/"
+    },
+    {
+      "pmid": "40386939",
+      "title": "Orchestration of Skin Pathology in Cutaneous Lupus Erythematosus by HLA Class I Down-Regulated Senescent Epidermal Basal Cells.",
+      "abstract": "This study investigates the role of senescent epidermal basal cells in cutaneous lupus erythematosus (CLE) pathogenesis using skin samples from patients with CLE and a mouse model of systemic lupus erythematosus (SLE).",
+      "year": "2025",
+      "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
+      "authors": [
+        "Yamamoto Sena",
+        "Saito Yuki",
+        "Sato Tsukasa",
+        "Nakano Seina",
+        "Kasseki Dain"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Mice",
+        "Cellular Senescence",
+        "Lupus Erythematosus, Cutaneous",
+        "Cyclin-Dependent Kinase Inhibitor p21",
+        "Disease Models, Animal",
+        "Down-Regulation",
+        "ErbB Receptors",
+        "Histocompatibility Antigens Class I"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40386939/"
+    },
+    {
+      "pmid": "40374605",
+      "title": "Anti-BCL2 therapy eliminates giant congenital melanocytic nevus by senolytic and immune induction.",
+      "abstract": "Giant congenital melanocytic nevus (GCMN) is a RAS/RAF mutation-driven syndrome characterized by extensive melanocytic lesions, posing psychological challenges and a lifelong risk of malignancy. Existing treatments like surgical resection and laser therapy fail to fully remove lesions, and MAPK inhibitors show limited efficacy. This study identified a predominant population of senescent cells and a minority of proliferative cells in GCMN, necessitating dual-targeted strategies. We found that the anti-apoptotic protein BCL2 is expressed in both senescent and proliferative cells from GCMN patients with various gene mutations. Coexpression of P16 and BCL2 indicated a phenotype of growth arrest and cell survival. BCL2 inhibitors (BCL2i) showed significant cytotoxicity to GCMN cells in vitro. Hypopigmentation and GCMN cell clearance were observed in patient-derived xenograft models and in Nras",
+      "year": "2025",
+      "journal": "Signal transduction and targeted therapy",
+      "authors": [
+        "Wei Boxuan",
+        "Yu Qingxiong",
+        "Jin Jiamin",
+        "Zhu Danli",
+        "Lai Bohan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Nevus, Pigmented",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Animals",
+        "Mice",
+        "Female",
+        "Male",
+        "Skin Neoplasms",
+        "Proto-Oncogene Proteins B-raf",
+        "Cellular Senescence"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40374605/"
+    },
+    {
+      "pmid": "40315640",
+      "title": "Procyanidin C1 ameliorates aging-related skin fibrosis through targeting EGFR to inhibit TGFβ/SMAD pathway.",
+      "abstract": "Aging-related skin fibrosis (SF) is a complex condition with limited treatment options. Procyanidin C1 (PCC1), a natural polyphenolic compound with demonstrated senolytic activity, has emerged as a potential therapeutic agent for fibrotic disorders through its selective elimination of senescent cells. However, its therapeutic efficacy and mechanisms in aging-related SF remain unclear.",
+      "year": "2025",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Wang Jun-Han",
+        "Li Min",
+        "Xie Peng-Fei",
+        "Si Jia-Yao",
+        "Feng Zhen-Jie"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Proanthocyanidins",
+        "ErbB Receptors",
+        "Mice",
+        "Fibrosis",
+        "Signal Transduction",
+        "Skin Aging",
+        "Cell Line",
+        "Skin",
+        "Smad Proteins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40315640/"
+    },
+    {
+      "pmid": "40159808",
+      "title": "Targeting IGF1-Induced Cellular Senescence to Rejuvenate Hair Follicle Aging.",
+      "abstract": "The insulin-like growth factor-1 (IGF-1) signaling pathway is known as a potent aging modifier, disruption of which consistently associates with lifespan extension across diverse species. Despite this established association, the mechanisms by which IGF-1 signaling modulates organ aging remain poorly understood. In this study, we assessed age-related changes in IGF-1 expression across multiple organs in mice and identified a more prominent increase in skin IGF-1 levels with aging-a phenomenon also observed in human skin. To explore the consequences of elevated IGF-1, we developed transgenic mice ectopically expressing human IGF-1 in the epidermis, driven by the bovine keratin 5 promoter (IGF-1 Tg). These mice exhibited premature aging of hair follicles, as evidenced by accelerated hair graying and loss. Single-cell RNA sequencing analyses of dorsal skin highlighted an upsurge in cellular senescence markers and the senescence-associated secretory phenotype (SASP) in hair follicle stem cells (HFSCs), alongside a decline in hair growth and HFSC exhaustion. Our findings indicate that excessive IGF-1 triggers HFSC senescence, thereby disrupting hair follicle homeostasis. Remarkably, interventions in IGF-1 signaling via downstream mechanisms-specifically blocking Ac-p53 activation via SIRT1 overexpression or senolytic treatment for senescent cell clearance, or reducing IGF-1 through dietary restriction-significantly reduced senescence markers, mitigated premature hair follicle aging phenotypes, and restored the stem cell pool. Our findings provide fundamental insights into the biological processes of hair aging and highlight the therapeutic promise of targeted interventions to rejuvenate aged HFSCs and promote hair follicle health.",
+      "year": "2025",
+      "journal": "Aging cell",
+      "authors": [
+        "Wang Yang",
+        "Yang Jian",
+        "Luo Yue",
+        "Zhao Zhiqiang",
+        "Yuan Yawen"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Hair Follicle",
+        "Cellular Senescence",
+        "Insulin-Like Growth Factor I",
+        "Mice",
+        "Humans",
+        "Mice, Transgenic",
+        "Rejuvenation",
+        "Signal Transduction",
+        "Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40159808/"
+    }
+  ],
+  "crawled_at": "2026-06-12T22:32:17.696784",
+  "source": "pubmed_emerging"
+}

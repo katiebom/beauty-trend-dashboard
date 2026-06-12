@@ -1,0 +1,36 @@
+{
+  "ingredient_id": "heartleaf",
+  "name_en": "Heartleaf (Houttuynia)",
+  "name_kr": "어성초",
+  "category": "natural",
+  "query": "\"Heartleaf (Houttuynia)\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "15133864",
+      "title": "Different therapy for different types of ulcerative colitis in China.",
+      "abstract": "To study the different therapy for different types of ulcerative colitis (UC) in China.",
+      "year": "2004",
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Jiang Xue-Liang",
+        "Cui Hui-Fei"
+      ],
+      "mesh_terms": [
+        "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+        "Adult",
+        "Aminosalicylic Acids",
+        "Anti-Inflammatory Agents",
+        "Antigens, CD",
+        "China",
+        "Colitis, Ulcerative",
+        "Drugs, Chinese Herbal",
+        "Epithelial Cells",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/15133864/"
+    }
+  ],
+  "crawled_at": "2026-06-12T22:32:14.095760",
+  "source": "pubmed"
+}
