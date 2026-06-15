@@ -1,0 +1,744 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 22,
+  "trials": [
+    {
+      "nct_id": "NCT06453408",
+      "title": "Validation of a Placebo Dry Needling Protocol in Patients With Non-specific Neck Pain",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Neck Pain"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Punción seca con aguja retráctil"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Punción seca con aguja normativa."
+        }
+      ],
+      "sponsor": "University of Alcala",
+      "primary_completion": "2024-07",
+      "url": "https://clinicaltrials.gov/study/NCT06453408"
+    },
+    {
+      "nct_id": "NCT07099092",
+      "title": "Causal Mechanisms of Odor-Guided Behavior in Humans",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Normal Physiology"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TUS PirC"
+        },
+        {
+          "type": "DEVICE",
+          "name": "TUS Amy"
+        },
+        {
+          "type": "DEVICE",
+          "name": "TUS Sham"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2035-07-14",
+      "url": "https://clinicaltrials.gov/study/NCT07099092"
+    },
+    {
+      "nct_id": "NCT06015893",
+      "title": "Semaglutide Therapy for Alcohol Reduction (STAR)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Addiction",
+        "Alcohol Use Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Take Control"
+        },
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2030-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06015893"
+    },
+    {
+      "nct_id": "NCT05470504",
+      "title": "Study of Growth Hormone Inhibition Using Pegvisomant in Severe Insulin Resistance",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Insulin Receptor Mutation",
+        "Partial Lipodystrophy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pegvisomant"
+        }
+      ],
+      "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "primary_completion": "2028-01-30",
+      "url": "https://clinicaltrials.gov/study/NCT05470504"
+    },
+    {
+      "nct_id": "NCT07424690",
+      "title": "Catheter Ablation vs Conservative Care in Elderly Patients With Atrial Fibrillation",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atrial Fibrillation (AF)",
+        "Atrial Fibrillation Ablation",
+        "Elderly"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Catheter Ablation for Atrial Fibrillation"
+        },
+        {
+          "type": "DRUG",
+          "name": "Optimized Medical Therapy for Atrial Fibrillation"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Implantable Loop Recorder (ILR)"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "AV Node Ablation With Pacemaker implantation"
+        }
+      ],
+      "sponsor": "Karolinska University Hospital",
+      "primary_completion": "2031-11-01",
+      "url": "https://clinicaltrials.gov/study/NCT07424690"
+    },
+    {
+      "nct_id": "NCT07118397",
+      "title": "Effect of Dry Needling Versus Kinesiology Taping in Patient With Plantar Fasciitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Plantar Fasciitis of Both Feet"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "dry needling"
+        },
+        {
+          "type": "OTHER",
+          "name": "kinesiology taping"
+        }
+      ],
+      "sponsor": "University of Lahore",
+      "primary_completion": "2025-08-10",
+      "url": "https://clinicaltrials.gov/study/NCT07118397"
+    },
+    {
+      "nct_id": "NCT07266090",
+      "title": "A Study to Evaluate the Safety,Tolerability,Pharmacokinetics and Pharmacodynamics of Cenerimod in Adult Chinese Participants With Moderate-to-severe Systemic Lupus Erythematosus (SLE)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "SLE - Systemic Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "cenerimod 4 mg"
+        }
+      ],
+      "sponsor": "Viatris Pharmaceuticals Co., Ltd.",
+      "primary_completion": "2027-10-08",
+      "url": "https://clinicaltrials.gov/study/NCT07266090"
+    },
+    {
+      "nct_id": "NCT06894485",
+      "title": "Sensory Training in Distal Radius Fractures",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Distal Radius Fractures"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Conventional therapy"
+        },
+        {
+          "type": "OTHER",
+          "name": "Sensory Training"
+        }
+      ],
+      "sponsor": "Istanbul University",
+      "primary_completion": "2026-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT06894485"
+    },
+    {
+      "nct_id": "NCT07013513",
+      "title": "Characterising Physiological Resilience in People With Parkinson's Disease",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Parkinson&#39;s Disease (PD)"
+      ],
+      "interventions": [],
+      "sponsor": "University of Nottingham",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07013513"
+    },
+    {
+      "nct_id": "NCT07620353",
+      "title": "Observational Study of OROSEDAL in Sore Throat and Minor Oral Lesions",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Sore Throat",
+        "Aphthous Ulcer",
+        "Oral Lichen Planus",
+        "Minor Mouth Lesion",
+        "Oral Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "OROSEDAL"
+        }
+      ],
+      "sponsor": "Laboratoires Elerte",
+      "primary_completion": "2027-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT07620353"
+    },
+    {
+      "nct_id": "NCT07121439",
+      "title": "Efficacy and Safety of a Combined Serum Containing Melasyl™, 10% Niacinamide, Hyaluronic Acid, and HEPES",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma",
+        "Post-acne Hyperpigmentation"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "a combination serum containing Melasyl™, 10% Niacinamide, Hyaluronic Acid, and HEPES"
+        },
+        {
+          "type": "DRUG",
+          "name": "2% hydroquinone cream"
+        }
+      ],
+      "sponsor": "Dr.dr.Irma Bernadette, SpKK (K)",
+      "primary_completion": "2025-11-28",
+      "url": "https://clinicaltrials.gov/study/NCT07121439"
+    },
+    {
+      "nct_id": "NCT07352930",
+      "title": "A Novel Intraoperative Fluorescence-guided System for Evaluating Margins During Breast-conserving Surgery for Breast Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast-Conserving Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "EndoSCell Scanner (ES Scanner) System"
+        }
+      ],
+      "sponsor": "Guangdong Provincial People's Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07352930"
+    },
+    {
+      "nct_id": "NCT06415175",
+      "title": "Study in Paediatric Patients With Atopic Dermatitis Treated With Dupilumab in Spain",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dupilumab"
+        }
+      ],
+      "sponsor": "Sanofi",
+      "primary_completion": "2026-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT06415175"
+    },
+    {
+      "nct_id": "NCT05662020",
+      "title": "A Study to Evaluate the Immunogenicity and Safety of HPV Vaccine in Healthy Female Participants Aged 9-26 Years in China",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Human Papillomavirus Infection"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Recombinant Nonavalent (types 6/11/16/18/31/33/45/52/58) Human Papillomavirus (HPV) Vaccine (Escherichia coli)"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "GARDASIL® 9"
+        }
+      ],
+      "sponsor": "Beijing Health Guard Biotechnology, Inc",
+      "primary_completion": "2022-11-07",
+      "url": "https://clinicaltrials.gov/study/NCT05662020"
+    },
+    {
+      "nct_id": "NCT06096350",
+      "title": "Nutritional Status in Subacute Stroke Patients Under Rehabilitation 2.0",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Stroke"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "robotic assisted intervention"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "hematochemical analysis"
+        },
+        {
+          "type": "DEVICE",
+          "name": "BIA, hand grip"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "nutritional assessment, MNA,"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "stool sampling"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "urine sampling"
+        },
+        {
+          "type": "DEVICE",
+          "name": "indirect calorimetry analysis"
+        }
+      ],
+      "sponsor": "Fondazione Don Carlo Gnocchi Onlus",
+      "primary_completion": "2025-07",
+      "url": "https://clinicaltrials.gov/study/NCT06096350"
+    },
+    {
+      "nct_id": "NCT06576986",
+      "title": "Effect of Synbiotic Supplementation on the Prevention of Mucositis in Cancer Patients Undergoing Chemotherapy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Colo-rectal Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Symbiotic"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Maltodextrin"
+        }
+      ],
+      "sponsor": "Federal University of Minas Gerais",
+      "primary_completion": "2025-12-12",
+      "url": "https://clinicaltrials.gov/study/NCT06576986"
+    },
+    {
+      "nct_id": "NCT07580521",
+      "title": "Microneedling for Androgenic Alopecia: a Clinical Study",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Androgenic Alopecia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Microneedling monotherapy without drugs"
+        }
+      ],
+      "sponsor": "Taipei Medical University WanFang Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07580521"
+    },
+    {
+      "nct_id": "NCT06807281",
+      "title": "A Long-term Study of the Medicine Called Abrocitinib in Children Aged 2 Years and Older With Moderate to Severe Eczema",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Abrocitinib"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2032-02-22",
+      "url": "https://clinicaltrials.gov/study/NCT06807281"
+    },
+    {
+      "nct_id": "NCT06681636",
+      "title": "Effector and Memory Immune Responses to HPV Vaccination in Vietnamese Women Post Virus Exposure",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "HPV Infection",
+        "Cervical Cancer",
+        "Anogenital Cancer",
+        "Anogenital Warts"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Human papillomavirus 9-valent vaccine, Recombinant"
+        }
+      ],
+      "sponsor": "National Institute of Hygiene and Epidemiology, Vietnam",
+      "primary_completion": "2026-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT06681636"
+    },
+    {
+      "nct_id": "NCT07047898",
+      "title": "The Effect of Dexmedetomidine on Postoperative Cognitive Function in Geriatric Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dexmedetomidine",
+        "Robotic Surgery",
+        "Geriatric Patients"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "The group receiving dexmedetomidine infusion"
+        },
+        {
+          "type": "DRUG",
+          "name": "The group not receiving dexmedetomidine infusion"
+        }
+      ],
+      "sponsor": "Ankara Etlik City Hospital",
+      "primary_completion": "2026-08-11",
+      "url": "https://clinicaltrials.gov/study/NCT07047898"
+    },
+    {
+      "nct_id": "NCT06890039",
+      "title": "A-TANGO Phase 2 Study",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acute-On-Chronic Liver Failure",
+        "Alcoholic Hepatitis",
+        "Liver Cirrhosis, Alcoholic"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "TAK-242"
+        },
+        {
+          "type": "DRUG",
+          "name": "G-CSF (Filgrastim)"
+        }
+      ],
+      "sponsor": "Yaqrit Ltd",
+      "primary_completion": "2026-02-28",
+      "url": "https://clinicaltrials.gov/study/NCT06890039"
+    },
+    {
+      "nct_id": "NCT07260578",
+      "title": "Safety and Efficacy of Ellacor® Micro-coring® Following Best Practices on Technique and Post-Procedural Care",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Best Practices",
+        "Ellacor",
+        "Micro-coring Post Care",
+        "Ellacor Post Care"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "ellacor Micro-Coring Technology"
+        }
+      ],
+      "sponsor": "Cytrellis Biosystems, Inc.",
+      "primary_completion": "2026-05",
+      "url": "https://clinicaltrials.gov/study/NCT07260578"
+    },
+    {
+      "nct_id": "NCT07529249",
+      "title": "Evaluation of Oral Collagen Peptides on Skin Barrier Function in Women",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dry Skin",
+        "Sensitive Skin",
+        "Dry Skin in the Elderly",
+        "Dietary Supplement"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Investigational Product 1"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Investigational Product 2"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Centre de Pharmacologie Clinique Applique a la Dermatologie",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT07529249"
+    },
+    {
+      "nct_id": "NCT07398508",
+      "title": "Phase I/II Study of NORTHERA (DROXIDOPA) for Dysautonomia in Pediatric Survivors of Menkes Disease.",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Menkes Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Droxidopa Oral Product"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo Control"
+        }
+      ],
+      "sponsor": "Stephen G. Kaler",
+      "primary_completion": "2030-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07398508"
+    },
+    {
+      "nct_id": "NCT07019155",
+      "title": "Study of Individuals and Families With Aberrations in DDX41 or Similar Cancer Predisposition Variants",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Germline Mutation",
+        "Myelodysplastic Syndromes",
+        "Acute Myeloid Leukemia"
+      ],
+      "interventions": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2035-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT07019155"
+    },
+    {
+      "nct_id": "NCT07613476",
+      "title": "Pregabalin Phonophoresis for Carpal Tunnel Syndrome Pain",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Carpal Tunnel Syndrome (CTS)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Pregabalin Phonophoresis"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Therapeutic Ultrasound"
+        }
+      ],
+      "sponsor": "University of Faisalabad",
+      "primary_completion": "2026-07-19",
+      "url": "https://clinicaltrials.gov/study/NCT07613476"
+    },
+    {
+      "nct_id": "NCT05237973",
+      "title": "Investigational Use of Neuromuscular Ultrasound",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Muscular Dystrophy",
+        "Peripheral Neuropathy",
+        "Motor Neuron Disorder",
+        "Normal Physiology"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "primary_completion": "2026-08-03",
+      "url": "https://clinicaltrials.gov/study/NCT05237973"
+    },
+    {
+      "nct_id": "NCT06669754",
+      "title": "Study of Oral Deucrictibant Extended-Release Tablet for Prophylaxis Against Angioedema Attacks in Adolescents and Adults With HAE",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hereditary Angioedema (HAE)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Deucrictibant"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Pharvaris Netherlands B.V.",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT06669754"
+    },
+    {
+      "nct_id": "NCT07138222",
+      "title": "IMmune checkPoint Inhibitor Related gonAdal toxiCiTy in Premenopausal Women and Men With Melanoma",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Melanoma (Skin Cancer)"
+      ],
+      "interventions": [],
+      "sponsor": "Peter MacCallum Cancer Centre, Australia",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT07138222"
+    },
+    {
+      "nct_id": "NCT07529977",
+      "title": "Phase 3 Study to Evaluate the Efficacy and Safety of Oral Minoxidil (N1087) in Men With Androgenetic Alopecia.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Androgenetic Alopecia",
+        "Androgenetic Alopecia (AGA)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Minoxidil oral solution"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo oral solution"
+        }
+      ],
+      "sponsor": "Eurofarma Laboratorios S.A.",
+      "primary_completion": "2028-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT07529977"
+    }
+  ],
+  "fetched_at": "2026-06-15T23:12:25.278077"
+}

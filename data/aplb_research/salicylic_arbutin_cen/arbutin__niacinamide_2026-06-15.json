@@ -1,0 +1,320 @@
+{
+  "ingredient_a": "arbutin",
+  "ingredient_b": "niacinamide",
+  "query": "(\"arbutin\"[Title/Abstract] AND \"niacinamide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42089509",
+      "title": "Nitrogen and Sulfur Codoped Carbon Dots Synergize Tyrosinase Inhibition, ROS Scavenging, and UVB Shielding to Rebalance Photodamage and Pigmentation.",
+      "abstract": "Conventional depigmenting agents suppress tyrosinase to reduce melanin but can compromise endogenous photoprotection, resulting in a persistent trade-off between whitening efficacy and UV resilience. Here, we engineer sulfur codoped carbon dots derived from arbutin and niacinamide (N, S-ANCD) to integrate enzymatic inhibition, ROS management, and UVB attenuation within a single ultrasmall nanoplatform. Spectroscopic characterization confirms sulfur incorporation and defect-enriched surface states that broaden UV absorption and favor nonradiative energy dissipation. N, S-ANCD exhibits strengthened tyrosinase inhibition and enhanced DPPH/ABTS radical quenching in vitro while maintaining low cytotoxicity and good hemocompatibility. In zebrafish, N, S-ANCD reduces melanin deposition within a defined safety window and mitigates UVB-induced tail-fin injury in both prevention and posttreatment paradigms. Mechanistically, N, S-ANCD lowers ROS accumulation and lipid peroxidation, restores antioxidant enzyme activities, and reduces injury-associated fluorescence signals consistent with attenuated cell stress. Transcriptomic profiling further indicates coordinated reversal of UV-activated inflammatory and ferroptosis-related programs and normalization of extracellular matrix/adhesion remodeling toward tissue homeostasis. Together, these results demonstrate that sulfur codoped carbon dots enable low-dose depigmentation while maintaining photoprotection, and highlight defect- and surface-state modulation as a viable design principle for multifunctional cosmetic nanomaterials.",
+      "year": "2026",
+      "journal": "ACS applied materials & interfaces",
+      "authors": [
+        "Chen Guanghao",
+        "Fan Penghui",
+        "Cai Xinyu",
+        "Li Pengzhen",
+        "Fang Liming"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Ultraviolet Rays",
+        "Monophenol Monooxygenase",
+        "Carbon",
+        "Reactive Oxygen Species",
+        "Sulfur",
+        "Nitrogen",
+        "Quantum Dots",
+        "Melanins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42089509/"
+    },
+    {
+      "pmid": "41537948",
+      "title": "Egyptian National Consensus on Dermocosmetic Ingredient Selection Across Common Dermatology Scenarios: A RAND/UCLA Appropriateness Study.",
+      "abstract": "Dermocosmetics are widely used to complement dermatologic care, yet context-specific guidance remains limited for populations with Fitzpatrick skin types III-V. We convened a national expert panel to generate transparent, reproducible recommendations across ten common clinical scenarios.",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Rageh Mahmoud A",
+        "Seoudy Wael M",
+        "Abozeid Mohamed F",
+        "Elkholy Abeer Mohamed",
+        "Moubasher Alaa E A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41537948/"
+    },
+    {
+      "pmid": "40705370",
+      "title": "Quantifying alpha arbutin and niacinamide from nanocosmeceutical formulation matrix: AQbD driven high-performance thin-layer chromatographic method.",
+      "abstract": "The combined therapy of alpha arbutin, a natural derivative of hydroquinone, and niacinamide is well-regarded in skincare science. It leverages the unique properties of both actives, providing a multifaceted solution to esthetic and therapeutic skin concerns and supporting a comprehensive approach to skincare.",
+      "year": "2025",
+      "journal": "Drug development and industrial pharmacy",
+      "authors": [
+        "Patel Mrunali",
+        "Kotak Vishwa",
+        "Patel Rashmin"
+      ],
+      "mesh_terms": [
+        "Niacinamide",
+        "Arbutin",
+        "Chromatography, Thin Layer",
+        "Reproducibility of Results",
+        "Chromatography, High Pressure Liquid",
+        "Chemistry, Pharmaceutical"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40705370/"
+    },
+    {
+      "pmid": "40626342",
+      "title": "Clinical Efficacy of a Novel Topical Formulation on Periorbital Dark Circles: An Objective Analysis.",
+      "abstract": "Hyperpigmentation and periorbital dark circles remain challenging dermatological concerns due to their multifactorial etiology, including vascular, pigmentary, and structural components. This study evaluates the efficacy of a novel multi-action topical formulation designed to target hyperpigmentation and skin aging through a synergistic blend of active ingredients.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Brady Robert Thomas",
+        "Shah-Desai Sabrina"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hyperpigmentation",
+        "Middle Aged",
+        "Female",
+        "Adult",
+        "Skin Aging",
+        "Administration, Cutaneous",
+        "Skin Pigmentation",
+        "Treatment Outcome",
+        "Dermatologic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40626342/"
+    },
+    {
+      "pmid": "40091954",
+      "title": "Comparative Efficacy of Skin-Lightening Formulations in Suppressing Ultraviolet B (UVB)-Induced Arachidonic Acid, Alpha-Melanocyte-Stimulating Hormone (α-MSH), and Melanin Expression: An In Vitro Keratinocyte-Melanocyte Co-culture Study.",
+      "abstract": "Melasma is a chronic hyperpigmentary disorder exacerbated by sun exposure, characterized by asymptomatic hyperpigmented macules and patches. Its pathogenesis involves ultraviolet B (UVB)-induced activation of melanogenesis pathways, including arachidonic acid (AA) metabolism, alpha-melanocyte-stimulating hormone (α-MSH) secretion, and melanin synthesis. This study aimed to evaluate the efficacy of a multi-ingredient skin-lightening formulation (3% tranexamic acid, 2% ascorbyl glucoside, 2.5% arbutin, and 5% niacinamide) compared to a 10% vitamin C preparation and 4% hydroquinone (HQ) in suppressing UVB-induced AA, α-MSH, and melanin production in a keratinocyte-melanocyte co-culture model.",
+      "year": "2025",
+      "journal": "Cureus",
+      "authors": [
+        "Ribero Simone",
+        "Romani Andrea",
+        "Mattozzi Carlo",
+        "Minoretti Piercarlo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40091954/"
+    },
+    {
+      "pmid": "38910501",
+      "title": "Integrating Skincare into Medical Practice.",
+      "abstract": "The integration of skincare into medical practice can enhance patient care. Understanding the anatomy and physiology of the skin is the foundation for effective skincare interventions. Genetic and inflammatory conditions play a significant role in aesthetic skin physiology. There are key active ingredients that are pivotal in addressing various skin concerns. Sunscreens provide crucial protection against UV radiation, while pigment control agents such as hydroquinone, kojic acid, and arbutin target the melanin pathway. Exfoliating agents and skin turnover enhancers such as retinoids and hydroxy acids promote skin renewal and rejuvenation. In addition, ingredients such as hyaluronic acid, ceramides, niacinamide, antioxidants, peptides, and botanicals contribute to improving skin quality. Adding skincare to medical practice requires careful product selection, patient education, and marketing strategies.",
+      "year": "2024",
+      "journal": "International ophthalmology clinics",
+      "authors": [
+        "Nakra Tanuj"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Care",
+        "Sunscreening Agents",
+        "Skin Aging",
+        "Skin Diseases",
+        "Dermatologic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38910501/"
+    },
+    {
+      "pmid": "35098294",
+      "title": "Simultaneous HPLC Determination of Arbutin, Niacinamide and 3-O-Ethyl Ascorbic Acid in Whitening Cream Products in the Presence of Parabens.",
+      "abstract": "Arbutin, niacinamide and 3-O-ethyl ascorbic acid (a new generation of vitamin C derivatives) are compounds that have a whitening effect on skin and are widely used in whitening cream products wherein parabens such as methyl paraben, ethyl paraben, propyl paraben and butyl paraben are also often added as preservatives. This study aims to develop a validated high-performance liquid chromatography (HPLC) method that can be used to determine arbutin, niacinamide and 3-O-ethyl ascorbic acid simultaneously in whitening cream products without interference from the parabens. The optimum conditions for the HPLC system were obtained using ODS-3 RP-C18 Inertsil column, mobile phase consisting of a mixture of aquabides, methanol and acetonitrile with gradient elution mode. Detection was carried out using a UV detector at 220 nm. Validation studies demonstrated a good linearity for all analytes over each range concentration with a correlation coefficient >0.999 and Vx0 < 2%. The accuracy test also met the requirements with the recoveries being 96.93-99.55%, 98.60-99.73% and 97.88-100.63% for arbutin, niacinamide and 3-O-ethyl ascorbic acid, respectively. Intra-day and inter-day precision test gave a relative standard deviation (% RSD) of <2% along with a HorRat value of <2 for all analytes. The results of this study indicate that the developed HPLC method has a good selectivity, linearity, accuracy and precision. Due to its simplicity, the method can be used to analyze arbutin, niacinamide and 3-O-ethyl ascorbic acid in the presence of parabens in whitening cream products simultaneously.",
+      "year": "2023",
+      "journal": "Journal of chromatographic science",
+      "authors": [
+        "Permana Benny",
+        "Hasanah Mutiara",
+        "Tursino"
+      ],
+      "mesh_terms": [
+        "Parabens",
+        "Chromatography, High Pressure Liquid",
+        "Arbutin",
+        "Niacinamide",
+        "Ascorbic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35098294/"
+    },
+    {
+      "pmid": "34114938",
+      "title": "Emerging topical therapies to treat pigmentary disorders: an evidence-based approach.",
+      "abstract": "Hyperpigmentation disorders are commonly encountered in dermatology clinics. The use of prescription-grade and over-the-counter topical lightening agents has increased in popularity, leading to a substantial growth of research over the past decade.",
+      "year": "2022",
+      "journal": "The Journal of dermatological treatment",
+      "authors": [
+        "Hu Sophia",
+        "Laughter Melissa R",
+        "Anderson Jaclyn B",
+        "Sadeghpour Mona"
+      ],
+      "mesh_terms": [
+        "Ascorbic Acid",
+        "Humans",
+        "Hyperpigmentation",
+        "Retinoids",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34114938/"
+    },
+    {
+      "pmid": "33022197",
+      "title": "Evaluating the Safety and Efficacy of a Topical Formulation Containing Epidermal Growth Factor, Tranexamic Acid, Vitamin C, Arbutin, Niacinamide and Other Ingredients as Hydroquinone 4% Alternatives to Improve Hyperpigmentation: A Prospective, Randomized, Controlled Split Face Study.",
+      "abstract": "Hyperpigmentation is a common concern of patients in aesthetic practice. There are various treatment options, but topical depigmenting agents such as hydroquinone (HQ) are usually a first-line option. Given HQ's side effects and potential controversy over its long-term use from prior animal studies, there is a consumer demand for non-HQ topical formulations that provide similar efficacy, but with a reduced adverse reaction profile to HQ. There is increasing evidence to support the use of selective growth factors, tranexamic acid, niacinamide, arbutin, and Vitamin C in improving hyperpigmentation. This study sought to determine whether a non-HQ topical formulation, composed of the aforementioned ingredients, could provide similar or improved efficacy to topical HQ, but with a reduced adverse reaction profile. This single-center, prospective, randomized, controlled split face study investigated the safety and efficacy of a proprietary product SKNB19 compared with hydroquinone 4% (HQ4%) in treating hyperpigmentation. Eighteen adult subjects with facial pigmentation were randomly assigned to have one side of their face treated with SKNB19 twice a day (morning and night application) and the other treated with HQ4% applied nightly. Patients used a 5-point scale to self-assess their overall appearance, and a 4-point scale to assess redness, irritation, and tolerability to the skin-brightening creams. A Wilcoxon signed-rank test was used to test whether there was a statistical difference between the two treatments. Three-dimensional imaging was performed before treatment was administered and again 1 month following treatment initiation using a Canfield Vectra 3D imaging system. Five independent reviewers comprising two dermatologists, two facial plastic surgeons, and one oculoplastic surgeon graded and performed a qualitative comparative assessment of each side of the face using the before and after images. A Wilcoxon signed-rank test was used to test whether there was a statistical difference in overall appearance between SKNB19- and HQ4%-treated sides. SKNB19-treated hyperpigmentation had a statistically significant improvement in the overall appearance of hyperpigmentation and was shown to be 28.5% better than HQ4%-treated skin in the patient self-assessment and 27% better than HQ4%-treated skin in the independent reviewer assessment. On pair-wise comparison, the independent reviewer assessment also showed that 88.2% of the SKNB19-treated sides appeared equal or better than the HQ4%-treated sides. One patient dropped out of the study because of severe intolerance to HQ4%. No patients experienced intolerance to SKNB19, and all were able to continue its use without adverse effects. SKNB19-treated hyperpigmentation also had a statistically significant reduction in irritation when compared with HQ4%-treated hyperpigmentation. Patients reported a reduction in redness when using SKNB19 as opposed to HQ4%, but these figures did not reach statistical significance. This study supports that SKNB19, a recently developed non-HQ proprietary product, is safe and effective in improving hyperpigmentation. SKNB19 significantly improved the appearance of hyperpigmentation when compared with HQ4% in both patient self-assessment and independent reviewer assessment. SKNB19 exhibited a lower adverse reaction profile and was significantly better tolerated than HQ4%. SKNB19 should be considered as a safe and effective non-HQ alternative for the management of hyperpigmentation.",
+      "year": "2020",
+      "journal": "Journal of cosmetic science",
+      "authors": [
+        "Kalasho Brandon D",
+        "Minokadeh Ardalan",
+        "Zhang-Nunes Sandy",
+        "Zoumalan Richard A",
+        "Shemirani Nima L"
+      ],
+      "mesh_terms": [
+        "Arbutin",
+        "Ascorbic Acid",
+        "Dermatologic Agents",
+        "Epidermal Growth Factor",
+        "Humans",
+        "Hydroquinones",
+        "Hyperpigmentation",
+        "Niacinamide",
+        "Prospective Studies",
+        "Tranexamic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33022197/"
+    },
+    {
+      "pmid": "32472659",
+      "title": "Management of periorbital hyperpigmentation: An overview of nature-based agents and alternative approaches.",
+      "abstract": "Periorbital hyperpigmentation (POH) is a common dermatological condition that presents as dark periorbital area beneath the lower eyelids, and it is commonly found in females belonging to the age group of 16 to 45 years. The data presented in this review include studies conducted on patients with a clinical/histological diagnosis of POH or melasma. Many diverse topical depigmenting agents comprising an array of naturally obtained actives such as arabinoxylans, α-arbutin, asiaticoside, azelaic acid, beta-carotene, boswellic acid, caffeine, chrysin, curcumin, cyanidin-3-glucoside, d-glucoronic acid, dihydrochalcone, dipalmitoyl-hydroxyprolene, fucoxanthin, genistein, glabridin, b-glucogallin, hyaluronic acid, lactic acid, lycopene, niacinamide, pycnogenol, retinol, salidroside, and xymenynic acid demonstrated significant benefits in the management of POH. An exhaustive literature search revealed that other techniques such as blepharoplasty, carboxytherapy, calcium hydroxylapatite fillers, tear trough implant, Q-switched ruby laser, medicated tattoo, fat transfer, micro-needling, chemical peels, nitrogen plasma skin regeneration, intense pulsed light, and radiofrequency have been evaluated and reported to be beneficial in the treatment of POH. The use of topical depigmenting agents is the most widely reported method in the clinical management of POH. Of these, α-arbutin, caffeine, cyanidin-3-glucoside, and dihydrochalcone are reported to exhibit significant benefits. Combination products containing a blend of actives are reported to be better than single active containing products. This review aims to provide a comprehensive perspective on the role of several topical actives in the modulation of melanin and tyrosinase biosynthesis pathway involved in the complex pathophysiology of POH. It also presents the advantages of combination products and other alternative therapies used in the management of POH.",
+      "year": "2020",
+      "journal": "Dermatologic therapy",
+      "authors": [
+        "Sawant Omkar",
+        "Khan Tabassum"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Blepharoplasty",
+        "Chemexfoliation",
+        "Eyelids",
+        "Female",
+        "Humans",
+        "Hyperpigmentation",
+        "Melanosis",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32472659/"
+    },
+    {
+      "pmid": "31741361",
+      "title": "Topical Treatments for Melasma: A Systematic Review of Randomized Controlled Trials.",
+      "abstract": "Background: Melasma is an acquired skin disease characterized by symmetric hyperpigmentation on sun-exposed areas, particularly on the face. Recently, there has been tremendous scientific interest in novel, safe, and effective topical agents to manage melasma. Objective: To evaluate topical treatments for melasma and provide evidence-based recommendations for clinical use and further research. Methods: We performed a systematic review of randomized controlled trials (RCTs) on topical agents for the treatment of melasma on March 4th, 2019 using PRISMA guidelines. Clinical recommendations were based on the American College of Physicians guidelines. Results: After screening, we identified 35 original RCTs using azelaic acid, cysteamine, epidermal growth factor, hydroquinone (liposomal-delivered), lignin peroxidase, mulberry extract, niacinamide, Rumex occidentalis, triple combination therapy, tranexamic acid, 4-n-butylresorcinol, glycolic acid, kojic acid, aloe vera, ascorbic acid, dioic acid, ellagic acid and arbutin, flutamide, parsley, or zinc sulfate for melasma. Conclusions: Cysteamine, triple combination therapy, and tranexamic acid received strong clinical recommendations for the treatment of melasma. Cysteamine has excellent efficacy and is reported to have anti-cancer properties, but has not been directly compared with hydroquinone. Triple combination agents and tranexamic acid are effective, but carry theoretical risks for ochronosis and thrombosis, respectively. Natural compounds are associated with low risk for adverse events, but more research is needed to determine the efficacy, optimal formulation, and appropriate concentration of novel treatments. J Drugs Dermatol. 2019;18(11):1156-1171.",
+      "year": "2019",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Austin Evan",
+        "Nguyen Julie K.",
+        "Jagdeo Jared"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Dermatologic Agents",
+        "Humans",
+        "Melanosis",
+        "Practice Guidelines as Topic",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31741361/"
+    },
+    {
+      "pmid": "31664751",
+      "title": "Randomized control trial outcomes of tranexamic acid combination serum as a depigmenting agent for the use in healthy individuals.",
+      "abstract": "To compare the effectiveness of tranexamic acid (TA) combination serum with hydroquinone, the gold standard in whitening agents for healthy populations. This was a three-arm randomized controlled trial. The subjects were divided into three groups: the first group received 3% TA combination serum (3% TA, 4% galactomyces ferment filtrate, 2% niacinamide, and 4% alpha arbutin), the second group received 2% TA combination serum, and the third group received 4% hydroquinone. One milliliter of each serum was applied on three holes: Hole A, which was located 4 cm from the left cubital fossa, Hole B, which was located 4 cm from the first hole, and Hole C, which was located 4 cm from the right cubital fossa. The skin brightness and pigmentation intensity were evaluated each week for 4 weeks using a chromameter. A total of 44 subjects were recruited for this study. All groups showed a significant improvement in skin brightness and pigmentation intensity after 4 weeks (p < .001). There were no differences between the treatment groups and hydroquinone (p > .05). TA serum (2 and 3%) combined with 4% galactomyces ferment filtrate, niacinamide, and alpha arbutin is an effective depigmenting agent.",
+      "year": "2019",
+      "journal": "Dermatologic therapy",
+      "authors": [
+        "Anwar Anis I",
+        "Wahab Siswanto",
+        "Widita Widya",
+        "Nurdin Airin R",
+        "Budhiani Suci"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Arbutin",
+        "Humans",
+        "Hydroquinones",
+        "Middle Aged",
+        "Niacinamide",
+        "Saccharomycetales",
+        "Skin Lightening Preparations",
+        "Skin Pigmentation",
+        "Tranexamic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31664751/"
+    },
+    {
+      "pmid": "31269882",
+      "title": "Depigmentation and Anti-aging Treatment by Natural Molecules.",
+      "abstract": "Natural molecules are becoming more accepted choices as cosmetic agents, many products in the market today claim to include natural components. Plants include many substances that could be of a value in the whitening of the skin and working as anti-aging agents. A wide range of articles related to natural skin whitening and anti-aging agents have been reviewed. Many plant-derived and natural molecules have shown to affect melanin synthesis by different mechanisms, examples include Arbutin, Ramulus mori extract, Licorice extract, Glabridin, Liquiritin, Kojic acid, Methyl gentisate, Aloesin, Azelaic acid, Vitamin C, Thioctic acid, Soya bean extracts, Niacinamide, α and β-hydroxy acids, Lactic acid, Chamomile extract, and Ellagic acid. Some of the widely used natural anti-aging products as natural antioxidants, collagen, hyaluronic acid, and coenzyme Q can counteract the effects of reactive oxygen species in skin cells and have anti-aging properties on the skin. It was concluded that many natural products including antioxidants can prevent UV-induced skin damage and have whitening and anti-aging effects. It is very important to develop and stabilize appropriate methods for the evaluation of the whitening and anti-aging capacity of natural products and their exact mechanism of action to ensure real efficacy based on evidence-based studies. The attention should be oriented on the formulations and the development of an appropriate vehicle to ensure suitable absorption of these natural products in addition to evaluating the suitable concentration of these molecules required having the desired effects without causing harmful side effects.",
+      "year": "2019",
+      "journal": "Current pharmaceutical design",
+      "authors": [
+        "Zaid Abdel Naser",
+        "Al Ramahi Rowa'"
+      ],
+      "mesh_terms": [
+        "Antioxidants",
+        "Humans",
+        "Plant Extracts",
+        "Skin",
+        "Skin Aging",
+        "Skin Pigmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31269882/"
+    },
+    {
+      "pmid": "30519376",
+      "title": "Split-face Evaluation of a Multi-ingredient Brightening Foam Versus a Reference Control in Women with Photodamaged Facial Skin.",
+      "abstract": null,
+      "year": "2018",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "Stephens Thomas J",
+        "Babcock Michael",
+        "Bucay Vivian",
+        "Gotz Vincent"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30519376/"
+    },
+    {
+      "pmid": "29552273",
+      "title": "Are Natural Ingredients Effective in the Management of Hyperpigmentation? A Systematic Review.",
+      "abstract": null,
+      "year": "2018",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "Hollinger Jasmine C",
+        "Angra Kunal",
+        "Halder Rebat M"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29552273/"
+    }
+  ],
+  "crawled_at": "2026-06-15T23:12:34.474060"
+}

@@ -1,0 +1,338 @@
+{
+  "ingredient_a": "niacinamide",
+  "ingredient_b": "hyperpigmentation",
+  "query": "(\"niacinamide\"[Title/Abstract] AND \"hyperpigmentation\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42220732",
+      "title": "Successful Therapeutic Approach to Facial Hyperpigmentation Secondary to Addison's Disease: A Case Report and Literature Review.",
+      "abstract": "Addison's disease, or primary adrenal insufficiency, is a rare endocrine disorder characterized by deficient glucocorticoid and mineralocorticoid production, frequently associated with cutaneous hyperpigmentation due to chronic elevation of adrenocorticotropic hormone. Facial hyperpigmentation may persist despite adequate hormonal replacement, representing a therapeutic challenge with limited evidence to guide dermatologic management. We report the case of a 41-year-old female patient with an eight-year history of progressive hyperpigmentation affecting the face, hands, and oral mucosa. Physical examination revealed severe facial involvement with brown-violaceous macules and associated telangiectasias. The patient had a prior diagnosis of autoimmune ovarian failure in 2017 and was diagnosed with Addison's disease in 2020, receiving stable glucocorticoid replacement therapy. Histopathological evaluation demonstrated basal layer hyperpigmentation without interface dermatitis, consistent with endocrine-related pigmentation and overlapping melasma features. A multimodal therapeutic approach was implemented, including picosecond Nd:YAG laser therapy (approximately seven sessions at six- to eight-week intervals), oral tranexamic acid (250 mg twice daily), and a topical depigmenting regimen containing tranexamic acid, niacinamide, retinoids, and antioxidants. The patient demonstrated a significant reduction in modified Melasma Area and Severity Index score from 19.8 to 7.8 (60.6% reduction), along with a marked improvement in quality of life, as evidenced by a posttreatment Melasma Quality of Life Scale score of 20/70. This case highlights that persistent hyperpigmentation in Addison's disease may not fully resolve with endocrine treatment alone and may require adjunctive dermatologic interventions. A personalized, multimodal strategy targeting multiple pathogenic pathways, including melanogenesis, plasmin-mediated signaling, vascular factors, and dermal pigment deposition, can achieve significant improvement, even in patients with darker phototypes and long-standing disease. These findings underscore the importance of a multidisciplinary approach and suggest a potential role for combination therapies, including laser-based modalities, in managing complex pigmentary disorders associated with systemic conditions. Further studies are needed to establish standardized treatment protocols and evaluate long-term outcomes.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Colorado Franco Laura A",
+        "Villamizar Melanie",
+        "Caceres Cindy Lorena",
+        "González Ardila César",
+        "Holguín Molina Angie Julieth"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42220732/"
+    },
+    {
+      "pmid": "42152519",
+      "title": "Multitargeted Modulation of Skin Dullness by HNHT Formulation: Synergistic Inhibition of Melanogenesis, Glycation, and Lipofuscin Deposition.",
+      "abstract": "Skin dullness, characterized by pigmentation disorders and yellowing, is a major cosmetic concern in Asian populations. Lipofuscin exhibits ultraviolet (UV)/visible light spectral absorption, reduces skin reflectance, and contributes to dullness, whereas existing therapies targeting melanogenesis and glycation lack comprehensive efficacy. This study aimed to evaluate the multimodal anti-dullness effects of a novel formulation (HNHT: hyaluronic acid, niacinamide, hydrolyzed red algae, and tranexamic acid).",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Wang Zheng",
+        "Fan Yumei",
+        "Ling Peixue"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanins",
+        "Melanocytes",
+        "Lipofuscin",
+        "Skin Pigmentation",
+        "Skin",
+        "Ultraviolet Rays",
+        "Glycosylation",
+        "Keratinocytes",
+        "Niacinamide"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42152519/"
+    },
+    {
+      "pmid": "42087526",
+      "title": "International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Medical Aesthetic Procedures to Enhance Skin Benefits.",
+      "abstract": "Integrated skincare (ISC) combines dermocosmetics with medical aesthetic procedures to improve outcomes. However, guidance on selecting appropriate active ingredients across different procedure types and phases remains limited.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Bjerring Peter",
+        "Draelos Zoe D",
+        "Fabi Sabrina G",
+        "Goodman Greg J",
+        "Hau Kwun Cheun"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Consensus",
+        "Skin Care",
+        "Cosmetic Techniques",
+        "Delphi Technique",
+        "Skin Aging",
+        "Dermatologic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42087526/"
+    },
+    {
+      "pmid": "41832625",
+      "title": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
+      "abstract": "Excess melanin deposition causes hyperpigmentation, a common dermatological disorder that leads to skin discoloration and an uneven skin tone. Traditional therapies such as topical creams and chemical peels have limitations due to insufficient skin penetration, lengthy treatment durations, and potential adverse effects. Transdermal drug administration has emerged as a viable alternative, offering improved therapeutic effectiveness, sustained release, and enhanced drug absorption. Among transdermal systems, microneedle-based patches have gained significant interest because of their ability to deliver active compounds directly through the skin, bypassing the stratum corneum. This study examines recent advancements in transdermal delivery for hyperpigmentation treatment, with a focus on dissolving microneedle (DMN) patches. Research indicates that DMN patches containing niacinamide, glabridin, and tranexamic acid exhibit greater skin-lightening effects than traditional topical formulations. Clinical studies have validated their safety, efficacy, and ability to reduce melasma and post-inflammatory hyperpigmentation with minimal side effects. Furthermore, novel polymeric formulations enhance drug absorption and stability, optimizing therapeutic outcomes. The use of multifunctional components, targeting tyrosinase inhibition, oxidative stress reduction, and melanin transfer, further improves depigmentation efficacy. The paper also highlights how emerging carriers, such as tetrahedral framework nucleic acids (tFNAs), may enhance drug delivery efficiency. As transdermal technologies continue to advance, microneedlebased approaches hold strong potential to transform hyperpigmentation treatment by providing a highly effective, non-invasive, and patient-friendly therapeutic option. Future research should focus on expanding clinical applications and refining formulation parameters to maximize benefits across diverse skin types.",
+      "year": "2026",
+      "journal": "Recent advances in drug delivery and formulation",
+      "authors": [
+        "Yadav Ayushi",
+        "Gupta Nakul",
+        "Alam Md Sarfaraz",
+        "Thakur Shreyasi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41832625/"
+    },
+    {
+      "pmid": "41656621",
+      "title": "A 50+ Sunscreen Containing Polypodium Leucotomos Extract, Ellagic Acid, and Niacinamide in Facial Melasma and Photoaging-Related Hyperpigmentation: A Pilot Observational Study Using Line-Field Confocal Optical Coherence Tomography.",
+      "abstract": "Melasma is an acquired facial hyperpigmentation disorder that disproportionately affects sun-exposed areas. Current treatments show limited efficacy and tolerability.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Villani Alessia",
+        "Genco Lucia",
+        "Coronella Luigi",
+        "Ventura Valentina",
+        "Milani Massimo"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Pilot Projects",
+        "Sunscreening Agents",
+        "Adult",
+        "Ellagic Acid",
+        "Niacinamide",
+        "Middle Aged",
+        "Prospective Studies",
+        "Melanosis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41656621/"
+    },
+    {
+      "pmid": "41603476",
+      "title": "Solvent-free green preparation of niacinamide niosomes for targeting UVB-induced hyperpigmentation: QbD-based optimisation and ",
+      "abstract": "Hyperpigmentation is often driven by ultraviolet (UV)-induced inflammation and melanogenesis. This study aimed to develop a novel, eco-friendly niacinamide (NIA) nano-delivery system to overcome the skin barrier and effectively target both inflammation and pigmentation associated with ultraviolet B (UVB) damage. Employing a Quality-by-Design (QbD) approach, we utilised a D-optimal response surface design to fabricate and optimise solvent-free niacinamide niosomes (NIA-NIs). Particle size (PS) was minimised and zeta potential (ZP) maximised for enhanced stability and skin penetration using novel complete solvent-free ultrasonication method. Morphology was confirmed by transmission electron microscopy (TEM). The therapeutic efficacy of the optimised formulation was validated in a rat-UVB-induced skin-damage model, with outcomes assessed through histopathological examination and inflammatory cytokine quantification. The optimised NIA-NIs exhibited a nano-size of 272 nm ± 9.5 and a high negative charge ZP of -26.9 mV ± 1.2. TEM confirmed spherical morphology and nano-scale size. The niosomal formulation demonstrated profound ",
+      "year": "2026",
+      "journal": "Journal of drug targeting",
+      "authors": [
+        "Aldawsari Hibah M",
+        "Badr-Eldin Shaimaa M",
+        "Bakhaidar Rana",
+        "El-Gazayerly Omaima N",
+        "Abdelhakeem Eman"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41603476/"
+    },
+    {
+      "pmid": "41537948",
+      "title": "Egyptian National Consensus on Dermocosmetic Ingredient Selection Across Common Dermatology Scenarios: A RAND/UCLA Appropriateness Study.",
+      "abstract": "Dermocosmetics are widely used to complement dermatologic care, yet context-specific guidance remains limited for populations with Fitzpatrick skin types III-V. We convened a national expert panel to generate transparent, reproducible recommendations across ten common clinical scenarios.",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Rageh Mahmoud A",
+        "Seoudy Wael M",
+        "Abozeid Mohamed F",
+        "Elkholy Abeer Mohamed",
+        "Moubasher Alaa E A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41537948/"
+    },
+    {
+      "pmid": "41319172",
+      "title": "Synergistic effects of niacinamide and low pH on melanin synthesis, melanocyte function and hyperpigmentation: In vitro and clinical insights.",
+      "abstract": "Niacinamide is a well-established ingredient known for reducing hyperpigmentation by inhibiting melanosome transfer from melanocytes to keratinocytes. This study aimed to explore the potential synergistic effects of niacinamide and low pH in melanogenesis pathways and their impact on skin hyperpigmentation in clinical trials.",
+      "year": "2026",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Hakozaki Tomohiro",
+        "Laughlin Timothy",
+        "Zhao Wenzhu",
+        "Deng Gang",
+        "Wang Jiazhen"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanins",
+        "Melanocytes",
+        "Female",
+        "Hydrogen-Ion Concentration",
+        "Niacinamide",
+        "Hyperpigmentation",
+        "Adult",
+        "Drug Synergism"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41319172/"
+    },
+    {
+      "pmid": "41307217",
+      "title": "Emerging topical therapies for melasma: a comparative analysis of efficacy and safety.",
+      "abstract": "Melasma, a prevalent acquired hypermelanosis, significantly impacts psychological well-being. It presents as irregular, bilateral patches of brown or gray skin discoloration and currently lacks a curative treatment. Management focuses on controlling disease progression and preventing further hyperpigmentation through photoprotection, topical and oral medications, and dermatological procedures such as chemical peels, lasers, and microneedling.",
+      "year": "2025",
+      "journal": "The Journal of dermatological treatment",
+      "authors": [
+        "Suliman Rasha Saad",
+        "Alhuwayshil Jinan",
+        "Almuflehi Amal Ahmed",
+        "Al Zaghir Aya Khaldoon",
+        "Alateqi Hanan Awadh"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanosis",
+        "Dermatologic Agents",
+        "Treatment Outcome",
+        "Administration, Cutaneous",
+        "Hydroquinones",
+        "Severity of Illness Index",
+        "Randomized Controlled Trials as Topic",
+        "Tranexamic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41307217/"
+    },
+    {
+      "pmid": "41240206",
+      "title": "An Investigator-Blinded, Randomized Trial of a Broad-Spectrum Sunscreen Containing Sclareolide and Niacinamide for the Prevention of Post-inflammatory Hyperpigmentation in Skin of Color.",
+      "abstract": "Post-inflammatory hyperpigmentation (PIH) is common and distressing in skin of color. Ultraviolet (UV) radiation and visible light (VL) exacerbate PIH, yet most sunscreens do not target the oxidative and inflammatory pathways that drive it. This study evaluated a broad-spectrum sunscreen with sclareolide and niacinamide for mitigating PIH induced by combined UV/VL exposure and inflammatory stimuli.",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Passeron Thierry",
+        "Brown Anthony",
+        "Furmanczyk Marta",
+        "Foyaca Monica",
+        "Trullas Carles"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41240206/"
+    },
+    {
+      "pmid": "41226757",
+      "title": "Over-Represented Senescent Keratinocytes in Hyperpigmented Spots Promote Melanocyte Activation via IGFBP3 and NGF.",
+      "abstract": "The occurrence and impact of cellular senescence on skin aging and hyperpigmentation is an ongoing area of exploration, encompassing both intrinsic and extrinsic stressors. Traditionally, research has focused on melanocyte and fibroblast senescence due to their slower turnover compared to keratinocytes. In this study, we identified the accumulation of p16, a senescence marker, in keratinocytes from biopsies of multiple spot types. We explored their impact using doxorubicin-induced senescent keratinocytes in vitro. Conditioned media from these senescent keratinocytes stimulated melanocyte dendricity, a hallmark of hyperpigmented spots. Transcriptomic analysis of senescent keratinocytes identified two key senescence-induced factors: Insulin-like Growth Factor-Binding Protein 3 (",
+      "year": "2025",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Hakozaki Tomohiro",
+        "Rovito Holly",
+        "Jarrold Bradley B",
+        "Snowball John",
+        "Wang Jiazhen"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Keratinocytes",
+        "Melanocytes",
+        "Cellular Senescence",
+        "Insulin-Like Growth Factor Binding Protein 3",
+        "Nerve Growth Factor",
+        "Hyperpigmentation",
+        "Cells, Cultured",
+        "Doxorubicin",
+        "Melanins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41226757/"
+    },
+    {
+      "pmid": "41118451",
+      "title": "New Insights Into Advanced Glycation End Products Induced Melanogenesis and Intervention Strategies.",
+      "abstract": "Skin hyperpigmentation refers to areas of skin that become darker than the surrounding skin due to an increase in melanin production, which greatly impacts skin esthetics. UV exposure, intrinsic hormonal changes, or injury are the general causes of hyperpigmentation. Recently, studies indicated that advanced glycation end products (AGEs) contribute to hyperpigmentation. However, detailed mechanisms involved in this process as well as therapeutic solutions are yet to be explored.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Yang Xi",
+        "You Mengqi",
+        "Zhou Huanjun",
+        "Li Zhen",
+        "He Guangwen"
+      ],
+      "mesh_terms": [
+        "Glycation End Products, Advanced",
+        "Humans",
+        "Melanins",
+        "Melanocytes",
+        "Monophenol Monooxygenase",
+        "Hyperpigmentation",
+        "Plant Extracts",
+        "Fibroblasts",
+        "Cells, Cultured",
+        "Melanogenesis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41118451/"
+    },
+    {
+      "pmid": "41088896",
+      "title": "Exploring Niacinamide as a Multifunctional Agent for Skin Health and Rejuvenation.",
+      "abstract": "Niacinamide, a water-soluble derivative of vitamin B3, has emerged as a versatile compound with wide-ranging therapeutic potential in dermatology. This review critically examines its formulation strategies, mechanisms of action, clinical benefits, safety profile, and advancements in delivery technologies. Niacinamide exhibits anti-inflammatory, antioxidant, and barrier-strengthening properties, making it valuable in the treatment of acne, rosacea, hyperpigmentation, and skin aging. It regulates sebum secretion, diminishes inflammatory lesions, supports collagen production, and protects against photoaging. Clinical studies affirm its effectiveness in enhancing skin tone, texture, and barrier integrity, with minimal adverse effects, even with prolonged use. Innovations in drug delivery, such as microencapsulation, liposomal carriers, and nanoparticle-based systems, have enhanced its dermal absorption and stability. Looking ahead, the integration of niacinamide into combination therapies and tailored skincare regimens offers promising opportunities to maximize its clinical utility. Overall, niacinamide stands out as a multifunctional dermatological agent with significant potential for promoting skin health and rejuvenation.",
+      "year": "2025",
+      "journal": "Current pharmaceutical biotechnology",
+      "authors": [
+        "Kapoor Khushi",
+        "S Sowmiya",
+        "Begum Rukaiah Fatma",
+        "S Ankul Singh",
+        "N Afreen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41088896/"
+    },
+    {
+      "pmid": "40843925",
+      "title": "Axillary Hyperpigmentation Treatment: A Systematic Review of the Literature.",
+      "abstract": "Post-inflammatory hyperpigmentation is a common dermatologic complaint that affects different parts of the body. Axillary hyperpigmentation (AH) is a common dermatologic complaint, with no standard treatment. We aim to address the efficacy and safety of the studied treatment modalities for AH.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Vahabi Seyed Mohammad",
+        "Sajjadi Sajjad",
+        "Kalantari Yasamin",
+        "Pourgholi Elnaz",
+        "Heidari Sama"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hyperpigmentation",
+        "Axilla",
+        "Treatment Outcome",
+        "Lasers, Solid-State",
+        "Plant Extracts",
+        "Dermatologic Agents",
+        "Intense Pulsed Light Therapy",
+        "Low-Level Light Therapy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40843925/"
+    },
+    {
+      "pmid": "40755428",
+      "title": "Knowledge, Perceptions, and Practices of Skin-Lightening Products Among Female Medical Students: A Cross-Sectional Study.",
+      "abstract": "The use of skin-lightening products (SLPs) is a widespread phenomenon influenced by cultural, social, and aesthetic perceptions. However, the awareness of their potential dermatological and systemic risks remains inadequate, particularly among young women, including medical students. This study aims to assess the knowledge, perceptions, and practices regarding SLPs among female medical students.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Qeyam Hanadi",
+        "Al-Shami Rula",
+        "Al-Rusan Ahmed",
+        "Alnaimat Mohannad"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Cross-Sectional Studies",
+        "Health Knowledge, Attitudes, Practice",
+        "Skin Lightening Preparations",
+        "Students, Medical",
+        "Young Adult",
+        "Adult",
+        "Skin Pigmentation",
+        "Surveys and Questionnaires"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40755428/"
+    }
+  ],
+  "crawled_at": "2026-06-15T23:12:30.424859"
+}

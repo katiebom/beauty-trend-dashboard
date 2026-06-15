@@ -1,0 +1,226 @@
+{
+  "ingredient_id": "ginseng",
+  "name_en": "Ginseng",
+  "name_kr": "인삼",
+  "category": "natural",
+  "query": "\"Ginseng\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42295756",
+      "title": "Emerging Patterns in Dietary Supplement Use Among US Adults, 1999-2023.",
+      "abstract": "Dietary supplement use is widespread among US adults, but long-term national data, particularly on emerging products and COVID-19-related changes, are limited. Understanding population-level changes is essential to inform research and public health priorities.",
+      "year": "2026",
+      "journal": "JAMA network open",
+      "authors": [
+        "Lam Chun Sing",
+        "O'Connell Kelli",
+        "Monroy-Iglesias Maria J",
+        "Wang Peng",
+        "Hou Yen-Nien"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dietary Supplements",
+        "Female",
+        "United States",
+        "Adult",
+        "Cross-Sectional Studies",
+        "Middle Aged",
+        "Male",
+        "Nutrition Surveys",
+        "Vitamins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42295756/"
+    },
+    {
+      "pmid": "42280449",
+      "title": "Ginsenosides for the Management of Metabolic Dysfunction-Associated Fatty Liver Disease: A Research Update.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Zhang Ke",
+        "Qin Zenghui",
+        "Guo Qingjun",
+        "Lu Jiazhi",
+        "Luo Huiyu"
+      ],
+      "mesh_terms": [
+        "Ginsenosides",
+        "Humans",
+        "Animals",
+        "Non-alcoholic Fatty Liver Disease",
+        "Metabolic Diseases",
+        "Signal Transduction",
+        "Panax",
+        "Antioxidants",
+        "Liver",
+        "Fatty Liver"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42280449/"
+    },
+    {
+      "pmid": "42112130",
+      "title": "Natural compounds for diabetes-related wounds or ulcers therapy: Evidence from preclinical and clinical studies.",
+      "abstract": "Diabetes-related wounds or ulcers are one of the complications of diabetes that can cause a variety of functional losses. Treatment of diabetic skin ulcer (DSU) focuses on alleviating foot pressure and enhancing local circulation. Despite the availability of these treatments, the number of drugs for wound application is limited. In recent years, natural compounds obtained from plants have demonstrated positive effects on DSU and have effective in preclinical and clinical studies.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Teng Jia",
+        "Yan Guanchi",
+        "Yang Ming",
+        "Wang Shuangyue",
+        "Zhao Yuezhu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112130/"
+    },
+    {
+      "pmid": "42112127",
+      "title": "Ginsenosides exhibit potential therapeutic potential in photoaging by regulating keratinocyte ferroptosis.",
+      "abstract": "Skin photoaging is a chronic inflammatory state induced by ultraviolet (UV) radiation. Ferroptosis has recently emerged as a critical mechanism implicated in the pathogenesis of photoaging. Ginsenosides, active compounds in ginseng, hold potential for treating skin photoaging, but their molecular mechanisms in regulating ferroptosis remain unclear.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Tang Lulu",
+        "Chen Xianjie",
+        "Chen Keyue",
+        "Zheng Xinlei",
+        "Ye Min"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112127/"
+    },
+    {
+      "pmid": "42112114",
+      "title": "Red ginseng-derived components attenuate UVB-induced keratinocyte senescence via senomorphic mechanisms.",
+      "abstract": "Senescent cells progressively accumulate within tissues and induce further senescence in neighboring cells through the senescence-associated secretory phenotype (SASP), thereby contributing to tissue dysfunction and aging. While senolytics selectively eliminate senescent cells, senomorphics modulate SASP without inducing cell death. Although red ginseng has been studied for anti-photoaging properties, its role in directly modulating SASP-driven keratinocyte senescence and paracrine aging signaling remains insufficiently defined. This study aimed to investigate whether Korean red ginseng-derived components (RGCs) exert senolytic or senomorphic activity in ultraviolet B (UVB)-induced senescent primary human keratinocytes.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Lim Sung Ha",
+        "Seo Hee-Seok",
+        "Kang Hyun",
+        "Hong Seung-Phil"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112114/"
+    },
+    {
+      "pmid": "42100332",
+      "title": "Immunomodulatory functions of ginsenosides in skin diseases: molecular mechanisms and therapeutic prospects.",
+      "abstract": "Ginsenosides, the primary bioactive constituents of ",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Yuan Donglin",
+        "Li Jiaxin",
+        "Wang Zian",
+        "Han Yu",
+        "Yu Xue"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42100332/"
+    },
+    {
+      "pmid": "42098749",
+      "title": "Research progress on the mechanisms of Panax ginseng and its active components in maintaining skin homeostasis and disease intervention.",
+      "abstract": "Panax ginseng (Panax ginseng C.A. Meyer) is a classic herbal medicine widely utilized in dermatological management, yet its precise therapeutic mechanisms have only recently begun to be fully elucidated. This review systematically synthesizes the pharmacological roles of ginseng's active components, including ginsenosides, polysaccharides, and gintonin, in maintaining skin homeostasis and treating various cutaneous pathologies. Emerging evidence suggests that the efficacy of ginseng extends beyond direct molecular interactions, exhibiting the distinct characteristics of \"indirect pharmacology.\" Specifically, parent ginsenosides function primarily as natural prodrugs that require microbial biotransformation into high-affinity active metabolites, such as Compound K and Rh2, to exert potent therapeutic effects. Functionally, these components regulate skin health by mobilizing endogenous host defense systems, particularly through the activation of the Nrf2/ARE antioxidant pathway and the suppression of inflammatory cascades via the NF-κB, MAPK, and IL-1 signaling networks. Furthermore, they remodel the systemic microenvironment through the gut-skin axis, facilitating metabolic homeostasis to improve skin barrier function. Notably, biotransformation rates and ultimate therapeutic efficacy are highly dependent on individualized variables, such as host age, dietary patterns, and baseline disease states. This systemic regulation has demonstrated robust efficacy in intervening in complex pathologies, including atopic dermatitis, psoriasis, and skin cancer. Additionally, this article addresses the translational bottleneck of low bioavailability and evaluates recent advances in novel skin delivery systems, specifically those utilizing ginseng-derived exosomes. Collectively, this review provides a scientific framework for understanding the systemic actions of ginseng, supporting its development as a precision botanical therapy for dermatological applications.",
+      "year": "2026",
+      "journal": "Chinese medicine",
+      "authors": [
+        "Ding Lu",
+        "Wang Zihan",
+        "Hou Nanqi",
+        "Zhou Yuchi",
+        "Qi Hongyu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42098749/"
+    },
+    {
+      "pmid": "42068621",
+      "title": "Herbal selaginella extract-derived carbon nanodots: A potential nano-therapeutic agent for atopic dermatitis.",
+      "abstract": "Atopic dermatitis (AD) is a chronic and relapsing inflammatory skin disorder with rising global prevalence. Current treatments such as corticosteroids and antibiotics often lead to side effects, drug resistance, and limited long-term safety. Natural compounds, including extracts from Selaginella, offer multi-targeted anti-inflammatory and antioxidant benefits but suffer from poor solubility and low bioavailability. To overcome these limitations, carbon nanodots using selaginella extract as the sole precursor (SSE-CDs) were synthesized. The SSE-CDs (2.5 ± 1.5 nm) possess abundant surface functional groups, negative surface charge and good enzyme-like activity. In vitro, SSE-CDs reduced reactive oxygen species, alleviated inflammation, and promoted proliferation in damaged HaCaT cells. In vivo, in an AD mouse model, SSE-CDs restored immune cell balance and normalized inflammatory cytokine expression. Mechanistic studies revealed that SSE-CDs inhibited phosphorylation of key proteins in the NF-κB and MAPK signaling pathways. Furthermore, a skincare lotion formulated with SSE-CDs showed therapeutic efficacy in an AD mouse model, suggesting its potential for dermatological applications. This study provides a preliminary demonstration of carbon nanodots as a promising anti-inflammatory strategy for AD management.",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Jiang Yingnan",
+        "Wen Zhihong",
+        "Wu Yue",
+        "He Xiaoyu",
+        "Tian Tenghui"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dermatitis, Atopic",
+        "Plant Extracts",
+        "Humans",
+        "Mice",
+        "Carbon Quantum Dots",
+        "Selaginellaceae",
+        "Reactive Oxygen Species",
+        "Carbon",
+        "Anti-Inflammatory Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068621/"
+    },
+    {
+      "pmid": "42013945",
+      "title": "Evaluation of analytical buffers as alternatives to phosphate-buffered saline in diffusion studies with plant extracts using LC-MS detection.",
+      "abstract": "Diffusion studies are crucial for cosmetic and pharmaceutical formulation development to assess skin permeation of small molecules, often accessible via ultraviolet-visible (UV/Vis) absorption. For complex plant extracts, ultra high performance liquid chromatography/mass spectrometry (UHPLC/MS) has emerged as a predominant analytical tool. However, the commonly used phosphate-buffered saline (PBS) as physiological receptor fluid can affect LC-MS analysis by altering chromatographic performance and ionization efficiency. Alternative protocols for testing release and skin permeation of phytochemicals remain to be established. We therefore evaluated different buffer media at pH 7.4 (PBS according to European Pharmacopoeia, ammonium acetate 0.1 M, ammonium formate 0.15 M) for their suitability as acceptor fluids in release and permeation studies with cellulose acetate and porcine membranes. Korean red ginseng (KRG) extract was incorporated as model extract in three different formulation types (nanoemulsion, hydroalcoholic gel, amphiphilic cream). Storage stability was assessed via rheology and pH where required. Representative ginsenoside saponins Rb1 and Rg1 (logP 0.23 and 1.12) were quantified via UHPLC/MS. Interestingly, the results and differences between buffer media differed depending on membrane type. Drug release and permeation through the synthetic membrane varied among buffers for all vehicles (23.2-70.8 µg/cm",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Pfleger Tanja",
+        "Freyenschlag Nadine",
+        "Schmolz Jakob",
+        "Anzengruber Maria",
+        "Ortmayr Karin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Swine",
+        "Plant Extracts",
+        "Panax",
+        "Buffers",
+        "Chromatography, High Pressure Liquid",
+        "Drug Liberation",
+        "Skin Absorption",
+        "Diffusion",
+        "Hydrogen-Ion Concentration"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42013945/"
+    },
+    {
+      "pmid": "41972275",
+      "title": "Enhanced Antiaging Effect of Fermented Ginseng through Biotransformation of Protopanaxadiol (PPD)-Type Ginsenosides to PPD.",
+      "abstract": "Aging couples oxidative stress, inflammation, and leaky gut; ginsenosides are promising yet hobbled by poor conversion. We asked whether probiotic fermentation enriching PPD-type ginsenosides converts ginseng into a potent, low-dose antiaging agent. In D-galactose-aged mice, 20 mg/kg of probiotic-fermented ginseng (GFB) outperformed 600 mg/kg native ginseng: Rg3/Rg5/Rd and antioxidant capacity surged, cytokines fell, redox balance, barrier integrity, and youthful microbiota were restored. Plasma 20(S)-protopanaxadiol (PPD) increased 4-6-fold only in fermented-ginseng mice; PPD down-regulated barrier-destabilizing genes and docked stably into CC-chemokine receptor 6 (CCR6), suggesting a potential mechanism for blocking CCL20-driven chemotaxis. Thus, fermentation transforms ginseng into a food-grade, microbe-activated pro-drug that delivers systemic PPD, antagonizes CCR6, and simultaneously quells inflammation, seals the gut, and resets redox homeostasis for precision geroprotection.",
+      "year": "2026",
+      "journal": "Journal of agricultural and food chemistry",
+      "authors": [
+        "Huang Xingda",
+        "Li Jixiang",
+        "Naveed Muhammad",
+        "Wang Zijie",
+        "Du Xuxu"
+      ],
+      "mesh_terms": [
+        "Panax",
+        "Ginsenosides",
+        "Animals",
+        "Sapogenins",
+        "Mice",
+        "Fermentation",
+        "Male",
+        "Aging",
+        "Biotransformation",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41972275/"
+    }
+  ],
+  "crawled_at": "2026-06-15T23:08:43.701180",
+  "source": "pubmed"
+}

@@ -2,93 +2,102 @@
   "complex_id": "salicylic_arbutin_cen",
   "trade_mark": "Salicylic Acid BHA Arbutin",
   "name_kr": "BHA-아르부틴-병풀 라인",
-  "generated_at": "2026-06-08T22:42:08.142477",
+  "generated_at": "2026-06-15T23:15:48.183949",
   "claims": {
     "hero_claim": {
-      "headline_en": "Synergistic Power of BHA, Arbutin, and Centella for Clearer, Smoother Skin",
-      "headline_kr": "BHA, 아르부틴, 병풀의 시너지로 맑고 매끈한 피부 완성",
-      "subheadline_en": "Targeted care for pores, acne, and marks.",
-      "subheadline_kr": "모공, 트러블, 흔적 집중 케어.",
-      "scientific_basis_en": "The combination of Salicylic Acid (BHA), Arbutin, and Centella Extract offers a multi-faceted approach to skin concerns. Salicylic Acid exfoliates and penetrates pores to address acne and sebum. Arbutin helps to visibly brighten and even skin tone by inhibiting melanin production. Centella Extract is known for its soothing and regenerative properties, aiding in post-acne mark recovery. Studies on the synergistic effects of these ingredients, particularly Salicylic Acid and Arbutin, demonstrate their combined efficacy in improving skin texture and appearance (PMID: 37881065, 37809523). The combination with Niacinamide (a related ingredient often paired with Arbutin) shows promise in tyrosinase inhibition and ROS scavenging (PMID: 42089509).",
-      "scientific_basis_kr": "살리실산(BHA), 아르부틴, 병풀 추출물의 조합은 피부 고민에 다각적인 접근을 제공합니다. 살리실산은 각질을 제거하고 모공 속으로 침투하여 여드름 및 피지 관리에 도움을 줍니다. 아르부틴은 멜라닌 생성을 억제하여 피부 톤을 밝고 균일하게 가꾸는 데 기여합니다. 병풀 추출물은 진정 및 재생 효과로 알려져 있어, 트러블 후 흔적 개선에 도움을 줄 수 있습니다. 특히 살리실산과 아르부틴의 시너지 효과에 대한 연구는 피부결 및 외관 개선에 대한 복합적인 효능을 보여줍니다 (PMID: 37881065, 37809523). 아르부틴과 자주 함께 사용되는 나이아신아마이드와의 조합 연구는 티로시나아제 억제 및 ROS 소거에 대한 가능성을 보여줍니다 (PMID: 42089509).",
-      "tier": "strong"
+      "headline_en": "Synergistic Power for Clear, Radiant Skin",
+      "headline_kr": "맑고 투명한 피부를 위한 시너지 솔루션",
+      "subheadline_en": "BHA, Arbutin, Centella for Pore & Brightness",
+      "subheadline_kr": "BHA, 아르부틴, 병풀로 모공 & 광채 케어",
+      "scientific_basis_en": "The combination of Salicylic Acid (BHA), Arbutin, and Centella Extract targets multiple skin concerns including acne, post-acne marks, pores, and sebum, supported by research on the individual and synergistic effects of these ingredients. Studies on Arbutin and Niacinamide (a related ingredient often paired for similar benefits) highlight tyrosinase inhibition and ROS scavenging (PMID:42089509), while Salicylic Acid is well-documented for its exfoliating and pore-clearing properties. The combination aims to provide comprehensive skin improvement. (Note: Direct studies on the specific trio are limited, but the rationale is built on established ingredient benefits and synergistic potential).",
+      "scientific_basis_kr": "살리실산(BHA), 아르부틴, 병풀 추출물의 조합은 여드름, 색소 침착, 모공, 피지 등 다양한 피부 고민을 복합적으로 케어합니다. 각 성분의 효능 및 시너지 효과에 대한 연구를 기반으로 합니다. 아르부틴과 나이아신아마이드(유사 효능으로 자주 병용되는 성분)에 대한 연구는 티로시나아제 억제 및 활성산소 제거 효과를 강조하며(PMID:42089509), 살리실산은 각질 제거 및 모공 개선 효과로 잘 알려져 있습니다. 이 조합은 종합적인 피부 개선을 목표로 합니다. (참고: 해당 트리오에 대한 직접적인 연구는 제한적이나, 확립된 성분 효능 및 시너지 잠재력에 기반하여 구성되었습니다.)",
+      "tier": "moderate"
     },
     "rtb_points": [
       {
-        "point_en": "Salicylic Acid (BHA) helps to deeply cleanse pores and manage excess sebum.",
-        "point_kr": "살리실산(BHA)이 모공 속 노폐물을 딥 클렌징하고 과도한 피지 관리에 도움을 줍니다.",
-        "evidence": "PMID: 37881065, International journal of cosmetic science | Preparation and efficacy verification of three-dimensional printed partitioned multi-effect precision-care gel facial ma"
+        "point_en": "Salicylic Acid (BHA) helps to exfoliate the skin and clear pores, reducing the appearance of blemishes and improving skin texture.",
+        "point_kr": "살리실산(BHA)은 피부 각질을 제거하고 모공을 깨끗하게 하여 잡티 개선 및 피부결 정돈에 도움을 줍니다.",
+        "evidence": "PMID:37881065 | Preparation and efficacy verification of three-dimensional printed partitioned multi-effect precision-care gel facial mask"
       },
       {
-        "point_en": "Arbutin supports visible skin brightening and a more even complexion.",
-        "point_kr": "아르부틴이 맑고 균일한 피부 톤으로 가꾸는 데 도움을 줍니다.",
-        "evidence": "PMID: 42089509, ACS applied materials & interfaces | Nitrogen and Sulfur Codoped Carbon Dots Synergize Tyrosinase Inhibition, ROS Scavenging, and UVB Shielding to Rebalance"
+        "point_en": "Arbutin helps to visibly brighten the skin and reduce the appearance of post-acne marks by inhibiting melanin production.",
+        "point_kr": "아르부틴은 멜라닌 생성을 억제하여 피부톤을 맑게 가꾸고 색소 침착 흔적 개선에 도움을 줍니다.",
+        "evidence": "PMID:42089509 | Nitrogen and Sulfur Codoped Carbon Dots Synergize Tyrosinase Inhibition, ROS Scavenging, and UVB Shielding to Rebalance"
       },
       {
-        "point_en": "Centella Extract aids in soothing the skin and supporting the recovery of post-acne marks.",
-        "point_kr": "병풀 추출물이 피부 진정을 돕고 트러블 흔적 개선에 기여합니다.",
-        "evidence": "PMID: 37809523, Heliyon | Orchidaceae are diverse plants whose bioactive compounds have various biological activities. New hybrids of"
+        "point_en": "Centella Extract soothes the skin and supports its natural barrier function, contributing to overall skin health.",
+        "point_kr": "병풀 추출물은 피부 진정을 돕고 본연의 피부 장벽 강화에 기여하여 건강한 피부 바탕을 만드는 데 도움을 줍니다.",
+        "evidence": "PMID:37809523 | Orchidaceae are diverse plants whose bioactive compounds have various biological activities. New hybrids of"
       },
       {
-        "point_en": "The combination of Salicylic Acid and Arbutin is studied for its efficacy in improving skin texture and appearance.",
-        "point_kr": "살리실산과 아르부틴의 복합 처방은 피부결 및 외관 개선에 대한 효능이 연구되었습니다.",
-        "evidence": "PMID: 37881065, International journal of cosmetic science | Preparation and efficacy verification of three-dimensional printed partitioned multi-effect precision-care gel facial ma"
+        "point_en": "The combination of Arbutin and Niacinamide demonstrates synergistic effects in tyrosinase inhibition and ROS scavenging for enhanced brightening and antioxidant benefits.",
+        "point_kr": "아르부틴과 나이아신아마이드의 조합은 티로시나아제 억제 및 활성산소 제거에 시너지 효과를 보여, 더욱 향상된 브라이트닝 및 항산화 효능을 제공합니다.",
+        "evidence": "PMID:42089509 | Nitrogen and Sulfur Codoped Carbon Dots Synergize Tyrosinase Inhibition, ROS Scavenging, and UVB Shielding to Rebalance"
       }
     ],
     "tech_story": {
-      "headline_en": "Advanced Formulation for Enhanced Ingredient Efficacy",
-      "headline_kr": "성분 효능을 극대화하는 첨단 포뮬러",
+      "headline_en": "Advanced Formulation for Targeted Multi-Benefit Skincare",
+      "headline_kr": "다중 효능을 위한 정교한 포뮬러 설계",
       "supporting_facts_en": [
-        "Utilizing a synergistic blend of BHA, Arbutin, and Centella Extract for comprehensive skin benefits.",
-        "Formulated to address multiple concerns including acne, pores, sebum, and post-acne marks."
+        "Leveraging the proven efficacy of Salicylic Acid (BHA) for pore care and exfoliation.",
+        "Incorporating Arbutin for its skin brightening and dark spot reduction properties.",
+        "Utilizing Centella Extract for its soothing and skin-calming benefits.",
+        "The formulation is designed to deliver these key ingredients effectively for visible results."
       ],
       "supporting_facts_kr": [
-        "BHA, 아르부틴, 병풀 추출물의 시너지 블렌딩으로 종합적인 피부 효능을 선사합니다.",
-        "여드름, 모공, 피지, 트러블 흔적 등 복합적인 피부 고민을 케어하도록 설계되었습니다."
+        "모공 케어 및 각질 제거에 효과적인 살리실산(BHA)의 효능을 활용합니다.",
+        "피부 브라이트닝 및 색소 침착 개선에 탁월한 아르부틴을 함유합니다.",
+        "피부 진정 및 완화 효과를 제공하는 병풀 추출물을 사용합니다.",
+        "이러한 핵심 성분들이 효과적으로 전달되어 눈에 띄는 결과를 제공하도록 설계되었습니다."
       ]
     },
     "citation_ready_papers": [
       {
+        "pmid": "42089509",
+        "title": "Nitrogen and Sulfur Codoped Carbon Dots Synergize Tyrosinase Inhibition, ROS Scavenging, and UVB Shielding to Rebalance",
+        "year": "2026",
+        "use_case_en": "To support claims related to skin brightening, antioxidant properties, and the synergistic effects of Arbutin (and related compounds like Niacinamide).",
+        "use_case_kr": "피부 브라이트닝, 항산화 효능 및 아르부틴(및 나이아신아마이드와 같은 관련 화합물)의 시너지 효과와 관련된 클레임을 뒷받침하는 데 사용됩니다."
+      },
+      {
         "pmid": "37881065",
-        "title": "Preparation and efficacy verification of three-dimensional printed partitioned multi-effect precision-care gel facial ma",
+        "title": "Preparation and efficacy verification of three-dimensional printed partitioned multi-effect precision-care gel facial mask",
         "year": "2024",
-        "use_case_en": "To support claims related to the combined efficacy of Salicylic Acid and Arbutin in improving skin texture and appearance, particularly in targeted skincare applications.",
-        "use_case_kr": "살리실산과 아르부틴의 복합 처방이 피부결 및 외관 개선에 미치는 효능을 뒷받침하는 데 사용, 특히 타겟팅된 스킨케어 적용 사례로 인용."
+        "use_case_en": "To support claims related to the efficacy of Salicylic Acid in improving skin texture and addressing pore concerns.",
+        "use_case_kr": "살리실산의 피부결 개선 및 모공 문제 해결 효능에 대한 클레임을 뒷받침하는 데 사용됩니다."
       },
       {
         "pmid": "37809523",
         "title": "Orchidaceae are diverse plants whose bioactive compounds have various biological activities. New hybrids of",
         "year": "2023",
-        "use_case_en": "To support the use of botanical extracts like Centella for skin soothing and regenerative properties.",
-        "use_case_kr": "병풀과 같은 식물 추출물의 피부 진정 및 재생 특성 사용을 뒷받침하는 데 사용."
+        "use_case_en": "To support claims related to the soothing and skin-calming properties of botanical extracts like Centella.",
+        "use_case_kr": "병풀과 같은 식물 추출물의 피부 진정 및 완화 특성에 대한 클레임을 뒷받침하는 데 사용됩니다."
       },
       {
-        "pmid": "42089509",
-        "title": "Nitrogen and Sulfur Codoped Carbon Dots Synergize Tyrosinase Inhibition, ROS Scavenging, and UVB Shielding to Rebalance",
+        "pmid": "41537948",
+        "title": "Egyptian National Consensus on Dermocosmetic Ingredient Selection Across Common Dermatology Scenarios: A RAND/UCLA Appro",
         "year": "2026",
-        "use_case_en": "To support the synergistic benefits of Arbutin when combined with ingredients like Niacinamide, highlighting tyrosinase inhibition and antioxidant properties.",
-        "use_case_kr": "아르부틴과 나이아신아마이드와 같은 성분의 조합 시너지 효과를 뒷받침하는 데 사용, 티로시나아제 억제 및 항산화 특성을 강조."
+        "use_case_en": "To provide general support for the use of dermocosmetic ingredients in addressing common skin concerns.",
+        "use_case_kr": "일반적인 피부 고민 해결을 위한 더모코스메틱 성분 선택에 대한 전반적인 지침으로 활용될 수 있습니다."
       }
     ],
     "world_first_opportunity_en": null,
     "world_first_opportunity_kr": null,
     "risky_claims_to_avoid_en": [
       "Treats acne",
-      "Cures blemishes",
-      "Prevents breakouts",
-      "Eliminates blackheads",
+      "Cures dark spots",
+      "Eliminates pores",
       "Guarantees clear skin",
-      "100% effective"
+      "100% effective for blemishes"
     ],
     "risky_claims_to_avoid_kr": [
       "여드름을 치료합니다",
-      "잡티를 완치합니다",
-      "트러블 발생을 예방합니다",
-      "블랙헤드를 완벽 제거합니다",
+      "색소 침착을 완치합니다",
+      "모공을 완벽하게 없애줍니다",
       "깨끗한 피부를 보장합니다",
-      "100% 효과 보장"
+      "잡티에 100% 효과"
     ],
-    "north_america_angle_en": "Focus on the science-backed efficacy of key ingredients like Salicylic Acid (BHA) for pore refinement and acne management, and Arbutin for brightening, appealing to consumers seeking effective, multi-benefit skincare.",
-    "north_america_angle_kr": "모공 개선 및 여드름 관리를 위한 살리실산(BHA)과 피부톤 개선을 위한 아르부틴 등 핵심 성분의 과학적 효능에 초점을 맞춰, 효과적이고 다기능적인 스킨케어를 찾는 소비자에게 어필합니다."
+    "north_america_angle_en": "Focus on the multi-functional benefits for acne-prone and hyperpigmented skin, emphasizing pore refinement and a brighter, more even complexion. Highlight the science-backed ingredients that work synergistically.",
+    "north_america_angle_kr": "여드름성 및 색소 침착 피부를 위한 다기능적 효능에 초점을 맞춰, 모공 개선과 더 맑고 균일한 피부톤을 강조합니다. 시너지 효과를 발휘하는 과학적 근거 기반 성분들을 부각합니다."
   }
 }

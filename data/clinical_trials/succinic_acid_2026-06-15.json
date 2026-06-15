@@ -1,0 +1,173 @@
+{
+  "ingredient_id": "succinic_acid",
+  "name_kr": "호박산",
+  "name_en": "Succinic Acid",
+  "query": "(\"Succinic Acid\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 5,
+  "recent_complete_count": 4,
+  "trials": [
+    {
+      "nct_id": "NCT06985056",
+      "title": "Reducing Symptom Burden Through Physical Exercise in Melanoma Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Malignant Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Supervised 12-week Resistance and Endurance Exercise Program"
+        }
+      ],
+      "sponsor": "Universität Duisburg-Essen",
+      "primary_completion": "2027-09",
+      "url": "https://clinicaltrials.gov/study/NCT06985056"
+    },
+    {
+      "nct_id": "NCT07391774",
+      "title": "Testing Whether Hormone Therapy With Ribociclib is as Effective as Chemotherapy Followed by Hormone Therapy With Ribociclib for the Treatment of High Anatomic Stage Breast Cancer With Low Recurrence Risk, The RxFINE-Low Trial",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anatomic Stage II Breast Cancer AJCC v8",
+        "Anatomic Stage IIIA Breast Cancer AJCC v8",
+        "Anatomic Stage IIIC Breast Cancer AJCC v8",
+        "Estrogen Receptor-Positive Breast Carcinoma",
+        "HER2-Negative Breast Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Anastrozole"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Biospecimen Collection"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Bone Scan"
+        },
+        {
+          "type": "DRUG",
+          "name": "Chemotherapy"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Computed Tomography"
+        },
+        {
+          "type": "DRUG",
+          "name": "Exemestane"
+        },
+        {
+          "type": "DRUG",
+          "name": "Letrozole"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Oncotype DX Breast Cancer Assay"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Positron Emission Tomography"
+        },
+        {
+          "type": "DRUG",
+          "name": "Ribociclib Succinate"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2029-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT07391774"
+    },
+    {
+      "nct_id": "NCT05798403",
+      "title": "Efficacy of Electroacupuncture Versus Solifenacin Succinate for Female Overactive Bladder",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Overactive Bladder"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "electroacupuncture"
+        },
+        {
+          "type": "DRUG",
+          "name": "Solifenacin Succinate Tablets"
+        }
+      ],
+      "sponsor": "Yin Ping",
+      "primary_completion": "2025-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT05798403"
+    },
+    {
+      "nct_id": "NCT01530373",
+      "title": "Solifenacin Compared to Clonidine for Reducing Hot Flashes Among Breast Cancer Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hot Flashes",
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "solifenacin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Clonidine"
+        }
+      ],
+      "sponsor": "University of Arkansas",
+      "primary_completion": "2027-07",
+      "url": "https://clinicaltrials.gov/study/NCT01530373"
+    },
+    {
+      "nct_id": "NCT07251504",
+      "title": "Mitochondrial Metabolism and Oxidative Stress in Function of the Physical Exercise and Nutritional Counseling in T2DM",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetes Mellitus, Type 2"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Nutritional intervention"
+        },
+        {
+          "type": "OTHER",
+          "name": "The High-Intensity Interval Training (HIIT)"
+        },
+        {
+          "type": "OTHER",
+          "name": "The Moderate-Intensity Continuous Training (MICT)"
+        }
+      ],
+      "sponsor": "University of Cadiz",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07251504"
+    }
+  ],
+  "fetched_at": "2026-06-15T23:12:18.387430"
+}

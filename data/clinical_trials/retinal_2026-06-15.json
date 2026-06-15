@@ -1,0 +1,725 @@
+{
+  "ingredient_id": "retinal",
+  "name_kr": "레티날",
+  "name_en": "Retinal",
+  "query": "(\"Retinal\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 23,
+  "trials": [
+    {
+      "nct_id": "NCT05927467",
+      "title": "Eurbio-Alport (RaDiCo Cohort) (RaDiCo Eurbio-Alport)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Alport Syndrome"
+      ],
+      "interventions": [],
+      "sponsor": "Institut National de la Santé Et de la Recherche Médicale, France",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT05927467"
+    },
+    {
+      "nct_id": "NCT06491615",
+      "title": "National Ophthalmic Genotyping and Phenotyping Network (eyeGENE (Registered Trademark)), Stage 3 - Expansion of DNA and Data Repositories for Rare Inherited Ophthalmic Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Inherited Ophthalmic Diseases",
+        "Hypopigmentation Disorder",
+        "Corneal Dystrophy",
+        "Blue-cone Monochromacy",
+        "Best Disease",
+        "Aniridia",
+        "Albinism"
+      ],
+      "interventions": [],
+      "sponsor": "National Eye Institute (NEI)",
+      "primary_completion": "2054-06-27",
+      "url": "https://clinicaltrials.gov/study/NCT06491615"
+    },
+    {
+      "nct_id": "NCT05312736",
+      "title": "Gyrate Atrophy Ocular and Systemic Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Gyrate Atrophy",
+        "Gyrata of Choroid and Retina; Atrophy",
+        "Ornithine-δ-aminotransferase",
+        "OAT",
+        "Chorioretinal Degeneration"
+      ],
+      "interventions": [],
+      "sponsor": "Jaeb Center for Health Research",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05312736"
+    },
+    {
+      "nct_id": "NCT04462328",
+      "title": "Acalabrutinib and Durvalumab in Primary and Secondary Central Nervous System Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Primary Central Nervous System Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Durvalumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Acalabrutinib"
+        }
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "primary_completion": "2026-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT04462328"
+    },
+    {
+      "nct_id": "NCT03749980",
+      "title": "MyVHL: Patient Natural History Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Von Hippel-Lindau Disease",
+        "Hereditary Leiomyomatosis and Renal Cell Cancer",
+        "Birt-Hogg-Dube Syndrome",
+        "SDHB Gene Mutation"
+      ],
+      "interventions": [],
+      "sponsor": "Joshua Mann, MPH",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT03749980"
+    },
+    {
+      "nct_id": "NCT07006649",
+      "title": "CHOPXE - Analysis of Choriocapillaris Flow Deficits in Patients With Pseudoxanthoma Elasticum",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pseudoxanthoma Elasticum",
+        "Tomography, Optical Coherence",
+        "Retinal Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Opthtalmologic diagnosis tests"
+        }
+      ],
+      "sponsor": "University Hospital, Angers",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT07006649"
+    },
+    {
+      "nct_id": "NCT06455384",
+      "title": "The Genetics Navigator: Evaluating a Digital Platform for Genomics Health Services",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cardiac Conditions",
+        "Connective Tissue Diseases",
+        "Retinal Disease",
+        "Epilepsy in Children",
+        "Neurodevelopmental Disorders",
+        "Cancer",
+        "Polyposis"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Genetics Navigator"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Standard Care with Genetics Professionals"
+        }
+      ],
+      "sponsor": "Unity Health Toronto",
+      "primary_completion": "2027-03",
+      "url": "https://clinicaltrials.gov/study/NCT06455384"
+    },
+    {
+      "nct_id": "NCT06929026",
+      "title": "Retinal Biomarkers in Parkinson´s Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Parkinson Disease"
+      ],
+      "interventions": [],
+      "sponsor": "Landspitali University Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06929026"
+    },
+    {
+      "nct_id": "NCT06926478",
+      "title": "Subconjunctival Humira for Boston Keratoprosthesis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Penetrating Keratoplasty",
+        "Multiple Graft Failure",
+        "Ocular Cicatricial Pemphigoid",
+        "Stevens-Johnson Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Adalimumab Injection"
+        }
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "primary_completion": "2027-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT06926478"
+    },
+    {
+      "nct_id": "NCT05331664",
+      "title": "Dropless Pars Plana Vitrectomy Study",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rhegmatogenous Retinal Detachment"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Pars plana vitrectomy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Triamcinolone Acetonide 40mg/mL"
+        },
+        {
+          "type": "DRUG",
+          "name": "Moxifloxacin 0.5% or Polymyxin/Trimethoprim if patient is allergic to moxifloxacin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisolone 1%"
+        },
+        {
+          "type": "DRUG",
+          "name": "Atropine 1%"
+        }
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "primary_completion": "2026-07-25",
+      "url": "https://clinicaltrials.gov/study/NCT05331664"
+    },
+    {
+      "nct_id": "NCT06098677",
+      "title": "Effect of Carotenoids Supplementation on Visual Function in Chinese Subjects",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Vision Disorders"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Carotenoids supplementation"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06098677"
+    },
+    {
+      "nct_id": "NCT05483465",
+      "title": "The Effect of NAD Supplementation on Brain Vascular Health in Aging",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Aging"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Nicotinamide riboside"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University of Oklahoma",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT05483465"
+    },
+    {
+      "nct_id": "NCT05366933",
+      "title": "B-Complex: A Nutraceutical SANS Countermeasure",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Optic Disc Edema",
+        "Endothelial Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vitamin B-Complex Supplement"
+        }
+      ],
+      "sponsor": "National Aeronautics and Space Administration (NASA)",
+      "primary_completion": "2027-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT05366933"
+    },
+    {
+      "nct_id": "NCT07323082",
+      "title": "Purinergic Compounds in Pseudoxanthoma Elasticum",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pseudoxanthoma Elasticum"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "supplementary tubes"
+        },
+        {
+          "type": "RADIATION",
+          "name": "SCANNER"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "primary_completion": "2027-01-15",
+      "url": "https://clinicaltrials.gov/study/NCT07323082"
+    },
+    {
+      "nct_id": "NCT06552767",
+      "title": "Thrombosis and Inflammation in Vessels Initiative (TIVI)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Cardiovascular Diseases",
+        "Vascular Diseases"
+      ],
+      "interventions": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "primary_completion": "2034-01-30",
+      "url": "https://clinicaltrials.gov/study/NCT06552767"
+    },
+    {
+      "nct_id": "NCT06033703",
+      "title": "Topical Netarsudil for the Prevention of Proliferative Vitreoretinopathy in Patients With Retinal Detachment",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rhegmatogenous Retinal Detachment",
+        "Proliferative Vitreoretinopathy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Netarsudil Ophthalmic"
+        }
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT06033703"
+    },
+    {
+      "nct_id": "NCT07240649",
+      "title": "Outcomes From Hyperbaric Oxygen (HBO2) Treatment for Emerging Indications",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Post-COVID-19 Condition",
+        "Ulcerative Colitis",
+        "Crohn Disease",
+        "Calciphylaxis",
+        "Frostbite",
+        "Acute COVID-19",
+        "Pyoderma Gangrenosum",
+        "Pterygium",
+        "Hypospadias",
+        "Head Trauma",
+        "Pneumatosis Intestinalis",
+        "Ischemic Bowel",
+        "Raynaud Syndrome",
+        "Malignant Otitis Externa",
+        "Nonarteritic Anterior Ischemic Optic Neuropathy",
+        "Central Retinal Vein Occlusion",
+        "Femoral Head Necrosis",
+        "Invasive Fungal Infection",
+        "Chronic Anal Fissure",
+        "Vasculitic Ulcer",
+        "Graft-vs-Host Disease",
+        "Decubitus Ulcer",
+        "Greater Trochanteric Pain Syndrome",
+        "Rectovaginal Fistula",
+        "Pouchitis",
+        "Tinnitus",
+        "Clostridium Enterocolitis",
+        "Branch Retinal Artery Occlusion",
+        "Axonotmesis",
+        "Multiple Sclerosis",
+        "Inclusion Body Myositis",
+        "Epidermolysis Bullosa (EB)",
+        "Osteonecrosis",
+        "Ulcer Ischemic",
+        "Avascular Necrosis of Bone",
+        "Prosthesis Related Infections",
+        "Facial Filler Injections",
+        "Cystitis Chronic",
+        "Ligament Injury",
+        "Anastomosis, Leaking",
+        "Cartilage Injury"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Hyperbaric oxygen treatment (HBOT)"
+        },
+        {
+          "type": "DRUG",
+          "name": "100% Oxygen"
+        }
+      ],
+      "sponsor": "Jay C. Buckey Jr.",
+      "primary_completion": "2035-12",
+      "url": "https://clinicaltrials.gov/study/NCT07240649"
+    },
+    {
+      "nct_id": "NCT01496625",
+      "title": "National Eye Institute Biorepository for Retinal Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Age-Related Macular Degeneration",
+        "Diabetic Retinopathy",
+        "Von Hippel-Lindau Syndrome",
+        "Retinal Disease",
+        "Retinal Vein Occlusion"
+      ],
+      "interventions": [],
+      "sponsor": "National Eye Institute (NEI)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT01496625"
+    },
+    {
+      "nct_id": "NCT07313618",
+      "title": "Safety and Efficacy of a Single Suprachoroidal Injection of JWK010 Gene Therapy in Subjects With Oculocutaneous Albinism Type 1 (OCA1)",
+      "status": "RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Oculocutaneous Albinism (OCA)"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "JWK010 gene therapy"
+        }
+      ],
+      "sponsor": "West China Hospital",
+      "primary_completion": "2030-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07313618"
+    },
+    {
+      "nct_id": "NCT06227962",
+      "title": "Cognitive Functioning and Health Related Quality of Life in Retinoblastoma Survivors",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Retinoblastoma",
+        "Neurocognitive Dysfunction",
+        "Health-Related Behavior"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Neuropsychological assesment"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Psychosocial functioning and quality of life (questionnaires)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Parental psychosocial functioning (questionnaires)"
+        }
+      ],
+      "sponsor": "Amsterdam University Medical Center",
+      "primary_completion": "2026-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT06227962"
+    },
+    {
+      "nct_id": "NCT02535702",
+      "title": "Development Of Neuroimaging Methods To Assess The Neurobiology Of Addiction",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Normal Physiology"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "In vivo MRS"
+        },
+        {
+          "type": "OTHER",
+          "name": "fMRI"
+        },
+        {
+          "type": "OTHER",
+          "name": "EEG/EOG"
+        },
+        {
+          "type": "OTHER",
+          "name": "Stimulation tasks"
+        },
+        {
+          "type": "OTHER",
+          "name": "NSPRD"
+        },
+        {
+          "type": "OTHER",
+          "name": "Structural MRI"
+        }
+      ],
+      "sponsor": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT02535702"
+    },
+    {
+      "nct_id": "NCT03934957",
+      "title": "Hamburg City Health Study - a German Cohort Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Coronary Heart Disease",
+        "Stroke",
+        "Dementia",
+        "Cancer",
+        "Health Care",
+        "Vascular Diseases",
+        "Periodontal Diseases",
+        "Ocular Diseases",
+        "Respiratory Disease",
+        "Obesity"
+      ],
+      "interventions": [],
+      "sponsor": "Universitätsklinikum Hamburg-Eppendorf",
+      "primary_completion": "2022-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03934957"
+    },
+    {
+      "nct_id": "NCT03658512",
+      "title": "Tübinger Diabetes Mellitus Database (TUEDID)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Diabetes Mellitus"
+      ],
+      "interventions": [],
+      "sponsor": "University Hospital Tuebingen",
+      "primary_completion": "2028-02-01",
+      "url": "https://clinicaltrials.gov/study/NCT03658512"
+    },
+    {
+      "nct_id": "NCT05797896",
+      "title": "Investigating Geographic Atrophy Insights (i-GAIN) Natural History Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Dry Age-related Macular Degeneration",
+        "Geographic Atrophy",
+        "Retinal Disease",
+        "Macular Degeneration",
+        "Macular Atrophy",
+        "Retinal Degeneration",
+        "Eye Diseases"
+      ],
+      "interventions": [],
+      "sponsor": "Complement Therapeutics",
+      "primary_completion": "2027-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT05797896"
+    },
+    {
+      "nct_id": "NCT06466018",
+      "title": "Research Into Diagnostic and Prognostic Molecular and Imaging Biomarkers of Ocular Disorders Associated With Neurovascular Deregulation: Biocor Cohort",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Ocular Rosacea",
+        "Pachychoroid Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Schirmer test paper"
+        }
+      ],
+      "sponsor": "Clinact",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06466018"
+    },
+    {
+      "nct_id": "NCT00874783",
+      "title": "Development of IPS from Donated Somatic Cells of Patients with Neurological Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Neurodegenerative Disorders"
+      ],
+      "interventions": [],
+      "sponsor": "Hadassah Medical Organization",
+      "primary_completion": "2030-12",
+      "url": "https://clinicaltrials.gov/study/NCT00874783"
+    },
+    {
+      "nct_id": "NCT05991986",
+      "title": "Preparation of Patient Autologous Induced Pluripotent Stem Cell-derived Retinal Cells for AMD",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Age-Related Macular Degeneration"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "somatic cell collection"
+        }
+      ],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT05991986"
+    },
+    {
+      "nct_id": "NCT07480577",
+      "title": "Personalized Mobile Reminders for Medication Adherence and Intraocular Pressure Control in Primary Open-Angle Glaucoma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Primary Open-Angle Glaucoma (POAG)"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Digital Reminder Intervention"
+        }
+      ],
+      "sponsor": "Sakarya Yenikent State Hospital",
+      "primary_completion": "2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT07480577"
+    },
+    {
+      "nct_id": "NCT05728476",
+      "title": "Microinvasive Pars Plana Vitrectomy Combined ILM Peeling Versus Anti-VEGF Intravitreal Injection for Treatment-naïve Diabetic Macular Edema",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetic Macular Edema",
+        "Pars Plana Vitrectomy",
+        "Conbercept"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Vitrectomy combined with ILM peeling"
+        },
+        {
+          "type": "DRUG",
+          "name": "Conbercept intravitreal injection"
+        }
+      ],
+      "sponsor": "Tianjin Medical University Eye Hospital",
+      "primary_completion": "2025-09-05",
+      "url": "https://clinicaltrials.gov/study/NCT05728476"
+    },
+    {
+      "nct_id": "NCT02846571",
+      "title": "Pancreatic Islet Transplantation Into the Anterior Chamber of the Eye",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetes"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Human Pancreatic Islet Transplantation"
+        }
+      ],
+      "sponsor": "Midhat H. Abdulreda",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT02846571"
+    }
+  ],
+  "fetched_at": "2026-06-15T23:12:06.344130"
+}

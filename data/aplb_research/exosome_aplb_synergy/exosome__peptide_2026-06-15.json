@@ -1,0 +1,354 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "peptide",
+  "query": "(\"exosome\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42285172",
+      "title": "Non-Surgical Hair Restoration Options: Current Techniques and Emerging Technologies in Prejuvenation.",
+      "abstract": "Aims and Backgrounds: Hair loss is a highly prevalent condition, and patients are increasingly seeking pre-junvination and restoration. This review evaluates contemporary non-surgical hair restoration modalities.",
+      "year": "2026",
+      "journal": "Facial plastic surgery : FPS",
+      "authors": [
+        "Paul Benjamin Curman"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42285172/"
+    },
+    {
+      "pmid": "42016386",
+      "title": "Multidimensional Regulatory Mechanisms and Targeted Therapeutic Strategies for Inhibited Keratinocyte Proliferation in Diabetic Wounds.",
+      "abstract": "Diabetic wound healing impairment represents a pressing clinical challenge worldwide, with its high disability rate and recurrence rate imposing a heavy burden on patients and healthcare systems. Keratinocytes are the core effector cells that drive re-epithelialization during wound healing, and their impaired proliferative capacity is a core pathological mechanism underlying healing arrest and chronic wound development. The functional status of other repair cell populations, including fibroblasts, endothelial cells and immune cells, also exerts direct or indirect regulatory effects on the entire wound healing process. Under diabetic conditions, multifaceted pathological changes triggered by hyperglycemia not only induce comprehensive functional impairment of keratinocytes, but also disrupt the synergistic interaction between various repair cells. This ultimately stalls the physiological wound healing cascade, leading to the development of chronic, non-healing wounds. Building upon this, this review further summarizes novel targeted therapeutic strategies addressing these mechanisms, encompassing cutting-edge approaches such as engineered exosome delivery systems, photobiomodulation therapy, metabolic enzyme small-molecule inhibitors, peptide agonists, and plant-derived nanovesicles. This review aims to delineate the crosstalk between core regulatory modules and identify key druggable targets, a theoretical framework for the development of precision combination therapies with multi-target synergistic effects. Existing evidence demonstrates that the synergistic dysfunction of multiple core molecular hubs represents the core pathological basis underlying suppression in diabetic wounds. Future therapeutic strategies should focus on the synergistic benefits of spatiotemporally controlled dynamic intervention and wound microenvironment reprogramming.",
+      "year": "2026",
+      "journal": "Drug design, development and therapy",
+      "authors": [
+        "Liu Chengcheng",
+        "Niu Xueli",
+        "Xu Yunfa",
+        "Liu Wei"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Keratinocytes",
+        "Wound Healing",
+        "Cell Proliferation",
+        "Diabetes Mellitus",
+        "Animals"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42016386/"
+    },
+    {
+      "pmid": "41332254",
+      "title": "Tumor Mechanobiology-Inspired Nanomechanics: Piezo1 Mediated Tumor-Associated Macrophages Reprogramming and Exosome-Driven Immune Amplification.",
+      "abstract": "Mechanosensitive signaling pathways in immune cells drive exhaustion and ultimately facilitate tumor immune escape. In situ mechanical modulation strategies, leveraging the tumor's mechanical features, may provide a distinctive perspective for immunotherapy. We repurpose conventional silica nanocarriers from mere \"drug delivery vehicles\" into \"Piezo1 mechanotransduction modulators\" by precisely tuning their mechanical properties to directly intervene in tumor-associated macrophages (TAMs) mechanosignaling. Our study revealed that Piezo1 acts as a mechano-immunological switch in tumors: its downregulation in large tumors promotes M2-like TAMs polarization, whereas its upregulation in small tumors drives M1-mediated antitumor immunity. This directly couples mechanical cues to immune reprogramming during cancer progression. To target this pathway, we engineered mesoporous silica nanoparticles (mSNs) with tunable stiffness (253-1084.5 MPa), which were loaded with the Piezo1 agonist Yoda1 and TAMs-targeting peptide CRV (YmSNs@CRV) to precisely modulate TAMs mechanosignaling. Results demonstrated that softer 20% mSN achieved dual regulation of both macrophage phenotypic reprogramming and exosome-mediated communication via Piezo1 activation. Specifically, softer 20% mSNs enhanced pro-inflammatory markers (CD80), increased cytokine secretion, and promoted exosome production 5-fold more effectively than stiffer 80% mSNs. Proteomic analysis revealed that exosomes from 20% mSN-treated macrophages activated the TCR signaling, amplifying immune responses. In vivo, 20% YmSNs@CRV improved tumor penetration, repolarized TAMs toward an antitumor phenotype, and boosted cytotoxic T cell infiltration, significantly inhibiting tumor growth. This study integrates the mechanical characteristics of tumor tissues and proposes an \"in situ mechanical dual-regulation\" strategy, which combines mechano-regulated TAMs reprogramming with exosome-triggered immune responses, introducing a distinctive mechano-immunotherapeutic paradigm.",
+      "year": "2025",
+      "journal": "ACS nano",
+      "authors": [
+        "Yang Zichen",
+        "Li Rongjie",
+        "An Lulu",
+        "Zhang Xiaoyou",
+        "Cheng Jianwei"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Animals",
+        "Mice",
+        "Ion Channels",
+        "Tumor-Associated Macrophages",
+        "Silicon Dioxide",
+        "Nanoparticles",
+        "Mechanotransduction, Cellular",
+        "Humans",
+        "Mice, Inbred C57BL"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41332254/"
+    },
+    {
+      "pmid": "40792208",
+      "title": "Doxorubicin delivery by pYEEIE peptide-functionalized rhodiola rosea-derived exosome-like nanovesicles for targeted melanoma therapy.",
+      "abstract": "Melanoma is the most common cause of skin cancer-related deaths due to its aggressive nature. Plant-derived exosome-like nanovesicles (PELNs) are promising natural nanoparticles for therapeutic applications owing to their biocompatibility and diverse bioactive components. However, research on Rhodiola rosea-derived exosome-like nanovesicles (RELNs) remains limited.",
+      "year": "2025",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Duan Meitao",
+        "Chen Binbin",
+        "Yi Xue",
+        "Mahal Ahmed",
+        "Song Linwei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40792208/"
+    },
+    {
+      "pmid": "40120577",
+      "title": "A combined \"eat me/don't eat me\" strategy based on exosome for acute liver injury treatment.",
+      "abstract": "Drug-induced liver injury (DILI) involves multifaceted pathogenesis, necessitating effective therapeutic strategies. Wnt2, secreted by liver sinusoidal endothelial cell (LSEC), activates the Wnt/β-catenin signaling pathway to promote hepatocyte proliferation after injury. To address the dual challenges of targeted delivery and phagocytosis evasion, we develop a combined \"eat me/don't eat me\" strategy. RLTRKRGLK (RLTR) peptide-functionalized exosomes are engineered by inserting DMPE-PEG2000-CRLTRKRGLK into the lipid membrane of exosome derived from bEnd.3 cell. Surface-displayed RLTR mediates exosomal enrichment in LSEC, while CD47 engineering reduces macrophage clearance via \"don't eat me\" signaling. Then, lentiviral transfection enables stable encapsulation of functional Wnt2 mRNA into Exo",
+      "year": "2025",
+      "journal": "Cell reports. Medicine",
+      "authors": [
+        "Du Wei",
+        "Chen Chen",
+        "Liu YingYing",
+        "Quan Huiyi",
+        "Xu Ming"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Animals",
+        "Mice",
+        "Chemical and Drug Induced Liver Injury",
+        "Liver",
+        "Humans",
+        "Mice, Inbred C57BL",
+        "Acetaminophen",
+        "Male",
+        "Hepatocytes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40120577/"
+    },
+    {
+      "pmid": "39970726",
+      "title": "Milk-derived exosome-loaded SS31 as a novel strategy to mitigate UV-induced photodamage in skin.",
+      "abstract": "It is widely recognized that ultraviolet (UV) radiation primarily catalyses photodamage in the skin by generating reactive oxygen species (ROS). In this study, we developed a novel antioxidant complex, Exo-SS31, by loading the antioxidant peptide SS31 (also known as MTP-131, elamipretide) into milk-derived exosomes. Our findings indicate that Exo-SS31 is an effective antioxidant capable of mitigating Human dermal fibroblast (HDF) damage induced by ultraviolet exposure, suppressing ROS production, and achieving greater therapeutic efficacy than SS31 alone. This complex can regulate the levels of superoxide dismutase (SOD) and glutathione (GSH) within the skin, inhibit the expression of proteins in pathways such as pMAPK and AP-1 triggered by UV radiation, and reduce the expression of the matrix metalloproteinases MMP1 and MMP3. Through these mechanisms, Exo-SS31 effectively prevents collagen degradation in the dermis and inhibits ultraviolet-induced photodamage. The use of milk-derived exosomes as carriers for antioxidant peptides represents a promising strategy to increase the bioavailability of peptide-based therapeutics.",
+      "year": "2025",
+      "journal": "Journal of photochemistry and photobiology. B, Biology",
+      "authors": [
+        "Luo Ding",
+        "Mao Yanhong",
+        "Zhang Shengni",
+        "Shen Shengqiang",
+        "Ge Xiaohu"
+      ],
+      "mesh_terms": [
+        "Ultraviolet Rays",
+        "Humans",
+        "Exosomes",
+        "Skin",
+        "Reactive Oxygen Species",
+        "Matrix Metalloproteinase 1",
+        "Antioxidants",
+        "Milk",
+        "Fibroblasts",
+        "Superoxide Dismutase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39970726/"
+    },
+    {
+      "pmid": "39409038",
+      "title": "The Immobilization of an FGF2-Derived Peptide on Culture Plates Improves the Production and Therapeutic Potential of Extracellular Vesicles from Wharton's Jelly Mesenchymal Stem Cells.",
+      "abstract": "The skin is an essential organ that protects the body from external aggressions; therefore, damage from various wounds can significantly impair its function, and effective methods for regenerating and restoring its barrier function are crucial. This study aimed to mass-produce wound-healing exosomes using a fragment of the fibroblast growth factor 2 (FGF2)-derived peptide (FP2) to enhance cell proliferation and exosome production. Our experiments demonstrated increased cell proliferation when Wharton's jelly mesenchymal stem cells (WJ MSCs) were coated with FP2. Exosomes from FP2-coated WJ MSCs were analyzed using nanoparticle-tracking analysis, transmission electron microscopy, and Western blotting. Subsequently, fibroblasts were treated with these exosomes, and their viability and migration effects were compared. Anti-inflammatory effects were also evaluated by inducing pro-inflammatory factors in RAW264.7 cells. The treatment of fibroblasts with FP2-coated WJ MSC-derived exosomes (FP2-exo) increased the expression of FGF2, confirming their wound-healing effect in vivo. Overall, the results of this study highlight the significant impact of FP2 on the proliferation of WJ MSCs and the anti-inflammatory and wound-healing effects of exosomes, suggesting potential applications beyond wound healing.",
+      "year": "2024",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Lee Youngseo",
+        "Lim Kyung-Min",
+        "Bong Hanbit",
+        "Lee Soo-Bin",
+        "Jeon Tak-Il"
+      ],
+      "mesh_terms": [
+        "Mesenchymal Stem Cells",
+        "Fibroblast Growth Factor 2",
+        "Humans",
+        "Cell Proliferation",
+        "Mice",
+        "Wharton Jelly",
+        "Animals",
+        "Exosomes",
+        "Wound Healing",
+        "Extracellular Vesicles"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39409038/"
+    },
+    {
+      "pmid": "39047084",
+      "title": "Engineered Mesenchymal Stromal Cell Exosomes-Loaded Microneedles Improve Corneal Healing after Chemical Injury.",
+      "abstract": "Corneal alkali burns represent a prevalent ophthalmic emergency with the potential to induce blindness. The main contributing mechanisms include excessive inflammation and delayed wound healing. Existing clinical therapies have limitations, promoting the exploration of alternative methods that offer improved efficacy and reduced side effects. Adipose-derived stem cell-exosome (ADSC-Exo) has the potential to sustain immune homeostasis and facilitate tissue regeneration. Nevertheless, natural ADSC-Exo lacks disease specificity and exhibits limited bioavailability on the ocular surface. In this study, we conjugated antitumor necrosis factor-α antibodies (aT) to the surface of ADSC-Exo using matrix metalloproteinase-cleavable peptide chains to create engineered aT-Exo with synergistic effects. In both in vivo and in vitro assessments, aT-Exo demonstrated superior efficacy in mitigating corneal injuries compared to aT alone, unmodified exosomes, or aT simply mixed with exosomes. The cleavable conjugation of aT-Exo notably enhanced wound healing and alleviated inflammation more effectively. Simultaneously, we developed poly(vinyl alcohol) microneedles (MNs) for precise and sustained exosome delivery. The in vivo results showcased the superior therapeutic efficiency of MNs compared with conventional topical administration and subconjunctival injection. Therefore, the bioactive nanodrugs-loaded MNs treatment presents a promising strategy for addressing ocular surface diseases.",
+      "year": "2024",
+      "journal": "ACS nano",
+      "authors": [
+        "Yu Fei",
+        "Zhao Xuan",
+        "Wang Qian",
+        "Fang Po-Han",
+        "Liu Liu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39047084/"
+    },
+    {
+      "pmid": "38633728",
+      "title": "The Innovative and Evolving Landscape of Topical Exosome and Peptide Therapies: A Systematic Review of the Available Literature.",
+      "abstract": "Topical antiaging therapies provide noninvasive delivery of active therapeutics. Exosomes, or extracellular nanovesicles, and peptides, small strings of amino acids, have shown promise as topical therapies in early trials, but neither is FDA approved. This review aims to elucidate the current and future landscape of topical exosomes and peptides as therapeutics for skin rejuvenation. A literature search was conducted using the keywords \"peptides\" OR \"exosomes\" AND \"skin\" OR \"rejuvenation.\" Primary endpoints included mechanisms of action in humans or live animals as well as clinical data supporting the use of exosomes or peptides topically for skin rejuvenation or wound healing. Secondary endpoints were safety, side effects, and efficacy. The articles were collected, organized, and sorted using the Covidence software (Melbourne, Australia) for systematic review. Nine articles evaluating topical application of exosomes and 9 of peptides met inclusion criteria. Topical exosomes were found to increase collagen deposition, accelerate wound healing, and improve overall cosmesis. Several clinical trials are currently underway. Topical peptides were found to improve appearance of fine lines and wrinkles, elasticity and viscoelasticity, skin texture, skin thickness, and the potential for accelerated wound healing. Peptides are quite common in \"cosmeceutical\" products, and several patents have been filed for topical peptide products aimed at increasing skin rejuvenation. This could indicate a movement toward pursuing FDA approval. The future of topical exosome and peptide products for the purpose of skin rejuvenation appears promising. Preliminary data from the studies reviewed here indicates that these products have the potential to be safe and effective.",
+      "year": "2024",
+      "journal": "Aesthetic surgery journal. Open forum",
+      "authors": [
+        "Ash Makenna",
+        "Zibitt Meira",
+        "Shauly Orr",
+        "Menon Ambika",
+        "Losken Albert"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38633728/"
+    },
+    {
+      "pmid": "38585273",
+      "title": "Keratinocyte-derived small extracellular vesicles supply antigens for CD1a-resticted T cells and promote their type 2 bias in the context of filaggrin insufficiency.",
+      "abstract": "Exosome-enriched small extracellular vesicles (sEVs) are nanosized organelles known to participate in long distance communication between cells, including in the skin. Atopic dermatitis (AD) is a chronic inflammatory skin disease for which filaggrin (",
+      "year": "2024",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Kobiela Adrian",
+        "Hewelt-Belka Weronika",
+        "Frąckowiak Joanna E",
+        "Kordulewska Natalia",
+        "Hovhannisyan Lilit"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dermatitis, Atopic",
+        "Extracellular Vesicles",
+        "Filaggrin Proteins",
+        "Inflammation",
+        "Intermediate Filament Proteins",
+        "Keratinocytes",
+        "Lipids",
+        "Peptides",
+        "Proteomics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38585273/"
+    },
+    {
+      "pmid": "37285229",
+      "title": "An Inhalable Hybrid Biomimetic Nanoplatform for Sequential Drug Release and Remodeling Lung Immune Homeostasis in Acute Lung Injury Treatment.",
+      "abstract": "Interactions of lung macrophages and recruited neutrophils with the lung microenvironment continuously aggravate the dysregulation of lung inflammation in the pathogenesis of acute lung injury (ALI) or acute respiratory distress syndrome (ARDS). Either modulating macrophages or destroying neutrophil counts cannot guarantee a satisfactory outcome in ARDS treatment. Aimed at inhibiting the coordinated action of neutrophils and macrophages and modulating the hyper-inflammatory condition, an inhalable biomimetic sequential drug-releasing nanoplatform was developed for the combinatorial treatment of ALI. The nanoplatform (termed D-SEL) was made by conjugating DNase I, as outer cleavable arms, to a serum exosomal and liposomal hybrid nanocarrier (termed SEL) via a matrix metalloproteinase 9 (MMP-9)-cleavable peptide and then encapsulating methylprednisolone sodium succinate (MPS). In lipopolysaccharide (LPS) induced ALI in mice, the MPS/D-SEL moved through muco-obstructive airways and was retained in the alveoli for over 24 h postinhalation. DNase I was then released from the nanocarrier first after responding to MMP-9, resulting in inner SEL core exposure, which precisely delivered MPS into macrophages for promoting M2 macrophage polarization. Local and sustained DNase I release degraded dysregulated neutrophil extracellular traps (NETs) and suppressed neutrophil activation and the mucus plugging microenvironment, which in turn amplified M2 macrophage polarization efficiency. Such dual-stage drug release behavior facilitated down-regulation of pro-inflammatory cytokines in the lung but anti-inflammatory cytokine production through remodeling lung immune homeostasis, ultimately promoting lung tissue repair. This work presents a versatile hybrid biomimetic nanoplatform for the local pulmonary delivery of dual-drug therapeutics and displays potential in the treatment of acute inflammation.",
+      "year": "2023",
+      "journal": "ACS nano",
+      "authors": [
+        "Liu Chang",
+        "Xi Long",
+        "Liu Yihan",
+        "Mak Judith Choi Wo",
+        "Mao Shirui"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Matrix Metalloproteinase 9",
+        "Biomimetics",
+        "Drug Liberation",
+        "Lung",
+        "Acute Lung Injury",
+        "Respiratory Distress Syndrome",
+        "Homeostasis",
+        "Deoxyribonuclease I"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37285229/"
+    },
+    {
+      "pmid": "37207581",
+      "title": "PD-L1 exosomes electrochemical sensor based on coordination of AgNCs and Zr",
+      "abstract": "Programmed death ligand 1 (PD-L1) exosomes are important biomarkers of immune activation in the initial stages of treatment and can predict clinical responses to PD-1 blockade in various cancer patients. However, traditional PD-L1 exosome bioassays face challenges such as high interface fouling in complex detection environments, limited detection specificity, and poor clinical serum applicability. Inspired by the multi-branched structure of trees, a biomimetic tree-like multifunctional antifouling peptide (TMAP)-assisted electrochemical sensor was developed for high-sensitivity exosomes detection. Multivalent interaction of TMAP significantly enhances the binding affinity of PD-L1 exosomes, thanks to the designed branch antifouling sequence, TMAPs antifouling performance is further improved. The addition of Zr",
+      "year": "2023",
+      "journal": "Biosensors & bioelectronics",
+      "authors": [
+        "Hu Junjie",
+        "Mao Zhihui",
+        "Lu Yongkai",
+        "Chen Qiang",
+        "Xia Junjie"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "B7-H1 Antigen",
+        "Exosomes",
+        "Biofouling",
+        "Biosensing Techniques",
+        "Peptides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37207581/"
+    },
+    {
+      "pmid": "36775818",
+      "title": "MiR146a-loaded engineered exosomes released from silk fibroin patch promote diabetic wound healing by targeting IRAK1.",
+      "abstract": "Unhealable diabetic wounds need to be addressed with the help of newer, more efficacious strategies. Exosomes combined with biomaterials for sustained delivery of therapeutic agents are expected to bring new hope for chronic wound treatment. Here, the engineered exosomes modified for efficiently loading miR146a and attaching to silk fibroin patch (SFP) were demonstrated to promote diabetic wound healing. Silk fibroin binding peptide (SFBP) was screened through phage display, and SFBP-Gluc-MS2 (SGM) and pac-miR146a-pac fusion protein were constructed. The designed exosomes (SGM-Exos, miR146a-Exos, and SGM-miR146a-Exos) were isolated from the engineered placental mesenchymal stem cells (PMSCs) transduced with SGM or/and pac-miR146a-pac protein. Gluc signals indicated SGM-Exo@SFP markedly increased the binding rate and the stability of SGM-Exo. Moreover, the loading efficiency of miR146a in SGM-miR146a-Exos was ten-fold higher than that in miR146a-Exos. Superior to untreated, SGM-miR146a-Exo-only treated, and SFP-only treated groups, SGM-miR146a-Exo@SFP drived wound healing associated with less inflammation, collagen deposition, and neovascularization. The transcriptomics analysis suggested anti-inflammatory and regenerative effects with SGM-miR146a-Exo@SFP treatment. Here, we show efficient exosome@biomaterial-based miRNA delivery systems for regenerative medicine and tissue engineering.",
+      "year": "2023",
+      "journal": "Signal transduction and targeted therapy",
+      "authors": [
+        "Li Qiankun",
+        "Hu Wenzhi",
+        "Huang Qilin",
+        "Yang Jie",
+        "Li Bingmin"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetes Mellitus",
+        "Exosomes",
+        "Fibroins",
+        "Interleukin-1 Receptor-Associated Kinases",
+        "Wound Healing",
+        "Mesenchymal Stem Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36775818/"
+    },
+    {
+      "pmid": "35999612",
+      "title": "αvβ3 integrin-specific exosomes engineered with cyclopeptide for targeted delivery of triptolide against malignant melanoma.",
+      "abstract": "Melanoma is the most malignant skin tumor and is difficult to cure with the alternative treatments of chemotherapy, biotherapy, and immunotherapy. Our previous study showed that triptolide (TP) exhibited powerful tumoricidal activity against melanoma. However, the clinical potential of TP is plagued by its poor aqueous solubility, short half-life, and biotoxicity. Therefore, developing an ideal vehicle to efficiently load TP and achieving targeted delivery to melanoma is a prospective approach for making full use of its antitumor efficacy.",
+      "year": "2022",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Gu Yongwei",
+        "Du Yue",
+        "Jiang Liangdi",
+        "Tang Xiaomeng",
+        "Li Aixue"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Cell Line, Tumor",
+        "Diterpenes",
+        "Epoxy Compounds",
+        "Exosomes",
+        "Humans",
+        "Integrin alphaVbeta3",
+        "Integrins",
+        "Melanoma",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35999612/"
+    },
+    {
+      "pmid": "34863187",
+      "title": "Ultrasound triggered topical delivery of Bmp7 mRNA for white fat browning induction via engineered smart exosomes.",
+      "abstract": "Efficient and topical delivery of drugs is essential for maximized efficacy and minimized toxicity. In this study, we aimed to design an exosome-based drug delivery platform endowed with the ability of escaping from phagocytosis at non-target organs and controllably releasing drugs at targeted location.",
+      "year": "2021",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Guo Yitong",
+        "Wan Zhuo",
+        "Zhao Ping",
+        "Wei Mengying",
+        "Liu Yunnan"
+      ],
+      "mesh_terms": [
+        "Adipose Tissue, Brown",
+        "Adipose Tissue, White",
+        "Administration, Topical",
+        "Animals",
+        "Bioengineering",
+        "Bone Morphogenetic Protein 7",
+        "Drug Delivery Systems",
+        "Exosomes",
+        "Male",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34863187/"
+    }
+  ],
+  "crawled_at": "2026-06-15T23:12:42.166777"
+}

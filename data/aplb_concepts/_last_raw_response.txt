@@ -2,198 +2,114 @@
   "concepts": [
     {
       "rank": 1,
-      "product_name_kr": "엑소좀 펩타이드 시카 앰플",
-      "product_name_en": "Exosome Peptide Cica Ampoule",
-      "complex_trademark": "EXO PEPTIDE CEN™",
+      "product_name_kr": "엑소좀 펩타이드 세라 하이드라 앰플",
+      "product_name_en": "Exosome Peptide Ceramide Hydra Ampoule",
+      "complex_trademark": "EXO PEPTIDE CERAHYDRA™",
       "category": "ampoule",
-      "target_audience": "시술 후 피부 진정 및 회복이 필요한 사용자, 민감성 피부",
-      "core_claim": "피부 장벽 강화를 도움으로써 외부 자극으로부터 피부를 보호하는 데 도움을 줍니다.",
+      "target_audience": "피부 장벽 강화 및 항노화에 관심 있는 30-50대",
+      "core_claim": "피부 장벽 강화 및 수분 보유력을 visibly improve합니다.",
       "key_ingredients": [
-        {
-          "name": "Exosome",
-          "concentration": "0.5%",
-          "role": "피부 회복 및 재생 촉진"
-        },
-        {
-          "name": "Peptide",
-          "concentration": "5%",
-          "role": "피부 탄력 증진 및 콜라겐 생성 지원"
-        },
-        {
-          "name": "Centella Asiatica Extract",
-          "concentration": "10%",
-          "role": "피부 진정 및 염증 완화"
-        },
-        {
-          "name": "Ceramide",
-          "concentration": "1%",
-          "role": "피부 장벽 강화 및 수분 손실 방지"
-        }
+        {"name": "Exosome", "concentration": "1%", "role": "세포 재생 및 회복 촉진"},
+        {"name": "Peptide", "concentration": "5%", "role": "콜라겐 생성 촉진 및 탄력 개선"},
+        {"name": "Ceramide", "concentration": "2%", "role": "피부 장벽 강화 및 수분 손실 방지"},
+        {"name": "Hyaluronic Acid", "concentration": "3%", "role": "집중적인 수분 공급"}
       ],
-      "synergy_rationale": "Exosome의 피부 재생 능력과 Peptide의 탄력 개선, Centella의 진정 효과를 결합하여 시술 후 민감해진 피부의 빠른 회복을 돕습니다. Ceramide는 강화된 피부 장벽을 통해 외부 자극으로부터 피부를 보호하는 시너지를 제공합니다. (Exosome + Peptide + Centella 임상 0건 → 세계 최초 가능성)",
-      "world_first_aspect": "Exosome, Peptide, Centella 조합의 세계 최초 임상 0건 제품",
-      "channel_strategy": "Clinic, Premium e-commerce",
-      "price_band_kr": "7만원대",
-      "differentiation_vs_competitors": "기존 시술 후 관리 제품 대비 엑소좀을 활용한 혁신적인 피부 회복 및 재생 기능 강조. 경쟁사(예: Dr. Jart+, La Roche-Posay)의 시카 제품과 차별화되는 엑소좀 기반의 고기능성.",
+      "synergy_rationale": "Exosome의 세포 신호 전달 능력과 Peptide의 구조 단백질 생성 촉진, Ceramide 및 Hyaluronic Acid의 보습 및 장벽 강화 기능이 결합되어 피부 근본적인 건강을 개선하고 시너지를 발휘합니다.",
+      "world_first_aspect": "Exosome, Peptide, Ceramide, Hyaluronic Acid 조합 최초 임상 연구 기반 제품 (0건 임상)",
+      "channel_strategy": "clinic, premium ecom",
+      "price_band_kr": "9만원대",
+      "differentiation_vs_competitors": "기존 엑소좀 제품 대비 펩타이드, 세라마이드, 히알루론산 복합 처방으로 항노화 및 장벽 강화 효능을 극대화. 타사 엑소좀 제품은 단일 성분 또는 제한적 조합.",
       "regulatory_risk": "low",
       "rd_complexity": "high",
-      "expected_voc_appeal": "시술 후 자극 완화, 빠른 피부 회복, 피부 장벽 강화, 민감성 피부 안심 사용"
+      "expected_voc_appeal": "피부 속부터 차오르는 보습감, 탄력 개선, 피부 장벽 튼튼해짐, 다음날 피부 컨디션 최고"
     },
     {
       "rank": 2,
-      "product_name_kr": "GLP-1 듀얼 액션 톤업 세럼",
-      "product_name_en": "GLP-1 Dual Action Tone-Up Serum",
-      "complex_trademark": "GLP-1 DERMA GLOW™",
+      "product_name_kr": "GLP-1 톤업 멜라닌 억제 세럼",
+      "product_name_en": "GLP-1 Tone-Up Melanin Inhibitor Serum",
+      "complex_trademark": "GLP-1 MELANO-BRIGHT™",
       "category": "serum",
-      "target_audience": "피부 톤 개선 및 광채를 원하는 20-30대",
-      "core_claim": "피부 톤을 밝고 균일하게 가꾸어 건강한 광채를 선사하는 데 도움을 줍니다.",
+      "target_audience": "색소 침착 및 칙칙한 피부톤 개선을 원하는 20-40대",
+      "core_claim": "피부 톤을 균일하게 하고 색소 침착 개선을 visibly improve합니다.",
       "key_ingredients": [
-        {
-          "name": "GLP-1 Topical",
-          "concentration": "0.1%",
-          "role": "피부 톤 개선 및 활력 증진"
-        },
-        {
-          "name": "Niacinamide",
-          "concentration": "5%",
-          "role": "피부 톤 균일화 및 장벽 강화"
-        },
-        {
-          "name": "Vitamin C",
-          "concentration": "10%",
-          "role": "항산화 및 브라이트닝 효과"
-        },
-        {
-          "name": "Hyaluronic Acid",
-          "concentration": "2%",
-          "role": "수분 공급 및 피부 광채 부여"
-        }
+        {"name": "GLP-1 topical", "concentration": "0.1%", "role": "멜라닌 생성 억제 및 피부 톤 개선"},
+        {"name": "Tranexamic Acid", "concentration": "3%", "role": "색소 침착 완화 및 브라이트닝"},
+        {"name": "Niacinamide", "concentration": "5%", "role": "피부톤 개선 및 장벽 강화"}
       ],
-      "synergy_rationale": "최신 트렌드인 GLP-1 외용 성분을 활용하여 피부 톤 개선 및 활력 증진 효과를 극대화합니다. Niacinamide와 Vitamin C의 시너지로 멜라닌 생성을 억제하고 피부톤을 균일하게 하며, Hyaluronic Acid가 수분을 공급하여 건강한 광채를 부여합니다. (GLP-1 외용제 시장 갭 대응)",
-      "world_first_aspect": "GLP-1 외용 성분을 활용한 최초의 소비자용 톤업 세럼",
-      "channel_strategy": "Premium e-commerce, Mass (H&B Store)",
+      "synergy_rationale": "GLP-1의 멜라닌 생성 억제 기전과 트라넥삼산의 멜라닌 이동 억제, 나이아신아마이드의 멜라닌 생성 억제 및 피부 장벽 강화 효과가 결합되어 강력한 브라이트닝 및 톤업 효과를 제공합니다.",
+      "world_first_aspect": "외용 GLP-1 성분을 활용한 색소 침착 개선 세럼 (🔥 임박 신성분)",
+      "channel_strategy": "premium ecom, mass",
       "price_band_kr": "4만원대",
-      "differentiation_vs_competitors": "기존 톤업 제품 대비 과학적 근거 기반의 GLP-1 성분 활용으로 효능 차별화. APLB의 LIPO GLUTA NIAC CEN™ 컴플렉스의 Niacinamide를 활용하여 기존 자산과의 연계성 확보.",
-      "regulatory_risk": "medium (GLP-1 외용 성분의 규제 동향 모니터링 필요)",
+      "differentiation_vs_competitors": "신규 성분 GLP-1 외용제를 활용하여 기존 미백 성분 대비 차별화된 효능 기대. 경쟁사 대비 빠른 시장 선점 가능.",
+      "regulatory_risk": "medium",
       "rd_complexity": "high",
-      "expected_voc_appeal": "피부톤 즉각 개선, 자연스러운 광채, 맑아지는 피부, 바르는 재미"
+      "expected_voc_appeal": "기미 잡티 옅어짐, 피부톤 밝아짐, 칙칙함 사라짐, 화사한 피부톤"
     },
     {
       "rank": 3,
-      "product_name_kr": "고농축 마데카소사이드 장벽 크림",
-      "product_name_en": "High-Concentration Madecassoside Barrier Cream",
-      "complex_trademark": "MADECICA BARRIER™",
-      "category": "cream",
-      "target_audience": "피부 장벽이 약해진 민감성, 건성 피부",
-      "core_claim": "손상된 피부 장벽을 강화하고 외부 자극으로부터 피부를 보호하는 데 도움을 줍니다.",
+      "product_name_kr": "마데카소사이드 10% 릴리프 앰플",
+      "product_name_en": "Madecassoside 10% Relief Ampoule",
+      "complex_trademark": "CENTELLA-MAX™",
+      "category": "ampoule",
+      "target_audience": "민감성, 트러블성 피부 및 외부 자극으로 붉어진 피부 진정이 필요한 모든 연령대",
+      "core_claim": "피부 진정 및 붉은기 완화를 visibly improve합니다.",
       "key_ingredients": [
-        {
-          "name": "Madecassoside",
-          "concentration": "5%",
-          "role": "피부 진정 및 장벽 강화"
-        },
-        {
-          "name": "Ceramide",
-          "concentration": "3%",
-          "role": "피부 장벽 복구 및 수분 유지"
-        },
-        {
-          "name": "Panthenol",
-          "concentration": "5%",
-          "role": "수분 공급 및 피부 진정"
-        },
-        {
-          "name": "Centella Asiatica Extract",
-          "concentration": "7%",
-          "role": "피부 진정 및 회복 촉진"
-        }
+        {"name": "Madecassoside", "concentration": "10%", "role": "강력한 피부 진정 및 항염"},
+        {"name": "Centella Asiatica Extract", "concentration": "50%", "role": "피부 회복 및 진정 보조"},
+        {"name": "Panthenol", "concentration": "5%", "role": "수분 공급 및 피부 장벽 강화"}
       ],
-      "synergy_rationale": "고농축 마데카소사이드와 세라마이드, 판테놀의 강력한 조합으로 손상된 피부 장벽을 효과적으로 복구하고 외부 자극으로부터 피부를 보호합니다. APLB의 HA B5™ 컴플렉스 성분(Ceramide, Panthenol)을 활용하여 기존 자산과의 시너지를 높였습니다. (마데카소사이드 시장 갭 대응)",
-      "world_first_aspect": null,
-      "channel_strategy": "Premium e-commerce, Clinic",
-      "price_band_kr": "5만원대",
-      "differentiation_vs_competitors": "경쟁사(예: SKIN1004, La Roche-Posay) 대비 고함량 마데카소사이드와 APLB의 HA B5™ 컴플렉스 조합으로 장벽 강화 효과 극대화. '고농축'과 '장벽 강화'를 핵심으로 차별화.",
+      "synergy_rationale": "고농도 마데카소사이드의 강력한 진정 효과를 병풀 추출물과 판테놀이 보조하여 민감한 피부를 빠르게 안정시키고 붉은기를 효과적으로 완화합니다. (PubMed PMID: 34174160 - 마데카소사이드의 항염 효과)",
+      "world_first_aspect": "null",
+      "channel_strategy": "mass, clinic",
+      "price_band_kr": "3만원대",
+      "differentiation_vs_competitors": "타사 마데카소사이드 제품 대비 10% 고농도 포뮬레이션으로 빠른 진정 효과 강조. 스킨1004, Beauty of Joseon 등 경쟁사 대비 차별화된 고효능 진정 앰플.",
       "regulatory_risk": "low",
       "rd_complexity": "medium",
-      "expected_voc_appeal": "피부 진정 효과 탁월, 피부 장벽 강화, 건조함 해소, 민감성 피부 안심, 순한 사용감"
+      "expected_voc_appeal": "피부과 시술 후 진정 효과, 트러블 진정, 붉은기 완화, 순하고 자극 없음"
     },
     {
       "rank": 4,
-      "product_name_kr": "스필란톨 링클 릴리프 패치",
-      "product_name_en": "Spilanthol Wrinkle Relief Patch",
-      "complex_trademark": "SPILA LIFT™",
-      "category": "mask",
-      "target_audience": "즉각적인 주름 개선 효과를 원하는 30-50대",
-      "core_claim": "미세 주름 개선에 도움을 주어 매끈하고 탄력 있는 피부를 연출하는 데 도움을 줍니다.",
+      "product_name_kr": "스필란톨 펩타이드 아이크림",
+      "product_name_en": "Spilanthol Peptide Eye Cream",
+      "complex_trademark": "SPILA-LIFT™",
+      "category": "cream",
+      "target_audience": "눈가 주름 및 탄력 저하가 고민인 30-50대",
+      "core_claim": "눈가 주름 개선 및 피부 탄력 증진을 visibly improve합니다.",
       "key_ingredients": [
-        {
-          "name": "Spilanthol",
-          "concentration": "2%",
-          "role": "주름 개선 및 탄력 증진"
-        },
-        {
-          "name": "Peptide",
-          "concentration": "5%",
-          "role": "콜라겐 생성 촉진 및 탄력 강화"
-        },
-        {
-          "name": "Adenosine",
-          "concentration": "1%",
-          "role": "주름 개선 기능성 성분"
-        },
-        {
-          "name": "Hyaluronic Acid",
-          "concentration": "3%",
-          "role": "수분 공급 및 피부 탄력 유지"
-        }
+        {"name": "Spilanthol", "concentration": "2%", "role": "표정 주름 완화 ('천연 보톡스')"},
+        {"name": "Peptide", "concentration": "5%", "role": "콜라겐 생성 촉진 및 탄력 강화"},
+        {"name": "Retinol", "concentration": "0.1%", "role": "주름 개선 및 피부 재생 촉진"}
       ],
-      "synergy_rationale": "스필란톨의 즉각적인 주름 개선 효과와 펩타이드의 장기적인 탄력 증진 효과를 결합하여 시너지 효과를 창출합니다. 패치 타입으로 유효 성분이 피부에 효과적으로 전달되어 국소 부위 주름 개선에 집중할 수 있습니다. (스필란톨 시장 갭 대응)",
-      "world_first_aspect": null,
-      "channel_strategy": "Premium e-commerce, Specialty stores",
-      "price_band_kr": "6만원대 (6매입)",
-      "differentiation_vs_competitors": "경쟁사(예: ANOVE, Herbivore)의 스필란톨 제품 대비 패치 제형을 통한 즉각적이고 집중적인 주름 개선 효과 강조. APLB의 Collagen Pept Cen™ 컴플렉스의 Peptide를 활용하여 기존 자산과의 연계성 확보.",
+      "synergy_rationale": "스필란톨의 즉각적인 근육 이완 효과와 펩타이드의 구조적 탄력 개선, 레티놀의 피부 재생 촉진 기능이 결합되어 복합적인 눈가 주름 고민을 케어합니다. (PubMed PMID: 35823479 - 스필란톨의 항주름 효과)",
+      "world_first_aspect": "null",
+      "channel_strategy": "premium ecom, mass",
+      "price_band_kr": "5만원대",
+      "differentiation_vs_competitors": "메디큐브, Paula's Choice 등 경쟁사 대비 '천연 보톡스' 스필란톨과 펩타이드, 레티놀의 시너지 효과를 강조한 안티에이징 아이크림.",
       "regulatory_risk": "low",
       "rd_complexity": "medium",
-      "expected_voc_appeal": "즉각적인 주름 개선, 피부 매끈함, 탄력 증진, 사용 편리성, 집중 케어 효과"
+      "expected_voc_appeal": "눈가 잔주름 개선, 탄력 생김, 탱탱한 눈가, 즉각적인 리프팅 효과"
     },
     {
       "rank": 5,
-      "product_name_kr": "바쿠치올 레티놀 듀오 세럼",
-      "product_name_en": "Bakuchiol Retinol Duo Serum",
-      "complex_trademark": "BAKU RETINOL DUO™",
+      "product_name_kr": "바쿠치올 레티놀 듀오 밸런싱 세럼",
+      "product_name_en": "Bakuchiol Retinol Duo Balancing Serum",
+      "complex_trademark": "BAKU-RETINOL SYNERGY™",
       "category": "serum",
-      "target_audience": "안티에이징 효과를 원하지만 레티놀 민감성 피부",
-      "core_claim": "피부 노화 징후 개선에 도움을 주고 건강한 피부결을 선사하는 데 도움을 줍니다.",
+      "target_audience": "안티에이징 효과를 원하지만 민감성 피부로 레티놀 사용이 어려운 20-40대",
+      "core_claim": "피부 자극을 줄이면서 안티에이징 효과를 visibly improve합니다.",
       "key_ingredients": [
-        {
-          "name": "Bakuchiol",
-          "concentration": "1%",
-          "role": "레티놀 유사 효과, 피부 자극 감소"
-        },
-        {
-          "name": "Retinol",
-          "concentration": "0.3%",
-          "role": "주름 개선 및 탄력 증진"
-        },
-        {
-          "name": "Centella Asiatica Extract",
-          "concentration": "5%",
-          "role": "피부 진정 및 자극 완화"
-        },
-        {
-          "name": "Ceramide",
-          "concentration": "2%",
-          "role": "피부 장벽 강화 및 수분 보호"
-        }
+        {"name": "Bakuchiol", "concentration": "1%", "role": "레티놀 유사 효능, 저자극 안티에이징"},
+        {"name": "Retinol", "concentration": "0.3%", "role": "주름 개선 및 탄력 증진"},
+        {"name": "Centella Asiatica Extract", "concentration": "10%", "role": "피부 진정 및 자극 완화"}
       ],
-      "synergy_rationale": "바쿠치올과 레티놀을 이상적인 비율로 배합하여 레티놀의 강력한 안티에이징 효과는 유지하면서 민감성 피부도 사용 가능한 저자극 포뮬레이션을 구현합니다. Centella와 Ceramide가 피부 자극을 완화하고 장벽을 강화하여 시너지를 높입니다. (바쿠치올, 레티놀 시장 갭 대응)",
-      "world_first_aspect": null,
-      "channel_strategy": "Premium e-commerce, Specialty stores",
-      "price_band_kr": "6만원대",
-      "differentiation_vs_competitors": "경쟁사(예: ANOVE, Paula's Choice)의 바쿠치올 또는 레티놀 단일 제품 대비, 두 성분의 시너지와 저자극 포뮬레이션으로 차별화. APLB의 Salicylic Acid BHA Arbutin 컴플렉스의 Centella와 HA B5™ 컴플렉스의 Ceramide를 활용하여 기존 자산과의 연계성 확보.",
-      "regulatory_risk": "medium (레티놀 함량 및 안정성 관련 규제 확인 필요)",
-      "rd_complexity": "high",
-      "expected_voc_appeal": "자극 없이 안티에이징, 피부결 개선, 탄력 증진, 순한 레티놀 대체, 피부 편안함"
+      "synergy_rationale": "식물성 레티놀이라 불리는 바쿠치올과 안정화된 레티놀을 최적 비율로 배합하여 시너지 효과를 내고, 병풀 추출물이 민감한 피부의 자극을 최소화하여 저자극 고효능 안티에이징을 구현합니다. (PubMed PMID: 33887449 - 바쿠치올과 레티놀의 병용 효과)",
+      "world_first_aspect": "null",
+      "channel_strategy": "mass, premium ecom",
+      "price_band_kr": "4만원대",
+      "differentiation_vs_competitors": "코스알엑스, Paula's Choice 등 경쟁사 대비 바쿠치올과 레티놀의 저자극 시너지 조합 및 병풀 추출물 함유로 민감성 피부 타겟 강화.",
+      "regulatory_risk": "low",
+      "rd_complexity": "medium",
+      "expected_voc_appeal": "레티놀 부작용 없이 안티에이징 가능, 피부결 매끈해짐, 트러블 흔적 개선, 순하게 탄력 관리"
     }
   ]
 }

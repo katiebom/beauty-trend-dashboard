@@ -1,0 +1,1031 @@
+{
+  "ingredient_id": "urea",
+  "name_kr": "우레아",
+  "name_en": "Urea",
+  "query": "(\"Urea\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 27,
+  "trials": [
+    {
+      "nct_id": "NCT06998680",
+      "title": "6-Month Trial of Chinese Herbal Treatments for Hair Loss and Gray Hair",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alopecia",
+        "Canities"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "VitaGreen Capsule A+VitaGreen Tonic"
+        },
+        {
+          "type": "OTHER",
+          "name": "VitaGreen Capsule B+VitaGreen Tonic"
+        },
+        {
+          "type": "OTHER",
+          "name": "Capsule Placebo+VitaGreen Tonic"
+        },
+        {
+          "type": "OTHER",
+          "name": "Capsule Placebo+Tonic Placebo"
+        }
+      ],
+      "sponsor": "Vita Green Pharmaceutical (H.K.) Ltd.",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06998680"
+    },
+    {
+      "nct_id": "NCT07422974",
+      "title": "Perioperative Outcomes After Neoadjuvant Therapy in Colorectal Cancer",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Colorectal Carcinoma (CRC)",
+        "Complications",
+        "Neoadjuvant Therapy",
+        "Endothelial Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Skin and subcutaneous tissue sampling for histopathological analysis"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Blood sampling for laboratory analyses before and after surgery"
+        }
+      ],
+      "sponsor": "Osijek University Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07422974"
+    },
+    {
+      "nct_id": "NCT03077542",
+      "title": "Nonmyeloablative Haploidentical Peripheral Blood Mobilized Hematopoietic Precursor Cell Transplantation for Sickle Cell Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sickle Cell Disease"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "haploidentical stem cell transplant"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sirolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Alemtuzumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Pentostatin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Hydroxyurea"
+        },
+        {
+          "type": "DRUG",
+          "name": "Filgrastim"
+        }
+      ],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "primary_completion": "2023-07-27",
+      "url": "https://clinicaltrials.gov/study/NCT03077542"
+    },
+    {
+      "nct_id": "NCT06688084",
+      "title": "Pathogenicity Factors of Staphylococcus Pettenkoferi in Foot Wounds and Osteitis in Diabetic Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Diabetic Foot Ulcer"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Molecular epidemiology of the collection"
+        },
+        {
+          "type": "OTHER",
+          "name": "Study of the resistome of the S. pettenkoferi population"
+        },
+        {
+          "type": "OTHER",
+          "name": "Study of the virulome of the S. pettenkoferi population"
+        },
+        {
+          "type": "OTHER",
+          "name": "Study of the resistance profiles of all S. pettenkoferi isolates"
+        },
+        {
+          "type": "OTHER",
+          "name": "Selection of strains for in-depth phenotypic study"
+        },
+        {
+          "type": "OTHER",
+          "name": "Selection of strains (n=3) for the virulence study"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nīmes",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06688084"
+    },
+    {
+      "nct_id": "NCT06921850",
+      "title": "A Study to Assess the Pharmacokinetics and Safety of Bimekizumab in Children and Adolescents With Moderate to Severe Hidradenitis Suppurativa",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bimekizumab"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2026-12-21",
+      "url": "https://clinicaltrials.gov/study/NCT06921850"
+    },
+    {
+      "nct_id": "NCT06566274",
+      "title": "Thumbtack Needle in the Treatment of NVP",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Nausea and Vomiting in Pregnancy (NVP)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "thumbtack needle"
+        },
+        {
+          "type": "DEVICE",
+          "name": "sham thumbtack needle"
+        }
+      ],
+      "sponsor": "Dongmei Huang",
+      "primary_completion": "2028-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06566274"
+    },
+    {
+      "nct_id": "NCT07057778",
+      "title": "Iguratimod Plus Low-dose Rituximab vs Low-dose Rituximab in Corticosteroid-resistant or Relapsed ITP",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenia (ITP)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Iguratimod"
+        },
+        {
+          "type": "DRUG",
+          "name": "low-dose rituximab"
+        }
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07057778"
+    },
+    {
+      "nct_id": "NCT06731192",
+      "title": "Human Umbilical Cord Mesenchymal Stem Cells for Alport Syndrome",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alport Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "hUC-MSC"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo control drug"
+        }
+      ],
+      "sponsor": "Guangzhou Women and Children's Medical Center",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06731192"
+    },
+    {
+      "nct_id": "NCT03004547",
+      "title": "Sodium Deposition in Soft Tissues of Patients with Kidney Disease",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Haemodialysis Complication"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Measuring sodium content"
+        }
+      ],
+      "sponsor": "Chris McIntyre",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03004547"
+    },
+    {
+      "nct_id": "NCT07640503",
+      "title": "Lamivudine as a Novel Clinical Effort for Rett Syndrome",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rett Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lamivudine"
+        }
+      ],
+      "sponsor": "Maria Denise Fernandes Carvalho de Andrade",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT07640503"
+    },
+    {
+      "nct_id": "NCT03952637",
+      "title": "A Phase 1/2 Study of Intravenous Gene Transfer With an AAV9 Vector Expressing Human Beta-galactosidase in Type I and Type II GM1 Gangliosidosis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lysosomal Diseases",
+        "Gangliosidosis",
+        "GM1"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "AAV9-GLB1"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Abdominal ultrasound"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sirolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methylprednisolone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisone"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Audiology assessment with ABR"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Bone density scan (DEXA)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Electrocardiogram (EKG)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Echocardiogram"
+        },
+        {
+          "type": "OTHER",
+          "name": "Electroencephalogram (EEG) awake and extended overnight"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Laboratory tests"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Lumbar puncture"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Brain MRI/MRS/fMRI"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Neurocognitive testing"
+        },
+        {
+          "type": "OTHER",
+          "name": "Neurology exam"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "PICC or other Central line placement"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Skeletal survey"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Skin biopsy"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Speech and modified barium swallow study"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Ophthalmology exam"
+        }
+      ],
+      "sponsor": "National Human Genome Research Institute (NHGRI)",
+      "primary_completion": "2028-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT03952637"
+    },
+    {
+      "nct_id": "NCT07587294",
+      "title": "Efficacy and Safety of Ultrasound Modulation of Stellate Ganglion for the Prevention of Ventricular Arrhythmia in Patients With ST-segment Elevation Myocardial Infarction",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acute ST-segment Elevation Myocardial Infarction (Patients Undergoing Emergency PCI)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Ultrasound modulation of the left stellate ganglion"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham ultrasound modulation of the left stellate ganglion"
+        }
+      ],
+      "sponsor": "Renmin Hospital of Wuhan University",
+      "primary_completion": "2027-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT07587294"
+    },
+    {
+      "nct_id": "NCT06974877",
+      "title": "Repeat PET/CT Imaging in People With CAPS and Anakinra-Induced Amyloidosis Using an Amyloid-Reactive Peptide to Measure Changes in Organ-Specific Amyloid Load",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cryopyrin-Associated Periodic Syndromes",
+        "Amyloidosis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "124I AT-01"
+        }
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "primary_completion": "2031-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06974877"
+    },
+    {
+      "nct_id": "NCT07047664",
+      "title": "KERMIT: Sweat Patch for Early Kidney Disease Detection",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Kidney Disease (CKD)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "KERMIT dermal patch"
+        },
+        {
+          "type": "DEVICE",
+          "name": "KERMIT dermal patch"
+        }
+      ],
+      "sponsor": "University of Ioannina",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT07047664"
+    },
+    {
+      "nct_id": "NCT06639178",
+      "title": "Effectiveness of an N-acetylcysteine and Urea-based Cream in Prevention of Capecitabine-induced HAND-foot Syndrome in Breast Cancer Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "DECLARAN cream"
+        }
+      ],
+      "sponsor": "Centro di Riferimento Oncologico - Aviano",
+      "primary_completion": "2026-05-15",
+      "url": "https://clinicaltrials.gov/study/NCT06639178"
+    },
+    {
+      "nct_id": "NCT04147494",
+      "title": "Experimental PET Imaging Scans Before Cancer Surgery to Study the Amount of PET Tracer Accumulated in Normal and Cancer Tissues",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Carcinoma",
+        "Colon Carcinoma",
+        "Esophageal Carcinoma",
+        "Gastric Carcinoma",
+        "Head and Neck Carcinoma",
+        "Kidney Carcinoma",
+        "Lung Carcinoma",
+        "Ovarian Carcinoma",
+        "Pancreatic Carcinoma",
+        "Solid Neoplasm",
+        "Uterine Corpus Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Computed Tomography"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Gallium Ga 68 FAPi-46"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Gallium Ga 68-labeled PSMA-11"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Positron Emission Tomography"
+        },
+        {
+          "type": "RADIATION",
+          "name": "18F-FDG"
+        }
+      ],
+      "sponsor": "Jonsson Comprehensive Cancer Center",
+      "primary_completion": "2030-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT04147494"
+    },
+    {
+      "nct_id": "NCT07146945",
+      "title": "A Study Testing the Safety and Effects of Single Doses of S1-221 in Healthy Volunteers",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy Participants"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "S1-221"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "THC"
+        }
+      ],
+      "sponsor": "Delphian Therapeutics Australia Pty, Ltd",
+      "primary_completion": "2026-02-22",
+      "url": "https://clinicaltrials.gov/study/NCT07146945"
+    },
+    {
+      "nct_id": "NCT03983954",
+      "title": "Naptumomab Estafenatox in Combination With Durvalumab in Subjects With Selected Advanced or Metastatic Solid Tumor, Including a Cohort Expansion in Esophageal Cancer.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "ER+ Breast Cancer",
+        "Ovarian Cancer",
+        "Cervical Squamous Cell Carcinoma",
+        "Pancreatic Adenocarcinoma",
+        "Endometrial Cancer",
+        "Renal Cell Carcinoma",
+        "Urothelial Cancer",
+        "Head and Neck Squamous Cell Carcinoma",
+        "Mesothelioma",
+        "Melanoma",
+        "Hepatocellular Carcinoma",
+        "Prostate Cancer",
+        "NSCLC",
+        "HER2-negative Breast Cancer",
+        "Triple Negative Breast Cancer",
+        "Bladder Cancer",
+        "Colorectal Cancer Metastatic",
+        "GastroEsophageal Cancer",
+        "NSCL2 Gene Mutation",
+        "Esophageal Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Obinutuzumab, naptumomab estafenatox and durvalumab"
+        },
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Naptumomab estafenatox and durvalumab"
+        }
+      ],
+      "sponsor": "NeoTX Therapeutics Ltd.",
+      "primary_completion": "2027-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT03983954"
+    },
+    {
+      "nct_id": "NCT03579875",
+      "title": "Alpha/Beta TCD HCT in Patients With Inherited BMF Disorders",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Fanconi Anemia",
+        "Severe Aplastic Anemia",
+        "Myelodysplastic Syndromes",
+        "T Cell Receptor Alpha/Beta Depletion",
+        "Telomere Biology Disorder",
+        "Bone Marrow Failure",
+        "Dyskeratosis Congenita",
+        "Telomere Biology Disorders"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Total Body Irradiation (TBI) (Plan 1)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide (CY) (Plan 1)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine (FLU)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methylprednisolone (MP)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Donor mobilized PBSC infusion"
+        },
+        {
+          "type": "DRUG",
+          "name": "G-CSF"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide (CY) (Plan 2)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Busulfan"
+        },
+        {
+          "type": "DRUG",
+          "name": "Alemtuzumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Melphalan"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        }
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "primary_completion": "2027-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT03579875"
+    },
+    {
+      "nct_id": "NCT06564181",
+      "title": "The Relation Between Serum Zinc and Lupus Nephritis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Lupus Nephritis"
+      ],
+      "interventions": [],
+      "sponsor": "Assiut University",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT06564181"
+    },
+    {
+      "nct_id": "NCT05687682",
+      "title": "Safety of AM-928 Infusion in Advanced Solid Tumors",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Advanced Solid Tumor"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "AM-928"
+        }
+      ],
+      "sponsor": "AcadeMab Biomedical Inc.",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT05687682"
+    },
+    {
+      "nct_id": "NCT04216524",
+      "title": "Venetoclax, SL-401, and Chemotherapy for the Treatment of Blastic Plasmacytoid Dendritic Cell Neoplasm",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Blastic Plasmacytoid Dendritic Cell Neoplasm"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cytarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Doxorubicin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Mercaptopurine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methotrexate"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methylprednisolone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisone"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rituximab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Tagraxofusp-erzs"
+        },
+        {
+          "type": "DRUG",
+          "name": "Venetoclax"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vincristine"
+        }
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT04216524"
+    },
+    {
+      "nct_id": "NCT05458219",
+      "title": "A First-in-human Study of IBI343 in Subjects With Locally Advanced Unresectable or Metastatic Solid Tumors",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Locally Advanced Unresectable or Metastatic Solid Tumors"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "IBI343"
+        },
+        {
+          "type": "DRUG",
+          "name": "FOLFIRINOX/mFOLFIRINOX"
+        },
+        {
+          "type": "DRUG",
+          "name": "mFOLFOX"
+        },
+        {
+          "type": "DRUG",
+          "name": "IBI343"
+        }
+      ],
+      "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "primary_completion": "2027-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT05458219"
+    },
+    {
+      "nct_id": "NCT06914583",
+      "title": "Safety and Efficacy Evaluation of Sodium Hyaluronate 32mg/ml in Improving Facial Skin Dryness and Dullness",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Facial Dryness",
+        "Facial Dullness"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Sodium Hyaluronate"
+        }
+      ],
+      "sponsor": "IBSA Farmaceutici Italia Srl",
+      "primary_completion": "2025-11",
+      "url": "https://clinicaltrials.gov/study/NCT06914583"
+    },
+    {
+      "nct_id": "NCT03658512",
+      "title": "Tübinger Diabetes Mellitus Database (TUEDID)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Diabetes Mellitus"
+      ],
+      "interventions": [],
+      "sponsor": "University Hospital Tuebingen",
+      "primary_completion": "2028-02-01",
+      "url": "https://clinicaltrials.gov/study/NCT03658512"
+    },
+    {
+      "nct_id": "NCT06324370",
+      "title": "Exploratory Pharmacokinetic Study of Virgin Coconut Oil (VCO)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pharmacological Action"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Virgin Coconut Oil"
+        }
+      ],
+      "sponsor": "Food and Nutrition Research Institute, Philippines",
+      "primary_completion": "2025-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT06324370"
+    },
+    {
+      "nct_id": "NCT06473870",
+      "title": "Understanding Lung Cancer Related Risk Factors and Their Impact",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Lung Cancer Screening"
+      ],
+      "interventions": [],
+      "sponsor": "Biobizkaia Health Research Institute",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT06473870"
+    },
+    {
+      "nct_id": "NCT07545902",
+      "title": "Clinical Study on the Medical Devices PROXERA PSOMED 20 and PROXERA PSOMED 40 for the Treatment of Plaque Psoriasis and Non-pustular Palmoplantar Psoriasis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Plaque Type Psorisis",
+        "Non-pustular Palmoplantar Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "PROXERA PSOMED 20 cream; PROXERA PSOMED 40 gel"
+        }
+      ],
+      "sponsor": "ICIM International S.r.l.",
+      "primary_completion": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT07545902"
+    },
+    {
+      "nct_id": "NCT06676631",
+      "title": "NK010 or NK042 in Combination With Rituximab for Refractory Systemic Lupus Erythematosus/Lupus Nephritis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Refractory Systemic Lupus Erythematosus",
+        "Refractory Lupus Nephritis"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "NK 010 or NK042"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        }
+      ],
+      "sponsor": "Guangdong Provincial People's Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06676631"
+    },
+    {
+      "nct_id": "NCT05594095",
+      "title": "SNF Platform Study of HR+/ HER2-advanced Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Neoplasm",
+        "Breast Cancer",
+        "Hormone Receptor Positive Tumor",
+        "HER2-negative Breast Cancer",
+        "Advanced Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "PIK3CA inhibitor"
+        },
+        {
+          "type": "DRUG",
+          "name": "AKT inhibitor"
+        },
+        {
+          "type": "DRUG",
+          "name": "Carrelizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Famitinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fluzoparib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Dalpiciclib"
+        },
+        {
+          "type": "DRUG",
+          "name": "SHR-A1811"
+        },
+        {
+          "type": "DRUG",
+          "name": "Everolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Aromatase Inhibitors or Fulvestrant"
+        },
+        {
+          "type": "DRUG",
+          "name": "Goserelin"
+        },
+        {
+          "type": "DRUG",
+          "name": "TPC"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sorafenib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Apatinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "SHR-A1921"
+        },
+        {
+          "type": "DRUG",
+          "name": "SHR-A2102"
+        },
+        {
+          "type": "DRUG",
+          "name": "SHR-A2009"
+        },
+        {
+          "type": "DRUG",
+          "name": "SHR-1167"
+        },
+        {
+          "type": "DRUG",
+          "name": "SHR-6209"
+        },
+        {
+          "type": "DRUG",
+          "name": "bevacizumab"
+        }
+      ],
+      "sponsor": "Fudan University",
+      "primary_completion": "2025-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT05594095"
+    }
+  ],
+  "fetched_at": "2026-06-15T23:12:23.442580"
+}

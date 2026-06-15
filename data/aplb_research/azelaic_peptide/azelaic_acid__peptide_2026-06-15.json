@@ -1,0 +1,130 @@
+{
+  "ingredient_a": "azelaic acid",
+  "ingredient_b": "peptide",
+  "query": "(\"azelaic acid\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 5,
+  "articles": [
+    {
+      "pmid": "42011843",
+      "title": "Silk Sericin Functionalized with Carboxy Drugs for Dermocosmetic Applications.",
+      "abstract": "Silk sericin protein, a textile industry by-product showing no toxicity on oral/topical administration, has recently been exploited as a drug delivery system. The high serine content in sericin makes its functionalization through covalent ester-type bonds feasible; however, only in a few cases have covalent conjugates of sericin with the drug to be delivered been developed. In this paper, we report the preparation of sericin conjugates with carboxy drugs of dermatological interest, i.e., naproxen, retinoic acid, and azelaic acid. Characterization of the purified products by spectroscopic methods, particularly ATR-FTIR, provided evidence for the formation of the ester bond, while SDS-PAGE indicated a substantial modification of the protein. Proteomic analysis allowed the identification of drug-peptide adducts in the samples. The extent of ester functionalization (1-3 w/w%) was estimated by alkaline hydrolysis. No cytotoxicity of NAP@SER on HaCaT was observed over a broad range of concentrations. Ex vivo tests on defatted pig skin demonstrated effective passage of the free drug through the skin (5% w/w of the applied dose) from a NAP@SER glycerol suspension and a significant retention of the drug (33% w/w) within the dermal or epidermal tissues. These results hint at the potential of sericin conjugates as prodrugs for dermal administration.",
+      "year": "2026",
+      "journal": "ACS applied bio materials",
+      "authors": [
+        "Argenziano Rita",
+        "Balestrino Alessia",
+        "Guillou Clément",
+        "Nesterenko Alla",
+        "Panzella Lucia"
+      ],
+      "mesh_terms": [
+        "Sericins",
+        "Animals",
+        "Swine",
+        "Humans",
+        "Biocompatible Materials",
+        "Naproxen",
+        "Tretinoin",
+        "Materials Testing",
+        "Dicarboxylic Acids",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42011843/"
+    },
+    {
+      "pmid": "39304286",
+      "title": "Peptide and peptidomimetic tyrosinase inhibitors.",
+      "abstract": "Melanin, which is produced by melanocytes and spread over keratinocytes, is responsible for human skin browning. There are several processes involved in melanogenesis, mostly prompted by enzymatic activities. Tyrosinase (TYR), a copper containing metalloenzyme, is considered the main actor in melanin production, as it catalyzes two crucial steps that modify tyrosine residues in dopaquinone. For this reason, TYR inhibition has been exploited as a possible mechanism of modulation of hyper melanogenesis. There are various types of molecules used to block TYR activity, principally used as skin whitening agents in cosmetic products, e.g., tretinoin, hydroquinone, azelaic acid, kojic acid, arbutin and peptides. Peptides are highly valued for their versatile nature, making them promising candidates for various functions. Their specificity often leads to excellent safety, tolerability, and efficacy in humans, which can be considered their primary advantage over traditional small molecules. There are several examples of tyrosinase inhibitor peptides (TIPs) operating as possible hypo-pigmenting agents, which can be classified according to their origin: natural, hybrid or synthetically produced. Moreover, the possibility of variating their backbones, introducing non-canonical amino acids or modifying one or more peptide bond(s), to obtain peptidomimetic molecules, is an added value to avoid or delay proteolytic activity, while the possibility of conjugation with other bioactive peptides or organic moieties can bring other specific activity leading to dual-functional peptides.",
+      "year": "2024",
+      "journal": "The Enzymes",
+      "authors": [
+        "Errante Fosca",
+        "Sforzi Lucrezia",
+        "Supuran Claudiu T",
+        "Papini Anna Maria",
+        "Rovero Paolo"
+      ],
+      "mesh_terms": [
+        "Monophenol Monooxygenase",
+        "Humans",
+        "Peptidomimetics",
+        "Enzyme Inhibitors",
+        "Peptides",
+        "Animals",
+        "Melanins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39304286/"
+    },
+    {
+      "pmid": "29091380",
+      "title": "Real-World Efficacy of Azelaic Acid 15% Gel for the Reduction of Inflammatory Lesions of Rosacea.",
+      "abstract": "Approximately 16 million Americans have rosacea, an inflammatory cutaneous disorder with central facial erythema, papules, pustules, telangiectasia, flushing, and swelling being among the more commonly recognized features. Overexpression of cathelicidin peptide LL-37 has been implicated in the pathophysiology of rosacea. Azelaic acid has been found to inhibit the pathologic expression of cathelicidin, as well as the hyperactive protease activity that cleaves cathelicidin into LL-37. Given these findings, a small prospective, open-label, interventional trial was undertaken to assess the effects of azelaic acid 15% gel on inflammatory lesions of papulopustular rosacea in a real-world setting. Use of azelaic acid was associated with a significant reduction in inflammatory lesions, which persisted beyond the active treatment phase. Overall, azelaic acid 15% gel is an appropriate initial topical therapy for the treatment of moderate facial rosacea.",
+      "year": "2017",
+      "journal": "Skin therapy letter",
+      "authors": [
+        "Wirth P J",
+        "Henderson Berg M H",
+        "Sadick N"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Dermatologic Agents",
+        "Dicarboxylic Acids",
+        "Facial Dermatoses",
+        "Gels",
+        "Humans",
+        "Prospective Studies",
+        "Rosacea",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29091380/"
+    },
+    {
+      "pmid": "22002717",
+      "title": "[Antimicrobial peptides, Vitamin D₃ and more. How rosacea may develop].",
+      "abstract": "The pathogenesis of rosacea - a common, chronic inflammatory skin disease mainly affecting the central portions of the face - is only partly understood. In affected skin the expression of cathelicidin - an antimicrobial peptide and effector of innate immunity - is strongly increased. In addition, the activity of cutaneous proteases is greatly increased leading to the generation of cathelicidin peptide fragments with pro-inflammatory activity. UV irradiation and microbial factors contribute to this inflammatory cascade by increasing vitamin D(3) metabolism and the activation of toll-like receptors (TLR). Retinoids, azelaic acid and doxycycline inhibit both skin proteases and TLR expression and could mediate their anti-inflammatory effects in rosacea through these mechanisms. These data increase our understanding of the pathogenesis and therapy of rosacea. Also, these insights might uncover novel targets for innovative therapies of this common, stigmatizing skin disease.",
+      "year": "2011",
+      "journal": "Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete",
+      "authors": [
+        "Schauber J"
+      ],
+      "mesh_terms": [
+        "Antimicrobial Cationic Peptides",
+        "Cholecalciferol",
+        "Cytokines",
+        "Humans",
+        "Models, Biological",
+        "Peptide Hydrolases",
+        "Rosacea",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/22002717/"
+    },
+    {
+      "pmid": "20586834",
+      "title": "Rosacea - global diversity and optimized outcome: proposed international consensus from the Rosacea International Expert Group.",
+      "abstract": "The absence of specific histological or serological markers, the gaps in understanding the aetiology and pathophysiology of rosacea, and the broad diversity in its clinical manifestations has made it difficult to reach international consensus on therapy guidelines.",
+      "year": "2011",
+      "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "authors": [
+        "Elewski B E",
+        "Draelos Z",
+        "Dréno B",
+        "Jansen T",
+        "Layton A"
+      ],
+      "mesh_terms": [
+        "Algorithms",
+        "Cosmetics",
+        "Dicarboxylic Acids",
+        "Humans",
+        "International Cooperation",
+        "Patient Education as Topic",
+        "Rosacea",
+        "Tetracycline"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/20586834/"
+    }
+  ],
+  "crawled_at": "2026-06-15T23:12:39.878106"
+}
