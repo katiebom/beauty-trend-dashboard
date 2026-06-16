@@ -1,0 +1,196 @@
+{
+  "ingredient_id": "ceramide",
+  "name_en": "Ceramide",
+  "name_kr": "세라마이드",
+  "category": "barrier",
+  "query": "\"Ceramide\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42297314",
+      "title": "Development of rutin-loaded cerosomes for topical photoprotection and skin barrier modulation.",
+      "abstract": "Xeroderma pigmentosum (XP) is a rare DNA-repair disorder associated with extreme photosensitivity, high skin cancer risk, progressive xerosis and barrier dysfunction. Current management relies largely on strict photoprotection, which does not address impaired hydration and epidermal barrier integrity. This work developed cerosomes (ceramide-containing vesicular systems) as multifunctional topical carriers combining barrier-replenishing ceramides with rutin as an antioxidant/photoprotective agent. Box-Behnken design was applied to optimize rutin-loaded cerosomes by evaluating phospholipid concentration, Tween®80:phospholipid ratio and ceramide concentration on the physicochemical properties. The optimized Tween® 80 formulation showed suitable attributes for topical delivery, with vesicle size <300 nm, polydispersity index <0.3, zeta potential <-30 mV, association efficiency >50% and loading capacity ∼0.8% but these were not maintained after 30 days at room-temperature. Surfactant substitution with Pluronic® F-127 or sodium deoxycholate improved storage stability up to 60 days, while rutin release was complete within 6 h and followed Fickian diffusion. In HaCaT keratinocytes, rutin-loaded cerosomes were cytocompatible up to 50-100 μM, while unloaded systems were more cytotoxic, suggesting a protective role of rutin. In vitro photoprotection assays showed Pluronic®-stabilized cerosomes increased SPF to 40 vs 25 obtained with blank sunscreen, and improved photostability up to 60 min of simulated UV exposure. Barrier-related performance was supported by film-forming/occlusive effects, as well as modulation of water loss and theophylline permeation across artificial membranes and intact/damaged skin models. These findings support rutin-loaded cerosomes as a promising nanoplatform for combined photoprotection and barrier-oriented care in XP.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Vieira João",
+        "Júlio Ana",
+        "Hrdinová Iva",
+        "Kováčik Andrej",
+        "Vávrová Kateřina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42297314/"
+    },
+    {
+      "pmid": "42270730",
+      "title": "Non-invasive characterization of the relationship between skin microrelief and dermal-epidermal junction topography using line-field confocal optical coherence tomography (LC-OCT).",
+      "abstract": "Non-invasive technologies for observing internal skin structures without damaging the surface have advanced in recent years. However, an integrated understanding of internal structures together with the morphology of surface \"microrelief\"-the surface pattern consisting of furrows and ridges (i.e., sulci cutis and cristae cutis)-remains limited. We elucidated the relationship between internal skin structure and microrelief by combining line-field confocal optical coherence tomography (LC-OCT) with a proprietary AI system. We applied a semantic segmentation-based image AI system to LC-OCT data from 11 adults. The system extracted the coordinates of sulci cutis, stratum corneum thickness, viable epidermal thickness, and dermal-epidermal junction (DEJ) topography. The analysis revealed that the skin surface and DEJ in sulci cutis were nearly parallel. The DEJ undulation index in cristae cutis correlated with epidermal thickness, stratum corneum multilayering rate, and ceramide subclass parameters. We verified the relationship between the skin surface and the DEJ structure by incorporating positional information of the microrelief. LC-OCT combined with AI-based analysis provides a non-invasive approach to link age-related changes in DEJ structure with alterations in microrelief and related biomarkers.",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Uda Ken",
+        "Iwami Kazuchika",
+        "Yoshida Naoko",
+        "Homma Toshiyuki"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42270730/"
+    },
+    {
+      "pmid": "42250632",
+      "title": "The impact of avobenzone and oxybenzone on fibroblast and keratinocyte membranes. Searching for the role of lipids in the effect of UV filters on skin cells.",
+      "abstract": "In this work, the effects of two UV filters - avobenzone and oxybenzone - on the membranes of fibroblasts and keratinocytes in ex vivo model systems (Langmuir monolayers) and cell line experiments were examined. The goal of these studies was to analyze the significance of lipid structures in the mechanism of UV filter-induced toxicity to skin cells. Monolayers composed of lipids characteristic of mammalian cell membranes - namely phosphatidylcholine (SOPC), sphingomyelin (SM), cholesterol (Chol) and ceramides (Ceramide 22 and Ceramide 17) - were used as model systems. Both mixed monolayers mimicking fibroblast and keratinocyte membranes and one-component lipid films were investigated. The surface pressure/area measurements and penetration studies were done, and Brewster angle microscopy was applied to verify the morphology of the studied systems. It was found that avobenzone has a stronger impact on molecular organization of skin cell model membranes than oxybenzone; however, its effect is concentration-limited. Both UV filters exhibited stronger affinity to Chol, SM and SOPC monolayers than to ceramides, which are the lipids characteristic for skin cells. Therefore, it can be suggested that ceramides may hinder the penetration of UV filter molecules into the interior of skin cells. Cell line model studied with SEM microscopy suggested that UV filters alter the skin cell membrane. Finally, it was summarized that the mechanism of UV filter toxicity is complex, but one of its important elements is the impact on the organization of lipid structures.",
+      "year": "2026",
+      "journal": "Chemistry and physics of lipids",
+      "authors": [
+        "Wyżga Beata",
+        "Olechowska Karolina",
+        "Kamiński Kamil",
+        "Hąc-Wydro Katarzyna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42250632/"
+    },
+    {
+      "pmid": "42225610",
+      "title": "Skin health in oncology: evidence-based skin care for cancer patients.",
+      "abstract": "Cancer and its treatments frequently compromise skin integrity, leading to xerosis, pruritus, dermatitis, radiation-induced skin damage, and secondary infections. These cutaneous adverse events (cAEs) are not merely superficial; they profoundly impact patient quality of life (QoL), contributing to physical discomfort, psychosocial distress, and poorer treatment adherence. Even mild skin toxicities elevate dermatology-specific QoL measures, affecting mood and social function. Additionally, new targeted therapies, such as daraxonrasib-a KRAS inhibitor under development for pancreatic cancer-can cause a dose-limiting acneiform facial rash.",
+      "year": "2026",
+      "journal": "The oncologist",
+      "authors": [
+        "Kaminsky Alexander",
+        "Suhl Sara",
+        "Sacknovitz Yoni",
+        "Schwartz Gary K",
+        "Deverapalli Sandhya"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Care",
+        "Quality of Life",
+        "Neoplasms"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42225610/"
+    },
+    {
+      "pmid": "42222691",
+      "title": "Sensoriality of emollient creams: can sensory experience compromise blinding in trials?",
+      "abstract": "Regular application of emollients, particularly those that enhance the skin's acid mantle and promote ceramide production, can help restore skin barrier integrity, reduce inflammation and prevent disease flares. These emollients not only protect the skin, but also modulate on the skin microbiome, which has become a cornerstone in disease management. Sensory properties, such as texture, appearance and the sensation of freshness, are critical factors influencing patient perception, treatment adherence and product efficacy.",
+      "year": "2026",
+      "journal": "Skin health and disease",
+      "authors": [
+        "L'Orphelin Jean-Matthieu",
+        "Morice Cécile",
+        "Gardères Johan",
+        "Chopin Sylvie",
+        "Lucas Céline"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42222691/"
+    },
+    {
+      "pmid": "42194103",
+      "title": "Konjac Ceramide Induces Semaphorin 3A Expression via the MAPK/AP-1 Signaling Axis and RORα in Normal Human Epidermal Keratinocytes.",
+      "abstract": "Epidermal hyperinnervation is a major cause of intractable itch in barrier dysfunction conditions such as atopic dermatitis. Keratinocyte-derived semaphorin 3A (Sema3A) suppresses epidermal hyperinnervation, but its expression is markedly reduced in barrier-disrupted skin. Although konjac ceramide (kCer) has been reported to act as a Sema3A-like ligand, the mechanisms by which it regulates Sema3A expression in keratinocytes remain unclear. Normal human epidermal keratinocytes (NHEKs) were treated with kCer, konjac glucosylceramide (kGlcCer), or C24 ceramide. Sema3A mRNA and protein levels were assessed by quantitative real-time PCR and enzyme-linked immunosorbent assay, respectively. The involvement of intracellular signaling was examined using mitogen-activated protein kinase (MAPK) inhibitors, activator protein-1 (AP-1) inhibitors, retinoic acid-related orphan receptor alpha (RORα) inverse agonists, and siRNAs targeting c-Jun, c-Fos, and RORα. kCer induced Sema3A expression in NHEKs more potently than kGlcCer or C24 ceramide and promoted Sema3A protein secretion. Pharmacological inhibition or genetic knockdown of MEK1/2, JNK, AP-1 components, or RORα significantly attenuated kCer-induced ",
+      "year": "2026",
+      "journal": "Biomolecules",
+      "authors": [
+        "Fujita Mirei",
+        "Kamata Yayoi",
+        "Tanemoto Nanami",
+        "Takahashi Nobuaki",
+        "Tominaga Mitsutoshi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Keratinocytes",
+        "Semaphorin-3A",
+        "Transcription Factor AP-1",
+        "Signal Transduction",
+        "Epidermis",
+        "Glucosylceramides",
+        "MAP Kinase Signaling System",
+        "Cells, Cultured",
+        "Ceramides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42194103/"
+    },
+    {
+      "pmid": "42112863",
+      "title": "Differential equilibration in cis- and trans-ceramide monolayers: A molecular dynamics study.",
+      "abstract": "Ceramides are N-acyl sphingosine derivatives with important functions in cell signaling and skin impermeability. Virtually all unsaturated sphingosines found in nature contain a 4-5 trans double bond. The trans configuration is essential for most ceramide functions. Several laboratories, including our own, have tried to understand the reasons for that configurational specificity. We found that, unlike the trans-isomer, cis-palmitoyl ceramide exhibited a kinetically restricted solid-solid phase transition with unusually large changes of molecular area under isothermal compression and marked hysteresis. We present a computational study of the equilibration properties of monolayers consisting of either cis- or trans-ceramides, using molecular dynamics. A reverse-pathway ordered-start atomistic simulation protocol has been developed, starting simulations from low-energy ordered states with hexagonal tail packing and favorable intermolecular amide group interactions, rather than from disordered states. This allowed for much shorter computational times than the conventional approach. This approach was complemented with virtual compression and expansion processes through sequential rescaling of atomic positions along the surface, followed by energy minimization and molecular dynamics runs. Large-scale atomistic simulations were performed on systems with 3456 lipids (72 × 48 arrays) hydrated with a 40 Å-thick water slab. The main conclusions are that trans-ceramide monolayers adopt an ordered conformation more easily (i.e., within a shorter range of mean areas per lipid) than their cis-counterparts and that the water interactions of the polar heads differ according to the isomer, with cis-ceramides being unable to form an intramolecular H-bond between the two OH groups and being oriented less deeply into water.",
+      "year": "2026",
+      "journal": "The Journal of chemical physics",
+      "authors": [
+        "Saiz Leonor",
+        "Vilar Jose M G",
+        "Goñi Félix M",
+        "Alonso Alicia"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112863/"
+    },
+    {
+      "pmid": "42046609",
+      "title": "Holistic Skincare Approach of Cleanse-Treat-Moisturize-Protect (CTMP®) in Atopic Dermatitis Management: Indian Perspectives, Evidence, and Future Directions.",
+      "abstract": "Atopic dermatitis (AD) is a chronic, relapsing inflammatory dermatosis characterized by epidermal barrier dysfunction, immune dysregulation, and significant impairment in quality of life, particularly among pediatric populations. Although topical anti-inflammatory therapies remain central to acute flare control, growing evidence supports barrier-directed skincare as a fundamental component of long-term disease management. This narrative review synthesizes current evidence on cleansing, moisturization, photoprotection, and preventive strategies in AD, with specific consideration of pediatric care and real-world challenges within the Indian healthcare context. Clinical studies consistently demonstrate that regular emollient use enhances skin hydration, accelerates barrier recovery, alleviates symptom burden, and improves quality of life, with additive benefits when combined with topical corticosteroids. National guidance further emphasizes age-appropriate bathing practices, including delayed bathing in low-birth-weight infants and gentle cleansing followed by prompt emollient application. Despite these recommendations, Indian surveys reveal persistent gaps in caregiver awareness, delayed diagnosis, intermittent moisturizer use, and suboptimal adherence driven by cost constraints, loss to follow-up, and preference for alternative therapies. While emerging modalities, including biomimetic formulations, digital health platforms, and personalized skincare, offer potential future directions, current evidence remains largely exploratory, with limited data on cost-effectiveness and real-world implementation. Overall, barrier-focused skincare represents an important adjunct to pharmacologic therapy in AD; however, effective integration into Indian clinical practice will require strengthened caregiver education, context-specific guidance, and system-level strategies addressing accessibility and adherence, supported by future pragmatic trials and epidemiological studies to enable scalable, evidence-based care.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Choudhary Sanjay",
+        "Sadana Dinkar",
+        "C Vijayabhaskar",
+        "Sen Dyotona",
+        "Iyer Soma"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42046609/"
+    },
+    {
+      "pmid": "42045479",
+      "title": "Tissue-specific fibroblast lipid cues impose the rate of epithelial cancer invasion.",
+      "abstract": "Squamous cell carcinomas (SCCs) originate in epithelial tissues of older individuals who have been exposed to environmental carcinogens. Despite overlapping clinical hallmarks, SCCs from different anatomic sites have different prognoses. Here we show that fibroblasts confer site-specific cues that determine SCC proliferation and invasion. Oral and lung fibroblasts have distinct lipid metabolism, transferring unique lipids to SCC cells that promote epithelial-to-mesenchymal transition, and oral and lung SCC invasion. Whereas oral fibroblasts transfer sphingomyelins, which activate the ceramide-sphingosine-1-phosphate-STAT3 pathway and promote oral SCC invasion, lung fibroblasts transfer triglycerides to lung SCCs, thereby triggering cholesterol synthesis and invasion, which is associated with poor survival. By contrast, dermal fibroblasts are lipid poor, and cutaneous SCC is less invasive. Our data indicate that targeting fibroblast lipid synthesis and SCC lipid uptake or breakdown inhibits oral and lung epithelial cancer invasion.",
+      "year": "2026",
+      "journal": "Nature metabolism",
+      "authors": [
+        "Budden Timothy",
+        "Palombo Noah",
+        "Gurung Shilpa",
+        "Gutteridge Martha",
+        "Russell Charlotte"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Fibroblasts",
+        "Neoplasm Invasiveness",
+        "Carcinoma, Squamous Cell",
+        "Lipid Metabolism",
+        "Epithelial-Mesenchymal Transition",
+        "Lung Neoplasms",
+        "Animals",
+        "Cell Line, Tumor",
+        "Ceramides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42045479/"
+    },
+    {
+      "pmid": "42042905",
+      "title": "LC-MS/MS Quantification and Comparative Profiling of Stratum Corneum Ceramides in Human Normal and Dry Skin Subtypes.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Metabolites",
+      "authors": [
+        "Xie Agui",
+        "Zhao Yue",
+        "Zhao Yu",
+        "Zhao Xiao",
+        "Zhu Xiaoge"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42042905/"
+    }
+  ],
+  "crawled_at": "2026-06-16T23:00:58.448570",
+  "source": "pubmed"
+}
