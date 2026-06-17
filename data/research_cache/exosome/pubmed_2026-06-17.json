@@ -1,0 +1,175 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42306298",
+      "title": "Extracellular vesicle-mediated cell-cell communication in keloids and hypertrophic scars: mechanisms, methodological caveats, and therapeutic perspectives.",
+      "abstract": "Pathological scarring, including keloids and hypertrophic scars, remains a major clinical challenge characterized by persistent fibroblast activation, excessive extracellular matrix deposition, chronic inflammation, and aberrant tissue remodeling. Although current treatments have improved management, high recurrence rates and variable outcomes indicate that the underlying mechanisms remain incompletely understood. Extracellular vesicles (EVs), especially small extracellular vesicles (sEVs), are increasingly recognized as mediators of intercellular communication in fibrotic skin disorders. However, according to MISEV recommendations, the term \"exosome\" should be used cautiously unless endosomal origin is specifically demonstrated. In pathological scars, EV-/sEV-mediated signaling has been implicated in fibroblast activation, immune dysregulation, angiogenic imbalance, and extracellular matrix remodeling through cargo transfer among fibroblasts, keratinocytes, endothelial cells, immune cells, and mesenchymal stromal/stem cells. Reported downstream pathways include TGF-β/Smad, Wnt/β-catenin, PI3K/Akt, and NF-κB. However, the strength of evidence varies substantially, as many conclusions are based on ",
+      "year": "2026",
+      "journal": "Frontiers in cell and developmental biology",
+      "authors": [
+        "Lu Bo",
+        "Jin Junjie",
+        "Jin Wenyan",
+        "Yuan Xinghua",
+        "Jin Zhehu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42306298/"
+    },
+    {
+      "pmid": "42301249",
+      "title": "Persistent Cutaneous Reaction After Facial Exosome Injections and Microneedling.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Myers Bridget",
+        "Chou Margaret",
+        "Sadeghi Nakisa",
+        "Tsao Sandy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301249/"
+    },
+    {
+      "pmid": "42296599",
+      "title": "PRDX4-enriched exosomes from adipose stem cells enhance diabetic wound repair through angiogenic activation.",
+      "abstract": "Diabetic (DM) wounds are a major challenge in dermatology. Despite the therapeutic effectiveness of stem cell therapy in wound repair, clinical applications remain limited. We investigated whether adipose-derived exosomes (Exos) can promote healing in diabetic mice.",
+      "year": "2026",
+      "journal": "Burns : journal of the International Society for Burn Injuries",
+      "authors": [
+        "Chen Xiaoyu",
+        "Jiang Yu",
+        "Tao Yinyu",
+        "Zhang Weigang",
+        "Zhuo Huawei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42296599/"
+    },
+    {
+      "pmid": "42296487",
+      "title": "Therapeutic Potential of Bovine Colostrum-Derived Exosomes for Ischemia-Reperfusion Injury in Skin Flaps: A Rat Model Study.",
+      "abstract": "Ischemia-reperfusion (I/R) injury remains a major cause of partial skin flap necrosis following microsurgical reconstruction. This study evaluates the therapeutic potential of bovine colostrum-derived extracellular vesicles (C-EVs) as a scalable, cell-free alternative for enhancing skin flap survival.",
+      "year": "2026",
+      "journal": "Plastic and reconstructive surgery",
+      "authors": [
+        "Kim Young Chul",
+        "Jang Yeongji",
+        "Kim Youngsam",
+        "Song Hyun Kyu",
+        "Shim Man Kyu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42296487/"
+    },
+    {
+      "pmid": "42285172",
+      "title": "Non-Surgical Hair Restoration Options: Current Techniques and Emerging Technologies in Prejuvenation.",
+      "abstract": "Aims and Backgrounds: Hair loss is a highly prevalent condition, and patients are increasingly seeking pre-junvination and restoration. This review evaluates contemporary non-surgical hair restoration modalities.",
+      "year": "2026",
+      "journal": "Facial plastic surgery : FPS",
+      "authors": [
+        "Paul Benjamin Curman"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42285172/"
+    },
+    {
+      "pmid": "42284975",
+      "title": "The dual role of CCL20 in inflammatory disease: Maintenance of host defense and immunopathological balance.",
+      "abstract": "The chemokine, CCL20, is the only ligand of CCR6 and acts as a molecular switch in immune homeostasis, affecting both protective immunity and pathological inflammation through spatiotemporal regulation of CCR6⁺ leukocytes. CCL20 recruits Th17 cells, γδ T cells and ILC3s, forming synergistic antimicrobial networks with β-defensins and IgA to promote mucosal defense. Chronic CCL20 overexpression caused by NF-κB/MAPK signaling and epigenetic modification is responsible for self-perpetuating inflammation in rheumatoid arthritis, inflammatory bowel disease and psoriasis due to Th17-dominant feedback loops. CCL20 appears to have a role in organizing tertiary lymphoid structures and mediating gut-skin communication, which is affected by gut dysbiosis. Plasmonic nanoarrays and exosome profiling have enabled the discrimination of bioactive CCL20 isoforms with femtogram sensitivity, exposing the possibility for precision biomarker panels. Intelligent delivery systems, such as phase-responsive hydrogels and engineered probiotics, may enable tissue-specific therapeutic modulation. Challenges remain in the balancing of pathway inhibition with mucosal protection and trials of CCR6 antagonists have revealed risks of opportunistic infection. Future directions include dual-modality agents, AI-integrated multi-omics and circadian-timed interventions to preserve host defense during treatment for immunopathology.",
+      "year": "2026",
+      "journal": "Pathology, research and practice",
+      "authors": [
+        "Xu Liyun",
+        "Xiao Yiting",
+        "Jiang Yuan",
+        "Deng Jie",
+        "Xie Wenchao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284975/"
+    },
+    {
+      "pmid": "42284729",
+      "title": "Exosomes from adipose-derived stem cells preconditioned with 650- or 810-nm photobiomodulation enhance cutaneous wound healing in rats.",
+      "abstract": "This study investigated whether photobiomodulation (PBM) preconditioning at 650 nm or 810 nm modifies the regenerative potential of exosomes secreted by human adipose-derived stem cells (HADSCs) during full-thickness acute skin wound healing in rats. Although both wavelengths have been shown to enhance ADSC viability, proliferation, and exosome release in vitro, their in vivo reparative efficacy remains incompletely defined. We had 4 groups: untreated controls, animals treated with exosomes from non-preconditioned HADSCs, and two groups receiving exosomes derived from HADSCs exposed to either 650-nm or 810-nm PBM. Exosomes were administered at a concentration of 150 μg/mL and a total dose of 450 μg per animal. Wound tissues were harvested on day 8 for biomechanical testing, stereological evaluation of tissue components, and analysis of miR-21, VEGF-A, and HIF-1α expression. The EXO 650, and EXO 810 groups demonstrated 119%, and 105% increases in Stress High Load capacity compared to control group (both p < 0.001). The EXO 650 and EXO 810 wavelengths resulted in 58% and 67% increase in fibroblast population (p < 0.01, p < 0.001). EXO 650 and EXO 810 wavelengths showed 43%, and 64% increases in the number of new blood vessels (p < 0.01, p < 0.001) over control values. Molecular signaling analysis via fold-change quantification indicates that Exo 650 and Exo 810 wavelengths achieved 1.65-fold, and 1.55-fold increases in VEGF-A expression relative to the control group (p < 0.001, p < 0.01). For miR-21, the Exo 650 and Exo 810 wavelengths achieved 1.45-fold, and 1.4-fold increases (both p < 0.001). In conclusion, Exosomes from HADSCs preconditioned with 650 or 810 nm PBM accelerated the proliferative phase of wound healing, improving biomechanical strength, fibroblast density, and angiogenesis versus controls. These effects were associated with reduced inflammation and upregulation of the miR-21/VEGF-A/HIF-1α axis. No significant differences were observed between the two wavelengths.",
+      "year": "2026",
+      "journal": "Tissue & cell",
+      "authors": [
+        "Amini Abdollah",
+        "Hashemi Seyed Mahmoud",
+        "Ahangari Fatemeh",
+        "Bayat Soroush",
+        "Tohidian Mobina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284729/"
+    },
+    {
+      "pmid": "42278464",
+      "title": "Characterization of ",
+      "abstract": "Plant-derived extracellular vesicles (PDEVs) are emerging as promising bioactive materials for biomedical and dermatological applications. In this study, we isolated and characterized exosome-like vesicles derived from ",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Cho Byong Seung",
+        "Lee Hyun Ju",
+        "Son Bogeun",
+        "Lee Esther",
+        "Moon Sang Yun"
+      ],
+      "mesh_terms": [
+        "Rosa",
+        "Humans",
+        "Exosomes",
+        "Animals",
+        "Mice",
+        "Fibroblasts",
+        "RAW 264.7 Cells",
+        "Skin",
+        "Melanins",
+        "Cytokines"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42278464/"
+    },
+    {
+      "pmid": "42271440",
+      "title": "DNA hydrogel-delivered hypoxic exosomes alleviate radiation-induced skin injury by stabilizing AKT.",
+      "abstract": "Radiation-induced skin injury (RISI) is a common and refractory complication during tumor radiotherapy, characterized by radiation stress-induced impairment of keratinocyte viability and regenerative signaling, ultimately leading to delayed skin repair. Recently, hypoxia-preconditioned adipose-derived stem cell-derived exosomes (A-Hexos), a cell-free therapeutic strategy with favorable biocompatibility, has considerable potential in skin injury repair. However, the underlying mechanisms of A-Hexos in the treatment of RISI have not been fully elucidated, and their delivery efficiency and retention capacity at skin injury sites remain suboptimal. In this study, we aimed to enhance the targeted delivery efficiency of exosomes in skin tissues, systematically evaluate the therapeutic effects of A-Hexos in RISI repair, and elucidate the underlying molecular mechanisms.",
+      "year": "2026",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Yin Qing",
+        "Deng Shihua",
+        "Liu Ye",
+        "Luo Hui",
+        "Yuan Shuchen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42271440/"
+    },
+    {
+      "pmid": "42266813",
+      "title": "Scar Remodeling With Adipose-derived Stem Cell Exosomes After Facial Deep Dermal Injury.",
+      "abstract": "Adipose-derived stem cell exosomes (ASC-exosomes) are emerging as a highly effective regenerative therapy for scar management. We present a case of a 30-year-old female patient who developed severe facial dermal injury and scar contracture following complications from a skin booster injection. Despite initial epithelialization, poor scar quality persisted. Treatment consisted of topical application of ASC-exosome with adjunctive microneedling to enhance intradermal delivery. During a 6-month period, therapy resulted in significant dermal healing, minimal scarring, and improved scar texture and pigmentation, without complications. Histologically, exosomes are known to promote tissue regeneration by modulating collagen remodeling, fibroblast differentiation, and angiogenesis. Our findings provide clinical evidence supporting the therapeutic potential of ASC-exosomes for scar remodeling after deep dermal injury, consistent with previous histological studies. Further research is needed to optimize delivery protocols and validate long-term efficacy.",
+      "year": "2026",
+      "journal": "Plastic and reconstructive surgery. Global open",
+      "authors": [
+        "Seo Min-Gi",
+        "Jung Dong-Woo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42266813/"
+    }
+  ],
+  "crawled_at": "2026-06-17T22:42:44.389844",
+  "source": "pubmed"
+}

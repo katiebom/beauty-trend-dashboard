@@ -1,0 +1,185 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42305768",
+      "title": "A Case Report of Presumed West Nile Virus Chorioretinitis in a Non-Endemic Area: Atypical Serology and Imaging Features of Old and New Lesions.",
+      "abstract": "West Nile virus (WNV) infection is a recognized cause of neuroinvasive disease and chorioretinitis, typically reported in endemic regions and often associated with positive IgM serology. However, atypical presentations with discordant serology can occur, particularly in non-endemic settings, posing diagnostic challenges.",
+      "year": "2026",
+      "journal": "Case reports in ophthalmology",
+      "authors": [
+        "Belletti Matteo",
+        "Perez Jimenez Yanny",
+        "Neri Piergiorgio",
+        "Pichi Francesco"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42305768/"
+    },
+    {
+      "pmid": "42302475",
+      "title": "Adaptive feature unlearning for trustworthy medical imaging privacy.",
+      "abstract": "Deep learning has become integral to medical imaging, but its tendency to memorize training data poses serious risks for patient privacy. Machine unlearning offers a potential remedy by revoking sensitive information, yet existing approaches face three key limitations: (1) they often achieve only output-level changes while residual feature representations remain; (2) they rely on batch retraining, making real-time removal of individual patient images infeasible; and (3) they lack rigorous metrics to verify forgetting in feature space. We propose AdaptForget, a domain-adaptive feature-level unlearning framework for privacy-preserving medical image analysis. AdaptForget introduces out-of-distribution (OOD) guidance to disentangle forgotten data from retained data in the feature manifold, supported by a theoretical feature-level unlearning bound. To prevent feature collapse, we design an OOD-driven feature-output disentanglement loss that enforces structured removal of forgotten data. To enable timely revocation, we formalize the task of single-entry forgetting, allowing immediate erasure of individual patient records. For objective auditing, we propose the isolation verification distance, a novel metric that quantifies feature separation and provides interpretable evidence of forgetting. Extensive experiments on four medical imaging benchmarks (histopathology, retinal fundus, dermatology, and OCT) as well as complementary healthcare record datasets demonstrate that AdaptForget achieves state-of-the-art privacy protection while preserving model utility. Code is publicly available at https://github.com/wangbrav/AdaptForget.",
+      "year": "2026",
+      "journal": "Medical image analysis",
+      "authors": [
+        "Han Zhongyi",
+        "Wang Bin",
+        "Wu Shenjing",
+        "Zhou Juexiao",
+        "Luo Gongning"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42302475/"
+    },
+    {
+      "pmid": "42285040",
+      "title": "Diabetic retinal disease: Five trials to watch.",
+      "abstract": "Diabetic retinal disease remains a leading cause of vision loss, with current treatment limited by frequent injections and poor adherence. Ongoing clinical trials are evaluating topical therapies, sustained delivery systems, and gene therapy as alternatives to current gold standard treatments. The field is shifting toward earlier, more personalized, and more durable disease-modifying strategies.",
+      "year": "2026",
+      "journal": "Med (New York, N.Y.)",
+      "authors": [
+        "Khan Hannah",
+        "Aziz Aamir A",
+        "Khanani Arshad M",
+        "Sivaprasad Sobha"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Clinical Trials as Topic",
+        "Diabetic Retinopathy",
+        "Genetic Therapy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42285040/"
+    },
+    {
+      "pmid": "42284254",
+      "title": "Prognostic factors associated with visual field recovery in non-arteritic anterior ischemic optic neuropathy.",
+      "abstract": "This study aimed to identify baseline prognostic factors associated with visual field (VF) recovery in patients with non-arteritic anterior ischemic optic neuropathy (NAION). This retrospective study included 38 patients (41 eyes) diagnosed with NAION. VF recovery was defined as an improvement of ≥3 dB in mean deviation (MD) at 3 months. Baseline demographic characteristics, systemic vascular risk factors, visual function tests, and retinal nerve fiber layer (RNFL) thickness measured by optical coherence tomography (OCT) were analyzed. Eleven eyes (26.8%) were classified as the recovery group. Compared with the non-recovery group, the recovery group had significantly better baseline best-corrected visual acuity (BCVA) (P = 0.034) and lower glycated hemoglobin levels (P = 0.033). Baseline VF impairment was significantly less severe in the recovery group, with higher MD (P = 0.049) and visual field index (VFI) values (P = 0.014). No significant association was observed between topical eye drop treatment, including brimonidine and netarsudil, and visual field recovery (p = 0.723). Baseline BCVA strongly correlated with BCVA at 1, 3, and 6 months (all P < 0.001). Multivariate analysis confirmed that better baseline MD (P = 0.041) and higher VFI (P = 0.036) were independently associated with VF recovery. However, RNFL thickness measured at initial visit by OCT did not reliably predict recovery. These findings highlight that baseline functional status remain as the most important predictor of visual field recovery in NAION.",
+      "year": "2026",
+      "journal": "PloS one",
+      "authors": [
+        "Yoon Heejin",
+        "Kim Su-Jin",
+        "Lee Seung Min",
+        "Moon Sangwoo",
+        "Ahn JungHyo"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Optic Neuropathy, Ischemic",
+        "Female",
+        "Prognosis",
+        "Visual Fields",
+        "Male",
+        "Retrospective Studies",
+        "Visual Acuity",
+        "Tomography, Optical Coherence",
+        "Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284254/"
+    },
+    {
+      "pmid": "42278081",
+      "title": "Glaucoma in a Siberian Tiger (",
+      "abstract": "Primary open-angle glaucoma (POAG) is rarely recognized in large felids, yet it may cause severe vision loss and chronic pain. This case report presents the ophthalmological evaluation of a four-year-old Siberian tiger (",
+      "year": "2026",
+      "journal": "Animals : an open access journal from MDPI",
+      "authors": [
+        "Lorászkó Gábor",
+        "Dobos András",
+        "Dobos András",
+        "Szekér Pál",
+        "Tóth-Almási Péter"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42278081/"
+    },
+    {
+      "pmid": "42277857",
+      "title": "Long-term polystyrene nanoplastics exposure aggravates retinal inflammation and photoreceptor degeneration through microglial SPP1 signaling and neutrophil extracellular traps formation.",
+      "abstract": "Micro/nanoplastics (MNPs), as emerging environmental contaminants, present a growing concern for human health. This study aims to investigate the effects of polystyrene nanoplastics (PS-NPs) exposure on retinal pathology and underlying mechanisms.",
+      "year": "2026",
+      "journal": "Journal of translational medicine",
+      "authors": [
+        "Zhou Wenchuan",
+        "Chen Xuanyi",
+        "Li Jiagen",
+        "He Jincan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42277857/"
+    },
+    {
+      "pmid": "42274921",
+      "title": "A viral uveitis masquerade: PCR-confirmed Listeria monocytogenes necrotizing chorioretinitis complicated by secondary macular hole.",
+      "abstract": "Listeria monocytogenes is a rare ocular pathogen, and posterior segment infection is particularly uncommon. When it involves the retina, its presentation may overlap with viral hypertensive uveitis or necrotizing viral retinitis, especially in eyes with unilateral ocular hypertension, iris atrophy, and chronic recurrent inflammation. This diagnostic overlap may delay recognition of an unusual bacterial cause.",
+      "year": "2026",
+      "journal": "Journal of ophthalmic inflammation and infection",
+      "authors": [
+        "Ho Hai Xuan",
+        "Tran Thanh Ngoc",
+        "Doan Thoa Thi",
+        "Hoang Loan Thi",
+        "Tran Lan Huong Thi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42274921/"
+    },
+    {
+      "pmid": "42274302",
+      "title": "Examining neuroretinal alterations in autism spectrum disorder: a systematic review of OCT and OCT-A studies.",
+      "abstract": "Autism Spectrum Disorder (ASD) affects around 1% of the population, and its diagnosis is primarily clinical. Therefore, the study of biological markers is essential. The retina and optic nerve have been studied in many ocular and non-ocular diseases using non-invasive techniques such as Optical Coherence Tomography (OCT) and OCT Angiography (OCT-A).",
+      "year": "2026",
+      "journal": "International journal of psychiatry in clinical practice",
+      "authors": [
+        "Vaquero-Puyuelo David",
+        "Boned-Murillo Ana",
+        "De-la-Cámara Concepción",
+        "Lobo Antonio",
+        "Gracia-García Patricia"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42274302/"
+    },
+    {
+      "pmid": "42270295",
+      "title": "Development of diagnostic criteria for Behçet's uveitis in a Chinese population.",
+      "abstract": "To develop and validate a novel set of ocular-centric diagnostic criteria for Behçet's uveitis (BU).",
+      "year": "2026",
+      "journal": "The British journal of ophthalmology",
+      "authors": [
+        "Yang Peizeng",
+        "Zhang Wanyun",
+        "Chen Ling",
+        "Zhang Pei",
+        "Weng Wuhong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42270295/"
+    },
+    {
+      "pmid": "42266610",
+      "title": "Nonfamilial Pseudoxanthoma Elasticum: A Case Report With Review of Selected Literature.",
+      "abstract": "A 44-year-old woman with classic cutaneous manifestations of nonfamilial PXE presented with multiple 3 to 10 mm yellowish papules coalescing into well-demarcated, cobblestone-like plaques. Previous ophthalmologic evaluation revealed retinal angioid streaks, while no cardiovascular involvement was reported. PXE is a rare multisystem disorder associated with significant morbidity, requiring a multidisciplinary approach to optimize patient outcomes and quality of life. Cutaneous involvement usually represents the initial manifestation of the disease; therefore, accurate recognition of these lesions may facilitate prompt diagnosis and prevent further complications. Advances in the understanding of the underlying molecular pathways open the possibility for the development of novel therapeutic strategies, which may improve patient prognosis and potentially modify the natural history of the disease.",
+      "year": "2026",
+      "journal": "Clinical case reports",
+      "authors": [
+        "Peniche-Luna Emilio",
+        "Uriarte-Ruiz Karen",
+        "Pérez-Nieto José Eduardo",
+        "Briseño-Gascón Genaro",
+        "Vega-Memije María Elisa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42266610/"
+    }
+  ],
+  "crawled_at": "2026-06-17T22:42:42.271140",
+  "source": "pubmed"
+}
