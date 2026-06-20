@@ -1,0 +1,207 @@
+{
+  "ingredient_id": "silica",
+  "name_en": "Silica",
+  "name_kr": "실리카",
+  "category": "pore_texture",
+  "query": "\"Silica\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42284667",
+      "title": "A deep eutectic solvent-assisted green synthesis of advanced three-dimensional covalent organic framework based stationary phase for dual-mode liquid chromatography.",
+      "abstract": "Two-dimensional covalent organic frameworks (2D COFs) are widely used as stationary phases in liquid chromatography, yet their simple pore structures often mandate surface modifications to attain the necessary separation selectivity. In contrast, three-dimensional COFs (3D COFs) feature customizable hierarchical channel systems with complex pore structures, high specific surface areas, and spatially diversified active sites, enabling superior separation selectivity and enhanced column efficiency. Furthermore, their rigid frameworks prevent structural collapse of stationary phase, offering unique advantages for advanced separations. Therefore, the development of innovative 3D COF@silica stationary phase represents a promising strategy that leverages the established benefits of silica supports while incorporating the tunable porosity and functionality of 3D COFs. This work presents an eco-friendly deep eutectic solvent-mediated synthesis of an imine-linked 3D-Azo-TFPM-COF@silica stationary phase, which eliminates hazardous solvents and reduces reaction time. The synthesized material demonstrated excellent chromatographic performance in separating polar compounds and positional isomers. Meanwhile, the 3D-Azo-TFPM-COF@silica column was applied to cosmetic analysis for quantifying nicotinamide content in commercial whitening essences with high accuracy (recovery: 95.82-102.92%) and good precision (RSD < 0.4%). This work presents a straightforward and green synthetic approach for 3D COF based stationary phases, broadening their application in chromatographic separations and demonstrating their potential for advanced analytical techniques.",
+      "year": "2026",
+      "journal": "Journal of chromatography. A",
+      "authors": [
+        "Fang Ni",
+        "Long Haoyu",
+        "Du Huili",
+        "Liu Yanjuan",
+        "Zhang Yuefei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284667/"
+    },
+    {
+      "pmid": "42272942",
+      "title": "Synergistic and multi-targeting efficacy of ",
+      "abstract": "The escalating prevalence of multidrug-resistant skin pathogens specifically methicillin-resistant ",
+      "year": "2026",
+      "journal": "In silico pharmacology",
+      "authors": [
+        "Anjorin Aanuoluwapo Deborah",
+        "Oladunmoye Muftau Kolawole"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42272942/"
+    },
+    {
+      "pmid": "42256885",
+      "title": "A BAI1-PSTB-Hydrogel promotes diabetic wound healing by targeting mtDNA leakage and the cGAS-STING axis to alleviate endothelial senescence.",
+      "abstract": "Diabetic Wound (DW) is one of the most prevalent complications in diabetes patients, impairing patient wellbeing and quality of life severely. The pathogenesis of DW remains incompletely understood, hindering the development of targeted therapies.",
+      "year": "2026",
+      "journal": "Bioactive materials",
+      "authors": [
+        "Wang Xianqi",
+        "Zheng Rui",
+        "Cheng Wenjie",
+        "Xu Yanan",
+        "Xu Xian-Jie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42256885/"
+    },
+    {
+      "pmid": "42252931",
+      "title": "Emerging trends of nanotechnology-based drug delivery for wound healing.",
+      "abstract": "Wound healing is a complex, dynamic and multistep biological process involving haemostasis, inflammation, proliferation and remodelling, which can be severely compromised in chronic, infected, or non-healing wounds. Conventional wound care strategies often suffer from limitations such as poor drug stability, inadequate tissue penetration, frequent dressing changes and a lack of spatiotemporal control over therapeutic release. In recent years, nanotechnology-based drug delivery systems have emerged as promising platforms to overcome these challenges by enabling targeted, controlled and multifunctional therapeutic interventions. This comprehensive review highlights emerging trends in nanotechnology-driven approaches for wound healing, with a focus on their design and therapeutic potential across different stages of wound repair. The review systematically discusses major nanotechnological platforms, including electrospun nanofibers, advanced hydrogel systems, nanocomposites, polymeric micelles and a wide range of inorganic nanoparticles such as silver, gold, copper, silica and titanium dioxide nanoparticles. Additionally, advanced materials such as graphene and scaffold-based systems, including scaffold-integrated nanoparticles and hydrogel-based scaffolds, are critically examined for their roles in promoting angiogenesis, antimicrobial activity, cell migration and tissue regeneration. Ultimately, this review provides valuable insights into future perspectives and research directions, highlighting the need for multifunctional nanoplatforms to advance next-generation wound healing therapies.",
+      "year": "2026",
+      "journal": "Journal of drug targeting",
+      "authors": [
+        "Pradhan Sweetmama",
+        "Sharma Dinesh Kumar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42252931/"
+    },
+    {
+      "pmid": "42228131",
+      "title": "E-cigarette aerosol exposure modulates crystalline silica-induced fibrotic responses in the lungs.",
+      "abstract": "Pulmonary toxicity of e-cigarettes (e-cigs), particularly their combined effects with occupational exposures like crystalline silica (S), remains largely unexplored. This study evaluated the combined effects, molecular mechanisms, and differential responses in the lungs following co-exposure to e-cig aerosols and S. Subchronic silicosis was established by oropharyngeal aspiration of S (0.2 g/kg) into C57BL/6 mice. Mice were exposed to filtered air, S, or e-cig (E) + S with endpoints evaluated 28 days post-exposure. The count median diameter of e-cig aerosols generated for our mice exposure was 0.771 µm (GSD = 2.33). Enhanced pause (Penh) values increased significantly in male E + S group and female S and E + S groups, compared to their respective air controls, during the first and second weeks of exposure. Histological evaluations (hematoxylin and eosin and Masson's trichrome staining) revealed significantly increased fibrosis scores in both male and female S and E + S groups compared to respective air controls. Hematological analysis revealed a significant decrease in neutrophil counts/percentage in female E + S mice compared to S alone. Cytokine analysis revealed a significant increase in keratinocyte chemoattractant (KC) levels in male S and E + S groups compared to air controls, while in female mice, KC expression increased significantly in the E + S group compared to S alone. Protein analysis revealed distinct sex-specific changes in key protein markers associated with fibrosis and epithelial-mesenchymal transition. Taken together, these findings indicate that S-induced lung fibrosis with or without e-cig exposure occurred in both male and female mice, with different underlying molecular mechanisms.",
+      "year": "2026",
+      "journal": "Archives of toxicology",
+      "authors": [
+        "Twum Yaw",
+        "Goldsmith William T",
+        "Olanrewaju Olapeju",
+        "Olfert I Mark",
+        "Gao Weimin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42228131/"
+    },
+    {
+      "pmid": "42225000",
+      "title": "TRIM25-mediated ubiquitination of KEAP1 and NOX4 underpins the antifibrotic efficacy of sophoricoside in silicosis.",
+      "abstract": "Chronic inhalation of crystalline silica precipitates silicosis, a progressive fibrotic lung pathology for which effective therapeutic strategies are currently lacking. Sophoricoside, a bioactive isoflavone glycoside derived from the seeds of Sophora japonica, possesses documented antioxidant and anticoagulant activities; however, its potential antifibrotic efficacy remains ill-defined. Accordingly, the present investigation seeks to systematically evaluate the protective effects of Sophoricoside against pulmonary fibrosis and to decipher the molecular mechanisms governing its action.",
+      "year": "2026",
+      "journal": "International immunopharmacology",
+      "authors": [
+        "Qian Jiazhen",
+        "Li Siyuan",
+        "Deng Lang",
+        "Wang Xingchen",
+        "Ren Lu"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Kelch-Like ECH-Associated Protein 1",
+        "NADPH Oxidase 4",
+        "Ubiquitination",
+        "Mice",
+        "Benzopyrans",
+        "Ubiquitin-Protein Ligases",
+        "Silicosis",
+        "Tripartite Motif Proteins",
+        "Transcription Factors"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42225000/"
+    },
+    {
+      "pmid": "42214520",
+      "title": "pH-responsive alginate/gelatin-based hydrogel with antibacterial and antioxidant properties for enhanced infected wound healing.",
+      "abstract": "Bacterial infection and oxidative stress imbalance severely impair wound healing, necessitating the development of multifunctional wound dressings. Herein, a pH-responsive nanocomposite hydrogel (AG-Zn-SC@D) was fabricated via dynamic Schiff base crosslinking between aldehyde-modified alginate and gelatin, incorporating Zn",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Pan Jialiang",
+        "Zhao Tianhao",
+        "Wang Zhiqiang",
+        "Liu Chenhong",
+        "Shi Wenbo"
+      ],
+      "mesh_terms": [
+        "Alginates",
+        "Anti-Bacterial Agents",
+        "Wound Healing",
+        "Gelatin",
+        "Hydrogels",
+        "Antioxidants",
+        "Animals",
+        "Hydrogen-Ion Concentration",
+        "Staphylococcus aureus",
+        "Escherichia coli"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42214520/"
+    },
+    {
+      "pmid": "42177389",
+      "title": "Nature-Inspired Hybrid Photocatalytic System for Degradation of Persistent Organic Pollutants, Including Pharmaceutical Remains Using Solar-Driven Continuous Flow Reactor.",
+      "abstract": "Sunlight-driven photocatalytic reactors for wastewater treatment have become a growing hot topic among researchers owing to their inexpensiveness, scalable potential, and minimal ecological impact. Herein, we have utilized 3D printing to fabricate a packed bed reactor (PBR) consisting of an open serpentine channel packed with zinc oxide nanoparticles (ZnO) coated onto silica nanoparticles (SiO",
+      "year": "2026",
+      "journal": "Chemistry, an Asian journal",
+      "authors": [
+        "Jaswal Shubham",
+        "Devi Renu",
+        "Singh Anoop",
+        "Kaur Navneet",
+        "Singh Narinder"
+      ],
+      "mesh_terms": [
+        "Water Pollutants, Chemical",
+        "Zinc Oxide",
+        "Catalysis",
+        "Sunlight",
+        "Silicon Dioxide",
+        "Methylene Blue",
+        "Ciprofloxacin",
+        "Congo Red",
+        "Cellulose",
+        "Nanoparticles"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42177389/"
+    },
+    {
+      "pmid": "42168491",
+      "title": "Examining the immunomodulatory role of nanoparticles on mast cell activation.",
+      "abstract": "Recent studies reveal that inorganic nanoparticles (NPs) can alter allergic skin reactions in a contact hypersensitivity (CHS) mouse model. Specifically, negatively charged silica (SiO",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Pineda Jessica Perez",
+        "DeLouise Lisa A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168491/"
+    },
+    {
+      "pmid": "42153630",
+      "title": "Engineered 3D-Lattice Microneedle Array Patches for Enhanced Nanovaccine Delivery to Dendritic Cells in Cancer Immunotherapy.",
+      "abstract": "Cancer vaccines are designed to activate dendritic cells (DCs), which are potent antigen-presenting cells that initiate antigen-specific adaptive immune responses and inhibit tumor growth. Microneedles (MNs) have emerged as a promising cancer vaccine platform, enabling the noninvasive dermal delivery of cancer antigens and adjuvants to activate dermal DCs. However, conventional solid MNs have a limited surface area, restricting the adsorption of large amounts of bioactive components. Therefore, 3D-printed lattice-structured microarray patches (L-MAPs) with an increased surface area were designed in this study, which permitted the enhanced adsorption of cancer nanovaccines compared to conventional solid microarray patches. L-MAPs were fabricated by using the continuous liquid interface production (CLIP) technology, facilitating the rapid printing of MNs with lattice structures. L-MAPs adsorbed higher amounts of mesoporous-silica-based nanovaccine (MV) on their needle surfaces, exhibiting greater dermal vaccine delivery capacity. Applying MV@MAPs on mouse skin led to efficient DC recruitment, maturation, and subsequent antigen-specific T cell responses in vivo. Consequently, the resulting antitumor immune response considerably suppressed the tumor growth. This approach highlights that using CLIP-printed L-MAPs is a promising strategy for efficient nanovaccine delivery in cancer immunotherapies.",
+      "year": "2026",
+      "journal": "ACS nano",
+      "authors": [
+        "Kim Ye Eun",
+        "Kwak Jean Won",
+        "Mo Xin Wang",
+        "Nguyen Thanh Loc",
+        "Kamat Netra Unni"
+      ],
+      "mesh_terms": [
+        "Dendritic Cells",
+        "Animals",
+        "Nanovaccines",
+        "Immunotherapy",
+        "Mice",
+        "Microneedle Drug Delivery",
+        "Cancer Vaccines",
+        "Printing, Three-Dimensional",
+        "Female",
+        "Needles"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42153630/"
+    }
+  ],
+  "crawled_at": "2026-06-20T22:18:03.297423",
+  "source": "pubmed"
+}
