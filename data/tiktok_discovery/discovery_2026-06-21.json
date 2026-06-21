@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-21",
+  "total_hashtags_checked": 188,
+  "views_collected": 2,
+  "new_candidates": 0,
+  "classification_pending": true,
+  "raw_candidates": [
+    {
+      "hashtag": "lactobacillus",
+      "views": 346300000,
+      "weekly_delta": 4400000,
+      "growth_rate": 0.0129,
+      "size_score": 0.949
+    },
+    {
+      "hashtag": "colloidal oat",
+      "views": 10400000,
+      "weekly_delta": 200000,
+      "growth_rate": 0.0196,
+      "size_score": 0.78
+    }
+  ],
+  "flagged": [],
+  "top_overall": [
+    {
+      "hashtag": "lactobacillus",
+      "views": 346300000,
+      "weekly_delta": 4400000,
+      "growth_rate": 0.0129,
+      "size_score": 0.949
+    },
+    {
+      "hashtag": "colloidal oat",
+      "views": 10400000,
+      "weekly_delta": 200000,
+      "growth_rate": 0.0196,
+      "size_score": 0.78
+    }
+  ],
+  "monitor": {}
+}

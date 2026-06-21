@@ -1,0 +1,201 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42321513",
+      "title": "Mechanism of palytoxin-induced ferroptosis in HaCaT cells via targeting TrxR1.",
+      "abstract": "PLTX (Palytoxin) is a fatty-chain polyether marine biotoxin originally produced by benthic dinoflagellates, particularly Ostreopsis ovata and Ostreopsis siamensis. Via the marine food web, PLTX bioaccumulates in numerous organisms such as corals and shellfish, and ranks among the most lethal non-proteinaceous natural compounds described to date. Thus far, its toxicological mechanism remains unclear, and no specific clinical antidote is available. In this study, we employed a limited proteolysis‑based chemical proteomics approach (Lip‑SMap) to analyze the protection of protease cleavage sites conferred by PLTX binding. Combined with DIA (data‑independent acquisition) mass spectrometry in HaCaT (human immortalized keratinocyte) cells, we identified TrxR1 (thioredoxin reductase 1) as an intracellular direct target of PLTX. Molecular docking simulations revealed that PLTX forms stable hydrogen bonds with the active‑site residues Q230 and N234 of TrxR1. BLI (Biolayer interferometry) further confirmed a moderate‑to‑high affinity interaction between them (KD = 5.415 × 10",
+      "year": "2026",
+      "journal": "Cell biology and toxicology",
+      "authors": [
+        "Zhong Cheng",
+        "Zhao Zihan",
+        "Chen Dong",
+        "Lü Longze",
+        "Ren Wanxin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42321513/"
+    },
+    {
+      "pmid": "42313915",
+      "title": "Exercise Training Stimulates the Release of Glutathione Peroxidase 1 (GPX1)-Enriched Extracellular Vesicles That Promote Angiogenesis.",
+      "abstract": "An acute bout of high intensity exercise can transiently increase circulating extracellular vesicles (EVs) that possess beneficial molecular cargo. However, no studies to date have comprehensively evaluated plasma quantity, protein content, and function of EVs collected from blood after multiple bouts of endurance exercise. Here we demonstrate that 4 weeks of voluntary wheel running increases plasma EV quantity when collected immediately after the last bout of training in mice. These EVs (ExerVs) are enriched in oxidoreductases, including the antioxidant glutathione peroxidase 1 (GPX1). Repeated, systemic injections of ExerVs into sedentary recipient mice twice per week for 4 weeks did not alter mitochondrial content or function, fiber size, or fiber type, but increased capillary density and perfusion in skeletal muscle. ExerVs also stimulated tube formation and branch lengthening in vitro and improved the recovery of capillary content after a period of disuse in vivo. ExerVs isolated from GPX1",
+      "year": "2026",
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "authors": [
+        "Fliflet Alexander M",
+        "Spradlin Ray A",
+        "Tan Yanqi",
+        "Nishitha Vijayan Ane",
+        "Choi Sung Jun"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Glutathione Peroxidase GPX1",
+        "Mice",
+        "Physical Conditioning, Animal",
+        "Extracellular Vesicles",
+        "Glutathione Peroxidase",
+        "Neovascularization, Physiologic",
+        "Muscle, Skeletal",
+        "Male",
+        "Mice, Inbred C57BL"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42313915/"
+    },
+    {
+      "pmid": "42312160",
+      "title": "Unveiling the Role of Glutathione ",
+      "abstract": "Breast cancer remains one of the most prevalent malignancies among women worldwide. Current therapeutic strategies comprising surgery, radiation therapy, immunotherapy, and postoperative chemotherapy have significantly improved patient outcomes. However, the emergence of multidrug resistance (MDR) continues to impede treatment efficacy. Several factors contribute to MDR, including drug inactivation, enhanced metabolism, transporter protein-mediated drug efflux, and epigenetic alterations. Among these, the overexpression of drug-metabolizing enzymes such as glutathione ",
+      "year": "2026",
+      "journal": "ACS pharmacology & translational science",
+      "authors": [
+        "Nigam Manisha",
+        "Kukreti Shivangi",
+        "Singh Sudarshan",
+        "Mishra Abhay Prakash"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42312160/"
+    },
+    {
+      "pmid": "42306466",
+      "title": "Pink lotus flower (",
+      "abstract": "Pink lotus (",
+      "year": "2026",
+      "journal": "Biomedical reports",
+      "authors": [
+        "Jongsomchai Kamonwan",
+        "Sridurongrit Somyoth",
+        "Sukphopetch Passanesh",
+        "Rudtanatip Tawut",
+        "Promsrisuk Tichanon"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42306466/"
+    },
+    {
+      "pmid": "42304629",
+      "title": "ETV4 Improves Cerebral Ischemia-Reperfusion Injury by Restraining YBX1-GPX4-Ferroptosis Cascades.",
+      "abstract": "Cerebral ischemia-reperfusion injury (CIRI) is a critical pathological process following ischemic stroke, with ferroptosis being increasingly recognized as a key contributor to neuronal damage. However, the regulatory mechanisms, particularly the role of specific transcription factors like E26 transformation-specific variant 4 (ETV4), remain poorly understood. This study aimed to investigate the function and underlying mechanism of ETV4 in neuronal ferroptosis during CIRI.",
+      "year": "2026",
+      "journal": "Brain and behavior",
+      "authors": [
+        "Xu Qian",
+        "Deng Faming",
+        "Yu Dan"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Reperfusion Injury",
+        "Ferroptosis",
+        "Rats",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Rats, Sprague-Dawley",
+        "Male",
+        "Humans",
+        "Brain Ischemia",
+        "Neurons"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42304629/"
+    },
+    {
+      "pmid": "42304549",
+      "title": "Resistance monitoring and putative biochemical mechanisms of Spodoptera frugiperda to different insecticides in China.",
+      "abstract": "The control of the fall armyworm (FAW), Spodoptera frugiperda, relies heavily on insecticides, which has accelerated the evolution of resistance; thus it is urgent to monitor the insecticide resistance status of this pest.",
+      "year": "2026",
+      "journal": "Pest management science",
+      "authors": [
+        "Wang Huanhuan",
+        "Hu Shiyuan",
+        "Zhao Rui",
+        "Li Yuelong",
+        "Liu Yuxian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42304549/"
+    },
+    {
+      "pmid": "42300970",
+      "title": "MXene-based protective strategy for diabetic gingival wound healing: shielding fibroblasts from oxidative stress.",
+      "abstract": "The bidirectional association between diabetes mellitus (DM) and periodontitis remains a major focus in oral and systemic health research. DM is a key risk factor influencing the onset, progression, and severity of periodontitis, yet the molecular mechanisms underlying this relationship are not fully understood. Periodontitis is characterized by bacterial biofilm formation and a destructive host immune-inflammatory response. In this study, we explored the therapeutic potential of Ti",
+      "year": "2026",
+      "journal": "Journal of materials chemistry. B",
+      "authors": [
+        "Naserzadeh Parvaneh",
+        "Namvari Mina",
+        "Razmi Abbas",
+        "Agah Shahram"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42300970/"
+    },
+    {
+      "pmid": "42296001",
+      "title": "Ti",
+      "abstract": "Owing to advancements in implantable bioelectronic devices, there has been an increase in demand for biocompatible energy sources with long-term electrochemical and mechanical stability. In this study, we present the fabrication of a flexible asymmetric supercapacitor (MXene//AC) based on two-dimensional Ti",
+      "year": "2026",
+      "journal": "ACS applied materials & interfaces",
+      "authors": [
+        "Ali Tanveer",
+        "Shan Ali",
+        "Baig Mirza Mahmood",
+        "Xu He",
+        "Zhao Zhihao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42296001/"
+    },
+    {
+      "pmid": "42295518",
+      "title": "Effect of zinc oxide nanoparticle supplementation in Santa Inês ewes during the transition period.",
+      "abstract": "Zinc oxide nanoparticles (N-ZnO) represent a promising alternative for zinc (Zn) supplementation, since their reduced size provides greater bioavailability and better integration into the body. Furthermore, this characteristic becomes particularly relevant during periods of increased metabolic stress, such as the transition phase. Thus, the objective was to evaluate the effects of N-ZnO supplementation in Santa Inês sheep during the peripartum period. Thirty-three ewes with an average body weight of 43.3 ± 2.05 kg were, distributed into three experimental groups: control group (CON), without supplementation, receiving only Cynodon spp. hay; and groups supplemented with 300 mg/animal/day of N-ZnO (40 nm) and zinc oxide microparticles (M-ZnO). The supplementation was administered orally in capsules daily from late pregnancy until weaning. The results showed no significant differences (P > 0.05) in body weight, egg count per gram of feces (EPG), and in most of the hematological, biochemical, and immunological parameters evaluated. However, differences (P < 0.05) were observed in monocyte counts and albumin levels, with higher means in the N-ZnO group, showing differences compared with the M-ZnO group, while the CON group maintained intermediate values. The N-ZnO group showed differences compared to the M-ZnO group, while the CON group maintained intermediate values. Regarding antioxidant activity, a significant effect (P < 0.05) was observed on the enzymes Superoxidase dismutase (SOD), Glutathione peroxidase (GPx), Catalase (Cat), and on the total antioxidant status (ORAC) of the sheep supplemented with N-ZnO. It is concluded that N-ZnO supplementation improved the antioxidant response, with no signs of intoxication, using a dose of 300 mg during the period of greatest oxidative stress.",
+      "year": "2026",
+      "journal": "Tropical animal health and production",
+      "authors": [
+        "Pinchao Willinton Hernan Pinchao",
+        "Guedes Henrique de Brito",
+        "Jimenez Carolina Rodriguez",
+        "Moreira Gabriele Rossini",
+        "Fernandes Murilo Antônio"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Zinc Oxide",
+        "Female",
+        "Dietary Supplements",
+        "Animal Feed",
+        "Nanoparticles",
+        "Diet",
+        "Pregnancy",
+        "Sheep, Domestic",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42295518/"
+    },
+    {
+      "pmid": "42290974",
+      "title": "Mitochondria-targeted photodynamic nanoparticles boost antitumor immunity by suppressing mitophagy in osteosarcoma.",
+      "abstract": "Osteosarcoma (OS) responds poorly to immunotherapy owing to its highly immunosuppressive phenotype. Photodynamic therapy (PDT) can induce mitochondrial damage by generating reactive oxygen species (ROS), thereby triggering immunogenic cell death (ICD) and activating antitumor immunity. However, mitochondrial damage readily activates mitophagy, which attenuates oxidative stress and compromises therapeutic efficacy. In this study, we construct a multifunctional nanoparticle (TPSM@IT-4Cl), which co-loads the photosensitizer IT-4Cl and the mitochondrial fission inhibitor Mdivi-1 and can target mitochondria. TPSM@IT-4Cl is selectively delivered to the mitochondria of tumor cells and releases drugs in a glutathione (GSH)-responsive manner within a high-GSH microenvironment. Under localized light irradiation, TPSM@IT-4Cl efficiently generates ROS ",
+      "year": "2026",
+      "journal": "Bioactive materials",
+      "authors": [
+        "Deng Qing",
+        "Li Jinsong",
+        "Tong Zhaochen",
+        "Zhang Lingpu",
+        "Tang Yuanyu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42290974/"
+    }
+  ],
+  "crawled_at": "2026-06-21T22:21:20.387681",
+  "source": "pubmed"
+}
