@@ -1,0 +1,326 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "peptide",
+  "query": "(\"collagen\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42317277",
+      "title": "Deep eutectic solvent-mediated extraction of collagen peptides from sturgeon skin: Molecular-weight control and mechanistic insights.",
+      "abstract": "A choline-oxalic acid deep eutectic solvent (DES) was developed for the molecular-weight-controlled extraction of collagen peptides from sturgeon (",
+      "year": "2026",
+      "journal": "Food chemistry: X",
+      "authors": [
+        "Bai Mingkai",
+        "Wang Ning",
+        "Zhang Meichao",
+        "Zhao Zifang",
+        "Yu Jianwei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42317277/"
+    },
+    {
+      "pmid": "42317129",
+      "title": "Nanostructure and Collagen-Stimulating Activity of Cationic Pentapeptide Lipopeptides.",
+      "abstract": "The self-assembly in aqueous solutions, cytocompatibility, and collagen production of lipopeptide C",
+      "year": "2026",
+      "journal": "Journal of peptide science : an official publication of the European Peptide Society",
+      "authors": [
+        "de Mello Lucas R",
+        "Castelletto Valeria",
+        "Seitsonen Jani",
+        "Hamley Ian W"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Lipopeptides",
+        "Collagen",
+        "Nanostructures",
+        "Fibroblasts",
+        "Cell Survival",
+        "Oligopeptides",
+        "Hydrogen-Ion Concentration"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42317129/"
+    },
+    {
+      "pmid": "42289194",
+      "title": "Functional regeneration of complex ballistic trauma via herbal extract and antibiotic loaded multilayered nanofibrous hydrogel scaffold.",
+      "abstract": "Ballistic wounds, resulting from firearm-related trauma, are complex injuries, characterized by severe tissue destruction, cavitation and a significant risk of infection. In addition, localized burning due to high temperature and chemical toxication from combustion byproducts further aggravate tissue damage, making regeneration and recovery particularly challenging. Current emergency treatments, such as, pressure bandages, tourniquets and hemostatic agents, while effective, have practical limitations and do not directly promote tissue regeneration. In this study, a trilayered nanofibrous-hydrogel scaffold was developed incorporating Aloe vera extract and broad-spectrum antibiotics (gentamicin sulphate and vancomycin), to promote improved healing of gunshot wounds. The scaffold architecture mimicked the native skin layers, with electrospun polycaprolactone/collagen peptide nanofibers constituting the upper layers for mechanical support and drug delivery, while a shape-adaptive PEG-collagen-gelatin hydrogel served as the hypodermal analogue. A novel rat model was employed to replicate both the physical and chemical aspects of ballistic trauma, using a deep cavity burn and residues remaining after firearm discharge, thereby simulating explosive contamination, all without the use of live ammunition. The scaffold was thoroughly evaluated for its physicochemical and mechanical properties, which were found to closely match those of native skin layers, and exhibited excellent antibacterial activity and biocompatibility. In vivo studies further demonstrated accelerated wound closure, effective infection management, and improved skin regeneration. This biomimetic scaffold offers a promising therapeutic strategy for the treatment of complex firearm injuries.",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Dhiman Megha",
+        "Ghosh Souvik",
+        "Chauhan Samrat",
+        "Datta Aastha",
+        "Verma Yogesh Kumar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42289194/"
+    },
+    {
+      "pmid": "42283162",
+      "title": "Enhancing Biological Activity in Skin Repair with a Transdermal Peptide-Recombinant Type III Collagen Hydrogel.",
+      "abstract": "Skin wound healing is a complex biological process requiring coordinated cellular responses and extracellular matrix remodeling. Type III collagen (COL3A) plays a critical role in early-stage tissue repair, but its direct application is limited by poor stability and transdermal delivery. In this study, a sterile transdermal peptide-recombinant type III collagen (transdermal peptide-hCOL3A) hydrogel was developed to enhance biological activity and promote wound healing. The hydrogel was formulated using a carbomer matrix combined with trehalose, propylene glycol, triethanolamine, and the transdermal peptide-hCOL3A protein. Protein integrity was confirmed via SDS-PAGE analysis. The resulting hydrogel exhibited uniform structure and favorable physical properties. A full-thickness skin defect model in mice was established to evaluate therapeutic efficacy. Compared with the control hydrogel, the transdermal peptide-hCOL3A-loaded hydrogel significantly accelerated wound closure, as evidenced by faster reduction in wound area and improved healing progression over 7-8 days. These results demonstrate that the transdermal peptide-hCOL3A hydrogel effectively enhances wound healing, likely by improving collagen bioavailability and supporting tissue regeneration. This study provides a promising strategy for the development of advanced biomaterials for skin repair. © 2026 Wiley Periodicals LLC.",
+      "year": "2026",
+      "journal": "Current protocols",
+      "authors": [
+        "Liu Yue",
+        "Hong Jingjun"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Collagen Type III",
+        "Mice",
+        "Hydrogels",
+        "Skin",
+        "Administration, Cutaneous",
+        "Peptides",
+        "Recombinant Proteins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42283162/"
+    },
+    {
+      "pmid": "42282871",
+      "title": "High-Value Transformation of Rice-Derived Bioactive Peptides for Multiscenario Applications: From AI-Aided Design to Molecular Modification.",
+      "abstract": "Rice-derived bioactive peptides are gaining attention for their nutritional value, low allergenicity, and multifunctional health benefits. However, large-scale utilization remains constrained by challenges such as low protein extraction efficiency, limited peptide yields, and poor structural stability. This review summarizes recent advances in the valorization of rice proteins into functional peptides, with a focus on emerging technologies including enzymatic hydrolysis optimization, AI-assisted peptide design, and polyphenol-mediated molecular modification. These approaches offer solutions to improve thermal stability, reduce aggregation, and enhance bioactivity. The review further explores its multiscenario applications in AI-driven design and modification, cosmetics, biomedicine, and functional foods, where rice peptides demonstrate promising application potential in antioxidant defense, blood pressure regulation, collagen synthesis, and heavy metal adsorption. By integrating molecular design, processing innovation, and application development, this work provides a comprehensive perspective on the high-value transformation of rice by-products and supports the advancement of sustainable rice peptide technologies.",
+      "year": "2026",
+      "journal": "International journal of food science",
+      "authors": [
+        "Yao Tianle",
+        "Yao Jie",
+        "Zhang Qian",
+        "Huang Mengtian",
+        "Han Yu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42282871/"
+    },
+    {
+      "pmid": "42277771",
+      "title": "Development of a novel hydroxylated recombinant human type III collagen TD-1-HrHC in Komagataella phaffii with transdermal and skin damage repair activity.",
+      "abstract": "Collagen has been proven to have significant potential applications value in the fields of on medical aesthetics and cosmetics. However, due to its large molecular weight, collagen is difficult to effectively penetrate the skin barrier and reach the designated location to exert the expected activities. Transdermal peptide TD-1 is a short peptide consisting of only 11 amino acids, which can assist proteins such as insulin and cytokines to penetrate the skin barrier and reach the dermis layer. To maximize the transdermal and the efficacy of Collagen III in skincare, the shortest functional fragment that containing a triple helix structure of collagen protein fused with TD-1 were designed and evaluated for its transdermal activity, safety and efficacy.",
+      "year": "2026",
+      "journal": "Microbial cell factories",
+      "authors": [
+        "Li Yangyang",
+        "Wang Yehai",
+        "Yue Jingjing",
+        "Fan Yan",
+        "Qi Shimei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42277771/"
+    },
+    {
+      "pmid": "42261590",
+      "title": "Targeting the Spata13-TGFβRI interaction inhibits infection-driven capsular contracture via suppression of fibroblast activation.",
+      "abstract": "Capsular contracture, a common complication following breast implant surgery, is driven by fibroblast-to-myofibroblast transition and excessive collagen deposition. Although bacterial biofilm and TGF-β signaling are implicated, the molecular mechanisms linking infection to fibrosis remain unclear. Using ",
+      "year": "2026",
+      "journal": "Acta biochimica et biophysica Sinica",
+      "authors": [
+        "Tang Yiyin",
+        "Liao Jiaqian",
+        "Tang Qi",
+        "Wang Xi",
+        "Lan Nan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42261590/"
+    },
+    {
+      "pmid": "42230849",
+      "title": "Constructing EGF mRNA-Enriched Extracellular Vesicles Based on the AAVS1 Safe Harbor Site to Promote Skin Wound Healing.",
+      "abstract": "Skin wound healing is a complex biological process that requires the coordinated regulation of cell proliferation, migration, and extracellular matrix (ECM) remodeling. Epidermal growth factor (EGF) plays a key role in this process, but its clinical application is limited by its rapid degradation at the wound site. Extracellular vesicles (EVs), as natural nanocarriers, can protect nucleic acids from degradation and enhance their bioavailability. In this study, using CRISPR/Cas9 technology, we site-specifically integrated the EGF gene carrying the TPA signal peptide into the AAVS1 safe harbor site of 293F cells, generating a cell line that stably secretes EVs enriched in EGF mRNA. Characterization and in vitro and in vivo functional evaluation of these engineered EVs (293F-EGF-EV) demonstrated that they significantly promoted fibroblast proliferation and migration and inhibited excessive collagen production. In a rat skin defect model, 293F-EGF-EV promoted wound recovery. High-concentration 293F-EGF-EV focused on \"high-quality repair,\" such as promoting angiogenesis, hair follicle regeneration, and epidermal structural remodeling. Low-concentration 293F-EGF-EV favored \"high-efficiency closure\", such as reducing scar area. This study offers new insights into skin wound treatment.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Gao Peifen",
+        "Feng Wanyun",
+        "Zhao Xian",
+        "Shen Jiuheng",
+        "Wang Xudong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42230849/"
+    },
+    {
+      "pmid": "42210888",
+      "title": "GLP-1-Induced Weight Loss and the Face: Anatomical Mechanisms and Rationale for Collagen-Stimulating and Volumizing Aesthetic Treatments.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists have transformed medical weight-loss therapy and have been associated with characteristic facial changes, including hollowing, skin laxity, and contour alterations that may accentuate pre-existing signs of aging.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Frank Konstantin",
+        "Guertler Anne",
+        "Hoffmeister Victoria",
+        "Kohler Lukas",
+        "Nikolis Andreas"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Weight Loss",
+        "Face",
+        "Cosmetic Techniques",
+        "Skin Aging",
+        "Collagen",
+        "Hyaluronic Acid",
+        "Dermal Fillers",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210888/"
+    },
+    {
+      "pmid": "42210881",
+      "title": "Poly-l-Lactic Acid as a Regenerative Treatment for the Glucagon-like Peptide-1 Receptor Agonist User Population.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) used for weight management have introduced unintended facial changes only partially addressed by conventional volumizing fillers.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Franco Johnny",
+        "Aguilera Shino Bay",
+        "Le Jennifer Htd",
+        "Brasater Daniel",
+        "Nicodeme Edwige"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Polyesters",
+        "Cosmetic Techniques",
+        "Skin Aging",
+        "Face",
+        "Weight Loss",
+        "Regeneration",
+        "Dermal Fillers"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210881/"
+    },
+    {
+      "pmid": "42210880",
+      "title": "The Potential Role of Topical Skincare Approaches After Glucagon-like Peptide-1 Receptor Agonist Use and Rapid Weight Loss.",
+      "abstract": "Diminished facial and body skin qualities have emerged as unintended consequences of rapid weight loss associated with glucagon-like peptide-1 receptor agonists (GLP-1RAs). Patients experiencing facial and body skin sagging (laxity) are increasingly seeking corrective treatments to address aesthetic concerns.",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Shridharani Sachin M",
+        "Kourosh Arianne S",
+        "Saltzman Erin",
+        "Carver Lucy",
+        "Makino Elizabeth T"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Weight Loss",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Skin Aging",
+        "Skin Care",
+        "Administration, Cutaneous",
+        "Administration, Topical"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210880/"
+    },
+    {
+      "pmid": "42195828",
+      "title": "Effect of Gelatin-Peptide Complex from Sturgeon Skin on Behavioral, Antioxidant, and Neuroprotective Functions in D-Galactose-Induced Aging Mice: Thermal Degradation vs. Enzymatic Hydrolysis.",
+      "abstract": "Collagen-derived products are widely applied in functional foods; however, limited information is available regarding how different preparation methods, particularly thermal degradation and enzymatic hydrolysis, affect their anti-aging efficacy and biological functions. In this study, sturgeon skin was used as raw material to prepare gelatin-peptide complexes via thermal degradation (GPC-TD) and enzymatic hydrolysis (GPC-EH), and their comparative anti-aging and biological effects were evaluated in D-galactose-induced aging mice. Female ICR mice were divided into eight groups: a blank control group (normal saline), an aging model group (D-galactose, 500 mg/kg), three GPC-TD and three GPC-EH groups (D-galactose supplemented with 100, 200, 400 mg/kg GPC-TD or GPC-EH). After eight weeks of administration, various physiological parameters were evaluated. Throughout the experiment, no statistically significant difference in body weight (BW) was observed among the groups; however, the blank and model groups consistently maintained the highest BW. The medium- and high-dose GPC-TD groups showed relatively faster weight gain, whereas the 100 mg/kg GPC-TD group and all three GPC-EH groups exhibited the slowest BW gain. Notably, the gastric indices of these latter groups were significantly lower than those of other groups (",
+      "year": "2026",
+      "journal": "Foods (Basel, Switzerland)",
+      "authors": [
+        "Ma Siyuan",
+        "He Yibing",
+        "Han Ying",
+        "Zhao Wei",
+        "Sun Hanxue"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42195828/"
+    },
+    {
+      "pmid": "42194068",
+      "title": "The Multifunctional Peptide AP10W Enhances Skin Wound Healing Through Macrophage Reprogramming and Angiogenesis.",
+      "abstract": "Skin wound healing is a complex and highly coordinated biological process involving inflammation, cell migration and proliferation, angiogenesis, extracellular matrix remodeling and tissue regeneration. While the zebrafish-derived antimicrobial peptide AP10W exhibits broad-spectrum antimicrobial properties, its potential in tissue repair remains unexplored. Herein, we demonstrate that AP10W possesses intrinsic wound-healing capabilities, providing a preliminary investigation into its underlying mechanisms. In this study, using a full-thickness murine wound model and in vitro cell-based assays to evaluate the effects of AP10W on fibroblasts, keratinocytes, endothelial cells, and macrophages, we found that AP10W significantly promoted fibroblast and keratinocyte migration and proliferation. Furthermore, it enhanced endothelial cell motility, survival, and tube formation, while upregulating key pro-angiogenic factors, including ",
+      "year": "2026",
+      "journal": "Biomolecules",
+      "authors": [
+        "Xuan Cuiling",
+        "Liu Zixuan",
+        "Zhang Peng",
+        "Liu Bojian",
+        "Gao Zhiqin"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Animals",
+        "Macrophages",
+        "Mice",
+        "Skin",
+        "Neovascularization, Physiologic",
+        "Cell Movement",
+        "Humans",
+        "Angiogenesis",
+        "Cell Proliferation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42194068/"
+    },
+    {
+      "pmid": "42188292",
+      "title": "Thiol-Associated Antioxidant Activity of Recombinant Mussel Foot Protein Mfp6-1 Supports Cutaneous Wound Repair in a Murine Model.",
+      "abstract": "Mussel foot proteins (Mfps) are renowned for their underwater adhesion, whereas their biotechnological potential for cutaneous wound repair remains largely underexplored. In this study, we identified and characterized a cysteine-rich mussel foot protein, Mfp6-1, from ",
+      "year": "2026",
+      "journal": "Marine drugs",
+      "authors": [
+        "Li Zi-Jun",
+        "Wang Kun-Cheng",
+        "Shen Zhi-Ming",
+        "Wang Yu-Qing",
+        "Li Yi-Feng"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Antioxidants",
+        "Mice",
+        "Recombinant Proteins",
+        "Skin",
+        "Mytilus",
+        "Sulfhydryl Compounds",
+        "Humans",
+        "Proteins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42188292/"
+    },
+    {
+      "pmid": "42172545",
+      "title": "Dual-Gene CRISPR Editing via Peptide Dendrimers Regulates Redox Balance for Diabetic Wound Repair.",
+      "abstract": "The management of chronic diabetic wounds, plagued by persistent oxidative stress, remains a major clinical challenge. We devised a CRISPR/Cas9-based gene therapy to fundamentally reprogram this pathological microenvironment. A single system was engineered for the simultaneous knockdown of Keap1 and PHD2, key negative regulators of the Nrf2 and HIF-1α pathways, respectively. This payload was delivered by multifunctional peptide-modified lysine dendrimers (MsRNPs), which self-assembled into stable, positively charged nanoparticles that effectively complexed with DNA. The MsRNPs showed excellent biocompatibility and mediated efficient cellular uptake and gene editing in vitro, leading to reduced ROS levels. Consequently, a single topical application of the polyplexes in a diabetic mouse model robustly accelerated wound closure, enhanced collagen deposition, and promoted angiogenesis, driven by the synergistic activation of Nrf2 and HIF-1α. This study establishes a novel combinatorial gene-editing strategy and a versatile nanoplatform for treating oxidative stress-related pathologies.",
+      "year": "2026",
+      "journal": "Biomacromolecules",
+      "authors": [
+        "Jiang Yuhang",
+        "Wen Haobo",
+        "Xu Jiaqi",
+        "Peng Wanjia",
+        "Zhou Jie"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Mice",
+        "Dendrimers",
+        "Oxidation-Reduction",
+        "Gene Editing",
+        "CRISPR-Cas Systems",
+        "Oxidative Stress",
+        "Kelch-Like ECH-Associated Protein 1",
+        "NF-E2-Related Factor 2"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42172545/"
+    }
+  ],
+  "crawled_at": "2026-06-22T22:56:10.672156"
+}

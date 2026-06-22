@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    "glutathione",
+    "niacinamide",
+    "madecassoside"
+  ],
+  "query": "(\"glutathione\"[Title/Abstract] AND \"niacinamide\"[Title/Abstract] AND \"madecassoside\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 0,
+  "articles": [],
+  "crawled_at": "2026-06-22T22:56:10.005804"
+}

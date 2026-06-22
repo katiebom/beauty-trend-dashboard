@@ -1,0 +1,762 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 22,
+  "trials": [
+    {
+      "nct_id": "NCT05400005",
+      "title": "Impact of Different Types of Higher Dietary Protein Intake on Sleep Quality in Singapore Older Adults",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sleep",
+        "Gut Microbiome",
+        "Cardiometabolic Risk"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Dietary protein"
+        }
+      ],
+      "sponsor": "National University of Singapore",
+      "primary_completion": "2024-10-22",
+      "url": "https://clinicaltrials.gov/study/NCT05400005"
+    },
+    {
+      "nct_id": "NCT04775082",
+      "title": "SCALE KIDS: Research Study to Look at How Well a New Medicine is at Lowering Weight in Children With Obesity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Liraglutide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "primary_completion": "2023-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT04775082"
+    },
+    {
+      "nct_id": "NCT07213661",
+      "title": "LT Comparative Effectiveness of 2 Caries Treatments",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dental Caries"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "A \"simple medical strategy\" consisting of silver diamine fluoride (SDF)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "A \"typical dental strategy\" consisting of atraumatic restorative treatment (ART) with glass ionomer cement + Fluoride Varnish (FV)"
+        }
+      ],
+      "sponsor": "Case Western Reserve University",
+      "primary_completion": "2030-01",
+      "url": "https://clinicaltrials.gov/study/NCT07213661"
+    },
+    {
+      "nct_id": "NCT07546539",
+      "title": "Photobiomodulation in Chronic Fatigue Syndrome",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Fatigue Syndrome (CFS)",
+        "Quality of Life"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Photobiomodulation (Low-Level Laser Therapy)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "sham Photobiomodulation (LLLT)"
+        }
+      ],
+      "sponsor": "University of Lahore",
+      "primary_completion": "2026-07-15",
+      "url": "https://clinicaltrials.gov/study/NCT07546539"
+    },
+    {
+      "nct_id": "NCT06974877",
+      "title": "Repeat PET/CT Imaging in People With CAPS and Anakinra-Induced Amyloidosis Using an Amyloid-Reactive Peptide to Measure Changes in Organ-Specific Amyloid Load",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cryopyrin-Associated Periodic Syndromes",
+        "Amyloidosis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "124I AT-01"
+        }
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "primary_completion": "2031-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06974877"
+    },
+    {
+      "nct_id": "NCT05643651",
+      "title": "Rivaroxaban for Children Aged Over 2 Years With Giant Coronary Artery Aneurysms After Kawasaki Disease",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Kawasaki Disease",
+        "Coronary Artery Aneurysm"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rivaroxaban Oral Tablet [Xarelto]"
+        },
+        {
+          "type": "DRUG",
+          "name": "Aspirin or Clopidogrel"
+        },
+        {
+          "type": "DRUG",
+          "name": "Warfarin"
+        }
+      ],
+      "sponsor": "Children's Hospital of Fudan University",
+      "primary_completion": "2027-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT05643651"
+    },
+    {
+      "nct_id": "NCT05361798",
+      "title": "A Phase II Study Evaluating T-Cell Clonality After Stereotactic Body Radiation Therapy Alone and in Combination With the Immunocytokine PDS01ADC in Localized High and Intermediate Risk Prostate Cancer Treated With Androgen Deprivation Therapy",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cancer Of Prostate"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "PDS01ADC"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Stereotactic Body Radiation Therapy (SBRT)"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2026-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT05361798"
+    },
+    {
+      "nct_id": "NCT05398809",
+      "title": "Evaluate the Efficacy and Safety of Ruxolitinib on Hair Regrowth in Patients With Autoimmune Polyendocrinopathy Candidiasis Ectodermal Dystrophy (APECED)-Associated Alopecia Areata",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Autoimmune Polyendocrinopathy Candidiasis Ectodermal Dystrophy (Apeced)",
+        "Alopecia Areata"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ruxolitinib"
+        }
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "primary_completion": "2027-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT05398809"
+    },
+    {
+      "nct_id": "NCT07399808",
+      "title": "CDK4/6 Inhibitors in Breast Cancer Elderly Patients: an Observational Ambispective Longitudinal Multicenter Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Old Age"
+      ],
+      "interventions": [],
+      "sponsor": "Fondazione IRCCS Policlinico San Matteo di Pavia",
+      "primary_completion": "2026-03",
+      "url": "https://clinicaltrials.gov/study/NCT07399808"
+    },
+    {
+      "nct_id": "NCT07529249",
+      "title": "Evaluation of Oral Collagen Peptides on Skin Barrier Function in Women",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dry Skin",
+        "Sensitive Skin",
+        "Dry Skin in the Elderly",
+        "Dietary Supplement"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Investigational Product 1"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Investigational Product 2"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Centre de Pharmacologie Clinique Applique a la Dermatologie",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT07529249"
+    },
+    {
+      "nct_id": "NCT07133308",
+      "title": "Study to Evaluate the Efficacy and Safety of Deuruxolitinib in Adolescents With Severe Alopecia Areata",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alopecia Areata"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Deuruxolitinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Sun Pharmaceutical Industries, Inc.",
+      "primary_completion": "2028-05",
+      "url": "https://clinicaltrials.gov/study/NCT07133308"
+    },
+    {
+      "nct_id": "NCT00001252",
+      "title": "Human Movement Database",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Movement Disorder"
+      ],
+      "interventions": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT00001252"
+    },
+    {
+      "nct_id": "NCT05043116",
+      "title": "High-dose Vitamin D Supplement for the Prevention of Acute Asthma-like Symptoms in Preschool Children",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Asthma in Children"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Cholecalciferol D3"
+        },
+        {
+          "type": "OTHER",
+          "name": "Oral placebo suspension"
+        }
+      ],
+      "sponsor": "Copenhagen Studies on Asthma in Childhood",
+      "primary_completion": "2028-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT05043116"
+    },
+    {
+      "nct_id": "NCT06431932",
+      "title": "Pilot Trial of Fisetin in Healthy Volunteers and Older Patients With Multimorbidity",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Multimorbidity",
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Fisetin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Ove Andersen",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06431932"
+    },
+    {
+      "nct_id": "NCT07585058",
+      "title": "Safety and Efficacy of Early Brain-Computer Interface Training After Reperfusion Therapy in Acute Ischemic Stroke",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acute Ischemic Stroke"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "EEG-based non-invasive brain-computer interface (BCI) virtual hand/gait training system"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Standard Early Rehabilitation"
+        }
+      ],
+      "sponsor": "Shandong Provincial Hospital",
+      "primary_completion": "2027-04",
+      "url": "https://clinicaltrials.gov/study/NCT07585058"
+    },
+    {
+      "nct_id": "NCT07630064",
+      "title": "Flo Digital Contraceptive Study",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Contraception Use"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Flo Digital Contraceptive"
+        }
+      ],
+      "sponsor": "Flo Health Inc.",
+      "primary_completion": "2028-01-10",
+      "url": "https://clinicaltrials.gov/study/NCT07630064"
+    },
+    {
+      "nct_id": "NCT04426136",
+      "title": "A Prospective Cohort Study Comparing Disparity in Surgical Procedure (Wide Local Excision Only vs Any Other Surgery Procedures) Among the Elderly Breast Cancer Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Elderly Patient",
+        "Wide Local Excision",
+        "Surgery",
+        "Survival Outcomes"
+      ],
+      "interventions": [],
+      "sponsor": "Peking Union Medical College Hospital",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT04426136"
+    },
+    {
+      "nct_id": "NCT07024316",
+      "title": "A Study to Investigate the Improvement of Photosensitivity in Terms of Skin Lesions Associated With CEP Following Administration of Oral ATL-001 (Ciclopirox Oral Solution) in Participants Aged >18 Years of Age With CEP",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Congenital Erythropoietic Porphyria (CEP)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ATL-001 (Ciclopirox oral solution)"
+        }
+      ],
+      "sponsor": "Atlas Molecular Pharma",
+      "primary_completion": "2028-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07024316"
+    },
+    {
+      "nct_id": "NCT07070778",
+      "title": "Arterial Stiffness in Individuals With Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Aerobic Exercise",
+        "Breast Cancer",
+        "Arterial Stiffness"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Upper Extremity Aerobic Exercise Training Program"
+        }
+      ],
+      "sponsor": "Hacettepe University",
+      "primary_completion": "2026-11-01",
+      "url": "https://clinicaltrials.gov/study/NCT07070778"
+    },
+    {
+      "nct_id": "NCT06466720",
+      "title": "Measuring and Mapping Cognitive Decline After Brain Radiosurgery",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Brain Metastases",
+        "Meningiomas",
+        "Stereotactic Radiosurgery",
+        "Cognitive Decline",
+        "Quality of Life",
+        "SRS"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Neurocognitive testing"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Quality of Life questionnaire"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Stereotactic radiosurgery"
+        }
+      ],
+      "sponsor": "University of Nottingham",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06466720"
+    },
+    {
+      "nct_id": "NCT07570524",
+      "title": "Predicting Response to Immunochemotherapy in Early Triple Negative Breast Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Triple-negative Breast Cancer (TNBC)"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Additionnal breast biospy and blood sample"
+        }
+      ],
+      "sponsor": "Center Eugene Marquis",
+      "primary_completion": "2036-05-31",
+      "url": "https://clinicaltrials.gov/study/NCT07570524"
+    },
+    {
+      "nct_id": "NCT04993027",
+      "title": "Topical Vancomycin for Infection Prophylaxis in TJA",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Infection of Total Hip Joint Prosthesis",
+        "Infection of Total Knee Joint Prosthesis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vancomycin Powder"
+        }
+      ],
+      "sponsor": "Alberta Hip and Knee Clinic",
+      "primary_completion": "2028-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT04993027"
+    },
+    {
+      "nct_id": "NCT07335003",
+      "title": "Study of the Photoprotection and Prevention of Actinic Damage With Anthelios Fluide 100 KA+ UVMune 400 in Patients With Multiple Actinic Keratoses",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Actinic Keratosis (AK)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Tested product group"
+        },
+        {
+          "type": "OTHER",
+          "name": "Control group"
+        }
+      ],
+      "sponsor": "Cosmetique Active International",
+      "primary_completion": "2029-03",
+      "url": "https://clinicaltrials.gov/study/NCT07335003"
+    },
+    {
+      "nct_id": "NCT07353996",
+      "title": "Determination of the Effective Dose of a Single Intravenous Dose of Tegileridine Fumarate for Postoperative Analgesia After Orthopedic Surgery: A Up-and-Down Sequential Allocation Study",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postoperative Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Single intravenous injection of Tegileridine Fumarate"
+        }
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "primary_completion": "2026-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT07353996"
+    },
+    {
+      "nct_id": "NCT07637487",
+      "title": "Tocotrienol Supplementa as A Senolytic Agent in Middle-aged Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Treatment"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "National University of Malaysia",
+      "primary_completion": "2024-12-19",
+      "url": "https://clinicaltrials.gov/study/NCT07637487"
+    },
+    {
+      "nct_id": "NCT05637216",
+      "title": "Losartan to Reduce Radiation Induced Fibrosis in Breast Cancer Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Radiation Induced Fibrosis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Losartan 25 milligram capsule"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Shaw Cancer Center",
+      "primary_completion": "2027-08-17",
+      "url": "https://clinicaltrials.gov/study/NCT05637216"
+    },
+    {
+      "nct_id": "NCT07343206",
+      "title": "Early Norepinephrine Administration and Rapid Dose Adjustment",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sepsis",
+        "Septic Shock"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Early norepinephrine administration and rapid dose adjustment"
+        },
+        {
+          "type": "DRUG",
+          "name": "Control"
+        }
+      ],
+      "sponsor": "Siriraj Hospital",
+      "primary_completion": "2028-01",
+      "url": "https://clinicaltrials.gov/study/NCT07343206"
+    },
+    {
+      "nct_id": "NCT07406204",
+      "title": "Tofacitinib vs Methotrexate for Severe Alopecia Areata (TOFA-MTX-AA)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alopecia Areata",
+        "Alopecia Totalis (AT)",
+        "Alopecia Universalis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tofacitinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methotrexate"
+        }
+      ],
+      "sponsor": "Hayat Abad Medical Complex, Peshawar",
+      "primary_completion": "2026-08-15",
+      "url": "https://clinicaltrials.gov/study/NCT07406204"
+    },
+    {
+      "nct_id": "NCT07054463",
+      "title": "Clinical Study on the Healing of Distal Radius Fractures With Conservative Treatment Assisted by Fu's Subcutaneous Needling",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Distal Radius Fractures"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "FSN Therapy Combined with Rehabilitation Training"
+        },
+        {
+          "type": "OTHER",
+          "name": "Sham FSN Therapy Combined with Rehabilitation Training"
+        }
+      ],
+      "sponsor": "Guangzhou University of Chinese Medicine",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT07054463"
+    },
+    {
+      "nct_id": "NCT05926024",
+      "title": "Long-Term Follow-Up in Women With Early Breast Cancer Three Years of More Post Primary Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Exercise Recall Patient Reported Outcomes"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Health Behavior Questionnaire (HBQ)30 Patient Reported Outcomes"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Functional Assessment of Cancer Therapy-General (FACT-G) Patient Reported Outcomes"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) Patient Reported Outcomes"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Patient Reported Outcomes PROMIS Cognitive Function (Short Form 8a)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Patient Reported Outcomes Functional Assessment of Cancer-Gynecology Oncology Group-Neurotoxicity (FACT/GOG-NTX-12)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Patient Reported Outcomes PROMIS"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Patient Reported Outcomes FACT-Endocrine Symptoms"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Patient Reported Outcomes Penn Arthralgia Aging Survey"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Patient Reported Outcomes PRO-CTCAE (patient-reported CTCAE)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "p16 tumor suppressor gene"
+        }
+      ],
+      "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+      "primary_completion": "2028-01-31",
+      "url": "https://clinicaltrials.gov/study/NCT05926024"
+    }
+  ],
+  "fetched_at": "2026-06-22T22:56:03.225815"
+}

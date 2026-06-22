@@ -1,0 +1,318 @@
+{
+  "ingredient_a": "vitamin C",
+  "ingredient_b": "vitamin E",
+  "query": "(\"vitamin C\"[Title/Abstract] AND \"vitamin E\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42206507",
+      "title": "Design and evaluation of multi-target AGEs/ALEs inhibitors for potential application in skin anti-aging.",
+      "abstract": "The main causes of skin aging include both intrinsic and extrinsic factors such as oxidative stress triggered by reactive oxygen species (ROS), modification of collagen and elastin by reactive carbonyl species (RCS), UV exposure, lifestyle habits and environmental pollutants. Skin aging is the most visible manifestation of senescence and is unavoidable. In particular, delaying age-related changes in facial appearance is a key objective for older adults. To address this issue, naturally occurring compounds including vitamin C, vitamin E, coenzyme Q10, resveratrol, niacinamide, carnosine, retinols (vitamin A derivatives), and hyaluronic acid are commonly used in commercially available anti-aging skincare products. These compounds are considered to be ROS and RCS scavengers or powerful humectant. This article describes a new multi-targeted anti-aging compounds for skin applications, composed of two functional moieties: one that neutralizes ROS and the other scavenges RCS. These compounds exhibit potent skin anti-aging properties, as demonstrated by their rapid and efficient scavenging of RCS, an ORAC value more than twice that of Trolox, and strong transition-metal-chelating activity.",
+      "year": "2026",
+      "journal": "Future medicinal chemistry",
+      "authors": [
+        "Sasaki N André",
+        "Sonnet Pascal"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42206507/"
+    },
+    {
+      "pmid": "41922450",
+      "title": "Hyaluronic Acid-Phospholipid Hybrid Nanocarriers (Hyalutocosomes) for Enhanced Dermal Delivery of Vitamin E and Photoprotection.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Zewail Mariam",
+        "Elkelish Amr",
+        "Elsayed Abeer Mostafa",
+        "Sayed Nesrine El",
+        "Abbas Haidy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41922450/"
+    },
+    {
+      "pmid": "41900080",
+      "title": "Glutathione in Skin Aging and Tissue Regeneration: A Systematic Review of Molecular Mechanisms, Redox Modulation, and Biomedical Implications.",
+      "abstract": "Glutathione (GSH) is a central regulator of redox homeostasis, melanogenesis, and cellular repair, and has gained increasing attention in dermatology for its potential roles in skin brightening, anti-aging, and tissue regeneration. This systematic review evaluated molecular, clinical, and translational evidence of glutathione's applications and safety across different delivery modalities. The review followed PRISMA guidelines and included studies published between 2000 and 2025. A total of 194 studies met the inclusion criteria, evaluating the effectiveness of glutathione in esthetic dermatology and regenerative medicine. Topical and oral glutathione demonstrated favorable effects on pigmentation, skin brightness, hydration, and oxidative stress markers. Injectable glutathione increases systemic levels rapidly, but is associated with short-lasting effects and potential safety concerns. Glutathione S-transferases facilitate the conjugation of glutathione to electrophilic xenobiotics, thereby protecting proteins and nucleic acids from electrophile-induced damage. Glutathione Peroxidase employs GSH as an electron donor to reduce hydrogen peroxide and lipid hydroperoxides, thus protecting membrane lipids, mitochondrial membranes, and DNA from oxidative damage. Glutathione facilitates the regeneration of other antioxidants, such as vitamin C and vitamin E, through redox cycling. A consistent correlation exists between reduced GSH levels and neuronal dysfunction. Elevated GSH levels enhance cellular resistance to oxidative stress and reduce apoptotic signaling. GSH plays a pivotal role in cutaneous aging and tissue repair through redox regulation, mitochondrial protection, and the modulation of inflammatory and extracellular matrix pathways. To elucidate the clinical significance of glutathione, future research should focus on conducting randomized controlled trials, developing standardized formulations, and performing long-term safety assessments.",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Stanescu Cristina",
+        "Chiscop Iulia",
+        "Boev Monica",
+        "Stanescu Georgiana Daniela",
+        "Matei Madalina Nicoleta"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glutathione",
+        "Skin Aging",
+        "Oxidation-Reduction",
+        "Oxidative Stress",
+        "Regeneration",
+        "Animals",
+        "Antioxidants",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41900080/"
+    },
+    {
+      "pmid": "41713122",
+      "title": "Ultrasonic microreactor-mediated fabrication of stable W",
+      "abstract": "Water-in-oil-in-water (W",
+      "year": "2026",
+      "journal": "Ultrasonics sonochemistry",
+      "authors": [
+        "Zhou Chengke",
+        "Feng Yanting",
+        "Chen Rongjia",
+        "Li Jingjing",
+        "Zhang Jie"
+      ],
+      "mesh_terms": [
+        "Emulsions",
+        "Ascorbic Acid",
+        "Water",
+        "Oils",
+        "Sonication",
+        "Vitamin E",
+        "Ultrasonic Waves",
+        "Particle Size",
+        "Drug Compounding",
+        "Microtechnology"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41713122/"
+    },
+    {
+      "pmid": "41710525",
+      "title": "A Double-Blinded, Split-Face Clinical Trial Evaluating the Effects of a Vitamin C, E, and Ferulic Acid Serum Combined with Microneedling on Facial Photoaging.",
+      "abstract": "Microneedling achieves skin rejuvenation through controlled microinjury, while topical antioxidants may enhance its outcomes by neutralizing reactive oxygen species and promoting tissue repair. This study evaluated whether a topical antioxidant formulation containing vitamins C, E, and ferric acid enhances facial rejuvenation outcomes when combined with microneedling.",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Liu Chaocheng",
+        "Boo Jihee",
+        "Kim Hyun",
+        "Hwang Shinwon",
+        "Yan Xi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41710525/"
+    },
+    {
+      "pmid": "41692086",
+      "title": "Vitamins and oral mucosal diseases: From bench to the bedside.",
+      "abstract": "Vitamins are essential biocatalysts that have wide-ranging functions in supporting cellular metabolism. Vitamin deficiencies can significantly impact oral health, manifesting in oral mucosal and periodontal conditions. Deficiencies in the vitamin B complex are associated with glossitis, angular cheilitis, and recurrent aphthous stomatitis. Vitamin C deficiency leads to scurvy-related periodontal issues, whereas vitamin A insufficiency predisposes to oral epithelial keratinization abnormalities such as dry mouth and susceptibility to Candida. A reduction in vitamin D levels is linked to the risk of periodontal disease, reduced oral immunity, and oral neoplasia. Low vitamin E does not induce oral disease, but vitamin K deficiency causes gingival hemorrhage. Oral mucosal diseases have a huge impact on morbidity. We discuss the diagnostic challenges in identifying vitamin-related oral manifestations and the associated systemic features that may accompany the mucosal changes. This review provides clinicians with insight into the mechanisms that govern oral mucosal pathology and the risk factors related to specific vitamin deficiencies. The role of vitamin supplementation in treating and preventing oral conditions is also addressed.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Yesudian Rohan Isaac",
+        "Yesudian Paul Devakar"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Mouth Diseases",
+        "Avitaminosis",
+        "Vitamin A Deficiency",
+        "Vitamins",
+        "Stomatitis, Aphthous",
+        "Mouth Mucosa",
+        "Vitamin D Deficiency",
+        "Ascorbic Acid Deficiency",
+        "Vitamin K Deficiency"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41692086/"
+    },
+    {
+      "pmid": "41521693",
+      "title": "Reparative Effects of a Topical Antioxidant Serum Containing Vitamin C, Vitamin E, and Ferulic Acid After Ablative Fractional CO",
+      "abstract": "Ablative fractional CO",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Shi Yu",
+        "Xu Sijia",
+        "Zhang Wei"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acne Vulgaris",
+        "Adult",
+        "Cicatrix",
+        "Female",
+        "Coumaric Acids",
+        "Lasers, Gas",
+        "Male",
+        "Antioxidants",
+        "Ascorbic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41521693/"
+    },
+    {
+      "pmid": "41278416",
+      "title": "Benefits and risks of hair, skin, and nail supplements in older adults.",
+      "abstract": "Many older adults, particularly older women, use over-the-counter supplements for antiaging benefits, including for hair and skin. The supplement industry is unregulated by the Food and Drug Administration, and the interactions between supplements and medications are often overlooked by both patients and physicians. This article discusses the proposed mechanism of action, common misconceptions, possible benefits, and potential side effects of the most commonly used antiaging skin supplements by women, including biotin, nicotinamide, hyaluronic acid, collagen, zinc, vitamin C, vitamin A, vitamin E, and other antioxidants. Supplements may also interfere with common blood tests, such as biotin with the thyroid and troponin cardiac enzyme tests, which patients and their clinicians must be aware of and account for when interpreting lab results. Other supplements, such as zinc, are commonly taken in excess and may result in deficiencies in the absorption of other minerals, such as copper. Over-supplementation of fat-soluble vitamins, such as vitamin A and vitamin E, can result in toxic levels since excess is not excreted in the urine. The clinician caring for older patients' skin and nails must ask older patients about supplement use and be aware of the potential harms of these supplements in some patients.",
+      "year": "2025",
+      "journal": "International journal of women's dermatology",
+      "authors": [
+        "Shing Vivian",
+        "Aragon Sierra Ana",
+        "Shah Amit A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41278416/"
+    },
+    {
+      "pmid": "41261622",
+      "title": "The clinical efficacy of modified xiaoyaosan in the treatment of liver Qi stagnation-type chloasma from the starting point of liver.",
+      "abstract": "Chloasma (melasma) is a common pigmentary disorder characterized by hyperpigmented facial macules with a high recurrence rate. In Traditional Chinese Medicine, liver qi stagnation is considered a key pathogenesis. This study aimed to evaluate the clinical efficacy and safety of Modified Xiaoyaosan, a classical liver-soothing herbal formula, as an adjunct to conventional therapy in patients with liver qi stagnation-type chloasma. A retrospective analysis was conducted on 78 female patients diagnosed with liver qi stagnation-type chloasma who received treatment at our hospital. Based on their treatment regimens, patients were categorized into a control group (treated with vitamin C, vitamin E, and topical tranexamic acid) and a study group (treated with the same regimen plus Modified Xiaoyaosan) for a duration of 12 weeks. Clinical efficacy, skin lesion scores, VISIA skin imaging parameters, quality of life (assessed using the Dermatology Life Quality Index), serum oxidative stress markers (including superoxide dismutase and malondialdehyde), recurrence rate, and adverse events were retrospectively evaluated and compared between the 2 groups. The study group showed significantly higher total clinical efficacy (94.87% vs 79.49%, P < .05), greater improvement in skin lesion scores and VISIA parameters (P < .001), and lower Dermatology Life Quality Index scores at 4 and 12 weeks (P < .001). Serum superoxide dismutase levels increased while malondialdehyde levels decreased more significantly in the study group (P < .001). Recurrence rate was lower in the study group (2.56% vs 17.95%, P < .05), with no significant difference in adverse event rates. Modified Xiaoyaosan combined with conventional Western treatment effectively improves clinical symptoms, reduces oxidative stress, enhances skin quality and quality of life, and lowers recurrence in liver qi stagnation-type chloasma, with good safety and tolerability.",
+      "year": "2025",
+      "journal": "Medicine",
+      "authors": [
+        "Ma Ke-Dang",
+        "Xu Qing-Qiang",
+        "Wang Xiang-Lan",
+        "Li Zhang-Jun"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Drugs, Chinese Herbal",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Adult",
+        "Treatment Outcome",
+        "Quality of Life",
+        "Liver",
+        "Qi"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41261622/"
+    },
+    {
+      "pmid": "41192981",
+      "title": "Lecithin-chitosan nanoparticles for co-delivery of curcumin and β-caryophyllene-potential applications in chronic wound care.",
+      "abstract": "Chronic skin wounds pose a significant challenge due to persistent inflammation, elevated oxidative stress, and high susceptibility to microbial colonization. To support wound healing, this study investigated lecithin-chitosan nanoparticles co-loaded with curcumin and β-caryophyllene, two natural compounds with complementary anti-inflammatory, antioxidative, and antimicrobial properties. Co-loading curcumin and β-caryophyllene produced near-spherical nanoparticles with consistent size distribution (200-240 nm) and favourable surface charge (+30-35 mV) for topical applications. The ",
+      "year": "2025",
+      "journal": "Journal of biomaterials science. Polymer edition",
+      "authors": [
+        "Hemmingsen Lisa Myrseth",
+        "Boracchia Luca",
+        "Hagen Nadia Eriksen",
+        "Vasskog Terje",
+        "Guareschi Fabiola"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41192981/"
+    },
+    {
+      "pmid": "40776734",
+      "title": "The role of vitamin C on the skin.",
+      "abstract": "Vitamin C (ascorbic acid or ascorbate) plays an important role in regulating the health of the skin, promoting the differentiation of epithelial skin cells (keratinocytes) while contributing a notable role in the reduction of melanin synthesis, leading to antioxidative protection against solar-related skin damage. Vitamin C is only sourced from diet because humans have no ability to synthesise it in vivo. Routine dietary intake choices become key in maintaining the skin's integrity, preventing and treating some of the skin conditions encountered regularly by general practitioners and skin specialists alike. There is a strong association between vitamin C and the ageing process, skin pigmentation, control of certain skin diseases and a role in some skin cancers through antioxidation properties. Literature suggests that topical application of vitamin C in different forms of formulations has been demonstrated to have more clinical effect than oral intake.Contribution: This article spotlights the benefits of a vitamin commonly encountered in topical pharmaceutics, ingested as tablets or as part of our routine diet.",
+      "year": "2025",
+      "journal": "South African family practice : official journal of the South African Academy of Family Practice/Primary Care",
+      "authors": [
+        "Makhakhe Lehlohonolo"
+      ],
+      "mesh_terms": [
+        "Ascorbic Acid",
+        "Humans",
+        "Skin",
+        "Antioxidants",
+        "Skin Aging",
+        "Skin Pigmentation",
+        "Vitamins",
+        "Skin Diseases",
+        "Skin Neoplasms",
+        "Dietary Supplements"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40776734/"
+    },
+    {
+      "pmid": "40490897",
+      "title": "Investigating the dual functions of butylated hydroxytoluene, vitamin E and vitamin C as antioxidants and anti-glycation agents in vitro: Implications for skin health.",
+      "abstract": "Antioxidants are vital in skincare for neutralizing reactive oxygen species (ROS), which impact key cellular structures, such as cell nuclei and elastic fibres and can contribute to skin ageing. Oxidative stress, compounded by processes such as glycation, therefore leads to impaired cellular renewal and reduced skin elasticity. The effectiveness of antioxidants depends on their concentrations, making it essential to investigate their dosage-related benefits to optimize skincare formulations. This raises an important question regarding the reciprocal effects of antioxidants on glycation and whether their protective effects against macromolecular damage are dose-dependent.",
+      "year": "2025",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Markiewicz Ewa",
+        "Ruth Nora",
+        "Mammone Thomas",
+        "Idowu Olusola C"
+      ],
+      "mesh_terms": [
+        "Antioxidants",
+        "Ascorbic Acid",
+        "Humans",
+        "Skin",
+        "Vitamin E",
+        "Butylated Hydroxytoluene",
+        "Reactive Oxygen Species",
+        "Glycosylation",
+        "Fibroblasts",
+        "Antiglycation Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40490897/"
+    },
+    {
+      "pmid": "40462781",
+      "title": "Safe and Effective Treatment Protocol for Facial Pigmentary Disorders in Asian Patients: A Key to Success for Plastic Surgery Residents With Limited Clinical Experience in Aesthetic Dermatology.",
+      "abstract": "Asian patients seeking facial rejuvenation treatments have a high incidence of melasma and senile lentigo, collectively known as aging complex pigmentation (ACP), making accurate diagnosis essential for appropriate treatment planning. This study evaluates the versatility of a treatment protocol established by attending plastic surgeons for residents with limited clinical experience in aesthetic dermatology.",
+      "year": "2025",
+      "journal": "Cureus",
+      "authors": [
+        "Kitano Daiki",
+        "Morita Misako",
+        "Takekawa Chikara"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40462781/"
+    },
+    {
+      "pmid": "40414817",
+      "title": "A Randomized, Investigator-Blinded, Split-Face, Controlled Trial Assessing Efficacy and Satisfaction of CE Ferulic Serum Following Nonablative Fractional Fraxel Laser Treatment for Photoaging Skin in Chinese Population.",
+      "abstract": "Following Nonablative fractional Fraxel laser (NAFL), a well-established treatment for skin rejuvenation, immediate post-procedural care is essential to address any potential complications and accelerate the healing process.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Qin Xiaolei",
+        "Zhai Jinlong",
+        "Zhou Chenxi",
+        "Wang Yanmei",
+        "Chen Mengjiao"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Skin Aging",
+        "Patient Satisfaction",
+        "Male",
+        "Middle Aged",
+        "Adult",
+        "Erythema",
+        "Treatment Outcome",
+        "Coumaric Acids"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40414817/"
+    },
+    {
+      "pmid": "40227287",
+      "title": "A Proprietary ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Pannakal Steve Thomas",
+        "Durand Steven",
+        "Gizard Julie",
+        "Sextius Peggy",
+        "Planel Emilie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40227287/"
+    }
+  ],
+  "crawled_at": "2026-06-22T22:56:16.458727"
+}

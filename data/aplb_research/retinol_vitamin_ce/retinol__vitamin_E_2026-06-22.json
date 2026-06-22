@@ -1,0 +1,374 @@
+{
+  "ingredient_a": "retinol",
+  "ingredient_b": "vitamin E",
+  "query": "(\"retinol\"[Title/Abstract] AND \"vitamin E\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "40965351",
+      "title": "Maternal first-trimester serum vitamin A/E concentration and risk of infant atopic dermatitis within 12 months.",
+      "abstract": "The relationship between maternal antioxidative vitamins intake and infant atopic dermatitis (AD) remains inconclusive, and evidence of maternal serum vitamin levels is scarce. This study aimed to quantify the association of maternal serum vitamin A and E concentrations at first trimester with the risk of infant AD.",
+      "year": "2025",
+      "journal": "Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology",
+      "authors": [
+        "Ye Ying",
+        "Peng Yuanzhou",
+        "Zhang Yi",
+        "Chen Xiaotian",
+        "Song Wei"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Dermatitis, Atopic",
+        "Vitamin A",
+        "Infant",
+        "Pregnancy Trimester, First",
+        "Adult",
+        "Vitamin E",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40965351/"
+    },
+    {
+      "pmid": "39120057",
+      "title": "Causal relationships between dietary antioxidant vitamin intake and atopic dermatitis: A two-sample Mendelian randomization study.",
+      "abstract": "Oxidative stress is strongly associated with atopic dermatitis (AD), and increased antioxidant intake could potentially reduce the risk of or alleviate its symptoms. However, the argument is disputed. Therefore, we conducted a Mendelian randomization (MR) analysis to explore the causal relationship between dietary antioxidant vitamin intake and AD.",
+      "year": "2024",
+      "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+      "authors": [
+        "Wang Siqing",
+        "Dan Wenchao",
+        "Wang Zixuan",
+        "Sun Yujie",
+        "Zhang Guangzhong"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Mendelian Randomization Analysis",
+        "Dermatitis, Atopic",
+        "Antioxidants",
+        "Genome-Wide Association Study",
+        "Vitamin E",
+        "Vitamins",
+        "Diet",
+        "Polymorphism, Single Nucleotide",
+        "Vitamin A"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39120057/"
+    },
+    {
+      "pmid": "39108105",
+      "title": "Antioxidants for Skin Health.",
+      "abstract": "Antioxidants play a pivotal role in maintaining skin health and integrity, combating the deleterious effects of oxidative stress induced by environmental aggressors such as UV radiation, pollution, and lifestyle factors. This paper reviews the contributions of key antioxidants, including Vitamin C, Vitamin E, Vitamin A, green tea extract, Coenzyme Q10, Resveratrol, Selenium, and Polyphenols, in skin health care. Vitamin C, known for its collagen synthesis promotion and photoprotection properties, alongside Vitamin E, a lipid-soluble antioxidant, synergistically works to neutralize free radicals and repair damaged skin cells. Vitamin A, in the form of retinol, plays a critical role in skin cell regeneration and the maintenance of skin integrity. Green tea extract, rich in Polyphenols, offers anti-inflammatory and anticarcinogenic properties, making it a potent ingredient for skin protection. Coenzyme Q10, a naturally occurring antioxidant in the body, aids in energy production for cell repair and regeneration, while Resveratrol, found in grapes and berries, provides anti-ageing benefits by enhancing skin's resistance to oxidative stress. Selenium, an essential mineral, contributes to the protection of skin cells from oxidative damage. The incorporation of these antioxidants in skincare products and dietary sources is discussed, highlighting the importance of a holistic approach in skincare regimes. The paper emphasizes the synergy between topical applications and dietary intake of antioxidants, advocating for a comprehensive strategy for promoting skin health and preventing age-related skin alterations. Method: For the review article, a variety of search engines and databases were used to identify relevant articles. Furthermore, for biomedical literature focusing on antioxidants and their effects on skin health, PubMed was used. Moreover, to access a wide range of scholarly articles, including those related to dermatology and skincare, Google Scholar was used. Scopus provides comprehensive coverage of peer-reviewed literature across various scientific disciplines. Web of Science identifies high-impact articles and research on antioxidants in skincare. In addition, for accessing full-text articles on antioxidants and their applications in dermatology, Science Direct was used. The inclusion criteria for the review paper were as follows: only studies published in peer-reviewed journals were included to ensure the credibility and reliability of the information. Articles published in English were considered, to avoid language-related biases and ensure comprehension. Studies published within the last 10 years were included to provide the most current insights into antioxidant research in skincare. Articles must specifically focus on the role of antioxidants (Vitamin C, Vitamin E, Vitamin A, green tea extract, Coenzyme Q10, Resveratrol, Selenium, Polyphenols) in skin health care. Both experimental studies (in vivo and in vitro) and clinical trials were included to provide a comprehensive overview of the antioxidant effects. Full-text articles were included to allow for thorough data extraction and analysis. The exclusion criteria for the review paper were as follows: Publications that were not peer-reviewed, such as editorials, opinion pieces, and non-scholarly articles, were excluded. Articles published in languages other than English were excluded due to potential translation challenges and to maintain consistency. Studies that did not focus on the specified antioxidants or their impact on skin health were excluded. Duplicate publications were excluded to avoid redundancy in the review. Articles with insufficient or incomplete data were excluded to ensure the quality and reliability of the review findings.",
+      "year": "2025",
+      "journal": "Recent advances in food, nutrition & agriculture",
+      "authors": [
+        "Kumar Virender",
+        "Tanwar Neha",
+        "Goel Muskan",
+        "Khan Mohit",
+        "Kumar Davinder"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Antioxidants",
+        "Skin",
+        "Ubiquinone",
+        "Skin Aging",
+        "Polyphenols",
+        "Selenium",
+        "Oxidative Stress",
+        "Resveratrol",
+        "Tea"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39108105/"
+    },
+    {
+      "pmid": "39000669",
+      "title": "Microspheres Based on Blends of Chitosan Derivatives with Carrageenan as Vitamin Carriers in Cosmeceuticals.",
+      "abstract": "Chitosan (CS) has a natural origin and is a biodegradable and biocompatible polymer with many skin-beneficial properties successfully used in the cosmetics and pharmaceutical industry. CS derivatives, especially those synthesized via a Schiff base reaction, are very important due to their unique antimicrobial activity. This study demonstrates research results on the use of hydrogel microspheres made of [chitosan-",
+      "year": "2024",
+      "journal": "Polymers",
+      "authors": [
+        "Lewicka Kamila",
+        "Smola-Dmochowska Anna",
+        "Dobrzyński Piotr",
+        "Śmigiel-Gac Natalia",
+        "Jelonek Katarzyna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39000669/"
+    },
+    {
+      "pmid": "38598914",
+      "title": "Empowering veterinary clinical diagnosis in industrial poultry production by ambient mass spectrometry and chemiometrics: a new approach for precise poultry farming.",
+      "abstract": "Untargeted metabolomic profiling, by ambient mass spectrometry and chemometric tools, has made a dramatic impact on human disease detection. In a similar vein, this study attempted the translation of this clinical human disease experience to farmed poultry for precise veterinary diagnosis. As a proof of principle, in this diagnostic/prognostic study, direct analysis in real-time high resolution mass spectrometry (DART-HRMS) was used in an untargeted manner to analyze fresh tissues (abdominal fat, leg skin, liver, and leg muscle) of pigmented and non-pigmented broilers to investigate the causes of lack of pigmentation in an industrial poultry farm. Afterwards, statistical analysis was applied to the DART-HRMS data to retrieve the molecular features that codified for 2 broiler groups, that is, properly pigmented and non-pigmented broilers. Higher abundance of oxidized lipids, high abundance of oxidized bile derivatives, and lower levels of tocopherol isomers (Vitamin E) and retinol (Vitamin A) were captured in nonpigmented than in pigmented broilers. In addition, conventional rapid analyses were used: 1) color parameters of the tissues of pigmented and non-pigmented broilers were measured to rationalize the color differences in abdominal fat, leg skin and leg muscle, and 2) macronutrients were determined in broiler leg muscle, to capture a detailed picture of the pathology and exclude other possible causes. In this study, the DART-HRMS system performed well in retrieving valuable chemical information from broilers that explained the differences between the 2 groups of broilers in absorption of xanthophylls and the subsequent lack of proper broiler pigmentation in affected broilers. The results suggest this technology could be useful in providing near real-time feedback to aid in veterinary decision-making in poultry farming.",
+      "year": "2024",
+      "journal": "Poultry science",
+      "authors": [
+        "Tata Alessandra",
+        "Zacometti Carmela",
+        "Massaro Andrea",
+        "Bragolusi Marco",
+        "Ceroni Simona"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Chickens",
+        "Mass Spectrometry",
+        "Animal Husbandry",
+        "Pigmentation",
+        "Metabolomics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38598914/"
+    },
+    {
+      "pmid": "37464906",
+      "title": "Using 3% retinol peeling and cosmeceuticals for the aesthetic wellness of the oncological patient after precautionary endocrine treatment: A case series.",
+      "abstract": "Roughness, sagging, and skin rash are common in patients with breast cancer treated with LH-RH analog plus tamoxifen or aromatase inhibitors as adjuvant postsurgical endocrine therapy. The use of topical retinol (vitamin A) has shown to be an efficacious cosmetic treatment.",
+      "year": "2024",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Belmontesi M",
+        "Noberasco C"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Aged",
+        "Vitamin A",
+        "Cosmeceuticals",
+        "Skin",
+        "Tamoxifen",
+        "Breast Neoplasms"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37464906/"
+    },
+    {
+      "pmid": "35437850",
+      "title": "Darier disease successfully treated with a topical agent containing vitamin A (retinyl palmitate), vitamin E, and urea.",
+      "abstract": "Darier disease (DD), also called keratosis follicularis, is an autosomal dominant hereditary keratinization disorder that manifests as keratotic papules with plaques in seborrheic areas. There are no validated curative treatments for DD, with the majority of cases treated symptomatically. We report the efficacy of a topical over-the-counter agent which contains retinyl palmitate, vitamin E, and urea for a patient with DD. A 13-year-old girl had brown papules on her scalp, neck, shoulders, and axillae since entering elementary school. A skin biopsy revealed hyperkeratosis, suprabasal acantholysis, and dyskeratosis manifested as corps ronds and grains in the epidermis. Sanger sequencing found the previously reported heterozygous mutation c.1484C>T in ATP2A2. The application of an over-the-counter topical agent containing retinyl palmitate 2750 μg/g (5000 IU/g), tocopheryl acetate 20 mg/g, urea 200 mg/g, and monoammonium glycyrrhizinate 5 mg/g twice daily for 2 months improved the papules without serious adverse events. Oral or topical aromatic vitamin A analogs (retinoids) are often used to treat DD. However, several adverse events are associated with retinoid treatment, and many patients only undergo their intermittent use or discontinue the treatments. Retinyl palmitate is more stable and has a lower irritative profile than other retinoic acids. When applied topically, however, retinyl palmitate cannot penetrate the skin as well as retinol can. Some reports have noted that vitamin E increases the biological availability of vitamin A and that urea helps mechanical percutaneous drug delivery. Our case suggests that retinyl palmitate has a sufficient therapeutic effect when combined with vitamin E and urea. In conclusion, we propose that topical agents containing retinyl palmitate, vitamin E, and urea might have a satisfactory effect on the skin lesions of DD patients, without the serious risks of adverse events.",
+      "year": "2022",
+      "journal": "The Journal of dermatology",
+      "authors": [
+        "Miyazaki Akira",
+        "Taki Tomoki",
+        "Takeichi Takuya",
+        "Kono Michihiro",
+        "Yagi Hiroaki"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Darier Disease",
+        "Diterpenes",
+        "Female",
+        "Humans",
+        "Retinoids",
+        "Retinyl Esters",
+        "Urea",
+        "Vitamin A",
+        "Vitamin E"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35437850/"
+    },
+    {
+      "pmid": "34265581",
+      "title": "Dietary intake of vegetables, fruit, and antioxidants and risk of ulcerative colitis: A case-control study in Japan.",
+      "abstract": "Oxidative stress is considered one of the etiologic factors involved in ulcerative colitis (UC), yet there is limited epidemiologic information regarding the relationship between antioxidant intake and the risk of UC. The aim of the present case-control study in Japan was to examine the association between intake of green and yellow vegetables, other vegetables, fruit, vitamin C, vitamin E, retinol, alpha-carotene, beta-carotene, and cryptoxanthin and UC risk.",
+      "year": "2021",
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "authors": [
+        "Miyake Yoshihiro",
+        "Tanaka Keiko",
+        "Nagata Chisato",
+        "Furukawa Shinya",
+        "Andoh Akira"
+      ],
+      "mesh_terms": [
+        "Antioxidants",
+        "Case-Control Studies",
+        "Colitis, Ulcerative",
+        "Diet",
+        "Eating",
+        "Fruit",
+        "Humans",
+        "Japan",
+        "Risk Factors",
+        "Vegetables"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34265581/"
+    },
+    {
+      "pmid": "32204073",
+      "title": "Microemulsion co-delivering vitamin A and vitamin E as a new platform for topical treatment of acute skin inflammation.",
+      "abstract": "In this study, we developed a water-in-oil microemulsion containing vitamin A (retinol) and vitamin E (α-tocopherol), which serves as a multifunctional nanosystem that co-delivers antioxidants and displayed additive effect against acute skin inflammation. Microemulsion (ME) was prepared by mixing a surfactant blend (Tween 80 and propylene glycol, 5:1) with isopropyl myristate and water (ratio of 50:40:10, respectively). Vitamin A (0.05% w/w concentration) and/or vitamin E (0.1% w/w concentration) were incorporated into the surfactant mixture of ME by stirring with a magnetic stirrer for 30 min. This multifunctional ME displayed physical stability, with low cytotoxicity in 3T3 cell line, as well as cellular internalization into the cytosol. In vivo treatments using ME delivering α-tocopherol reduced dermal expression of TNF-α by 1.3-fold (p < 0.01), when compared to unloaded ME treatment group. When retinol was added into the ME containing α-tocopherol, it further reduced TNF-α expression by 2-fold (p < 0.001), suggesting the additive effect of vitamin E and vitamin A in the treatment against skin inflammation. In conclusion, we successfully developed the use of water-in-oil ME to pack both vitamin E and vitamin A, and demonstrated for the first time its anti-inflammatory potential when applied topically to TPA-induced inflamed skin.",
+      "year": "2020",
+      "journal": "Materials science & engineering. C, Materials for biological applications",
+      "authors": [
+        "Praça Fabíola Garcia",
+        "Viegas Juliana Santos Rosa",
+        "Peh Hong Yong",
+        "Garbin Tuane Nardacchione",
+        "Medina Wanessa Silva Garcia"
+      ],
+      "mesh_terms": [
+        "Acute Disease",
+        "Administration, Topical",
+        "Animals",
+        "Calorimetry, Differential Scanning",
+        "Cell Survival",
+        "Drug Delivery Systems",
+        "Emulsions",
+        "HaCaT Cells",
+        "Humans",
+        "Inflammation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32204073/"
+    },
+    {
+      "pmid": "31850261",
+      "title": "Retinol and α-Tocopherol Levels in the Serum and Subcutaneous Adipose Tissue of Newly Diagnosed Basal Cell Carcinoma Patients.",
+      "abstract": "Nonmelanoma skin cancers are the most frequently occurring skin cancers. Vitamin A is involved in epithelial cell differentiation and may control skin tumor development. Vitamin E is a powerful lipophilic antioxidant that can quench and scavenge reactive oxygen species. However, there is little consistent evidence considering micronutrients and the development of basal cell carcinoma (BCC). Therefore, we aimed to investigate the possible difference between retinol and α-tocopherol in BCC patients and controls in Iranian population.",
+      "year": "2019",
+      "journal": "Iranian journal of public health",
+      "authors": [
+        "Ghaedi Ehsan",
+        "Rahrovani Fatemeh",
+        "Javanbakht Mohammad Hassan",
+        "Ehsani Amir-Hooshang",
+        "Esrafili Ali"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31850261/"
+    },
+    {
+      "pmid": "31398560",
+      "title": "Are vitamins A and E associated with persistent organic pollutants and fatty acids in the blubber of highly contaminated killer whales (Orcinus orca) from Greenland?",
+      "abstract": "We quantified blubber concentrations of vitamins A (retinol) and E (α-tocopherol) and evaluated associations with persistent organic pollutants (ΣPOPs) in 14 highly-contaminated killer whales (Orcinus orca) sampled in Greenland from 2012 to 2014. We considered the influence of blubber depth, sex/age class and diet (based on biomass % of major fatty acids) in these relationships. Blubber concentrations of vitamin A averaged 34.1 ± 4.7 μg g",
+      "year": "2019",
+      "journal": "Environmental research",
+      "authors": [
+        "Pedro S",
+        "Dietz R",
+        "Sonne C",
+        "Rosing-Asvid A",
+        "Hansen M"
+      ],
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Animals",
+        "Environmental Monitoring",
+        "Fatty Acids",
+        "Female",
+        "Greenland",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamins",
+        "Water Pollutants, Chemical"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31398560/"
+    },
+    {
+      "pmid": "31181693",
+      "title": "Scavenging of Retinoid Cation Radicals by Urate, Trolox, and α-, β-, γ-, and δ-Tocopherols.",
+      "abstract": "Retinoids are present in human tissues exposed to light and under increased risk of oxidative stress, such as the retina and skin. Retinoid cation radicals can be formed as a result of the interaction between retinoids and other radicals or photoexcitation with light. It has been shown that such semi-oxidized retinoids can oxidize certain amino acids and proteins, and that α-tocopherol can scavenge the cation radicals of retinol and retinoic acid. The aim of this study was to determine (i) whether β-, γ-, and δ-tocopherols can also scavenge these radicals, and (ii) whether tocopherols can scavenge the cation radicals of another form of vitamin A-retinal. The retinoid cation radicals were generated by the pulse radiolysis of benzene or aqueous solution in the presence of a selected retinoid under oxidizing conditions, and the kinetics of retinoid cation radical decays were measured in the absence and presence of different tocopherols, Trolox or urate. The bimolecular rate constants are the highest for the scavenging of cation radicals of retinal, (7 to 8) × 10",
+      "year": "2019",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Rozanowska Malgorzata",
+        "Edge Ruth",
+        "Land Edward J",
+        "Navaratnam Suppiah",
+        "Sarna Tadeusz"
+      ],
+      "mesh_terms": [
+        "Cations",
+        "Chromans",
+        "Free Radical Scavengers",
+        "Retinoids",
+        "Tocopherols",
+        "Uric Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31181693/"
+    },
+    {
+      "pmid": "27050703",
+      "title": "An Open Label Clinical Trial to Evaluate the Efficacy and Tolerance of a Retinol and Vitamin C Facial Regimen in Women With Mild-to-Moderate Hyperpigmentation and Photodamaged Facial Skin.",
+      "abstract": "A 12-week open-label, single-center clinical usage trial was conducted to determine the effectiveness of a dual product regimen consisting of a 0.5% retinol treatment and an anti-aging moisturizer with 30% vitamin C in women with mild to moderate hyperpigmented and photodamaged facial skin. Clinical grading of several efficacy parameters, tolerability evaluations, subject self-assessment questionnaires, and digital photography were completed at baseline and at weeks 4, 8, and 12. A total of 44 women completed the study. Effective ingredients incorporated into the 0.5% retinol treatment included encapsulated retinol for a retinol concentration of 0.5%, bakuchiol, and Ophiopogon japonicus root extract. The anti-aging moisturizer with 30% vitamin C contained 30% vitamin C in the form of tetrahexyldecyl ascorbate (THD ascorbate), alpha-tocopheryl acetate (vitamin E) and ubiquinone (coenzyme Q10). The facial regimen produced a statistically significant decrease (improvement) in clinical grading scores for all parameters assessed at weeks 8 and 12 when compared with baseline scores. In addition, the majority of these parameters were improved at week 4. The test regimen was well-perceived by the subjects for various inquiries regarding facial skin condition, product efficacy, and product attributes. Several tolerability parameters were assessed with no statistically significant increase except for dryness. A statistically significant increase in clinical grading scores for dryness on the face occurred at weeks 4 and 8 when compared to baseline scores. The increase in dryness is expected when introducing a retinol product to a facial regimen and the dryness did not persist to the week 12 time point.",
+      "year": "2016",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Herndon James H",
+        "Jiang Lily I",
+        "Kononov Tatiana",
+        "Fox Theresa"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Adult",
+        "Ascorbic Acid",
+        "Drug Compounding",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Hyperpigmentation",
+        "Middle Aged",
+        "Pruritus"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/27050703/"
+    },
+    {
+      "pmid": "25288225",
+      "title": "Phenolic compounds and vitamins in wild and cultivated apricot (Prunus armeniaca L.) fruits grown in irrigated and dry farming conditions.",
+      "abstract": "Turkey is the main apricot producer in the world and apricots have been produced under both dry and irrigated conditions in the country. In this study, phenolic compounds and vitamins in fruits of one wild (Zerdali) and three main apricot cultivars ('Cataloglu', 'Hacihaliloglu' and 'Kabaasi') grown in both dry and irrigated conditions in Malatya provinces in Turkey were investigated.",
+      "year": "2014",
+      "journal": "Biological research",
+      "authors": [
+        "Kan Tuncay",
+        "Gundogdu Muttalip",
+        "Ercisli Sezai",
+        "Muradoglu Ferhad",
+        "Celik Ferit"
+      ],
+      "mesh_terms": [
+        "Agricultural Irrigation",
+        "Carotenoids",
+        "Chromatography, High Pressure Liquid",
+        "Crops, Agricultural",
+        "Fruit",
+        "Lycopene",
+        "Phenols",
+        "Prunus",
+        "Turkey",
+        "Vitamin A"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/25288225/"
+    },
+    {
+      "pmid": "21982355",
+      "title": "Vitamin A palmitate and α-lipoic acid stability in o/w emulsions for cosmetic application.",
+      "abstract": "Skin becomes thin, dry, pale, and finely wrinkled with age. Retinoids are a large class of compounds that are important in modern therapy for dermatological treatment of wrinkled skin. Of the retinoids, retinol and vitamin A palmitate are thought to induce thickening of the epidermis and to be effective for treatment of skin diseases. Accordingly, α-lipoic acid or the reduced form, dihydrolipoate, are potent scavengers of hydroxyl radicals, superoxide radicals, peroxyl radicals, singlet oxygen, and nitric oxide with anti-inflammatory properties (1). Cosmetic ingredient stability prediction relies on kinetic quantitative chemical analysis of active components at different temperatures. Vitamin A palmitate and α-lipoic acid, are known to be unstable to light or heat (2). The aims of this study were to evaluate the stability of α-lipoic acid and vitamin A palmitate in the presence of vitamin E (acetate) and other antioxidants in lipophilic/hydrophilic medium (O/W emulsions) at pH 3.0, 5.0, and 7.0. The formulations that were investigated contained 0.12% (w/w) vitamin A palmitate, 0.4% (w/w) vitamin E acetate, and 0.5 % α-lipoic acid (formulation A), supplemented with ascorbyl palmitate, magnesium ascorbyl phosphate, and vitamin C (formulation B) or with butylhydroxytoluene (BHT, formulation C) or ascorbyl palmitate (formulation D). The chemical analyses of α-lipoic acid and vitamin A palmitate were carried out by HPLC. Formulations C and D at pH 7.0 were selected as the most stable for these components. The purpose of this paper is the selection of the most stable formulations for their application in in vivo studies.",
+      "year": "2011",
+      "journal": "Journal of cosmetic science",
+      "authors": [
+        "Moyano M A",
+        "Segall A"
+      ],
+      "mesh_terms": [
+        "Chromatography, High Pressure Liquid",
+        "Cosmetics",
+        "Diterpenes",
+        "Drug Stability",
+        "Emulsions",
+        "Retinyl Esters",
+        "Spectrophotometry, Ultraviolet",
+        "Thioctic Acid",
+        "Vitamin A"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/21982355/"
+    }
+  ],
+  "crawled_at": "2026-06-22T22:56:16.964398"
+}

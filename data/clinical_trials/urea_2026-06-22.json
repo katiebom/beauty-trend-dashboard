@@ -1,0 +1,1345 @@
+{
+  "ingredient_id": "urea",
+  "name_kr": "우레아",
+  "name_en": "Urea",
+  "query": "(\"Urea\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 24,
+  "trials": [
+    {
+      "nct_id": "NCT04150042",
+      "title": "SHARON: A Clinical Trial for Metastatic Cancer Using Chemotherapy and Patients' Own Stem Cells",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pancreatic Adenocarcinoma Metastatic",
+        "BRCA1 Mutation",
+        "BRCA2 Mutation",
+        "Pancreatic Acinar Cell Carcinoma",
+        "Pancreatic Ductal Adenocarcinoma",
+        "Pancreatic Cancer",
+        "Metastatic Pancreatic Cancer",
+        "Metastatic Pancreatic Ductal Adenocarcinoma",
+        "Breast Cancer Metastatic",
+        "Breast Cancer Stage IV",
+        "Pancreatic Cancer Stage IV",
+        "HER2-negative Breast Cancer",
+        "HER2 Negative Breast Carcinoma",
+        "Adenocarcinoma of the Breast",
+        "PALB2 Gene Mutation",
+        "Pancreas Cancer, Metastatic",
+        "Pancreas Cancer, Recurrent",
+        "Pancreas Cancer",
+        "Stage IV Pancreatic Cancer",
+        "Stage 4 Pancreatic Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Melphalan"
+        },
+        {
+          "type": "DRUG",
+          "name": "BCNU"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vitamin B12B"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vitamin C"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Autologous Hematopoietic Stem Cells"
+        }
+      ],
+      "sponsor": "General Oncology, Inc.",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT04150042"
+    },
+    {
+      "nct_id": "NCT06974877",
+      "title": "Repeat PET/CT Imaging in People With CAPS and Anakinra-Induced Amyloidosis Using an Amyloid-Reactive Peptide to Measure Changes in Organ-Specific Amyloid Load",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cryopyrin-Associated Periodic Syndromes",
+        "Amyloidosis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "124I AT-01"
+        }
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "primary_completion": "2031-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06974877"
+    },
+    {
+      "nct_id": "NCT06431932",
+      "title": "Pilot Trial of Fisetin in Healthy Volunteers and Older Patients With Multimorbidity",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Multimorbidity",
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Fisetin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Ove Andersen",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06431932"
+    },
+    {
+      "nct_id": "NCT06410833",
+      "title": "Belimumab After Rituximab in Resistant Primary Juvenile SS",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sjogren's Syndrome",
+        "Pediatric ALL"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Belimumab"
+        }
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06410833"
+    },
+    {
+      "nct_id": "NCT07546032",
+      "title": "Clinical Study on the Medical Device PROXERA PSOMED 30 for the Treatment of Nail Psoriasis: Evaluation of Safety and Efficacy",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Nail Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Device intervention name: PROXERA PSOMED 30 nail cream; Control intervention name: Petrolatum"
+        }
+      ],
+      "sponsor": "ICIM International S.r.l.",
+      "primary_completion": "2026-12-08",
+      "url": "https://clinicaltrials.gov/study/NCT07546032"
+    },
+    {
+      "nct_id": "NCT07514338",
+      "title": "Open Label Extension to Assess Long Term Safety and Efficacy of KL1333 in Patients With Primary Mitochondrial Disease",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Mitochondrial Diseases"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Napazimone"
+        }
+      ],
+      "sponsor": "Pharming Technologies B.V.",
+      "primary_completion": "2029-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT07514338"
+    },
+    {
+      "nct_id": "NCT04292288",
+      "title": "Hypercalcemia After Paraffin Oil Injection",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Hypercalcemia",
+        "Granuloma"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Biochemical observational"
+        }
+      ],
+      "sponsor": "Martin Blomberg Jensen",
+      "primary_completion": "2028-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT04292288"
+    },
+    {
+      "nct_id": "NCT03150693",
+      "title": "Inotuzumab Ozogamicin and Frontline Chemotherapy in Treating Young Adults With Newly Diagnosed B Acute Lymphoblastic Leukemia",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "B Acute Lymphoblastic Leukemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Allopurinol"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cytarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Daunorubicin Hydrochloride"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vincristine Sulfate"
+        },
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Pegylated L-Asparaginase"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methotrexate"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Bone Marrow Aspiration and Biopsy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Mercaptopurine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Doxorubicin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Thioguanine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Inotuzumab Ozogamicin"
+        },
+        {
+          "type": "OTHER",
+          "name": "Laboratory Biomarker Analysis"
+        }
+      ],
+      "sponsor": "Alliance for Clinical Trials in Oncology",
+      "primary_completion": "2027-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT03150693"
+    },
+    {
+      "nct_id": "NCT06499948",
+      "title": "Albuminuria Lowering Effect of Dapagliflozin, Spironolactone and Their Combination in Adult Patients With Alport Syndrome (COMBINE-ALPORT)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alport Syndrome",
+        "Thin Basement Membrane Disease",
+        "Alport Nephropathy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Treatment with Spironolactone followed by Dapagliflozin followed by their combination"
+        },
+        {
+          "type": "DRUG",
+          "name": "Treatment with Dapagliflozin followed by Spironolactone followed by their combination"
+        }
+      ],
+      "sponsor": "Stefan Lujinschi",
+      "primary_completion": "2025-11-21",
+      "url": "https://clinicaltrials.gov/study/NCT06499948"
+    },
+    {
+      "nct_id": "NCT03984448",
+      "title": "Testing the Addition of a New Anti-cancer Drug, Venetoclax, to Usual Chemotherapy for High Grade B-cell Lymphomas",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diffuse Large B-Cell Lymphoma",
+        "Diffuse Large B-Cell Lymphoma, Not Otherwise Specified",
+        "Double-Expressor Lymphoma",
+        "EBV-Positive Diffuse Large B-Cell Lymphoma, Not Otherwise Specified",
+        "High Grade B-Cell Lymphoma With MYC and BCL2 or BCL6 Rearrangements",
+        "High Grade B-Cell Lymphoma, Not Otherwise Specified",
+        "Neoplastic Cells With Double Expression of MYC and BCL2 Proteins Present",
+        "Transformed Indolent B-Cell Non-Hodgkin Lymphoma to Diffuse Large B-Cell Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Biospecimen Collection"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Bone Marrow Biopsy"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Computed Tomography"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Doxorubicin Hydrochloride"
+        },
+        {
+          "type": "DRUG",
+          "name": "Etoposide"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Lumbar Puncture"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Positron Emission Tomography"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisone"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Venetoclax"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vincristine Sulfate"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2028-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT03984448"
+    },
+    {
+      "nct_id": "NCT06114498",
+      "title": "Hospital Register of Decompensated Heart Failure With Preserved Ejection Fraction",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Heart Failure With Preserved Ejection Fraction",
+        "Obesity, Mild",
+        "Decompensated Heart Failure"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Echocardiography"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Bioimpedance"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Immunoassay"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Routine biochemistry"
+        }
+      ],
+      "sponsor": "National Medical Research Center for Therapy and Preventive Medicine",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT06114498"
+    },
+    {
+      "nct_id": "NCT06429995",
+      "title": "Standard Follow-up Program (SFP) for Breast Cancer Patients",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "Radiotherapy"
+        }
+      ],
+      "sponsor": "University Medical Center Groningen",
+      "primary_completion": "2030-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06429995"
+    },
+    {
+      "nct_id": "NCT07245771",
+      "title": "Phase 1/2a Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Effect on Body Weight of RN3161 as Monotherapy and in Combination With Tirzepatide in Adults With Overweight and Obesity",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity &Amp; Overweight"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "RN3161"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo Control"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        }
+      ],
+      "sponsor": "Ikaria Bioscience Pty Ltd",
+      "primary_completion": "2027-02-15",
+      "url": "https://clinicaltrials.gov/study/NCT07245771"
+    },
+    {
+      "nct_id": "NCT06323525",
+      "title": "TCR Reserved and Power3 (SPPL3) Gene Knock-out Allogeneic CD19-targeting CAR-T Cell Therapy in r/r B Cell Lymphoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Non-hodgkin Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "TCR reserved and Power3 (SPPL3) gene knock-out allogeneic CD19-targeting CAR-T cell (ATHENA-2 CAR-T)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        }
+      ],
+      "sponsor": "Chinese PLA General Hospital",
+      "primary_completion": "2026-04-25",
+      "url": "https://clinicaltrials.gov/study/NCT06323525"
+    },
+    {
+      "nct_id": "NCT06717815",
+      "title": "Phase IIa Study for IPG11406 in Patients With Lupus Nephritis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lupus Nephritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "IPG11406"
+        }
+      ],
+      "sponsor": "Nanjing Immunophage Biotech Co., Ltd",
+      "primary_completion": "2026-04-22",
+      "url": "https://clinicaltrials.gov/study/NCT06717815"
+    },
+    {
+      "nct_id": "NCT06737380",
+      "title": "UC-MSC Cell Therapy Study for Systemic Lupus Erythematosus (SLE) Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "SLE",
+        "Lupus",
+        "Systemic Lupus Erthematosus",
+        "Systemic Lupus Erythematosus",
+        "Systemic Lupus Erythematosus (SLE)"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Physical examination"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Electrocardiogram"
+        },
+        {
+          "type": "OTHER",
+          "name": "SF-36 questionnaire"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Clinical laboratory evaluations - Serology"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Clinical laboratory evaluations - Biochemistry"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Clinical laboratory evaluations - Hematology"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Pregnancy Test"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Urinalysis"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "SLE activity evaluation"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "SLE biomarker profiling"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Cytokines and chemokine profiling"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "single dose of UC-MSCs"
+        },
+        {
+          "type": "OTHER",
+          "name": "PROMIS instruments"
+        }
+      ],
+      "sponsor": "LiveKidney.Bio",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT06737380"
+    },
+    {
+      "nct_id": "NCT06846580",
+      "title": "Role of 2 Stages Brachiobasilic Arteriovenous Fistula in Patients Having Central Venous Stenosis with Exhausted Options of Dialysis Access",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Brachiobasilic Arteriovenous Fistula"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "brachiobasilic AVF"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2027-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT06846580"
+    },
+    {
+      "nct_id": "NCT07658807",
+      "title": "Evaluating Bu Yang Huanwu Decoction For Early Diabetic Vascular Disease",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Peripheral Arterial Disease",
+        "Diabetic Angiopathies",
+        "Arterial Occlusive Diseases"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Hua Yu Wan Capsule"
+        },
+        {
+          "type": "DRUG",
+          "name": "Aspirin"
+        }
+      ],
+      "sponsor": "Xuanwu Hospital, Beijing",
+      "primary_completion": "2028-02",
+      "url": "https://clinicaltrials.gov/study/NCT07658807"
+    },
+    {
+      "nct_id": "NCT06177964",
+      "title": "Lerapolturev (PVSRIPO) in GBM",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Recurrent Supratentorial Glioblastoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lerapolturev"
+        },
+        {
+          "type": "DRUG",
+          "name": "Lomustine Pill"
+        }
+      ],
+      "sponsor": "Darell Bigner",
+      "primary_completion": "2029-02",
+      "url": "https://clinicaltrials.gov/study/NCT06177964"
+    },
+    {
+      "nct_id": "NCT06287125",
+      "title": "Renal Assessment for Early Detection of Renal Impairment in Systemic Sclerosis and Systemic Lupus Erythematosus Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Systemic Sclerosis and Systemic Lupus Erythematous"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Renal multi-parametric MRI, Renal doppler ultrasound, Serum CD147"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2026-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT06287125"
+    },
+    {
+      "nct_id": "NCT06784648",
+      "title": "Different Doses of BI-1607 in Combination With Pembrolizumab and Ipilimumab, in Participants With Unresectable or Metastatic Melanoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melanoma Metastatic",
+        "Melanoma of Skin",
+        "Melanoma BRAF V600E/K Mutated",
+        "Melanoma Recurrent",
+        "Melanoma Stage III or IV",
+        "Melanoma",
+        "Melanoma Negative for bRAF",
+        "Melanoma Negative for nRAS",
+        "Melanomas",
+        "Uveal Melanoma, Metastatic"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "pembrolizumab (KEYTRUDA®)"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "BI-1607"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Ipilimumab (YervoyTM, 50 mg/10 mL solution)"
+        }
+      ],
+      "sponsor": "BioInvent International AB",
+      "primary_completion": "2025-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT06784648"
+    },
+    {
+      "nct_id": "NCT05687058",
+      "title": "Empagliflozin in ESKD - A Feasibility Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Kidney Failure, Chronic",
+        "Heart Failure"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Empagliflozin 25 mg thrice-weekly post-hemodialysis dosing"
+        },
+        {
+          "type": "DRUG",
+          "name": "Empagliflozin 10 mg daily dosing"
+        }
+      ],
+      "sponsor": "University of Mississippi Medical Center",
+      "primary_completion": "2026-05-04",
+      "url": "https://clinicaltrials.gov/study/NCT05687058"
+    },
+    {
+      "nct_id": "NCT06232434",
+      "title": "An Open Prospective Randomized Clinical Study of the Effectiveness, Tolerability and Safety of a Single Intraperitoneal Use of the Drug \"Prospidelong, Powder for the Preparation of a Gel for Topical Use, 1000 mg in Vials, Package No. 1\" in Patients With Disseminated Gastric Cancer, Phase I-II",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gastric Cancer With Peritoneal Dissemination"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Prospidelong"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "chemotherapy"
+        }
+      ],
+      "sponsor": "Research Institute for Physical Chemical Problems of the Belarusian State University",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT06232434"
+    },
+    {
+      "nct_id": "NCT05548127",
+      "title": "TACTIVE-U: A Study to Learn About the Study Medicine (Vepdegestrant) When Given With Other Medicines in People With Advanced or Metastatic Breast Cancer (Sub-Study A)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ARV-471"
+        },
+        {
+          "type": "DRUG",
+          "name": "Abemaciclib"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2026-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT05548127"
+    },
+    {
+      "nct_id": "NCT07545902",
+      "title": "Clinical Study on the Medical Devices PROXERA PSOMED 20 and PROXERA PSOMED 40 for the Treatment of Plaque Psoriasis and Non-pustular Palmoplantar Psoriasis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Plaque Type Psorisis",
+        "Non-pustular Palmoplantar Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "PROXERA PSOMED 20 cream; PROXERA PSOMED 40 gel"
+        }
+      ],
+      "sponsor": "ICIM International S.r.l.",
+      "primary_completion": "2026-09-22",
+      "url": "https://clinicaltrials.gov/study/NCT07545902"
+    },
+    {
+      "nct_id": "NCT05578716",
+      "title": "Growth, Allergy and Neurodevelopment in Infants on Hydrolysed Formula",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Infant Formula"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Partially hydrolysed formula"
+        }
+      ],
+      "sponsor": "Umeå University",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT05578716"
+    },
+    {
+      "nct_id": "NCT01793168",
+      "title": "Rare Disease Patient Registry & Natural History Study - Coordination of Rare Diseases at Sanford",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Rare Disorders",
+        "Undiagnosed Disorders",
+        "Disorders of Unknown Prevalence",
+        "Cornelia De Lange Syndrome",
+        "Prenatal Benign Hypophosphatasia",
+        "Perinatal Lethal Hypophosphatasia",
+        "Odontohypophosphatasia",
+        "Adult Hypophosphatasia",
+        "Childhood-onset Hypophosphatasia",
+        "Infantile Hypophosphatasia",
+        "Hypophosphatasia",
+        "Kabuki Syndrome",
+        "Bohring-Opitz Syndrome",
+        "Narcolepsy Without Cataplexy",
+        "Narcolepsy-cataplexy",
+        "Hypersomnolence Disorder",
+        "Idiopathic Hypersomnia Without Long Sleep Time",
+        "Idiopathic Hypersomnia With Long Sleep Time",
+        "Idiopathic Hypersomnia",
+        "Kleine-Levin Syndrome",
+        "Kawasaki Disease",
+        "Leiomyosarcoma",
+        "Leiomyosarcoma of the Corpus Uteri",
+        "Leiomyosarcoma of the Cervix Uteri",
+        "Leiomyosarcoma of Small Intestine",
+        "Acquired Myasthenia Gravis",
+        "Addison Disease",
+        "Hyperacusis (Hyperacousis)",
+        "Juvenile Myasthenia Gravis",
+        "Transient Neonatal Myasthenia Gravis",
+        "Williams Syndrome",
+        "Lyme Disease",
+        "Myasthenia Gravis",
+        "Marinesco Sjogren Syndrome(Marinesco-Sjogren Syndrome)",
+        "Isolated Klippel-Feil Syndrome",
+        "Frasier Syndrome",
+        "Denys-Drash Syndrome",
+        "Beckwith-Wiedemann Syndrome",
+        "Emanuel Syndrome",
+        "Isolated Aniridia",
+        "Axenfeld-Rieger Syndrome",
+        "Aniridia-intellectual Disability Syndrome",
+        "Aniridia - Renal Agenesis - Psychomotor Retardation",
+        "Aniridia - Ptosis - Intellectual Disability - Familial Obesity",
+        "Aniridia - Cerebellar Ataxia - Intellectual Disability",
+        "Aniridia - Absent Patella",
+        "Aniridia",
+        "Peters Anomaly - Cataract",
+        "Peters Anomaly",
+        "Potocki-Shaffer Syndrome",
+        "Silver-Russell Syndrome Due to Maternal Uniparental Disomy of Chromosome 11",
+        "Silver-Russell Syndrome Due to Imprinting Defect of 11p15",
+        "Silver-Russell Syndrome Due to 11p15 Microduplication",
+        "Syndromic Aniridia",
+        "WAGR Syndrome",
+        "Wolf-Hirschhorn Syndrome",
+        "4p16.3 Microduplication Syndrome",
+        "4p Deletion Syndrome, Non-Wolf-Hirschhorn Syndrome",
+        "Autosomal Recessive Stickler Syndrome",
+        "Stickler Syndrome Type 2",
+        "Stickler Syndrome Type 1",
+        "Stickler Syndrome",
+        "Mucolipidosis Type 4",
+        "X-linked Spinocerebellar Ataxia Type 4",
+        "X-linked Spinocerebellar Ataxia Type 3",
+        "X-linked Intellectual Disability - Ataxia - Apraxia",
+        "X-linked Progressive Cerebellar Ataxia",
+        "X-linked Non Progressive Cerebellar Ataxia",
+        "X-linked Cerebellar Ataxia",
+        "Vitamin B12 Deficiency Ataxia",
+        "Toxic Exposure Ataxia",
+        "Unclassified Autosomal Dominant Spinocerebellar Ataxia",
+        "Thyroid Antibody Ataxia",
+        "Sporadic Adult-onset Ataxia of Unknown Etiology",
+        "Spinocerebellar Ataxia With Oculomotor Anomaly",
+        "Spinocerebellar Ataxia With Epilepsy",
+        "Spinocerebellar Ataxia With Axonal Neuropathy Type 2",
+        "Spinocerebellar Ataxia Type 8",
+        "Spinocerebellar Ataxia Type 7",
+        "Spinocerebellar Ataxia Type 6",
+        "Spinocerebellar Ataxia Type 5",
+        "Spinocerebellar Ataxia Type 4",
+        "Spinocerebellar Ataxia Type 37",
+        "Spinocerebellar Ataxia Type 36",
+        "Spinocerebellar Ataxia Type 35",
+        "Spinocerebellar Ataxia Type 34",
+        "Spinocerebellar Ataxia Type 32",
+        "Spinocerebellar Ataxia Type 31",
+        "Spinocerebellar Ataxia Type 30",
+        "Spinocerebellar Ataxia Type 3",
+        "Spinocerebellar Ataxia Type 29",
+        "Spinocerebellar Ataxia Type 28",
+        "Spinocerebellar Ataxia Type 27",
+        "Spinocerebellar Ataxia Type 26",
+        "Spinocerebellar Ataxia Type 25",
+        "Spinocerebellar Ataxia Type 23",
+        "Spinocerebellar Ataxia Type 22",
+        "Spinocerebellar Ataxia Type 21",
+        "Spinocerebellar Ataxia Type 20",
+        "Spinocerebellar Ataxia Type 2",
+        "Spinocerebellar Ataxia Type 19/22",
+        "Spinocerebellar Ataxia Type 18",
+        "Spinocerebellar Ataxia Type 17",
+        "Spinocerebellar Ataxia Type 16",
+        "Spinocerebellar Ataxia Type 15/16",
+        "Spinocerebellar Ataxia Type 14",
+        "Spinocerebellar Ataxia Type 13",
+        "Spinocerebellar Ataxia Type 12",
+        "Spinocerebellar Ataxia Type 11",
+        "Spinocerebellar Ataxia Type 10",
+        "Spinocerebellar Ataxia Type 1 With Axonal Neuropathy",
+        "Spinocerebellar Ataxia Type 1",
+        "Spinocerebellar Ataxia - Unknown",
+        "Spinocerebellar Ataxia - Dysmorphism",
+        "Non Progressive Epilepsy and/or Ataxia With Myoclonus as a Major Feature",
+        "Spasticity-ataxia-gait Anomalies Syndrome",
+        "Spastic Ataxia With Congenital Miosis",
+        "Spastic Ataxia - Corneal Dystrophy",
+        "Spastic Ataxia",
+        "Rare Hereditary Ataxia",
+        "Rare Ataxia",
+        "Recessive Mitochondrial Ataxia Syndrome",
+        "Progressive Epilepsy and/or Ataxia With Myoclonus as a Major Feature",
+        "Posterior Column Ataxia - Retinitis Pigmentosa",
+        "Post-Stroke Ataxia",
+        "Post-Head Injury Ataxia",
+        "Post Vaccination Ataxia",
+        "Polyneuropathy - Hearing Loss - Ataxia - Retinitis Pigmentosa - Cataract",
+        "Muscular Atrophy - Ataxia - Retinitis Pigmentosa - Diabetes Mellitus",
+        "Non-hereditary Degenerative Ataxia",
+        "Paroxysmal Dystonic Choreathetosis With Episodic Ataxia and Spasticity",
+        "Olivopontocerebellar Atrophy - Deafness",
+        "NARP Syndrome",
+        "Myoclonus - Cerebellar Ataxia - Deafness",
+        "Multiple System Atrophy, Parkinsonian Type",
+        "Multiple System Atrophy, Cerebellar Type",
+        "Multiple System Atrophy",
+        "Maternally-inherited Leigh Syndrome",
+        "Machado-Joseph Disease Type 3",
+        "Machado-Joseph Disease Type 2",
+        "Machado-Joseph Disease Type 1",
+        "Leigh Syndrome",
+        "Late-onset Ataxia With Dementia",
+        "Infection or Post Infection Ataxia",
+        "GAD Ataxia",
+        "Hereditary Episodic Ataxia",
+        "Gliadin/Gluten Ataxia",
+        "Friedreich Ataxia",
+        "Fragile X-associated Tremor/Ataxia Syndrome",
+        "Familial Paroxysmal Ataxia",
+        "Exposure to Medications Ataxia",
+        "Episodic Ataxia With Slurred Speech",
+        "Episodic Ataxia Unknown Type",
+        "Episodic Ataxia Type 7",
+        "Episodic Ataxia Type 6",
+        "Episodic Ataxia Type 5",
+        "Episodic Ataxia Type 4",
+        "Episodic Ataxia Type 3",
+        "Episodic Ataxia Type 1",
+        "Epilepsy and/or Ataxia With Myoclonus as Major Feature",
+        "Early-onset Spastic Ataxia-neuropathy Syndrome",
+        "Early-onset Progressive Neurodegeneration - Blindness - Ataxia - Spasticity",
+        "Early-onset Cerebellar Ataxia With Retained Tendon Reflexes",
+        "Early-onset Ataxia With Dementia",
+        "Childhood-onset Autosomal Recessive Slowly Progressive Spinocerebellar Ataxia",
+        "Dilated Cardiomyopathy With Ataxia",
+        "Cataract - Ataxia - Deafness",
+        "Cerebellar Ataxia, Cayman Type",
+        "Cerebellar Ataxia With Peripheral Neuropathy",
+        "Cerebellar Ataxia - Hypogonadism",
+        "Cerebellar Ataxia - Ectodermal Dysplasia",
+        "Cerebellar Ataxia - Areflexia - Pes Cavus - Optic Atrophy - Sensorineural Hearing Loss",
+        "Brain Tumor Ataxia",
+        "Brachydactyly - Nystagmus - Cerebellar Ataxia",
+        "Benign Paroxysmal Tonic Upgaze of Childhood With Ataxia",
+        "Autosomal Recessive Syndromic Cerebellar Ataxia",
+        "Autosomal Recessive Spastic Ataxia With Leukoencephalopathy",
+        "Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay",
+        "Autosomal Recessive Spastic Ataxia - Optic Atrophy - Dysarthria",
+        "Autosomal Recessive Spastic Ataxia",
+        "Autosomal Recessive Metabolic Cerebellar Ataxia",
+        "Autosomal Dominant Spinocerebellar Ataxia Due to Repeat Expansions That do Not Encode Polyglutamine",
+        "Autosomal Recessive Ataxia, Beauce Type",
+        "Autosomal Recessive Ataxia Due to Ubiquinone Deficiency",
+        "Autosomal Recessive Ataxia Due to PEX10 Deficiency",
+        "Autosomal Recessive Degenerative and Progressive Cerebellar Ataxia",
+        "Autosomal Recessive Congenital Cerebellar Ataxia Due to MGLUR1 Deficiency",
+        "Autosomal Recessive Congenital Cerebellar Ataxia Due to GRID2 Deficiency",
+        "Autosomal Recessive Congenital Cerebellar Ataxia",
+        "Autosomal Recessive Cerebellar Ataxia-pyramidal Signs-nystagmus-oculomotor Apraxia Syndrome",
+        "Autosomal Recessive Cerebellar Ataxia-epilepsy-intellectual Disability Syndrome Due to WWOX Deficiency",
+        "Autosomal Recessive Cerebellar Ataxia-epilepsy-intellectual Disability Syndrome Due to TUD Deficiency",
+        "Autosomal Recessive Cerebellar Ataxia-epilepsy-intellectual Disability Syndrome Due to KIAA0226 Deficiency",
+        "Autosomal Recessive Cerebellar Ataxia-epilepsy-intellectual Disability Syndrome",
+        "Autosomal Recessive Cerebellar Ataxia With Late-onset Spasticity",
+        "Autosomal Recessive Cerebellar Ataxia Due to STUB1 Deficiency",
+        "Autosomal Recessive Cerebellar Ataxia Due to a DNA Repair Defect",
+        "Autosomal Recessive Cerebellar Ataxia - Saccadic Intrusion",
+        "Autosomal Recessive Cerebellar Ataxia - Psychomotor Retardation",
+        "Autosomal Recessive Cerebellar Ataxia - Blindness - Deafness",
+        "Autosomal Recessive Cerebellar Ataxia",
+        "Autosomal Dominant Spinocerebellar Ataxia Due to a Polyglutamine Anomaly",
+        "Autosomal Dominant Spinocerebellar Ataxia Due to a Point Mutation",
+        "Autosomal Dominant Spinocerebellar Ataxia Due to a Channelopathy",
+        "Autosomal Dominant Spastic Ataxia Type 1",
+        "Autosomal Dominant Spastic Ataxia",
+        "Autosomal Dominant Optic Atrophy",
+        "Ataxia-telangiectasia Variant",
+        "Ataxia-telangiectasia",
+        "Autosomal Dominant Cerebellar Ataxia, Deafness and Narcolepsy",
+        "Autosomal Dominant Cerebellar Ataxia Type 4",
+        "Autosomal Dominant Cerebellar Ataxia Type 3",
+        "Autosomal Dominant Cerebellar Ataxia Type 2",
+        "Autosomal Dominant Cerebellar Ataxia Type 1",
+        "Autosomal Dominant Cerebellar Ataxia",
+        "Ataxia-telangiectasia-like Disorder",
+        "Ataxia With Vitamin E Deficiency",
+        "Ataxia With Dementia",
+        "Ataxia - Oculomotor Apraxia Type 1",
+        "Ataxia - Other",
+        "Ataxia - Genetic Diagnosis - Unknown",
+        "Acquired Ataxia",
+        "Adult-onset Autosomal Recessive Cerebellar Ataxia",
+        "Alcohol Related Ataxia",
+        "Multiple Endocrine Neoplasia",
+        "Multiple Endocrine Neoplasia Type II",
+        "Multiple Endocrine Neoplasia Type 1",
+        "Multiple Endocrine Neoplasia Type 2",
+        "Multiple Endocrine Neoplasia, Type IV",
+        "Multiple Endocrine Neoplasia, Type 3",
+        "Multiple Endocrine Neoplasia (MEN) Syndrome",
+        "Multiple Endocrine Neoplasia Type 2B",
+        "Multiple Endocrine Neoplasia Type 2A",
+        "Atypical Hemolytic Uremic Syndrome",
+        "Atypical HUS",
+        "Wiedemann-Steiner Syndrome",
+        "Breast Implant-Associated Anaplastic Large Cell Lymphoma",
+        "Autoimmune/Inflammatory Syndrome Induced by Adjuvants (ASIA)",
+        "Hemophagocytic Lymphohistiocytosis",
+        "Behcet&#39;s Disease",
+        "Alagille Syndrome",
+        "Inclusion Body Myopathy With Early-onset Paget Disease and Frontotemporal Dementia (IBMPFD)",
+        "Lowe Syndrome",
+        "Pitt Hopkins Syndrome",
+        "1p36 Deletion Syndrome",
+        "Jansen Type Metaphyseal Chondrodysplasia",
+        "Cockayne Syndrome",
+        "Chronic Recurrent Multifocal Osteomyelitis",
+        "CRMO",
+        "Malan Syndrome",
+        "Hereditary Sensory and Autonomic Neuropathy Type Ie",
+        "VCP Disease",
+        "Hypnic Jerking",
+        "Sleep Myoclonus",
+        "Mollaret Meningitis",
+        "Recurrent Viral Meningitis",
+        "CRB1",
+        "Leber Congenital Amaurosis",
+        "Retinitis Pigmentosa",
+        "Rare Retinal Disorder",
+        "KCNMA1-Channelopathy",
+        "Primary Biliary Cirrhosis",
+        "ZMYND11",
+        "Transient Global Amnesia",
+        "Glycogen Storage Disease",
+        "Alstrom Syndrome",
+        "White Sutton Syndrome",
+        "DNM1",
+        "EIEE31",
+        "Myhre Syndrome",
+        "Recurrent Respiratory Papillomatosis",
+        "Laryngeal Papillomatosis",
+        "Tracheal Papillomatosis",
+        "Refsum Disease",
+        "Nicolaides Baraitser Syndrome",
+        "Leukodystrophy",
+        "Tango2",
+        "Cauda Equina Syndrome",
+        "Rare Gastrointestinal Disorders",
+        "Achalasia-Addisonian Syndrome",
+        "Achalasia Cardia",
+        "Achalasia Icrocephaly Syndrome",
+        "Anal Fistula",
+        "Congenital Sucrase-Isomaltase Deficiency",
+        "Eosinophilic Gastroenteritis",
+        "Idiopathic Gastroparesis",
+        "Hirschsprung Disease",
+        "Rare Inflammatory Bowel Disease",
+        "Intestinal Pseudo-Obstruction",
+        "Scleroderma",
+        "Short Bowel Syndrome",
+        "Sacral Agenesis",
+        "Sacral Agenesis Syndrome",
+        "Caudal Regression",
+        "Scheuermann Disease",
+        "SMC1A Truncated Mutations (Causing Loss of Gene Function)",
+        "Cystinosis",
+        "Juvenile Nephropathic Cystinosis",
+        "Nephropathic Cystinosis",
+        "Kennedy Disease",
+        "Spinal Bulbar Muscular Atrophy",
+        "Warburg Micro Syndrome",
+        "Mucolipidoses",
+        "Mitochondrial Diseases",
+        "Mitochondrial Aminoacyl-tRNA Synthetases",
+        "Mt-aaRS Disorders",
+        "Hypertrophic Olivary Degeneration",
+        "Non-Ketotic Hyperglycinemia",
+        "Fish Odor Syndrome",
+        "Halitosis",
+        "Isolated Congenital Asplenia",
+        "Lambert Eaton (LEMS)",
+        "Biliary Atresia",
+        "STAG1 Gene Mutation",
+        "Coffin Lowry Syndrome",
+        "Borjeson-Forssman-Lehman Syndrome",
+        "Blau Syndrome",
+        "Arginase 1 Deficiency",
+        "HSPB8 Myopathy",
+        "Beta-Mannosidosis",
+        "TBX4 Syndrome",
+        "DHDDS Gene Mutations",
+        "MAND-MBD5-Associated Neurodevelopmental Disorder",
+        "Constitutional Mismatch Repair Deficiency (CMMRD)",
+        "SPATA5 Disorder",
+        "SPATA5L1 Related Disorder",
+        "Acrodysostosis",
+        "Multi-systematic Smooth Muscle Dysfunction Syndrome",
+        "CRELD1 (Cysteine Rich With EGF Like Domains 1)",
+        "GNB1 Syndrome",
+        "Pyruvate Dehydrogenase Complex Deficiency Disease",
+        "Beta Mannosidosis",
+        "Kbg Syndrome",
+        "Labrune Syndrome",
+        "Metachromatic Leukodystrophy (MLD)",
+        "Moyamoya Disease",
+        "OPHN1 Syndrome",
+        "Oculopharyngeal Muscular Dystrophy (OPMD)",
+        "TUBB3 Mutation",
+        "WOREE (WWOX-related Epileptic Encephalopathy",
+        "SCAR12",
+        "Skraban-Deardorff Syndrome",
+        "Hereditary Myopathy With Early Respiratory Failure"
+      ],
+      "interventions": [],
+      "sponsor": "Sanford Health",
+      "primary_completion": "2100-12",
+      "url": "https://clinicaltrials.gov/study/NCT01793168"
+    },
+    {
+      "nct_id": "NCT03952637",
+      "title": "A Phase 1/2 Study of Intravenous Gene Transfer With an AAV9 Vector Expressing Human Beta-galactosidase in Type I and Type II GM1 Gangliosidosis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lysosomal Diseases",
+        "Gangliosidosis",
+        "GM1"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "AAV9-GLB1"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Abdominal ultrasound"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sirolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methylprednisolone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisone"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Audiology assessment with ABR"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Bone density scan (DEXA)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Electrocardiogram (EKG)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Echocardiogram"
+        },
+        {
+          "type": "OTHER",
+          "name": "Electroencephalogram (EEG) awake and extended overnight"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Laboratory tests"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Lumbar puncture"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Brain MRI/MRS/fMRI"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Neurocognitive testing"
+        },
+        {
+          "type": "OTHER",
+          "name": "Neurology exam"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "PICC or other Central line placement"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Skeletal survey"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Skin biopsy"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Speech and modified barium swallow study"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Ophthalmology exam"
+        }
+      ],
+      "sponsor": "National Human Genome Research Institute (NHGRI)",
+      "primary_completion": "2028-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT03952637"
+    },
+    {
+      "nct_id": "NCT03782636",
+      "title": "Interleukin-2 Therapy of Autoimmunity in Diabetes (ITAD)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Type1 Diabetes"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Aldesleukin"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University of Oxford",
+      "primary_completion": "2023-02-16",
+      "url": "https://clinicaltrials.gov/study/NCT03782636"
+    },
+    {
+      "nct_id": "NCT05687682",
+      "title": "Safety of AM-928 Infusion in Advanced Solid Tumors",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Advanced Solid Tumor"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "AM-928"
+        }
+      ],
+      "sponsor": "AcadeMab Biomedical Inc.",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT05687682"
+    }
+  ],
+  "fetched_at": "2026-06-22T22:56:01.401102"
+}

@@ -1,0 +1,36 @@
+{
+  "ingredient_a": "GSH",
+  "ingredient_b": "niacinamide",
+  "query": "(\"GSH\"[Title/Abstract] AND \"niacinamide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "35956878",
+      "title": "The Combination of Niacinamide, Vitamin C, and PDRN Mitigates Melanogenesis by Modulating Nicotinamide Nucleotide Transhydrogenase.",
+      "abstract": "Nicotinamide nucleotide transhydrogenase (NNT) is involved in decreasing melanogenesis through tyrosinase degradation induced by cellular redox changes. Nicotinamide is a component of coenzymes, such as NAD",
+      "year": "2022",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Park Hyun Jun",
+        "Byun Kyung-A",
+        "Oh Seyeon",
+        "Kim Hyoung Moon",
+        "Chung Moon Suk"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ascorbic Acid",
+        "Glutathione Disulfide",
+        "Melanins",
+        "Melanocytes",
+        "Monophenol Monooxygenase",
+        "NADP",
+        "NADP Transhydrogenases",
+        "Niacinamide",
+        "Polydeoxyribonucleotides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35956878/"
+    }
+  ],
+  "crawled_at": "2026-06-22T22:56:06.207592"
+}
