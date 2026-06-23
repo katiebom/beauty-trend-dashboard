@@ -1,0 +1,37 @@
+{
+  "ingredient_id": "lha",
+  "name_en": "LHA (Capryloyl Salicylic Acid)",
+  "name_kr": "LHA (카프릴로일살리실릭애씨드)",
+  "category": "exfoliant",
+  "query": "\"LHA (Capryloyl Salicylic Acid)\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "19146601",
+      "title": "Clinical tolerance and efficacy of capryloyl salicylic acid peel compared to a glycolic acid peel in subjects with fine lines/wrinkles and hyperpigmented skin.",
+      "abstract": "Several chemical agents are currently used to perform superficial peels of the face to reduce facial hyperpigmentation and fine lines/wrinkles. Some of the most commonly used agents are alpha hydroxyl acids, such as glycolic acid (GA), or beta hydroxy acid, such as salicylic acid.",
+      "year": "2008",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Oresajo Christian",
+        "Yatskayer Margarita",
+        "Hansenne Isabelle"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Adult",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Chemexfoliation",
+        "Drug Therapy, Combination",
+        "Female",
+        "Glycolates",
+        "Humans",
+        "Hydroxy Acids",
+        "Hyperpigmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/19146601/"
+    }
+  ],
+  "crawled_at": "2026-06-23T22:24:43.260663",
+  "source": "pubmed"
+}
