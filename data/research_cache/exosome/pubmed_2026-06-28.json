@@ -1,0 +1,171 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42353255",
+      "title": "Extracellular Vesicles in Regenerative and Cosmetic Medicine: Safety, Clinical Effectiveness, Therapeutic Applications, and Regulatory Challenges.",
+      "abstract": "Extracellular vesicles (EVs), particularly small extracellular vesicles (sEVs), are lipid bilayer-delimited particles involved in intercellular communication through the transfer of proteins, lipids, and nucleic acids; many products and studies in aesthetic medicine refer to these preparations as exosomes, although endosomal origin is not always demonstrated. This review examines current evidence on the mechanisms, clinical effectiveness, safety, therapeutic applications, and regulatory challenges of EV- and sEV-based interventions, complemented by an exploratory qualitative assessment of physicians' perceptions regarding clinical implementation. A narrative review of studies indexed in Scopus and PubMed was conducted with emphasis on skin rejuvenation, hair restoration, wound healing, pigmentation disorders, and inflammatory dermatoses, and responses from 12 aesthetic physicians in Colombia were analyzed qualitatively. Available evidence suggests that EVs/sEVs may promote extracellular matrix remodeling, angiogenesis, immunomodulation, and tissue repair, with potential benefits across several aesthetic and regenerative indications. However, the literature remains heterogeneous and limited by variability in biologic sources, isolation and administration protocols, insufficient high-quality clinical trials, and unresolved regulatory issues. Reports of adverse reactions linked to unapproved products marketed as exosome-based formulations further highlight the need for stronger oversight. EVs, particularly sEVs, often referred to as exosomes in the aesthetic literature, remain a promising therapeutic platform, but safe clinical integration requires rigorous validation, technical standardization, and robust regulatory frameworks.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Contreras Candelaria",
+        "Ariza-Donado Amin"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Extracellular Vesicles",
+        "Regenerative Medicine",
+        "Animals",
+        "Cosmetic Techniques",
+        "Exosomes",
+        "Rejuvenation",
+        "Wound Healing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42353255/"
+    },
+    {
+      "pmid": "42337624",
+      "title": "Laser-induced skin microenvironment remodeling via exosomal CEBPA-mediated crosstalk between keratinocyte and fibroblast.",
+      "abstract": "Laser treatments are widely applied in aesthetic and clinical dermatology to promote skin rejuvenation by inducing controlled tissue disruption, activating repair processes involving keratinocyte proliferation, fibroblast migration, and extracellular matrix remodeling. However, the cellular specialization and intercellular communication mechanisms, particularly in the early stages following laser treatment, remain poorly understood. Using single-cell RNA sequencing, we analyzed laser-treated and untreated skin, revealing significant differences in cell populations and functions. Keratinocytes and fibroblasts displayed the most prominent shifts in cell number and transcriptional diversity following laser exposure. In early-stage laser-induced skin remodeling, distinct keratinocyte subpopulations actively orchestrated skin repair, immune responses, and regenerative signaling. Cell-cell communication analysis uncovered a dynamic crosstalk between keratinocytes and fibroblasts. Functional validation through co-culture revealed this crosstalk was mediated by exosomes derived from laser-treated keratinocytes, which were enriched with CEBPA. Mechanistically, these exosomes enhanced keratinocyte proliferation through YAP/TAZ activation, while concurrently suppressing fibroblast activity by upregulating IGFBP3 expression during the early phase of laser-induced skin remodeling. Our findings provide new insights into how laser treatments modulate cellular behavior and intercellular signaling, emphasizing the therapeutic potential of exosome-based strategies for promoting skin regeneration and rejuvenation.",
+      "year": "2026",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Zou Qin",
+        "Wang Hao",
+        "Zhou Yanjun",
+        "Wen Xiang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42337624/"
+    },
+    {
+      "pmid": "42328489",
+      "title": "Exosomes in Psoriasis: From Pathogenic Mechanisms to Therapeutic Innovations.",
+      "abstract": "Psoriasis is a chronic recurrent inflammatory disease driven by keratinocytes and immune cells. Exosomes, as key mediators of intercellular communication, play multidimensional roles in this disease. In terms of pathogenic mechanisms, exosomes released from psoriatic lesions carry non‑coding RNAs and proteins that program T‑cell polarization, drive M1 macrophage activation, and amplify keratinocyte inflammation, thereby sustaining the IL‑23/Th17 immune axis. Translational breakthroughs have repurposed these same vesicles into diagnostic and therapeutic tools. Circulating exosomal fingerprints offer non‑invasive biomarkers for disease activity and psoriatic arthritis differentiation. Leveraging their biocompatibility and low immunogenicity, exosomes from mesenchymal stem cells, plants, and microbes serve as cell‑free platforms achieving immune regulation, antioxidant effects, and microecological repair. Engineering strategies-including cargo loading, membrane surface modification and intelligent microneedle delivery systems-further enhance targeting and efficacy. Despite these advances, clinical translation faces fundamental challenges: lack of production standardization, undefined core active components and insufficient high‑level clinical evidence. Future efforts should prioritize international standards, rational design, and rigorous trials to accelerate exosome‑based precision medicine for psoriasis.",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Xu Qi",
+        "Liu Wenting",
+        "Zhang Siqing",
+        "Zhou Lin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42328489/"
+    },
+    {
+      "pmid": "42327584",
+      "title": "Exosomes in Cancer Biology: Emerging Biomarkers and Therapeutic Targets.",
+      "abstract": "Exosomes are small extracellular vesicles (EVs) that play an important role in intercellular communication among multiple cell types. In recent years, they have emerged as a novel and promising class of cancer biomarkers, offering significant potential to increase diagnostic and therapeutic strategies. These bilayer nano-vesicles are actively secreted by living cells into various biological fluids and carry a diverse cargo of proteins, nucleic acids, and other biomolecules that reflect the physiological and pathological state of their cells of origin. The molecular composition of exosomes mirrors the dynamic processes and unique cargo of molecular and genetic data, reflecting the complex activities within cancer cells, making them a promising alternative for cancer detection and treatment monitoring. Although the mechanisms underlying exosome biogenesis, secretion, and cargo selection in cancer remain incompletely understood, growing evidence highlights their importance in tumor progression and therapeutic response. Exosomal proteins have gained considerable attention as potential therapeutic targets. These proteins can regulate immune responses, reshape the tumor microenvironment, and influence cancer cell proliferation and survival. Consequently, targeting exosome-associated proteins represents a promising strategy for developing innovative anticancer therapies. Advances in exosomal protein analysis have provided a promising approach for unraveling the complex molecular networks underlying cancer biology. A wide range of analytical techniques is available to identify and quantify exosomal proteins, enabling characterization of cancer-specific molecular signatures. As an expanding field in cancer research, exosomes have the potential to revolutionize both therapies and diagnostics. By deciphering the diverse molecular and functional cargos of exosomes, exosomes offer new insights that may lead to more precise, effective, and personalized approaches to cancer management.",
+      "year": "2026",
+      "journal": "Journal of Cancer",
+      "authors": [
+        "Ahmed Marriam",
+        "Chang Chieh-Wei",
+        "Ijaz Sundas",
+        "Qadeer Abdul",
+        "Alzahrani Khalid J"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42327584/"
+    },
+    {
+      "pmid": "42325492",
+      "title": "Artificial Intelligence-assisted Multimodal Quantification of Facial Pore Reduction After Microneedling With Adipose-derived Stem Cell Exosomes.",
+      "abstract": "Enlarged facial pores are a common cosmetic concern, exacerbated by age-related collagen degradation and sebaceous hyperactivity. Despite clinical demand, objective quantification methods for pore improvement remain limited. This study used 3 independent analytical platforms-QuantifiCare 3-dimensional (3D) imaging, Gwyddion-based surface roughness analysis, and artificial intelligence (AI)-assisted image segmentation-to evaluate the efficacy of microneedling combined with adipose-derived stem cell exosome (ASCE+) therapy.",
+      "year": "2026",
+      "journal": "Plastic and reconstructive surgery. Global open",
+      "authors": [
+        "Kim Jongseo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42325492/"
+    },
+    {
+      "pmid": "42324126",
+      "title": "Stem cell-derived extracellular vesicles for rare diseases: A clinical‑bottleneck‑to‑mechanism framework for translation.",
+      "abstract": "Rare diseases impose a disproportionate clinical burden, and yet therapeutic progress is hindered by small cohorts, biological heterogeneity, and limited disease-specific options. Stem cell-derived extracellular vesicles (EVs), and especially exosome-enriched products, are emerging as adaptable cell-free therapeutics that preserve key paracrine activities of parent cells while offering improved controllability, engineering flexibility, and potentially lower acute immunogenicity than living-cell products. This review proposes a clinically driven bottleneck-to-mechanism framework for rare-disease translation, matching each disease class to its dominant pathological barrier, mechanism-relevant EV function, route-aware delivery strategy, and measurable potency endpoint. Using this framework, EVs may enable immune circuit rewiring in autoimmune disorders, neuroprotection and toxic-protein clearance in neurodegeneration, osteogenic and matrix-supportive repair in skeletal/connective tissue diseases, and metabolic rescue in lysosomal or mitochondrial disorders. We further highlight a key conceptual distinction between EVs as active biologics and EVs as engineered delivery vehicles. Successful translation will depend on integrating cargo design, surface targeting, biodistribution-aware administration, scalable manufacturing, and quality-by-design control, while anticipating repeat-dose pharmacokinetics/pharmacodynamics (PK/PD), immunogenicity, complement activation, procoagulant risk, impurity control, and off-target organ-accumulation challenges. Multi-omics and artificial intelligence may further refine target selection and precision engineering. Overall, stem cell-derived EVs constitute a versatile platform for treating rare diseases, but clinical success requires closer alignment among mechanism, disease specificity, product definition, and translational endpoints.",
+      "year": "2026",
+      "journal": "Bioscience trends",
+      "authors": [
+        "Han Yue",
+        "Chen Nuo",
+        "Song Peipei",
+        "Chen Yanling",
+        "Tang Wei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42324126/"
+    },
+    {
+      "pmid": "42306298",
+      "title": "Extracellular vesicle-mediated cell-cell communication in keloids and hypertrophic scars: mechanisms, methodological caveats, and therapeutic perspectives.",
+      "abstract": "Pathological scarring, including keloids and hypertrophic scars, remains a major clinical challenge characterized by persistent fibroblast activation, excessive extracellular matrix deposition, chronic inflammation, and aberrant tissue remodeling. Although current treatments have improved management, high recurrence rates and variable outcomes indicate that the underlying mechanisms remain incompletely understood. Extracellular vesicles (EVs), especially small extracellular vesicles (sEVs), are increasingly recognized as mediators of intercellular communication in fibrotic skin disorders. However, according to MISEV recommendations, the term \"exosome\" should be used cautiously unless endosomal origin is specifically demonstrated. In pathological scars, EV-/sEV-mediated signaling has been implicated in fibroblast activation, immune dysregulation, angiogenic imbalance, and extracellular matrix remodeling through cargo transfer among fibroblasts, keratinocytes, endothelial cells, immune cells, and mesenchymal stromal/stem cells. Reported downstream pathways include TGF-β/Smad, Wnt/β-catenin, PI3K/Akt, and NF-κB. However, the strength of evidence varies substantially, as many conclusions are based on ",
+      "year": "2026",
+      "journal": "Frontiers in cell and developmental biology",
+      "authors": [
+        "Lu Bo",
+        "Jin Junjie",
+        "Jin Wenyan",
+        "Yuan Xinghua",
+        "Jin Zhehu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42306298/"
+    },
+    {
+      "pmid": "42301249",
+      "title": "Persistent Cutaneous Reaction After Facial Exosome Injections and Microneedling.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Myers Bridget",
+        "Chou Margaret",
+        "Sadeghi Nakisa",
+        "Tsao Sandy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42301249/"
+    },
+    {
+      "pmid": "42296599",
+      "title": "PRDX4-enriched exosomes from adipose stem cells enhance diabetic wound repair through angiogenic activation.",
+      "abstract": "Diabetic (DM) wounds are a major challenge in dermatology. Despite the therapeutic effectiveness of stem cell therapy in wound repair, clinical applications remain limited. We investigated whether adipose-derived exosomes (Exos) can promote healing in diabetic mice.",
+      "year": "2026",
+      "journal": "Burns : journal of the International Society for Burn Injuries",
+      "authors": [
+        "Chen Xiaoyu",
+        "Jiang Yu",
+        "Tao Yinyu",
+        "Zhang Weigang",
+        "Zhuo Huawei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42296599/"
+    },
+    {
+      "pmid": "42296487",
+      "title": "Therapeutic Potential of Bovine Colostrum-Derived Exosomes for Ischemia-Reperfusion Injury in Skin Flaps: A Rat Model Study.",
+      "abstract": "Ischemia-reperfusion (I/R) injury remains a major cause of partial skin flap necrosis following microsurgical reconstruction. This study evaluates the therapeutic potential of bovine colostrum-derived extracellular vesicles (C-EVs) as a scalable, cell-free alternative for enhancing skin flap survival.",
+      "year": "2026",
+      "journal": "Plastic and reconstructive surgery",
+      "authors": [
+        "Kim Young Chul",
+        "Jang Yeongji",
+        "Kim Youngsam",
+        "Song Hyun Kyu",
+        "Shim Man Kyu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42296487/"
+    }
+  ],
+  "crawled_at": "2026-06-28T22:06:52.774753",
+  "source": "pubmed"
+}

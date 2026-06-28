@@ -1,0 +1,192 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42363601",
+      "title": "Cell-penetrating asymmetric siRNA targeting MyD88 suppresses inflammasome-driven ocular degeneration and angiogenesis.",
+      "abstract": "Chronic inflammation mediated by innate immune signaling contributes to retinal degeneration, pathological angiogenesis, and ocular surface damage in age-related macular degeneration (AMD) and dry eye disease (DED). Myeloid differentiation primary response 88 (MyD88), a central adaptor downstream of Toll-like and IL-1 receptors, integrates NF-κB-dependent cytokine induction and inflammasome priming. In this study, we developed OLX10212, a chemically optimized palmitoyl-conjugated, cell-penetrating asymmetric siRNA (cp-asiRNA) that silences MyD88 without an external delivery vehicle. Following intravitreal administration, OLX10212 achieved broad retinal distribution and sustained MyD88 knockdown in mice and rabbits. In sodium iodate- and Alu RNA-induced geographic atrophy models, OLX10212 preserved retinal architecture and electroretinographic function while suppressing NLRP3-associated transcripts, consistent with the inhibition of inflammasome signaling. A single intravitreal dose reduced lesion volume in laser-induced choroidal neovascularization models in mice and cynomolgus monkeys. Vascular endothelial growth factor (VEGF) expression was also decreased in mice, suggesting that OLX10212 modulates pro-angiogenic inflammatory pathways. Topical administration further ameliorated corneal epithelial injury and inflammatory cytokine expression in a benzalkonium chloride-induced DED model. A phase 1 clinical trial of intravitreal OLX10212 in patients with neovascular AMD is ongoing, and phase 2 studies are planned.",
+      "year": "2026",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "authors": [
+        "Kim Juhong",
+        "Min Saehong",
+        "Yum Munjeong",
+        "Park Sujin",
+        "Park Sungmi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42363601/"
+    },
+    {
+      "pmid": "42353267",
+      "title": "Neuroprotection in Early Diabetic Retinal Disease Using Eyedrop Delivery.",
+      "abstract": "Diabetic retinal disease (DRD) has classically been defined as a microvascular complication of diabetes; however, the recent evidence highlighted the key role of neuronal degeneration during the earliest stages of its pathogenesis. Therefore, neuroprotection has emerged as a promising therapeutic strategy to prevent disease progression. Topical administration via eyedrops represents a non-invasive approach to deliver neuroprotective agents directly to the retina. This review summarizes the current advances in the field of neuroprotective therapies against early DRD with a special focus on topical delivery, including preclinical and clinical evidence, while discussing the relevance of the transscleral route of absorption in all of them. In this review, the most promising neuroprotective compounds under development will be discussed, highlighting the opportunity that they represent for treating early stages of DRD.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Ramos Hugo",
+        "Simó-Servat Olga",
+        "Hernández Cristina",
+        "Simó Rafael"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetic Retinopathy",
+        "Neuroprotective Agents",
+        "Animals",
+        "Ophthalmic Solutions",
+        "Neuroprotection",
+        "Retina"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42353267/"
+    },
+    {
+      "pmid": "42348095",
+      "title": "Community sunbed use and photosensitivity reactions: a systematic review.",
+      "abstract": "Sunbeds emitting ultraviolet radiation (UVR) are an established carcinogen, but little attention has been given to the adverse photosensitivity reactions the UVR exposure can cause. We addressed this information gap through systematic review of the literature on photosensitivity reactions reported following community sunbed use. A systematic search of Medline (via PubMed), CINAHL and Embase identified studies published in English (inception to May 2025). The protocol was registered in Prospero (CRD420251048551). We included all study designs. Quality was assessed using JBI Critical Appraisal Checklists (Case-Reports, Case-Series) and Downes Appraisal (Cross-Sectional Studies), and narrative synthesis performed. Of 413 articles screened, 34 met inclusion criteria (26 case-reports, 6 case-series, 2 cross-sectional studies; 28 high quality for their study design). There were 67 photosensitivity reactions, including 33 cases of photodermatoses (29 pseudoporphyria; 4 solar urticaria, 3 as first presentations), and 3 cases of photoaggravated disorders (one first presentation and two exacerbations of known SLE). There were 31 photosensitivity reactions induced by exogenous substances including 11 to systemic drugs (10 skin, one retinal). Phototoxic reactions occurred to celery, parsnip and lime juice (14 via contact, one ingested), and 5 photocontact reactions to other topical agents including a well-being product. Severe systemic reactions occurred, and 6 cases hospitalised. Findings reveal wide-ranging and severe photosensitivity reactions and indicate attention should be given to providing effective information about the risks and triggers of photosensitivity reactions from sunbeds. This includes to sunbed-outlet staff, sunbed-users, patients with disorders that can be UVR-triggered or aggravated, and people taking potentially photosensitising medication.",
+      "year": "2026",
+      "journal": "Photochemical & photobiological sciences : Official journal of the European Photochemistry Association and the European Society for Photobiology",
+      "authors": [
+        "MacLaurin James M",
+        "Rutter Kirsty J",
+        "Rhodes Lesley E"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42348095/"
+    },
+    {
+      "pmid": "42338809",
+      "title": "Coats-like exudative vasculopathy in a patient with Bardet-Biedl syndrome.",
+      "abstract": "We report a case of Bardet-Biedl syndrome (BBS) complicated by bilateral Coats-like exudative vasculopathy with exudative retinal detachment and neovascular glaucoma (NVG).",
+      "year": "2026",
+      "journal": "American journal of ophthalmology case reports",
+      "authors": [
+        "Kishi Eiji",
+        "Yokoi Tadashi",
+        "Akitomi Hitomi",
+        "Asano Mizuki",
+        "Kuroda Yukiko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42338809/"
+    },
+    {
+      "pmid": "42331119",
+      "title": "Dapagliflozin embedded polymeric nanomicelles for enhanced ocular drug delivery: A promising strategy for glaucoma therapy.",
+      "abstract": "Glaucoma, a progressive neurodegenerative disorder, accentuates the need for a neuroprotective therapy to overcome the risk of blindness. Nucleotide-binding oligomerization domain, Leucine rich Repeat and Pyrin domain containing protein 3 (NLRP3) inhibitors like dapagliflozin (DAPA) may exert neuroprotective effects in the glaucoma therapy. As DAPA suffers from poor permeability and solubility challenges, it cannot be administered in the eyes. Also, invasive methods as well as retinal drug delivery suffers from compliance and safety issues. Thus, the aim was to develop and assess DAPA loaded mixed polymeric, nanomicellar (DAPA MPN) formulation using non-ionic polymers, Poloxamer 188 and Soluplus. In-silico studies involving DAPA and brinzolamide (BRZ) revealed the key targets of glaucoma for comparative analysis. Ensuing CMC determination and drug-polymer ratio optimization, stable, DAPA MPN batch was formulated with particle size of 144.57 nm, spherical morphology with 90.18 % entrapment efficiency. Topical DAPA MPN formulation showed effective encapsulation, drug-excipient compatibility and sustained drug release with 1.45 folds enhancement. As per the OECD TG 405 studies, DAPA MPN was found to be safe for ocular application. During in-vivo screening in ɑ-chymotrypsin induced glaucoma model of New Zealand white rabbits, DAPA MPN demonstrated significant anti-inflammatory, anti-oxidative and anti-apoptotic benefits on the retina. Also, DAPA MPN showed IOP lowering effects as confirmed from the TGF-β1 levels in the aqueous humor. In conclusion, polymeric nanomicelles proved to be promising platform for successful retinal delivery of DAPA, thereby exerting neuroprotective benefits during glaucoma therapy.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Chitre Aarya",
+        "Dhapte-Pawar Vividha",
+        "Sathiyanarayanan Arulmozhi",
+        "Kanse Apeksha"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42331119/"
+    },
+    {
+      "pmid": "42329069",
+      "title": "Exogenous Fusarium Endophthalmitis: Clinical Features, Treatment Modalities, and Visual Outcomes.",
+      "abstract": "To characterize the clinical features, treatment modalities, and visual outcomes of culture-proven exogenous Fusarium endophthalmitis managed at a tertiary referral center.",
+      "year": "2026",
+      "journal": "Investigative ophthalmology & visual science",
+      "authors": [
+        "Kang Sujin",
+        "Smiddy William E",
+        "Yannuzzi Nicolas A",
+        "Albini Thomas A",
+        "Miller Darlene"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Endophthalmitis",
+        "Eye Infections, Fungal",
+        "Retrospective Studies",
+        "Visual Acuity",
+        "Female",
+        "Antifungal Agents",
+        "Fusariosis",
+        "Fusarium",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42329069/"
+    },
+    {
+      "pmid": "42326193",
+      "title": "When Unilateral Leg Swelling Is Not Deep Vein Thrombosis: A Case of Disseminated Kaposi Sarcoma Revealing Advanced Human Immunodeficiency Virus.",
+      "abstract": "Kaposi sarcoma (KS) is an acquired immunodeficiency syndrome (AIDS)-defining malignancy that can involve the skin, lymph nodes, and visceral organs in patients with advanced human immunodeficiency virus (HIV). We report the case of a 35-year-old man with no known prior medical history who presented to the charity care clinic complaining of recurrent thrush and two weeks of progressive right lower extremity swelling. His physical examination revealed painful, pruritic violaceous papules and plaques over the proximal right thigh that had been present for one week. He was referred to the emergency department (ED) for further workup. Venous duplex ultrasonography was negative for deep venous thrombosis (DVT). He was found to have a newly diagnosed HIV-1 infection with advanced immunosuppression, oral thrush with odynophagia and dysphagia concerning for esophageal candidiasis, and a reactive rapid plasma reagin titer of 1:32 with retinal white dot lesions concerning for ocular syphilis. Computed tomography (CT) demonstrated diffuse right lower extremity soft tissue edema, extensive right inguinal, external iliac, and intrapelvic lymphadenopathy, bilateral axillary lymphadenopathy, and multiple bilateral pulmonary nodules. Punch biopsy of a right thigh lesion revealed KS with tumor cells positive for cluster of differentiation 31 (CD31), CD34, ERG, and human herpesvirus 8 (HHV-8), and an excisional lymph node biopsy demonstrated findings consistent with disseminated KS. Furthermore, cerebrospinal fluid (CSF) analysis confirmed neurosyphilis with a positive Venereal Disease Research Laboratory (VDRL). He was treated with bictegravir/emtricitabine/tenofovir alafenamide, trimethoprim-sulfamethoxazole prophylaxis, fluconazole, and intravenous penicillin G. The patient showed early clinical improvement with resolution of ocular symptoms and a declining HIV viral load following initiation of therapy and before discharge. This case highlights biopsy-proven KS as the presenting manifestation of previously undiagnosed advanced HIV, with unilateral limb lymphedema and pulmonary nodules suggesting disseminated disease. Additionally, our case underscores the need for early HIV testing in patients with recurrent mucocutaneous candidiasis and unexplained lymphedema, and for prompt evaluation of concomitant opportunistic and sexually transmitted infections.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Ismail Ahmed",
+        "Wilson Zachary",
+        "Curow Thomas",
+        "DiLeonardo Michael",
+        "Kirby Carsten"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42326193/"
+    },
+    {
+      "pmid": "42320944",
+      "title": "Presumed enterovirus-associated bilateral asymmetrical retinitis with haemorrhagic occlusive retinal vasculitis secondary to hand, foot and mouth disease.",
+      "abstract": "A female toddler clinically diagnosed with hand, foot and mouth disease (HFMD) was referred by the treating paediatrician, with acute-onset painless diminution of vision for 3 days. She had papulomacular skin rashes and was unable to follow the light stimulus at presentation. On fundus evaluation, bilateral asymmetrical (left eye more severe than the right eye) multifocal full-thickness necrotising retinitis, occlusive haemorrhagic retinal vasculitis, optic disc pallor and left eye exudative retinal detachment (eRD) were noted. Due to the background of HFMD and unexpected prompt response of intravitreal and systemic corticosteroids, a preliminary diagnosis of bilateral presumed enterovirus-associated retinopathy was established. The patient showed a favourable response to a weekly taper of oral steroids for the next 3 months. The retinitis, vasculitis and eRD were resolved with widespread retinal pigment epithelium (RPE) atrophy.HFMD with retinopathy secondary to presumed enterovirus infection, though rare, can present with extensive RPE and optic disc atrophy despite administration of oral corticosteroids.",
+      "year": "2026",
+      "journal": "BMJ case reports",
+      "authors": [
+        "Jadhav Vishal Sanjay",
+        "Kelgaonkar Anup",
+        "Pathengay Avinash"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Hand, Foot and Mouth Disease",
+        "Retinal Vasculitis",
+        "Retinitis",
+        "Retinal Hemorrhage",
+        "Infant"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42320944/"
+    },
+    {
+      "pmid": "42317941",
+      "title": "Bilateral Acute Retinal Pigment Epitheliitis Diagnosed and Monitored Using Multimodal Imaging: A Case Report.",
+      "abstract": "We report a rare case of bilateral acute retinal pigment epitheliitis (ARPE) documented using multimodal imaging, with detailed sequential optical coherence tomography (OCT) findings. A woman in her 30s presented with acute bilateral visual deterioration without prodromal symptoms. Fundus examination revealed yellowish-white lesions localized to the fovea in both eyes. OCT demonstrated dome-shaped hyperreflective lesions with disruption of the ellipsoid zone (EZ) and interdigitation zone (IZ). OCT angiography, fluorescein angiography, and indocyanine green angiography showed no significant abnormalities. Based on these findings, bilateral ARPE was diagnosed. Given the bilateral visual impairment, topical betamethasone sodium phosphate was initiated to facilitate early recovery. Sequential OCT demonstrated gradual restoration of the outer retinal layers, with recovery of the external limiting membrane, followed by the IZ and EZ. Best-corrected visual acuity improved to 1.0 in both eyes within two months, and near-complete anatomical resolution was confirmed by three months. No recurrence was observed after treatment cessation. This case highlights the rare bilateral presentation of ARPE and demonstrates the value of OCT in monitoring layer-by-layer recovery of the outer retina, while emphasizing the importance of differentiating it from other white dot syndromes.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Kusano Ayumi",
+        "Watanabe Akira",
+        "Konuma Kokoro",
+        "Nakano Tadashi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42317941/"
+    },
+    {
+      "pmid": "42313163",
+      "title": "Enhanced S-cone syndrome in a family: first long-term (12-year) follow-up and literature review.",
+      "abstract": "To describe the long-term clinical course of Enhanced S-cone Syndrome (ESCS) in three siblings carrying the same NR2E3 variant, and to report therapeutic outcomes of choroidal neovascularization (CNV) and cystic macular changes during a 12-year follow-up from early childhood.",
+      "year": "2026",
+      "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+      "authors": [
+        "Pignatto Silvia",
+        "Martin Asia Amelia",
+        "Gavric Ana Ursula",
+        "Meglič Andrej",
+        "Redolfi De Zan Enrico"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42313163/"
+    }
+  ],
+  "crawled_at": "2026-06-28T22:06:51.291117",
+  "source": "pubmed"
+}
