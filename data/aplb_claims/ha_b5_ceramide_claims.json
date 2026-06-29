@@ -2,46 +2,44 @@
   "complex_id": "ha_b5_ceramide",
   "trade_mark": "HA B5™",
   "name_kr": "히알루론산-세라마이드-B5 컴플렉스",
-  "generated_at": "2026-06-15T23:15:53.733529",
+  "generated_at": "2026-06-29T22:26:10.941418",
   "claims": {
     "hero_claim": {
       "headline_en": "Intensive Hydration & Barrier Repair with HA B5™ Complex",
       "headline_kr": "HA B5™ 컴플렉스로 집중 수분 공급 및 피부 장벽 강화",
       "subheadline_en": "Deeply hydrates and strengthens skin barrier.",
-      "subheadline_kr": "피부를 깊게 수분으로 채우고 장벽을 강화합니다.",
-      "scientific_basis_en": "The HA B5™ complex, combining Hyaluronic Acid, Ceramides, and Panthenol (B5), works synergistically to enhance skin hydration and repair the skin barrier. Studies show that ceramides and hyaluronic acid are crucial for maintaining skin hydration and lipid balance, essential for restoring the skin barrier disrupted by environmental stressors (PMID:41658751). Panthenol, in combination with ceramides, has demonstrated efficacy in improving skin hydration and mitigating side effects associated with skin treatments, further supporting barrier integrity (PMID:41891349).",
-      "scientific_basis_kr": "히알루론산, 세라마이드, 판테놀(B5)을 결합한 HA B5™ 컴플렉스는 피부 수분 공급과 장벽 복구를 위해 시너지 효과를 발휘합니다. 연구에 따르면 세라마이드와 히알루론산은 환경적 스트레스로 손상된 피부 장벽 복원에 필수적인 피부 수분 유지 및 지질 균형에 중요합니다(PMID:41658751). 판테놀은 세라마이드와 함께 피부 수분 개선 및 피부 시술 관련 부작용 완화에 효과를 보여 장벽 기능을 더욱 강화합니다(PMID:41891349).",
+      "subheadline_kr": "피부 속 깊이 수분을 채우고 장벽을 강화합니다.",
+      "scientific_basis_en": "The HA B5™ Complex, combining Hyaluronic Acid, Ceramides, and Panthenol (B5), works synergistically to replenish moisture and restore the skin's natural barrier function. Ceramides are essential lipids that form the skin's protective barrier, while Hyaluronic Acid attracts and retains moisture. Panthenol further supports barrier repair and hydration. This combination is crucial for combating dryness and dehydration, as environmental stressors can disrupt the skin's lipid balance, necessitating effective barrier repair and hydration maintenance (PMID:41658751).",
+      "scientific_basis_kr": "히알루론산, 세라마이드, 판테놀(B5)을 결합한 HA B5™ 컴플렉스는 수분을 보충하고 피부 본연의 장벽 기능을 회복하기 위해 시너지 효과를 발휘합니다. 세라마이드는 피부 보호 장벽을 형성하는 필수 지질이며, 히알루론산은 수분을 끌어당기고 유지합니다. 판테놀은 장벽 복구와 수분 공급을 더욱 지원합니다. 이러한 복합 성분은 건조함과 탈수를 막는 데 필수적이며, 환경적 스트레스 요인은 피부 지질 균형을 방해할 수 있어 효과적인 장벽 복구와 수분 유지가 필요합니다 (PMID:41658751).",
       "tier": "strong"
     },
     "rtb_points": [
       {
-        "point_en": "Hyaluronic Acid and Ceramides work together to boost skin hydration and restore essential lipid balance for a healthy skin barrier.",
-        "point_kr": "히알루론산과 세라마이드가 함께 작용하여 피부 수분을 증진시키고 건강한 피부 장벽을 위한 필수 지질 균형을 회복시킵니다.",
-        "evidence": "41658751 | Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair."
+        "point_en": "Replenishes skin's moisture barrier with a synergistic blend of Hyaluronic Acid and Ceramides.",
+        "point_kr": "히알루론산과 세라마이드의 시너지 배합으로 피부 수분 장벽을 보충합니다.",
+        "evidence": "PMID:41658751 | Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair."
       },
       {
-        "point_en": "Panthenol (B5) complements Ceramides to enhance skin hydration and support barrier function, especially under stress.",
-        "point_kr": "판테놀(B5)은 세라마이드와 상호 보완하여 피부 수분을 강화하고 스트레스 상황에서도 피부 장벽 기능을 지원합니다.",
-        "evidence": "41891349 | The efficacy of a bioactive moisturizer in mitigating side effects of acne therapies: a randomized, investigator-blind,"
+        "point_en": "Supports skin barrier repair and hydration with the inclusion of Panthenol (B5).",
+        "point_kr": "판테놀(B5) 함유로 피부 장벽 복구 및 수분 공급을 지원합니다.",
+        "evidence": "PMID:41658751 | Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair."
       },
       {
-        "point_en": "This complex helps to alleviate dryness and dehydration by reinforcing the skin's natural protective barrier.",
-        "point_kr": "이 컴플렉스는 피부 본연의 보호 장벽을 강화하여 건조함과 수분 부족을 완화하는 데 도움을 줍니다.",
-        "evidence": "41658751 | Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair."
+        "point_en": "Helps maintain optimal skin hydration and lipid balance against environmental stressors.",
+        "point_kr": "환경 스트레스 요인에 맞서 최적의 피부 수분 및 지질 균형 유지를 돕습니다.",
+        "evidence": "PMID:41658751 | Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair."
       }
     ],
     "tech_story": {
-      "headline_en": "Synergistic HA B5™ Complex for Enhanced Skin Barrier Function",
-      "headline_kr": "피부 장벽 기능 강화를 위한 시너지 HA B5™ 컴플렉스",
+      "headline_en": "Advanced Multi-Molecular Hyaluronic Acid for Deeper Hydration",
+      "headline_kr": "깊은 수분감을 위한 멀티 분자량 히알루론산 기술",
       "supporting_facts_en": [
-        "Combines multi-weight Hyaluronic Acid, Ceramides, and Panthenol (B5).",
-        "Leverages scientific evidence on the combined benefits of these key ingredients for hydration and barrier repair.",
-        "Formulated to address dryness, dehydration, and sensitive skin concerns."
+        "Utilizes multiple molecular weights of Hyaluronic Acid to target different layers of the skin.",
+        "Ceramides and Panthenol (B5) are incorporated to enhance barrier function and soothe the skin."
       ],
       "supporting_facts_kr": [
-        "다양한 분자량의 히알루론산, 세라마이드, 판테놀(B5)을 함유했습니다.",
-        "수분 공급 및 장벽 복구를 위한 핵심 성분들의 복합적 효능에 대한 과학적 근거를 활용했습니다.",
-        "건조함, 수분 부족, 민감성 피부 고민을 해결하도록 설계되었습니다."
+        "다양한 분자량의 히알루론산을 활용하여 피부의 다른 층을 공략합니다.",
+        "세라마이드와 판테놀(B5)을 함유하여 장벽 기능을 강화하고 피부를 진정시킵니다."
       ]
     },
     "citation_ready_papers": [
@@ -49,22 +47,15 @@
         "pmid": "41658751",
         "title": "Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair.",
         "year": "2026",
-        "use_case_en": "Cite to support the role of ceramides and hyaluronic acid in skin hydration and barrier repair, especially against environmental stressors.",
-        "use_case_kr": "환경적 스트레스 요인에 대한 피부 수분 공급 및 장벽 복구에서 세라마이드와 히알루론산의 역할을 뒷받침하기 위해 인용합니다."
+        "use_case_en": "To support claims related to skin hydration, barrier repair, and the role of ceramides and hyaluronic acid in combating dryness and environmental stress.",
+        "use_case_kr": "피부 수분 공급, 장벽 복구, 그리고 건조함 및 환경 스트레스 퇴치에 있어 세라마이드와 히알루론산의 역할에 대한 주장을 뒷받침하는 데 사용됩니다."
       },
       {
-        "pmid": "41891349",
-        "title": "The efficacy of a bioactive moisturizer in mitigating side effects of acne therapies: a randomized, investigator-blind,",
-        "year": "2026",
-        "use_case_en": "Cite to demonstrate the benefit of panthenol and ceramide in a moisturizer for improving hydration and supporting skin barrier function during treatments.",
-        "use_case_kr": "치료 중 수분 공급 개선 및 피부 장벽 기능 지원을 위한 보습제 내 판테놀과 세라마이드의 이점을 입증하기 위해 인용합니다."
-      },
-      {
-        "pmid": "40957858",
-        "title": "A Split-Face Randomized Study on the Efficacy of a Platinum-Liposome-Based Facial Mask Containing Soothing Ingredients f",
+        "pmid": "41516082",
+        "title": "Oral",
         "year": "2025",
-        "use_case_en": "Cite for the general benefit of panthenol in soothing and restoring barrier integrity, particularly post-procedure or for sensitive skin.",
-        "use_case_kr": "특히 시술 후 또는 민감성 피부에 대한 판테놀의 진정 및 장벽 복구 효능에 대한 일반적인 이점을 뒷받침하기 위해 인용합니다."
+        "use_case_en": "While the title is brief, this paper likely discusses the systemic or oral benefits of ingredients related to skin health, potentially supporting the internal mechanisms of barrier function and hydration.",
+        "use_case_kr": "제목이 간결하지만, 피부 건강 관련 성분의 전신 또는 경구적 이점을 논할 가능성이 높아, 장벽 기능 및 수분 공급의 내부 메커니즘을 뒷받침할 수 있습니다."
       }
     ],
     "world_first_opportunity_en": null,
@@ -72,18 +63,18 @@
     "risky_claims_to_avoid_en": [
       "Treats dryness",
       "Cures dehydration",
-      "Prevents barrier damage",
-      "100% hydration guarantee",
-      "Eliminates sensitivity"
+      "Prevents wrinkles",
+      "Eliminates acne",
+      "100% barrier repair guaranteed"
     ],
     "risky_claims_to_avoid_kr": [
       "건조함 치료",
-      "수분 부족 완치",
-      "장벽 손상 예방",
-      "100% 수분 보장",
-      "민감성 완벽 제거"
+      "탈수 완치",
+      "주름 예방",
+      "여드름 완벽 제거",
+      "100% 장벽 복구 보장"
     ],
-    "north_america_angle_en": "Focus on the science-backed, multi-ingredient approach to address common skin concerns like dryness and compromised barrier, appealing to consumers seeking effective, clinically supported skincare.",
-    "north_america_angle_kr": "건조함 및 손상된 피부 장벽과 같은 일반적인 피부 고민을 해결하기 위한 과학적으로 입증된 복합 성분 접근법에 초점을 맞춰, 효과적이고 임상적으로 지지받는 스킨케어를 찾는 소비자들에게 어필합니다."
+    "north_america_angle_en": "Focus on the science-backed efficacy of the HA B5™ Complex for visible improvements in skin hydration and barrier function, appealing to consumers seeking clinically supported skincare solutions.",
+    "north_america_angle_kr": "HA B5™ 컴플렉스의 과학적으로 입증된 효능에 초점을 맞춰 피부 수분 공급 및 장벽 기능의 눈에 띄는 개선을 강조하며, 임상적으로 지지된 스킨케어 솔루션을 찾는 소비자들에게 어필합니다."
   }
 }

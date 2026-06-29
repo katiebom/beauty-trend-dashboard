@@ -1,0 +1,78 @@
+{
+  "ingredient_a": "panthenol",
+  "ingredient_b": "ceramide",
+  "query": "(\"panthenol\"[Title/Abstract] AND \"ceramide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 3,
+  "articles": [
+    {
+      "pmid": "41891349",
+      "title": "The efficacy of a bioactive moisturizer in mitigating side effects of acne therapies: a randomized, investigator-blind, split-face trial.",
+      "abstract": "Acne treatments often cause mucocutaneous side effects. This study compared a bioactive moisturizer (containing 4-t-butylcyclohexanol, licochalcone A, ceramide, and panthenol) with a traditional moisturizer in Asian patients using adapalene/benzoyl peroxide gel or oral isotretinoin. Forty participants applied each moisturizer to one side of the face. Assessments at weeks 0, 2, and 4 included hydration, trans-epidermal water loss (TEWL), pH, erythema, acne lesion counts, Investigator Global Evaluation of Acne (IGEA), and patient satisfaction. Hydration increased on both sides, with greater improvement from the bioactive moisturizer (p=0.001). TEWL increased more with the traditional moisturizer; skin pH decreased on both sides. Acne lesions decreased equally. Both moisturizers reduced burning sensations, but dryness scores were higher with the traditional product (p=0.021). Patient satisfaction was significantly higher for the bioactive side (p=0.004). The bioactive moisturizer significantly improves hydration and reduces dryness, supporting its role as an adjunct to acne therapy.",
+      "year": "2026",
+      "journal": "Dermatology reports",
+      "authors": [
+        "Triwatcharikorn Jidapa",
+        "Techamontrikul Supanee",
+        "Ngamdumrongkiat Natnicha",
+        "Rerknimitr Pawinee"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41891349/"
+    },
+    {
+      "pmid": "40957858",
+      "title": "A Split-Face Randomized Study on the Efficacy of a Platinum-Liposome-Based Facial Mask Containing Soothing Ingredients for Post-Photorejuvenation Skin Recovery.",
+      "abstract": "Photorejuvenation is commonly employed to improve skin appearance but frequently leads to transient irritation and temporary impairment of skin barrier function. Incorporating platinum (Pt)-liposome technology along with soothing ingredients such as panthenol, dipotassium glycyrrhizate, madecassoside, and Portulaca oleracea extract is expected to offer enhanced reparative and anti-inflammatory effects, helping to alleviate post-procedural skin sensitivity and restore barrier integrity.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Du Zhixin",
+        "Ren Lu",
+        "Liang Hui",
+        "Lu Yongjie",
+        "Zhang Dongying"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Liposomes",
+        "Female",
+        "Adult",
+        "Middle Aged",
+        "Skin",
+        "Skin Aging",
+        "Keratinocytes",
+        "Rejuvenation",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40957858/"
+    },
+    {
+      "pmid": "40682399",
+      "title": "The Effectiveness and Safety of a Skin Care Product With Centella asiatica Leaf Extract, Ceramide NP, and Panthenol in Subjects With Sensitive Skin: A Prospective, Observational Study.",
+      "abstract": "Sensitive skin is a hyperreactive condition with rising prevalence. A holistic skin care routine is crucial for management. Selecting appropriate skin care products is of great concern in clinical practice.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Su Zhen",
+        "Zheng Yue",
+        "Yi Jinling",
+        "Lai Wei",
+        "Ye Congxiu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Prospective Studies",
+        "Adult",
+        "Centella",
+        "Skin Cream",
+        "Middle Aged",
+        "Plant Extracts",
+        "Ceramides",
+        "Pantothenic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40682399/"
+    }
+  ],
+  "crawled_at": "2026-06-29T22:22:53.849859"
+}

@@ -1,0 +1,29 @@
+{
+  "ingredient_id": "idebenone",
+  "name_kr": "이데베논",
+  "name_en": "Idebenone",
+  "query": "(\"Idebenone\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 1,
+  "recent_complete_count": 0,
+  "trials": [
+    {
+      "nct_id": "NCT01568658",
+      "title": "Genetic and Physical Study of Childhood Nerve and Muscle Disorders",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Muscular Dystrophies",
+        "Muscle Myopathies",
+        "Hereditary Spastic Paraplegias",
+        "Inherited Neuropathies",
+        "Inherited Neuromuscular Conditions"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT01568658"
+    }
+  ],
+  "fetched_at": "2026-06-29T22:22:17.755606"
+}

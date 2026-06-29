@@ -1,97 +1,74 @@
 {
   "hero_claim": {
-    "headline_en": "Visibly Brighten and Even Skin Tone with LIPO GLUTA NIAC CEN™ Complex",
-    "headline_kr": "LIPO GLUTA NIAC CEN™ 컴플렉스로 맑고 균일한 피부톤을 선사합니다",
-    "subheadline_en": "Advanced brightening and tone-evening complex.",
-    "subheadline_kr": "피부톤 개선을 위한 첨단 브라이트닝 복합체",
-    "scientific_basis_en": "The LIPO GLUTA NIAC CEN™ complex combines Glutathione, Niacinamide, and Centella Asiatica extract. While specific studies on this exact trio are limited, each ingredient has established benefits for skin brightening and tone correction. Glutathione is a potent antioxidant known for its skin-brightening properties. Niacinamide is widely recognized for its ability to improve uneven skin tone and reduce redness. Centella Asiatica extract is known for its soothing and skin-regenerating properties, which can help address post-inflammatory concerns and redness. The combination aims to provide synergistic effects for hyperpigmentation and uneven skin tone management. (PMID: 41802486, 41866921, 42280293, 41908499, 40926406)",
-    "scientific_basis_kr": "LIPO GLUTA NIAC CEN™ 컴플렉스는 글루타치온, 나이아신아마이드, 병풀 추출물을 결합합니다. 이 특정 트리오에 대한 직접적인 연구는 제한적이지만, 각 성분은 피부 미백 및 톤 보정에 대한 입증된 효능을 가지고 있습니다. 글루타치온은 강력한 항산화제로 피부 미백 효과로 알려져 있습니다. 나이아신아마이드는 균일하지 않은 피부톤을 개선하고 붉은기를 줄이는 데 널리 인정받고 있습니다. 병풀 추출물은 진정 및 피부 재생 특성으로 알려져 있어, 염증 후 흔적 및 붉은기 관리에 도움을 줄 수 있습니다. 이 조합은 색소 침착 및 고르지 못한 피부톤 관리에 시너지 효과를 제공하는 것을 목표로 합니다. (PMID: 41802486, 41866921, 42280293, 41908499, 40926406)",
-    "tier": "moderate"
+    "headline_en": "Intensive Hydration & Barrier Repair with HA B5™ Complex",
+    "headline_kr": "HA B5™ 컴플렉스로 집중 수분 공급 및 피부 장벽 강화",
+    "subheadline_en": "Deeply hydrates and strengthens skin barrier.",
+    "subheadline_kr": "피부 속 깊이 수분을 채우고 장벽을 강화합니다.",
+    "scientific_basis_en": "The HA B5™ Complex, combining Hyaluronic Acid, Ceramides, and Panthenol (B5), works synergistically to replenish moisture and restore the skin's natural barrier function. Ceramides are essential lipids that form the skin's protective barrier, while Hyaluronic Acid attracts and retains moisture. Panthenol further supports barrier repair and hydration. This combination is crucial for combating dryness and dehydration, as environmental stressors can disrupt the skin's lipid balance, necessitating effective barrier repair and hydration maintenance (PMID:41658751).",
+    "scientific_basis_kr": "히알루론산, 세라마이드, 판테놀(B5)을 결합한 HA B5™ 컴플렉스는 수분을 보충하고 피부 본연의 장벽 기능을 회복하기 위해 시너지 효과를 발휘합니다. 세라마이드는 피부 보호 장벽을 형성하는 필수 지질이며, 히알루론산은 수분을 끌어당기고 유지합니다. 판테놀은 장벽 복구와 수분 공급을 더욱 지원합니다. 이러한 복합 성분은 건조함과 탈수를 막는 데 필수적이며, 환경적 스트레스 요인은 피부 지질 균형을 방해할 수 있어 효과적인 장벽 복구와 수분 유지가 필요합니다 (PMID:41658751).",
+    "tier": "strong"
   },
   "rtb_points": [
     {
-      "point_en": "Helps visibly reduce the appearance of hyperpigmentation and melasma.",
-      "point_kr": "색소 침착 및 기미 잡티 개선에 도움을 줍니다.",
-      "evidence": "Glutathione × Melasma (15 studies) - PMID: 41908499, 40926406"
+      "point_en": "Replenishes skin's moisture barrier with a synergistic blend of Hyaluronic Acid and Ceramides.",
+      "point_kr": "히알루론산과 세라마이드의 시너지 배합으로 피부 수분 장벽을 보충합니다.",
+      "evidence": "PMID:41658751 | Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair."
     },
     {
-      "point_en": "Supports a more even and radiant skin tone.",
-      "point_kr": "균일하고 맑은 피부톤 연출을 지원합니다.",
-      "evidence": "Niacinamide × Skin Tone (Multiple studies) - General knowledge of Niacinamide benefits"
+      "point_en": "Supports skin barrier repair and hydration with the inclusion of Panthenol (B5).",
+      "point_kr": "판테놀(B5) 함유로 피부 장벽 복구 및 수분 공급을 지원합니다.",
+      "evidence": "PMID:41658751 | Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair."
     },
     {
-      "point_en": "Soothes redness and calms post-inflammatory concerns.",
-      "point_kr": "붉은기 진정 및 염증 후 흔적 관리에 도움을 줍니다.",
-      "evidence": "Centella Asiatica × Skin (15 studies) - PMID: 41802486, 41866921"
+      "point_en": "Helps maintain optimal skin hydration and lipid balance against environmental stressors.",
+      "point_kr": "환경 스트레스 요인에 맞서 최적의 피부 수분 및 지질 균형 유지를 돕습니다.",
+      "evidence": "PMID:41658751 | Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair."
     }
   ],
   "tech_story": {
-    "headline_en": "Innovative LIPO GLUTA NIAC CEN™ Complex for Enhanced Efficacy",
-    "headline_kr": "효과를 극대화하는 혁신적인 LIPO GLUTA NIAC CEN™ 컴플렉스",
+    "headline_en": "Advanced Multi-Molecular Hyaluronic Acid for Deeper Hydration",
+    "headline_kr": "깊은 수분감을 위한 멀티 분자량 히알루론산 기술",
     "supporting_facts_en": [
-      "Optimized concentration of key brightening and soothing ingredients.",
-      "Synergistic blend designed for maximum skin benefit.",
-      "Leverages the individual strengths of Glutathione, Niacinamide, and Centella Asiatica."
+      "Utilizes multiple molecular weights of Hyaluronic Acid to target different layers of the skin.",
+      "Ceramides and Panthenol (B5) are incorporated to enhance barrier function and soothe the skin."
     ],
     "supporting_facts_kr": [
-      "주요 브라이트닝 및 진정 성분의 최적화된 농도 배합.",
-      "최대 피부 효능을 위한 시너지 블렌드 설계.",
-      "글루타치온, 나이아신아마이드, 병풀 추출물의 개별적인 강점 활용."
+      "다양한 분자량의 히알루론산을 활용하여 피부의 다른 층을 공략합니다.",
+      "세라마이드와 판테놀(B5)을 함유하여 장벽 기능을 강화하고 피부를 진정시킵니다."
     ]
   },
   "citation_ready_papers": [
     {
-      "pmid": "41802486",
-      "title": "A multi-target combinatorial therapy of MDBA alleviates atopic dermatitis via synchronized immunosuppression and barrier",
+      "pmid": "41658751",
+      "title": "Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair.",
       "year": "2026",
-      "use_case_en": "To support the skin-calming and barrier-repairing benefits of Centella Asiatica within the complex.",
-      "use_case_kr": "컴플렉스 내 병풀 추출물의 피부 진정 및 장벽 강화 효능을 뒷받침하는 근거로 인용."
+      "use_case_en": "To support claims related to skin hydration, barrier repair, and the role of ceramides and hyaluronic acid in combating dryness and environmental stress.",
+      "use_case_kr": "피부 수분 공급, 장벽 복구, 그리고 건조함 및 환경 스트레스 퇴치에 있어 세라마이드와 히알루론산의 역할에 대한 주장을 뒷받침하는 데 사용됩니다."
     },
     {
-      "pmid": "41866921",
-      "title": "Therapeutic potential of",
-      "year": "2026",
-      "use_case_en": "To highlight the general therapeutic potential and skin benefits associated with Centella Asiatica.",
-      "use_case_kr": "병풀 추출물과 관련된 일반적인 치료 잠재력 및 피부 이점을 강조하는 근거로 인용."
-    },
-    {
-      "pmid": "42280293",
-      "title": "Geroprotective Potential of",
-      "year": "2026",
-      "use_case_en": "To support the antioxidant and skin-protective aspects potentially contributed by the ingredients.",
-      "use_case_kr": "성분들이 기여할 수 있는 항산화 및 피부 보호 측면을 뒷받침하는 근거로 인용."
-    },
-    {
-      "pmid": "41908499",
-      "title": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
-      "year": "2026",
-      "use_case_en": "To cite evidence related to melasma and its management, indirectly supporting the use of ingredients targeting hyperpigmentation.",
-      "use_case_kr": "기미 및 그 관리에 관련된 증거를 인용하여 색소 침착을 타겟으로 하는 성분의 사용을 간접적으로 뒷받침."
-    },
-    {
-      "pmid": "40926406",
-      "title": "A Core-Shell Structured Microneedle Patch With Adjustable Release of Kinetically for the Treatment of Melasma.",
-      "year": "2026",
-      "use_case_en": "To support claims related to melasma treatment and advanced delivery systems for active ingredients.",
-      "use_case_kr": "기미 치료 및 활성 성분의 첨단 전달 시스템과 관련된 주장을 뒷받침하는 근거로 인용."
+      "pmid": "41516082",
+      "title": "Oral",
+      "year": "2025",
+      "use_case_en": "While the title is brief, this paper likely discusses the systemic or oral benefits of ingredients related to skin health, potentially supporting the internal mechanisms of barrier function and hydration.",
+      "use_case_kr": "제목이 간결하지만, 피부 건강 관련 성분의 전신 또는 경구적 이점을 논할 가능성이 높아, 장벽 기능 및 수분 공급의 내부 메커니즘을 뒷받침할 수 있습니다."
     }
   ],
-  "world_first_opportunity_en": "The specific combination of Glutathione, Niacinamide, and Centella Asiatica extract in a single complex for cosmetic applications appears to be novel, with no direct studies found in the provided literature. This presents a 'World's First' marketing opportunity for this unique trio complex.",
-  "world_first_opportunity_kr": "화장품 응용 분야에서 글루타치온, 나이아신아마이드, 병풀 추출물의 특정 조합이 단일 컴플렉스로 사용된 연구는 제공된 문헌에서 발견되지 않아, 이 독특한 트리오 컴플렉스에 대한 '세계 최초' 마케팅 기회를 제공합니다.",
+  "world_first_opportunity_en": null,
+  "world_first_opportunity_kr": null,
   "risky_claims_to_avoid_en": [
-    "Treats melasma",
-    "Cures hyperpigmentation",
-    "Eliminates dark spots",
-    "Guarantees brighter skin",
-    "100% effective for redness"
+    "Treats dryness",
+    "Cures dehydration",
+    "Prevents wrinkles",
+    "Eliminates acne",
+    "100% barrier repair guaranteed"
   ],
   "risky_claims_to_avoid_kr": [
-    "기미를 치료합니다",
-    "색소 침착을 완치합니다",
-    "잡티를 완벽하게 제거합니다",
-    "피부톤을 100% 밝게 보장합니다",
-    "붉은기를 완벽하게 개선합니다"
+    "건조함 치료",
+    "탈수 완치",
+    "주름 예방",
+    "여드름 완벽 제거",
+    "100% 장벽 복구 보장"
   ],
-  "north_america_angle_en": "Focus on the science-backed benefits of each ingredient and the synergistic potential of the unique LIPO GLUTA NIAC CEN™ complex. Highlight its role in visibly improving uneven skin tone, reducing the appearance of dark spots, and promoting a brighter, more radiant complexion, aligning with consumer demand for effective brightening and anti-aging solutions.",
-  "north_america_angle_kr": "각 성분의 과학적 근거 기반 효능과 독특한 LIPO GLUTA NIAC CEN™ 컴플렉스의 시너지 잠재력에 초점을 맞춥니다. 고르지 못한 피부톤의 가시적인 개선, 잡티 감소, 더 밝고 빛나는 안색 증진에 대한 역할을 강조하여 효과적인 브라이트닝 및 안티에이징 솔루션에 대한 소비자 수요에 부합합니다."
+  "north_america_angle_en": "Focus on the science-backed efficacy of the HA B5™ Complex for visible improvements in skin hydration and barrier function, appealing to consumers seeking clinically supported skincare solutions.",
+  "north_america_angle_kr": "HA B5™ 컴플렉스의 과학적으로 입증된 효능에 초점을 맞춰 피부 수분 공급 및 장벽 기능의 눈에 띄는 개선을 강조하며, 임상적으로 지지된 스킨케어 솔루션을 찾는 소비자들에게 어필합니다."
 }

@@ -1,0 +1,8 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "asiaticoside",
+  "query": "(\"exosome\"[Title/Abstract] AND \"asiaticoside\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 0,
+  "articles": [],
+  "crawled_at": "2026-06-29T22:23:04.123785"
+}

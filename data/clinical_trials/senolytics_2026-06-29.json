@@ -1,0 +1,740 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 27,
+  "trials": [
+    {
+      "nct_id": "NCT07587892",
+      "title": "Argon Plasma Coagulation in Open Excisional Hemorrhoidectomy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hemorrhoidal Disease",
+        "Hemorrhoid Pain",
+        "Hemorrhoidectomy"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "open hemorrhoidectomy using argon plasma coagulation"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "open hemorrhoidectomy using momopolar coagulation"
+        }
+      ],
+      "sponsor": "I.M. Sechenov First Moscow State Medical University",
+      "primary_completion": "2026-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT07587892"
+    },
+    {
+      "nct_id": "NCT07556692",
+      "title": "A Study of Home-use Brain Stimulation to Treat Bipolar Depression",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Bipolar Disorder (BD)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Flow FL-100 tDCS headset"
+        }
+      ],
+      "sponsor": "King's College London",
+      "primary_completion": "2027-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT07556692"
+    },
+    {
+      "nct_id": "NCT06652347",
+      "title": "Understanding the Preferences and Views of Older Adults on the Use of Geriatric and Objective Functional Assessments for Cancer Treatment Planning.",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Care Delivery",
+        "Geriatrics",
+        "Geriatric Assessment"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Cancer care delivery"
+        }
+      ],
+      "sponsor": "Fox Chase Cancer Center",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT06652347"
+    },
+    {
+      "nct_id": "NCT07146321",
+      "title": "A Study to Investigate the Effect of a Multivitamin, Multi-nutrient Supplement on Mental and Emotional Wellbeing",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Menopause"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "multi-vitamin, multi-nutrient"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Biologica Inc",
+      "primary_completion": "2026-03-09",
+      "url": "https://clinicaltrials.gov/study/NCT07146321"
+    },
+    {
+      "nct_id": "NCT07483307",
+      "title": "A Study of the Impact of Endocrine Therapy on Surgical Outcomes in People With Lobular Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "HER2-negative Breast Cancer",
+        "HER2 Negative Breast Carcinoma",
+        "ER+ Breast Cancer",
+        "Lobular Breast Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Neoadjuvant endocrine therapy"
+        }
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "primary_completion": "2030-03-13",
+      "url": "https://clinicaltrials.gov/study/NCT07483307"
+    },
+    {
+      "nct_id": "NCT07364903",
+      "title": "Effectiveness of Family-Integrated Newborn Care to Improve Outcomes for Preterm and Low-birth-weight Neonates",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Family Involvement/Empowerment",
+        "Family-centered Care",
+        "Intensive Care Units, Neonatal",
+        "Family Integrated Newborn Care"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Family Integrated Newborn Care, an intervention to integrate family in the care targeted their preterm and Low-birth weight neonates"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Standard medical treatment"
+        }
+      ],
+      "sponsor": "Laerdal Foundation",
+      "primary_completion": "2026-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT07364903"
+    },
+    {
+      "nct_id": "NCT02497534",
+      "title": "Biomarkers in Friedreich's Ataxia",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Friedreich's Ataxia"
+      ],
+      "interventions": [],
+      "sponsor": "University of Florida",
+      "primary_completion": "2030-06-03",
+      "url": "https://clinicaltrials.gov/study/NCT02497534"
+    },
+    {
+      "nct_id": "NCT06362616",
+      "title": "Preoperative Accelerated Partial Breast Irradiation in Patients With Locally Recurrent or Second Primary Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "Preoperative accelerated partial breast irradiation"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Breast conserving surgery"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Sentinel node procedure"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Biopsy track removal"
+        }
+      ],
+      "sponsor": "The Netherlands Cancer Institute",
+      "primary_completion": "2026-10-11",
+      "url": "https://clinicaltrials.gov/study/NCT06362616"
+    },
+    {
+      "nct_id": "NCT06539468",
+      "title": "Active Surveillance for the Treatment of Low-Risk Basal Cell Carcinoma in Elderly Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Skin Basal Cell Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Best Practice"
+        },
+        {
+          "type": "OTHER",
+          "name": "Educational Activity"
+        },
+        {
+          "type": "OTHER",
+          "name": "Patient Observation"
+        },
+        {
+          "type": "OTHER",
+          "name": "Survey Administration"
+        }
+      ],
+      "sponsor": "University of Michigan Rogel Cancer Center",
+      "primary_completion": "2027-04-28",
+      "url": "https://clinicaltrials.gov/study/NCT06539468"
+    },
+    {
+      "nct_id": "NCT07243977",
+      "title": "Comparison of Microneedling Along With Topical Vitamin D3 Versus Microneedling in Alopecia Areata",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alopecia Areata"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Microneedling + Vitamin D3"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Microneedling"
+        }
+      ],
+      "sponsor": "Services Institute of Medical Sciences, Pakistan",
+      "primary_completion": "2025-09-29",
+      "url": "https://clinicaltrials.gov/study/NCT07243977"
+    },
+    {
+      "nct_id": "NCT07271849",
+      "title": "Nalbuphine Timing Effects on Hemodynamics and Analgesia in Elderly Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postoperative Pain, Acute",
+        "Hemodynamics",
+        "Total Knee Arthroplasty (TKA)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Nalbuphine Hydrochloride injection was administered during anesthesia induction."
+        },
+        {
+          "type": "DRUG",
+          "name": "Nalbuphine Hydrochloride injection was administered after cement implantation."
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard general anesthesia regimen ( nalbuphine was not administered throughout the entire anesthesia process.)"
+        }
+      ],
+      "sponsor": "Qianfoshan Hospital",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07271849"
+    },
+    {
+      "nct_id": "NCT07133919",
+      "title": "Effect of AI-Supported Child-Friendly Communication on Dental Anxiety in Pediatric Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Caries, Dental",
+        "Local Anesthesia",
+        "Inferior Alveolar Nerve Block",
+        "Dental Anxiety"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "AI-Assisted Child-Friendly Communication"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Traditional Behavior Management Techniques"
+        }
+      ],
+      "sponsor": "Çanakkale Onsekiz Mart University",
+      "primary_completion": "2026-01",
+      "url": "https://clinicaltrials.gov/study/NCT07133919"
+    },
+    {
+      "nct_id": "NCT06459219",
+      "title": "Factors Determining Tolerance to Nasal Allergen Exposure With Advanced Age in a Subset of Birch Pollen Allergic Subjects",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Allergic Rhinitis",
+        "Allergic Conjunctivitis"
+      ],
+      "interventions": [],
+      "sponsor": "Sven Schneider, MD",
+      "primary_completion": "2027-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06459219"
+    },
+    {
+      "nct_id": "NCT06637865",
+      "title": "A First-in-human Study of the Safety of an Immunosuppressive Antibody (IMP761) in Healthy Volunteers",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "IMP761"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "OTHER",
+          "name": "keyhole limpet haemocyanin (KLH)"
+        }
+      ],
+      "sponsor": "Immutep S.A.S.",
+      "primary_completion": "2026-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT06637865"
+    },
+    {
+      "nct_id": "NCT07159373",
+      "title": "Better Options for Lymphatic Filariasis Treatment",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lymphatic Filariasis",
+        "Scabies",
+        "Strongyloidiasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "MoxDA - Moxidectin + Diethylcarbamzine (DEC) + Albendazole"
+        },
+        {
+          "type": "DRUG",
+          "name": "IDA - Ivermectin + DEC + albendazole"
+        }
+      ],
+      "sponsor": "Medicines Development for Global Health",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT07159373"
+    },
+    {
+      "nct_id": "NCT05399667",
+      "title": "Assessment of Body Composition in Premature Children Submitted to an Early Stimulation Program",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Preterm Birth",
+        "Very Low Birth Weight Infant",
+        "Early Intervention",
+        "Parent-Child Relations",
+        "Nutrition, Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Early stimulation"
+        },
+        {
+          "type": "OTHER",
+          "name": "Conventional care"
+        }
+      ],
+      "sponsor": "Hospital de Clinicas de Porto Alegre",
+      "primary_completion": "2024-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT05399667"
+    },
+    {
+      "nct_id": "NCT07278609",
+      "title": "The RheumSafer Study: Improving Medication Appropriateness in People With Rheumatic Conditions",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Rheumatic Diseases",
+        "Inflammatory Arthritis",
+        "Systemic Lupus Erthematosus (SLE)",
+        "Vasculitis",
+        "Muskuloskeletal Diseases",
+        "Systemic Autoimmune Diseases"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "MedSafer deprescribing opportunity reports, EMPOWER brochures"
+        }
+      ],
+      "sponsor": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+      "primary_completion": "2028-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT07278609"
+    },
+    {
+      "nct_id": "NCT07660029",
+      "title": "BloodTrackR Usability and Concordance Study (BUCS): Evaluating a Smart Home-Based Blood Collection Platform for Remote Monitoring in Rheumatoid Arthritis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis (RA)",
+        "Remote Patient Monitoring"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "BloodTrackR - Home Blood Collection Platform"
+        }
+      ],
+      "sponsor": "University of Ulster",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT07660029"
+    },
+    {
+      "nct_id": "NCT05473429",
+      "title": "Characterization of Nociception Phenotype in Individuals With Intellectual Disability",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Intellectual Disability"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TSA2 Thermosensory Stimulator"
+        }
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "primary_completion": "2026-10-06",
+      "url": "https://clinicaltrials.gov/study/NCT05473429"
+    },
+    {
+      "nct_id": "NCT07566494",
+      "title": "Escalating Doses of VAS-101 in Subjects With Stable Sickle Cell Disease",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sickle Cell Disease, Hemolytic Anemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "VAS-101"
+        }
+      ],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "primary_completion": "2027-04-27",
+      "url": "https://clinicaltrials.gov/study/NCT07566494"
+    },
+    {
+      "nct_id": "NCT06769386",
+      "title": "Investigation of Muscle Oxygenation in Patients With Rheumatoid Arthritis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis"
+      ],
+      "interventions": [],
+      "sponsor": "Kirsehir Ahi Evran Universitesi",
+      "primary_completion": "2026-01-25",
+      "url": "https://clinicaltrials.gov/study/NCT06769386"
+    },
+    {
+      "nct_id": "NCT07314957",
+      "title": "Impact of Lifestyle on Health Maintenance: A Randomized Controlled Trial",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metabolic Syndrome",
+        "Inactivity/Low Levels of Exercise",
+        "Unhealthy Diet",
+        "Unhealthy Alcohol Use",
+        "Smoking Behaviors",
+        "Stress",
+        "Sleep Disorder",
+        "Obesity & Overweight",
+        "Anxiety",
+        "Depressed Mood",
+        "Emotional Eating Behaviour"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Intervention of physical activity"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Mediterranean Diet Education"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Behavioral: Stress-Resilience Training"
+        }
+      ],
+      "sponsor": "University of Zadar",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07314957"
+    },
+    {
+      "nct_id": "NCT07481851",
+      "title": "Skin Conductance for Predicting Spinal Anesthesia-Induced Hypotension in Geriatric Urologic Oncology Patients",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Hypotension",
+        "Urologic Neoplasms",
+        "Aged",
+        "Spinal Anesthesia"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Skin Conductance Monitoring"
+        }
+      ],
+      "sponsor": "Dr Abdurrahman Yurtaslan Ankara Oncology Training and Research Hospital",
+      "primary_completion": "2026-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT07481851"
+    },
+    {
+      "nct_id": "NCT07496307",
+      "title": "Structured Breastfeeding Education In Infants With Breast Refusal",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breastfeeding Difficulties",
+        "Maternal Breastfeeding Motivation",
+        "Nipple Refusal",
+        "Mother-infant Bonding"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Structured Breastfeeding Education"
+        }
+      ],
+      "sponsor": "Kahramanmaras Sutcu Imam University",
+      "primary_completion": "2026-01-15",
+      "url": "https://clinicaltrials.gov/study/NCT07496307"
+    },
+    {
+      "nct_id": "NCT05062707",
+      "title": "Early Ageing During Therapy in AYA Cancer Patients",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Cancer",
+        "Leukemia",
+        "Hodgkin Lymphoma",
+        "Testicular Cancer",
+        "Osteosarcoma",
+        "Ewing Sarcoma",
+        "Breast Cancer",
+        "Cervical Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Blood sampling"
+        }
+      ],
+      "sponsor": "University Medical Center Groningen",
+      "primary_completion": "2025-07",
+      "url": "https://clinicaltrials.gov/study/NCT05062707"
+    },
+    {
+      "nct_id": "NCT07574502",
+      "title": "Transcutaneous Electrical Acustimulation on Postoperative Bowel Function Recovery in Elderly Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Colorectal Cancer (CRC)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TEA"
+        },
+        {
+          "type": "DEVICE",
+          "name": "sham-TEA"
+        }
+      ],
+      "sponsor": "Sir Run Run Shaw Hospital",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07574502"
+    },
+    {
+      "nct_id": "NCT07316322",
+      "title": "Central Sensitization in Painful and Painless Diabetic Peripheral Neuropathy",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Diabetes Mellitus (DM)"
+      ],
+      "interventions": [],
+      "sponsor": "Inonu University",
+      "primary_completion": "2026-09-15",
+      "url": "https://clinicaltrials.gov/study/NCT07316322"
+    },
+    {
+      "nct_id": "NCT05478876",
+      "title": "Carbon Ion Radiation Therapy in the Treatment of Mucous Melanomas of the Female Lower Genital Tract",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Malignant Melanoma",
+        "Gynecologic Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "carbon ion radiation therapy CIRT"
+        }
+      ],
+      "sponsor": "CNAO National Center of Oncological Hadrontherapy",
+      "primary_completion": "2027-09",
+      "url": "https://clinicaltrials.gov/study/NCT05478876"
+    },
+    {
+      "nct_id": "NCT05979441",
+      "title": "A Study to Assess the Long-term Safety and Efficacy of a Subcutaneous Formulation of Efgartigimod in Adults With Active Idiopathic Inflammatory Myopathy",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Myositis",
+        "Active Idiopathic Inflammatory Myopathy",
+        "Dermatomyositis",
+        "Polymyositis",
+        "Immune-Mediated Necrotizing Myopathy",
+        "Antisynthetase Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Efgartigimod PH20 SC"
+        }
+      ],
+      "sponsor": "argenx",
+      "primary_completion": "2028-09",
+      "url": "https://clinicaltrials.gov/study/NCT05979441"
+    },
+    {
+      "nct_id": "NCT07587086",
+      "title": "Fluorocholine PET/MR in Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Neoplasms",
+        "Female"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "PET-MRI"
+        }
+      ],
+      "sponsor": "Taipei Veterans General Hospital, Taiwan",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07587086"
+    }
+  ],
+  "fetched_at": "2026-06-29T22:22:36.698022"
+}
