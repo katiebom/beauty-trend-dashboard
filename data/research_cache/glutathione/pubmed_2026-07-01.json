@@ -1,0 +1,193 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42382430",
+      "title": "Dietary Microencapsulated Roselle (",
+      "abstract": "This study evaluated the optimal dietary inclusion level of microencapsulated roselle (",
+      "year": "2026",
+      "journal": "Aquaculture nutrition",
+      "authors": [
+        "Kattakdad Supalug",
+        "Phungam Nittaya",
+        "Udduang Suriya",
+        "Thammaboud Sophasith"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42382430/"
+    },
+    {
+      "pmid": "42379703",
+      "title": "Metabolic inhibition of glutamate-cysteine ligase increases dendritic cell-mediated antitumor immunity in melanoma.",
+      "abstract": "Metabolic competition and nutrient restriction in the tumor microenvironment (TME) shape the immune infiltrate in tumors and subsequently tumor immunity. In this study we used the transgenic melanoma mouse model tg(Grm1)EPv, which spontaneously develops melanoma due to the ectopic expression of the metabotropic glutamate receptor 1 (",
+      "year": "2026",
+      "journal": "Journal for immunotherapy of cancer",
+      "authors": [
+        "Dieckmann Sophie Marie",
+        "Tripp Christoph H",
+        "Strandt Helen",
+        "Hornsteiner Florian",
+        "Schäfer Annelie Kerstin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dendritic Cells",
+        "Mice",
+        "Melanoma",
+        "Glutamate-Cysteine Ligase",
+        "Tumor Microenvironment",
+        "Mice, Transgenic",
+        "Glutamic Acid",
+        "Humans",
+        "Receptors, Metabotropic Glutamate"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42379703/"
+    },
+    {
+      "pmid": "42377202",
+      "title": "Comparative evaluation of effect of silver diamine fluoride with different anti-staining agents on shear bond strength of universal adhesive to dentin: An in vitro study.",
+      "abstract": "Dental caries is one of the most widespread chronic diseases, impacting over 2.4 billion people globally. Silver diamine fluoride (SDF) is a minimally invasive treatment known for its strong antimicrobial and remineralizing effects. However, the primary esthetic drawback of SDF is the black staining it causes on the treated tooth structure. To address this issue, adjunctive anti-staining agents such as potassium iodide (KI), glutathione (GSH), and tannic acid (TA) have been explored. These agents may not only mitigate discoloration but also affect the bonding efficiency of restorative materials applied afterward.",
+      "year": "2026",
+      "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+      "authors": [
+        "Dixit Geetika",
+        "Manuja Naveen",
+        "Chaudhary Seema",
+        "Chaitra T R",
+        "Sinha Ashish Amit"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Shear Strength",
+        "Quaternary Ammonium Compounds",
+        "Dental Bonding",
+        "Dentin",
+        "In Vitro Techniques",
+        "Silver Compounds",
+        "Materials Testing",
+        "Glutathione",
+        "Tooth Discoloration"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42377202/"
+    },
+    {
+      "pmid": "42376007",
+      "title": "Key molecular networks underlying retinol's biphasic effects on cell proliferation through multi-omics integrative analysis using genome-scale metabolic modeling.",
+      "abstract": "Retinol is widely used in skin anti-aging, yet its effects exhibit significant concentration dependence. However, the underlying biphasic mechanism, that is low concentrations promote cell proliferation while high concentrations are inhibitory, remains incompletely understood. Here, we employed multi-omics analysis and genome-scale metabolic models (GEMs) to systematically infer the key molecular networks underlying the distinct effects of retinol concentrations on human foreskin fibroblasts (HFFs). Our results suggest that low retinol concentrations appear to promote proliferation by activating the canonical retinoic acid signaling pathway and inducing sophisticated metabolic reprogramming. This reprogramming appears to involve prioritizing the coenzyme NADPH for retinol processing and antioxidant defense, which is associated with a compensatory suppression of NADPH-consuming cholesterol biosynthesis. This metabolic shift may foster a favorable intracellular environment for growth. Conversely, high concentrations are linked to a multi-system injury cascade. The observed key feature likely involves significant oxidative stress, associated with the buildup of toxic metabolic intermediates and a pro-inflammatory lipid storm marked by elevated leukotrienes. These stress responses align with the signatures of ferroptosis, a form of programmed cell death characterized by glutathione (GSH) defense system collapse and downregulation of the key regulator ",
+      "year": "2027",
+      "journal": "Synthetic and systems biotechnology",
+      "authors": [
+        "He Peishuang",
+        "Xiang Guangming",
+        "Yan Yizhen",
+        "Zhong Jiangming",
+        "Liang Yuting"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42376007/"
+    },
+    {
+      "pmid": "42374871",
+      "title": "FOXO3/HMOX1 axis promotes melanoma progression by regulating ferroptosis and immune escape.",
+      "abstract": "Melanoma represents a highly aggressive form of skin cancer characterized by significant invasiveness and immune evasion capabilities. Although heme oxygenase-1 (HMOX1) participates in cellular stress responses and ferroptosis, its precise functional roles in melanoma pathogenesis remain incompletely defined.",
+      "year": "2026",
+      "journal": "Histology and histopathology",
+      "authors": [
+        "Ji Suzhi",
+        "Hasimu Maimaitiaili",
+        "Du Junwei",
+        "Dai Zhibing",
+        "Wu Junshen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42374871/"
+    },
+    {
+      "pmid": "42367223",
+      "title": "Brusatol Induces Ferroptosis in Condyloma Acuminatum Keratinocytes by Suppressing Nrf2 via Inhibition of the PI3K/AKT Pathway.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Cytotechnology",
+      "authors": [
+        "Wu WeiQi",
+        "Yang Juan",
+        "Lu XiuYi",
+        "Deng LieHua",
+        "Wen LiuYan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42367223/"
+    },
+    {
+      "pmid": "42359064",
+      "title": "Oral whole-leaf matcha partially attenuates UV-induced dermoepidermal disruption and collagen phenotype alterations in a rat model of repeated photoaging.",
+      "abstract": "Repeated ultraviolet (UV) exposure promotes oxidative stress, extracellular matrix remodeling, and disruption of dermoepidermal architecture, all of which contribute to skin photoaging. Although green tea derivatives have been investigated for photoprotective effects, the impact of oral whole-leaf matcha powder on cumulative UV-induced skin changes remains insufficiently characterized. The aim of this study was to investigate whether oral whole-leaf matcha powder was associated with attenuation of UV-induced dermoepidermal disruption, collagen phenotype alterations, and skin surface changes in a rat model of repeated UV exposure.",
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Zorlu Özge",
+        "Karabağ Sevil",
+        "Özkan Mazhar",
+        "Beyhan Yılmaz Melisa",
+        "Yıkmış Seydi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359064/"
+    },
+    {
+      "pmid": "42354780",
+      "title": "Redox-Responsive GHK-Conjugated Sponge Spicules for Sustained Dermal Delivery and Enhanced Collagen Synthesis.",
+      "abstract": "Sponge spicules have emerged as promising biomaterial scaffolds due to their biocompatibility and unique structural properties; however, achieving stable and bioactive functionalization remains a key challenge. The tripeptide GHK is known to promote collagen synthesis and wound repair, yet its therapeutic efficacy is often limited by rapid diffusion and instability. Here, we report ALTUM, a thiol-functionalized sponge spicule composite in which GHK is covalently conjugated via disulfide linkage to enable controlled and redox-responsive peptide delivery. ALTUM exhibited sustained GHK retention under physiological and storage conditions, while exposure to reduced glutathione (GSH) selectively accelerated peptide release through disulfide bond cleavage. This dual release behavior-long-term stability combined with reduction-triggered activation-distinguishes ALTUM from conventional delivery systems. The composite also demonstrated structural stability under thermal, cyclic, and photostability conditions. In an artificial human skin model, ALTUM enhanced dermal penetration of GHK and significantly increased collagen deposition in the dermal layer, demonstrating its capacity to promote collagen production within deeper skin tissue, compared to simple spicule-peptide mixtures. ALTUM was fabricated at an optimized spicule-to-peptide ratio of 3% (",
+      "year": "2026",
+      "journal": "Micromachines",
+      "authors": [
+        "Hong Won-Kyu",
+        "Huang Patrick Po-Han",
+        "Duncan Diane",
+        "Marco Rocha",
+        "Choi Ho-Sung"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42354780/"
+    },
+    {
+      "pmid": "42352032",
+      "title": "Crosstalk Between Oxidative Stress, Protein Glycation, and Extracellular Matrix Remodeling in the Skin of Rats with Type 1 Diabetes: Does Insulin Administration Improve Skin Homeostasis?",
+      "abstract": "The exact mechanisms of skin involvement in type 1 diabetes (DM1) remain poorly understood. This study aimed to evaluate the relationship between antioxidants, oxidative stress, protein glycation, and glycoxidation, as well as matrix metalloproteinase (MMP) activity, in the skin of rats with DM1, while investigating whether insulin administration improves skin homeostasis. Male Wistar rats were assigned to three groups: control, diabetes, and diabetes treated with insulin. Significantly higher expression of GSH (gluthatione) and GSH-Px (glutathione peroxidase), elevated levels of AGE (Advanced Glycation End products), DT (dityrosine), KN (kynurenine), NFKN (N-formylkynurenine) and ONOO- (peroxynitrite), as well as increased activity of GLU (β-D-glucuronidase), NADPH oxidase (NOX) and MMP-1, -2, -3, -7, -9, -11 and -13 were observed in the skin of rats with DM1. Insulin treatment normalizes the skin's antioxidant barrier and eliminates oxidative stress. It also reduces the intensity of protein glycation and glycoxidation, though not to the levels observed in the control group. Summarizing, in diabetic skin there is a complex interaction between the thiol antioxidant barrier, oxidative damage, protein glycation and glycoxidation as well as MMP expression. Insulin restores physiological balance in skin cells; however, glycation and ECM remodeling are still more pronounced than in healthy skin.",
+      "year": "2026",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Dorf Natalia",
+        "Gołaś Edyta",
+        "Pawlukianiec Cezary",
+        "Żendzian-Piotrowska Małgorzata",
+        "Zalewska Anna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42352032/"
+    },
+    {
+      "pmid": "42351996",
+      "title": "Metabolic Responses of Melanocytes and Melanoma Cells to UVA Radiation and Phytocannabinoids Exposure.",
+      "abstract": "Ultraviolet A (UVA) radiation disrupts the redox balance of melanocytes and may lead to the development of melanoma, highlighting the need for new skin protection strategies. This study assessed the effect of phytocannabinoids [cannabigerol (CBG), cannabidiol (CBD), and CBG + CBD] on redox homeostasis in control and UVA-exposed melanocytes and in melanoma cells (SK-Mel-5). UVA radiation increased the activity of prooxidant enzymes in both melanocytes and SK-Mel-5 cells and, consequently, the level of reactive oxygen species (ROS) (approx. 2-fold). It also activated nuclear factor erythroid 2 (Nrf2), as reflected by increased expression of heme oxygenase 1 (HO-1) (melanocytes approx. 2-fold; SK-Mel-5 approx. 7-fold). Concomitantly, antioxidant mechanisms were impaired, as demonstrated by reduced superoxide dismutase (SOD1/SOD2) activity and impaired glutathione and thioredoxin function. These changes were accompanied by increased levels of oxidative damage markers (isoprostanes, 4-hydroxynonenal-4-HNE, and 4-HNE-protein adducts) (43-100%) and increased inflammatory signaling, including increased expression of nuclear factor kappa B (NF-κB) subunits (melanocytes: p52 ~2-fold, p65 ~75%; SK-Mel-5: ~4-4.5-fold) and tumor necrosis factor alpha (TNF-α; ~30%). Phytocannabinoid treatment modulated these UVA-induced changes. In SK-Mel-5 cells, phytocannabinoids normalized the activity of prooxidant enzymes and consequently reduced ROS levels (~30%). They also reduced Nrf2 activation and HO-1 expression; however, CBG increased HO-1 level in melanocytes (~25-40%). Furthermore, phytocannabinoids enhanced antioxidant defense by increasing SOD activity, particularly in melanocytes (~10-40%), and restoring the glutathione and thioredoxin systems. Markers of oxidative damage were reduced by approximately 23-37% after treatment. Furthermore, phytocannabinoids attenuated NF-κB activation (p52 ~18-28%, p65 ~25-29% in melanocytes; ~20% in SK-Mel-5), while TNF-α levels remained unchanged. The effects in non-irradiated cells were modest (<15%). These results suggest that phytocannabinoid-mediated modulation of redox balance may stabilize melanocytes exposed to UVA radiation and potentially reduce the risk of neoplastic transformation. However, the observed protective effects in SK-Mel-5 cells require further investigation and detailed molecular analysis.",
+      "year": "2026",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Biernacki Michał",
+        "Gieniusz Ernest",
+        "Gęgotek Agnieszka",
+        "Jaganjac Morana",
+        "Skrzydlewska Elżbieta"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42351996/"
+    }
+  ],
+  "crawled_at": "2026-07-01T22:31:17.599528",
+  "source": "pubmed"
+}

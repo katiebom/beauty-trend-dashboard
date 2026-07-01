@@ -1,0 +1,197 @@
+{
+  "ingredient_id": "ceramide",
+  "name_en": "Ceramide",
+  "name_kr": "세라마이드",
+  "category": "barrier",
+  "query": "\"Ceramide\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42346157",
+      "title": "IL-4/IL-13-Driven Dysregulation of Epidermal Lipid Metabolism in Atopic Dermatitis: An Immunometabolic Link Between Type 2 Inflammation and Barrier Dysfunction.",
+      "abstract": "Atopic dermatitis (AD) is a chronic immune-mediated inflammatory skin disease characterized by a complex and dynamic interplay between immune dysregulation and epidermal barrier dysfunction. Emerging evidence supports an integrated pathogenic model in which immune activation and barrier impairment form a bidirectional and self-reinforcing axis rather than representing separate processes. This review synthesizes current knowledge on the role of IL-4/IL-13-dependent signaling in regulating keratinocyte lipid metabolism and its impact on epidermal barrier integrity. IL-4/IL-13 signaling via the JAK-STAT pathway, particularly STAT6, contributes to keratinocyte dysfunction, resulting in impaired differentiation and coordinated alterations in lipid metabolism, including fatty acid elongation and ceramide synthesis. These cytokine-driven processes disrupt the organization of the stratum corneum lipid matrix, resulting in increased transepidermal water loss, enhanced skin permeability, and susceptibility to microbial colonization, thereby promoting chronic inflammation. Collectively, these findings support the concept that IL-4/IL-13-mediated dysregulation of keratinocyte lipid metabolism may represent an important immunometabolic mechanism linking type 2 inflammation with secondary barrier dysfunction in atopic dermatitis, thereby contributing to disease persistence. Targeting both immune pathways and epidermal lipid homeostasis may represent an effective strategy to restore barrier function and improve clinical outcomes.",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Andrzejczak Klara",
+        "Sternak Agata",
+        "Witkowski Wiktor",
+        "Flak Aleksandra",
+        "Maj Joanna"
+      ],
+      "mesh_terms": [
+        "Dermatitis, Atopic",
+        "Humans",
+        "Lipid Metabolism",
+        "Interleukin-13",
+        "Epidermis",
+        "Interleukin-4",
+        "Animals",
+        "Inflammation",
+        "Keratinocytes",
+        "Signal Transduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42346157/"
+    },
+    {
+      "pmid": "42327467",
+      "title": "Effects of a Moisturizer and Emollient on the Stratum Corneum Assessed by Confocal Raman Spectroscopy in Patients With and Without Atopic Dermatitis: An Assessor-Blinded Prospective Cohort Study.",
+      "abstract": "Atopic dermatitis (AD) is characterized by impaired skin barrier function and reduced moisturizing factors. Moisturizers and emollients restore the barrier through distinct mechanisms, but their longitudinal molecular effects on the stratum corneum (SC) are poorly characterized, particularly in barrier-deficient skin. We assessed the time-dependent effects of a cream-type moisturizer (CM) and petroleum jelly (PJ) on SC molecular composition in adults with and without AD using confocal Raman spectroscopy (CRS).",
+      "year": "2026",
+      "journal": "Health science reports",
+      "authors": [
+        "Fukuda Risa",
+        "Hashimoto Rena",
+        "Pak Kyongsun",
+        "Yasuda Hazuki",
+        "Mochimaru Naoko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42327467/"
+    },
+    {
+      "pmid": "42320792",
+      "title": "Metabolic engineering of Saccharomyces cerevisiae sphingolipid pathways for enhanced phytoceramide production.",
+      "abstract": "Phytoceramides are essential sphingolipids that support skin barrier integrity and hydration, making them valuable for cosmetic and pharmaceutical applications. However, their intricate structures and low natural abundance pose significant challenges for scalable production. Here, we present an integrated metabolic engineering and lipidomics study aimed at enhancing phytoceramide production in Saccharomyces cerevisiae. We implemented three strategies: (i) overexpression of SUR2 (sphinganine C4-hydroxylase) to boost phytosphingolipid formation; (ii) deletion of SCS7 (ceramide α-hydroxylase) to redirect flux toward non-hydroxylated phytoceramides; and (iii) overexpression of ISC1 (inositol phosphosphingolipid phospholipase) to recycle complex sphingolipids into ceramide pools. SUR2 overexpression showed the highest transcript levels, whereas lipidomics revealed that scs7Δ produced the highest phytoceramide enrichment with a 15-fold increase in phytoceramide abundance relative to the wild type. In terms of relative abundance within the quantified ceramide pool, phytoceramides increased from 5% in wild type to 46% in the SUR2-OE strain and 75% in the scs7Δ strain. The combined scs7Δ SUR2-OE strain did not exhibit additive metabolic effects on the lipid profile. The presence of residual hydroxylated ceramides indicated intrinsic regulatory constraints, aligning with the bypass mechanism proposed here whereby ceramide synthases can use pre-hydroxylated acyl-CoA. Importantly, this work contributes a comprehensive lipidomic profiling of S. cerevisiae, enabling clear discrimination between engineered and wild type strains and identification of genotypes exerting the greatest impact on phytoceramide accumulation. This approach advances sphingolipid pathway modulation and positions S. cerevisiae as a valuable model for studying phytoceramide-focused remodeling.",
+      "year": "2026",
+      "journal": "New biotechnology",
+      "authors": [
+        "Guixeras-Carreras Jordi",
+        "Caballé Marc",
+        "Leivar Pablo",
+        "De Mey Marjan",
+        "Planas Antoni"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42320792/"
+    },
+    {
+      "pmid": "42320369",
+      "title": "Oral ceramide attenuates ultraviolet Binduced epidermal dysregulation and hyperpigmentation by modulating MITF signaling and barrier-related pathways.",
+      "abstract": "Ultraviolet B (UVB) irradiation induces epidermal dysregulation characterized by hyperpigmentation, barrier dysfunction, and abnormal keratinocyte differentiation, contributing to photoaging and skin disorders. Ceramides are key structural lipids of the stratum corneum and are widely used as topical agents to support barrier integrity. However, the role of oral ceramide in UVB-induced skin damage remains unclear. In this study, we investigated whether oral ceramide administration attenuates UVB-induced skin alterations in HRM-2 hairless mice. Mice were repeatedly exposed to UVB and orally administered ceramide (2.5 or 7.5 mg/kg/day). UVB exposure increased dorsal skin pigmentation, epidermal thickness, microphthalmia-associated transcription factor (MITF) expression, and melanogenesis-related gene transcription, while tending to reduce skin hydration. Oral ceramide markedly suppressed these changes and enhanced skin moisture content without affecting general health status. Immunofluorescence and reverse transcription-quantitative PCR analyses revealed a reduction in the number of MITF-positive cells and downregulation of Tyrp1, Mc1r, and Mitf. RNA sequencing analysis further demonstrated that ceramide counteracted UVB-induced transcriptional dysregulation by suppressing keratinization pathways and promoting retinoic acid receptor- and wound-healing-associated signaling. These findings indicate that oral ceramide not only reduces melanin synthesis but also promotes the recovery of epidermal homeostasis by modulating melanocyte activity, keratinocyte differentiation, and barrier function. Accordingly, oral ceramide attenuates UVB-induced skin pigmentation by suppressing MITF-dependent melanogenesis and restoring skin homeostasis, highlighting its potential as a therapeutic agent for photodamage-associated skin disorders.",
+      "year": "2026",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "authors": [
+        "Zang Liqing",
+        "Kagotani Kazuhiro",
+        "Hayakawa Takuya",
+        "Kagawa Tatsuki",
+        "Fujimoto Yuki"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42320369/"
+    },
+    {
+      "pmid": "42310852",
+      "title": "Effects of Selective Sphingosine-1-Phosphate Receptor 1 Agonist, TRV045, on Evoked Pain Tests: An Exploratory, Four-Way Cross-Over Study in Healthy Volunteers.",
+      "abstract": "Preclinical evidence suggests that dysregulation of the ceramide-sphingosine-1-phosphate (S1P) axis may have analgesic properties. However, currently approved S1PR1 modulators such as fingolimod are hindered for this indication as they induce lymphopenia. The aim of the current study was to evaluate whether the novel, selective S1PR1 agonist TRV045 has analgesic effects in a validated evoked pain test battery in healthy volunteers.",
+      "year": "2026",
+      "journal": "European journal of pain (London, England)",
+      "authors": [
+        "Bakker Wouter A",
+        "Eijsvogel P",
+        "Klaassen Erica S",
+        "Kim Jessica",
+        "Chen Ruihua"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Cross-Over Studies",
+        "Adult",
+        "Double-Blind Method",
+        "Young Adult",
+        "Pain Measurement",
+        "Analgesics",
+        "Sphingosine-1-Phosphate Receptors"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42310852/"
+    },
+    {
+      "pmid": "42297314",
+      "title": "Development of rutin-loaded cerosomes for topical photoprotection and skin barrier modulation.",
+      "abstract": "Xeroderma pigmentosum (XP) is a rare DNA-repair disorder associated with extreme photosensitivity, high skin cancer risk, progressive xerosis and barrier dysfunction. Current management relies largely on strict photoprotection, which does not address impaired hydration and epidermal barrier integrity. This work developed cerosomes (ceramide-containing vesicular systems) as multifunctional topical carriers combining barrier-replenishing ceramides with rutin as an antioxidant/photoprotective agent. Box-Behnken design was applied to optimize rutin-loaded cerosomes by evaluating phospholipid concentration, Tween®80:phospholipid ratio and ceramide concentration on the physicochemical properties. The optimized Tween® 80 formulation showed suitable attributes for topical delivery, with vesicle size <300 nm, polydispersity index <0.3, zeta potential <-30 mV, association efficiency >50% and loading capacity ∼0.8% but these were not maintained after 30 days at room-temperature. Surfactant substitution with Pluronic® F-127 or sodium deoxycholate improved storage stability up to 60 days, while rutin release was complete within 6 h and followed Fickian diffusion. In HaCaT keratinocytes, rutin-loaded cerosomes were cytocompatible up to 50-100 μM, while unloaded systems were more cytotoxic, suggesting a protective role of rutin. In vitro photoprotection assays showed that Pluronic®-stabilized cerosomes increased SPF to 40 vs 25 obtained with blank sunscreen, and improved photostability up to 60 min of simulated UV exposure. Barrier-related performance was supported by film-forming/occlusive effects, as well as modulation of water loss and theophylline permeation across artificial membranes and intact/damaged skin models. These findings support rutin-loaded cerosomes as a promising nanoplatform for combined photoprotection and barrier-oriented care in XP.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Vieira João",
+        "Júlio Ana",
+        "Hrdinová Iva",
+        "Kováčik Andrej",
+        "Vávrová Kateřina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42297314/"
+    },
+    {
+      "pmid": "42270730",
+      "title": "Non-invasive characterization of the relationship between skin microrelief and dermal-epidermal junction topography using line-field confocal optical coherence tomography (LC-OCT).",
+      "abstract": "Non-invasive technologies for observing internal skin structures without damaging the surface have advanced in recent years. However, an integrated understanding of internal structures together with the morphology of surface \"microrelief\"-the surface pattern consisting of furrows and ridges (i.e., sulci cutis and cristae cutis)-remains limited. We elucidated the relationship between internal skin structure and microrelief by combining line-field confocal optical coherence tomography (LC-OCT) with a proprietary AI system. We applied a semantic segmentation-based image AI system to LC-OCT data from 11 adults. The system extracted the coordinates of sulci cutis, stratum corneum thickness, viable epidermal thickness, and dermal-epidermal junction (DEJ) topography. The analysis revealed that the skin surface and DEJ in sulci cutis were nearly parallel. The DEJ undulation index in cristae cutis correlated with epidermal thickness, stratum corneum multilayering rate, and ceramide subclass parameters. We verified the relationship between the skin surface and the DEJ structure by incorporating positional information of the microrelief. LC-OCT combined with AI-based analysis provides a non-invasive approach to link age-related changes in DEJ structure with alterations in microrelief and related biomarkers.",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Uda Ken",
+        "Iwami Kazuchika",
+        "Yoshida Naoko",
+        "Homma Toshiyuki"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42270730/"
+    },
+    {
+      "pmid": "42250632",
+      "title": "The impact of avobenzone and oxybenzone on fibroblast and keratinocyte membranes. Searching for the role of lipids in the effect of UV filters on skin cells.",
+      "abstract": "In this work, the effects of two UV filters - avobenzone and oxybenzone - on the membranes of fibroblasts and keratinocytes in ex vivo model systems (Langmuir monolayers) and cell line experiments were examined. The goal of these studies was to analyze the significance of lipid structures in the mechanism of UV filter-induced toxicity to skin cells. Monolayers composed of lipids characteristic of mammalian cell membranes - namely phosphatidylcholine (SOPC), sphingomyelin (SM), cholesterol (Chol) and ceramides (Ceramide 22 and Ceramide 17) - were used as model systems. Both mixed monolayers mimicking fibroblast and keratinocyte membranes and one-component lipid films were investigated. The surface pressure/area measurements and penetration studies were done, and Brewster angle microscopy was applied to verify the morphology of the studied systems. It was found that avobenzone has a stronger impact on molecular organization of skin cell model membranes than oxybenzone; however, its effect is concentration-limited. Both UV filters exhibited stronger affinity to Chol, SM and SOPC monolayers than to ceramides, which are the lipids characteristic for skin cells. Therefore, it can be suggested that ceramides may hinder the penetration of UV filter molecules into the interior of skin cells. Cell line model studied with SEM microscopy suggested that UV filters alter the skin cell membrane. Finally, it was summarized that the mechanism of UV filter toxicity is complex, but one of its important elements is the impact on the organization of lipid structures.",
+      "year": "2026",
+      "journal": "Chemistry and physics of lipids",
+      "authors": [
+        "Wyżga Beata",
+        "Olechowska Karolina",
+        "Kamiński Kamil",
+        "Hąc-Wydro Katarzyna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42250632/"
+    },
+    {
+      "pmid": "42225610",
+      "title": "Skin health in oncology: evidence-based skin care for cancer patients.",
+      "abstract": "Cancer and its treatments frequently compromise skin integrity, leading to xerosis, pruritus, dermatitis, radiation-induced skin damage, and secondary infections. These cutaneous adverse events (cAEs) are not merely superficial; they profoundly impact patient quality of life (QoL), contributing to physical discomfort, psychosocial distress, and poorer treatment adherence. Even mild skin toxicities elevate dermatology-specific QoL measures, affecting mood and social function. Additionally, new targeted therapies, such as daraxonrasib-a KRAS inhibitor under development for pancreatic cancer-can cause a dose-limiting acneiform facial rash.",
+      "year": "2026",
+      "journal": "The oncologist",
+      "authors": [
+        "Kaminsky Alexander",
+        "Suhl Sara",
+        "Sacknovitz Yoni",
+        "Schwartz Gary K",
+        "Deverapalli Sandhya"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Care",
+        "Quality of Life",
+        "Neoplasms"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42225610/"
+    },
+    {
+      "pmid": "42222691",
+      "title": "Sensoriality of emollient creams: can sensory experience compromise blinding in trials?",
+      "abstract": "Regular application of emollients, particularly those that enhance the skin's acid mantle and promote ceramide production, can help restore skin barrier integrity, reduce inflammation and prevent disease flares. These emollients not only protect the skin, but also modulate on the skin microbiome, which has become a cornerstone in disease management. Sensory properties, such as texture, appearance and the sensation of freshness, are critical factors influencing patient perception, treatment adherence and product efficacy.",
+      "year": "2026",
+      "journal": "Skin health and disease",
+      "authors": [
+        "L'Orphelin Jean-Matthieu",
+        "Morice Cécile",
+        "Gardères Johan",
+        "Chopin Sylvie",
+        "Lucas Céline"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42222691/"
+    }
+  ],
+  "crawled_at": "2026-07-01T22:31:08.943591",
+  "source": "pubmed"
+}
