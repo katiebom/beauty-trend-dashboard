@@ -1,0 +1,185 @@
+{
+  "ingredient_id": "retinol",
+  "name_en": "Retinol",
+  "name_kr": "레티놀",
+  "category": "retinoid",
+  "query": "\"Retinol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42376007",
+      "title": "Key molecular networks underlying retinol's biphasic effects on cell proliferation through multi-omics integrative analysis using genome-scale metabolic modeling.",
+      "abstract": "Retinol is widely used in skin anti-aging, yet its effects exhibit significant concentration dependence. However, the underlying biphasic mechanism, that is low concentrations promote cell proliferation while high concentrations are inhibitory, remains incompletely understood. Here, we employed multi-omics analysis and genome-scale metabolic models (GEMs) to systematically infer the key molecular networks underlying the distinct effects of retinol concentrations on human foreskin fibroblasts (HFFs). Our results suggest that low retinol concentrations appear to promote proliferation by activating the canonical retinoic acid signaling pathway and inducing sophisticated metabolic reprogramming. This reprogramming appears to involve prioritizing the coenzyme NADPH for retinol processing and antioxidant defense, which is associated with a compensatory suppression of NADPH-consuming cholesterol biosynthesis. This metabolic shift may foster a favorable intracellular environment for growth. Conversely, high concentrations are linked to a multi-system injury cascade. The observed key feature likely involves significant oxidative stress, associated with the buildup of toxic metabolic intermediates and a pro-inflammatory lipid storm marked by elevated leukotrienes. These stress responses align with the signatures of ferroptosis, a form of programmed cell death characterized by glutathione (GSH) defense system collapse and downregulation of the key regulator ",
+      "year": "2027",
+      "journal": "Synthetic and systems biotechnology",
+      "authors": [
+        "He Peishuang",
+        "Xiang Guangming",
+        "Yan Yizhen",
+        "Zhong Jiangming",
+        "Liang Yuting"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42376007/"
+    },
+    {
+      "pmid": "42359775",
+      "title": "Blue light exposure exacerbates Western diet-induced hepatic lipid accumulation and injury ",
+      "abstract": "Excessive exposure to artificial blue light has been associated with circadian disruption and metabolic disorders; however, its role in hepatic lipid metabolism under dietary stress remains poorly defined. This study investigated how blue light exposure modulates Western diet-induced nonalcoholic fatty liver disease (NAFLD) and the underlying molecular mechanisms involving the NR1D1-SIRT1 metabolic axis. Male C57BL/6J mice were fed either a control or Western diet and exposed to blue light or sham illumination for 12 weeks. Hepatic morphology was evaluated by hematoxylin-eosin and Masson's trichrome staining, whereas macrophage infiltration and expression of NR1D1 and SIRT1 were assessed by immunohistochemistry. Untargeted LC-TOFMS-based metabolomic profiling and pathway enrichment analysis were conducted to characterize global metabolic alterations across experimental groups. The results showed that blue light exposure markedly aggravated Western diet-induced hepatic steatosis, ballooning, and lobular inflammation without evidence of fibrosis. Immunohistochemical staining revealed increased F4/80 positive macrophages and downregulation of NR1D1 and SIRT1 in blue light exposed, Western diet-fed (WDBL) mice, suggesting impaired mitochondrial homeostasis. Metabolomic profiling identified 113 hepatic metabolites, revealing distinct clustering by diet and light exposure. Blue light synergistically amplified Western diet-driven accumulation of long-chain and unsaturated acylcarnitines and polyunsaturated fatty acids, indicative of incomplete β-oxidation and oxidative lipid remodeling. Pathway enrichment analysis highlighted disruptions in glycerophospholipid, sphingolipid and bile acid metabolism, accompanied by reduced antioxidant cofactors (retinol and tocopherols). In conclusion, chronic blue light exposure accelerates Western diet-induced NAFLD progression by suppressing the SIRT1-NR1D1 axis, disrupting mitochondrial lipid oxidation, and promoting redox imbalance and macrophage-mediated inflammation. These findings identify environmental blue light as a metabolic stressor that synergizes with dietary lipid overload to drive hepatic injury, offering new mechanistic insight into light-associated metabolic liver disease.",
+      "year": "2026",
+      "journal": "The Analyst",
+      "authors": [
+        "Chang Shu-Jyuan",
+        "Chen Wan-Tzu",
+        "Chen Yi-Ting",
+        "Yu Sebastian",
+        "Yu Hsin-Su"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359775/"
+    },
+    {
+      "pmid": "42357324",
+      "title": "Different Retinoid Micellar Formulations on Wound Healing: Efficacy and Collagen Structure.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Oluwole David O",
+        "Lees Robert",
+        "Banerjee Sneha",
+        "Buchanan Will",
+        "Liu Lian X"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42357324/"
+    },
+    {
+      "pmid": "42355603",
+      "title": "An Innovative Dendrimer-Based Retinol Delivery System for Xerosis Care: Stability, Tolerance, and Sustained Hydration.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Belhadj-Tahar Hafid",
+        "Naidja Lamri"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42355603/"
+    },
+    {
+      "pmid": "42332430",
+      "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
+      "abstract": "Bakuchiol was initially introduced as a functional alternative to retinol based on its ability to modulate gene expression associated with skin aging. Since that initial characterization, a substantial body of evidence has emerged, supporting a broader and more integrated biological role. This narrative review critically evaluates current genomic, mechanistic and clinical data to reassess bakuchiol within dermatological science, focusing on its functional convergence with retinol and its divergence into coordinated modulation of interconnected pathways in skin biology. Gene expression and protein-level analyses demonstrate significant overlap with retinol in the regulation of extracellular matrix remodelling, epidermal differentiation and barrier function, supporting its classification as a retinol-like functional compound. However, mechanistic studies reveal distinct and complementary modes of action, including activation of Nrf2-mediated cytoprotective pathways, selective upregulation of antioxidant enzymes such as NQO1, modulation of inflammatory and melanogenic signalling networks, regulation of endocannabinoid signalling involved in epidermal homeostasis and direct engagement of mitochondrial regulatory complexes. Bakuchiol also influences retinoid transport and metabolism, including upregulation of LRAT, suggesting enhancement of endogenous retinoid activity without direct receptor activation. These effects extend to activation of conserved longevity-associated pathways, including FOXO3 signalling, supported by in vivo evidence from Caenorhabditis elegans models. Clinical studies consistently demonstrate improvements in photoaging, pigmentation and overall skin quality, with superior tolerability relative to retinol. Collectively, these findings position bakuchiol not merely as a retinol alternative, but as a systems-level bioactive that coordinates multiple regulatory networks governing skin resilience, repair and ageing.",
+      "year": "2026",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Chaudhuri Ratan K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42332430/"
+    },
+    {
+      "pmid": "42328332",
+      "title": "SAPHO Syndrome Presenting With Severe Inflammatory Back Pain (Sacroiliitis) and Rare Retinol Associated Myopathy in an Iraqi Adolescent Male: A Case Report and Literature Review.",
+      "abstract": "SAPHO syndrome is a rare autoinflammatory disorder characterized by synovitis, acne, pustulosis, hyperostosis, and osteitis. Although musculoskeletal and dermatologic manifestations are well recognized, extra-articular involvement remains uncommon, particularly muscular inflammation. We report the case of a 17-year-old male who presented with severe inflammatory low back pain and extensive nodulocystic acne for which he took escalating doses of isotretinoin. Clinical examination demonstrated positive sacroiliac stress tests, proximal muscle myopathy, and dermatologic evaluation confirmed acne conglobata. Laboratory testing revealed markedly elevated inflammatory markers. Magnetic resonance imaging of the sacroiliac joints showed bilateral asymmetric active sacroiliitis, fulfilling clinical criteria for Axial Spondyloarthritis. The infectious and autoimmune workup was negative. The patient responded favorably to isotretinoin withdrawal and immunosuppressive therapy, with sustained remission following steroid withdrawal. This case describes a rare and severe isotretinoin-associated inflammatory myopathy in SAPHO syndrome, highlighting the need to expand the differential diagnosis of myopathy in SAPHO syndrome. It is imperative to exercise caution when prescribing isotretinoin to patients with SAPHO syndrome.",
+      "year": "2026",
+      "journal": "Clinical case reports",
+      "authors": [
+        "Mahdi Farah Jaafar",
+        "Al-Shammari Ali Saad",
+        "Hameed Mustafa Majid",
+        "Ahmed Marwah Sami",
+        "Khalil Ibrahim"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42328332/"
+    },
+    {
+      "pmid": "42246630",
+      "title": "Retinol-Loaded Mannosylerythritol Lipid Nanoliposome for Enhanced Human Skin Penetration.",
+      "abstract": "Functional cosmetic materials with anti-aging properties, such as wrinkle reduction, often struggle to penetrate the skin's stratum corneum (skin barrier). Therefore, to exert anti-aging effects, these materials must pass through the skin barrier and reach fibroblasts in the dermal layer. In this study, deformable liposomes were developed for efficient transdermal delivery of retinol, a well-known anti-wrinkle agent.",
+      "year": "2026",
+      "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+      "authors": [
+        "Park Han-Woong",
+        "Yoo Dae-Sung",
+        "Jeong Chan Jin",
+        "Park Soo Nam"
+      ],
+      "mesh_terms": [
+        "Vitamin A",
+        "Liposomes",
+        "Humans",
+        "Skin Absorption",
+        "Administration, Cutaneous",
+        "Glycolipids",
+        "Skin",
+        "Particle Size",
+        "Skin Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42246630/"
+    },
+    {
+      "pmid": "42235053",
+      "title": "A Novel Retinoid and Salicylic Acid Topical Treatment for Moderate-Severe Acne.",
+      "abstract": "Advances in biotechnology have enabled highly effective, site-specific topical therapies for skin disease. Particle-based delivery systems can be engineered with tailored physicochemical properties and surface modifications to optimize controlled drug release and skin targeting, potentially improving acne treatment outcomes.",
+      "year": "2026",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Hornby Sidney B",
+        "Ly Yen H",
+        "Obagi Zaidal A",
+        "Obagi Zein E",
+        "Stahl Connie C"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acne Vulgaris",
+        "Salicylic Acid",
+        "Treatment Outcome",
+        "Administration, Cutaneous",
+        "Severity of Illness Index",
+        "Female",
+        "Adolescent",
+        "Young Adult",
+        "Adult"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42235053/"
+    },
+    {
+      "pmid": "42206438",
+      "title": "Effectiveness and safety of topical L-ascorbic acid 15% serum compared to retinol 0.1% serum for skin aging: a double-blind randomized controlled trial study.",
+      "abstract": "Aging is characterized by a progressive decline in physiological functions, including skin integrity and regeneration, with visible signs of skin aging typically emerging from the fourth decade of life onward. Extrinsic factors can accelerate this process. Retinoic acid has long been used as a standard anti-aging treatment, although it is associated with various side effects. L-ascorbic acid (LAA) 15% serum has emerged as a potential alternative with minimal side effects, yet its efficacy and safety in comparison to retinol 0.1% serum remain insufficiently studied. This double-blind, split-face, randomized clinical trial aimed to evaluate the effectiveness and safety of LAA relative to retinol in treating skin aging. Using the modified Dermoscopy Photo Aging Scale (DPAS) and JANUS-III, assessments were conducted on participants' cheeks. Results indicated significant improvements in both the LAA and retinol groups at weeks 2 and 4. However, no statistically significant differences were observed between the two interventions at these time points. Both treatments demonstrated similar safety profiles, suggesting that LAA is as effective and safe as retinol for anti-aging therapy.",
+      "year": "2026",
+      "journal": "Dermatology reports",
+      "authors": [
+        "Gunardi Keiko Yolanda",
+        "Novianto Endi",
+        "Agustin Triana",
+        "Friska Dewi",
+        "Rahmayunitha Githa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42206438/"
+    },
+    {
+      "pmid": "42094960",
+      "title": null,
+      "abstract": null,
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Kulangara Shyamasundaran",
+        "S Shashank K",
+        "Mohanan Deepu",
+        "Viswaroopan Deepthi",
+        "Reshma N S"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42094960/"
+    }
+  ],
+  "crawled_at": "2026-07-03T22:12:03.595398",
+  "source": "pubmed"
+}

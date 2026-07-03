@@ -1,0 +1,226 @@
+{
+  "ingredient_id": "resveratrol",
+  "name_en": "Resveratrol",
+  "name_kr": "레스베라트롤",
+  "category": "anti_aging",
+  "query": "\"Resveratrol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42392196",
+      "title": "Metabolic engineering of Escherichia coli for resveratrol production using food-grade D-xylose as a carbon source.",
+      "abstract": "Resveratrol is a high-value polyphenolic compound widely utilized in nutraceutical, cosmetic, and pharmaceutical applications. However, most microbial production systems rely on glucose as the primary carbon source, which limits flexibility for integrating alternative and renewable feedstocks. In this study, we developed an engineered Escherichia coli platform to investigate resveratrol biosynthesis under xylose-supporting conditions, using food-grade D-xylose as the carbon source. A heterologous pathway consisting of Populus tomentosa 4-coumarate: CoA ligase (Pt4CL) and Arachis hypogaea stilbene synthase (AhSTS) was introduced to convert externally supplied p-coumaric acid (PCA) into resveratrol. To improve precursor availability, intracellular malonyl-CoA supply was enhanced by introducing matB and matC from Streptomyces coelicolor A3(2) and overexpressing the acetyl-CoA carboxylase complex (ACC) from E. coli. Xylose assimilation was further strengthened by expressing xylE, xylA, and xylB, while carbon catabolite repression was alleviated using CRISPR interference (CRISPRi) targeting the glucose transporter gene ptsG. Under shake-flask conditions, the engineered strain produced up to 23.9 mg/L resveratrol from food-grade D-xylose, accompanied by near-complete xylose consumption and 93-94% precursor conversion. This corresponded to an overall fermentation yield of approximately 12.5 mg resveratrol per g xylose consumed. Similar titers (27 mg/L) were obtained in a 5-L bioreactor, indicating stable pathway performance under controlled fermentation conditions. Overall, these results show that E. coli can be engineered to support efficient precursor-to-product conversion under xylose-supported conditions, providing a useful proof-of-concept framework for integrating alternative carbon sources into microbial production platforms for aromatic compounds.",
+      "year": "2026",
+      "journal": "Journal of industrial microbiology & biotechnology",
+      "authors": [
+        "Nguyen Huy Quang",
+        "Nguyen Hoa An Thi",
+        "Chu Luan Luong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392196/"
+    },
+    {
+      "pmid": "42365115",
+      "title": "Resveratrol-loaded novasomal gel for sustained dermal delivery against monobenzone-induced vitiligo-like depigmentation in black chicks.",
+      "abstract": "Vitiligo is a multifactorial depigmenting disorder characterized by melanocyte loss, oxidative stress, and impaired melanogenesis. Resveratrol (RVT) exhibits potent antioxidant and cytoprotective properties; however, its topical application is limited by its poor cutaneous penetration, rapid degradation, and limited local bioavilability. To overcome these limitations, we developed a resveratrol-loaded novasomal formulation (RVT-NVS) and evaluated its physicochemical properties, in vitro release behavior, repigmentation efficacy in a 40% monobenzone (MZ)-induced vitiligo-like depigmentation model in black chicks. Dermal tolerability was additionally assessed in rats. RVT-NVS exhibited nanoscale vesicles with an average size of 386 nm, a a relatively narrow size distribution (PDI = 0.31), high entrapment efficiency of 79%, and a negative zeta potential of - 37 mV. The RVT-NVS gel showed sustained RVT release over 12 h compared with the free RVT gel. MZ induced marked depigmentation, hematological alterations, reduced body weight gain, histopathological skin damage, reduced tyrosinase immunoreactivity, and altered behavioral readouts. RVT-NVS significantly improved visible repigmentation, normalized hematological parameters, improved body weight gain, preserved epidermal and feather follicle architecture, and restored tyrosinase-positive melanocyte-associated staining more effectively than free RVT, blank nanovehicle, or natural composite formulations. RVT-NVS also improved several MZ-associated behavioral readouts, including sweet-solution consumption, locomotor activity, social-response measures, freezing behavior, and tonic immobility duration. Molecular docking suggested possible interactions of RVT with targets related to redox regulation, melanogenesis, inflammation, and apoptosis, with favorable predicted interactions observed for catalase (CAT) and selected melanogenesis-associated targets. These findings suggest that RVT-NVS may represent a promising nanoscale topical delivery system for chemically induced oxidative melanocyte injury and vitiligo-like depigmentation.",
+      "year": "2026",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": [
+        "El-Ela Fatma I Abo",
+        "Eid Hussein M",
+        "Hassan Walid Hamdy",
+        "Ragab Ibrahim Rasha",
+        "Abdel-Razik Abdel-Razik H"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42365115/"
+    },
+    {
+      "pmid": "42305447",
+      "title": "Integrated transcriptomics identifies HIF1A and GSTP1 as biomarkers for cutaneous squamous cell carcinoma.",
+      "abstract": "Cutaneous squamous cell carcinoma (cSCC) is one of the most common skin malignancies with limited reliable biomarkers for early detection and prognosis. This study integrated bulk and single‑cell transcriptomic data to identify post‑translational modification-related key genes and to characterise cellular and immune alterations in cSCC.",
+      "year": "2026",
+      "journal": "Translational cancer research",
+      "authors": [
+        "Li Wenting",
+        "Xu Tao",
+        "Ding Yu",
+        "Chen Jianghan",
+        "Yao Guotai"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42305447/"
+    },
+    {
+      "pmid": "42273775",
+      "title": "Resveratrol may mitigate the proliferation and migration of hypertrophic scars ",
+      "abstract": "Hypertrophic scars (HS) represent a common complication arising from abnormal wound healing following skin injury. Resveratrol and microRNA (miRNA) have been implicated in the formation of HS. However, the precise mechanism by which resveratrol modulates hypertrophic scarring through miRNA regulation remains unclear.Investigating the potential functional effects and molecular mechanisms of resveratrol in HS.RT-qPCR was employed to detect the levels of miR-1290 and ADAMTS8. The targeted binding relationship between miR-1290 and ADAMTS8 was validated through dual luciferase reporter assays and RIP experiments. Cell proliferation, migration capacity, and inflammatory cytokine (IL-1β, IL-6) secretion levels were assessed using CCK-8 assays, Transwell migration assays, and ELISA.MiR-1290 was overexpressed in HS tissue and HSFB cells, whereas ADAMTS8 levels were markedly downregulated, exhibiting a negative correlation between the two. Resveratrol concentration-dependently inhibited miR-1290 levels and upregulated ADAMTS8 levels. ADAMTS8 may represent a direct target gene of miR-1290. Resveratrol may suppress the proliferation, migration, inflammatory cytokine levels, and fibrosis marker levels in HSFB cells. Overexpression of miR-1290 partially reversed the effects of resveratrol, whilst overexpression of ADAMTS8 suppressed the actions induced by miR-1290.Resveratrol may suppress the malignant phenotype of HSFB cells by regulating the miR-1290/ADAMTS8 axis.",
+      "year": "2026",
+      "journal": "Xenobiotica; the fate of foreign compounds in biological systems",
+      "authors": [
+        "Ren Yule",
+        "Han Zehua",
+        "Zhou Xiaocheng"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "MicroRNAs",
+        "Cell Proliferation",
+        "Humans",
+        "Cicatrix, Hypertrophic",
+        "Cell Movement",
+        "ADAMTS Proteins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42273775/"
+    },
+    {
+      "pmid": "42270939",
+      "title": "Development of Resveratrol/Curcumin Dual-Loaded Chitosan/Sericin Hydrogel Films for Wound Healing: A Comparison Of Shrimp- and Crab-Sourced Chitosan.",
+      "abstract": "This study reports the formulation and comparative evaluation of resveratrol and curcumin dual-loaded chitosan-based wound-healing films prepared from shrimp-derived chitosan (Shrimp-CTS, ~ 80 kDa, degree of deacetylation of ~ 95%) and crab-derived chitosan (Crab-CTS, ~ 100 kDa, degree of deacetylation of ~ 85%). The film was prepared by crosslinking reaction of chitosan and glutaraldehyde, and the influence of chitosan origin on film structure, swelling, drug release, skin permeability, and in vivo wound healing was investigated. Morphological analyses revealed that shrimp-CTS-films possessed heterogeneous surfaces, whereas crab-CTS-films exhibited smoother surfaces. Swelling studies showed that shrimp-CTS-films displayed a burst swelling, reaching 75-85% swelling within 30-60 min, while the crab-CTS-films exhibited sustained swelling, progressively increasing to ~ 100% after 240 min. All drug release profiles followed biphasic kinetics (a burst release phase and a sustained phase) and fitted well to the Korsmeyer-Peppas model (R",
+      "year": "2026",
+      "journal": "AAPS PharmSciTech",
+      "authors": [
+        "Thuy Bui Thi Phuong",
+        "Ha Phuong T M",
+        "Quyen Nguyen Thi Ngoc",
+        "Ngan Nguyen Thi Kim",
+        "Nguyen Ngoc Yen"
+      ],
+      "mesh_terms": [
+        "Chitosan",
+        "Wound Healing",
+        "Animals",
+        "Curcumin",
+        "Resveratrol",
+        "Hydrogels",
+        "Drug Liberation",
+        "Brachyura",
+        "Swine",
+        "Permeability"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42270939/"
+    },
+    {
+      "pmid": "42219757",
+      "title": "Changes in Cancer Stem Cell Signalling Pathways With Plant Metabolites to Discover Chemotherapy.",
+      "abstract": "Cancer stem cells (CSCs) are metabolically different from differentiated tumour cells, which are known as bulk cells. In this communication, we discuss the metabolic and biological differences between bulk tumour cells and CSCs. We further aim to discuss how plant metabolites can reorchestrate CSC signalling pathways, pushing these metabolically precarious cells towards differentiation and cell death. We delineate how plant metabolites curcumin, resveratrol, epigallocatechin gallate (EGCG) and genistein alter signaling in CSCs. The chemotherapeutic and chemopreventive potential of plant metabolites is also discussed, along with an analysis of how this field is going to progress with reference to drug discovery.",
+      "year": "2026",
+      "journal": "Chemistry & biodiversity",
+      "authors": [
+        "Rizvi Asim",
+        "Farhan Mohd",
+        "Ahmad Aamir",
+        "Aatif Mohammad"
+      ],
+      "mesh_terms": [
+        "Neoplastic Stem Cells",
+        "Humans",
+        "Signal Transduction",
+        "Plants",
+        "Antineoplastic Agents, Phytogenic",
+        "Resveratrol",
+        "Drug Discovery",
+        "Catechin",
+        "Curcumin",
+        "Genistein"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219757/"
+    },
+    {
+      "pmid": "42219068",
+      "title": "Smilacis Chinae Rhizoma ethyl acetate fraction alleviates IMQ-induced psoriasis by inhibiting IL-17-driven T-cell immune responses.",
+      "abstract": "Smilacis Chinae Rhizoma (SCR), derived from the rhizome of Smilax china L., has long been utilized in traditional Chinese medicine for the treatment of inflammatory dermatological disorders, including cutaneous abscesses.",
+      "year": "2026",
+      "journal": "Journal of ethnopharmacology",
+      "authors": [
+        "Wang Yingying",
+        "Wei Feng",
+        "Guo Yingxue",
+        "Tang Shuiyan",
+        "Zhang Houwen"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Psoriasis",
+        "Interleukin-17",
+        "Imiquimod",
+        "Molecular Docking Simulation",
+        "Acetates",
+        "Male",
+        "Rhizome",
+        "Smilax",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219068/"
+    },
+    {
+      "pmid": "42210580",
+      "title": "Self-Powered Piezoelectric Nanofibrous Hydrogel for Synergistic Electro-Pharmacological Therapy of Chronic Wounds.",
+      "abstract": "Chronic wounds such as diabetic foot ulcers and burns pose clinical challenges due to persistent inflammation and impaired endogenous bioelectric signaling. Here, we report a self-powered piezoelectric nanofibrous hydrogel for synergistic electro-pharmacological therapy, fabricated via dual-nozzle electrospinning and Ca",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Wang Baoyu",
+        "Wang Yuting",
+        "Li Meiying",
+        "Wan Chubin",
+        "Ju Xin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210580/"
+    },
+    {
+      "pmid": "42206507",
+      "title": "Design and evaluation of multi-target AGEs/ALEs inhibitors for potential application in skin anti-aging.",
+      "abstract": "The main causes of skin aging include both intrinsic and extrinsic factors such as oxidative stress triggered by reactive oxygen species (ROS), modification of collagen and elastin by reactive carbonyl species (RCS), UV exposure, lifestyle habits and environmental pollutants. Skin aging is the most visible manifestation of senescence and is unavoidable. In particular, delaying age-related changes in facial appearance is a key objective for older adults. To address this issue, naturally occurring compounds including vitamin C, vitamin E, coenzyme Q10, resveratrol, niacinamide, carnosine, retinols (vitamin A derivatives), and hyaluronic acid are commonly used in commercially available anti-aging skincare products. These compounds are considered to be ROS and RCS scavengers or powerful humectant. This article describes a new multi-targeted anti-aging compounds for skin applications, composed of two functional moieties: one that neutralizes ROS and the other scavenges RCS. These compounds exhibit potent skin anti-aging properties, as demonstrated by their rapid and efficient scavenging of RCS, an ORAC value more than twice that of Trolox, and strong transition-metal-chelating activity.",
+      "year": "2026",
+      "journal": "Future medicinal chemistry",
+      "authors": [
+        "Sasaki N André",
+        "Sonnet Pascal"
+      ],
+      "mesh_terms": [
+        "Skin Aging",
+        "Humans",
+        "Drug Design",
+        "Reactive Oxygen Species",
+        "Animals",
+        "Glycation End Products, Advanced",
+        "Antiglycation Agents",
+        "Antioxidants",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42206507/"
+    },
+    {
+      "pmid": "42188291",
+      "title": "Diatomaceous Earth-Enabled Resveratrol Microemulsion for Enhanced Permeation and Stability.",
+      "abstract": "This study developed a microemulsion system based on diatomaceous earth (DE) for the topical delivery of resveratrol. The microemulsions were prepared using pseudo-ternary phase diagrams. A 4:1 ethanol:virgin coconut oil ratio resulted in a larger microemulsion region than a 3:1 ratio. Two formulations with oil (ethanol:virgin coconut oil, 3:1):Cremophor RH40:water ratios of 1:5:4 (ME1) and 2:5:3 (ME2) were selected for resveratrol loading and subsequently combined with DE at ratios of DE:microemulsion (DE:ME) 0.5:1, 0.5:2, and 0.5:3. The transmission electron microscopy images demonstrated the different microstructures of the microemulsions. Rheological analysis revealed an increase in storage modulus and a decrease in the linear viscoelastic region with increasing DE concentration, particularly in ME1. Differential scanning calorimetry showed disruption of boundary water following DE incorporation. Fourier-transform infrared spectroscopy indicated primarily physical interactions between resveratrol and the DE:ME system. DE:ME demonstrated high resveratrol content, approaching 100%. DE:ME1 0.5:2 significantly enhanced resveratrol permeation, resulting in a 3-fold increase compared with the microemulsion alone after 8 h. DE:ME1 0.5:2 and DE:ME2 0.5:3 enhanced the photostability of resveratrol and the formulations remained stable after storage at 40 °C for 6 months. The DE:ME system maintained its cellular uptake capability, preserved the biological activity of resveratrol, and exhibited low cytotoxicity in human keratinocytes, with cell viability remaining above 70%. These results highlight the potential of DE-based systems for incorporating microemulsions of low-water soluble photo-sensitizing substances in topical drug delivery applications.",
+      "year": "2026",
+      "journal": "Marine drugs",
+      "authors": [
+        "Weerapol Yotsanan",
+        "Manmuan Suwisit",
+        "Yammen Somnathtai",
+        "Werayachankul Thiyapha",
+        "Chaothanaphat Nattaya"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "Emulsions",
+        "Humans",
+        "Drug Stability",
+        "Coconut Oil",
+        "Permeability",
+        "Drug Delivery Systems",
+        "Polyethylene Glycols",
+        "Calorimetry, Differential Scanning",
+        "Rheology"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42188291/"
+    }
+  ],
+  "crawled_at": "2026-07-03T22:12:27.226278",
+  "source": "pubmed"
+}
