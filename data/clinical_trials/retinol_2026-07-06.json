@@ -1,0 +1,830 @@
+{
+  "ingredient_id": "retinol",
+  "name_kr": "레티놀",
+  "name_en": "Retinol",
+  "query": "(\"Retinol\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 26,
+  "trials": [
+    {
+      "nct_id": "NCT06622954",
+      "title": "Dietary Restriction to Prevent Cardiotoxicity in Breast Cancer Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cardiotoxicity",
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Protein- and Calorie restriction"
+        }
+      ],
+      "sponsor": "Erasmus Medical Center",
+      "primary_completion": "2025-05",
+      "url": "https://clinicaltrials.gov/study/NCT06622954"
+    },
+    {
+      "nct_id": "NCT04293224",
+      "title": "Metabolic and Bio-behavioral Effects of Following Recommendations in the Dietary Guidelines for Americans",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity",
+        "Body Weight"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "DGA Mediterranean diet pattern, energy balance"
+        },
+        {
+          "type": "OTHER",
+          "name": "DGA Mediterranean diet pattern, negative energy balance"
+        },
+        {
+          "type": "OTHER",
+          "name": "TAD diet pattern, negative energy balance"
+        }
+      ],
+      "sponsor": "USDA, Western Human Nutrition Research Center",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT04293224"
+    },
+    {
+      "nct_id": "NCT07504822",
+      "title": "Comparative Effectiveness of Clindamycin-Retinoid, Clindamycin-Retinoid-Dexamethasone, and 10% SM-hUCMSC Secretome Gel in the Improvement of Mild-to-Moderate Acne Vulgaris",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acne Vulgaris"
+      ],
+      "interventions": [
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Mediklin TR"
+        },
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Solanum Night Cream"
+        },
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Gel Sekretome SM-hUCMSC 10%"
+        }
+      ],
+      "sponsor": "Yohanes Firmansyah, dr, MH, MM",
+      "primary_completion": "2027-03-18",
+      "url": "https://clinicaltrials.gov/study/NCT07504822"
+    },
+    {
+      "nct_id": "NCT04987073",
+      "title": "Vitamin D Analog in Vitamin D 24-hydroxylase Deficiency",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Idiopathic Infantile Hypercalcemia - Severe Form"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "skin biopsy"
+        }
+      ],
+      "sponsor": "University Hospital, Caen",
+      "primary_completion": "2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT04987073"
+    },
+    {
+      "nct_id": "NCT06880042",
+      "title": "COMPARISON OF EFFICACY AND SAFETY OF NARROWBAND UVB WITH 0.1% TACROLIMUS VS NARROWBAND UVB WITH 0.005% CALCIPOTRIOL IN TREATMENT OF VITILIGO",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Vitiligo - Macular Depigmentation",
+        "Tacrolimus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tacrolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Calcipotriol"
+        }
+      ],
+      "sponsor": "Dr ayesha wahid",
+      "primary_completion": "2025-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06880042"
+    },
+    {
+      "nct_id": "NCT07477275",
+      "title": "Combination of Oral and Topical Whitening Agents for Reducing Skin Pigmentation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dark Spots"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "oral supplement"
+        },
+        {
+          "type": "OTHER",
+          "name": "Retinol serum"
+        }
+      ],
+      "sponsor": "USMARI Research & Innovation Centre",
+      "primary_completion": "2026-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT07477275"
+    },
+    {
+      "nct_id": "NCT06787222",
+      "title": "Effectiveness and Safety of Zingiber Officinale Transdermal Patch for Acne Vulgaris; Study of Interleukin 1 and Skin Microbiome",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acne Vulgaris"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "tretinoin 0.025% + Z. officinale patch"
+        },
+        {
+          "type": "DRUG",
+          "name": "tretinoin 0.025% cream"
+        }
+      ],
+      "sponsor": "Hasanuddin University",
+      "primary_completion": "2025-08-25",
+      "url": "https://clinicaltrials.gov/study/NCT06787222"
+    },
+    {
+      "nct_id": "NCT07014059",
+      "title": "Autologous Serum Obtained by a Closed-Circuit Collection Device",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "GVHD",
+        "Meibomian Gland Dysfunction (Disorder)",
+        "Stevens-Johnson Syndrome",
+        "Limbal Keratoconjunctivitis",
+        "Recurrent Erosions of Persistent Epithelial Defects",
+        "Neurotrophic Ulcer",
+        "Sjogren Syndrome With Keratoconjunctivitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Autologous Serum 20%"
+        }
+      ],
+      "sponsor": "GIANCARLO FATOBENE",
+      "primary_completion": "2026-06-20",
+      "url": "https://clinicaltrials.gov/study/NCT07014059"
+    },
+    {
+      "nct_id": "NCT01239693",
+      "title": "Supplementing Maternal and Infant Diet With High-energy, Micronutrient Fortified Lipid-based Nutrient Supplements (LNS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Infant Malnutrition",
+        "Malnutrition in Pregnancy"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "IFA"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "MMN"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "LNS"
+        }
+      ],
+      "sponsor": "Tampere University",
+      "primary_completion": "2015-04",
+      "url": "https://clinicaltrials.gov/study/NCT01239693"
+    },
+    {
+      "nct_id": "NCT05296304",
+      "title": "A Study of Bexarotene Combined With Radiotherapy in People With Mycosis Fungoides",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cutaneous T-cell Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bexarotene"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Total Skin Electron Beam (TSEB)"
+        }
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "primary_completion": "2027-03",
+      "url": "https://clinicaltrials.gov/study/NCT05296304"
+    },
+    {
+      "nct_id": "NCT07395674",
+      "title": "Subcutaneous Dexpanthenol Administration and Wound Epithelialization",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Wounds",
+        "Diabetic Foot Ulcer",
+        "Venous Leg Ulcers",
+        "Arterial Ulcer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dexpanthenol"
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard Wound Care"
+        }
+      ],
+      "sponsor": "Dilara CANBAY OZDEMIR",
+      "primary_completion": "2028-08-02",
+      "url": "https://clinicaltrials.gov/study/NCT07395674"
+    },
+    {
+      "nct_id": "NCT05362929",
+      "title": "Efficacy and Tolerability of a Hybrid Fractional Laser for the Treatment of Acne Scars in Patients With Skin of Color",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acne Scars - Mixed Atrophic and Hypertrophic",
+        "Hyperpigmentation",
+        "Laser-Induced Hyperpigmentation"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Sciton Halo"
+        }
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT05362929"
+    },
+    {
+      "nct_id": "NCT07597395",
+      "title": "ATRA for Management of Primary ITP",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "all-trans retinoic acid (ATRA)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "primary_completion": "2027-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07597395"
+    },
+    {
+      "nct_id": "NCT07628972",
+      "title": "Quercetin Dyskeratosis Congenita (DC)/Telomere Biology Disorders (TBD)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dyskeratosis Congenita",
+        "Telomere Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Quercetin"
+        }
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "primary_completion": "2028-09",
+      "url": "https://clinicaltrials.gov/study/NCT07628972"
+    },
+    {
+      "nct_id": "NCT04866329",
+      "title": "Female Fertility, Environmental Agents and Stress Oxidant",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Female Infertility"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Blood sample"
+        },
+        {
+          "type": "OTHER",
+          "name": "Urine sample"
+        },
+        {
+          "type": "OTHER",
+          "name": "Follicular fluid and granulosa cells sample"
+        }
+      ],
+      "sponsor": "University Hospital, Tours",
+      "primary_completion": "2026-12-08",
+      "url": "https://clinicaltrials.gov/study/NCT04866329"
+    },
+    {
+      "nct_id": "NCT06465810",
+      "title": "Non-interventional Study of Patients With Transthyretin (ATTR) Amyloidosis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Transthyretin Amyloidosis",
+        "ATTR-CM",
+        "ATTRv-PN",
+        "ATTR",
+        "ATTR-Mixed",
+        "hATTR"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Treatment of transthyretin (ATTR) amyloidosis in observational study setting"
+        }
+      ],
+      "sponsor": "AstraZeneca",
+      "primary_completion": "2031-12-29",
+      "url": "https://clinicaltrials.gov/study/NCT06465810"
+    },
+    {
+      "nct_id": "NCT05366933",
+      "title": "B-Complex: A Nutraceutical SANS Countermeasure",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Optic Disc Edema",
+        "Endothelial Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vitamin B-Complex Supplement"
+        }
+      ],
+      "sponsor": "National Aeronautics and Space Administration (NASA)",
+      "primary_completion": "2027-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT05366933"
+    },
+    {
+      "nct_id": "NCT06560853",
+      "title": "Evaluation of a Comprehensive School Health Programme in Zambia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Helminth Infection",
+        "Malaria",
+        "Schistosomiasis",
+        "Anemia",
+        "UTI",
+        "Diarrhea",
+        "Skin Rash",
+        "Cough"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Comprehensive School Health Programme"
+        },
+        {
+          "type": "OTHER",
+          "name": "Deworming and vitamin A supplementation delivery"
+        }
+      ],
+      "sponsor": "London School of Economics and Political Science",
+      "primary_completion": "2026-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT06560853"
+    },
+    {
+      "nct_id": "NCT05702398",
+      "title": "Pilot Trial of Supplemental Vitamin A and Nicotinamide",
+      "status": "RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Skin Cancer",
+        "Kidney Transplant Recipients"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vitamin A"
+        },
+        {
+          "type": "DRUG",
+          "name": "Nicotinamide"
+        },
+        {
+          "type": "OTHER",
+          "name": "Other: Placebo"
+        }
+      ],
+      "sponsor": "Rhode Island Hospital",
+      "primary_completion": "2028-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT05702398"
+    },
+    {
+      "nct_id": "NCT07191704",
+      "title": "A Study to Assess the Genetic Variations in Bile Flow Disorders: Linking Progressive Familial Intrahepatic Cholestasis (PFIC)-Related Genes to Symptoms in Adults With Recurrent Cholestasis in Spain",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "PFIC - Progressive Familial Intrahepatic Cholestasis"
+      ],
+      "interventions": [],
+      "sponsor": "Ipsen",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT07191704"
+    },
+    {
+      "nct_id": "NCT06715215",
+      "title": "Role of Acute Phase Proteins In Diagnosis of Immune Thrombocytopenia",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenia"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Acute phase proteins"
+        }
+      ],
+      "sponsor": "Sohag University",
+      "primary_completion": "2025-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT06715215"
+    },
+    {
+      "nct_id": "NCT06596122",
+      "title": "Vitamin D Supplementation in Breast Cancer Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Peripheral Neuropathic Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vitamin D (Cholecalciferol )"
+        }
+      ],
+      "sponsor": "Abdelrahman Mahmoud",
+      "primary_completion": "2026-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT06596122"
+    },
+    {
+      "nct_id": "NCT06536881",
+      "title": "Gut Microbiome, Adverse Effects, and Markers Through MEtabolic Reprogramming",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Early-stage Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Fasting"
+        }
+      ],
+      "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "primary_completion": "2028-08",
+      "url": "https://clinicaltrials.gov/study/NCT06536881"
+    },
+    {
+      "nct_id": "NCT07401992",
+      "title": "Effects of Semaglutide on Clinical Outcomes and Metabolic Inflammation in Psoriasis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriasis (PsO)",
+        "Obesity & Overweight",
+        "Diabetes Mellitus - Type 2"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Semaglutide (Rybelsus®)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Hospital Universitario Dr. Jose E. Gonzalez",
+      "primary_completion": "2027-02-28",
+      "url": "https://clinicaltrials.gov/study/NCT07401992"
+    },
+    {
+      "nct_id": "NCT06545110",
+      "title": "Retinol Binding Protein 4 Protein in Alopecia Areata Treated With Barcitinib",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alopecia Areata"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Baricitinib Oral Tablet"
+        }
+      ],
+      "sponsor": "South Valley University",
+      "primary_completion": "2024-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT06545110"
+    },
+    {
+      "nct_id": "NCT07586826",
+      "title": "Romiplostim N01 Plus ATRA for Persistent Isolated Chemotherapy-Induced Thrombocytopenia After Complete Remission of Gynecologic, Breast, or Lung Solid Tumors",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Persistent Isolated Chemotherapy-Induced Thrombocytopenia",
+        "Chemotherapy-Induced Thrombocytopenia",
+        "Gynecologic Cancers",
+        "Ovarian Cancer",
+        "Breast Cancer",
+        "Lung Cancer",
+        "Non-Small Cell Lung Cancer",
+        "Cervical Cancer",
+        "Fallopian Tube Cancer",
+        "Primary Peritoneal Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Romiplostim N01"
+        },
+        {
+          "type": "DRUG",
+          "name": "All-trans retinoic acid"
+        }
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "primary_completion": "2027-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT07586826"
+    },
+    {
+      "nct_id": "NCT06358677",
+      "title": "Topical Tretinoin Prophylaxis for Anti-EGFR Induced Skin Toxicity in Patients With Solid Tumors",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metastatic Solid Tumor",
+        "Locally Advanced Solid Tumor"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Topical Tretinoin"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University of Utah",
+      "primary_completion": "2027-07",
+      "url": "https://clinicaltrials.gov/study/NCT06358677"
+    },
+    {
+      "nct_id": "NCT07457515",
+      "title": "Breastmilk and the Link to Overweight/Obesity and Maternal Diet in the Mother-breastmilk-child Triad",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Body Weight",
+        "Obesity & Overweight",
+        "Human Milk/Breastfeeding",
+        "Body Composition",
+        "Maternal Cardiometabolic Health",
+        "Growth & Development",
+        "Metabolomic Profile",
+        "Infant Body Composition and Metabolism",
+        "Carotenoid Status",
+        "Fatty Acid Status",
+        "Immunologic Markers",
+        "Adipokines",
+        "Inflammation Biomarkers",
+        "Vitamin E"
+      ],
+      "interventions": [],
+      "sponsor": "Warsaw University of Life Sciences",
+      "primary_completion": "2029-02",
+      "url": "https://clinicaltrials.gov/study/NCT07457515"
+    },
+    {
+      "nct_id": "NCT07298564",
+      "title": "Effect of Magnesium and Levocarnitine on Metabolic and Clinical Outcomes in Women With Polycystic Ovarian Syndrome (PCOS)",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Polycystic Ovary Syndrome (PCOS)"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Magnesium 500 mg"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Levocarnitine 1000 mg"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Magnesium 500 mg"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo Levocarnitine"
+        }
+      ],
+      "sponsor": "Behnood Abbasi",
+      "primary_completion": "2026-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT07298564"
+    },
+    {
+      "nct_id": "NCT06047379",
+      "title": "Safety and Efficacy of NEO212 in Patients With Astrocytoma IDH-mutant, Glioblastoma IDH-wildtype or Brain Metastasis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diffuse Astrocytoma, IDH-Mutant",
+        "Glioblastoma, IDH-wildtype",
+        "Brain Metastases, Adult",
+        "Cervical Cancer",
+        "Colorectal Cancer",
+        "Esophageal Cancer",
+        "Esophageal Squamous Cell Carcinoma",
+        "Gastric Cancer",
+        "Gastroesophageal Junction Adenocarcinoma",
+        "Head and Neck Squamous Cell Carcinoma",
+        "Melanoma",
+        "Merkel Cell Carcinoma",
+        "Microsatellite Instability-High Solid Malignant Tumor",
+        "Mismatch Repair Deficient Solid Malignant Tumor",
+        "Microsatellite Instability-High Colorectal Cancer",
+        "Mismatch Repair Deficient Colorectal Cancer",
+        "Non-small Cell Lung Cancer",
+        "Renal Cell Carcinoma",
+        "Small Cell Lung Cancer",
+        "Squamous Cell Carcinoma",
+        "Urothelial Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "NEO212 Oral Capsule"
+        },
+        {
+          "type": "DRUG",
+          "name": "Ipilimumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Pembrolizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Nivolumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Regorafenib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Carboplatin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Paclitaxel"
+        },
+        {
+          "type": "DRUG",
+          "name": "FOLFIRI Protocol"
+        },
+        {
+          "type": "DRUG",
+          "name": "Bevacizumab"
+        }
+      ],
+      "sponsor": "Neonc Technologies, Inc.",
+      "primary_completion": "2027-02-28",
+      "url": "https://clinicaltrials.gov/study/NCT06047379"
+    }
+  ],
+  "fetched_at": "2026-07-06T22:26:43.244646"
+}

@@ -1,0 +1,393 @@
+{
+  "ingredient_a": "glutathione",
+  "ingredient_b": "tyrosinase",
+  "query": "(\"glutathione\"[Title/Abstract] AND \"tyrosinase\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42343524",
+      "title": "[Effect mechanism of fire needle therapy on vitiligo induced by hydroquinone in modeled mice based on skin tissue transcriptome sequencing].",
+      "abstract": "To explore the underlying effect mechanism of fire needle therapy on hydroquinone-induced vitiligo based on transcriptome sequencing.",
+      "year": "2026",
+      "journal": "Zhongguo zhen jiu = Chinese acupuncture & moxibustion",
+      "authors": [
+        "Fan Simin",
+        "Li Jingjing",
+        "Zeng Jingchun",
+        "Zhou Peng",
+        "Zhu Guihua"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Vitiligo",
+        "Mice",
+        "Skin",
+        "Hydroquinones",
+        "Mice, Inbred C57BL",
+        "Transcriptome",
+        "Humans",
+        "Male",
+        "Disease Models, Animal"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42343524/"
+    },
+    {
+      "pmid": "42075956",
+      "title": "Therapeutic Potential of Cysteine and Its Derivatives in Dermatology.",
+      "abstract": "Cysteine is a sulfur-containing amino acid that plays a central role in skin physiology through thiol-mediated redox regulation and glutathione (GSH) synthesis. It critically influences melanogenesis, collagen homeostasis, and wound healing. However, its clinical application is limited by poor stability and bioavailability. In this review, we provide a mechanistic and comparative analysis of cysteine and its derivatives, including N-acetylcysteine (NAC), cysteinamide (C-NH",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Choi Joon Yong",
+        "Lee Weon-Ju",
+        "Boo Yong Chool"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cysteine",
+        "Wound Healing",
+        "Animals",
+        "Skin Diseases",
+        "Antioxidants",
+        "Dermatology"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42075956/"
+    },
+    {
+      "pmid": "41447892",
+      "title": "Vachellia gummifera (Willd.) Kyal. & Boatwr. mitigates UVA-induced oxidative stress in HaCaT keratinocytes.",
+      "abstract": "Vachellia gummifera (Willd.) Kyal. & Boatwr. (formerly known as Acacia gummifera) is a thorny, flowering plant endemic to Morocco. It was selected due to the limited research on its potential skin-protective properties, despite other species of the same genus being traditionally used to treat various skin ailments. In this study we annotated the phytochemical profile of its aqueous leaf extract using HPLC-MS/MS and evaluated its skin protective potential through in vitro assays, including antioxidant, anti-elastase, and anti-tyrosinase activities. Additionally, we assessed its protective potential against UVA-induced oxidative stress in immortalized human keratinocyte cell line (HaCaT), along with the underlying signaling pathways. LC-MS/MS analysis revealed 48 metabolites, mainly flavonoids and their glycosides. The extract exhibited in vitro antioxidant activities with IC",
+      "year": "2026",
+      "journal": "Journal of photochemistry and photobiology. B, Biology",
+      "authors": [
+        "Annaz Hassan",
+        "Imbimbo Paola",
+        "Abdelfattah Mohamed A O",
+        "Mahdi Ismail",
+        "Fahsi Nidal"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Ultraviolet Rays",
+        "Keratinocytes",
+        "HaCaT Cells",
+        "Antioxidants",
+        "Plant Leaves",
+        "Chromatography, High Pressure Liquid",
+        "Tandem Mass Spectrometry"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41447892/"
+    },
+    {
+      "pmid": "41382972",
+      "title": "The Complex Formation Between Ginsenosides and Glutathione Utilized in Cosmetics to Promote Transdermal Absorption and Mask the Bad Odor of Glutathione.",
+      "abstract": "Glutathione (GSH), renowned for its antioxidant properties and ability to inhibit tyrosinase activity, finds widespread application in skincare products for its anti-aging and skin-whitening effects. However, the presence of thiol (-SH) groups in glutathione imparts an unpleasant odor, detracting from user comfort. In this study, we investigate the potential of ginsenosides (GS) derived from Panax ginseng C.A. Meyer to mask the malodor of glutathione in cosmetics. We validate the odor masking effect of GS on GSH through HS-SPME-GCMS technology. Through multispectroscopic analyses including Fourier transform infrared spectroscopy (FTIR) and fluorescence spectroscopy, as well as UPLC/QTOF-MS detection, we elucidate the formation and molecular mechanisms of the GSH-GS complex. Our findings reveal intermolecular interactions between glutathione and GS, leading to alterations in spatial conformation and molecular polarity of GSH. Furthermore, fluorescence assays demonstrate the quenching of glutathione fluorescence by GS via a static mechanism. Thermodynamic evaluations confirm the spontaneity of complex formation and provide insight into the bonding forces involved. The formation of the GSH-GS complex increased the transdermal absorption rate of GSH in vitro. Overall, the GSH-GS complex presents a promising strategy for enhancing the olfactory profile of skincare products containing glutathione, thereby improving consumer acceptance and efficacy.",
+      "year": "2026",
+      "journal": "Biomedical chromatography : BMC",
+      "authors": [
+        "Lin Fang",
+        "Ren Shaohua",
+        "Shi Fei",
+        "An Yang",
+        "Wang Yaqi"
+      ],
+      "mesh_terms": [
+        "Glutathione",
+        "Odorants",
+        "Skin Absorption",
+        "Ginsenosides",
+        "Cosmetics",
+        "Humans",
+        "Animals"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41382972/"
+    },
+    {
+      "pmid": "41214962",
+      "title": "Valorization and evaluation of acidic and neutral polysaccharides from Panax ginseng processing residues for the mitigating effects on skin aging.",
+      "abstract": "Ginsenoside extraction generates notable quantities of underutilized by-products, which hold substantial potential for sustainable resource recovery and valorization in bioactive compound development. In the present study, acidic and neutral polysaccharides (GAP and GNP) were isolated and characterized from ginseng-processing byproducts using diethylaminoethyl cellulose-52 (DEAE-52) chromatography. Structural analysis revealed that GAP (12.7 kDa) was an acidic heteropolysaccharide containing uronic acid, whereas GNP (1.15 kDa) consisted of glucose, arabinose, and galactose. Fourier Transform Infrared Spectroscopy (FT-IR) and X-ray diffraction (XRD) confirmed α-d-glucopyranose conformations and amorphous structures. In vitro, GNP exhibited superior 2,2-diphenyl-1-picrylhydrazyl (DPPH)/2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS",
+      "year": "2025",
+      "journal": "Food research international (Ottawa, Ont.)",
+      "authors": [
+        "Xiong Boyu",
+        "Liu Rui",
+        "Zhi Xinyi",
+        "Li Yanru",
+        "Sun Jiameng"
+      ],
+      "mesh_terms": [
+        "Panax",
+        "Animals",
+        "Polysaccharides",
+        "Skin Aging",
+        "Mice",
+        "Antioxidants",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Male",
+        "Spectroscopy, Fourier Transform Infrared"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41214962/"
+    },
+    {
+      "pmid": "41074794",
+      "title": "Polydopamine@Iron/Ellagic Acid Nanoparticles: Self-Reinforcing Ferroptosis-Apoptosis Synergy Disrupts Energy Metabolism for Melanoma Therapy.",
+      "abstract": "Melanoma, the most aggressive form of skin cancer, presents significant therapeutic challenges due to its high metastatic propensity and resistance to conventional therapies. To address these limitations, we engineered a polyethylene glycol (PEG)-modified nanoplatform by integrating a metal-polyphenol network (composed of ellagic acid (EA) and ferrous iron (Fe",
+      "year": "2025",
+      "journal": "ACS applied materials & interfaces",
+      "authors": [
+        "Wang Yisen",
+        "Ni Yaya",
+        "Huang Ying",
+        "Fan Lei",
+        "Xi Juqun"
+      ],
+      "mesh_terms": [
+        "Ferroptosis",
+        "Polymers",
+        "Indoles",
+        "Animals",
+        "Apoptosis",
+        "Mice",
+        "Iron",
+        "Nanoparticles",
+        "Cell Line, Tumor",
+        "Melanoma"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41074794/"
+    },
+    {
+      "pmid": "40998814",
+      "title": "Theoretical studies of arbutin, glutathione, and sea cucumber extracts as inhibitors of tyrosinase.",
+      "abstract": "Tyrosinase is a crucial enzyme targeted for the development of various skin-whitening agents due to its role in regulating key steps in melanin production. Despite the significance of human tyrosinase (hTYR), its crystal structure remains unresolved, hindering the development of specific inhibitors. Researchers frequently use mushroom tyrosinase (mTYR) to evaluate the inhibition capabilities of compounds, but the structural differences between hTYR and mTYR present considerable challenges in accurately developing hTYR-specific inhibitors. For instance, compounds like kojic acid show promising inhibitory effects but face limitations due to cytotoxicity or allergic reactions. This study aims to utilize the AlphaFold-predicted structure of hTYR to provide insights for developing specific inhibitors by comparing it with mTYR. We utilized natural tyrosinase inhibitors reported in the literature for molecular docking and molecular dynamic simulations to examine their binding modes with mTYR and hTYR. Through the analysis of these binding interactions and dynamic behaviors, we intend to identify residues that significantly enhance affinity, assess reliable binding modes, and offer essential insights for the development of effective hTYR inhibitors.",
+      "year": "2025",
+      "journal": "Scientific reports",
+      "authors": [
+        "Zheng Zheng",
+        "Zhang Shizhuo",
+        "Jiang Tao",
+        "Liu Wenlang",
+        "Xu Zifan"
+      ],
+      "mesh_terms": [
+        "Monophenol Monooxygenase",
+        "Molecular Docking Simulation",
+        "Enzyme Inhibitors",
+        "Humans",
+        "Molecular Dynamics Simulation",
+        "Animals",
+        "Glutathione",
+        "Arbutin",
+        "Agaricales",
+        "Protein Binding"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40998814/"
+    },
+    {
+      "pmid": "40650176",
+      "title": "Polynucleotide Mixture Attenuates Ultraviolet B-Induced Skin Pigmentation.",
+      "abstract": "Ultraviolet (UV) radiation stimulates melanogenesis, leading to various esthetic problems. UV increases oxidative stress and nuclear factor-kappa B (NF-κB), which increase the nucleotide-binding oligomerization domain (NOD) or leucine-rich repeat and pyrin do-main containing 3 (NLRP3) inflammasome. Given that polydeoxyribonucleotides reduce melanogenesis and polynucleotide (PN) has molecular similarity to polydeoxyribonucleotides, we hypothesized that PN can decrease melanogenesis. We compared the anti-melanogenic effect of PN with that of a PN mixture (PNM) that contained other antioxidants, such as glutathione and hyaluronic acid, in UVB-irradiated keratinocytes and animal skin. PN and PNM both decreased oxidative stress, which was evaluated according to the expression of NADPH oxidase (NOX) 1/2/4, the glutathione (GSH):oxidized glutathione (GSSG) ratio, and 8-hydroxy-2'-deoxyguanosine (8-OHdG) in UVB-irradiated keratinocytes. The expression of NLRP3 inflammasome components (NLRP3, ASC, and pro-caspase-1) and IL-18 was increased by UVB radiation and reduced by PN and PNM. When conditioned media from PN or PNM were administered to UVB-radiated keratinocytes, melanogenesis-related signals (MITF, tyrosinase, and tyrosinase-related protein1/2) were decreased. These effects were similar in the UVB-irradiated animal skin. Both PN and PNM decreased melanin accumulation and increased skin lightness in UVB-irradiated skin. The anti-melanogenic effect of PNM was greater than that of PN. In conclusion, PN and PNM decreased melanogenesis by decreasing oxidative stress, NF-κB, and NLRP3 inflammasome activation.",
+      "year": "2025",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Oh Seyeon",
+        "Jeon Hee-Dae",
+        "Rho Nark-Kyoung",
+        "Son Kuk Hui",
+        "Byun Kyunghee"
+      ],
+      "mesh_terms": [
+        "Ultraviolet Rays",
+        "Animals",
+        "Skin Pigmentation",
+        "Keratinocytes",
+        "Oxidative Stress",
+        "Mice",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Humans",
+        "Inflammasomes",
+        "Melanins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40650176/"
+    },
+    {
+      "pmid": "40620002",
+      "title": "AND Logic Gate Strategy for Targeted Melanoma Treatment Through Sequential Photosynthetic Oxygenation and Tyrosinase-Catalyzed Ferroptosis.",
+      "abstract": "Malignant melanoma is a highly aggressive and metastatic skin cancer characterized by tyrosinase overexpression. Therefore, harnessing the activation of tyrosinase-catalyzed toxicity enables targeted tumor-specific therapy while sparing surrounding healthy tissues. Herein, an AND logic-gated, cyanobacteria (Cyan)-driven, living therapeutic alginate hydrogel is proposed that activates the tyrosinase-catalyzed ferroptotic phenolic prodrug N-(4-hydroxyphenyl) acetamide (APhH), triggering cascaded reactive oxygen species (ROS) generation and glutathione (GSH) depletion for melanoma-specific ferroptosis. The therapeutic mechanism operates through a sequential dual-input procedure: microorganism-driven photosynthetic oxygenation and endogenous tyrosinase catalysis. Light-activated Cyan performs photosynthetic oxygen production, alleviating tumor hypoxia while acting as the essential cofactor for tyrosinase. Once activated, tyrosinase catalyzes the conversion of APhH into the cytotoxic benzoquinone derivative, 4-acetamido-o-benzoquinone (APhQ). Concurrently, oxygen is transformed into ROS, synergizing with APhQ to deplete GSH for glutathione peroxidase 4 inactivation, thereby promoting lipid peroxide generation. The combined effects of ROS generation, GSH depletion, and lipid peroxide accumulation culminate in a potent ferroptotic response, selectively targeting melanoma cells while sparing healthy tissue. This study highlights the potential of an AND logic-gated approach for achieving highly specific, targeted prodrug activation, enhancing precision in melanoma treatment.",
+      "year": "2025",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "authors": [
+        "Song Xu",
+        "Chen Meng",
+        "Chen Yinxin",
+        "Wu Chenyao",
+        "Feng Wei"
+      ],
+      "mesh_terms": [
+        "Melanoma",
+        "Monophenol Monooxygenase",
+        "Ferroptosis",
+        "Reactive Oxygen Species",
+        "Oxygen",
+        "Cell Line, Tumor",
+        "Humans",
+        "Photosynthesis",
+        "Glutathione",
+        "Animals"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40620002/"
+    },
+    {
+      "pmid": "40156221",
+      "title": "Purification, characterization and protective effects on UVB-induced photoaging in zebrafish of Pleurotus citrinopileatus polysaccharide PCP-2.",
+      "abstract": "Polysaccharides from Pleurotus citrinopileatus exhibit diverse bioactivities, yet their efficacy against ultraviolet B (UVB)-induced photoaging remains unexplored. This study aimed to purify and characterize a specific PCP and assess its protective effects using a UVB-induced zebrafish model.",
+      "year": "2025",
+      "journal": "Journal of the science of food and agriculture",
+      "authors": [
+        "Li Yan-Xia",
+        "Ma He",
+        "Shi Le",
+        "Zhang Zhong-Fei",
+        "Wu Yu-Meng"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Ultraviolet Rays",
+        "Pleurotus",
+        "Skin Aging",
+        "Polysaccharides",
+        "Apoptosis",
+        "Skin",
+        "Reactive Oxygen Species",
+        "Protective Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40156221/"
+    },
+    {
+      "pmid": "39610341",
+      "title": "Medicinal potential of adventitious root cultures of Hypericum perforatum: study on antioxidant stress and anti-melanogenic properties.",
+      "abstract": "Adventitious root (AR) culture is an effective method for the production of Hypericum perforatum raw materials. However, the ARs are seldom utilized in practical applications. Therefore, this study investigated the effects of H. perforatum ARs on antioxidative stress and anti-melanogenesis, aiming for future applications in the development of related products.",
+      "year": "2025",
+      "journal": "Journal of the science of food and agriculture",
+      "authors": [
+        "Guo Yu-Qing",
+        "Li Xue-Feng",
+        "Zhang Zhao",
+        "Li Han-Xi",
+        "Zhang Ke-Xin"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Plant Roots",
+        "Plant Extracts",
+        "Mice",
+        "Oxidative Stress",
+        "Hypericum",
+        "Antioxidants",
+        "Hep G2 Cells",
+        "Melanins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39610341/"
+    },
+    {
+      "pmid": "39376600",
+      "title": "α-Arbutin ameliorates UVA-induced photoaging through regulation of the SIRT3/PGC-1α pathway.",
+      "abstract": "Owing to its tyrosinase inhibitory activity, α-arbutin has been added to several skin care products as a skin-lightening agent. However, the protective effect of α-arbutin against ultraviolet A (UVA)-induced photoaging has not been well investigated. The present study was designed to investigate the photoprotective effect and mechanism of α-arbutin against UVA-induced photoaging. In vitro experiments, HaCaT cells were treated with UVA at a dose of 3 J/cm",
+      "year": "2024",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Lu Fang",
+        "Zhou Qi",
+        "Liang Mengdi",
+        "Liang Huicong",
+        "Yu Yiwei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39376600/"
+    },
+    {
+      "pmid": "39330302",
+      "title": "Fermented Fish Collagen Attenuates Melanogenesis via Decreasing UV-Induced Oxidative Stress.",
+      "abstract": "Excessive melanogenesis leads to hyperpigmentation-related cosmetic problems. UV exposure increases oxidative stress, which promotes melanogenesis-related signal pathways such as the PKA, microphthalmia-associated transcription factor (MITF), tyrosinase (TYR), tyrosinase-related protein-1 (TRP1), and tyrosinase-related protein-2 (TRP2) pathways. Glycine is a source of endogenous antioxidants, including glutathione. Fermented fish collagen (FC) contains glycine; thus, we evaluated the effect of FC on decreasing melanogenesis via decreasing oxidative stress. The glycine receptor (GlyR) and glycine transporter-1 (GlyT1) levels were decreased in UV-irradiated keratinocytes; however, the expression levels of these proteins increased upon treatment with FC. The FC decreased oxidative stress, as indicated by the decreasing expression of NOX1/2/4, increased expression of GSH/GSSG, increased SOD activity, and decreased 8-OHdG expression in UV-irradiated keratinocytes. Administration of conditioned media from FC-treated keratinocytes to melanocytes led to decreased p38, PKC, MITF, TRP1, and TRP2 expression. These changes induced by the FC were also observed in UV-irradiated animal skin. FC treatment increased the expression of GlyR and GlyT, which was accompanied by decreased oxidative stress in the UV-irradiated skin. Moreover, the FC negatively regulated the melanogenesis signaling pathways, leading to decreased melanin content in the UV-irradiated skin. In conclusion, FC decreased UV-induced oxidative stress and melanogenesis in melanocytes and animal skin. FC could be used in the treatment of UV-induced hyperpigmentation problems.",
+      "year": "2024",
+      "journal": "Marine drugs",
+      "authors": [
+        "Byun Kyung-A",
+        "Lee So Young",
+        "Oh Seyeon",
+        "Batsukh Sosorburam",
+        "Jang Jong-Won"
+      ],
+      "mesh_terms": [
+        "Oxidative Stress",
+        "Ultraviolet Rays",
+        "Animals",
+        "Melanins",
+        "Collagen",
+        "Humans",
+        "Keratinocytes",
+        "Fishes",
+        "Fermentation",
+        "Melanocytes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39330302/"
+    },
+    {
+      "pmid": "39173226",
+      "title": "Improved efficacy of linear glutathione-peptide chaperon complexes on melanogenesis inhibition and transdermal delivery.",
+      "abstract": "Glutathione (GSH) exhibits considerable potential in the cosmetic industry for reducing intracellular tyrosinase activity and inhibiting melanin synthesis. However, its efficacy is hindered by limited permeability, restricting its ability to reach the basal layer of the skin where melanin production occurs. The transdermal enhancer peptide TD1 has emerged as a promising strategy to facilitate the transdermal transfer of proteins or peptides by creating intercellular gaps in keratinocytes, providing access to the basal layer. The primary objective of this study is to enhance the transdermal absorption capacity of GSH while augmenting its inhibitory effect on melanin. Two coupling structures were designed for investigation: linear (TD1-linker-GSH) and branched (TD1-GSH). The study examined the impact of the peptide skeleton on melanin inhibition ability. Our findings revealed that the linear structure not only inhibited synthetic melanin production in B16F10 cells through a direct pathway but also through a paracrine pathway, demonstrating a significant tyrosinase inhibition of nearly 70 %, attributed to the paracrine effect of human keratinocyte HaCaT. In pigmentation models of guinea pigs and zebrafish, the application of TD1-linker-GSH significantly reduced pigmentation. Notably, electric two-photon microscopy demonstrated that TD1-linker-GSH exhibited significant transdermal ability, penetrating 158.67 ± 9.28 μm into the skin of living guinea pigs. Molecular docking analysis of the binding activity with tyrosinase revealed that both TD1-linker-GSH and TD1-GSH occupy the same active pocket, with TD1-linker-GSH binding more tightly to tyrosinase. These results provide a potential foundation for therapeutic approaches aimed at enriched pigmentation and advance our understanding of the mechanisms underlying melanogenesis inhibition.",
+      "year": "2024",
+      "journal": "Bioorganic chemistry",
+      "authors": [
+        "Zheng Jialin",
+        "Ma Qingyun",
+        "Haider Ali",
+        "Liu Shan",
+        "Jia Yuhan"
+      ],
+      "mesh_terms": [
+        "Melanins",
+        "Animals",
+        "Humans",
+        "Guinea Pigs",
+        "Glutathione",
+        "Monophenol Monooxygenase",
+        "Administration, Cutaneous",
+        "Zebrafish",
+        "Peptides",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39173226/"
+    },
+    {
+      "pmid": "38892131",
+      "title": "Petanin Potentiated JNK Phosphorylation to Negatively Regulate the ERK/CREB/MITF Signaling Pathway for Anti-Melanogenesis in Zebrafish.",
+      "abstract": "Petanin, an acylated anthocyanin from the Solanaceae family, shows potential in tyrosinase inhibitory activity and anti-melanogenic effects; however, its mechanism remains unclear. Therefore, to investigate the underlying mechanism of petanin's anti-melanogenic effects, the enzyme activity, protein expression and mRNA transcription of melanogenic and related signaling pathways in zebrafish using network pharmacology, molecular docking and molecular dynamics simulation were combined for analysis. The results showed that petanin could inhibit tyrosinase activity and melanogenesis, change the distribution and arrangement of melanocytes and the structure of melanosomes, reduce the activities of catalase (CAT) and peroxidase (POD) and enhance the activity of glutathione reductase (GR). It also up-regulated JNK phosphorylation, inhibited ERK/RSK phosphorylation and down-regulated CREB/MITF-related protein expression and mRNA transcription. These results were consistent with the predictions provided through network pharmacology and molecular docking. Thus, petanin could inhibit the activity of tyrosinase and the expression of tyrosinase by inhibiting and negatively regulating the tyrosinase-related signaling pathway ERK/CREB/MITF through p-JNK. In conclusion, petanin is a good tyrosinase inhibitor and anti-melanin natural compound with significant market prospects in melanogenesis-related diseases and skin whitening cosmetics.",
+      "year": "2024",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Ouyang Jian",
+        "Hu Na",
+        "Wang Honglun"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Melanins",
+        "Molecular Docking Simulation",
+        "Phosphorylation",
+        "MAP Kinase Signaling System",
+        "Signal Transduction",
+        "Cyclic AMP Response Element-Binding Protein",
+        "Monophenol Monooxygenase",
+        "Microphthalmia-Associated Transcription Factor"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38892131/"
+    }
+  ],
+  "crawled_at": "2026-07-06T22:27:11.960204"
+}

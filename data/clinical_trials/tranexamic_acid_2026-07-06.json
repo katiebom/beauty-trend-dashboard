@@ -1,0 +1,812 @@
+{
+  "ingredient_id": "tranexamic_acid",
+  "name_kr": "트라넥삼산",
+  "name_en": "Tranexamic Acid",
+  "query": "(\"Tranexamic Acid\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 27,
+  "trials": [
+    {
+      "nct_id": "NCT07127042",
+      "title": "Study on BT-114143 Reducing Perioperative Bleeding in Total Knee Arthroplasty（TKA）",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Total Knee Arthroplasty"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Low-dose BT-114143"
+        },
+        {
+          "type": "DRUG",
+          "name": "High-dose BT-14143"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid (IV)"
+        }
+      ],
+      "sponsor": "ScinnoHub Pharmaceutical Co., Ltd.",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07127042"
+    },
+    {
+      "nct_id": "NCT07644923",
+      "title": "Postoperative Non-Opioid Pain Management Utilizing Local Anesthetics Coupled With Modulated Coagulation",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postoperative Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bupivacaine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Lidocaine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Thrombin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tranexamic acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Aminocaproic acid"
+        }
+      ],
+      "sponsor": "NYU Langone Health",
+      "primary_completion": "2028-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07644923"
+    },
+    {
+      "nct_id": "NCT05899465",
+      "title": "Perioperative Treatment With Tranexamic Acid in Melanoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Saline"
+        }
+      ],
+      "sponsor": "University of Aarhus",
+      "primary_completion": "2026-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT05899465"
+    },
+    {
+      "nct_id": "NCT06345833",
+      "title": "Topical and Local TXA in Facelifts - A Randomized Controlled Double Blinded Study",
+      "status": "RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hemophilia",
+        "Hemorrhage",
+        "Facelift Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "1%Tranexamic acid with standard local"
+        },
+        {
+          "type": "DRUG",
+          "name": "3% TXA"
+        },
+        {
+          "type": "DRUG",
+          "name": "1% TXA with local plus 3% TXA-soaked pledgets"
+        }
+      ],
+      "sponsor": "University of Minnesota",
+      "primary_completion": "2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06345833"
+    },
+    {
+      "nct_id": "NCT06289478",
+      "title": "Efficacy and Safety of Retrograde Intraarticular Injection, Topical Soaking of Tranexamic Acid (TXA), or Placebo in Femoral Neck Fractured Patients Undergoing Cementless Bipolar Hemiarthroplasty",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Femoral Neck Fracture"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Topical tranexamic acid administration"
+        }
+      ],
+      "sponsor": "King Chulalongkorn Memorial Hospital",
+      "primary_completion": "2026-04",
+      "url": "https://clinicaltrials.gov/study/NCT06289478"
+    },
+    {
+      "nct_id": "NCT06516419",
+      "title": "Development of Products Based on Secretom From Stem Cell Conditioned Medium for Melasma Therapy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Concentrated secretome Injection 2mL"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tranexamic acid injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Triple Combination Cream"
+        }
+      ],
+      "sponsor": "Dr.dr.Irma Bernadette, SpKK (K)",
+      "primary_completion": "2025-03-30",
+      "url": "https://clinicaltrials.gov/study/NCT06516419"
+    },
+    {
+      "nct_id": "NCT06754371",
+      "title": "Prophylactic Tranexamic Acid Reduces Postpartum Hemorrhage",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postpartum Hemorrhage",
+        "Systemic Autoimmune Diseases"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "tranexamic acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "normal saline"
+        }
+      ],
+      "sponsor": "RenJi Hospital",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT06754371"
+    },
+    {
+      "nct_id": "NCT07034560",
+      "title": "Effectiveness of Oral Melatonin vs Oral Tranexamic Acid in the Treatment and Recurrence of Melasma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma",
+        "Treatment Outcome",
+        "Recurrence"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid (TXA)"
+        },
+        {
+          "type": "DRUG",
+          "name": "melatonin (Circadin)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Thammasat University",
+      "primary_completion": "2025-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT07034560"
+    },
+    {
+      "nct_id": "NCT06023212",
+      "title": "Tranexamic Acid Use for Bleeding Prevention in the Surgical Treatment of Metastatic Spinal Tumor in Lung Cancer Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metastasis Spinal Tumor"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "stroke-physiological saline solution (SPSS)"
+        }
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "primary_completion": "2026-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06023212"
+    },
+    {
+      "nct_id": "NCT04811313",
+      "title": "Tranexamic Acid in Pediatric Undergoing Proximal Femoral Osteotomies and/or Acetabular Osteotomy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Intraoperative Blood Loss",
+        "Pediatric",
+        "Orthopedic Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic acid"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "caudal epidural block"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2026-01",
+      "url": "https://clinicaltrials.gov/study/NCT04811313"
+    },
+    {
+      "nct_id": "NCT06384456",
+      "title": "Topical TRanexamic Acid vs. Placebo on Acute Postoperative Pain Following DRF Fixation",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Distal Radius Fractures"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Topical TRanexamic Acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT06384456"
+    },
+    {
+      "nct_id": "NCT06337838",
+      "title": "Bleeding Reduction in Acute and Chronic Kidney Patients Having Surgery (BRACKETS) Pilot Trial",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Kidney Diseases",
+        "Acute Kidney Injury",
+        "Bleeding",
+        "Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Desmopressin Injectable Solution"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid Injectable Product"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Hamilton Health Sciences Corporation",
+      "primary_completion": "2027-02",
+      "url": "https://clinicaltrials.gov/study/NCT06337838"
+    },
+    {
+      "nct_id": "NCT07169383",
+      "title": "Oral Melatonin Versus Oral Tranexamic Acid in the Management of Melasma",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma (Facial Melasma)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Melatonin tablet"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid (TXA)"
+        }
+      ],
+      "sponsor": "Hina Malik",
+      "primary_completion": "2025-12-28",
+      "url": "https://clinicaltrials.gov/study/NCT07169383"
+    },
+    {
+      "nct_id": "NCT07540702",
+      "title": "Injectable Platelet-Rich Fibrin Versus Intradermal Tranexamic Acid for Melasma",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma",
+        "Facial Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Injectable Platelet-Rich Fibrin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tranexamic acid 100 mg/mL (Kapron)"
+        }
+      ],
+      "sponsor": "Kasr El Aini Hospital",
+      "primary_completion": "2026-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07540702"
+    },
+    {
+      "nct_id": "NCT07495748",
+      "title": "Comparative Evaluation of Topical Metformin and Topical Tranexamic Acid in Melasma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "topical 3% tranexamic acid solution"
+        },
+        {
+          "type": "DRUG",
+          "name": "Topical 30% metformin cream"
+        }
+      ],
+      "sponsor": "Foundation University Islamabad",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07495748"
+    },
+    {
+      "nct_id": "NCT07033039",
+      "title": "Effects of Red and Infrared Photobiomodulation in Rhinoplasty at a Single Centre",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rhinoplasty",
+        "Edema"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Photobiomodulation"
+        },
+        {
+          "type": "OTHER",
+          "name": "Simulation of Photobiomodulation"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Standard treatment protocol"
+        }
+      ],
+      "sponsor": "University of Nove de Julho",
+      "primary_completion": "2029-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT07033039"
+    },
+    {
+      "nct_id": "NCT06422273",
+      "title": "Protest Trial: TXA vs Saline",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lung Transplant",
+        "Complications Surgical"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid"
+        },
+        {
+          "type": "OTHER",
+          "name": "Saline (placebo)"
+        }
+      ],
+      "sponsor": "Corewell Health West",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06422273"
+    },
+    {
+      "nct_id": "NCT07501884",
+      "title": "REDUCER Trial (TXA in Urethroplasty)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Urethral Stricture",
+        "Urethral Diseases"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Urethroplasty"
+        }
+      ],
+      "sponsor": "Amjad Alwaal, MD, MSc, FRCSC, FACS",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07501884"
+    },
+    {
+      "nct_id": "NCT07202156",
+      "title": "Ultrasound-Enhanced Delivery of Compound TXA Solution in Melasma",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma (Facial Melasma)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "10%TXA+2%Reduced Glutathione applied via ultrasound at 5W/cm² in10min"
+        },
+        {
+          "type": "OTHER",
+          "name": "10%TXA+2%Reduced Glutathione applied via ultrasound at 0W/cm² 10min"
+        }
+      ],
+      "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+      "primary_completion": "2026-02-07",
+      "url": "https://clinicaltrials.gov/study/NCT07202156"
+    },
+    {
+      "nct_id": "NCT07195539",
+      "title": "CO2 Fractional Laser With Tranexamic Acid As An Effective Tool For Post Burn Hyperpigmentation.",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Post Burn Hyperpigmentation"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Tranexamic Acid sprinkle with CO2 LASER"
+        }
+      ],
+      "sponsor": "King Edward Medical University",
+      "primary_completion": "2026-05-30",
+      "url": "https://clinicaltrials.gov/study/NCT07195539"
+    },
+    {
+      "nct_id": "NCT07565753",
+      "title": "TEAPOT Study Multisite",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hemorrhage, Surgical",
+        "Tonsillar Bleeding"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid Injectable Product"
+        },
+        {
+          "type": "OTHER",
+          "name": "Normal Saline"
+        }
+      ],
+      "sponsor": "The University of Texas Health Science Center at San Antonio",
+      "primary_completion": "2027-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT07565753"
+    },
+    {
+      "nct_id": "NCT07522788",
+      "title": "Comparison Between Efficacy of Topical Tranexamic Acid Vs Topical Ethyl Ascorbic Acid In Treatment Of Melasma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ethyl ascorbic acid topical application"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tranxemic acid topical application"
+        }
+      ],
+      "sponsor": "Hayatabad Medical Complex",
+      "primary_completion": "2026-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT07522788"
+    },
+    {
+      "nct_id": "NCT05464459",
+      "title": "Pyrocarbon Interposition Arthroplasty of the Elbow",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Osteoarthritis of Elbow"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Novel elbow procedure"
+        }
+      ],
+      "sponsor": "Wrightington, Wigan and Leigh NHS Foundation Trust",
+      "primary_completion": "2026-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT05464459"
+    },
+    {
+      "nct_id": "NCT06427850",
+      "title": "Effect of Topical Tranexamic Acid on Postoperative Drainage in Minimally Invasive Transforaminal Lumbar Interbody Fusion (MI-TLIF)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Degenerative Spine Diseases",
+        "Surgical Wound"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Normal saline"
+        }
+      ],
+      "sponsor": "Thanawan Longsuwan",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT06427850"
+    },
+    {
+      "nct_id": "NCT06515535",
+      "title": "Efficacy of Topical Tranexamic Acid in Reducing Blood Loss During CS in Patients With Placenta Previa",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Placenta Previa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Topical tranexamic acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Intravenous tranexamic acid"
+        }
+      ],
+      "sponsor": "Cairo University",
+      "primary_completion": "2024-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06515535"
+    },
+    {
+      "nct_id": "NCT04312880",
+      "title": "Tranexamic Acid Infusion During Elective Spine Surgery",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Spine Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid"
+        }
+      ],
+      "sponsor": "Albany Medical College",
+      "primary_completion": "2021-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT04312880"
+    },
+    {
+      "nct_id": "NCT06777966",
+      "title": "Nebulized Versus Intravenous Tranexamic Acid on Surgical Field Quality in Patients Undergoing Endoscopic Sinus Surgeries",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Nebulization",
+        "Intravenous",
+        "Surgical Field",
+        "Endoscopic Sinus Surgeries"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "nebulized tranexamic acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "intravenous tranexamic acid"
+        }
+      ],
+      "sponsor": "Cairo University",
+      "primary_completion": "2025-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT06777966"
+    },
+    {
+      "nct_id": "NCT06414031",
+      "title": "Tranexamic Acid for Reduction of Transfusion in Abdominal Surgery",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Surgical Blood Loss",
+        "Transfusion-dependent Anemia",
+        "Abdomen Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Ulrich Ronellenfitsch, MD",
+      "primary_completion": "2026-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT06414031"
+    },
+    {
+      "nct_id": "NCT07448415",
+      "title": "Evaluation of the Efficacy of Oral Tranexamic Acid and Glutathione-assisted Microneedling in Treatment of Melasma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "microneedling"
+        },
+        {
+          "type": "DRUG",
+          "name": "Oral tranexamic acid"
+        },
+        {
+          "type": "OTHER",
+          "name": "Glutathione"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2027-02",
+      "url": "https://clinicaltrials.gov/study/NCT07448415"
+    },
+    {
+      "nct_id": "NCT07604844",
+      "title": "Comparative Efficacy of Intralesional Tranexamic Acid Versus Mandelic Acid Peel in the Treatment of Melasma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melasma"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Mandelic Acid Peel"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Intralesional Tranexamic Acid"
+        }
+      ],
+      "sponsor": "Combined Military Hospital Abbottabad",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT07604844"
+    }
+  ],
+  "fetched_at": "2026-07-06T22:26:49.212385"
+}

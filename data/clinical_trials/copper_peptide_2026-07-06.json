@@ -1,0 +1,36 @@
+{
+  "ingredient_id": "copper_peptide",
+  "name_kr": "구리 펩타이드",
+  "name_en": "Copper Peptide",
+  "query": "(\"Copper Peptide\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 1,
+  "recent_complete_count": 1,
+  "trials": [
+    {
+      "nct_id": "NCT07437586",
+      "title": "Topical GHK-Cu Gel for Acute Skin Wound Healing",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acute Standardized Cutaneous Wounds (Punch-biopsy Wounds)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "GHK-Cu Gel (Copper(II)-peptide complex)"
+        },
+        {
+          "type": "DRUG",
+          "name": "vehicle Gel (placebo comparator)"
+        }
+      ],
+      "sponsor": "Hudson Biotech",
+      "primary_completion": "2027-02-14",
+      "url": "https://clinicaltrials.gov/study/NCT07437586"
+    }
+  ],
+  "fetched_at": "2026-07-06T22:26:46.465605"
+}

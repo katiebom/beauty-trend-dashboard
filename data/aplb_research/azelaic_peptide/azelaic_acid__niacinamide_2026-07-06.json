@@ -1,0 +1,318 @@
+{
+  "ingredient_a": "azelaic acid",
+  "ingredient_b": "niacinamide",
+  "query": "(\"azelaic acid\"[Title/Abstract] AND \"niacinamide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42087526",
+      "title": "International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Medical Aesthetic Procedures to Enhance Skin Benefits.",
+      "abstract": "Integrated skincare (ISC) combines dermocosmetics with medical aesthetic procedures to improve outcomes. However, guidance on selecting appropriate active ingredients across different procedure types and phases remains limited.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Bjerring Peter",
+        "Draelos Zoe D",
+        "Fabi Sabrina G",
+        "Goodman Greg J",
+        "Hau Kwun Cheun"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cosmetic Techniques",
+        "Skin Care",
+        "Consensus",
+        "Dermatologic Agents",
+        "Skin Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42087526/"
+    },
+    {
+      "pmid": "41923969",
+      "title": "Cosmeceuticals in acne vulgaris: from mechanism of action to clinical application.",
+      "abstract": "The use of cosmeceuticals in acne vulgaris is becoming increasingly prevalent with many over-the-counter formulations becoming part of patients' routine skincare. Cosmeceuticals are often used successfully as an adjunctive therapy to reduce the side effects of traditional prescriptions and improve compliance. This is a review to support the use of cosmeceuticals in acne, including retinol, retinaldehyde, benzoyl peroxide (BPO), azelaic acid, beta hydroxy acids, alpha hydroxy acids, niacinamide, zinc, tea tree oil and green tea. There is most evidence, in human clinical trials, to support the use of topical retinol, BPO and azelaic acid. Further research with large-scale robust human clinical trials are required to go beyond ",
+      "year": "2026",
+      "journal": "Skin health and disease",
+      "authors": [
+        "Searle Tamara N",
+        "Al-Niaimi Firas",
+        "Ali Faisal R"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41923969/"
+    },
+    {
+      "pmid": "40233838",
+      "title": "Skincare ingredients recommended by cosmetic dermatologists: A Delphi consensus study.",
+      "abstract": "There is ambiguity regarding the topical cosmetic ingredients preferred for common skin complaints.",
+      "year": "2025",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Alvarez Gabriella V",
+        "Kang Bianca Y",
+        "Richmond Alexandra M",
+        "Hoss Elika",
+        "Sulewski Ronald"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Delphi Technique",
+        "Cosmetics",
+        "Skin Care",
+        "Acne Vulgaris",
+        "Dermatologists",
+        "Skin Aging",
+        "Dermatologic Agents",
+        "Glycolates",
+        "Benzoyl Peroxide"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40233838/"
+    },
+    {
+      "pmid": "40198513",
+      "title": "Analyzing Social Media Trends in Cosmeceuticals: Insights From Google Trends and TikTok Analytics.",
+      "abstract": "Social media usage has surged, particularly since the COVID-19 pandemic. Dermatology invokes intense interest on social media, and cosmeceuticals are among the most trending topics, offering a unique space for dermatologists to share their expertise. By using tools like Google Trends and TikTok viewership, we aim to capture cosmeceutical trends to guide dermatologists' educational efforts.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Correia Emily",
+        "Mandel Jenna",
+        "Cullison Stephanie R Jackson"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cosmeceuticals",
+        "COVID-19",
+        "Dermatology",
+        "SARS-CoV-2",
+        "Search Engine",
+        "Social Media"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40198513/"
+    },
+    {
+      "pmid": "40164066",
+      "title": "Compatibility of Active Pharmaceutical Ingredients Combinations Compounded in Cleoderm™, a Cream Base for Personalized Dermatological Treatments.",
+      "abstract": "The increasing prevalence of skin conditions like acne, rosacea, and hyperpigmentation highlights the need for personalized dermatological treatments, with compounded formulations providing tailored solutions by combining multiple active pharmaceutical ingredients (APIs). This study evaluates the compatibility and stability of various formulations compounded in Cleoderm™, a cream base designed for acne-prone, affected, or sensitive skin. The tested formulations included: adapalene 0.1% or 0.3% and benzoyl peroxide 1.0% or 5.0%; hydroquinone 4.0%, hydrocortisone 1.0%, and tretinoin 0.0125%; azelaic acid 15.0% or 20.0% and niacinamide 4.0%; niacinamide 4.0% and tretinoin 0.025%; and clindamycin hydrochloride 3.0%. Each formulation underwent high-performance liquid chromatography (HPLC) and microbiological assessments over a 180-day period to determine stability and beyond-use dates (BUDs). Both formulations containing adapalene and benzoyl peroxide demonstrated excellent stability, with an assigned BUD of 180 days. Formulations of azelaic acid combined with niacinamide and niacinamide with tretinoin also showed sustained stability with BUDs of 180 days. In contrast, the formulation containing hydroquinone, hydrocortisone, and tretinoin had a BUD of 14 days. Clindamycin hydrochloride displayed a similar pattern, with stability maintained for 14 days. Microbiological evaluations confirmed the antimicrobial efficacy of all formulations, meeting United States Pharmacopeia (USP) requirements for antimicrobial effectiveness throughout their respective BUDs. The findings underscore the importance of evaluating the stability and compatibility of compounded formulations to ensure their safety and efficacy. This study supports the use of Cleoderm™ as a versatile and reliable base for personalized dermatological treatments, providing evidence-based BUDs to guide clinical practice.",
+      "year": "2025",
+      "journal": "International journal of pharmaceutical compounding",
+      "authors": [
+        "Marianni Bruna",
+        "Silva Carolina Costa Vicente",
+        "Polonini Hudson"
+      ],
+      "mesh_terms": [
+        "Dermatologic Agents",
+        "Drug Compounding",
+        "Skin Cream",
+        "Drug Stability",
+        "Drug Combinations",
+        "Benzoyl Peroxide",
+        "Tretinoin",
+        "Dicarboxylic Acids",
+        "Hydrocortisone",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40164066/"
+    },
+    {
+      "pmid": "38725769",
+      "title": "Efficacy of Topical Treatments in the Management of Mild-to-Moderate Acne Vulgaris: A Systematic Review.",
+      "abstract": "Acne vulgaris, commonly called acne, is a skin condition affecting many individuals globally. It is a chronic condition characterized by developing pimples, blackheads (open comedones), whiteheads (closed comedones), and other skin lesions. Acne usually appears on the face, neck, chest, and back. It is commonly associated with puberty and adolescence but can also affect adults of all ages. Acne can be very frustrating and embarrassing, leading to low self-esteem and social isolation. The condition arises from various factors, including clogged pores, excessive sebum production, bacteria, and inflammation. This systematic review assesses the effectiveness of topical antibiotics, retinoids, niacinamide, azelaic acid, and clascoterone in treating mild-to-moderate acne vulgaris. A comprehensive search across PubMed, PubMed Central, and Google Scholar yielded 10 articles focused on topical antibiotics, with findings from 198 subjects indicating the efficacy of doxycycline against inflammatory lesions. Retinoids, such as tretinoin and adapalene, significantly improved both lesion types (open and closed comedones). Niacinamide, examined in a randomized controlled trial involving 41 participants, reduced sebum production. Another study with 60 patients revealed that azelaic acid effectively reduced both inflammatory and non-inflammatory lesions. Clascoterone emerged as a promising antiandrogenic treatment, supported by a randomized controlled trial involving 4,440 patients. It is essential that individualized therapy, incorporating patient preferences and considering adverse effects, is emphasized for optimizing acne management.",
+      "year": "2024",
+      "journal": "Cureus",
+      "authors": [
+        "Althwanay Abdulaziz",
+        "AlEdani Esraa M",
+        "Kaur Harleen",
+        "Kasapoglu Malik",
+        "Yadavalli Rajesh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38725769/"
+    },
+    {
+      "pmid": "38709701",
+      "title": "A Practical Algorithm for Integrating Skincare to Improve Patient Outcomes and Satisfaction With Energy-Based Dermatologic Procedures.",
+      "abstract": "Medical aesthetic procedures for facial antiaging with laser and energy-based devices (EBDs) are rapidly increasing, but standards integrating skincare before, during, and after these treatments are lacking. The algorithm for integrated skin care for facial antiaging treatment with EBDs aims to stimulate healing, reduce downtime, and improve comfort and treatment outcomes.",
+      "year": "2024",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Lain Edward",
+        "Alexis Andrew F",
+        "Andriessen Anneke",
+        "Campos Valeria Barreto",
+        "Haus Ariel"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Patient Satisfaction",
+        "Algorithms",
+        "Skin Care",
+        "Delphi Technique",
+        "Treatment Outcome",
+        "Face",
+        "Laser Therapy",
+        "Sunscreening Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38709701/"
+    },
+    {
+      "pmid": "38564400",
+      "title": "A Practical Algorithm Integrating Skin Care With Nonenergy and Injectable Dermatologic Procedures to Improve Patient Outcomes and Satisfaction.",
+      "abstract": "The most rapidly increasing medical aesthetic procedures for facial antiaging comprise nonenergy and injectable treatments. Currently, standards for skin care before, during, and after nonenergy and injectable treatments are lacking. The algorithm on supportive skin care for facial antiaging nonenergy and injectable treatments aims to stimulate healing, reduce downtime, and improve comfort and treatment outcomes.&nbsp; Methods: A panel of 7 global physicians employed a modified Delphi method and reached a consensus on an algorithm for supportive skin care for nonenergy and injectable antiaging treatments based on the best available evidence and the panel members&rsquo; clinical experiences and opinions.",
+      "year": "2024",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Lain Edward",
+        "Andriessen Anneke",
+        "Campos Valeria Barreto",
+        "Fabi Sabrina Guillen",
+        "Ginn Lisa"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Patient Satisfaction",
+        "Skin",
+        "Treatment Outcome",
+        "Antioxidants",
+        "Skin Care",
+        "Personal Satisfaction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38564400/"
+    },
+    {
+      "pmid": "35642229",
+      "title": "Topical Treatments for Melasma and Their Mechanism of Action.",
+      "abstract": "We conducted a review of topical agents currently used in melasma, discussing their mechanism of action, efficacy, safety, and tolerability, with an update on newer treatments.",
+      "year": "2022",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "González-Molina Valeria",
+        "Martí-Pineda Alicia",
+        "González Noelani"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35642229/"
+    },
+    {
+      "pmid": "34840659",
+      "title": "Natural Cosmeceutical Ingredients for the Management of Hyperpigmentation in Hispanic and Latino Women.",
+      "abstract": "Disorders of hyperpigmentation, such as melasma, postinflammatory pigmentary alteration, and lentigines, pose significant cosmetic concerns for women of Hispanic or Latino race and ethnicity. Natural ingredients are gaining popularity as alternative, safe, and effective topical depigmenting agents.",
+      "year": "2021",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "Murphy Michael J",
+        "Dow Aileen A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34840659/"
+    },
+    {
+      "pmid": "32472659",
+      "title": "Management of periorbital hyperpigmentation: An overview of nature-based agents and alternative approaches.",
+      "abstract": "Periorbital hyperpigmentation (POH) is a common dermatological condition that presents as dark periorbital area beneath the lower eyelids, and it is commonly found in females belonging to the age group of 16 to 45 years. The data presented in this review include studies conducted on patients with a clinical/histological diagnosis of POH or melasma. Many diverse topical depigmenting agents comprising an array of naturally obtained actives such as arabinoxylans, α-arbutin, asiaticoside, azelaic acid, beta-carotene, boswellic acid, caffeine, chrysin, curcumin, cyanidin-3-glucoside, d-glucoronic acid, dihydrochalcone, dipalmitoyl-hydroxyprolene, fucoxanthin, genistein, glabridin, b-glucogallin, hyaluronic acid, lactic acid, lycopene, niacinamide, pycnogenol, retinol, salidroside, and xymenynic acid demonstrated significant benefits in the management of POH. An exhaustive literature search revealed that other techniques such as blepharoplasty, carboxytherapy, calcium hydroxylapatite fillers, tear trough implant, Q-switched ruby laser, medicated tattoo, fat transfer, micro-needling, chemical peels, nitrogen plasma skin regeneration, intense pulsed light, and radiofrequency have been evaluated and reported to be beneficial in the treatment of POH. The use of topical depigmenting agents is the most widely reported method in the clinical management of POH. Of these, α-arbutin, caffeine, cyanidin-3-glucoside, and dihydrochalcone are reported to exhibit significant benefits. Combination products containing a blend of actives are reported to be better than single active containing products. This review aims to provide a comprehensive perspective on the role of several topical actives in the modulation of melanin and tyrosinase biosynthesis pathway involved in the complex pathophysiology of POH. It also presents the advantages of combination products and other alternative therapies used in the management of POH.",
+      "year": "2020",
+      "journal": "Dermatologic therapy",
+      "authors": [
+        "Sawant Omkar",
+        "Khan Tabassum"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Blepharoplasty",
+        "Chemexfoliation",
+        "Eyelids",
+        "Female",
+        "Humans",
+        "Hyperpigmentation",
+        "Melanosis",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32472659/"
+    },
+    {
+      "pmid": "31741361",
+      "title": "Topical Treatments for Melasma: A Systematic Review of Randomized Controlled Trials.",
+      "abstract": "Background: Melasma is an acquired skin disease characterized by symmetric hyperpigmentation on sun-exposed areas, particularly on the face. Recently, there has been tremendous scientific interest in novel, safe, and effective topical agents to manage melasma. Objective: To evaluate topical treatments for melasma and provide evidence-based recommendations for clinical use and further research. Methods: We performed a systematic review of randomized controlled trials (RCTs) on topical agents for the treatment of melasma on March 4th, 2019 using PRISMA guidelines. Clinical recommendations were based on the American College of Physicians guidelines. Results: After screening, we identified 35 original RCTs using azelaic acid, cysteamine, epidermal growth factor, hydroquinone (liposomal-delivered), lignin peroxidase, mulberry extract, niacinamide, Rumex occidentalis, triple combination therapy, tranexamic acid, 4-n-butylresorcinol, glycolic acid, kojic acid, aloe vera, ascorbic acid, dioic acid, ellagic acid and arbutin, flutamide, parsley, or zinc sulfate for melasma. Conclusions: Cysteamine, triple combination therapy, and tranexamic acid received strong clinical recommendations for the treatment of melasma. Cysteamine has excellent efficacy and is reported to have anti-cancer properties, but has not been directly compared with hydroquinone. Triple combination agents and tranexamic acid are effective, but carry theoretical risks for ochronosis and thrombosis, respectively. Natural compounds are associated with low risk for adverse events, but more research is needed to determine the efficacy, optimal formulation, and appropriate concentration of novel treatments. J Drugs Dermatol. 2019;18(11):1156-1171.",
+      "year": "2019",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Austin Evan",
+        "Nguyen Julie K.",
+        "Jagdeo Jared"
+      ],
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Dermatologic Agents",
+        "Humans",
+        "Melanosis",
+        "Practice Guidelines as Topic",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31741361/"
+    },
+    {
+      "pmid": "31269882",
+      "title": "Depigmentation and Anti-aging Treatment by Natural Molecules.",
+      "abstract": "Natural molecules are becoming more accepted choices as cosmetic agents, many products in the market today claim to include natural components. Plants include many substances that could be of a value in the whitening of the skin and working as anti-aging agents. A wide range of articles related to natural skin whitening and anti-aging agents have been reviewed. Many plant-derived and natural molecules have shown to affect melanin synthesis by different mechanisms, examples include Arbutin, Ramulus mori extract, Licorice extract, Glabridin, Liquiritin, Kojic acid, Methyl gentisate, Aloesin, Azelaic acid, Vitamin C, Thioctic acid, Soya bean extracts, Niacinamide, α and β-hydroxy acids, Lactic acid, Chamomile extract, and Ellagic acid. Some of the widely used natural anti-aging products as natural antioxidants, collagen, hyaluronic acid, and coenzyme Q can counteract the effects of reactive oxygen species in skin cells and have anti-aging properties on the skin. It was concluded that many natural products including antioxidants can prevent UV-induced skin damage and have whitening and anti-aging effects. It is very important to develop and stabilize appropriate methods for the evaluation of the whitening and anti-aging capacity of natural products and their exact mechanism of action to ensure real efficacy based on evidence-based studies. The attention should be oriented on the formulations and the development of an appropriate vehicle to ensure suitable absorption of these natural products in addition to evaluating the suitable concentration of these molecules required having the desired effects without causing harmful side effects.",
+      "year": "2019",
+      "journal": "Current pharmaceutical design",
+      "authors": [
+        "Zaid Abdel Naser",
+        "Al Ramahi Rowa'"
+      ],
+      "mesh_terms": [
+        "Antioxidants",
+        "Humans",
+        "Plant Extracts",
+        "Skin",
+        "Skin Aging",
+        "Skin Pigmentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31269882/"
+    },
+    {
+      "pmid": "29552273",
+      "title": "Are Natural Ingredients Effective in the Management of Hyperpigmentation? A Systematic Review.",
+      "abstract": null,
+      "year": "2018",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "Hollinger Jasmine C",
+        "Angra Kunal",
+        "Halder Rebat M"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29552273/"
+    },
+    {
+      "pmid": "27356545",
+      "title": "Melanogenesis Inhibitors: Strategies for Searching for and Evaluation of Active Compounds.",
+      "abstract": "Hyperpigmentation disorders constitute important medical and aesthetical conditions. Dark areas or dark spots on the skin result from inappropriate amount and/or deposition of skin pigments - melanins. Several depigmenting agents, such as kojic acid, arbutin, aloesin, ellagic acid, resveratrol, azelaic acid, niacinamide, tretinoin, glycolic acid, lactic acid, and citric acid, have already been identified and are used in topical drugs or cosmetic formulations for the treatment of hyperpigmentations. However, these compounds are characterized by insufficient effectiveness and multiple adverse effects. As a result, there is still a need for searching for new active substances. The current paper summarizes strategies for searching for novel melanogenesis inhibitors. In the review, they are divided according to approach, into in silico, in vitro and in vivo experiments. In silico research includes computational studies with models of tyrosinase and di-copper complexes. The in vitro approach is based on tests using tyrosinase (a key enzyme in melanin biosynthesis), cell cultures, cell co-cultures, pigmented human skin equivalents or Streptomyces bikiniensis model. In vivo studies involve zebrafish, rodents or humans. Examples of protocols and laboratory procedures are presented, with a focus on utilization of various models for evaluation of mechanisms of action of tested compounds. The potential limitations of the methods are also discussed, together with future perspectives in the field of searching for melanogenesis inhibitors.",
+      "year": "2016",
+      "journal": "Current medicinal chemistry",
+      "authors": [
+        "Gunia-Krzyżak Agnieszka",
+        "Popiol Justyna",
+        "Marona Henryk"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Binding Sites",
+        "Coordination Complexes",
+        "Enzyme Inhibitors",
+        "Humans",
+        "Melanins",
+        "Melanocytes",
+        "Molecular Docking Simulation",
+        "Monophenol Monooxygenase",
+        "Pyrones"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/27356545/"
+    }
+  ],
+  "crawled_at": "2026-07-06T22:27:31.405010"
+}

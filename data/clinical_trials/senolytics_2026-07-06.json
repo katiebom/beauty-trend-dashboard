@@ -1,0 +1,707 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 22,
+  "trials": [
+    {
+      "nct_id": "NCT00605878",
+      "title": "Studies of Skin Microbes in Healthy People and in People With Skin Conditions",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Eczema",
+        "Atopic Dermatitis"
+      ],
+      "interventions": [],
+      "sponsor": "National Human Genome Research Institute (NHGRI)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT00605878"
+    },
+    {
+      "nct_id": "NCT07162233",
+      "title": "Surgical Corection of Congenital Proximal Radioulnar Synostosis Using Double Osteotomy Technique.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Synostosis"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "derotation osteotomy utilizing Kirschner wires for the correction of congenital proximal radioulnar synostosis"
+        }
+      ],
+      "sponsor": "Sohag University",
+      "primary_completion": "2026-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT07162233"
+    },
+    {
+      "nct_id": "NCT06652347",
+      "title": "Understanding the Preferences and Views of Older Adults on the Use of Geriatric and Objective Functional Assessments for Cancer Treatment Planning.",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Care Delivery",
+        "Geriatrics",
+        "Geriatric Assessment"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Cancer care delivery"
+        }
+      ],
+      "sponsor": "Fox Chase Cancer Center",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT06652347"
+    },
+    {
+      "nct_id": "NCT07070778",
+      "title": "Arterial Stiffness in Individuals With Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Aerobic Exercise",
+        "Breast Cancer",
+        "Arterial Stiffness"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Upper Extremity Aerobic Exercise Training Program"
+        }
+      ],
+      "sponsor": "Hacettepe University",
+      "primary_completion": "2026-11-01",
+      "url": "https://clinicaltrials.gov/study/NCT07070778"
+    },
+    {
+      "nct_id": "NCT07537686",
+      "title": "Glucagon-like Peptide 2 (GLP-2) in Undernourished Women Improving From Histology-Confirmed Environmental Enteric Dysfunction (EED)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Environmental Enteric Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Teduglutide 0.05 dose"
+        }
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "primary_completion": "2027-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07537686"
+    },
+    {
+      "nct_id": "NCT05731141",
+      "title": "A Prospective Natural History Study of Lymphatic Anomalies",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Lymphatic Diseases",
+        "Lymphatic Abnormalities"
+      ],
+      "interventions": [],
+      "sponsor": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05731141"
+    },
+    {
+      "nct_id": "NCT07005648",
+      "title": "Brazilian Registry of Menopausal Health",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Menopause"
+      ],
+      "interventions": [],
+      "sponsor": "Science Valley Research Institute",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07005648"
+    },
+    {
+      "nct_id": "NCT07005557",
+      "title": "Chemo-free in Older (≥65) Node-Positive ER+/HER2- Breast Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Adjuvant Therapy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Chemotherapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "CDK4/6 Inhibitor"
+        },
+        {
+          "type": "DRUG",
+          "name": "Endocrine therapy"
+        }
+      ],
+      "sponsor": "Fudan University",
+      "primary_completion": "2030-05-15",
+      "url": "https://clinicaltrials.gov/study/NCT07005557"
+    },
+    {
+      "nct_id": "NCT07483307",
+      "title": "A Study of the Impact of Endocrine Therapy on Surgical Outcomes in People With Lobular Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "HER2-negative Breast Cancer",
+        "HER2 Negative Breast Carcinoma",
+        "ER+ Breast Cancer",
+        "Lobular Breast Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Neoadjuvant endocrine therapy"
+        }
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "primary_completion": "2030-03-13",
+      "url": "https://clinicaltrials.gov/study/NCT07483307"
+    },
+    {
+      "nct_id": "NCT07637032",
+      "title": "Clinical Study of a Facial Cream for Rosacea",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Facial Rosacea"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "ARM 1"
+        },
+        {
+          "type": "OTHER",
+          "name": "ARM 2"
+        }
+      ],
+      "sponsor": "ChinaNorm",
+      "primary_completion": "2026-07-09",
+      "url": "https://clinicaltrials.gov/study/NCT07637032"
+    },
+    {
+      "nct_id": "NCT05286814",
+      "title": "PDS01ADC in Combination With Hepatic Artery Infusion Pump (HAIP) and Systemic Therapy for Subjects With Metastatic Colorectal Cancer, Intrahepatic Cholangiocarcinoma, or Metastatic Adrenocortical Carcinoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metastatic Colorectal Cancer (Mcrc)",
+        "Intrahepatic Cholangiocarcinoma (Icc)",
+        "Intrahepatic Bile Duct Cancer",
+        "Colorectal Neoplasms",
+        "Colorectal Cancer",
+        "Cholangiocarcinoma",
+        "Bile Duct Neoplasms",
+        "Bile Duct Cancer",
+        "Adrenocortical Carcinoma (ACC)",
+        "Adrenal Cortical Carcinoma",
+        "Adrenal Gland Cancer",
+        "Adrenal Gland Neoplasms",
+        "Adrenal Cortex Neoplasms"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone"
+        },
+        {
+          "type": "DRUG",
+          "name": "PDS01ADC"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Intera 3000 Hepatic Artery Infusion Pump (HAIP)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Floxuridine"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05286814"
+    },
+    {
+      "nct_id": "NCT06977178",
+      "title": "Adverse Adolescent Pathways to Substance Use",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anxiety",
+        "Adolescent Development",
+        "Substance Use"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Trier Social Stress Test"
+        }
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "primary_completion": "2029-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06977178"
+    },
+    {
+      "nct_id": "NCT06956443",
+      "title": "Prediction of ICG for Skin Necrosis in Mastectomy With Immediate Reconstruction",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancers",
+        "Mastectomy and Breast Reconstruction",
+        "Skin Necrosis"
+      ],
+      "interventions": [],
+      "sponsor": "University Medical Center Groningen",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT06956443"
+    },
+    {
+      "nct_id": "NCT06103487",
+      "title": "Long Term Follow-Up for RGX-111",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Mucopolysaccharidosis I"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "No Intervention"
+        }
+      ],
+      "sponsor": "REGENXBIO Inc.",
+      "primary_completion": "2027-09",
+      "url": "https://clinicaltrials.gov/study/NCT06103487"
+    },
+    {
+      "nct_id": "NCT04224038",
+      "title": "The Inspire Bio-resource Research Platform for Healthy Aging INSPIRE Platform",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Biological Aging"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "The Inspire Bio-resource Research Platform for Healthy Aging"
+        }
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "primary_completion": "2031-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT04224038"
+    },
+    {
+      "nct_id": "NCT06015893",
+      "title": "Semaglutide Therapy for Alcohol Reduction (STAR)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Addiction",
+        "Alcohol Use Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Take Control"
+        },
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2030-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06015893"
+    },
+    {
+      "nct_id": "NCT07515638",
+      "title": "Immun4Cure Cohort of Autoimmune Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis",
+        "Systemic Lupus Erythematosus",
+        "Systemic Sclerosis",
+        "Healthy Adult Volunteers"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Blood test and principal collection"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Optional collection"
+        },
+        {
+          "type": "OTHER",
+          "name": "Patient questionnaires"
+        },
+        {
+          "type": "OTHER",
+          "name": "Examination"
+        }
+      ],
+      "sponsor": "University Hospital, Montpellier",
+      "primary_completion": "2031-06-23",
+      "url": "https://clinicaltrials.gov/study/NCT07515638"
+    },
+    {
+      "nct_id": "NCT07660835",
+      "title": "Pharmacokinetics, Safety and Efficacy of Nemolizumab in Participants Aged 6 to 23 Months With Moderate-to Severe Atopic Dermatitis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Moderate-to-Severe Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Nemolizumab"
+        }
+      ],
+      "sponsor": "Galderma R&D",
+      "primary_completion": "2028-07-15",
+      "url": "https://clinicaltrials.gov/study/NCT07660835"
+    },
+    {
+      "nct_id": "NCT07573917",
+      "title": "Improving Insulin Sensitivity in Patients With Type 2 Diabetes Via Repeated Cold-induced Shivering Thermogenesis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Cold exposure with shivering"
+        }
+      ],
+      "sponsor": "Université de Sherbrooke",
+      "primary_completion": "2026-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT07573917"
+    },
+    {
+      "nct_id": "NCT06578416",
+      "title": "The Development of Stuttering in Young Children",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Stuttering",
+        "Stuttering, Childhood",
+        "Stuttering, Developmental"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Standardized assessments of speech and language abilities"
+        }
+      ],
+      "sponsor": "Michigan State University",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT06578416"
+    },
+    {
+      "nct_id": "NCT07431463",
+      "title": "Effects of Different Remineralization Agents on the Progression of Non-Cavitated Approximal Carious Lesions in Primary Teeth: A Randomized Clinical Trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dental Caries"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "P11-4 + NaF Varnish"
+        },
+        {
+          "type": "OTHER",
+          "name": "Silver diamine fluoride"
+        },
+        {
+          "type": "OTHER",
+          "name": "NaF Varnish Alone"
+        }
+      ],
+      "sponsor": "Izmir Katip Celebi University",
+      "primary_completion": "2026-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT07431463"
+    },
+    {
+      "nct_id": "NCT06425549",
+      "title": "A Study to Evaluate the Efficacy and Safety of Bimekizumab Compared to Ustekinumab in Children and Adolescents From 6 Years to Less Than 18 Years of Age With Moderate to Severe Plaque Psoriasis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Moderate to Severe Plaque Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "bimekizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "ustekinumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "placebo"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2028-08-21",
+      "url": "https://clinicaltrials.gov/study/NCT06425549"
+    },
+    {
+      "nct_id": "NCT07015658",
+      "title": "Clinical Effects of Moxibustion Combined With Tailored Baduanjin Exercise Programs on Early Postoperative Rehabilitation in Lumbar Disc Herniation Patients Undergoing Minimally Invasive Surgery",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lumbar Disc Herniations"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Baduanjin"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Moxibustion"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Conventional intervention"
+        }
+      ],
+      "sponsor": "Suyun Liu",
+      "primary_completion": "2026-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT07015658"
+    },
+    {
+      "nct_id": "NCT06930248",
+      "title": "Efficacy of Platelet-rich Plasma in Management of Anosmia",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anosmia"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Platelet rich plasma injection"
+        }
+      ],
+      "sponsor": "Sohag University",
+      "primary_completion": "2026-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT06930248"
+    },
+    {
+      "nct_id": "NCT06661577",
+      "title": "An Observational Study Using The LumAssure Device In Participants Undergoing Assessment Of Skin Conditions.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Skin Cancers - Basal Cell Carcinoma",
+        "Skin Cancers - Squamous Cell Carcinoma",
+        "Melanoma of Skin",
+        "Inflammatory Dermatoses",
+        "Acral Melanoma",
+        "Benign Skin Nevus",
+        "Benign Skin Tumor"
+      ],
+      "interventions": [],
+      "sponsor": "University of Auckland, New Zealand",
+      "primary_completion": "2025-12-18",
+      "url": "https://clinicaltrials.gov/study/NCT06661577"
+    },
+    {
+      "nct_id": "NCT07392619",
+      "title": "The Effect of Acupressure on Symptoms in Elderly Adults With Painful Diabetic Neuropathy",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Painful Diabetic Peripheral Neuropathy (PDPN)",
+        "Acupressure"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "acupressure"
+        },
+        {
+          "type": "OTHER",
+          "name": "placebo acupressure"
+        }
+      ],
+      "sponsor": "Nigde Omer Halisdemir University",
+      "primary_completion": "2027-09-05",
+      "url": "https://clinicaltrials.gov/study/NCT07392619"
+    },
+    {
+      "nct_id": "NCT06552767",
+      "title": "Thrombosis and Inflammation in Vessels Initiative (TIVI)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Cardiovascular Diseases",
+        "Vascular Diseases"
+      ],
+      "interventions": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "primary_completion": "2034-01-30",
+      "url": "https://clinicaltrials.gov/study/NCT06552767"
+    },
+    {
+      "nct_id": "NCT06407934",
+      "title": "A Study to Evaluate the Treatment Response and Safety of Two Dose Regimens of Subcutaneous Amlitelimab Compared With Treatment Withdrawal in Participants Aged 12 Years and Older With Moderate-to-severe Atopic Dermatitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dermatitis Atopic"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Amlitelimab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Sanofi",
+      "primary_completion": "2026-06-29",
+      "url": "https://clinicaltrials.gov/study/NCT06407934"
+    },
+    {
+      "nct_id": "NCT07432412",
+      "title": "Functional Effects of Postoperative Physiotherapy After Cosmetic Femoral Lengthening (LON-PT)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Conventional Physiotherapy Program"
+        }
+      ],
+      "sponsor": "FATMA ÇAVDARCI",
+      "primary_completion": "2026-04",
+      "url": "https://clinicaltrials.gov/study/NCT07432412"
+    },
+    {
+      "nct_id": "NCT07178119",
+      "title": "Bridging Technique Validation for Nasolabial Folds JN-BRIDGE-1",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Nasolabial Fold Correction",
+        "Facial Aging",
+        "Skin Rejuvenation",
+        "Wrinkles Such as Nasolabial Folds"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "(Bridging) Horizontal Cannula Technique for Treatment of Nasolabial Folds using AILEENE Vol. 2"
+        }
+      ],
+      "sponsor": "Dr. Joseph M Novoa Libermann",
+      "primary_completion": "2026-05",
+      "url": "https://clinicaltrials.gov/study/NCT07178119"
+    }
+  ],
+  "fetched_at": "2026-07-06T22:27:04.512119"
+}

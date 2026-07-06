@@ -1,0 +1,363 @@
+{
+  "ingredient_a": "peptide",
+  "ingredient_b": "egf",
+  "query": "(\"peptide\"[Title/Abstract] AND \"egf\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42239946",
+      "title": "Nursing care for a patient with multiple organ fistulas and severe malnutrition-sarcopenia syndrome following surgery for irradiated rectal cancer: a case report.",
+      "abstract": "This case report presented a unique, integrated nursing management strategy for a 47-year-old male with extreme complexity arising from radiation-induced enterovesical fistula and severe malnutrition-sarcopenia syndrome following irradiated rectal cancer surgery, addressing a critical literature gap in systematic protocols for high-mortality cases. It demonstrated the practical application and sequencing of advanced, refined interventions within a Damage Control Surgery (DCS) framework, offering a replicable model. Key admission findings included severe metabolic derangement (BMI 13.2 kg/m",
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Li Changdi",
+        "Zhang Jing",
+        "Li Ai",
+        "Zeng Xing",
+        "Yang Yang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42239946/"
+    },
+    {
+      "pmid": "42230849",
+      "title": "Constructing EGF mRNA-Enriched Extracellular Vesicles Based on the AAVS1 Safe Harbor Site to Promote Skin Wound Healing.",
+      "abstract": "Skin wound healing is a complex biological process that requires the coordinated regulation of cell proliferation, migration, and extracellular matrix (ECM) remodeling. Epidermal growth factor (EGF) plays a key role in this process, but its clinical application is limited by its rapid degradation at the wound site. Extracellular vesicles (EVs), as natural nanocarriers, can protect nucleic acids from degradation and enhance their bioavailability. In this study, using CRISPR/Cas9 technology, we site-specifically integrated the EGF gene carrying the TPA signal peptide into the AAVS1 safe harbor site of 293F cells, generating a cell line that stably secretes EVs enriched in EGF mRNA. Characterization and in vitro and in vivo functional evaluation of these engineered EVs (293F-EGF-EV) demonstrated that they significantly promoted fibroblast proliferation and migration and inhibited excessive collagen production. In a rat skin defect model, 293F-EGF-EV promoted wound recovery. High-concentration 293F-EGF-EV focused on \"high-quality repair,\" such as promoting angiogenesis, hair follicle regeneration, and epidermal structural remodeling. Low-concentration 293F-EGF-EV favored \"high-efficiency closure\", such as reducing scar area. This study offers new insights into skin wound treatment.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Gao Peifen",
+        "Feng Wanyun",
+        "Zhao Xian",
+        "Shen Jiuheng",
+        "Wang Xudong"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Epidermal Growth Factor",
+        "Animals",
+        "Extracellular Vesicles",
+        "Humans",
+        "RNA, Messenger",
+        "Rats",
+        "Skin",
+        "Cell Proliferation",
+        "Cell Movement"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42230849/"
+    },
+    {
+      "pmid": "42074317",
+      "title": null,
+      "abstract": "Dermal papilla (DP) cells orchestrate hair follicle growth and cycling by secreting signaling molecules that stimulate follicular epithelial stem cells. The signal peptide CUB-EGF-like domain-containing protein 3 (SCUBE3) was recently identified as a potent anagen stimulator secreted by DP cells. ",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Kim Yongjin",
+        "Jung Euitaek",
+        "Cho Gyungmin",
+        "Choi Yena",
+        "Shin Soon Young"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hair Follicle",
+        "Plant Extracts",
+        "Transcription Factor AP-1",
+        "Up-Regulation",
+        "Dermis",
+        "Cells, Cultured",
+        "Signal Transduction",
+        "Hair",
+        "MAP Kinase Signaling System"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42074317/"
+    },
+    {
+      "pmid": "41975396",
+      "title": "A novel cell-penetrating peptide supports hair follicle growth through anti-inflammatory and growth factor-associated mechanisms in preclinical models.",
+      "abstract": "Hair loss remains a prevalent condition for both men and women worldwide. Current therapies for this condition, including minoxidil and finasteride, are limited by inconsistent efficacy, side effects, and dependence on continuous use. Cell-penetrating peptides (CPPs) have emerged as promising bioactive agents in dermatology due to their ability to traverse cell membranes and modulate multiple biological pathways relevant to hair regeneration.",
+      "year": "2026",
+      "journal": "BMC biotechnology",
+      "authors": [
+        "Lee Young In",
+        "Kim Wooram",
+        "Roh Hyojin",
+        "Min Ahlim",
+        "Jung Jinyoung"
+      ],
+      "mesh_terms": [
+        "Hair Follicle",
+        "Humans",
+        "Cell-Penetrating Peptides",
+        "Anti-Inflammatory Agents",
+        "Cell Proliferation",
+        "Animals",
+        "Intercellular Signaling Peptides and Proteins",
+        "Female",
+        "Alopecia",
+        "Cells, Cultured"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41975396/"
+    },
+    {
+      "pmid": "41685930",
+      "title": "pH-responsive polydopamine-shelled 3D-printed chitosan/collagen hydrogel integrating exosomes and an enzyme/peptide cascade for diabetic wound healing.",
+      "abstract": "Diabetic chronic wounds are commonly characterized by persistent inflammation, excessive oxidative stress, impaired tissue regeneration capacity, and elevated risk of bacterial infection. These characteristics severely hinder tissue repair. This study developed a multifunctional core-shell structure 3D-printed chitosan/collagen (CS/Col) hydrogel scaffold featuring a pH-degradable shell. The core is loaded with exosomes (Exo) and epidermal growth factor (EGF), while the outer layer adsorbs glucose oxidase (GOx), superoxide dismutase (SOD), and antimicrobial peptides (AMPs), coated with polydopamine (PDA) as an acid-responsive shell. The optimized CS : Col = 3 : 2 hydrogel exhibits excellent printability, mechanical properties, and structural stability after crosslinking with genipin (GEN). The PDA shell enables tiered release in acidic inflammatory environments: early release of GOx/SOD/AMP for antibacterial and antioxidant effects, followed by Exo and EGF release to promote tissue regeneration. ",
+      "year": "2026",
+      "journal": "Biomaterials science",
+      "authors": [
+        "Du Yunxia",
+        "Xiao Di",
+        "Ren Changle",
+        "Li Zhenlan",
+        "Wang Xiaofeng"
+      ],
+      "mesh_terms": [
+        "Chitosan",
+        "Animals",
+        "Hydrogels",
+        "Wound Healing",
+        "Indoles",
+        "Polymers",
+        "Collagen",
+        "Printing, Three-Dimensional",
+        "Rabbits",
+        "Hydrogen-Ion Concentration"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41685930/"
+    },
+    {
+      "pmid": "41319904",
+      "title": "Enhanced cellular and transdermal delivery of the modified chromatin using gH625 cell-penetrating peptide.",
+      "abstract": "Development of a transdermal drug delivery system must overcome the limited efficacy and reliability of current skin penetration methods. This study examined whether synthetic chromatin conjugated with the cell-penetrating peptide gH625 could traverse the epidermal barrier while maintaining cargo bioactivity. gH625-linked histone H2A assembled into chromatin was used to deliver DNA and peptides without penetration enhancers. gH625-chromatin increased cellular penetration by 150% compared with wild-type chromatin. Ex vivo porcine and in vivo mouse skin models demonstrated enhanced penetration depth up to 242 μm within 24 h, with signals confined to the dermis, indicating safe localized delivery. Epidermal growth factor (EGF) displayed at the histone H2B C-terminus maintained activity equivalent to free EGF, promoting cell growth, elevated COL1A1 secretion, and accelerated wound closure. These findings establish a chromatin-based nanoplatform for non-invasive transdermal delivery of bioactive macromolecules, filling a key gap in skin-targeted biotherapeutic delivery.",
+      "year": "2026",
+      "journal": "Nanomedicine : nanotechnology, biology, and medicine",
+      "authors": [
+        "Zhang Xinghan",
+        "Liang Yuxin",
+        "Zonta Francesco",
+        "Park Jeong Hyeon"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Cell-Penetrating Peptides",
+        "Administration, Cutaneous",
+        "Chromatin",
+        "Mice",
+        "Swine",
+        "Drug Delivery Systems",
+        "Histones",
+        "Skin",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41319904/"
+    },
+    {
+      "pmid": "41035218",
+      "title": "Edible Bird's Nest Peptide- an Active Peptide With Potential in Promoting Skin Repair.",
+      "abstract": "Skin damage and aging are caused by various factors, including UV radiation and air pollution. Edible bird's nest peptide (EBNP) was a type of safe short molecule peptide that could protect the skin by providing anti-oxidation and anti-inflammatory properties. In this study, the effect of EBNP on pro-tissue regeneration was examined. The findings revealed that EBNP contained epidermal growth factor (EGF) and could stimulate wound healing in cells and zebrafish larvae. The mechanism of skin repairing was further investigated. On the one hand, EBNP increased the synthesis of structural proteins and remodelled the extracellular matrix (ECM) by up-regulating the expression of COL1A1 gene in cells as well as col1a1b, eln1, and eln2 genes in zebrafish larvae. Furthermore, EBNP had an anti-inflammatory effect, as evidenced by its capacity to reduce the production of NO and ROS, as well as the levels of IL-1, IL-6, and TNF-α and the count of neutrophils. Therefore, it was suggested that EBNP accelerated wound healing by reducing inflammation, as well as enhancing ECM remodeling through EGF-like activity, including promoting the synthesis of collagen and elastin to quickly mend wounds. It could be concluded that the EBNP had the potential to promote tissue regeneration and skin repair in the fields of food, medicine and cosmetics.",
+      "year": "2025",
+      "journal": "Biopolymers",
+      "authors": [
+        "Bai Weijuan",
+        "Zheng Fang",
+        "Liu Xuncai",
+        "Guo Baozhong",
+        "Yin Xiaoqian"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Wound Healing",
+        "Skin",
+        "Peptides",
+        "Humans",
+        "Extracellular Matrix",
+        "Birds",
+        "Epidermal Growth Factor",
+        "Anti-Inflammatory Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41035218/"
+    },
+    {
+      "pmid": "40256601",
+      "title": "Expression of an epidermal growth factor-transdermal peptide fusion protein in ",
+      "abstract": "Epidermal growth factor (EGF) is recognized for its role in regulating keratinocyte proliferation and differentiation, thereby facilitating the restoration of impaired skin barriers. Nevertheless, challenges related to the penetration and safety of EGF remain to be resolved. In this study, we evaluated the efficacy of TDP1, a transdermal peptide, in enhancing the penetration of EGF through murine skin, utilizing EGF expressed in ",
+      "year": "2025",
+      "journal": "Frontiers in plant science",
+      "authors": [
+        "Yu Guangdong",
+        "Lin Shisheng",
+        "Huang Xulong",
+        "Gao Shuang",
+        "Song Chengyang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40256601/"
+    },
+    {
+      "pmid": "39493006",
+      "title": "Multifunctional poloxamer-based thermo-responsive hydrogel loaded with human lactoferricin niosomes: ",
+      "abstract": "Chronic wound infections are attributed to delayed tissue repair, which remains a major clinical challenge in long-term health care. Particularly, infections with antibiotic resistance have more serious effects on health, often resulting in unsuccessful treatments. Thus, antimicrobial peptide (AMP)-based therapy holds promise as a potential therapeutic approach to overcoming drug resistance. Conventional wound dressing is a passive strategy for wound care that is not capable of eradicating pathogens and promoting tissue repair. In this study, we aim to construct an advanced wound dressing; a thermo-responsive hydrogel incorporated with lactoferricin (Lfcin) niosome (Lfcin-Nio/hydrogel) for bacterial pathogen treatment. The Lfcin-loaded niosome (Lfcin-Nio) has a particle size of 396.91 ± 20.96 nm, 0.38 ± 0.01 of PdI, -10.5 ± 0.3 mV of ζ potential, and 72.30 ± 7.05 % Lfcin entrapment efficiency. Lfcin-Nio exhibited broad antibacterial activity on both drug-susceptible and drug-resistant strains, and also on bacteria residing in the biofilm matrix. The Lfcin-Nio/hydrogel was fabricated from 0.5 % ",
+      "year": "2024",
+      "journal": "International journal of pharmaceutics: X",
+      "authors": [
+        "Sangboonruang Sirikwan",
+        "Semakul Natthawat",
+        "Manokruang Kiattikhun",
+        "Khammata Nuttawut",
+        "Jantakee Kanyaluck"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39493006/"
+    },
+    {
+      "pmid": "39491031",
+      "title": "Notch1 blockade by a novel, selective anti-Notch1 neutralizing antibody improves immunotherapy efficacy in melanoma by promoting an inflamed TME.",
+      "abstract": "Immune checkpoint inhibitors (ICI) have dramatically improved the life expectancy of patients with metastatic melanoma. However, about half of the patient population still present resistance to these treatments. We have previously shown Notch1 contributes to a non-inflamed TME in melanoma that reduces the response to ICI. Here, we addressed the therapeutic effects of a novel anti-Notch1 neutralizing antibody we produced, alone and in combination with immune checkpoint inhibition in melanoma models.",
+      "year": "2024",
+      "journal": "Journal of experimental & clinical cancer research : CR",
+      "authors": [
+        "de Freitas Juliano Tiburcio",
+        "Thakur Varsha",
+        "LaPorte Kathryn M",
+        "Thakur Vijay S",
+        "Flores Brian"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Receptor, Notch1",
+        "Humans",
+        "Melanoma",
+        "Immunotherapy",
+        "Antibodies, Neutralizing",
+        "Tumor Microenvironment",
+        "Cell Line, Tumor",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39491031/"
+    },
+    {
+      "pmid": "39308805",
+      "title": "Molecular farming expression of recombinant fusion proteins applied to skincare strategies.",
+      "abstract": "This review discusses the current research progress in molecular farming technology in the field of skincare, with an emphasis on molecular farming expression strategies. The strategies of transdermal drug delivery and their advantages are also highlighted. The expression of cosmetically relevant fused proteins has become an important way to enhance the efficacy of the proteins. Therefore, we also discuss the feasibility and strategies for expressing fusion proteins in ",
+      "year": "2024",
+      "journal": "PeerJ",
+      "authors": [
+        "Yu Guangdong",
+        "Zhao Wengang",
+        "Wang Yunpeng",
+        "Xu Nuo"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Recombinant Fusion Proteins",
+        "Molecular Farming",
+        "Skin Care",
+        "Cell-Penetrating Peptides",
+        "Administration, Cutaneous",
+        "Drug Delivery Systems",
+        "Cosmetics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39308805/"
+    },
+    {
+      "pmid": "38017428",
+      "title": "Extracellular vesicle-derived silk fibroin nanoparticles loaded with MFGE8 accelerate skin ulcer healing by targeting the vascular endothelial cells.",
+      "abstract": "Reduced supplies of oxygen and nutrients caused by vascular injury lead to difficult-to-heal pressure ulcers (PU) in clinical practice. Rapid vascular repair in the skin wound is the key to the resolution of this challenge, but clinical measures are still limited. We described the beneficial effects of extracellular vesicle-derived silk fibroin nanoparticles (NPs) loaded with milk fat globule EGF factor 8 (MFGE8) on accelerating skin blood vessel and PU healing by targeting CD13 in the vascular endothelial cells (VECs).",
+      "year": "2023",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Luo Liwen",
+        "Zhang Hongyu",
+        "Zhang Shiyu",
+        "Luo Chengqin",
+        "Kan Xuewei"
+      ],
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Cricetinae",
+        "Fibroins",
+        "Endothelial Cells",
+        "CHO Cells",
+        "Delayed-Action Preparations",
+        "Cricetulus",
+        "Collagen",
+        "Hydrogels"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38017428/"
+    },
+    {
+      "pmid": "37830229",
+      "title": "Low Molecular Weight Collagen Peptide (LMWCP) Promotes Hair Growth by Activating the Wnt/GSK-3β/β-Catenin Signaling Pathway.",
+      "abstract": "Low molecular weight collagen peptide (LMWCP) is a collagen hydrolysate derived from fish. We investigated the effects of LMWCP on hair growth using human dermal papilla cells (hDPCs), human hair follicles (hHFs), patch assay, and telogenic C57BL/6 mice, while also examining the underlying mechanisms of its action. LMWCP promoted proliferation and mitochondrial potential, and the secretion of hair growth-related factors, such as EGF, HB-EGF, FGF-4, and FGF-6 in hDPCs. Patch assay showed that LMWCP increased the neogeneration of new HFs in a dose-dependent manner. This result correlated with an increase in the expression of dermal papilla (DP) signature genes such as, ",
+      "year": "2024",
+      "journal": "Journal of microbiology and biotechnology",
+      "authors": [
+        "Kim Yujin",
+        "Lee Jung Ok",
+        "Lee Jung Min",
+        "Lee Mun-Hoe",
+        "Kim Hyeong-Min"
+      ],
+      "mesh_terms": [
+        "Mice",
+        "Humans",
+        "Animals",
+        "Wnt Signaling Pathway",
+        "Glycogen Synthase Kinase 3 beta",
+        "beta Catenin",
+        "Molecular Weight",
+        "Vascular Endothelial Growth Factor A",
+        "Cells, Cultured",
+        "Mice, Inbred C57BL"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37830229/"
+    },
+    {
+      "pmid": "36573202",
+      "title": "Desquamated Epithelial Cells of Unstimulated Human Whole Saliva Express Both EGF Transcript and Protein.",
+      "abstract": "The aim of this study was to investigate if desquamated oral epithelial cells (DOECs) express the epidermal growth factor (EGF) and if these cells thereby may contribute to salivary EGF contents.",
+      "year": "2022",
+      "journal": "International journal of dentistry",
+      "authors": [
+        "Aidoukovitch Alexandra",
+        "Bodahl Sara",
+        "Tufvesson Ellen",
+        "Nilsson Bengt-Olof"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36573202/"
+    },
+    {
+      "pmid": "36334906",
+      "title": "Delivery of a peptide/microRNA blend via electrospun antimicrobial nanofibres for wound repair.",
+      "abstract": "Downregulation of microRNA-31 (miR-31) and microRNA-132 (miR-132) has been associated with delayed wound healing. Therefore, it was hypothesised that intracellular delivery of miR-31 and miR-132, both as individual and blend formulations, could promote tissue repair. The use of a blend could minimise potential toxicity and achieve synergistic effects, thus maximising the therapeutic effect. miR-31 and miR-132 were condensed with a 30-mer positively charged amphipathic peptide, RALA, to form nanocomplexes with an average size <200 nm and zeta-potential ≥10 designed to facilitate cellular internalisation. This enabled a fold increase in miR-31 and miR-132 expression of ≥100,000 in a murine fibroblast cell line (NCTC-929) and a skin human keratinocyte cell line (HaCaT), with intracellular delivery >70% for individual and blend formulations. Moreover, incubation with the nanocomplexes increased the migration of HaCaT cells ≥25% at 4 and 8 h post-incubation, as well as downregulation of EMP-1 and RASA1 and HB-EGF and RASA1, target genes for miR-31 and miR-132, respectively. Electrospinning was then employed to produce an alginate/polyvinyl alcohol/ciprofloxacin nanofibrous wound patch to facilitate the controlled delivery of the nanocomplexes. Nanofibres were crosslinked with glutaraldehyde to improve stability in aqueous solvents, and they were proven to be biocompatible with antimicrobial activity without cellular attachment to avoid injury upon removal. RALA/miR nanoparticles were incorporated to the nanofibrous wound dressing and in vivo wound healing studies using C57BL/6J mice demonstrated a >60% acceleration in the wound closure rate at Day 7 post-wounding, a ≥1.5 increase in epidermal thickness, and a ≥2 increase in blood vessel count with respect to commercial and untreated controls. Taken together, this data proves that delivery of RALA/miR-31 and RALA/miR-132 from an alginate/polyvinyl alcohol/ciprofloxacin nanofibrous wound dressing constitutes an advanced therapy for wound healing, by accelerating wound closure and improving healed tissue quality. STATEMENT OF SIGNIFICANCE: In this study, we report for the first time the use of the RALA peptide to deliver two miRNA 31 & 132 simultaneously from an electrospun patch. Both miRs have been shown to be downregulated in wounds and this study endeavoured to deliver a blend of the miRs from a nanofibre patch. Electrospinning was used to produce an alginate/polyvinyl alcohol/ciprofloxacin wound patch to enable controlled delivery of the miRs without cellular attachment to the wound with the added benefit of anti-microbial activity. Application of the nanofibre patch loaded with the blended RALA/miR nanoparticles demonstrated a synergistic effect with acceleration of wound closure rate, a significant increase in epidermal thickness and blood vessel count with respect to commercial and untreated controls.",
+      "year": "2023",
+      "journal": "Acta biomaterialia",
+      "authors": [
+        "Bombin Adrian D Juncos",
+        "Dunne Nicholas",
+        "McCarthy Helen O"
+      ],
+      "mesh_terms": [
+        "Mice",
+        "Humans",
+        "Animals",
+        "MicroRNAs",
+        "Nanofibers",
+        "Polyvinyl Alcohol",
+        "Mice, Inbred C57BL",
+        "Wound Healing",
+        "Ciprofloxacin",
+        "Anti-Infective Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36334906/"
+    }
+  ],
+  "crawled_at": "2026-07-06T22:27:18.350247"
+}

@@ -1,0 +1,114 @@
+{
+  "ingredient_id": "beta_glucan",
+  "name_kr": "베타글루칸",
+  "name_en": "Beta-Glucan",
+  "query": "(\"Beta-Glucan\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 4,
+  "recent_complete_count": 3,
+  "trials": [
+    {
+      "nct_id": "NCT03154619",
+      "title": "Efficacy of TR 987, Beta-1,3-1,6-D-glucan, in the Treatment of Chronic Venous Insufficiency Ulcers",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Venous Leg Ulcer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "0.1% TR 987"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo gel"
+        }
+      ],
+      "sponsor": "SerenaGroup, Inc.",
+      "primary_completion": "2019-04-04",
+      "url": "https://clinicaltrials.gov/study/NCT03154619"
+    },
+    {
+      "nct_id": "NCT04674306",
+      "title": "Adjuvant Therapy With an Alpha-lactalbumin Vaccine in Triple-Negative Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pathologic Stage IIA-IIIC Triple-Negative Breast Cancer",
+        "TNBC - Triple-Negative Breast Cancer",
+        "Residual Disease"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "α-lactalbumin vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Zymosan"
+        }
+      ],
+      "sponsor": "George T. Budd",
+      "primary_completion": "2025-11",
+      "url": "https://clinicaltrials.gov/study/NCT04674306"
+    },
+    {
+      "nct_id": "NCT07524439",
+      "title": "Improving the Care of Incontinence-Associated Dermatitis (IAD) Using a Beta-Glucan Cream as a Hydrating and Soothing Agent",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Fecal Incontinence",
+        "Urinary Incontinence",
+        "Diaper Rash",
+        "Irritant Contact Dermatitis Caused by Faeces",
+        "Irritant Contact Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Soothing Beta Cream (Dr. Mom)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard of Care"
+        }
+      ],
+      "sponsor": "University of Alberta",
+      "primary_completion": "2027-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07524439"
+    },
+    {
+      "nct_id": "NCT04513028",
+      "title": "Beta Glucan's Effect on Pembrolizumab Immunologic Response in Stage III-IV Melanoma",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melanoma Stage III",
+        "Melanoma Stage IV"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Beta-Glucan"
+        }
+      ],
+      "sponsor": "Kelly McMasters",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT04513028"
+    }
+  ],
+  "fetched_at": "2026-07-06T22:26:52.639578"
+}

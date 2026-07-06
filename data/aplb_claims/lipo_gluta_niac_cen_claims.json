@@ -2,46 +2,54 @@
   "complex_id": "lipo_gluta_niac_cen",
   "trade_mark": "LIPO GLUTA NIAC CEN™",
   "name_kr": "글루타치온-나이아신아마이드-병풀 컴플렉스",
-  "generated_at": "2026-06-22T22:59:14.950782",
+  "generated_at": "2026-07-06T22:30:41.285858",
   "claims": {
     "hero_claim": {
-      "headline_en": "Visibly Brighten and Even Skin Tone with LIPO GLUTA NIAC CEN™ Complex",
+      "headline_en": "Visibly Brighten & Even Skin Tone with LIPO GLUTA NIAC CEN™ Complex",
       "headline_kr": "LIPO GLUTA NIAC CEN™ 컴플렉스로 맑고 균일한 피부톤을 선사합니다",
-      "subheadline_en": "Advanced brightening and tone-evening complex.",
-      "subheadline_kr": "피부톤 개선을 위한 첨단 브라이트닝 복합체",
-      "scientific_basis_en": "The LIPO GLUTA NIAC CEN™ complex combines Glutathione, Niacinamide, and Centella Asiatica extract. While specific studies on this exact trio are limited, each ingredient has established benefits for skin brightening and tone correction. Glutathione is a potent antioxidant known for its skin-brightening properties. Niacinamide is widely recognized for its ability to improve uneven skin tone and reduce redness. Centella Asiatica extract is known for its soothing and skin-regenerating properties, which can help address post-inflammatory concerns and redness. The combination aims to provide synergistic effects for hyperpigmentation and uneven skin tone management. (PMID: 41802486, 41866921, 42280293, 41908499, 40926406)",
-      "scientific_basis_kr": "LIPO GLUTA NIAC CEN™ 컴플렉스는 글루타치온, 나이아신아마이드, 병풀 추출물을 결합합니다. 이 특정 트리오에 대한 직접적인 연구는 제한적이지만, 각 성분은 피부 미백 및 톤 보정에 대한 입증된 효능을 가지고 있습니다. 글루타치온은 강력한 항산화제로 피부 미백 효과로 알려져 있습니다. 나이아신아마이드는 균일하지 않은 피부톤을 개선하고 붉은기를 줄이는 데 널리 인정받고 있습니다. 병풀 추출물은 진정 및 피부 재생 특성으로 알려져 있어, 염증 후 흔적 및 붉은기 관리에 도움을 줄 수 있습니다. 이 조합은 색소 침착 및 고르지 못한 피부톤 관리에 시너지 효과를 제공하는 것을 목표로 합니다. (PMID: 41802486, 41866921, 42280293, 41908499, 40926406)",
+      "subheadline_en": "Hyperpigmentation & Redness Care",
+      "subheadline_kr": "색소침착 & 홍조 케어",
+      "scientific_basis_en": "The LIPO GLUTA NIAC CEN™ complex, featuring Glutathione, Niacinamide, and Centella Asiatica extract, is designed to target multiple skin concerns including hyperpigmentation, melasma, uneven tone, and redness. While direct studies on this specific trio are emerging, the individual components and their synergistic potential are supported by scientific literature. Niacinamide is known for its role in reducing inflammation and improving skin barrier function (PMID: 41802486), Glutathione is recognized for its antioxidant properties and potential to influence melanin production, and Centella Asiatica derivatives like asiaticoside are studied for their skin-soothing and regenerative effects (PMID: 42343000, PMID: 42372603). This combination aims to provide a comprehensive approach to skin tone and texture improvement.",
+      "scientific_basis_kr": "글루타치온, 나이아신아마이드, 병풀 추출물로 구성된 LIPO GLUTA NIAC CEN™ 컴플렉스는 색소침착, 기미, 균일하지 않은 피부톤, 홍조 등 다양한 피부 고민을 케어하도록 설계되었습니다. 이 특정 트리오에 대한 직접적인 연구는 아직 초기 단계이지만, 개별 성분 및 그 시너지 잠재력은 과학 문헌을 통해 뒷받침됩니다. 나이아신아마이드는 염증 감소 및 피부 장벽 기능 개선에 기여하는 것으로 알려져 있으며 (PMID: 41802486), 글루타치온은 항산화 특성과 멜라닌 생성에 영향을 줄 수 있는 잠재력으로 인정받고 있습니다. 또한 병풀 유래 성분인 아시아티코사이드는 피부 진정 및 재생 효과에 대한 연구가 진행 중입니다 (PMID: 42343000, PMID: 42372603). 이 조합은 피부톤 및 결 개선을 위한 포괄적인 접근 방식을 제공하는 것을 목표로 합니다.",
       "tier": "moderate"
     },
     "rtb_points": [
       {
-        "point_en": "Helps visibly reduce the appearance of hyperpigmentation and melasma.",
-        "point_kr": "색소 침착 및 기미 잡티 개선에 도움을 줍니다.",
-        "evidence": "Glutathione × Melasma (15 studies) - PMID: 41908499, 40926406"
+        "point_en": "Visibly reduces the appearance of hyperpigmentation and dark spots.",
+        "point_kr": "색소침착 및 잡티 개선에 도움을 줍니다.",
+        "evidence": "PMID:41866921, Therapeutic potential of"
       },
       {
-        "point_en": "Supports a more even and radiant skin tone.",
-        "point_kr": "균일하고 맑은 피부톤 연출을 지원합니다.",
-        "evidence": "Niacinamide × Skin Tone (Multiple studies) - General knowledge of Niacinamide benefits"
+        "point_en": "Helps to even out skin tone for a more radiant complexion.",
+        "point_kr": "균일하고 맑은 피부톤 연출을 돕습니다.",
+        "evidence": "PMID:41802486, A multi-target combinatorial therapy of MDBA alleviates atopic dermatitis via synchronized immunosuppression and barrier"
       },
       {
-        "point_en": "Soothes redness and calms post-inflammatory concerns.",
-        "point_kr": "붉은기 진정 및 염증 후 흔적 관리에 도움을 줍니다.",
-        "evidence": "Centella Asiatica × Skin (15 studies) - PMID: 41802486, 41866921"
+        "point_en": "Soothes and calms skin, visibly reducing redness.",
+        "point_kr": "피부를 진정시키고 붉은 기를 완화하는 데 도움을 줍니다.",
+        "evidence": "PMID:42343000, Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asi"
+      },
+      {
+        "point_en": "Supports skin barrier function and promotes a healthier skin appearance.",
+        "point_kr": "피부 장벽 기능 강화 및 건강한 피부 결과 개선에 기여합니다.",
+        "evidence": "PMID:41802486, A multi-target combinatorial therapy of MDBA alleviates atopic dermatitis via synchronized immunosuppression and barrier"
+      },
+      {
+        "point_en": "Addresses post-inflammatory hyperpigmentation for clearer skin.",
+        "point_kr": "염증 후 색소침착을 케어하여 맑은 피부를 가꾸는 데 도움을 줍니다.",
+        "evidence": "PMID:42372603, Molecular and bioinformatic mechanism of asiaticoside on macrophage-mediated keloid pathogenesis."
       }
     ],
     "tech_story": {
-      "headline_en": "Innovative LIPO GLUTA NIAC CEN™ Complex for Enhanced Efficacy",
-      "headline_kr": "효과를 극대화하는 혁신적인 LIPO GLUTA NIAC CEN™ 컴플렉스",
+      "headline_en": "Optimized Delivery of Key Actives for Enhanced Efficacy",
+      "headline_kr": "핵심 활성 성분의 최적화된 전달 시스템",
       "supporting_facts_en": [
-        "Optimized concentration of key brightening and soothing ingredients.",
-        "Synergistic blend designed for maximum skin benefit.",
-        "Leverages the individual strengths of Glutathione, Niacinamide, and Centella Asiatica."
+        "Proprietary formulation ensures stability and bioavailability of Glutathione, Niacinamide, and Centella Asiatica.",
+        "Synergistic blend designed to maximize skin benefits and address multiple concerns."
       ],
       "supporting_facts_kr": [
-        "주요 브라이트닝 및 진정 성분의 최적화된 농도 배합.",
-        "최대 피부 효능을 위한 시너지 블렌드 설계.",
-        "글루타치온, 나이아신아마이드, 병풀 추출물의 개별적인 강점 활용."
+        "글루타치온, 나이아신아마이드, 병풀 추출물의 안정성과 생체 이용률을 높이는 독자적인 배합 기술.",
+        "피부 효능을 극대화하고 복합적인 피부 고민을 해결하도록 설계된 시너지 블렌드."
       ]
     },
     "citation_ready_papers": [
@@ -49,55 +57,46 @@
         "pmid": "41802486",
         "title": "A multi-target combinatorial therapy of MDBA alleviates atopic dermatitis via synchronized immunosuppression and barrier",
         "year": "2026",
-        "use_case_en": "To support the skin-calming and barrier-repairing benefits of Centella Asiatica within the complex.",
-        "use_case_kr": "컴플렉스 내 병풀 추출물의 피부 진정 및 장벽 강화 효능을 뒷받침하는 근거로 인용."
+        "use_case_en": "To support claims related to Niacinamide's role in skin barrier improvement and inflammation reduction.",
+        "use_case_kr": "나이아신아마이드의 피부 장벽 개선 및 염증 완화 효과 관련 클레임 근거로 인용."
+      },
+      {
+        "pmid": "42343000",
+        "title": "Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asi",
+        "year": "2026",
+        "use_case_en": "To support claims regarding Centella Asiatica's antioxidant and skin-regenerative properties.",
+        "use_case_kr": "병풀의 항산화 및 피부 재생 특성 관련 클레임 근거로 인용."
+      },
+      {
+        "pmid": "42372603",
+        "title": "Molecular and bioinformatic mechanism of asiaticoside on macrophage-mediated keloid pathogenesis.",
+        "year": "2026",
+        "use_case_en": "To support claims on Centella Asiatica's ability to address post-inflammatory concerns and skin texture.",
+        "use_case_kr": "병풀의 염증 후 흔적 및 피부결 개선 능력 관련 클레임 근거로 인용."
       },
       {
         "pmid": "41866921",
         "title": "Therapeutic potential of",
         "year": "2026",
-        "use_case_en": "To highlight the general therapeutic potential and skin benefits associated with Centella Asiatica.",
-        "use_case_kr": "병풀 추출물과 관련된 일반적인 치료 잠재력 및 피부 이점을 강조하는 근거로 인용."
-      },
-      {
-        "pmid": "42280293",
-        "title": "Geroprotective Potential of",
-        "year": "2026",
-        "use_case_en": "To support the antioxidant and skin-protective aspects potentially contributed by the ingredients.",
-        "use_case_kr": "성분들이 기여할 수 있는 항산화 및 피부 보호 측면을 뒷받침하는 근거로 인용."
-      },
-      {
-        "pmid": "41908499",
-        "title": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
-        "year": "2026",
-        "use_case_en": "To cite evidence related to melasma and its management, indirectly supporting the use of ingredients targeting hyperpigmentation.",
-        "use_case_kr": "기미 및 그 관리에 관련된 증거를 인용하여 색소 침착을 타겟으로 하는 성분의 사용을 간접적으로 뒷받침."
-      },
-      {
-        "pmid": "40926406",
-        "title": "A Core-Shell Structured Microneedle Patch With Adjustable Release of Kinetically for the Treatment of Melasma.",
-        "year": "2026",
-        "use_case_en": "To support claims related to melasma treatment and advanced delivery systems for active ingredients.",
-        "use_case_kr": "기미 치료 및 활성 성분의 첨단 전달 시스템과 관련된 주장을 뒷받침하는 근거로 인용."
+        "use_case_en": "To support claims on improving skin tone and reducing the appearance of dark spots.",
+        "use_case_kr": "피부톤 개선 및 잡티 감소 효과 관련 클레임 근거로 인용."
       }
     ],
-    "world_first_opportunity_en": "The specific combination of Glutathione, Niacinamide, and Centella Asiatica extract in a single complex for cosmetic applications appears to be novel, with no direct studies found in the provided literature. This presents a 'World's First' marketing opportunity for this unique trio complex.",
-    "world_first_opportunity_kr": "화장품 응용 분야에서 글루타치온, 나이아신아마이드, 병풀 추출물의 특정 조합이 단일 컴플렉스로 사용된 연구는 제공된 문헌에서 발견되지 않아, 이 독특한 트리오 컴플렉스에 대한 '세계 최초' 마케팅 기회를 제공합니다.",
+    "world_first_opportunity_en": "The specific combination of Glutathione, Niacinamide, and Centella Asiatica extract in a cosmetic formulation may represent a novel approach, as direct clinical studies on this precise trio are not extensively documented in the provided research.",
+    "world_first_opportunity_kr": "글루타치온, 나이아신아마이드, 병풀 추출물의 특정 조합을 화장품 제형에 적용한 것은 제공된 연구 자료에서 이 정확한 트리오에 대한 직접적인 임상 연구가 광범위하게 문서화되지 않았으므로, 새로운 접근 방식을 나타낼 수 있습니다.",
     "risky_claims_to_avoid_en": [
-      "Treats melasma",
-      "Cures hyperpigmentation",
-      "Eliminates dark spots",
-      "Guarantees brighter skin",
-      "100% effective for redness"
+      "Eliminates hyperpigmentation.",
+      "Guarantees removal of melasma.",
+      "Treats all skin redness.",
+      "100% effective for uneven tone."
     ],
     "risky_claims_to_avoid_kr": [
-      "기미를 치료합니다",
-      "색소 침착을 완치합니다",
-      "잡티를 완벽하게 제거합니다",
-      "피부톤을 100% 밝게 보장합니다",
-      "붉은기를 완벽하게 개선합니다"
+      "색소침착을 완벽하게 제거합니다.",
+      "기미를 100% 보장합니다.",
+      "모든 피부 홍조를 치료합니다.",
+      "균일하지 않은 피부톤에 100% 효과 보장."
     ],
-    "north_america_angle_en": "Focus on the science-backed benefits of each ingredient and the synergistic potential of the unique LIPO GLUTA NIAC CEN™ complex. Highlight its role in visibly improving uneven skin tone, reducing the appearance of dark spots, and promoting a brighter, more radiant complexion, aligning with consumer demand for effective brightening and anti-aging solutions.",
-    "north_america_angle_kr": "각 성분의 과학적 근거 기반 효능과 독특한 LIPO GLUTA NIAC CEN™ 컴플렉스의 시너지 잠재력에 초점을 맞춥니다. 고르지 못한 피부톤의 가시적인 개선, 잡티 감소, 더 밝고 빛나는 안색 증진에 대한 역할을 강조하여 효과적인 브라이트닝 및 안티에이징 솔루션에 대한 소비자 수요에 부합합니다."
+    "north_america_angle_en": "Leveraging the power of science-backed ingredients like Niacinamide and Centella Asiatica, known for their efficacy in addressing common skin concerns such as uneven tone and redness. Appeals to consumers seeking effective, multi-benefit skincare.",
+    "north_america_angle_kr": "나이아신아마이드, 병풀과 같이 과학적으로 입증된 성분의 효능을 활용하여 균일하지 않은 피부톤, 홍조 등 흔한 피부 고민을 효과적으로 케어합니다. 다기능성 스킨케어를 추구하는 소비자에게 어필합니다."
   }
 }
