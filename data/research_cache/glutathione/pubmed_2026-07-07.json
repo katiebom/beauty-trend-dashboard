@@ -1,0 +1,211 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42406221",
+      "title": "Immune-pathological response induced by Saprolegnia parasitica in Pangasianodon hypophthalmus and assessment of clinical efficacy of clotrimazole.",
+      "abstract": "Saprolegnia parasitica causes significant morbidity, mortality and economic loss in fish hatcheries and growing culture systems, especially during winter. The present study examined clinical and histopathological alterations in Pangasianodon hypophthalmus experimentally infected with the oomycete and evaluated the clinical efficacy of antifungal drug clotrimazole as bath treatment. Besides development of off-white cotton wool-like fungal growth on fins and skin, invasion of hyphae into underlying musculature and muscle fibre necrosis, experimental infection also induced gill lamellar hyperplasia, hepatocyte, kidney glomerular and tubular degeneration, increase in blood glucose, creatinine, aspartate transaminase (AST) and alanine aminotransferase (ALT) enzyme activities indicating widespread systemic changes in the infected fish. Globulin levels significantly decreased (P < 0.05), suggesting compromised ability of the infected fish to mount an adaptive immune response. Further, expressions of immunity and stress-related genes such as catalase, glutathione peroxidase, superoxide dismutase, heat shock protein (HSP70), tumor necrosis factor, inducible nitric oxide synthase and MHC II were up or down regulated in tissue specific manner suggesting different tissue-specific responses to the oomycete infection. Clotrimazole bath treatment of experimentally infected fish showed more than 80% survival of infected fish proved its potential in controlling saprolegniasis in fish. The present study broadens our knowledge on pathogenesis of the oomycete infection in fish and also shows a way for effective control of the infection.",
+      "year": "2026",
+      "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+      "authors": [
+        "Rathod Sanjaykumar Karsanbhai",
+        "Manna Sanjib Kumar",
+        "Bera Asit Kumar",
+        "Mishra Samikshya",
+        "Chatterjee Sohini"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Saprolegnia",
+        "Fish Diseases",
+        "Clotrimazole",
+        "Infections",
+        "Catfishes",
+        "Antifungal Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406221/"
+    },
+    {
+      "pmid": "42401927",
+      "title": "Lipoaspirate-derived secretome restores redox homeostasis to attenuate pathological scar formation.",
+      "abstract": "Pathological scars are characterized by persistent fibroblast activation and excessive extracellular matrix (ECM) deposition. Although oxidative stress and dysregulated NRF2 signaling contribute to TGF-β1-mediated fibrosis in internal organs, their roles in cutaneous pathological scarring remain unclear. Secretome-based cell-free therapies have shown regenerative and antifibrotic potential, but whether lipoaspirate-derived secretome can restore fibroblast redox homeostasis and thereby attenuate pathological scarring is unknown.",
+      "year": "2026",
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Huang Xin",
+        "Ding Pengbing",
+        "Sun Zhixuan",
+        "Xiang Haibo",
+        "Wei Muqian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42401927/"
+    },
+    {
+      "pmid": "42392283",
+      "title": "GPX1 Drives Cuproptosis-Ferroptosis Resistance in Cold Tumors.",
+      "abstract": "Cold tumors, defined by an immunosuppressive microenvironment and metabolic stress, including glutamine deficiency, frequently exhibit resistance to therapeutic interventions. This study examined the role of glutathione peroxidase 1 (GPX1) in mediating resistance to cuproptosis and ferroptosis during glutamine deprivation. Through integrated multi-omics analyses, CRISPR-mediated gene editing, and functional assays in cold tumor cell lines, we identified GPX1 as a key regulator of redox homeostasis and a protector against cuproptosis. Upstream, glutamine deprivation induced the SLC7A11 upregulation, which enhanced GPX1-mediated resistance through the maintenance of pyrimidine metabolism. Downstream, GPX1 knockout mediated cross-sensitization to ferroptosis by altering the Fenton reaction, thereby exacerbating cell death. In vivo experiments confirmed that GPX1 knockout restored sensitivity to cuproptosis inducers and improved the efficacy of PD-L1 blockade. Collectively, these findings position GPX1 as a central metabolic checkpoint in cold tumors and highlight the SLC7A11-UMPs-GPX1 axis as a promising therapeutic target for overcoming treatment resistance and enhancing immunotherapy response.",
+      "year": "2026",
+      "journal": "Free radical biology & medicine",
+      "authors": [
+        "Yang Shuang",
+        "Zhang Chengye",
+        "Mei Zhusong",
+        "Ye Qiao",
+        "Guo Guangjin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392283/"
+    },
+    {
+      "pmid": "42385181",
+      "title": "Nanoceria Provokes Apoptosis in Different Critical Organs of Mus musculus.",
+      "abstract": "Nanoceria or cerium oxide nanoparticles (CeO",
+      "year": "2026",
+      "journal": "Environmental toxicology",
+      "authors": [
+        "Saeed Hanan E",
+        "Kamel Shaimaa",
+        "Hassanen Eman I",
+        "Khalifa Ahlam G"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42385181/"
+    },
+    {
+      "pmid": "42384665",
+      "title": "Metabolic profiling of human melanoma cell lines with high and low metastatic capacity by 1H-NMR spectroscopy.",
+      "abstract": "Melanoma is one of the most aggressive forms of skin cancer due to its high metastatic potential and mortality rate. Although understanding of metabolic reprogramming in melanoma has advanced, the connection between metabolic alterations and metastatic capacity remains incomplete.",
+      "year": "2026",
+      "journal": "PloS one",
+      "authors": [
+        "Kakhki Nima Rezvani",
+        "Hegedűs Zita",
+        "Tóvári József",
+        "Mirzahosseini Arash",
+        "Noszál Béla"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanoma",
+        "Cell Line, Tumor",
+        "Metabolome",
+        "Metabolomics",
+        "Neoplasm Metastasis",
+        "Proton Magnetic Resonance Spectroscopy",
+        "Fibroblasts",
+        "Metabolic Reprogramming",
+        "Metabolic Networks and Pathways"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42384665/"
+    },
+    {
+      "pmid": "42382430",
+      "title": "Dietary Microencapsulated Roselle (",
+      "abstract": "This study evaluated the optimal dietary inclusion level of microencapsulated roselle (",
+      "year": "2026",
+      "journal": "Aquaculture nutrition",
+      "authors": [
+        "Kattakdad Supalug",
+        "Phungam Nittaya",
+        "Udduang Suriya",
+        "Thammaboud Sophasith"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42382430/"
+    },
+    {
+      "pmid": "42379703",
+      "title": "Metabolic inhibition of glutamate-cysteine ligase increases dendritic cell-mediated antitumor immunity in melanoma.",
+      "abstract": "Metabolic competition and nutrient restriction in the tumor microenvironment (TME) shape the immune infiltrate in tumors and subsequently tumor immunity. In this study we used the transgenic melanoma mouse model tg(Grm1)EPv, which spontaneously develops melanoma due to the ectopic expression of the metabotropic glutamate receptor 1 (",
+      "year": "2026",
+      "journal": "Journal for immunotherapy of cancer",
+      "authors": [
+        "Dieckmann Sophie Marie",
+        "Tripp Christoph H",
+        "Strandt Helen",
+        "Hornsteiner Florian",
+        "Schäfer Annelie Kerstin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dendritic Cells",
+        "Mice",
+        "Melanoma",
+        "Glutamate-Cysteine Ligase",
+        "Tumor Microenvironment",
+        "Mice, Transgenic",
+        "Glutamic Acid",
+        "Humans",
+        "Receptors, Metabotropic Glutamate"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42379703/"
+    },
+    {
+      "pmid": "42377202",
+      "title": "Comparative evaluation of effect of silver diamine fluoride with different anti-staining agents on shear bond strength of universal adhesive to dentin: An in vitro study.",
+      "abstract": "Dental caries is one of the most widespread chronic diseases, impacting over 2.4 billion people globally. Silver diamine fluoride (SDF) is a minimally invasive treatment known for its strong antimicrobial and remineralizing effects. However, the primary esthetic drawback of SDF is the black staining it causes on the treated tooth structure. To address this issue, adjunctive anti-staining agents such as potassium iodide (KI), glutathione (GSH), and tannic acid (TA) have been explored. These agents may not only mitigate discoloration but also affect the bonding efficiency of restorative materials applied afterward.",
+      "year": "2026",
+      "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+      "authors": [
+        "Dixit Geetika",
+        "Manuja Naveen",
+        "Chaudhary Seema",
+        "Chaitra T R",
+        "Sinha Ashish Amit"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Shear Strength",
+        "Quaternary Ammonium Compounds",
+        "Dental Bonding",
+        "Dentin",
+        "In Vitro Techniques",
+        "Silver Compounds",
+        "Materials Testing",
+        "Glutathione",
+        "Tooth Discoloration"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42377202/"
+    },
+    {
+      "pmid": "42376007",
+      "title": "Key molecular networks underlying retinol's biphasic effects on cell proliferation through multi-omics integrative analysis using genome-scale metabolic modeling.",
+      "abstract": "Retinol is widely used in skin anti-aging, yet its effects exhibit significant concentration dependence. However, the underlying biphasic mechanism, that is low concentrations promote cell proliferation while high concentrations are inhibitory, remains incompletely understood. Here, we employed multi-omics analysis and genome-scale metabolic models (GEMs) to systematically infer the key molecular networks underlying the distinct effects of retinol concentrations on human foreskin fibroblasts (HFFs). Our results suggest that low retinol concentrations appear to promote proliferation by activating the canonical retinoic acid signaling pathway and inducing sophisticated metabolic reprogramming. This reprogramming appears to involve prioritizing the coenzyme NADPH for retinol processing and antioxidant defense, which is associated with a compensatory suppression of NADPH-consuming cholesterol biosynthesis. This metabolic shift may foster a favorable intracellular environment for growth. Conversely, high concentrations are linked to a multi-system injury cascade. The observed key feature likely involves significant oxidative stress, associated with the buildup of toxic metabolic intermediates and a pro-inflammatory lipid storm marked by elevated leukotrienes. These stress responses align with the signatures of ferroptosis, a form of programmed cell death characterized by glutathione (GSH) defense system collapse and downregulation of the key regulator ",
+      "year": "2027",
+      "journal": "Synthetic and systems biotechnology",
+      "authors": [
+        "He Peishuang",
+        "Xiang Guangming",
+        "Yan Yizhen",
+        "Zhong Jiangming",
+        "Liang Yuting"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42376007/"
+    },
+    {
+      "pmid": "42374871",
+      "title": "FOXO3/HMOX1 axis promotes melanoma progression by regulating ferroptosis and immune escape.",
+      "abstract": "Melanoma represents a highly aggressive form of skin cancer characterized by significant invasiveness and immune evasion capabilities. Although heme oxygenase-1 (HMOX1) participates in cellular stress responses and ferroptosis, its precise functional roles in melanoma pathogenesis remain incompletely defined.",
+      "year": "2026",
+      "journal": "Histology and histopathology",
+      "authors": [
+        "Ji Suzhi",
+        "Hasimu Maimaitiaili",
+        "Du Junwei",
+        "Dai Zhibing",
+        "Wu Junshen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42374871/"
+    }
+  ],
+  "crawled_at": "2026-07-07T22:18:39.709563",
+  "source": "pubmed"
+}
