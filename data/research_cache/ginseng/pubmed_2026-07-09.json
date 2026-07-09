@@ -1,0 +1,193 @@
+{
+  "ingredient_id": "ginseng",
+  "name_en": "Ginseng",
+  "name_kr": "인삼",
+  "category": "natural",
+  "query": "\"Ginseng\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42395013",
+      "title": "Ginsenoside Rb2 modulates the skin barrier by targeting Src to regulate PI3K/Akt signaling in HaCaT cells.",
+      "abstract": "Ginsenoside Rb2 (G-Rb2) is a protopanaxadiol-type saponin, which is primarily enriched in the stems, leaves, and berries. G-Rb2 exhibits multiple biological effects, mainly including anti-diabetic, anti-obesity, cardiovascular protection, and anti-virus activities. However, the mechanism by which G-Rb2 regulates skin health has not been clearly elucidated.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Hu Haiyue",
+        "Yuan Linli",
+        "Feng Jiale",
+        "Zhang Ying",
+        "Zhang Zuo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42395013/"
+    },
+    {
+      "pmid": "42395002",
+      "title": "Valorizing ginseng residues using dimethyl ether: Recovering functional lipids and ginsenosides.",
+      "abstract": "Red ginseng marc (RGM), a byproduct of hot water extraction, contains valuable lipid fractions and bioactive compounds. Conventional extraction methods often require harsh processing conditions and additional solvent removal steps, leading to high operational costs.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Wulandari Sabrinna",
+        "Cao Ruqian",
+        "Choi Jongho",
+        "Myint Aye Aye",
+        "Kim Jaehoon"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42395002/"
+    },
+    {
+      "pmid": "42305112",
+      "title": "Synergistic interactions in designed bacterial consortia: Dual effects on control rusty root rot and growth promotion in ginseng.",
+      "abstract": "Ginseng rusty root rot, caused by ",
+      "year": "2026",
+      "journal": "Synthetic and systems biotechnology",
+      "authors": [
+        "Tian Meng",
+        "Wang Yu",
+        "Sun Keying",
+        "Kong Lingxin",
+        "Chen Xiaolin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42305112/"
+    },
+    {
+      "pmid": "42295756",
+      "title": "Emerging Patterns in Dietary Supplement Use Among US Adults, 1999-2023.",
+      "abstract": "Dietary supplement use is widespread among US adults, but long-term national data, particularly on emerging products and COVID-19-related changes, are limited. Understanding population-level changes is essential to inform research and public health priorities.",
+      "year": "2026",
+      "journal": "JAMA network open",
+      "authors": [
+        "Lam Chun Sing",
+        "O'Connell Kelli",
+        "Monroy-Iglesias Maria J",
+        "Wang Peng",
+        "Hou Yen-Nien"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dietary Supplements",
+        "Female",
+        "United States",
+        "Adult",
+        "Cross-Sectional Studies",
+        "Middle Aged",
+        "Male",
+        "Nutrition Surveys",
+        "Vitamins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42295756/"
+    },
+    {
+      "pmid": "42280449",
+      "title": "Ginsenosides for the Management of Metabolic Dysfunction-Associated Fatty Liver Disease: A Research Update.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Zhang Ke",
+        "Qin Zenghui",
+        "Guo Qingjun",
+        "Lu Jiazhi",
+        "Luo Huiyu"
+      ],
+      "mesh_terms": [
+        "Ginsenosides",
+        "Humans",
+        "Animals",
+        "Non-alcoholic Fatty Liver Disease",
+        "Metabolic Diseases",
+        "Signal Transduction",
+        "Panax",
+        "Antioxidants",
+        "Liver",
+        "Fatty Liver"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42280449/"
+    },
+    {
+      "pmid": "42112130",
+      "title": "Natural compounds for diabetes-related wounds or ulcers therapy: Evidence from preclinical and clinical studies.",
+      "abstract": "Diabetes-related wounds or ulcers are one of the complications of diabetes that can cause a variety of functional losses. Treatment of diabetic skin ulcer (DSU) focuses on alleviating foot pressure and enhancing local circulation. Despite the availability of these treatments, the number of drugs for wound application is limited. In recent years, natural compounds obtained from plants have demonstrated positive effects on DSU and have effective in preclinical and clinical studies.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Teng Jia",
+        "Yan Guanchi",
+        "Yang Ming",
+        "Wang Shuangyue",
+        "Zhao Yuezhu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112130/"
+    },
+    {
+      "pmid": "42112127",
+      "title": "Ginsenosides exhibit potential therapeutic potential in photoaging by regulating keratinocyte ferroptosis.",
+      "abstract": "Skin photoaging is a chronic inflammatory state induced by ultraviolet (UV) radiation. Ferroptosis has recently emerged as a critical mechanism implicated in the pathogenesis of photoaging. Ginsenosides, active compounds in ginseng, hold potential for treating skin photoaging, but their molecular mechanisms in regulating ferroptosis remain unclear.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Tang Lulu",
+        "Chen Xianjie",
+        "Chen Keyue",
+        "Zheng Xinlei",
+        "Ye Min"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112127/"
+    },
+    {
+      "pmid": "42112114",
+      "title": "Red ginseng-derived components attenuate UVB-induced keratinocyte senescence via senomorphic mechanisms.",
+      "abstract": "Senescent cells progressively accumulate within tissues and induce further senescence in neighboring cells through the senescence-associated secretory phenotype (SASP), thereby contributing to tissue dysfunction and aging. While senolytics selectively eliminate senescent cells, senomorphics modulate SASP without inducing cell death. Although red ginseng has been studied for anti-photoaging properties, its role in directly modulating SASP-driven keratinocyte senescence and paracrine aging signaling remains insufficiently defined. This study aimed to investigate whether Korean red ginseng-derived components (RGCs) exert senolytic or senomorphic activity in ultraviolet B (UVB)-induced senescent primary human keratinocytes.",
+      "year": "2026",
+      "journal": "Journal of ginseng research",
+      "authors": [
+        "Lim Sung Ha",
+        "Seo Hee-Seok",
+        "Kang Hyun",
+        "Hong Seung-Phil"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42112114/"
+    },
+    {
+      "pmid": "42100332",
+      "title": "Immunomodulatory functions of ginsenosides in skin diseases: molecular mechanisms and therapeutic prospects.",
+      "abstract": "Ginsenosides, the primary bioactive constituents of ",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Yuan Donglin",
+        "Li Jiaxin",
+        "Wang Zian",
+        "Han Yu",
+        "Yu Xue"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42100332/"
+    },
+    {
+      "pmid": "42098749",
+      "title": "Research progress on the mechanisms of Panax ginseng and its active components in maintaining skin homeostasis and disease intervention.",
+      "abstract": "Panax ginseng (Panax ginseng C.A. Meyer) is a classic herbal medicine widely utilized in dermatological management, yet its precise therapeutic mechanisms have only recently begun to be fully elucidated. This review systematically synthesizes the pharmacological roles of ginseng's active components, including ginsenosides, polysaccharides, and gintonin, in maintaining skin homeostasis and treating various cutaneous pathologies. Emerging evidence suggests that the efficacy of ginseng extends beyond direct molecular interactions, exhibiting the distinct characteristics of \"indirect pharmacology.\" Specifically, parent ginsenosides function primarily as natural prodrugs that require microbial biotransformation into high-affinity active metabolites, such as Compound K and Rh2, to exert potent therapeutic effects. Functionally, these components regulate skin health by mobilizing endogenous host defense systems, particularly through the activation of the Nrf2/ARE antioxidant pathway and the suppression of inflammatory cascades via the NF-κB, MAPK, and IL-1 signaling networks. Furthermore, they remodel the systemic microenvironment through the gut-skin axis, facilitating metabolic homeostasis to improve skin barrier function. Notably, biotransformation rates and ultimate therapeutic efficacy are highly dependent on individualized variables, such as host age, dietary patterns, and baseline disease states. This systemic regulation has demonstrated robust efficacy in intervening in complex pathologies, including atopic dermatitis, psoriasis, and skin cancer. Additionally, this article addresses the translational bottleneck of low bioavailability and evaluates recent advances in novel skin delivery systems, specifically those utilizing ginseng-derived exosomes. Collectively, this review provides a scientific framework for understanding the systemic actions of ginseng, supporting its development as a precision botanical therapy for dermatological applications.",
+      "year": "2026",
+      "journal": "Chinese medicine",
+      "authors": [
+        "Ding Lu",
+        "Wang Zihan",
+        "Hou Nanqi",
+        "Zhou Yuchi",
+        "Qi Hongyu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42098749/"
+    }
+  ],
+  "crawled_at": "2026-07-09T22:27:36.745069",
+  "source": "pubmed"
+}
