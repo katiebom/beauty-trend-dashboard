@@ -1,0 +1,55 @@
+{
+  "ingredient_id": "vitamin_c_laa",
+  "name_en": "Vitamin C L-Ascorbic Acid",
+  "name_kr": "비타민C (L-AA)",
+  "category": "brightening",
+  "query": "\"Vitamin C L-Ascorbic Acid\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 2,
+  "articles": [
+    {
+      "pmid": "33937869",
+      "title": "Encapsulation and controlled release of vitamin C in modified cellulose nanocrystal/chitosan nanocapsules.",
+      "abstract": "Vitamin C (VC), widely used in food, pharmaceutical and cosmetic products, is susceptible to degradation, and new formulations are necessary to maintain its stability. To address this challenge, VC encapsulation was achieved via electrostatic interaction with glycidyltrimethylammonium chloride (GTMAC)-chitosan (GCh) followed by cross-linking with phosphorylated-cellulose nanocrystals (PCNC) to form VC-GCh-PCNC nanocapsules. The particle size, surface charge, degradation, encapsulation efficiency, cumulative release, free-radical scavenging assay, and antibacterial test were quantified. Additionally, a simulated human gastrointestinal environment was used to assess the efficacy of the encapsulated VC under physiological conditions. Both VC loaded, GCh-PCNC, and GCh-Sodium tripolyphosphate (TPP) nanocapsules were spherical with a diameter of 450 ​± ​8 and 428 ​± ​6 ​nm respectively. VC-GCh-PCNC displayed a higher encapsulation efficiency of 90.3 ​± ​0.42% and a sustained release over 14 days. The release profiles were fitted to the first-order and Higuchi kinetic models with R",
+      "year": "2021",
+      "journal": "Current research in food science",
+      "authors": [
+        "Baek Jiyoo",
+        "Ramasamy Mohankandhasamy",
+        "Willis Natasha Carly",
+        "Kim Dae Sung",
+        "Anderson William A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33937869/"
+    },
+    {
+      "pmid": "31353789",
+      "title": "Advances in dermatology using DNA aptamer \"Aptamin C\" innovation: Oxidative stress prevention and effect maximization of vitamin C through antioxidation.",
+      "abstract": "Vitamin C (also known as L-ascorbic acid) plays a critical role in reactive oxygen species (ROS) reduction and cell regeneration by protecting cell from oxidative stress. Although vitamin C is widely used in cosmetic and therapeutic markets, there is considerable evidence that vitamin C easily undergoes oxidation by air, pH, temperature, and UV light upon storage. This deficiency of vitamin C decreases its potency as an antioxidant and reduces the shelf-life of products containing vitamin C as its ingredient. To overcome the deficiency of vitamin C, we have developed Aptamin C, an innovative DNA aptamer maximizing the antioxidant efficacy of vitamin C by binding to the reduced form of vitamin C and delaying its oxidation.",
+      "year": "2020",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Choi Sooho",
+        "Han Jeongmin",
+        "Kim Ji Hyun",
+        "Kim A-Ru",
+        "Kim Sang-Heon"
+      ],
+      "mesh_terms": [
+        "Antioxidants",
+        "Aptamers, Nucleotide",
+        "Ascorbic Acid",
+        "Cell Line",
+        "Cell Survival",
+        "Cosmeceuticals",
+        "Drug Compounding",
+        "Drug Storage",
+        "Female",
+        "Fibroblasts"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31353789/"
+    }
+  ],
+  "crawled_at": "2026-07-12T21:51:48.235815",
+  "source": "pubmed"
+}
