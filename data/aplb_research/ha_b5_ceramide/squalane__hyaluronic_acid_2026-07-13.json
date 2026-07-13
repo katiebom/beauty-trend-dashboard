@@ -1,0 +1,25 @@
+{
+  "ingredient_a": "squalane",
+  "ingredient_b": "hyaluronic acid",
+  "query": "(\"squalane\"[Title/Abstract] AND \"hyaluronic acid\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "39741562",
+      "title": "The Role of Moisturizer Containing Anti-inflammatory on Skin Hydration in Mild-Moderate Atopic Dermatitis Patients.",
+      "abstract": "Atopic dermatitis (AD) is a chronic, inflammatory skin condition characterized by eczema lesions and dry, itchy skin. Recent guidelines for the management of AD emphasize the importance of using moisturizers in the management of AD. This study is a double-blind clinical trial to determine the effectiveness of moisturizers containing anti-inflammatory ingredients compared with moisturizers without anti-inflammatory ingredients for skin hydration in mild to moderate adult AD patients for 14 days at the Dermatology and Venereology Outpatient Clinic at Dr. Soetomo General Academic Hospital. There was a significant difference (",
+      "year": "2024",
+      "journal": "Dermatology research and practice",
+      "authors": [
+        "Prakoeswa Cita Rosita Sigit",
+        "Damayanti",
+        "Anggraeni Sylvia",
+        "Umborowati Menul Ayu",
+        "Sari Maylita"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39741562/"
+    }
+  ],
+  "crawled_at": "2026-07-13T22:03:36.420287"
+}

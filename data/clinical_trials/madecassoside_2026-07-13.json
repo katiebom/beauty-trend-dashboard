@@ -1,0 +1,37 @@
+{
+  "ingredient_id": "madecassoside",
+  "name_kr": "마데카소사이드",
+  "name_en": "Madecassoside",
+  "query": "(\"Madecassoside\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 1,
+  "recent_complete_count": 1,
+  "trials": [
+    {
+      "nct_id": "NCT07606703",
+      "title": "A Prospective Study of Madecassoside Tablets in Sclerotic Chronic Graft-versus-Host Disease After Allo-HSCT",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Graft-Versus-Host Disease",
+        "Graft vs Host Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Madecassoside Tablets"
+        },
+        {
+          "type": "DRUG",
+          "name": "Standard Therapy"
+        }
+      ],
+      "sponsor": "WeiShi",
+      "primary_completion": "2028-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT07606703"
+    }
+  ],
+  "fetched_at": "2026-07-13T22:03:04.096064"
+}

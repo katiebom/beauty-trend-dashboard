@@ -1,0 +1,373 @@
+{
+  "ingredient_a": "madecassoside",
+  "ingredient_b": "skin",
+  "query": "(\"madecassoside\"[Title/Abstract] AND \"skin\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42343000",
+      "title": "Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asiatica.",
+      "abstract": "The aging process is essentially a result of a network of biological events including oxidative stress, chronic inflammation, cellular senescence, mitochondrial dysfunction, and neurodegeneration. In the search for effective multi-target anti-aging strategies, there is a growing trend towards the use of plant compounds with strong bioactivities. Among numerous medicinal plants, Urtica dioica and Centella asiatica are two of the most extensively studied for their antioxidant, anti-inflammatory, neuroprotective, and skin-regenerative effects. This paper is a comprehensive review of the phytochemical contents, pharmacological effects, and combined potentials of these plants in the alleviation of aging-related biological markers. Urtica dioica is a plant that is packed with flavonoids, phenolic acids, sterols, and vitamins and it has a strong capability to scavenge free radicals. It also changes the inflammatory pathways and keeps cells alive. Centella asiatica, which is known to have triterpenoids like asiaticoside, madecassoside, and asiatic acid, not only facilitates collagen production but also improves brain function and is effective in getting rid of oxidative and inflammatory stressors that lead to aging. As a result, the duo of these natural products exhibits the most similar functions that can navigate the senescence-associated pathways, attack neuronal loss and preserve skin morphology and physiology. Although there is sufficient preclinical evidence and some clinical trials to support the fact that these two plant extracts have therapeutic effects, the problems related to standardization, bioavailability, safety, and regulatory approval of combined herbal formulations remain. This review bridges the gap between the present mechanistic understanding, clinical utilization, drawbacks, and future directions, thereby, reflecting the potential of U. dioica and C. asiatica as two synergistic anti-aging agents in nutraceutical, cosmeceutical, and integrative medicine frameworks.",
+      "year": "2026",
+      "journal": "Inflammopharmacology",
+      "authors": [
+        "Dobriyal Pratiksha",
+        "Singh Vaishnavi",
+        "Goel Falguni",
+        "Garg Vipin Kumar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42343000/"
+    },
+    {
+      "pmid": "42280293",
+      "title": "Geroprotective Potential of ",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Borowicz Kinga K"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Centella",
+        "Animals",
+        "Cellular Senescence",
+        "Triterpenes",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Antioxidants",
+        "Signal Transduction",
+        "Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42280293/"
+    },
+    {
+      "pmid": "41421280",
+      "title": "Madecassoside attenuated UVB irradiation-induced skin ferroptosis by targeting POR.",
+      "abstract": "UVB exposure induces oxidative damage and accelerates skin photoaging. Madecassoside (MA), a triterpenoid saponin from Centella asiatica (L.) Urban, has antioxidant and anti-inflammatory properties, but its role in ferroptosis remains unclear.",
+      "year": "2026",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Liu Lingxia",
+        "Niu Pengxiang",
+        "Xiao Bo",
+        "Ma Haotian",
+        "Cui Yating"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ultraviolet Rays",
+        "Ferroptosis",
+        "Humans",
+        "Mice",
+        "Triterpenes",
+        "Skin",
+        "Reactive Oxygen Species",
+        "Antioxidants",
+        "Lipid Peroxidation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41421280/"
+    },
+    {
+      "pmid": "41273894",
+      "title": "Madecassoside-functionalized platinum-based liposomes for sensitive skin: Enhancing rapid soothing and barrier homeostasis.",
+      "abstract": "Platinum-based materials exhibit diverse biological activities, but their application in skincare is limited by poor targeting and low efficacy in treating inflammation and sensory irritation. Herein, we developed madecassoside-functionalized platinum (Pt-MAD) particles by integrating the bioactive plant-derived compound madecassoside (MAD) with platinum to enhance anti-inflammatory and neurogenic-soothing effects. These Pt-MAD complexes were encapsulated within liposomes to improve dispersion stability and transdermal delivery for dermatological applications. In vitro studies demonstrated that Pt-MAD liposomes outperformed conventional Pt-PVP liposomes in reducing inflammation, itch, and redness. MAD surface functionalization enabled targeted modulation of multiple inflammatory mediators, including TNF-α, IL-1β, and IL-17, thereby promoting rapid soothing while supporting epidermal barrier homeostasis through sustained regulation of neurogenic inflammatory pathways. To explore the underlying mechanism, AI-driven docking simulations were performed, revealing that Pt-MAD exhibited strong binding affinities toward key inflammatory receptors, including TRPV1, TRPA1, NK1R, H1R, ETAR. These findings highlight the therapeutic potential of Pt-MAD liposomes as a targeted and effective strategy for managing sensitive skin, offering rapid relief while supporting barrier homeostasis through IL-17-associated inflammatory modulation.",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Sun Jing",
+        "Zhang Dongying",
+        "Wang Dan",
+        "Li Shining",
+        "Lu Yongjie"
+      ],
+      "mesh_terms": [
+        "Liposomes",
+        "Platinum",
+        "Homeostasis",
+        "Triterpenes",
+        "Animals",
+        "Skin",
+        "Humans",
+        "Mice",
+        "Particle Size",
+        "Surface Properties"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41273894/"
+    },
+    {
+      "pmid": "41025315",
+      "title": "Transfersomal delivery of ",
+      "abstract": "This study presents the development and evaluation of ",
+      "year": "2025",
+      "journal": "Drug delivery",
+      "authors": [
+        "Lapmanee Sarawut",
+        "Bunwatcharaphansakun Phichaporn",
+        "Phongsupa Waleewan",
+        "Namdee Katawut",
+        "Suttisintong Khomson"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Mice",
+        "Triterpenes",
+        "Rats",
+        "RAW 264.7 Cells",
+        "Centella",
+        "Nanoparticles",
+        "Administration, Cutaneous",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41025315/"
+    },
+    {
+      "pmid": "41007180",
+      "title": "Validation of Madecassoside Synergy Significantly Enhanced Cryptotanshinone's Therapeutic Efficacy Against Acne Vulgaris.",
+      "abstract": "Current acne therapies face major limitations, including antibiotic resistance and skin irritancy. In this study, a synergistic strategy combining cryptotanshinone and madecassoside was developed through functional complementarity. Antibacterial activity against ",
+      "year": "2025",
+      "journal": "Bioengineering (Basel, Switzerland)",
+      "authors": [
+        "Guo Yaling",
+        "Yang Xiaobin",
+        "Tang Lifeng",
+        "Liang Tao",
+        "Xiao Rongshen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41007180/"
+    },
+    {
+      "pmid": "40957858",
+      "title": "A Split-Face Randomized Study on the Efficacy of a Platinum-Liposome-Based Facial Mask Containing Soothing Ingredients for Post-Photorejuvenation Skin Recovery.",
+      "abstract": "Photorejuvenation is commonly employed to improve skin appearance but frequently leads to transient irritation and temporary impairment of skin barrier function. Incorporating platinum (Pt)-liposome technology along with soothing ingredients such as panthenol, dipotassium glycyrrhizate, madecassoside, and Portulaca oleracea extract is expected to offer enhanced reparative and anti-inflammatory effects, helping to alleviate post-procedural skin sensitivity and restore barrier integrity.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Du Zhixin",
+        "Ren Lu",
+        "Liang Hui",
+        "Lu Yongjie",
+        "Zhang Dongying"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Liposomes",
+        "Female",
+        "Adult",
+        "Middle Aged",
+        "Skin",
+        "Skin Aging",
+        "Keratinocytes",
+        "Rejuvenation",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40957858/"
+    },
+    {
+      "pmid": "40667819",
+      "title": null,
+      "abstract": "Madecassoside, one of the main bioactive compounds found in ",
+      "year": "2026",
+      "journal": "Tissue barriers",
+      "authors": [
+        "Sucharitakul Tadhi",
+        "Chatkul Pimngeon",
+        "Satianrapapong Wilasinee",
+        "Arinno Apiwan",
+        "Wachiradejkul Wanapas"
+      ],
+      "mesh_terms": [
+        "Keratinocytes",
+        "Wound Healing",
+        "Humans",
+        "Ultraviolet Rays",
+        "Triterpenes",
+        "Centella",
+        "Skin",
+        "Apoptosis",
+        "HaCaT Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40667819/"
+    },
+    {
+      "pmid": "40659547",
+      "title": "Enhanced Skin-Protective Effects of a Novel ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "Journal of microbiology and biotechnology",
+      "authors": [
+        "Ko Kayoung",
+        "Cheon Ga Yeong",
+        "Ha Yeon Ji",
+        "Ko Ye Rin",
+        "Kim Jeong Hwan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Centella",
+        "Antioxidants",
+        "Keratinocytes",
+        "Skin",
+        "Plant Extracts",
+        "HaCaT Cells",
+        "Collagen",
+        "Triterpenes",
+        "Polyphenols"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40659547/"
+    },
+    {
+      "pmid": "40613435",
+      "title": "Evaluation of the Efficacy and Safety of a Panthenol-Enriched Mask for Skin Barrier Recovery After Facial Laser Treatment: Results of a Double-Blind Randomized Controlled Study.",
+      "abstract": "Facial laser procedures may result in compromised skin barrier function and associated discomfort. It is essential to address these issues to facilitate a swift recovery and enhance patient satisfaction.",
+      "year": "2025",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Gao Meiyan",
+        "Gao Ni",
+        "Wang Li",
+        "Yao Ting",
+        "Jing Huan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Double-Blind Method",
+        "Female",
+        "Pantothenic Acid",
+        "Adult",
+        "Middle Aged",
+        "Erythema",
+        "Skin",
+        "Male",
+        "Triterpenes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40613435/"
+    },
+    {
+      "pmid": "40612277",
+      "title": "A dual-component particulate dressing for simultaneous microenvironment modulation and tissue regeneration in infected diabetic wounds.",
+      "abstract": "The treatment of chronic diabetic wounds faces considerable challenges owing to complex environments in the wound bed, such as chronic inflammation, excessive reactive oxygen species (ROS), impaired extracellular matrix (ECM) and bacterial infection. Current strategies, including bandages, hydrogel dressings and medical devices, that focus solely on a few pathological features have limited success. Herein, a fast self-gelling polyacrylic acid (PAA) derivative/madecassoside (MA) particulate dressing with anti-inflammatory, antioxidative, collagen deposition-promoting and intrinsic antibacterial properties is developed to simultaneously regulate the wound microenvironment and promote tissue regeneration in infected diabetic wounds. The incorporation of N-[Tris(hydroxymethyl)methyl]acrylamides (THMA), a small molecule compound that has three hydroxy groups clustered together, into the PAA backbone confers the copolymer with self-gelation, robust wet tissue adhesion and a strong capacity to load MA via multiple hydrogen bonding. The developed dual-component particulate dressing effectively regulated macrophage polarization towards the anti-inflammatory phenotype, and displayed potent antibacterial activity against both Gram-positive ",
+      "year": "2025",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Li Jianwei",
+        "Wang Mengkun",
+        "Tan Xiangzhong",
+        "Duanmiao Yingxi",
+        "Zheng Xiang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40612277/"
+    },
+    {
+      "pmid": "40417891",
+      "title": "Efficacy and tolerance of a prebiotic, panthenol-containing repair balm in patients diagnosed with skin lesions requiring regenerative care.",
+      "abstract": "Skin lesions requiring regenerative care often present significant challenges for patient treatment and management. To assess the efficacy and tolerance of a soothing and repairing balm product (Cicaplast Baume B5+, La Roche-Posay, France) when used for the treatment of skin lesions requiring regenerative care, as well as its impact on quality of life (QoL) and patient satisfaction. Patients requiring regenerative care for superficial wounds or irritative dermatitis, or requiring sedative skin care after irritating treatments, such as for actinic keratosis (AK), or skin care following a dermatological procedure were included in the study. Initially, patients' QoL and clinical characteristics were assessed, and the product was then administered appropriately. During a second visit, all clinical and QoL parameters were re-evaluated, and product tolerance rate and satisfaction were assessed. In total, 2,337 subjects participated in the study. After the recommended period of use, a significant improvement in all clinical parameters examined was observed, with ≥64.9% of patients demonstrating an improvement of at least one grade for all assessed clinical symptoms, compared to the initial visit. A significant improvement in all skin discomfort parameters examined was also observed, with ≥81.2% of patients showing an improvement of at least one grade, along with a significant reduction in DLQI and CDLQI mean scores, by 67.7% and 69.8%, respectively (p<0.001), with a high tolerance rate and overall product satisfaction. This product showed significant improvement for all evaluated clinical parameters and patient QoL, with high tolerance and satisfaction rates.",
+      "year": "2025",
+      "journal": "European journal of dermatology : EJD",
+      "authors": [
+        "Gregoriou Stamatios",
+        "Vakirlis Efstratios",
+        "Zafiriou Efterpi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Quality of Life",
+        "Patient Satisfaction",
+        "Middle Aged",
+        "Aged",
+        "Pantothenic Acid",
+        "Adult",
+        "Balneology"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40417891/"
+    },
+    {
+      "pmid": "40378615",
+      "title": "Madecassoside alleviates PM",
+      "abstract": "With accelerated urbanization, air pollution has become an environmental problem that requires urgent resolution. Intensified inflammation, atopic dermatitis, and itchy skin have been reported in humans exposed to increasing PM",
+      "year": "2025",
+      "journal": "Biochemical and biophysical research communications",
+      "authors": [
+        "Tai Meiling",
+        "He Qiao",
+        "Lv Pingping",
+        "Li Wanzhao",
+        "Ling Xiao"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Triterpenes",
+        "Particulate Matter",
+        "Skin",
+        "Interleukin-1beta",
+        "HaCaT Cells",
+        "Pyroptosis",
+        "THP-1 Cells",
+        "Cell Line",
+        "Anti-Inflammatory Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40378615/"
+    },
+    {
+      "pmid": "40327581",
+      "title": "Randomized-Controlled Trial Comparing Safety and Efficacy of Repairing Balm vs Topical Antimicrobial for Post-Procedural Wounds.",
+      "abstract": "Actinic keratoses (AK) are pre-cancerous, intraepidermal lesions that exist on a continuum with squamous cell carcinoma. Cryotherapy using liquid nitrogen freezing is the most common method for treating AKs. Following cryotherapy, wound care often involves antimicrobial ointments as prophylactics against infection. However, given the rise in antibacterial resistance and possible contact dermatitis, equivalent alternatives should be identified. Cutaneous wound healing is important in dermatologic conditions.",
+      "year": "2025",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Lynde Charles W",
+        "Andriessen Anneke",
+        "Guenther Lyn",
+        "Dayeh Nour",
+        "Skotnicki Sandra"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Female",
+        "Male",
+        "Aged",
+        "Keratosis, Actinic",
+        "Treatment Outcome",
+        "Middle Aged",
+        "Anti-Bacterial Agents",
+        "Cryotherapy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40327581/"
+    },
+    {
+      "pmid": "40228613",
+      "title": "3D-printed microneedles loaded with madecassoside for periodontal soft tissue regeneration.",
+      "abstract": "Gingival recession is a common clinical concern. While surgical intervention remains the conventional approach for periodontal soft tissue regeneration, it is often associated with trauma. Recent advancements emphasize minimally invasive and effective alternatives. This study developed a hydrogel microneedle (MN) patch loaded with madecassoside using 3D printing technology to promote periodontal soft tissue regeneration. The PEGDA hydrogel-based MN patch exhibited excellent mechanical properties and biocompatibility, enabling effective skin penetration. In vitro studies demonstrated that madecassoside at specific concentrations enhanced gingival fibroblast proliferation and type I collagen expression. Animal experiments further confirmed that microneedles containing madecassoside effectively promoted periodontal soft tissue regeneration in rabbits. These findings demonstrate the potential of 3D-printed hydrogel microneedles as a promising approach for periodontal soft tissue regeneration, supporting both tissue repair and collagen synthesis.",
+      "year": "2025",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "He Yiyao",
+        "He Dawei",
+        "Ren Song",
+        "Fan Lin",
+        "Wang Lin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Rabbits",
+        "Printing, Three-Dimensional",
+        "Needles",
+        "Hydrogels",
+        "Fibroblasts",
+        "Gingiva",
+        "Regeneration",
+        "Polyethylene Glycols",
+        "Cell Proliferation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40228613/"
+    }
+  ],
+  "crawled_at": "2026-07-13T22:03:27.319052"
+}

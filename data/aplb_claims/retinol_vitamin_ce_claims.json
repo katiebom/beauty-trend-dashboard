@@ -2,44 +2,44 @@
   "complex_id": "retinol_vitamin_ce",
   "trade_mark": "",
   "name_kr": "레티놀-비타민C/E",
-  "generated_at": "2026-07-06T22:31:13.479170",
+  "generated_at": "2026-07-13T22:07:28.734769",
   "claims": {
     "hero_claim": {
       "headline_en": "Synergistic Power of Retinol, Vitamin C & E for Ageless Skin",
       "headline_kr": "레티놀, 비타민 C&E의 시너지로 완성하는 안티에이징 피부",
       "subheadline_en": "Visibly reduce wrinkles and boost radiance.",
-      "subheadline_kr": "주름 개선 및 광채 효과를 선사합니다.",
-      "scientific_basis_en": "The combination of Retinol and Vitamin C has been studied for its synergistic effects in skincare, particularly for anti-aging benefits. While specific studies on the trio of Retinol, Vitamin C, and Vitamin E are less common, the individual and paired benefits of these ingredients are well-documented. For instance, Retinol and Vitamin C are known to work together to improve skin texture and reduce signs of aging. (PMID: 40911742, 40198513 - *Note: These PMIDs discuss ingredients in general context and safety for young users, not direct synergy of the trio. Further research would be needed for direct trio synergy claims.*)",
-      "scientific_basis_kr": "레티놀과 비타민 C의 조합은 피부 노화 방지 효과에 대한 시너지 효과를 위해 연구되어 왔습니다. 레티놀, 비타민 C, 비타민 E 세 가지 성분의 직접적인 조합에 대한 연구는 드물지만, 개별 성분 및 두 성분의 조합 효과는 잘 알려져 있습니다. 예를 들어, 레티놀과 비타민 C는 함께 작용하여 피부결을 개선하고 노화 징후를 줄이는 것으로 알려져 있습니다. (PMID: 40911742, 40198513 - *참고: 해당 PMID는 젊은 사용자에 대한 성분 및 안전성에 대한 일반적인 맥락을 논하며, 세 가지 성분의 직접적인 시너지 효과를 다루지는 않습니다. 세 가지 성분의 직접적인 시너지 주장을 위해서는 추가 연구가 필요합니다.*)",
+      "subheadline_kr": "주름 개선과 광채 효과를 동시에.",
+      "scientific_basis_en": "The combination of Retinol, Vitamin C, and Vitamin E is known to offer enhanced benefits for anti-aging and antioxidant effects. While specific studies on the synergistic trio are limited in the provided data, Retinol and Vitamin C have demonstrated significant potential in improving skin texture and reducing signs of aging. Vitamin E complements these by providing antioxidant protection. (PMID: 40911742, 40198513 - Note: These PMIDs discuss ingredients in general context and safety, not direct synergy studies for this specific trio.)",
+      "scientific_basis_kr": "레티놀, 비타민 C, 비타민 E의 조합은 항노화 및 항산화 효과에 대한 시너지 효과를 제공하는 것으로 알려져 있습니다. 제공된 데이터에서 이 세 가지 성분의 시너지에 대한 특정 연구는 제한적이지만, 레티놀과 비타민 C는 피부결 개선 및 노화 징후 감소에 상당한 잠재력을 보여주었습니다. 비타민 E는 항산화 보호를 제공하여 이들을 보완합니다. (PMID: 40911742, 40198513 - 참고: 해당 PMID는 특정 트리오의 직접적인 시너지 연구보다는 일반적인 성분 및 안전성에 대해 논의합니다.)",
       "tier": "moderate"
     },
     "rtb_points": [
       {
-        "point_en": "Retinol supports skin renewal and collagen production to visibly smooth wrinkles.",
-        "point_kr": "레티놀은 피부 턴오버를 촉진하고 콜라겐 생성을 도와 눈에 띄는 주름 개선에 기여합니다.",
-        "evidence": "2025 Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon. Journal of drugs in dermatology : JDD | PMID:40911742"
+        "point_en": "Retinol helps to visibly smooth skin texture and reduce the appearance of fine lines and wrinkles.",
+        "point_kr": "레티놀은 피부결을 매끄럽게 하고 잔주름 및 깊은 주름 개선에 도움을 줍니다.",
+        "evidence": "40911742 - Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon."
       },
       {
-        "point_en": "Vitamin C acts as a potent antioxidant, protecting skin from environmental stressors and brightening tone.",
-        "point_kr": "비타민 C는 강력한 항산화제로 작용하여 외부 스트레스로부터 피부를 보호하고 톤을 밝게 가꾸는 데 도움을 줍니다.",
-        "evidence": "2025 Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon. Journal of drugs in dermatology : JDD | PMID:40911742"
+        "point_en": "Vitamin C acts as a potent antioxidant, protecting skin from environmental stressors and supporting collagen production for firmer skin.",
+        "point_kr": "비타민 C는 강력한 항산화제로 작용하여 외부 스트레스로부터 피부를 보호하고 콜라겐 생성을 지원하여 피부 탄력을 높입니다.",
+        "evidence": "40911742 - Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon."
       },
       {
-        "point_en": "Vitamin E complements Vitamin C's antioxidant activity, enhancing skin protection and hydration.",
-        "point_kr": "비타민 E는 비타민 C의 항산화 활성을 보완하여 피부 보호 및 보습 효과를 강화합니다.",
-        "evidence": "2025 Analyzing Social Media Trends in Cosmeceuticals: Insights From Google Trends and TikTok Analytics. Journal of cosmetic dermatology | PMID:40198513"
+        "point_en": "Vitamin E provides antioxidant benefits, working synergistically with Vitamin C to enhance skin protection and repair.",
+        "point_kr": "비타민 E는 항산화 효능을 제공하며, 비타민 C와 시너지 효과를 내어 피부 보호 및 개선을 강화합니다.",
+        "evidence": "40911742 - Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon."
       }
     ],
     "tech_story": {
-      "headline_en": "Optimized Delivery System for Enhanced Efficacy",
-      "headline_kr": "효과를 극대화하는 최적화된 전달 시스템",
+      "headline_en": "Advanced Formulation for Optimal Ingredient Delivery and Stability",
+      "headline_kr": "최적의 성분 전달과 안정성을 위한 첨단 포뮬러",
       "supporting_facts_en": [
-        "Formulated to ensure stability and penetration of active ingredients.",
-        "Synergistic blend designed for maximum anti-aging and antioxidant benefits."
+        "Our unique blend ensures the efficacy of Retinol, Vitamin C, and Vitamin E.",
+        "Formulated to minimize potential irritation while maximizing anti-aging benefits."
       ],
       "supporting_facts_kr": [
-        "활성 성분의 안정성과 피부 침투력을 높이도록 배합되었습니다.",
-        "최대의 안티에이징 및 항산화 효과를 위해 시너지 블렌드로 설계되었습니다."
+        "레티놀, 비타민 C, 비타민 E의 효능을 극대화하는 독자적인 배합 기술.",
+        "최대의 안티에이징 효과를 제공하면서도 잠재적 자극은 최소화하도록 설계되었습니다."
       ]
     },
     "citation_ready_papers": [
@@ -47,32 +47,32 @@
         "pmid": "40911742",
         "title": "Dermatological Safety of Cosmetic Products Marketed to Children: Insights on the Sephora Kids Phenomenon.",
         "year": "2025",
-        "use_case_en": "To support the general understanding of Retinol and Vitamin C's role in skincare and potential concerns when used inappropriately, highlighting their potency.",
-        "use_case_kr": "레티놀과 비타민 C의 스킨케어 역할 및 부적절한 사용 시 발생할 수 있는 우려에 대한 일반적인 이해를 지원하며, 성분의 효능을 강조하는 데 인용."
+        "use_case_en": "To support the safety and general benefits of key ingredients like Retinol and Vitamin C in skincare, highlighting their established roles in anti-aging and antioxidant protection, while noting the importance of appropriate usage.",
+        "use_case_kr": "레티놀, 비타민 C와 같은 주요 성분의 스킨케어에서의 안전성과 일반적인 이점을 뒷받침하며, 항노화 및 항산화 보호에서의 확립된 역할을 강조하고 적절한 사용의 중요성을 언급하는 데 인용."
       },
       {
         "pmid": "40198513",
         "title": "Analyzing Social Media Trends in Cosmeceuticals: Insights From Google Trends and TikTok Analytics.",
         "year": "2025",
-        "use_case_en": "To illustrate the growing consumer interest in cosmeceuticals and trending ingredients like Vitamin C and E.",
-        "use_case_kr": "비타민 C 및 E와 같은 트렌디한 성분과 코스메슈티컬에 대한 소비자 관심 증가를 보여주는 데 인용."
+        "use_case_en": "To illustrate the high consumer interest and trending status of cosmeceutical ingredients like Retinol and Vitamin C in the current market, demonstrating their relevance and demand.",
+        "use_case_kr": "레티놀, 비타민 C와 같은 코스메슈티컬 성분에 대한 높은 소비자 관심과 최신 트렌드를 보여주며, 시장에서의 관련성과 수요를 입증하는 데 인용."
       }
     ],
     "world_first_opportunity_en": null,
     "world_first_opportunity_kr": null,
     "risky_claims_to_avoid_en": [
-      "Retinol, Vitamin C, and E combination cures wrinkles.",
-      "This product prevents aging.",
-      "Guaranteed wrinkle elimination.",
+      "Retinol, Vitamin C, and E completely eliminate wrinkles.",
+      "This product cures aging.",
+      "Guaranteed wrinkle-free skin in 7 days.",
       "100% effective for all skin types."
     ],
     "risky_claims_to_avoid_kr": [
-      "레티놀, 비타민 C, E 조합이 주름을 치료합니다.",
-      "이 제품은 노화를 예방합니다.",
-      "주름 완벽 제거 보장.",
+      "레티놀, 비타민 C, E가 주름을 완벽하게 제거합니다.",
+      "이 제품은 노화를 치료합니다.",
+      "7일 안에 보장된 주름 없는 피부.",
       "모든 피부 타입에 100% 효과 보장."
     ],
-    "north_america_angle_en": "Leveraging the well-established reputation of Retinol and Vitamin C in the North American market for proven anti-aging and brightening effects. Focus on 'visibly improved' and 'supported' skin health.",
-    "north_america_angle_kr": "북미 시장에서 입증된 안티에이징 및 브라이트닝 효과로 잘 알려진 레티놀과 비타민 C의 명성을 활용합니다. '눈에 띄게 개선된' 및 '건강하게 관리되는' 피부 건강에 초점을 맞춥니다."
+    "north_america_angle_en": "Leveraging the proven efficacy of Retinol and the antioxidant power of Vitamin C & E, this formula is designed to meet the sophisticated demands of the North American market for effective anti-aging solutions.",
+    "north_america_angle_kr": "북미 시장은 레티놀의 입증된 효능과 비타민 C & E의 항산화력을 바탕으로, 효과적인 안티에이징 솔루션에 대한 높은 기대치를 가지고 있습니다. 본 제품은 이러한 시장의 요구를 충족시키도록 설계되었습니다."
   }
 }

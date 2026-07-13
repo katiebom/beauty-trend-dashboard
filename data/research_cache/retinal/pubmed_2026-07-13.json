@@ -1,0 +1,175 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42437467",
+      "title": "[Acceleration of postoperative macular edema recovery with hyperbaric oxygen therapy].",
+      "abstract": "In our case study, we present a patient with postoperative macular edema who received hyperbaric oxygen therapy (HBOT) as adjunctive treatment. Our study aimed to evaluate the potential therapeutic efficacy of HBOT in accelerating the healing process of postoperative macular edema. A 58-year-old healthy male developed blurred vision one week following phacoemulsification with multifocal intraocular lens implantation in the left eye, despite clear optical media. In spite of standard therapy administration (topical corticosteroid and non-steroid anti-inflammatory drug - NSAID), his symptoms persisted, with central retinal thickness measuring 327 μm on postoperative day 35, and visual acuity of 0.4. At this point, while continuing conservative ophthalmic therapy, we initiated adjunctive hyperbaric oxygen therapy, totaling 11 sessions of 2.5 ATA/90 minutes, 100% oxygen breathing, with air breaks every 20 minutes. The patient presented for follow-up examination after the fourth HBOT treatment, reporting significant reduction in subjective complaints of blurred vision. During this examination, visual acuity improved to 0.9. Despite the significant and rapid symptom regression, we continued HBOT treatment to maintain the results and facilitate neuroplasticity and cerebral accommodation. Final optical coherence tomography (OCT) examination was performed one month after completion of HBOT treatment: visual acuity 1.0, macular thickness 267 μm. During hyperbaric oxygen therapy, regression of blurred vision due to postoperative macular edema accelerated significantly, with results objectified by OCT examination that cannot be explained by spontaneous improvement. The application of HBOT in treating macular edema of this etiology may provide significant quality of life improvement in cases where the time factor of recovery is a significant consideration. Orv Hetil. 2026; 167(28): 1120-1126.",
+      "year": "2026",
+      "journal": "Orvosi hetilap",
+      "authors": [
+        "Nagy Zoltán Zsolt",
+        "Vörös Kristóf Márton",
+        "Dormán Péter",
+        "Szolnoki Nikolett"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Macular Edema",
+        "Hyperbaric Oxygenation",
+        "Male",
+        "Middle Aged",
+        "Postoperative Complications",
+        "Visual Acuity",
+        "Phacoemulsification",
+        "Tomography, Optical Coherence",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42437467/"
+    },
+    {
+      "pmid": "42436417",
+      "title": "Multimodal imaging application of Sturge-Weber syndrome complicated with glaucoma: a case report of non-surgical treatment in a 7-year-old boy.",
+      "abstract": "To report the multimodal imaging characteristics and successful non-surgical intraocular pressure (IOP) control with bimatoprost in a 7-year-old boy with Sturge-Weber syndrome (SWS)-related glaucoma and diffuse choroidal hemangioma (DCH).",
+      "year": "2026",
+      "journal": "BMC ophthalmology",
+      "authors": [
+        "Tianyi Chen",
+        "Yuxin Geng",
+        "Danyan Liu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42436417/"
+    },
+    {
+      "pmid": "42435912",
+      "title": "High-titer retinal production in Yarrowia lipolytica via redox engineering coupled with intra- and extracellular sequestration.",
+      "abstract": "Retinal is an industrially valuable retinoid widely used in cosmetic and pharmaceutical applications, but its microbial production remains limited due to its chemical instability and potential susceptibility to intracellular redox metabolism. Here, Yarrowia lipolytica was engineered for high-level retinal biosynthesis by integrating targeted alcohol dehydrogenase deletion, precursor enhancement, and lipid-associated sequestration. Deletion of endogenous alcohol dehydrogenases increased retinal accumulation, while expression of ERG20(F87S) improved precursor flux toward carotenoid biosynthesis. Notably, coupling enhanced biosynthetic flux with DGA1 overexpression produced a greater improvement in retinal accumulation than either strategy alone. To further protect the oxidation-sensitive product, a two-phase system using isopropyl myristate (IPM) supplemented with an antioxidant was implemented, enabling efficient in-situ extraction and stabilization during fermentation. As a result, a total retinal titer of 2253 mg/L was achieved, with the product highly concentrated in the IPM phase at 45.1 g/L. Given that IPM is a cosmetic-grade solvent, this approach provides a formulation-compatible product phase, highlighting the potential to integrate microbial production with downstream processing. Overall, this study demonstrates that coordinated metabolic engineering and phase-partitioning strategies are essential for the efficient production of oxidation-sensitive terpenoid aldehydes.",
+      "year": "2026",
+      "journal": "Bioresource technology",
+      "authors": [
+        "Song Jinwoo",
+        "Lee Hojun",
+        "Song Hanbit",
+        "Seo Dawon",
+        "Song Jimin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42435912/"
+    },
+    {
+      "pmid": "42426416",
+      "title": "Systemic bias in medical consensus: how flawed panels and lack of evidence can distort definitions and guidelines: the case of Vogt-Koyanagi-Harada disease : Perspective.",
+      "abstract": "The creation of diagnostic criteria for a disease is always challenging in medicine. Consensus meetings and expert's opinions are sometimes responsible for establishing useful and precise diagnostic criteria but, unfortunately, not all the consensus meetings are based on evidence-based conclusions.",
+      "year": "2026",
+      "journal": "Journal of ophthalmic inflammation and infection",
+      "authors": [
+        "Herbort Carl P",
+        "Papasavvas Ioannis",
+        "El-Asrar Ahmed M Abu",
+        "AlBloushi Abdulrahman F",
+        "Hwang De-Kuang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426416/"
+    },
+    {
+      "pmid": "42422839",
+      "title": "Case Report: Vogt-Koyanagi-Harada-like uveitis associated with combined dabrafenib/trametinib and cadonilimab therapy for cutaneous melanoma.",
+      "abstract": "Several BRAF kinase inhibitors (BRAFis), MEK kinase inhibitors (MEKis), and immune checkpoint inhibitors have been linked with the occurrence of Vogt-Koyanagi-Harada (VKH)-like uveitis. However, there are no reported cases of VKH-like uveitis induced by the combined administration of dabrafenib, trametinib, and cadonilimab to date.",
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Wang Han",
+        "Zhang Ran",
+        "Zhou Li",
+        "Liang Qian",
+        "Ma Hong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42422839/"
+    },
+    {
+      "pmid": "42419576",
+      "title": "Virus-biomimetic melanin nanoparticles with spiky structures and neutral zwitterionic shell for non-invasive prevention of dry AMD.",
+      "abstract": "Clinically, no effective preventive strategies currently exist to inhibit the progression of early dry age-related macular degeneration (dAMD). Moreover, current retinal therapies rely on intravitreal injections, which carry inherent procedural risks. Inspired by natural melanin and viral structures, we developed virus-biomimetic melanin nanoparticles (VMNPs) surface-modified with ergothioneine (ET), featuring virus-like spike structures and a neutral zwitterionic shell. This study aimed to evaluate whether virus-inspired engineered nanoparticles could enhance retinal delivery and improve the therapeutic potential of melanin-based nanodrugs for dAMD. The VMNPs facilitated cellular uptake through both their virus-mimetic architecture and OCTN1-mediated active transport. They also exhibited potent antioxidant activity, significantly reducing intracellular and mitochondrial reactive oxygen species (ROS) in oxidative stress models of ARPE-19 cells. Transcriptomic analyses revealed that VMNPs activated intrinsic cytoprotective pathways by upregulating HMOX1and SLC7A11, while downregulating inflammation-associated genes. Importantly, VMNPs promoted transcytosis and, following topical administration, demonstrated improved retention and deep penetration within the rabbit eye, effectively reaching the retinal pigment epithelium (RPE) and deeper retinal layers. Notably, twice-daily topical administration of VMNPs markedly inhibited retinal degeneration in rabbits, achieving therapeutic efficacy comparable to a single intravitreal injection of pegcetacoplan. Collectively, these findings establish a promising paradigm for the non-invasive clinical treatment of dAMD.",
+      "year": "2026",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "authors": [
+        "Renfang-Zhu",
+        "Xu Ying",
+        "Nie Mingyu",
+        "Li Huiling",
+        "Yuan Ye"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42419576/"
+    },
+    {
+      "pmid": "42417849",
+      "title": "Long-term structural impact and antiviral efficacy of cytomegalovirus anterior uveitis - results from a 10-year ocular inflammation registry.",
+      "abstract": "To evaluate criteria-based long-term structural outcomes and dose-dependent antiviral effects in cytomegalovirus anterior uveitis (CMV AU).",
+      "year": "2026",
+      "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+      "authors": [
+        "Hsu Yung-Ray",
+        "Cheng Ming-Shan",
+        "Wang Jia-Kang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42417849/"
+    },
+    {
+      "pmid": "42415136",
+      "title": "Klippel-Trenaunay syndrome presenting with bilateral chronic central serous chorioretinopathy: a case report.",
+      "abstract": "Klippel-Trenaunay syndrome (KTS) is a rare congenital vascular disorder characterized by capillary malformations, venous and/or lymphatic malformations, and asymmetric limb overgrowth. It results from somatic activating mutations in the PIK3CA gene, leading to dysregulated vascular development. While primarily affecting the skin and musculoskeletal system, ocular manifestations are uncommon. Central serous chorioretinopathy (CSC), a condition involving choroidal vascular hyperpermeability and retinal pigment epithelium dysfunction, has not been previously associated with KTS.",
+      "year": "2026",
+      "journal": "Journal of medical case reports",
+      "authors": [
+        "Eghbalnia Alisina",
+        "Dadkhah Romina",
+        "Riazi-Esfahani Hamid",
+        "Khalili Pour Elias"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42415136/"
+    },
+    {
+      "pmid": "42404482",
+      "title": "Managing Nasal Ischemia and Necrosis Post-Triamcinolone Injection: A New Case Series.",
+      "abstract": "Nasal ischemia following cosmetic injections has been reported in several cases. Postsurgery triamcinolone administration in the nasal region is a common practice to reduce inflammation and address pollybeak deformity. While cases of retinal artery occlusion following triamcinolone injection have been documented, this case series presents the first reported instance of nasal necrosis resulting from triamcinolone injection. This article explores the management strategies and therapeutic approaches for ischemia following triamcinolone administration. Four cases of nasal ischemia following triamcinolone injections administered postrhinoplasty are documented. The first case presented a young female who experienced ischemia with involvement of the columellar artery, leading to reduced blood flow in the dorsal and lateral nasal arteries. The remaining cases were patients who sought reconstructive surgery due to nasal necrosis caused by triamcinolone injections. Triamcinolone injection in the nasal region can lead to ischemia. Treatment options should be customized to each patient's condition. The THIS and FAT protocol with toxins (botulinum neurotoxin), high-dose hyaluronidase, and injectable platelet-rich fibrin (iPRF), solid platelet-rich fibrin (sPRF) dressings, and antibiotics as well as hyperbaric oxygen therapy (HBOT) can enhance tissue recovery, minimize scarring, and improve the overall outcome.",
+      "year": "2026",
+      "journal": "Case reports in otolaryngology",
+      "authors": [
+        "Nazari Shahriar",
+        "Hadadian Nima",
+        "Bayatparidary Foroohe",
+        "Keyhan Seied Omid",
+        "Damsaz Mohammadamin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42404482/"
+    },
+    {
+      "pmid": "42404270",
+      "title": "Systemic Hemodynamics and Ocular Perfusion in Normal-Tension Glaucoma: Evaluation of Beta-Blocker Effect.",
+      "abstract": "To compare the effects of topical treatments with and without beta-blockers on diurnal and nocturnal intraocular pressure (IOP), systemic blood pressure (BP), and ocular perfusion pressure (OPP) in patients with normal-tension glaucoma (NTG).",
+      "year": "2025",
+      "journal": "Journal of current ophthalmology",
+      "authors": [
+        "Özata Gündoğdu Kübra",
+        "Özkan Aksoy Nilgün",
+        "Güngördü Seren Kaplan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42404270/"
+    }
+  ],
+  "crawled_at": "2026-07-13T21:58:23.616900",
+  "source": "pubmed"
+}

@@ -1,0 +1,854 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 28,
+  "trials": [
+    {
+      "nct_id": "NCT07542886",
+      "title": "A Study to Learn How Different Injector Pens Affect the Study Medicine Called Genotropin (Somatropin) Delivery and Taken up Into the Blood in Healthy Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Marketed Genotropin Pen 12"
+        },
+        {
+          "type": "DEVICE",
+          "name": "New Genotropin Injector Pen"
+        },
+        {
+          "type": "DRUG",
+          "name": "Genotropin 4mg"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2026-06-25",
+      "url": "https://clinicaltrials.gov/study/NCT07542886"
+    },
+    {
+      "nct_id": "NCT07684573",
+      "title": "Scar Gel Product Family Clinical Investigation",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Hypertrophic Scars",
+        "Keloids"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Dermatix"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Dermatix Ultra"
+        }
+      ],
+      "sponsor": "Hanson Medical, Inc.",
+      "primary_completion": "2026-10",
+      "url": "https://clinicaltrials.gov/study/NCT07684573"
+    },
+    {
+      "nct_id": "NCT07460154",
+      "title": "Structured Review: To Optimise Management and Prevent Harm in COPD",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "COPD"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Sputum sample"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Venepuncture"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Lung function test"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Medical history and physical examination"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Blood pressure"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "BMI"
+        },
+        {
+          "type": "RADIATION",
+          "name": "HRCT of chest"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "ECG"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Echo"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Subject Questionnaires"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Research Questionnaires"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Influenza Vaccines"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Pneumococcal Vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "RSV F vaccine (0.5mL injection)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Oxygen saturation (+/- ABG)"
+        },
+        {
+          "type": "RADIATION",
+          "name": "DXA"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Education"
+        }
+      ],
+      "sponsor": "Northumbria Healthcare NHS Foundation Trust",
+      "primary_completion": "2029-03-02",
+      "url": "https://clinicaltrials.gov/study/NCT07460154"
+    },
+    {
+      "nct_id": "NCT06525870",
+      "title": "Efficacy of Topical 85% TCA in the Treatment of LSIL After Low-grade Abnormality of Screening Test: a Randomized Controlled Trial",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cervical Intraepithelial Neoplasia",
+        "Trichloroacetic Acid"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "85%TCA topical application"
+        },
+        {
+          "type": "DRUG",
+          "name": "3% acetic acid"
+        }
+      ],
+      "sponsor": "Department of Medical Services Ministry of Public Health of Thailand",
+      "primary_completion": "2025-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT06525870"
+    },
+    {
+      "nct_id": "NCT06467253",
+      "title": "Comparison of Two Non-invasive Neuromodulation Techniques as Synergistic Therapy to Cognitive Stimulation in Amnestic Mild Cognitive Impairment (aMCI)",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Mild Cognitive Impairment"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "1. rTMS + CS"
+        },
+        {
+          "type": "DEVICE",
+          "name": "2. rTMS Sham + CS"
+        },
+        {
+          "type": "DEVICE",
+          "name": "3. tDCS + CS"
+        },
+        {
+          "type": "DEVICE",
+          "name": "4. tDCS Sham + CS"
+        }
+      ],
+      "sponsor": "Instituto Nacional de Psiquiatría Dr. Ramón de la Fuente",
+      "primary_completion": "2027-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06467253"
+    },
+    {
+      "nct_id": "NCT07583472",
+      "title": "Impact of the Helfer Skin Tap Technique on Pain and Comfort Levels During Ventrogluteal Injection: A Randomized Controlled Trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "PAIN, ANXIETY, AND COMFORT"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Helfer Skin Tap Technique applied before IM Diclofenac injection"
+        }
+      ],
+      "sponsor": "Seyda Can",
+      "primary_completion": "2028-01",
+      "url": "https://clinicaltrials.gov/study/NCT07583472"
+    },
+    {
+      "nct_id": "NCT07314957",
+      "title": "Impact of Lifestyle on Health Maintenance: A Randomized Controlled Trial",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metabolic Syndrome",
+        "Inactivity/Low Levels of Exercise",
+        "Unhealthy Diet",
+        "Unhealthy Alcohol Use",
+        "Smoking Behaviors",
+        "Stress",
+        "Sleep Disorder",
+        "Obesity & Overweight",
+        "Anxiety",
+        "Depressed Mood",
+        "Emotional Eating Behaviour"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Intervention of physical activity"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Mediterranean Diet Education"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Behavioral: Stress-Resilience Training"
+        }
+      ],
+      "sponsor": "University of Zadar",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07314957"
+    },
+    {
+      "nct_id": "NCT07575139",
+      "title": "Myofascial Release and Dynamic Cupping in Children",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Neck Pain"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Myofascial release therapy"
+        },
+        {
+          "type": "OTHER",
+          "name": "dynamic cupping"
+        }
+      ],
+      "sponsor": "Riphah International University",
+      "primary_completion": "2026-07-09",
+      "url": "https://clinicaltrials.gov/study/NCT07575139"
+    },
+    {
+      "nct_id": "NCT07260019",
+      "title": "INSTRUMENT ASSISSTED SOFT TISSUE MOBILIZATION VERSUS DRY CUPPING ON UPPER TRAPEZIUS TRIGGER POINTS: A RANDOMIZED CONTROLLED TRIAL",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Upper Trapezius Trigger Points",
+        "Non Specific Chronic Neck Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Instrument Assisted Soft Tissue Mobilization"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Dry Cupping"
+        },
+        {
+          "type": "OTHER",
+          "name": "Hot Packs"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Transcutaneous Electrical Nerve Stimulation"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Exercise Program"
+        }
+      ],
+      "sponsor": "Cairo University",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT07260019"
+    },
+    {
+      "nct_id": "NCT06673628",
+      "title": "Pembrolizumab Plus Lenvatinib in Unresectable Cutaneous Angiosarcoma Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Angiosarcoma of Skin",
+        "Angiosarcoma Metastatic"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pembrolizumab plus Lenvatinib"
+        }
+      ],
+      "sponsor": "National Cancer Center, Japan",
+      "primary_completion": "2028-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT06673628"
+    },
+    {
+      "nct_id": "NCT06425549",
+      "title": "A Study to Evaluate the Efficacy and Safety of Bimekizumab Compared to Ustekinumab in Children and Adolescents From 6 Years to Less Than 18 Years of Age With Moderate to Severe Plaque Psoriasis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Moderate to Severe Plaque Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "bimekizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "ustekinumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "placebo"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2028-08-21",
+      "url": "https://clinicaltrials.gov/study/NCT06425549"
+    },
+    {
+      "nct_id": "NCT07362147",
+      "title": "Exploring the Effects of Hand and Foot Exercise Intervention in Older Adults With Gynecological Cancer Receiving Chemotherapy Improvement of Peripheral Neuropathy and Quality of Life",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Peripheral Neuropathy",
+        "Cervical Cancer",
+        "Endometrial Cancer",
+        "Ovarian Cancer",
+        "Vaginal Cancers",
+        "Fallopian Tube Cancers"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "hand and foot exercises"
+        }
+      ],
+      "sponsor": "Taipei Veterans General Hospital, Taiwan",
+      "primary_completion": "2026-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT07362147"
+    },
+    {
+      "nct_id": "NCT07399028",
+      "title": "A Study to Characterize Human Skin Changes From Biostimulator Treatments Via Non-invasive Imaging",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Volume Deficiency in the Mid-Face",
+        "Skin Laxity",
+        "Photo-aged Skin"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Sculptra®"
+        }
+      ],
+      "sponsor": "Galderma R&D",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT07399028"
+    },
+    {
+      "nct_id": "NCT05473429",
+      "title": "Characterization of Nociception Phenotype in Individuals With Intellectual Disability",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Intellectual Disability"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TSA2 Thermosensory Stimulator"
+        }
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "primary_completion": "2026-10-06",
+      "url": "https://clinicaltrials.gov/study/NCT05473429"
+    },
+    {
+      "nct_id": "NCT05159856",
+      "title": "Early Detection of Long-term Diabetic Complications in Children and Adolescents With Type 1 Diabetes",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Diabetes Complications",
+        "type1diabetes",
+        "Children, Only",
+        "Diabetic Neuropathies",
+        "Arterial Stiffness"
+      ],
+      "interventions": [],
+      "sponsor": "Steno Diabetes Center Copenhagen",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT05159856"
+    },
+    {
+      "nct_id": "NCT06530459",
+      "title": "The MUSE Study for Menopausal Arthralgia",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Arthralgia",
+        "Menopause",
+        "Perimenopausal Disorder",
+        "Joint Pain",
+        "Postmenopausal Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Menopausal hormone therapy"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Exercise training"
+        },
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Menopausal hormone therapy + exercise training"
+        }
+      ],
+      "sponsor": "National University Hospital, Singapore",
+      "primary_completion": "2027-04",
+      "url": "https://clinicaltrials.gov/study/NCT06530459"
+    },
+    {
+      "nct_id": "NCT07162688",
+      "title": "Effects of Omega-3 Fatty Acids on Acute Graft-versus-Host Disease After Allogeneic Stem Cell Transplantation.",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Graft-Versus-Host Disease(GVHD)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Omega-3 Lipid Emulsion"
+        }
+      ],
+      "sponsor": "Fujian Medical University",
+      "primary_completion": "2028-03-07",
+      "url": "https://clinicaltrials.gov/study/NCT07162688"
+    },
+    {
+      "nct_id": "NCT07192588",
+      "title": "A Study of GR1014 Cutaneous Gel for the Prevention of Skin Reactions Caused by Radiation Therapy for Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Radiodermatitis; Acute"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "GR1014-CG 2.4%"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vehicle Gel"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Radiation Therapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "GR1014-CG 4.7%"
+        }
+      ],
+      "sponsor": "Graegis Pharmaceuticals Ltd",
+      "primary_completion": "2026-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT07192588"
+    },
+    {
+      "nct_id": "NCT07495254",
+      "title": "Effectiveness of Combined Super Inductive System (SIS) Therapy With Therapeutic Exercise and Health Education in Lateral Elbow Tendinopathy",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lateral Epicondylitis (Tennis Elbow)",
+        "Lateral Epicondylalgia",
+        "Lateral Elbow Tendinopathy"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Super Inductive System (SIS), therapeutic dose"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Super Inductive System (SIS), non-therapeutic dose (active placebo)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Therapeutic Exercise Program"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Health Education"
+        }
+      ],
+      "sponsor": "University of Vic - Central University of Catalonia",
+      "primary_completion": "2026-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT07495254"
+    },
+    {
+      "nct_id": "NCT05440422",
+      "title": "The Role of Anifrolumab in Improving Markers of Vascular Risk in Patients With Systemic Lupus Erythematosus (SLE) - IFN-CVD",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus",
+        "Cardiovascular Disease",
+        "Premature Atherosclerosis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "anifrolumab"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)",
+      "primary_completion": "2027-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT05440422"
+    },
+    {
+      "nct_id": "NCT07676383",
+      "title": "Precision Navigation to Improve Community Cancer Screening Participation",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cancer Screening",
+        "Lung Cancer",
+        "Breast Cancer",
+        "Colorectal Cancer",
+        "Upper Gastrointestinal Cancer",
+        "Liver Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Precision Navigation Intervention"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Usual Health Education"
+        }
+      ],
+      "sponsor": "Hunan Cancer Hospital",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT07676383"
+    },
+    {
+      "nct_id": "NCT06755697",
+      "title": "Comparative Efficacy of Intra-articular vs. MRI-guided Extra-articular Dextrose Injections in Knee Osteoarthritis Management",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Knee Osteoarthritis",
+        "Glucose",
+        "Prolotherapy",
+        "MRI",
+        "Physical Therapy",
+        "Rehabilitation"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Intra-articular US-guided hypertonic dextrose injection, IA group"
+        },
+        {
+          "type": "OTHER",
+          "name": "Extra-articular US-guided injection targeting MRI-positive lesion sites, EA group."
+        }
+      ],
+      "sponsor": "Shin Kong Wu Ho-Su Memorial Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06755697"
+    },
+    {
+      "nct_id": "NCT07456618",
+      "title": "Using Music During Wound Care Among Seniors With Pressure Injuries",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pressure Injuries",
+        "Pressure Injury",
+        "Pressure Ulcer (PU)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Music listening"
+        }
+      ],
+      "sponsor": "McMaster University",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07456618"
+    },
+    {
+      "nct_id": "NCT07310342",
+      "title": "Physical Fitness of Children, Adolescents and Young Adults With Immune Thrombocytopenic Purpura",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenic Purpura"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "IPT-CPET"
+        }
+      ],
+      "sponsor": "University Hospital, Bordeaux",
+      "primary_completion": "2026-12-15",
+      "url": "https://clinicaltrials.gov/study/NCT07310342"
+    },
+    {
+      "nct_id": "NCT07353996",
+      "title": "Determination of the Effective Dose of a Single Intravenous Dose of Tegileridine Fumarate for Postoperative Analgesia After Orthopedic Surgery: A Up-and-Down Sequential Allocation Study",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postoperative Pain"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Single intravenous injection of Tegileridine Fumarate"
+        }
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "primary_completion": "2026-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT07353996"
+    },
+    {
+      "nct_id": "NCT06507618",
+      "title": "Pre-Operative Window of ET to Inform RT Decisions (POWER II)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer Female"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tamoxifen, Letrozole, Anastrozole, or Exemestane"
+        }
+      ],
+      "sponsor": "University of Virginia",
+      "primary_completion": "2029-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06507618"
+    },
+    {
+      "nct_id": "NCT06943911",
+      "title": "Reflects the Intervention (AI Chatbot)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer Early Stage Breast Cancer (Stage 1-3)"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "AI Chatbot for Breast Cancer Patient Education and Empowerment"
+        }
+      ],
+      "sponsor": "Mostafa Shaban",
+      "primary_completion": "2025-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06943911"
+    },
+    {
+      "nct_id": "NCT07406204",
+      "title": "Tofacitinib vs Methotrexate for Severe Alopecia Areata (TOFA-MTX-AA)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alopecia Areata",
+        "Alopecia Totalis (AT)",
+        "Alopecia Universalis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tofacitinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methotrexate"
+        }
+      ],
+      "sponsor": "Hayat Abad Medical Complex, Peshawar",
+      "primary_completion": "2026-08-15",
+      "url": "https://clinicaltrials.gov/study/NCT07406204"
+    },
+    {
+      "nct_id": "NCT06842784",
+      "title": "Impact of Extreme Heat on Myocardial Blood Flow and Flow Reserve in Young and Older Adults",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Aging",
+        "Heat Stress",
+        "Hyperthermia",
+        "Heat Strain"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Ambient heat stress"
+        }
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "primary_completion": "2026-02-01",
+      "url": "https://clinicaltrials.gov/study/NCT06842784"
+    },
+    {
+      "nct_id": "NCT07149636",
+      "title": "Health Belief Model-Based Survey on Breast Self-Examination Awareness and Practice Among Community-Dwelling Middle-Aged and Older Women",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Neoplasms",
+        "Breast Self-Examination",
+        "Cancer Screening",
+        "Health Belief Model"
+      ],
+      "interventions": [],
+      "sponsor": "Peking Union Medical College Hospital",
+      "primary_completion": "2025-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT07149636"
+    }
+  ],
+  "fetched_at": "2026-07-13T22:03:16.551968"
+}

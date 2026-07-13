@@ -1,0 +1,908 @@
+{
+  "ingredient_id": "urea",
+  "name_kr": "우레아",
+  "name_en": "Urea",
+  "query": "(\"Urea\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 25,
+  "trials": [
+    {
+      "nct_id": "NCT06410833",
+      "title": "Belimumab After Rituximab in Resistant Primary Juvenile SS",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sjogren's Syndrome",
+        "Pediatric ALL"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Belimumab"
+        }
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06410833"
+    },
+    {
+      "nct_id": "NCT04663347",
+      "title": "Safety and Efficacy Trial of Epcoritamab Combinations in Subjects With B-cell Non-Hodgkin Lymphoma (B-NHL)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diffuse Large B-Cell Lymphoma",
+        "Follicular Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone"
+        },
+        {
+          "type": "DRUG",
+          "name": "rituximab and lenalidomide"
+        },
+        {
+          "type": "DRUG",
+          "name": "rituximab and bendamustine"
+        },
+        {
+          "type": "DRUG",
+          "name": "rituximab, cytarabine, dexamethasone, and oxaliplatin/carboplatin"
+        },
+        {
+          "type": "DRUG",
+          "name": "gemcitabine and oxaliplatin"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        },
+        {
+          "type": "DRUG",
+          "name": "rituximab, cyclophosphamide, reduced dose of doxorubicin, vincristine, and prednisone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Lenalidomide"
+        },
+        {
+          "type": "DRUG",
+          "name": "rituximab, ifosfamide, carboplatin, and etoposide phosphate"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab and Lenalidomide"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Epcoritamab"
+        }
+      ],
+      "sponsor": "Genmab",
+      "primary_completion": "2027-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT04663347"
+    },
+    {
+      "nct_id": "NCT06425549",
+      "title": "A Study to Evaluate the Efficacy and Safety of Bimekizumab Compared to Ustekinumab in Children and Adolescents From 6 Years to Less Than 18 Years of Age With Moderate to Severe Plaque Psoriasis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Moderate to Severe Plaque Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "bimekizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "ustekinumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "placebo"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2028-08-21",
+      "url": "https://clinicaltrials.gov/study/NCT06425549"
+    },
+    {
+      "nct_id": "NCT05159856",
+      "title": "Early Detection of Long-term Diabetic Complications in Children and Adolescents With Type 1 Diabetes",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Diabetes Complications",
+        "type1diabetes",
+        "Children, Only",
+        "Diabetic Neuropathies",
+        "Arterial Stiffness"
+      ],
+      "interventions": [],
+      "sponsor": "Steno Diabetes Center Copenhagen",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT05159856"
+    },
+    {
+      "nct_id": "NCT06846580",
+      "title": "Role of 2 Stages Brachiobasilic Arteriovenous Fistula in Patients Having Central Venous Stenosis with Exhausted Options of Dialysis Access",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Brachiobasilic Arteriovenous Fistula"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "brachiobasilic AVF"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2027-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT06846580"
+    },
+    {
+      "nct_id": "NCT06563596",
+      "title": "Epco, Zanu, Ritux for R/R FL or MZL",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Follicular Lymphoma",
+        "Lymphoma",
+        "Non-Hodgkin Lymphoma",
+        "Relapsed Lymphoma",
+        "Refractory Lymphoma",
+        "Marginal Zone Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Zanubrutinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Epcoritamab"
+        }
+      ],
+      "sponsor": "Reid Merryman, MD",
+      "primary_completion": "2028-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT06563596"
+    },
+    {
+      "nct_id": "NCT05432466",
+      "title": "Clinical Trial to Compare the Efficacy of Celiprolol to Placebo in Patients With Vascular Ehlers-Danlos Syndrome",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Vascular Ehlers-Danlos Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ACER-002 (celiprolol) 200 mg BID"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo BID"
+        }
+      ],
+      "sponsor": "Acer Therapeutics Inc.",
+      "primary_completion": "2029-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT05432466"
+    },
+    {
+      "nct_id": "NCT05458219",
+      "title": "A First-in-human Study of IBI343 in Subjects With Locally Advanced Unresectable or Metastatic Solid Tumors",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Locally Advanced Unresectable or Metastatic Solid Tumors"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "IBI343"
+        },
+        {
+          "type": "DRUG",
+          "name": "FOLFIRINOX/mFOLFIRINOX"
+        },
+        {
+          "type": "DRUG",
+          "name": "mFOLFOX"
+        },
+        {
+          "type": "DRUG",
+          "name": "IBI343"
+        }
+      ],
+      "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "primary_completion": "2027-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT05458219"
+    },
+    {
+      "nct_id": "NCT06668181",
+      "title": "An Open-label Study to Evaluate the Pharmacokinetics and Safety of Bimekizumab in Pediatric Study Participants With Active Juvenile Idiopathic Arthritis Subtypes Enthesitis-related Arthritis (Including Juvenile-onset Ankylosing Spondylitis) and Juvenile Psoriatic Arthritis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Enthesitis-related Arthritis",
+        "Juvenile Psoriatic Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bimekizumab"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2028-04-12",
+      "url": "https://clinicaltrials.gov/study/NCT06668181"
+    },
+    {
+      "nct_id": "NCT05207358",
+      "title": "Minimizing Glucocorticoid Administration in Patients With Proliferative Lupus Nephritis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lupus Nephritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Mycophenolate Mofetil"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Corticosteroids"
+        }
+      ],
+      "sponsor": "Institutul Clinic Fundeni",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05207358"
+    },
+    {
+      "nct_id": "NCT07302074",
+      "title": "Understanding of Rare Inflammatory Arthritis in Comparison to Classical Inflammatory Arthritis : Tissular Observations and Immune Infiltrate Characterization : the UTOPIC Project",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Inflammatory Arthritis",
+        "Rare Auto-immune Diseases",
+        "Immune Checkpoint Inhibitor Related Inflamamtory Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Biopsy"
+        }
+      ],
+      "sponsor": "University Hospital, Brest",
+      "primary_completion": "2031-03-03",
+      "url": "https://clinicaltrials.gov/study/NCT07302074"
+    },
+    {
+      "nct_id": "NCT07587294",
+      "title": "Efficacy and Safety of Ultrasound Modulation of Stellate Ganglion for the Prevention of Ventricular Arrhythmia in Patients With ST-segment Elevation Myocardial Infarction",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acute ST-segment Elevation Myocardial Infarction (Patients Undergoing Emergency PCI)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Ultrasound modulation of the left stellate ganglion"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham ultrasound modulation of the left stellate ganglion"
+        }
+      ],
+      "sponsor": "Renmin Hospital of Wuhan University",
+      "primary_completion": "2027-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT07587294"
+    },
+    {
+      "nct_id": "NCT04881825",
+      "title": "Evaluation of Long Term Safety and Efficacy of Glepaglutide in Treatment of SBS - Extension Trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Short Bowel Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Glepaglutide"
+        }
+      ],
+      "sponsor": "Zealand Pharma",
+      "primary_completion": "2026-04",
+      "url": "https://clinicaltrials.gov/study/NCT04881825"
+    },
+    {
+      "nct_id": "NCT07422974",
+      "title": "Perioperative Outcomes After Neoadjuvant Therapy in Colorectal Cancer",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Colorectal Carcinoma (CRC)",
+        "Complications",
+        "Neoadjuvant Therapy",
+        "Endothelial Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Skin and subcutaneous tissue sampling for histopathological analysis"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Blood sampling for laboratory analyses before and after surgery"
+        }
+      ],
+      "sponsor": "Osijek University Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07422974"
+    },
+    {
+      "nct_id": "NCT06906549",
+      "title": "Evaluation of 200 mg of Rituximab Every 6 Months as Maintenance Treatment of Rituximab-treated Patients With Rheumatoid Arthritis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis (RA)",
+        "Rituximab (RTx)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab 200mg/6months"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab 1g/6months"
+        }
+      ],
+      "sponsor": "University Hospital, Strasbourg, France",
+      "primary_completion": "2026-07",
+      "url": "https://clinicaltrials.gov/study/NCT06906549"
+    },
+    {
+      "nct_id": "NCT04871191",
+      "title": "Study of Salvage Therapy to Treat Patients With Granulomatosis With Polyangiitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Granulomatosis With Polyangiitis",
+        "Anti-neutrophil Cytoplasmic Antibody-associated Vasculitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tocilizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tofacitinib"
+        }
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "primary_completion": "2028-10",
+      "url": "https://clinicaltrials.gov/study/NCT04871191"
+    },
+    {
+      "nct_id": "NCT06045247",
+      "title": "Phase 2 Trial of Epcoritamab in Combination With Rituximab-mini CVP for Older Unfit/Frail Patients or Anthracycline-Ineligible Adult Patients With Newly Diagnosed Diffuse Large B-cell Lymphoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Large B-cell Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Prednisone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vincristine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Epcoritamab"
+        }
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "primary_completion": "2028-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT06045247"
+    },
+    {
+      "nct_id": "NCT06232434",
+      "title": "An Open Prospective Randomized Clinical Study of the Effectiveness, Tolerability and Safety of a Single Intraperitoneal Use of the Drug \"Prospidelong, Powder for the Preparation of a Gel for Topical Use, 1000 mg in Vials, Package No. 1\" in Patients With Disseminated Gastric Cancer, Phase I-II",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gastric Cancer With Peritoneal Dissemination"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Prospidelong"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "chemotherapy"
+        }
+      ],
+      "sponsor": "Research Institute for Physical Chemical Problems of the Belarusian State University",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT06232434"
+    },
+    {
+      "nct_id": "NCT06581562",
+      "title": "Open-label Single-Center Study to Evaluate the Safety and Efficacy of Combining Rituximab and AB-101 in B-cell Associated Autoimmune Diseases.",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis",
+        "Pemphigus Vulgaris",
+        "Granulomatosis With Polyangiitis",
+        "Systemic Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "AB-101"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        }
+      ],
+      "sponsor": "IRIS Research and Development, LLC",
+      "primary_completion": "2027-07",
+      "url": "https://clinicaltrials.gov/study/NCT06581562"
+    },
+    {
+      "nct_id": "NCT04147494",
+      "title": "Experimental PET Imaging Scans Before Cancer Surgery to Study the Amount of PET Tracer Accumulated in Normal and Cancer Tissues",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Carcinoma",
+        "Colon Carcinoma",
+        "Esophageal Carcinoma",
+        "Gastric Carcinoma",
+        "Head and Neck Carcinoma",
+        "Kidney Carcinoma",
+        "Lung Carcinoma",
+        "Ovarian Carcinoma",
+        "Pancreatic Carcinoma",
+        "Solid Neoplasm",
+        "Uterine Corpus Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Computed Tomography"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Gallium Ga 68 FAPi-46"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Gallium Ga 68-labeled PSMA-11"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Positron Emission Tomography"
+        },
+        {
+          "type": "RADIATION",
+          "name": "18F-FDG"
+        }
+      ],
+      "sponsor": "Jonsson Comprehensive Cancer Center",
+      "primary_completion": "2030-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT04147494"
+    },
+    {
+      "nct_id": "NCT06177964",
+      "title": "Lerapolturev (PVSRIPO) in GBM",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Recurrent Supratentorial Glioblastoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lerapolturev"
+        },
+        {
+          "type": "DRUG",
+          "name": "Lomustine Pill"
+        }
+      ],
+      "sponsor": "Darell Bigner",
+      "primary_completion": "2029-02",
+      "url": "https://clinicaltrials.gov/study/NCT06177964"
+    },
+    {
+      "nct_id": "NCT05476497",
+      "title": "Phase I Trial to Evaluate VLP Peanut in Healthy and Peanut Allergic Subjects",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Peanut Allergy"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "VLP Peanut"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Placebo"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "VLP Peanut"
+        }
+      ],
+      "sponsor": "Allergy Therapeutics",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT05476497"
+    },
+    {
+      "nct_id": "NCT07297563",
+      "title": "Anti-CD38 Monoclonal Antibody Versus Rituximab in the Management of Primary Immune Thrombocytopenia (ITP)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenia",
+        "Treatment"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Daratumumab"
+        }
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "primary_completion": "2027-11",
+      "url": "https://clinicaltrials.gov/study/NCT07297563"
+    },
+    {
+      "nct_id": "NCT05548127",
+      "title": "TACTIVE-U: A Study to Learn About the Study Medicine (Vepdegestrant) When Given With Other Medicines in People With Advanced or Metastatic Breast Cancer (Sub-Study A)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ARV-471"
+        },
+        {
+          "type": "DRUG",
+          "name": "Abemaciclib"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2026-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT05548127"
+    },
+    {
+      "nct_id": "NCT06509139",
+      "title": "Optimal Duration of Bismuth Quadruple Therapy for Helicobacter Pylori Eradication in Females As Compared with Males",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Helicobacter Pylori Infection",
+        "Sex",
+        "Bismuth Quadruple Therapy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Drug: Bismuth Subcitrate 120 MG Oral Tablet"
+        },
+        {
+          "type": "DRUG",
+          "name": "Esomeprazole 40mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "Metronidazole 250 MG"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tetracycline Pill"
+        }
+      ],
+      "sponsor": "National Cheng-Kung University Hospital",
+      "primary_completion": "2032-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT06509139"
+    },
+    {
+      "nct_id": "NCT05573555",
+      "title": "TACTIVE-U: A Study to Learn About the Study Medicine (Vepdegestrant) When Given With Other Medicines in People With Advanced or Metastatic Breast Cancer (Sub-Study B)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ARV-471"
+        },
+        {
+          "type": "DRUG",
+          "name": "Ribociclib"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT05573555"
+    },
+    {
+      "nct_id": "NCT03999229",
+      "title": "S-Nitrosylation (SNO) Therapy During Autologous Blood Transfusion",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Transfusion Related Complication"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SNO"
+        },
+        {
+          "type": "DRUG",
+          "name": "Normal Saline"
+        },
+        {
+          "type": "DRUG",
+          "name": "Red Blood Cell"
+        }
+      ],
+      "sponsor": "James Reynolds",
+      "primary_completion": "2028-02-29",
+      "url": "https://clinicaltrials.gov/study/NCT03999229"
+    },
+    {
+      "nct_id": "NCT07215351",
+      "title": "Impact of the Inno Cleanse Dietary Supplement on Gut Health and Associated Variables in Healthy Men and Women",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Constipation",
+        "Bloating"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Dietary supplement for digestive health"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "placebo capsule"
+        }
+      ],
+      "sponsor": "University of Memphis",
+      "primary_completion": "2026-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07215351"
+    },
+    {
+      "nct_id": "NCT07245238",
+      "title": "Topical Cannabidiol Lotion for Pruritus Relief in Scleroderma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Mediciine",
+        "Systemic Sclerosis (SSc)",
+        "Intervention Study"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "10% urea lotion plus 1% cannabidiol"
+        },
+        {
+          "type": "DRUG",
+          "name": "Control"
+        }
+      ],
+      "sponsor": "Khon Kaen University",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT07245238"
+    },
+    {
+      "nct_id": "NCT04323748",
+      "title": "Dose Dense Rituximab for High Risk Newly Diagnosed Acute Immune Thrombocytopenic Purpura",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenic Purpura"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "rituxan"
+        }
+      ],
+      "sponsor": "New York Medical College",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT04323748"
+    }
+  ],
+  "fetched_at": "2026-07-13T22:03:14.005934"
+}
