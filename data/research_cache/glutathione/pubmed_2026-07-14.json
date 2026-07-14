@@ -1,0 +1,194 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42446814",
+      "title": "A review of the potential benefits and limitations of oral glutathione supplementation.",
+      "abstract": "Glutathione (GSH) plays an important role in the antioxidant defense and body detoxification system. It is a tripeptide molecule consisting of glutamine, cysteine and glycine. It is mainly produced by the liver and is a powerful antioxidant that neutralizes free radicals and prevent cellules from damage. This review study was performed to explore the possible benefits and limitations of oral GSH supplementation in different conditions. The studies results indicated that GSH may considerably reduce oxidative stress. GSH's ability to eliminate free radicals and improve insulin sensitivity may contribute to its beneficial effect on diabetes management. Another result is that GSH could reduce oxidative damage, inflammation and improve the gastric mucosal repair Helicobacter-induced gastrointestinal diseases. Moreover, GSH supplementation exerts neuroprotective effects after a brief brain ischemic insult through the reduction of inflammation and oxidative stress. People with cystic fibrosis often have low GSH levels, which may lead to increased oxidative stress and lung inflammation. Oral GSH supplementation has been shown that could improve respiratory function, reduce lung damage and enhance antioxidant defense in cystic fibrosis patients. Also, GSH is gaining popularity as a skin-whitening ingredient because it can inhibit the production of melanin. Our results suggested that oral GSH supplementation may be beneficial for skin tone improvement and hyperpigmentation reduction. In conclusion, oral GSH supplementation can be useful for the treatment of neurodegenerative diseases, diabetic mellitus, stomach pathologies caused by Helicobacter, cystic fibrosis, transient cerebral ischemia attack, and skin-whitening conditions. Further research is needed to determine the best dosages, potential long-term benefits, and possible side effects of GSH supplementation in these conditions.",
+      "year": "2026",
+      "journal": "Inflammopharmacology",
+      "authors": [
+        "Fathizadeh Hadis",
+        "Rezaeipour Hamidreza",
+        "Nouri Fatemeh",
+        "Mohajeri Mahsa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42446814/"
+    },
+    {
+      "pmid": "42442648",
+      "title": "Multi-level biomarker responses in Eisenia fetida co-exposed to PE-MPs and DiBP: An ecological risk assessment based on physiological, biochemical, and molecular indicators.",
+      "abstract": "The widespread use of agricultural films has resulted in the pervasive accumulation of microplastics (MPs) and phthalates (PAEs) in soil, posing significant ecological toxicity risks to soil organisms. In this study, we investigated the toxic responses of Eisenia fetida following single and combined exposure to polyethylene microplastics (PE-MPs) and dibutyl phthalate (DiBP), covering survival, growth inhibition, oxidative stress, stress-related gene transcription, and histopathology. At the early exposure phase, co-stimulation by PE-MPs and DiBP markedly inhibited core antioxidant enzymes including superoxide dismutase (SOD) and catalase (CAT), while triggering sharp compensatory elevation of glutathione S-transferase (GST) activity. Such antioxidant imbalance triggered early lipid peroxidation and cell membrane injury, evidenced by elevated malondialdehyde (MDA) concentrations. Although partial recovery of antioxidant enzyme activity was observed at day 28, obvious oxidative DNA damage was detected. This DNA injury disturbed genomic homeostasis, as reflected by significantly upregulated transcription of calreticulin (CRT) and heat shock protein 70 (Hsp70), alongside suppressed expression of translationally controlled tumor protein (TCTP). Two-way ANOVA verified prominent interactive effects between PE-MPs and DiBP at the gene transcription level, with synergistic and antagonistic effects alternating under different concentration combinations. At the tissue level, the combined exposure eventually induced severe pathological lesions in the epidermis, muscle layers and intestinal wall, accompanied by obvious body weight loss in earthworms. Collectively, these results provide mechanistic insights into the interactive toxic effects of coexisting PE-MPs and DiBP, and offer fundamental data to support ecological risk evaluation of mixed microplastic-plasticizer pollution in farmland soils.",
+      "year": "2026",
+      "journal": "Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+      "authors": [
+        "Zhang Yanan",
+        "Luo Yumu",
+        "Meng Zhensi",
+        "Luo Jun",
+        "Li Ke"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42442648/"
+    },
+    {
+      "pmid": "42435784",
+      "title": "Evaluation of Desmidorchis adenensis for Wound-Healing: Targeting Inflammation, Redox Balance, and FOXO1/MIP-2 Signaling in a Murine Model.",
+      "abstract": "Yemen has long employed the ethnomedical plant Desmidorchis adenensis (Deflers) Meve & Liede (syn. Caralluma. adenensis (Deflers) A.Berger) for its anti-diabetic, anti-ulcer, anti-inflammatory, anti-parasitic, and anti-pyretic properties. Its aerial parts are rich in pregnane glycosides.",
+      "year": "2026",
+      "journal": "Journal of ethnopharmacology",
+      "authors": [
+        "Abdel-Sattar Ola E",
+        "El-Shiekh Riham A",
+        "Sabry Manal M",
+        "El-Halawany Ali M",
+        "Al-Hawshabi Othman S S"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42435784/"
+    },
+    {
+      "pmid": "42429843",
+      "title": "4-Chloro-7-Nitrobenzofurazan induces ROS-mediated p53 dependent apoptosis in human fibrosarcoma cells.",
+      "abstract": "Human fibrosarcoma is an aggressive soft tissue malignancy with limited targeted therapies, that prone to rapid metastasis and chemotherapy resistance. Targeting prooxidant pathways represents a promising clinical strategy for the control of fibrosarcoma.",
+      "year": "2026",
+      "journal": "Molecular biology reports",
+      "authors": [
+        "Jayathilaka E H T Thulshan",
+        "Kim Moon-Moo"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Apoptosis",
+        "Tumor Suppressor Protein p53",
+        "Fibrosarcoma",
+        "Reactive Oxygen Species",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Signal Transduction",
+        "Antineoplastic Agents",
+        "Cell Cycle"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42429843/"
+    },
+    {
+      "pmid": "42416483",
+      "title": "Silver Nanoparticles Attenuate Histamine-Induced Pruritus via Modulation of the Nitric Oxide/iNOS Signaling Pathway in Mice.",
+      "abstract": "Pruritus is an unpleasant cutaneous sensation that provokes scratching behavior and is associated with numerous inflammatory and dermatological disorders. Histamine is a major mediator of pruritus and contributes to the activation of inflammatory and oxidative stress pathways. Silver nanoparticles (Ag-NPs) possess well-documented anti-inflammatory, antioxidant, antimicrobial, and wound-healing properties. The present study investigated the antipruritic effects of Ag-NPs and the involvement of the nitric oxide (NO) signaling pathway in histamine-induced pruritus in mice.",
+      "year": "2026",
+      "journal": "Nanotechnology, science and applications",
+      "authors": [
+        "Bayan Abdul Mobin",
+        "Khan Muhammad Imran"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42416483/"
+    },
+    {
+      "pmid": "42406221",
+      "title": "Immune-pathological response induced by Saprolegnia parasitica in Pangasianodon hypophthalmus and assessment of clinical efficacy of clotrimazole.",
+      "abstract": "Saprolegnia parasitica causes significant morbidity, mortality and economic loss in fish hatcheries and growing culture systems, especially during winter. The present study examined clinical and histopathological alterations in Pangasianodon hypophthalmus experimentally infected with the oomycete and evaluated the clinical efficacy of antifungal drug clotrimazole as bath treatment. Besides development of off-white cotton wool-like fungal growth on fins and skin, invasion of hyphae into underlying musculature and muscle fibre necrosis, experimental infection also induced gill lamellar hyperplasia, hepatocyte, kidney glomerular and tubular degeneration, increase in blood glucose, creatinine, aspartate transaminase (AST) and alanine aminotransferase (ALT) enzyme activities indicating widespread systemic changes in the infected fish. Globulin levels significantly decreased (P < 0.05), suggesting compromised ability of the infected fish to mount an adaptive immune response. Further, expressions of immunity and stress-related genes such as catalase, glutathione peroxidase, superoxide dismutase, heat shock protein (HSP70), tumor necrosis factor, inducible nitric oxide synthase and MHC II were up or down regulated in tissue specific manner suggesting different tissue-specific responses to the oomycete infection. Clotrimazole bath treatment of experimentally infected fish showed more than 80% survival of infected fish proved its potential in controlling saprolegniasis in fish. The present study broadens our knowledge on pathogenesis of the oomycete infection in fish and also shows a way for effective control of the infection.",
+      "year": "2026",
+      "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+      "authors": [
+        "Rathod Sanjaykumar Karsanbhai",
+        "Manna Sanjib Kumar",
+        "Bera Asit Kumar",
+        "Mishra Samikshya",
+        "Chatterjee Sohini"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Saprolegnia",
+        "Fish Diseases",
+        "Clotrimazole",
+        "Infections",
+        "Catfishes",
+        "Antifungal Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406221/"
+    },
+    {
+      "pmid": "42401927",
+      "title": "Lipoaspirate-derived secretome restores redox homeostasis to attenuate pathological scar formation.",
+      "abstract": "Pathological scars are characterized by persistent fibroblast activation and excessive extracellular matrix (ECM) deposition. Although oxidative stress and dysregulated NRF2 signaling contribute to TGF-β1-mediated fibrosis in internal organs, their roles in cutaneous pathological scarring remain unclear. Secretome-based cell-free therapies have shown regenerative and antifibrotic potential, but whether lipoaspirate-derived secretome can restore fibroblast redox homeostasis and thereby attenuate pathological scarring is unknown.",
+      "year": "2026",
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Huang Xin",
+        "Ding Pengbing",
+        "Sun Zhixuan",
+        "Xiang Haibo",
+        "Wei Muqian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42401927/"
+    },
+    {
+      "pmid": "42392283",
+      "title": "GPX1 Drives Cuproptosis-Ferroptosis Resistance in Cold Tumors.",
+      "abstract": "Cold tumors, defined by an immunosuppressive microenvironment and metabolic stress, including glutamine deficiency, frequently exhibit resistance to therapeutic interventions. This study examined the role of glutathione peroxidase 1 (GPX1) in mediating resistance to cuproptosis and ferroptosis during glutamine deprivation. Through integrated multi-omics analyses, CRISPR-mediated gene editing, and functional assays in cold tumor cell lines, we identified GPX1 as a key regulator of redox homeostasis and a protector against cuproptosis. Upstream, glutamine deprivation induced the SLC7A11 upregulation, which enhanced GPX1-mediated resistance through the maintenance of pyrimidine metabolism. Downstream, GPX1 knockout mediated cross-sensitization to ferroptosis by altering the Fenton reaction, thereby exacerbating cell death. In vivo experiments confirmed that GPX1 knockout restored sensitivity to cuproptosis inducers and improved the efficacy of PD-L1 blockade. Collectively, these findings position GPX1 as a central metabolic checkpoint in cold tumors and highlight the SLC7A11-UMPs-GPX1 axis as a promising therapeutic target for overcoming treatment resistance and enhancing immunotherapy response.",
+      "year": "2026",
+      "journal": "Free radical biology & medicine",
+      "authors": [
+        "Yang Shuang",
+        "Zhang Chengye",
+        "Mei Zhusong",
+        "Ye Qiao",
+        "Guo Guangjin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392283/"
+    },
+    {
+      "pmid": "42385181",
+      "title": "Nanoceria Provokes Apoptosis in Different Critical Organs of Mus musculus.",
+      "abstract": "Nanoceria or cerium oxide nanoparticles (CeO",
+      "year": "2026",
+      "journal": "Environmental toxicology",
+      "authors": [
+        "Saeed Hanan E",
+        "Kamel Shaimaa",
+        "Hassanen Eman I",
+        "Khalifa Ahlam G"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42385181/"
+    },
+    {
+      "pmid": "42384665",
+      "title": "Metabolic profiling of human melanoma cell lines with high and low metastatic capacity by 1H-NMR spectroscopy.",
+      "abstract": "Melanoma is one of the most aggressive forms of skin cancer due to its high metastatic potential and mortality rate. Although understanding of metabolic reprogramming in melanoma has advanced, the connection between metabolic alterations and metastatic capacity remains incomplete.",
+      "year": "2026",
+      "journal": "PloS one",
+      "authors": [
+        "Kakhki Nima Rezvani",
+        "Hegedűs Zita",
+        "Tóvári József",
+        "Mirzahosseini Arash",
+        "Noszál Béla"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanoma",
+        "Cell Line, Tumor",
+        "Metabolome",
+        "Metabolomics",
+        "Neoplasm Metastasis",
+        "Proton Magnetic Resonance Spectroscopy",
+        "Fibroblasts",
+        "Metabolic Reprogramming",
+        "Metabolic Networks and Pathways"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42384665/"
+    }
+  ],
+  "crawled_at": "2026-07-14T22:03:30.956673",
+  "source": "pubmed"
+}

@@ -1,0 +1,179 @@
+{
+  "ingredient_id": "silica",
+  "name_en": "Silica",
+  "name_kr": "실리카",
+  "category": "pore_texture",
+  "query": "\"Silica\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42423529",
+      "title": "A Fentanyl-Responsive Microneedle Patch for Harm Reduction.",
+      "abstract": "The efficacy of current opioid overdose interventions is fundamentally limited by their reliance on bystander detection and administration, leaving unwitnessed overdoses, a predominant cause of fatalities, unaddressed. Herein, we developed an innovative fentanyl-responsive microneedle (MN) patch (iNal patch) engineered as an autonomous harm reduction tool to dynamically release naloxone on demand in response to fentanyl levels. Specifically, the iNal patch integrates mesoporous silica nanoparticles (MSNs) loaded with naloxone. The nanoparticle surfaces are modified by fentanyl-sensitive aptamers, allowing precise and dose-dependent drug release triggered by fentanyl exposure. The engineered MN matrix composed of swellable maleated poly(vinyl alcohol) facilitates rapid skin penetration and interstitial fluid access, ensuring immediate and sustained naloxone release. From in vitro and in vivo studies, the iNal patch was demonstrated to effectively reverse fentanyl-induced opioid overdose symptoms, rapidly restore normal physiological behaviors in mice, and enable multiple responsive drug-release cycles to prevent renarcotization. This proof-of-concept MN platform establishes a new paradigm for materials-based harm reduction, offering an autonomous safety net for high-risk populations independent of human supervision.",
+      "year": "2026",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Zhao Penghui",
+        "Zhou Zerui",
+        "Wolter Tyler",
+        "Niu Huanqing",
+        "Bian Yuanzhi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42423529/"
+    },
+    {
+      "pmid": "42413127",
+      "title": "Protective-enhanced passive cooling epoxy aerogel coating with an asymmetric dense skin/porous core structure.",
+      "abstract": "Passive thermal management coatings are pivotal for energy efficiency; however, their practical implementation is often hampered by the inherent porosity of insulating fillers, which compromises barrier integrity and renders substrates vulnerable to environmental corrosion. This study aims to develop an epoxy-based passive cooling coating that decouples the highly porous internal structure from surface permeability. By utilizing a water-induced phase inversion (WIPI) process to form an asymmetric single-layer structure, the coating simultaneously integrates thermal insulation, broadband solar reflection, mid-infrared emission, and environmental barrier protection. By incorporating superhydrophobic silica aerogel into the microporous epoxy matrix, a synergistic multiscale pore network was established, integrating microvoids (∼960 nm) with aerogel-derived nanopores (∼50 nm). The combined effect of macroscopic gas insulation within micropores and the Knudsen effect in aerogel nanopores suppresses heat conduction. Meanwhile, the multiscale air/polymer/silica interfaces enhanced broadband solar scattering, yielding a total solar reflectance of 88.3%, including 93.2% in the visible region and 85.1% in the near-infrared region. The coating also exhibited a high weighted thermal emissivity of 95.78% in the 8-13 μm atmospheric window, providing favorable optical properties for passive daytime cooling. Electrochemical impedance spectroscopy (EIS) indicated that the aerogel-modified porous coating partially recovered the barrier performance lost by pore formation, showing improved corrosion resistance compared with the porous epoxy coating without aerogel. Outdoor box tests in Chengdu demonstrated a maximum internal temperature reduction of 7.5 °C relative to ambient air. In addition, EnergyPlus simulations suggested that applying the optimized coating to building envelopes could reduce cooling energy demand in different Chinese climate zones, with relative savings of up to 23.4% under radiation-dominated conditions. These results demonstrate that the as-prepared coating offers a feasible strategy for epoxy-based coatings integrating thermal insulation, solar reflection, mid-infrared emission, and enhanced environmental barrier performance.",
+      "year": "2026",
+      "journal": "Journal of colloid and interface science",
+      "authors": [
+        "Xu Shijun",
+        "Ji Haitao",
+        "Liu Han",
+        "Li Liangjun",
+        "Hu Jianxiu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42413127/"
+    },
+    {
+      "pmid": "42365092",
+      "title": "Uniform volumetric encapsulation of antimicrobial agents into mesoporous silica for their slow release: the case of copper oxide.",
+      "abstract": "In the present work, a modified Stöber approach was developed for direct encapsulation of copper(II) tetraammine complex solution within the mesopores of SiO",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Bhat Aadil Shafi",
+        "Sihtmäe Mariliis",
+        "Kasemets Kaja",
+        "Kook Mati",
+        "Kozlova Jekaterina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42365092/"
+    },
+    {
+      "pmid": "42361593",
+      "title": "Multifunctional SiO",
+      "abstract": "Titanium (Ti) implants often fail to perform optimally because of biological inertness and limited antimicrobial activity, especially in patients with systemic conditions like diabetes or osteoporosis. In this study, a porous oxide layer doped with silica (SiO",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Jia Shengrui",
+        "Zeng Dashun",
+        "Zhang Menghan",
+        "Liao Liming",
+        "Zhou Hua"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42361593/"
+    },
+    {
+      "pmid": "42359584",
+      "title": "Blue Light-Mediated Nitric Oxide-Releasing Formulation for the Multimodal Treatment of Acne Vulgaris.",
+      "abstract": "The topical treatment of acne vulgaris by a single therapeutic is difficult given the multifaceted causes of the disease. Treatment with photo-responsive nitric oxide (NO) donors and light represents an attractive alternative to conventional therapeutics due to the potential for multimodal therapeutic action against downstream acne processes. Herein, a topical hyaluronic acid (HA) formulation was developed to facilitate localized NO delivery from mesoporous silica nanoparticle (MSN) NO donors upon blue light exposure, while simultaneously providing anti-inflammatory activity. The NO release was tunable (0.09-0.51 µmol NO mg",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Johnson Courtney R",
+        "Picciotti Samantha L",
+        "Ramrattan Tsian D",
+        "Nogler Mikaylin E",
+        "Bucci Madelyn P"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359584/"
+    },
+    {
+      "pmid": "42359399",
+      "title": "Optimized extraction, odor modulation, and antioxidant and antimicrobial activities of blue essential oil fro",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Frontiers in plant science",
+      "authors": [
+        "Fang Ting",
+        "Pang Daoran",
+        "Li Yuxin",
+        "Feng Xiaohan",
+        "Li Yufei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359399/"
+    },
+    {
+      "pmid": "42351963",
+      "title": "Kuwanon A from ",
+      "abstract": "The root bark of ",
+      "year": "2026",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Liu Yan",
+        "Fu Hening",
+        "Ma Junjie",
+        "Wang Youqing",
+        "Shi Zhaohua"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42351963/"
+    },
+    {
+      "pmid": "42284667",
+      "title": "A deep eutectic solvent-assisted green synthesis of advanced three-dimensional covalent organic framework based stationary phase for dual-mode liquid chromatography.",
+      "abstract": "Two-dimensional covalent organic frameworks (2D COFs) are widely used as stationary phases in liquid chromatography, yet their simple pore structures often mandate surface modifications to attain the necessary separation selectivity. In contrast, three-dimensional COFs (3D COFs) feature customizable hierarchical channel systems with complex pore structures, high specific surface areas, and spatially diversified active sites, enabling superior separation selectivity and enhanced column efficiency. Furthermore, their rigid frameworks prevent structural collapse of stationary phase, offering unique advantages for advanced separations. Therefore, the development of innovative 3D COF@silica stationary phase represents a promising strategy that leverages the established benefits of silica supports while incorporating the tunable porosity and functionality of 3D COFs. This work presents an eco-friendly deep eutectic solvent-mediated synthesis of an imine-linked 3D-Azo-TFPM-COF@silica stationary phase, which eliminates hazardous solvents and reduces reaction time. The synthesized material demonstrated excellent chromatographic performance in separating polar compounds and positional isomers. Meanwhile, the 3D-Azo-TFPM-COF@silica column was applied to cosmetic analysis for quantifying nicotinamide content in commercial whitening essences with high accuracy (recovery: 95.82-102.92%) and good precision (RSD < 0.4%). This work presents a straightforward and green synthetic approach for 3D COF based stationary phases, broadening their application in chromatographic separations and demonstrating their potential for advanced analytical techniques.",
+      "year": "2026",
+      "journal": "Journal of chromatography. A",
+      "authors": [
+        "Fang Ni",
+        "Long Haoyu",
+        "Du Huili",
+        "Liu Yanjuan",
+        "Zhang Yuefei"
+      ],
+      "mesh_terms": [
+        "Green Chemistry Technology",
+        "Deep Eutectic Solvents",
+        "Silicon Dioxide",
+        "Chromatography, Liquid",
+        "Porosity",
+        "Niacinamide",
+        "Cosmetics",
+        "Solvents",
+        "Chromatography, High Pressure Liquid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284667/"
+    },
+    {
+      "pmid": "42272942",
+      "title": "Synergistic and multi-targeting efficacy of ",
+      "abstract": "The escalating prevalence of multidrug-resistant skin pathogens specifically methicillin-resistant ",
+      "year": "2026",
+      "journal": "In silico pharmacology",
+      "authors": [
+        "Anjorin Aanuoluwapo Deborah",
+        "Oladunmoye Muftau Kolawole"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42272942/"
+    },
+    {
+      "pmid": "42256885",
+      "title": "A BAI1-PSTB-Hydrogel promotes diabetic wound healing by targeting mtDNA leakage and the cGAS-STING axis to alleviate endothelial senescence.",
+      "abstract": "Diabetic Wound (DW) is one of the most prevalent complications in diabetes patients, impairing patient wellbeing and quality of life severely. The pathogenesis of DW remains incompletely understood, hindering the development of targeted therapies.",
+      "year": "2026",
+      "journal": "Bioactive materials",
+      "authors": [
+        "Wang Xianqi",
+        "Zheng Rui",
+        "Cheng Wenjie",
+        "Xu Yanan",
+        "Xu Xian-Jie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42256885/"
+    }
+  ],
+  "crawled_at": "2026-07-14T22:03:50.873315",
+  "source": "pubmed"
+}
