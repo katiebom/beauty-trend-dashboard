@@ -1,0 +1,177 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42454894",
+      "title": "Restoration of Saccadic Eye Movements and Visually Guided Behavior in Ambient White Light with Photoswitchable Small Molecules.",
+      "abstract": "Blinding diseases due to the degeneration of photoreceptors (PhRs), such as geographic atrophy (GA) secondary to dry age-related macular degeneration and retinitis pigmentosa (RP), leave the rest of the retinal circuitry largely intact, albeit unable to respond to light. Gene therapy has been able to revert PhR degeneration, but it can be applied only to a rare mutation affecting a small subset of RP patients. Alternatively, implanted electronic retinal prostheses aim at a larger population by electrically stimulating surviving neurons. However, the treatment is invasive and costly and provides limited resolution. Photopharmacology can develop photoswitchable small molecules to restore vision impairment by conferring light sensitivity to ion channels that are widely expressed in the remaining inner retinal neurons, and a first-in-human clinical trial is ongoing. Here, we have developed novel photoswitchable small-molecule ligands of metabotropic glutamate 6 (mGlu",
+      "year": "2026",
+      "journal": "Journal of the American Chemical Society",
+      "authors": [
+        "Sortino Rosalba",
+        "González-Díez Aleix",
+        "Milla-Navarro Santiago",
+        "Martínez-Tambella Joaquín",
+        "Paleo-García Víctor"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42454894/"
+    },
+    {
+      "pmid": "42454273",
+      "title": "One-Year Outcome of PreserFlo MicroShunt Implantation in Patients with Open Angle Glaucoma: Real-World Data from a Tertiary Centre.",
+      "abstract": "To evaluate the one-year clinical outcomes, safety profile, and surgical success of the PreserFlo",
+      "year": "2026",
+      "journal": "Clinical ophthalmology (Auckland, N.Z.)",
+      "authors": [
+        "Cheng Teck Chee",
+        "Ng Khai Voon",
+        "Che Hamzah Jemaima"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42454273/"
+    },
+    {
+      "pmid": "42452492",
+      "title": "Nose-to-Eye Delivery: The Potential of Intranasal Administration in Ophthalmology.",
+      "abstract": "Non-invasive drug delivery for ocular diseases remains a significant challenge in ophthalmology, as conventional eye drops offer less than 5% bioavailability due to pre-corneal barriers and the corneal epithelium. This review explores the intranasal (IN) route as a promising strategy for targeting both the anterior and posterior segments of the eye. The IN route leverages several distinct pathways: the nasolacrimal reflex for remote physiological stimulation; the \"neural bridge\" through the cribriform plate, allowing direct perineural and vascular transport via the olfactory and trigeminal nerves to bypass the blood-retinal barrier; and systemic absorption that avoids hepatic first-pass metabolism. Pre-clinical evidence indicates that IN administration of agents such as erythropoietin, nerve growth factor, and insulin achieves superior retinal concentrations compared to topical or systemic dosing, offering neuroprotection in models of retinal degeneration and glaucoma. Clinically, varenicline nasal spray is already FDA-approved for dry eye disease, while intranasal steroids demonstrate a favorable ocular safety profile without significantly increasing intraocular pressure. Although limited by mucociliary clearance and small delivery volumes, the IN route offers a painless, non-invasive alternative to intraocular injections, potentially enhancing patient compliance. Future advancements in mucoadhesive nanocarriers are essential to optimize drug residence time and realize the full potential of nose-to-eye delivery in chronic ophthalmic care.",
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Adezio Maria Letizia",
+        "Iannetta Danilo",
+        "Manni Gianluca",
+        "Visioli Giacomo",
+        "Roberti Gloria"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452492/"
+    },
+    {
+      "pmid": "42444007",
+      "title": "Color Doppler ultrasound study: assessing orbital hemodynamics and vascular changes in mucosal lichen planus.",
+      "abstract": "Lichen planus (LP) is a chronic inflammatory condition that can have systemic implications, including effects on vascular health. This exploratory study aimed to evaluate orbital hemodynamics and vascular changes in patients with mucosal LP using color Doppler ultrasound (CDU).",
+      "year": "2026",
+      "journal": "BMC research notes",
+      "authors": [
+        "Mohammadi Abbas",
+        "Pazyar Nader",
+        "Hanafi Mohamad Ghasem",
+        "Azhineh Samaneh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42444007/"
+    },
+    {
+      "pmid": "42441400",
+      "title": "Endothelial FGF13 impairs angiogenesis by accelerating oxygen-independent HIF-1α degradation.",
+      "abstract": "Angiogenesis is a tightly regulated process essential for both development and disease, yet the role of fibroblast growth factor 13 (FGF13) in vascular remodeling has remained unclear. Here, we identify FGF13 as a key negative regulator of physiological and pathological angiogenesis. Using endothelial cell-specific knockout and overexpression mouse models, combined with retinal vascularization assays, hindlimb ischemia and myocardial infarction models, and in vitro endothelial cell functional assays, we demonstrate that loss of FGF13 enhances, whereas its overexpression impairs, neovascularization. Mechanistically, FGF13 binds to the PAS domain of HIF-1α and facilitates its interaction with RACK1, leading to oxygen-independent degradation of HIF-1α and suppression of downstream angiogenic signaling. Importantly, adenoviral overexpression of HIF-1α reverses the inhibitory effects of FGF13, confirming its essential role in mediating FGF13-driven angiogenic regulation. These findings reveal FGF13 as a critical endothelial-intrinsic brake on angiogenesis and suggest its potential as a therapeutic target in ischemic vascular disease.",
+      "year": "2026",
+      "journal": "Cell reports",
+      "authors": [
+        "Wu Zhaohang",
+        "Chen Yingyun",
+        "Tang Zhouhao",
+        "Jiang Meifan",
+        "Zheng Yeyi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42441400/"
+    },
+    {
+      "pmid": "42441242",
+      "title": "Radial Optic Neurotomy for Progressive Visual Field Loss Associated with Optic Nerve Head Drusen: A Case Report.",
+      "abstract": "The aim of this study was to report the use of radial optic neurotomy (RON) as an experimental surgical approach for progressive visual field loss associated with extensive bilateral optic nerve head drusen (ONHD).",
+      "year": "2026",
+      "journal": "Case reports in ophthalmology",
+      "authors": [
+        "Vivarelli Chiara",
+        "Ferri Paola",
+        "Pellegrini Marco",
+        "Adamo Ginevra Giovanna",
+        "Talli Pietro Maria"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42441242/"
+    },
+    {
+      "pmid": "42437467",
+      "title": "[Acceleration of postoperative macular edema recovery with hyperbaric oxygen therapy].",
+      "abstract": "In our case study, we present a patient with postoperative macular edema who received hyperbaric oxygen therapy (HBOT) as adjunctive treatment. Our study aimed to evaluate the potential therapeutic efficacy of HBOT in accelerating the healing process of postoperative macular edema. A 58-year-old healthy male developed blurred vision one week following phacoemulsification with multifocal intraocular lens implantation in the left eye, despite clear optical media. In spite of standard therapy administration (topical corticosteroid and non-steroid anti-inflammatory drug - NSAID), his symptoms persisted, with central retinal thickness measuring 327 μm on postoperative day 35, and visual acuity of 0.4. At this point, while continuing conservative ophthalmic therapy, we initiated adjunctive hyperbaric oxygen therapy, totaling 11 sessions of 2.5 ATA/90 minutes, 100% oxygen breathing, with air breaks every 20 minutes. The patient presented for follow-up examination after the fourth HBOT treatment, reporting significant reduction in subjective complaints of blurred vision. During this examination, visual acuity improved to 0.9. Despite the significant and rapid symptom regression, we continued HBOT treatment to maintain the results and facilitate neuroplasticity and cerebral accommodation. Final optical coherence tomography (OCT) examination was performed one month after completion of HBOT treatment: visual acuity 1.0, macular thickness 267 μm. During hyperbaric oxygen therapy, regression of blurred vision due to postoperative macular edema accelerated significantly, with results objectified by OCT examination that cannot be explained by spontaneous improvement. The application of HBOT in treating macular edema of this etiology may provide significant quality of life improvement in cases where the time factor of recovery is a significant consideration. Orv Hetil. 2026; 167(28): 1120-1126.",
+      "year": "2026",
+      "journal": "Orvosi hetilap",
+      "authors": [
+        "Nagy Zoltán Zsolt",
+        "Vörös Kristóf Márton",
+        "Dormán Péter",
+        "Szolnoki Nikolett"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Macular Edema",
+        "Hyperbaric Oxygenation",
+        "Male",
+        "Middle Aged",
+        "Postoperative Complications",
+        "Visual Acuity",
+        "Phacoemulsification",
+        "Tomography, Optical Coherence",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42437467/"
+    },
+    {
+      "pmid": "42436417",
+      "title": "Multimodal imaging application of Sturge-Weber syndrome complicated with glaucoma: a case report of non-surgical treatment in a 7-year-old boy.",
+      "abstract": "To report the multimodal imaging characteristics and successful non-surgical intraocular pressure (IOP) control with bimatoprost in a 7-year-old boy with Sturge-Weber syndrome (SWS)-related glaucoma and diffuse choroidal hemangioma (DCH).",
+      "year": "2026",
+      "journal": "BMC ophthalmology",
+      "authors": [
+        "Tianyi Chen",
+        "Yuxin Geng",
+        "Danyan Liu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42436417/"
+    },
+    {
+      "pmid": "42435912",
+      "title": "High-titer retinal production in Yarrowia lipolytica via redox engineering coupled with intra- and extracellular sequestration.",
+      "abstract": "Retinal is an industrially valuable retinoid widely used in cosmetic and pharmaceutical applications, but its microbial production remains limited due to its chemical instability and potential susceptibility to intracellular redox metabolism. Here, Yarrowia lipolytica was engineered for high-level retinal biosynthesis by integrating targeted alcohol dehydrogenase deletion, precursor enhancement, and lipid-associated sequestration. Deletion of endogenous alcohol dehydrogenases increased retinal accumulation, while expression of ERG20(F87S) improved precursor flux toward carotenoid biosynthesis. Notably, coupling enhanced biosynthetic flux with DGA1 overexpression produced a greater improvement in retinal accumulation than either strategy alone. To further protect the oxidation-sensitive product, a two-phase system using isopropyl myristate (IPM) supplemented with an antioxidant was implemented, enabling efficient in-situ extraction and stabilization during fermentation. As a result, a total retinal titer of 2253 mg/L was achieved, with the product highly concentrated in the IPM phase at 45.1 g/L. Given that IPM is a cosmetic-grade solvent, this approach provides a formulation-compatible product phase, highlighting the potential to integrate microbial production with downstream processing. Overall, this study demonstrates that coordinated metabolic engineering and phase-partitioning strategies are essential for the efficient production of oxidation-sensitive terpenoid aldehydes.",
+      "year": "2026",
+      "journal": "Bioresource technology",
+      "authors": [
+        "Song Jinwoo",
+        "Lee Hojun",
+        "Song Hanbit",
+        "Seo Dawon",
+        "Song Jimin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42435912/"
+    },
+    {
+      "pmid": "42426416",
+      "title": "Systemic bias in medical consensus: how flawed panels and lack of evidence can distort definitions and guidelines: the case of Vogt-Koyanagi-Harada disease : Perspective.",
+      "abstract": "The creation of diagnostic criteria for a disease is always challenging in medicine. Consensus meetings and expert's opinions are sometimes responsible for establishing useful and precise diagnostic criteria but, unfortunately, not all the consensus meetings are based on evidence-based conclusions.",
+      "year": "2026",
+      "journal": "Journal of ophthalmic inflammation and infection",
+      "authors": [
+        "Herbort Carl P",
+        "Papasavvas Ioannis",
+        "El-Asrar Ahmed M Abu",
+        "AlBloushi Abdulrahman F",
+        "Hwang De-Kuang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42426416/"
+    }
+  ],
+  "crawled_at": "2026-07-15T22:02:56.214310",
+  "source": "pubmed"
+}
