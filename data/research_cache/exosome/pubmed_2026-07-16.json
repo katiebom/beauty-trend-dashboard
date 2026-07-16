@@ -1,0 +1,197 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42461467",
+      "title": "ADSC-Exo-bFGF promotes skin wound healing and correlates with the PI3K/AKT signaling pathway activation.",
+      "abstract": "Wound healing is a complex physiological process involving a variety of tissue repair cells. Adipose-derived stem cell (ADSC)-derived exosomes have demonstrated potential in promoting wound healing. Basic fibroblast growth factor (bFGF) is known to facilitate tissue regeneration. Nevertheless, the biological functions and detailed mechanisms of ADSC-Exo-bFGF in cutaneous wound healing remain largely unelucidated. The study aimed to construct a bFGF-glycosylphosphatidylinositol (GPI)-anchored exosome system (ADSC-Exo-bFGF) and further explore its therapeutic efficacy and underlying molecular mechanisms in skin wound healing. A eukaryotic expression plasmid carrying bFGF-GPI fusion gene was constructed and transfected into ADSCs. Secreted exosomes were isolated and characterized by transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), and western blotting. Hematoxylin and Eosin (H&E) staining and Masson's trichrome staining were used for histological assessment. Inflammatory cytokines in wound tissues and cell supernatants were quantified by enzyme-linked immunosorbent assay (ELISA). Cell viability was evaluated by Cell Counting Kit-8 (CCK-8) assay. Scratch assay was applied for determining cell migration ability. The protein levels of bFGF and the phosphatidylinositol 3-kinase/protein kinase B (PI3K/AKT) pathway related proteins were assessed using western blot assay. Characteristic exosomal surface markers were positively expressed in isolated ADSC-Exo-bFGF, which also exhibited abundant bFGF protein expression. In vivo results confirmed that compared with control groups, ADSC-Exo-bFGF treatment significantly accelerated skin wound healing, reduced inflammatory infiltration, and enhanced collagen deposition, exerting better therapeutic effects than unmodified ADSC-derived exosomes. In vitro experiments further verified that ADSC-Exo-bFGF promoted proliferation and migration of human skin fibroblasts (HSFs) and suppressed inflammatory factor secretion, with superior biological activity relative to empty exosomes. Western blot results revealed that ADSC-Exo-bFGF markedly elevated the phosphorylation levels of p-PI3K and p-AKT in both HSFs and mouse wound tissues, suggesting that the PI3K/AKT signaling pathway is likely involved in this biological process. Our findings revealed that bFGF-GPI-anchored exosomes accelerate skin wound healing via suppressing inflammatory responses, which is accompanied by the activation of the PI3K/AKT signaling cascade. This research offers a novel promising therapeutic strategy for clinical cutaneous wound treatment.",
+      "year": "2026",
+      "journal": "Journal of molecular histology",
+      "authors": [
+        "Cheng Suoli",
+        "Gong Fan",
+        "Ma Guiying",
+        "Wang Yimin",
+        "Zhang Pengguo"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Proto-Oncogene Proteins c-akt",
+        "Animals",
+        "Signal Transduction",
+        "Fibroblast Growth Factor 2",
+        "Exosomes",
+        "Phosphatidylinositol 3-Kinases",
+        "Skin",
+        "Mice",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42461467/"
+    },
+    {
+      "pmid": "42457046",
+      "title": "A molecular perspective on diabetic wound healing: Exploring key signaling pathways.",
+      "abstract": "Diabetic wounds are a serious healthcare concern, affecting approximately 25% of individuals with diabetes globally. Their healing process is often delayed by chronic hyperglycemia, oxidative stress, and persistent inflammation, all of which disrupt normal tissue repair. This review explores the molecular signaling pathways involved in diabetic wound healing and discusses emerging therapeutic strategies targeting these pathways. Key signaling routes such as Wnt/β-catenin, MAPK/ERK, NF-κB/NLRP3, Hippo-YAP, HIF-1α/VEGF-SDF-1α, AKT/eNOS, PI3K/Akt, Nrf2, TGF-β/Smad, and Notch are analyzed for their roles in cell growth, new blood vessel formation, inflammation reduction, and extracellular matrix remodeling. Diabetes disrupts these pathways through advanced glycation end-products, reactive oxygen species, and persistent inflammation, which impair keratinocyte migration, decrease angiogenesis, and prolong inflammation. Recently, promising therapeutic strategies have included nanoparticle-based pathway activation, exosome therapies, and bioactive compounds. Given the extensive interactions among these signaling pathways, therapeutic approaches should target multiple pathways rather than individual signaling components. Future therapeutic strategies may increasingly emphasize personalized medicine, leveraging AI-assisted diagnostics and customised combination therapies to improve management of chronic diabetic wounds.",
+      "year": "2026",
+      "journal": "Biochimica et biophysica acta. General subjects",
+      "authors": [
+        "Nandi Anmoy",
+        "Singh N Anirudh",
+        "Chakrabarti Srijita"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42457046/"
+    },
+    {
+      "pmid": "42449682",
+      "title": "Fibroblast-Derived Small Extracellular Vesicles Promote M2 Macrophage Polarization and PD-L1 Upregulation in Mycosis Fungoides.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Cancers",
+      "authors": [
+        "Khoury Haneen",
+        "Hodak Emmilia",
+        "Knaneh Jamal",
+        "Gorovitz-Harris Batia",
+        "John Feba"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42449682/"
+    },
+    {
+      "pmid": "42435758",
+      "title": "Unraveling Bone-Skin Crosstalk Enables miRNA Nanoformulation for Cutaneous Neurovascular Reconstruction in Diabetic Mice.",
+      "abstract": "The clinical intractability of diabetic foot ulcers stems from a profound uncoupling of cutaneous neurovascular networks, rendering standard metabolic and topical interventions largely palliative. Paradoxically, remote orthopedic trauma robustly accelerates distal skin repair, yet the systemic molecular mediators driving this \"bone-skin crosstalk\" remain undefined, precluding its translation into non-invasive therapies. Here, we establish that macroscopic bone fracture expedites diabetic wound healing through the systemic release of exosomal miR-130b-3p, a potent orchestrator of coupled angiogenesis and neurogenesis. To recapitulate this physiological axis non-invasively, we engineered a self-assembling, cholesterol-modified agomir-130b-3p nanocomplex that could bypass endolysosomal degradation. For sustained spatial delivery, these carrier-free nanoassemblies were incorporated into an in situ photocrosslinkable methacrylated collagen/silk fibroin hydrogel, creating a bio-instructive extracellular matrix that prolongs microRNA bioavailability. In streptozotocin-induced diabetic mice, hydrogel-mediated agomir delivery achieved 97.2% full-thickness wound closure. Advanced volumetric light-sheet imaging of chemically cleared whole-mount skin confirmed the robust spatiotemporal reconstruction of deep vascular and neural networks. These findings decode a distinct exosome-mediated inter-organ repair mechanism and demonstrate that biomimetic microRNA nanoformulations can effectively translate systemic physiological cues into localized, high-efficacy therapeutics for ischemic neuropathic wounds.",
+      "year": "2026",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Shen Tao",
+        "Shen Hongdou",
+        "Wu Weiyue",
+        "Jiang Zhuoying",
+        "Liu Bin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42435758/"
+    },
+    {
+      "pmid": "42434724",
+      "title": "MicroRNA-mediated regulation of hair follicle regeneration: mechanisms, delivery strategies, and translational perspectives.",
+      "abstract": "Hair regeneration depends on a complex interplay between the activation of hair follicle stem cells (HFSCs), maintenance of inductive capacity in the dermal papilla (DP), and the re-establishment of immune microenvironmental homeostasis. Collectively, this interplay underlies a fundamental 'restart' of a multicellular regenerative network. In their role as post-transcriptional regulators, micro-RNAs (miRNAs) exert network-level control over cell fate transitions, paracrine signaling, inflammatory thresholds, and fibrotic processes via the RNA-induced silencing complex (RISC). For this reason, miRNAs have emerged in recent years as key targets for hair regenerative therapies. Recent studies indicate that miRNAs enhance HFSC entry into the active growth phase (i.e., anagen) through pro-regenerative signaling pathways such as Wnt/β-catenin and Sonic hedgehog (Shh), while also mediating the initiation of catagen phase via TGF-β/BMP signaling, extracellular matrix remodeling, and androgen receptor (AR)-associated regressive signaling. In some immune-mediated alopecias (e.g., alopecia areata), miRNA regulation of inflammatory axes, including IFN-γ/JAK-STAT and NF-κB, provides additional therapeutic targets that could potentially be exploited to restore hair follicle immune privilege. In this context, miRNA mimics and inhibitors (e.g., antagomirs and locked nucleic acids, LNAs) enable gain-of-function or blockade, respectively, providing tools that can be used individually or as combined regimens to stimulate regeneration simultaneous with anti-regression/immune remodeling. Recent developments using chemical modifications (e.g., 2'-O modifications, 2'-F, and LNA) improve nucleic-acid stability and modulate RISC loading. From a delivery standpoint, lipid nanoparticles, polymeric nanocarriers, exosome mimetics, and physical enhancement strategies such as microneedles and iontophoresis may help overcome the skin barrier and exploit the follicular \"reservoir effect\" for localized targeting. Major barriers to clinical translation remain, however, including off-target and network side effects arising from miRNAs' multi-cellular roles ",
+      "year": "2026",
+      "journal": "Frontiers in cell and developmental biology",
+      "authors": [
+        "Deng Yuyu",
+        "Hong Kechun",
+        "Xiong Mengting",
+        "Li Changxia",
+        "Tao Xiaohua"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42434724/"
+    },
+    {
+      "pmid": "42417538",
+      "title": "From neural stem cells to cell-free exosome nanotherapy: reprogramming the injured spinal cord microenvironment for regeneration.",
+      "abstract": "Spinal cord injury (SCI) is a severely disabling neurological disorder caused by primary mechanical trauma and subsequent secondary damage, resulting in persistent neurological deficits and imposing a significant social and economic burden. The existing treatment methods - including drug therapy, surgical treatment, and rehabilitation therapy - have limited effects in promoting functional recovery. In recent years, neural stem cells (NSCs) and their derived exosomes have emerged as highly promising innovative treatment options. NSCs promote neural repair through their multifaceted differentiation ability, secretion of neurotrophic factors, and regulation of the immune response in the injured microenvironment. However, factors such as low graft survival rate, ethical restrictions, and the risk of immune rejection have hindered their clinical translation. In contrast, NSC-derived exosomes offer an emerging cell-free alternative solution. NSC-derived exosomes can inhibit neuroinflammation, reduce glial scar formation, enhance axonal regeneration and promote angiogenesis. Compared with the transplantation of NSCs, NSC-derived exosomes may have lower immunogenicity and can avoid direct graft-related excessive proliferation. At the same time, they are convenient for loading, surface modification, and integration with hydrogels, scaffolds, or other nanomaterial delivery systems. Despite these advantages, their clinical application still faces challenges. The main challenges include vesicle heterogeneity, standardization of dosage and efficacy, target specificity of the lesion, biodistribution, timing of treatment, safety of repeated administration, storage stability, and GMP-compliant scalable manufacturing. Overall, NSCs and NSC-derived exosomes demonstrate significant therapeutic potential in the repair of SCI.",
+      "year": "2026",
+      "journal": "Journal of materials chemistry. B",
+      "authors": [
+        "Zhang Cheng",
+        "Liu Xiaoyin",
+        "Zhao Bolin",
+        "Luo Jia",
+        "Liu Wenhui"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42417538/"
+    },
+    {
+      "pmid": "42411735",
+      "title": "Clinical Evidence and Commercial Landscape of Topical Exosomes for Skin Rejuvenation: A Scoping Review.",
+      "abstract": "Exosomes have emerged as a novel therapeutic frontier in regenerative and aesthetic medicine. Preclinical studies suggest that exosomes may promote collagen synthesis, modulate inflammatory signaling, and enhance wound healing, supporting their potential role in skin rejuvenation. However, clinical evidence in humans remains limited. We conducted a scoping review to evaluate the clinical evidence and characterized the current market landscape of exosome-based products. PubMed, Embase, Web of Science, Cochrane Library, and CINAHL were searched for studies evaluating topical exosomes for skin rejuvenation. Search strategies were peer-reviewed with a medical librarian following PRISMA-S and PRESS guidelines. Two independent reviewers screened articles. Additionally, an incognito Google Shopping search for \"exosomes\" identified the first 20 commercially available cosmetic products. Product claims and ingredient sources were analyzed. Of 2,394 articles screened, 18 evaluated topical exosomes for skin rejuvenation, with sources including both human and plant-derived exosomes. Ten studies used delivery modalities alongside exosomes, and eight used topical application alone. Reported benefits included increased collagen and elastin as well as improved wrinkles, skin elasticity, hydration, and pigmentation. Commercial cosmetic products reflected the heterogeneity in exosome sources, and contained minimal information on exosome isolation, processing, or shelf life. The ambiguity in the marketplace highlights the need for standardization and stronger clinical evidence. Overall, human studies on topical exosomes remain scarce, with much of the current evidence on exosomes extrapolated from preclinical models. Further trials directly comparing sources and delivery methods are needed.",
+      "year": "2026",
+      "journal": "Aesthetic surgery journal",
+      "authors": [
+        "Knauer Gabrielle",
+        "Chang Alexander",
+        "Gupta Aryan",
+        "Brownstone Nicholas",
+        "Mejia Natalia"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42411735/"
+    },
+    {
+      "pmid": "42392650",
+      "title": "Exosomes in Cutaneous Wound Healing and Facial Skin Regeneration: Clinical and Translational Perspectives.",
+      "abstract": "Exosomes-small extracellular vesicles containing protein, lipid, and nucleic-acid cargo-modulate key pathways involved in inflammation, angiogenesis, and extracellular matrix remodeling. This narrative review synthesizes current pre-clinical and clinical evidence supporting exosome-based interventions in cutaneous wound healing and facial skin regeneration, with attention to delivery strategies, translational limitations, and regulatory considerations relevant to facial plastic and reconstructive surgery. Across multiple in vivo models, exosome-based therapies have been associated with accelerated wound closure, enhanced neovascularization, and more organized collagen architecture, with attenuation of excessive fibrotic remodeling in later phases of healing.",
+      "year": "2026",
+      "journal": "Facial plastic surgery clinics of North America",
+      "authors": [
+        "Janus Jeffrey",
+        "Lee Jieun",
+        "Pontius Allison"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Wound Healing",
+        "Regeneration",
+        "Skin Aging",
+        "Face",
+        "Rejuvenation",
+        "Animals",
+        "Skin Physiological Phenomena"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392650/"
+    },
+    {
+      "pmid": "42384345",
+      "title": "Ellagic acid from the traditional Chinese medicinal herb Scutellaria barbata may accelerates apoptosis in hepatic stellate cells during liver fibrosis via inhibiting miR-182-5p.",
+      "abstract": "Liver fibrosis is usually accompanied by abnormal activation of hepatic stellate cells. Exosomal microRNAs play important roles in the development of liver fibrosis. Our previous study confirmed that Ellagic acid (EA) is one of the main bloodstream components of Scutellaria barbata, a traditional Chinese medicinal herb. This study aimed to explore the effects of EA on hepatic stellate cells in liver fibrosis. First, a CCl",
+      "year": "2026",
+      "journal": "Molecular and cellular biochemistry",
+      "authors": [
+        "Li Feng",
+        "Liu Zhehao",
+        "Wang Bi",
+        "Liang Jinqiang",
+        "Liu Jiaxiu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42384345/"
+    },
+    {
+      "pmid": "42383230",
+      "title": "Exosome-Biomaterial Platforms for Diabetic Skin Infections: Microenvironment Remodeling, Responsive Delivery, and Clinical Translation.",
+      "abstract": "Diabetic skin infections, particularly diabetic foot ulcers (DFU), remain difficult to treat because infection, biofilm formation, persistent inflammation, oxidative stress, hypoxia, impaired angiogenesis, and extracellular matrix (ECM) disruption coexist within a hostile wound microenvironment. Conventional treatments, including antibiotics, surgical debridement, negative pressure wound therapy, and standard dressings, are indispensable but often fail to simultaneously suppress infection and restore regenerative healing. Exosomes have emerged as promising acellular mediators for diabetic wound repair because they can coordinate immune regulation, angiogenesis, matrix remodeling, and re-epithelialization. However, direct exosome administration is limited by rapid clearance, poor local retention, dilution by wound exudate, dose inconsistency, and manufacturing heterogeneity. Biomaterial platforms, including hydrogels, microneedle patches, membranes, cryogels, porous scaffolds, and responsive nanocomposite systems, provide a rational strategy to protect exosome bioactivity, prolong local retention, and enable sustained or stimulus-responsive release. More importantly, these materials can be engineered to actively regulate infection-associated pathological barriers, including biofilm persistence, excessive oxidative stress, hypoxia, and impaired tissue reconstruction. This review summarizes recent advances in exosome-biomaterial systems for diabetic skin infections, with emphasis on delivery design, microenvironment-responsive release, anti-infective and regenerative mechanisms, platform comparison, and clinical translation. We further discuss key translational challenges, including exosome source selection, dose standardization, potency assays, scalable manufacturing, storage stability, biosafety, regulatory classification, and clinical trial design. Current evidence suggests that exosome-biomaterial systems can improve wound closure, vascularization, collagen deposition, re-epithelialization, and infection control in preclinical models. Nevertheless, high-quality clinical evidence remains limited. Future studies should prioritize clinically relevant infected diabetic wound models, standardized quality-control frameworks, and simplified delivery systems compatible with routine wound care.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Xiao Jian",
+        "He Zekun",
+        "Bu Yitian",
+        "Lu Yan",
+        "Liang Shuibin"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Animals",
+        "Biocompatible Materials",
+        "Wound Healing",
+        "Diabetic Foot",
+        "Drug Delivery Systems"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42383230/"
+    }
+  ],
+  "crawled_at": "2026-07-16T22:16:39.797226",
+  "source": "pubmed"
+}
