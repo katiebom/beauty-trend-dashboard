@@ -1,0 +1,29 @@
+{
+  "ingredient_a": "salicylic acid",
+  "ingredient_b": "centella",
+  "query": "(\"salicylic acid\"[Title/Abstract] AND \"centella\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "33839454",
+      "title": "Impact of potential stimulants on asiaticoside and madecassoside levels and expression of triterpenoid-related genes in axenic shoot cultures of Centella asiatica (L.) Urb.",
+      "abstract": "The triterpenoid saponins, asiaticoside and madecassoside from Centella asiatica (L.) Urb. are known to have a wide range of applications in pharmaceutical and cosmetic industries. The effect of addition of Potential Metabolite Stimulants (PMSs) - casein acid hydrolysate, meat peptone, salicylic acid, copper sulphate, and silver nitrate, on the concentrations of these saponins and transcript levels of associated genes encoding important biosynthetic enzymes, was assessed in axenic shoot cultures of C. asiatica. Among the stimulants, silver nitrate induced asiaticoside content approximately 6-fold increase in madecassoside levels, after three weeks post-treatment with a decrease in biomass compared to its control. Gene expression analysis of essential genes involved in triterpenoid synthesis such as β-amyrin synthase showed an upregulation of approximately 50-fold at the third week of silver nitrate treatment compared to control. These findings suggest that silver nitrate can act as a metabolite stimulant, to enhance the formation of triterpenoids in axenic shoot culture of C. asiatica, which could be utilized in studying the regulation of terpenoid biosynthesis and biotechnological application for the increased production of these bioactive molecules.",
+      "year": "2021",
+      "journal": "Phytochemistry",
+      "authors": [
+        "Ranjith Gouri Priya",
+        "Jisha S",
+        "Hemanthakumar Achutan Sudarsanan",
+        "Saji Chinthu V",
+        "Shenoi Rajesh A"
+      ],
+      "mesh_terms": [
+        "Centella",
+        "Saponins",
+        "Triterpenes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33839454/"
+    }
+  ],
+  "crawled_at": "2026-07-20T22:17:23.334189"
+}

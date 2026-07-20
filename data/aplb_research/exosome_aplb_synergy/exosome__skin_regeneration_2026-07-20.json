@@ -1,0 +1,335 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "skin regeneration",
+  "query": "(\"exosome\"[Title/Abstract] AND \"skin regeneration\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42392650",
+      "title": "Exosomes in Cutaneous Wound Healing and Facial Skin Regeneration: Clinical and Translational Perspectives.",
+      "abstract": "Exosomes-small extracellular vesicles containing protein, lipid, and nucleic-acid cargo-modulate key pathways involved in inflammation, angiogenesis, and extracellular matrix remodeling. This narrative review synthesizes current pre-clinical and clinical evidence supporting exosome-based interventions in cutaneous wound healing and facial skin regeneration, with attention to delivery strategies, translational limitations, and regulatory considerations relevant to facial plastic and reconstructive surgery. Across multiple in vivo models, exosome-based therapies have been associated with accelerated wound closure, enhanced neovascularization, and more organized collagen architecture, with attenuation of excessive fibrotic remodeling in later phases of healing.",
+      "year": "2026",
+      "journal": "Facial plastic surgery clinics of North America",
+      "authors": [
+        "Janus Jeffrey",
+        "Lee Jieun",
+        "Pontius Allison"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Wound Healing",
+        "Regeneration",
+        "Skin Aging",
+        "Face",
+        "Rejuvenation",
+        "Animals",
+        "Skin Physiological Phenomena"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392650/"
+    },
+    {
+      "pmid": "42337624",
+      "title": "Laser-induced skin microenvironment remodeling via exosomal CEBPA-mediated crosstalk between keratinocyte and fibroblast.",
+      "abstract": "Laser treatments are widely applied in aesthetic and clinical dermatology to promote skin rejuvenation by inducing controlled tissue disruption, activating repair processes involving keratinocyte proliferation, fibroblast migration, and extracellular matrix remodeling. However, the cellular specialization and intercellular communication mechanisms, particularly in the early stages following laser treatment, remain poorly understood. Using single-cell RNA sequencing, we analyzed laser-treated and untreated skin, revealing significant differences in cell populations and functions. Keratinocytes and fibroblasts displayed the most prominent shifts in cell number and transcriptional diversity following laser exposure. In early-stage laser-induced skin remodeling, distinct keratinocyte subpopulations actively orchestrated skin repair, immune responses, and regenerative signaling. Cell-cell communication analysis uncovered a dynamic crosstalk between keratinocytes and fibroblasts. Functional validation through co-culture revealed this crosstalk was mediated by exosomes derived from laser-treated keratinocytes, which were enriched with CEBPA. Mechanistically, these exosomes enhanced keratinocyte proliferation through YAP/TAZ activation, while concurrently suppressing fibroblast activity by upregulating IGFBP3 expression during the early phase of laser-induced skin remodeling. Our findings provide new insights into how laser treatments modulate cellular behavior and intercellular signaling, emphasizing the therapeutic potential of exosome-based strategies for promoting skin regeneration and rejuvenation.",
+      "year": "2026",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Zou Qin",
+        "Wang Hao",
+        "Zhou Yanjun",
+        "Wen Xiang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42337624/"
+    },
+    {
+      "pmid": "42278464",
+      "title": "Characterization of ",
+      "abstract": "Plant-derived extracellular vesicles (PDEVs) are emerging as promising bioactive materials for biomedical and dermatological applications. In this study, we isolated and characterized exosome-like vesicles derived from ",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Cho Byong Seung",
+        "Lee Hyun Ju",
+        "Son Bogeun",
+        "Lee Esther",
+        "Moon Sang Yun"
+      ],
+      "mesh_terms": [
+        "Rosa",
+        "Humans",
+        "Exosomes",
+        "Animals",
+        "Mice",
+        "Fibroblasts",
+        "RAW 264.7 Cells",
+        "Skin",
+        "Melanins",
+        "Cytokines"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42278464/"
+    },
+    {
+      "pmid": "42193882",
+      "title": "Stem Cell-Derived Exosomes in Wound Healing and Skin Regeneration: Emerging Therapeutic Strategies and Mechanisms.",
+      "abstract": "Chronic cutaneous wounds and traumatic skin injuries remain a major clinical challenge, characterized by dysregulated healing phases, high susceptibility to microbial infection, and suboptimal response to conventional therapies. Stem cell-derived exosomes (SC-Exos) have emerged as a paradigm-shifting, cell-free nanotherapeutic platform that harnesses the paracrine secretome of stem cells while avoiding the immunological and proliferative complications inherent to direct cell transplantation. Exosomes derived from diverse stem cell sources orchestrate multifactorial wound repair by modulating key cellular signaling cascades and transcriptomic programs that collectively regulate inflammation, angiogenesis, re-epithelialization, extracellular matrix (ECM) remodeling, and scar formation. Beyond their intrinsic regenerative capacity, SC Exos can be engineered using direct strategies (cargo loading, surface modification, biomaterial integration, and conjugation) and indirect approaches (genetic engineering, pretreatment, and preconditioning of parental cells), thereby enabling spatially controlled and temporally sustained exosome release at wound sites with enhanced bioavailability and therapeutic efficacy. In parallel, biomaterial-assisted delivery platforms, including hydrogels, scaffolds, and nanofibers, enhance exosome retention, stability, and controlled-release profiles within the wound microenvironment, thereby further potentiating tissue repair. This review provides a comprehensive overview of recent advances in SC Exos for wound healing and skin regeneration. We first summarize exosome biogenesis, molecular composition, and the distinctive characteristics of exosomes derived from different stem cell sources, along with preclinical evidence supporting their efficacy in cutaneous repair. We then critically examine exosome engineering strategies and biomaterial-integrated delivery systems that augment and fine-tune therapeutic outcomes. Finally, we discuss the current status of clinical trials of SC Exo-based therapies, key manufacturing and regulatory challenges, and future directions for translating these nanoscale, cell-free therapeutics into advanced, personalized wound management.",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Vidiyala Nithin",
+        "Sunkishala Pavani",
+        "Parupathi Prashanth Reddy",
+        "Nyavanandi Dinesh"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Wound Healing",
+        "Stem Cells",
+        "Regeneration",
+        "Animals",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42193882/"
+    },
+    {
+      "pmid": "42181654",
+      "title": "Microneedling Combined with Photothermal-Biomodulated Autologous PRP to Enhance Exosome Release in Refractory Melasma: A Case Report.",
+      "abstract": "Melasma is a challenging condition to treat, requiring multiple therapeutic approaches. Exosomes have been used as regenerative therapies in diverse contexts, including dermatological disorders. A 35-year-old male patient with Fitzpatrick skin phototype II and a longstanding diagnosis of facial melasma, who had undergone multiple prior treatments - including topical agents and laser therapy - with little to no improvement was treated with three monthly sessions of robotic microneedling without radiofrequency on the melasma-affected areas, followed by the injection of preconditioned autologous platelet-rich plasma. The preconditioning consisted of photothermal biomodulation using the Meta Cell Technology technique, applying blue light (467 nm), 1 J/cm",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Leite Crivelin Luciana",
+        "Tomasi-Batiston Gabriela"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42181654/"
+    },
+    {
+      "pmid": "42093508",
+      "title": "PAM@GO Composite Scaffolds Enhance the Yield of iMEC Exosomes for Accelerated Burn Repair.",
+      "abstract": "Severe burns trigger widespread tissue necrosis and a persistent inflammatory cascade, demanding the development of advanced biomaterials capable of actively promoting cutaneous regeneration. In this study, we present a multifunctional hydrogel system integrating a polyacrylamide-graphene oxide (PAM@GO) matrix, capable of promoting induced mammary epithelial-like cells (iMECs) to achieve the high-yield production of exosomes (PAM@GO-EXOs-iMECs), and enhance the biological functions. Mechanistically, iMECs exosome biogenesis can be enhanced by both activating RAB27A/B-mediated vesicular trafficking and upregulating the critical MITF-NSMASE2 signaling axis. Furthermore, in vitro assays demonstrated that PAM@GO-EXOs-iMECs significantly stimulated keratinocyte proliferation and migration, alongside robust endothelial tube formation compared to 2D-EXOs-iMECs. The PAM@GO-EXOs-iMECs were subsequently encapsulated within a methoxy polyethylene glycol (MPEG) hydrogel to form a sustained-release bioactive dressing (PAM@GO-EXOs-MPEG). In murine burn models, PAM@GO-EXOs-MPEG accelerated wound closure, improved collagen alignment, and fostered neovascularization compared to 2D-EXOs-iMECs. Meanwhile, proteomic profiling revealed profound enrichment of proteins linked to epidermal development, cytoskeletal reorganization, and inflammatory resolution following treatment with PAM@GO-EXOs-MPEG. Collectively, this work establishes an innovative PAM@GO scalable platform for significantly promoting exosome production and introduces a clinically translatable exosome-hydrogel hybrid with substantial regenerative potential for severe burn repair.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Lei Zhigang",
+        "Deng Shan",
+        "Sun Zhe",
+        "Liu Quanhui",
+        "Pan Hong"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Animals",
+        "Burns",
+        "Mice",
+        "Graphite",
+        "Wound Healing",
+        "Acrylic Resins",
+        "Polyacrylamides",
+        "Tissue Scaffolds",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42093508/"
+    },
+    {
+      "pmid": "41977630",
+      "title": "3D-Bioprinted Gelatin Hydrogels with Human Umbilical Cord Mesenchymal Stem Cell-Derived Small Extracellular Vesicles Promote Cutaneous Wound Healing In Vivo.",
+      "abstract": "Small extracellular vesicles (sEVs) derived from mesenchymal stem cells (MSCs) are emerging as potent acellular therapeutics; however, their rapid clearance hinders their clinical translation. To address this issue, 3D-bioprinted genipin-crosslinked gelatin (GECL) was engineered for human health. GECL hydrogels were functionalised with human umbilical cord MSC-derived sEVs (hUCMSC-sEVs) to create a bioactive wound-healing platform. These hydrogels demonstrated favourable physicochemical, mechanical, and biodegradable properties while providing an extracellular matrix (ECM)-mimetic environment conducive to tissue regeneration. MSCs were isolated from the umbilical cords, and their small extracellular vesicles (sEVs) were extracted and incorporated into gelatin-based hydrogels via 3D bioprinting. These sEV-loaded scaffolds were embedded in full-thickness wounds in mice, and healing was evaluated through macroscopic observation, histological analysis, collagen deposition, and angiogenesis assessment. Compared with the untreated controls, both the hydrogel-only (B) and sEV-loaded hydrogel (BE) groups significantly accelerated in vivo wound healing. Notably, the BE group achieved complete wound closure within 14 days, restoring the skin architecture, which closely resembled the native tissue with well-organised epidermal and dermal layers, optimal thickness, and skin appendages. Histological and ultrastructural assessments revealed an increased collagen type I deposition, a reduced α-smooth muscle actin (α-SMA) expression, and a robust neovascularisation. The TEM revealed tight junctions and active cellular infiltration, indicating scaffold integration and functional remodelling. Immunohistochemistry further revealed an upregulated CD31 expression with a balanced α-smooth muscle actin (α-SMA) expression, reflecting coordinated angiogenesis and myofibroblast regulation. These results highlight sEV-functionalised GECL hydrogels as robust and clinically translatable acellular therapeutic green products for accelerated wound closure and functional skin regeneration, advancing the fields of regenerative medicine and life expectancy.",
+      "year": "2026",
+      "journal": "Polymers",
+      "authors": [
+        "Taghdi Manal Hussein",
+        "Amirrah Ibrahim N",
+        "Uda Zahli Nurul Izzati",
+        "Chirara Kavita",
+        "Fauzi Mh Busra"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41977630/"
+    },
+    {
+      "pmid": "41926038",
+      "title": "Integrative Dermatology for Longevity: The Synergy of Topical and Internal Approaches.",
+      "abstract": "Skin aging reflects both intrinsic biological decline and extrinsic influences collectively known as the skin exposome, including ultraviolet (UV) radiation, air pollution, psychosocial stress, fatigue, sleep disruption, and suboptimal lifestyle behaviors. These factors contribute to cumulative molecular and structural damage, positioning the skin as both a visible marker of whole-body aging and a target for longevity strategies. This review examines the validity of an integrative \"In and Out\" approach, combining topical treatments, such as retinoids, peptides, antioxidants, and exosome-based formulations, with internal nutraceuticals including NAD",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Haykal Diala",
+        "Flament Frederic",
+        "Balooch Guive",
+        "Mora Pascale",
+        "Kovylkina Natalia"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41926038/"
+    },
+    {
+      "pmid": "41912205",
+      "title": "Exosomes in Skin Rejuvenation: Systematic Review of Anti-Aging Effects and Clinical Applications.",
+      "abstract": "Exosomes, tiny extracellular vesicles (EVs) from different cell types, are gaining attention in dermatology due to their unique properties. They enhance cell communication, transport bioactive substances, and influence immune responses, making them valuable for skin regeneration, wound healing, and addressing skin conditions.",
+      "year": "2026",
+      "journal": "Dermatology practical & conceptual",
+      "authors": [
+        "Alzahrani Azza",
+        "Alghamdi Sara",
+        "Alahmadi Mohammed",
+        "Alhussaini Salma",
+        "Alamry Lama"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41912205/"
+    },
+    {
+      "pmid": "41863833",
+      "title": "The expanding role of biocompatible hydrogels in plant-derived exosome-like nanovesicles for skin diseases: prospects and challenges.",
+      "abstract": "Plant-derived exosome like nanovesicles known for their biocompatibility, minimal immunogenicity, and capacity to transport diverse therapeutic molecules, have emerged as effective carriers for targeted drug delivery. When integrated into hydrogels, these offer improved stability, prolonged release, and precise delivery to specific skin layers, thereby enhancing treatment outcomes.",
+      "year": "2026",
+      "journal": "Annals of medicine",
+      "authors": [
+        "Lv Sha",
+        "Fan Danyang",
+        "Tang Zhanhan",
+        "Liu Zhe"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hydrogels",
+        "Exosomes",
+        "Skin Diseases",
+        "Animals",
+        "Biocompatible Materials",
+        "Drug Delivery Systems",
+        "Drug Carriers",
+        "Wound Healing",
+        "Plants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41863833/"
+    },
+    {
+      "pmid": "41845379",
+      "title": "A novel method to encapsulate polydeoxyribonucleotides extracted from trout into exosomes and applications in skin recovery.",
+      "abstract": "Polydeoxyribonucleotide (PDRN), a DNA polymer derived from salmonid tissue, is widely used in regenerative dermatology but its topical application is limited by poor stability and delivery efficiency. Exosomes, nanoscale vesicles with high cellular uptake and low immunogenicity, offer a promising platform for nucleic acid protection and targeted delivery. In this study, we developed an electroporation-based method to load fragmented PDRN into HaCaT-derived exosomes for enhanced skin regeneration. PDRN was extracted, ultrasonically fragmented to < 200 bp, and encapsulated into exosomes using optimized electroporation parameters. Exosome integrity and size distribution were confirmed by nanoparticle tracking analysis and transmission electron microscopy. Functional activity was evaluated using wound-healing scratch assays and RT-qPCR of pro-inflammatory (TNF-α, IL-6, IL-1β) and regeneration-associated (COL1A1, MMP2) genes. PDRN-loaded exosomes significantly accelerated wound closure and exhibited superior anti-inflammatory effects compared with exosome-only and PDRN-only controls in a dose- and time-dependent manner. Pro-inflammatory cytokine mRNA levels were markedly reduced, while COL1A1 and MMP2 expression were significantly increased at 200 ng, indicating activation of extracellular matrix remodeling pathways. These findings demonstrate that exosome-encapsulated PDRN delivery via electroporation enhances DNA stability and regenerative efficacy without compromising vesicle structure, highlighting its potential as an advanced cosmetic and therapeutic platform for skin repair. Therefore, clinical trials are needed to develop cosmetics or therapeutics using exosome-encapsulated PDRN in the future.",
+      "year": "2026",
+      "journal": "BMC biotechnology",
+      "authors": [
+        "Chang Yunhee",
+        "Park Jun-Young",
+        "Hwang Dasom",
+        "Kim Min Tae",
+        "Yoon Seyeon"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Animals",
+        "Polydeoxyribonucleotides",
+        "Wound Healing",
+        "Skin",
+        "Humans",
+        "Cell Line",
+        "Electroporation",
+        "Cytokines",
+        "Oncorhynchus mykiss"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41845379/"
+    },
+    {
+      "pmid": "41800728",
+      "title": "Biologically Distinct, Clinically Convergent: A Comparative Study of Umbilical Cord- and Adipose-Derived Mesenchymal Stem Cell Exosomes in Human Skin Regeneration.",
+      "abstract": "Mesenchymal stem cell (MSC)-derived exosomes are emerging as cell-free bioregenerative platforms in aesthetic dermatology. Umbilical cord (UC-MSC) and adipose-derived (AD-MSC) exosomes are among the most studied sources, yet existing data derive from heterogeneous models that preclude direct comparison. No standardized head-to-head evaluation in a human skin aging model has been conducted. The aim of the study is to compare the regenerative and antiaging effects of UC-MSC and AD-MSC exosomes using a physiologically relevant ex vivo human skin aging model. MSCs were isolated and characterized per International Society for Cellular Therapy criteria. Exosomes were purified through differential ultracentrifugation and analyzed by nanoparticle tracking and flow cytometry. Cytokine cargo was profiled using multiplex assays. Human dermal fibroblasts and ex vivo skin explants were used to assess proliferation, senescence-associated β-gal activity, melanogenesis, senescence-associated secretory phenotype (SASP) suppression (interleukin-6, matrix metalloproteinase-9), and extracellular matrix (ECM) biosynthesis. Topical retinoic acid and resveratrol served as reference controls. Both exosome types increased fibroblast proliferation and reduced senescence. AD-MSC exosomes showed higher vascular endothelial growth factor (VEGF) content, driving angiogenesis and greater collagen and hyaluronic acid production. UC-MSC exosomes, enriched in transforming growth factor-beta and platelet-derived growth factor-BB (PDGF-BB), demonstrated stronger immunomodulatory activity and more pronounced SASP reduction in ultraviolet-damaged skin. Both reduced melanogenesis without altering melanocyte viability. UC-MSC and AD-MSC exosomes exhibit distinct yet complementary regenerative profiles. AD-MSC exosomes favor dermal ECM remodeling and hydration, whereas UC-MSC exosomes exert potent anti-inflammatory and photo-protective effects. These findings support their potential for personalized regenerative dermatology and combinatory exosome-based facial rejuvenation strategies.",
+      "year": "2026",
+      "journal": "Aesthetic surgery journal",
+      "authors": [
+        "Ponnikorn Saranyoo",
+        "Thanasarnaksorn Wilai",
+        "Hongeng Suradej",
+        "Ratanapun Natchanon",
+        "Phukhao Suprawi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Mesenchymal Stem Cells",
+        "Umbilical Cord",
+        "Skin Aging",
+        "Adipose Tissue",
+        "Regeneration",
+        "Cell Proliferation",
+        "Fibroblasts",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41800728/"
+    },
+    {
+      "pmid": "41800721",
+      "title": "Comparison of Exosome- and Hybrosome-Based Therapies in Regenerative Medicine and Cell Aging: A Narrative Review.",
+      "abstract": "Exosomes have emerged as promising agents in regenerative medicine because of their ability to mediate intercellular communication, modulate inflammation, and promote tissue repair. However, their clinical application remains limited by issues of stability, bioavailability, and therapeutic consistency. Hybrosomes, engineered hybrid vesicles that combine exosomal membranes with liposomal structures, have been developed to enhance delivery, protect bioactive cargo, and prolong regenerative activity. The authors of this review aim to discuss the therapeutic efficacy of exosomes and hybrosomes in the context of skin regeneration and aesthetic procedures and evaluate their respective advantages and limitations. They aim to explore how bioengineered delivery systems may overcome current barriers to clinical translation. Studies were included if they evaluated exosome- or hybrosome-based interventions in wound healing or skin aging through in vitro, in vivo, or clinical models. Data regarding cellular proliferation, migration, angiogenesis, and inflammatory modulation were extracted and synthesized. The improved stability and delivery of hybrosomes enables sustained regenerative effects. The integration of liposomal architecture in hybrosomes may improve vesicle stability, extend bioactivity, and optimize delivery, potentially offering sustained regenerative benefits. However, future studies should include long-term clinical evaluations and standardized production protocols to establish hybrosome therapies as reliable and scalable interventions in regenerative and aesthetic medicine. Level of Evidence: 3 (Therapeutic).",
+      "year": "2026",
+      "journal": "Aesthetic surgery journal",
+      "authors": [
+        "Cohen Steven R",
+        "Wesson Jordan",
+        "Canikyan Serli",
+        "Tiryaki Tunc",
+        "Kul Yaren"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Regenerative Medicine",
+        "Liposomes",
+        "Animals",
+        "Wound Healing",
+        "Cellular Senescence",
+        "Skin Aging",
+        "Cell Proliferation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41800721/"
+    },
+    {
+      "pmid": "41787206",
+      "title": "Human Derived Exosome Injections (ASCE+ vs. CELLEXOSOME) Enhance Collagen Remodeling and Angiogenesis in Intact Skin: A Comparative Experimental Study.",
+      "abstract": "Exosomes derived from human cells have emerged as promising biological agents for enhancing skin quality through stimulation of collagen remodeling and angiogenesis. While their role in wound healing is well established, their effects on intact, non-injured skin remain insufficiently investigated. Their biological activity depends on their molecular cargo, including growth factors, extracellular matrix-modulating proteins, and angiogenic microRNAs.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Adel Noury",
+        "Kolenda Jack",
+        "Llano Francisco",
+        "Thulesen Jesper",
+        "Crespo Francisco Hernandez Gomez"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Animals",
+        "Male",
+        "Humans",
+        "Collagen",
+        "Neovascularization, Physiologic",
+        "Skin",
+        "Injections, Intradermal",
+        "Mesocricetus",
+        "Microvascular Density"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41787206/"
+    },
+    {
+      "pmid": "41754964",
+      "title": "A Purified Platelet-Derived Exosome Product for Chronic Wound Healing: A Novel Therapeutic Strategy and Next-Generation Delivery Platform.",
+      "abstract": "Chronic wounds remain a major unmet clinical challenge, often failing to progress to normal healing due to persistent inflammation, impaired angiogenesis, and cellular senescence. Exosomes have recently been investigated as promising acellular therapeutics capable of restoring intercellular communication and promoting tissue regeneration. Among these, the Purified Exosome Product (PEP) represents a next-generation, platelet-derived exosome formulation manufactured under Good Manufacturing Practice (GMP) conditions with high purity, stability, and reproducibility. This review summarizes the current advances in exosome-based chronic wound therapeutics and PEP delivery systems and their translational potentials. Incorporation of PEP into bioengineered carriers such as fibrin sealant, collagen scaffolds, and hyaluronic acid (HA) hydrogels enables localized and sustained exosome release, significantly prolonging therapeutic effects and improving regenerative outcomes. Fibrin-based PEP delivery achieved complete wound closure and functional skin regeneration in animal models, while collagen and HA-based systems showed promising results for injectable and dermatologic applications. Beyond its intrinsic healing effects, PEP may also serve as a nanocarrier for other drugs, offering a future direction in chronic wound management.",
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Wan Rou",
+        "Nishimura Ken",
+        "Behfar Atta",
+        "Zhao Chunfeng",
+        "Moran Steven L"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41754964/"
+    }
+  ],
+  "crawled_at": "2026-07-20T22:17:48.540618"
+}

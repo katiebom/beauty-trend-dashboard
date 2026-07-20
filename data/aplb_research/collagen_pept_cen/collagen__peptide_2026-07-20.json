@@ -1,0 +1,296 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "peptide",
+  "query": "(\"collagen\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42453843",
+      "title": "Cellulite as a Possible Biomarker of Metabolic Dysfunction: Redefining Body Remodeling in the Glucagon-Like Peptide-1 Era Through the Cellulite Removal Medical Protocol-G21 Concept.",
+      "abstract": "Cellulite has traditionally been regarded as a localized aesthetic condition; however, it may also reflect interactions between adipose tissue biology, dermal architecture, microcirculation, extracellular matrix remodeling, inflammation, and metabolic status. This editorial proposes the metabolic-dermal axis as a conceptual framework for understanding cellulite beyond its surface appearance. In this context, insulin resistance, chronic low-grade inflammation, adipose tissue dysfunction, impaired microvascular function, and altered collagen organization may contribute to the development or persistence of cellulite-like changes. The glucagon-like peptide-1 receptor agonist era, including therapies such as tirzepatide, has transformed obesity and metabolic medicine by improving weight, adiposity, insulin sensitivity, and cardiometabolic risk. Nevertheless, weight loss and metabolic improvement do not necessarily restore dermal structure, skin firmness, or tissue quality. Persistent cellulite and skin laxity after substantial weight reduction highlight the need for approaches that address both systemic metabolic health and local dermal remodeling. The Cellulite Removal Medical Protocol-G21 (CRMP-G21) is presented here as a proposed integrative concept rather than a validated therapeutic standard. It aims to combine metabolic optimization with targeted dermal restoration strategies. Further clinical studies are required to determine whether cellulite can serve as a meaningful clinical marker of metabolic-dermal dysfunction and whether combined systemic and local interventions improve patient outcomes.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Adamidis Nikos",
+        "Adamidi Sofia",
+        "Georgakopoulou Vasiliki E",
+        "Papadopoulou Nektaria",
+        "Adamidis Sotirios"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42453843/"
+    },
+    {
+      "pmid": "42451143",
+      "title": "Dietary Collagen Supplementation as a Strategy for Skin Health: A Narrative Review of Clinical Effects on Skin, Hair, Nails, and Wound Healing.",
+      "abstract": "Collagen is a key structural protein of the skin, essential for maintaining its mechanical strength, elasticity, and hydration. Oral collagen supplementation, particularly in the form of collagen peptides, has recently gained significant interest as a nutritional strategy to support skin health and overall wellbeing. However, the evidence regarding its effectiveness in supporting skin health and improving hair, nail, and wound-healing outcomes remains heterogeneous. The aim of this review is to summarize and critically evaluate the current human evidence on oral collagen supplementation and its potential role in supporting skin health, hair and nail quality, and wound healing. A targeted literature search was conducted using PubMed and Web of Science to identify clinical trials and relevant studies assessing the effects of collagen supplementation on skin aging parameters, including elasticity, wrinkles, hydration, and barrier function, as well as hair loss, nail disorders, and wound healing. Collagen-derived peptide supplementation has been associated with improvements in skin hydration, elasticity, wrinkle appearance, and dermal extracellular matrix organization, while also supporting hair thickness and strength, modestly enhancing nail growth, and promoting wound healing. Benefits are most consistent with low-molecular-weight hydroxyproline-rich peptides, with peptide characteristics appearing more important than collagen source. Evidence is limited by short study durations, heterogeneous designs, multi-ingredient formulations, and industry funding, which reduce confidence in the magnitude and consistency of the reported effects. Nevertheless, high-quality, long-term, independently funded trials with standardized outcomes are still required to confirm these findings.",
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Biełach-Bazyluk Angelika",
+        "Jurga Marta",
+        "Flisiak Iwona",
+        "Zbroch Edyta"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Collagen",
+        "Nails",
+        "Dietary Supplements",
+        "Hair",
+        "Skin",
+        "Skin Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42451143/"
+    },
+    {
+      "pmid": "42445555",
+      "title": "Adipose-derived stem cell peptide 5 alleviates hypertrophic scarring through targeting pyruvate carboxylase or p50 to coordinate PI3K/AKT/mTOR-autophagy and NF-κB/IL-6 signaling.",
+      "abstract": "Hypertrophic scars are a major clinical challenge with limited treatments. Adipose-derived stem cells (ADSCs) play an important role in inhibiting pathological scar formation. However, the underlying mechanisms remain unclear. In this study, we aimed to investigate the function, mechanism, and therapeutic potential of adipose-derived stem cell peptide 5 (ADSCP5), a novel peptide from adipose-derived stem cell-conditioned medium.",
+      "year": "2026",
+      "journal": "Burns & trauma",
+      "authors": [
+        "Chen Ling",
+        "Zhang Enyuan",
+        "Zeng Siqi",
+        "Yan Qiyue",
+        "Li Jingyun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42445555/"
+    },
+    {
+      "pmid": "42427398",
+      "title": "Pepholin, a bacteriophage holin-derived antimicrobial peptide with membrane-disruptive activity and therapeutic efficacy in MDR ",
+      "abstract": "The emergence of multidrug-resistant (MDR) ",
+      "year": "2026",
+      "journal": "RSC advances",
+      "authors": [
+        "Rv Purushotham",
+        "Shrivastava Sameer",
+        "Saxena Sonal",
+        "Nagappan Sabapathi",
+        "Kumar Pradeep"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42427398/"
+    },
+    {
+      "pmid": "42417471",
+      "title": "Strategy for Simultaneous Multiomic Survey of N-Glycomic and Extracellular Matrix Proteome by Mass Spectrometry Imaging.",
+      "abstract": "Recent advances in spatially resolved molecular profiling have positioned matrix-assisted laser desorption/ionization mass spectrometry imaging (MALDI-MSI) as a powerful platform for multiomic tissue analyses. However, conventional workflows that sequentially target distinct molecular classes are time- and resource-intensive, requiring repeated sequential sample preparation, imaging, and data integration. Here, we evaluate streamlined strategies for simultaneous or combined acquisition of N-glycan and collagen-derived peptide information using PNGase F and collagenase. In-solution studies demonstrate that simultaneous enzymatic digestion yields comparable peptide identifications and glycan profiles relative to traditional sequential workflows, with minimal impact on enzymatic specificity. On the basis of these findings, we developed and optimized MALDI-MSI protocols enabling either simultaneous enzyme application or sequential enzyme treatment with unified matrix deposition and single-pass imaging. While direct coapplication reduced image uniformity, a hybrid approach that used sequential enzyme deposition with combined imaging preserved spatial fidelity and spectral quality while significantly reducing processing and computational demands. Application to human tissues, including vertebral bone and ocular samples, highlights the utility of this workflow for fragile specimens and exploratory multiomic surveys. Collectively, these results establish a framework for integrated glycomic and proteomic imaging targeting the extracellular microenvironment, expanding multiomic MALDI-MSI analyses.",
+      "year": "2026",
+      "journal": "Journal of the American Society for Mass Spectrometry",
+      "authors": [
+        "Taylor Harrison B",
+        "Macdonald Jade K",
+        "Myers Walter K",
+        "Bonnheim Noah",
+        "Mehta Anand S"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42417471/"
+    },
+    {
+      "pmid": "42414642",
+      "title": "Computational Trial of Prophylactic Biostimulator Interventions to Mitigate Facial Sagging Associated With GLP-1 Receptor Agonist Induced Weight Loss.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) such as semaglutide induce rapid weight loss, including facial adipose reduction, which may accelerate sagging due to loss of soft-tissue support. Preventive strategies remain unvalidated, and prospective trials are challenging.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Rahman Eqram",
+        "Michon Alain",
+        "Rao Parinitha",
+        "Saklayen Golam",
+        "Ahmed Munim"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42414642/"
+    },
+    {
+      "pmid": "42387506",
+      "title": "Cartilage targeted grape skin-derived extracellular vesicles ameliorate osteoarthritis by attenuating chondrocyte senescence.",
+      "abstract": "Osteoarthritis (OA) is predominantly driven by chondrocyte senescence, accompanied by progressive cartilage degradation. Facing the substantial worldwide impact of this condition, creating sustainable and economical therapies has become increasingly urgent. Plant-derived extracellular vesicles (PEVs) present a highly attractive option, notably because they are readily sourced, exhibit minimal immunogenicity, boast excellent biocompatibility, and can be produced at scale. Crucially, these nanovesicles facilitate cell-to-cell signaling by shuttling inherent bioactive cargo. In our study, we propose to utilize grape skin-derived extracellular vesicles (GSEVs), a by-product of the food industry, as a new nanotherapeutic platform. By coupling GSEVs with a type II collagen-binding peptide (WYRGRL), we generated cartilage-tendency-enhancing W-GSEVs that increased their accumulation and retention time in articular chondrocytes. In vitro findings demonstrated that W-GSEVs attenuated chondrocyte senescence by reducing reactive oxygen species (ROS) production and inhibiting both IL-17 and TNF signaling pathways. In vivo experiments further demonstrated that intra-articular injection of W-GSEVs effectively mitigates chondrocyte senescence in OA mice, thereby protecting cartilage from breakdown, reducing abnormal bone growth, and normalizing subchondral bone remodeling. This treatment notably slowed OA advancement and helped maintain balanced matrix metabolism. This work not only repurposes agricultural waste into a high-value biomedical tool, but also highlights the clinical translational potential of PEVs as a scalable, low-immunogenic platform for OA treatment by directly targeting chondrocyte senescence.",
+      "year": "2026",
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Chen Wanzhuo",
+        "Niu Luyu",
+        "Wu Yuezhou",
+        "Chen Congli",
+        "Liu Han"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42387506/"
+    },
+    {
+      "pmid": "42357389",
+      "title": "Photoprotective Effects of ",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Zhang Jinghan",
+        "Sun Yue",
+        "Zheng Jinhao",
+        "Yang Can",
+        "Yang Mingshuo"
+      ],
+      "mesh_terms": [
+        "Dendrobium",
+        "Humans",
+        "Ultraviolet Rays",
+        "NF-kappa B",
+        "Protein Hydrolysates",
+        "Signal Transduction",
+        "Transforming Growth Factor beta",
+        "Reactive Oxygen Species",
+        "Smad Proteins",
+        "Skin Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42357389/"
+    },
+    {
+      "pmid": "42354780",
+      "title": "Redox-Responsive GHK-Conjugated Sponge Spicules for Sustained Dermal Delivery and Enhanced Collagen Synthesis.",
+      "abstract": "Sponge spicules have emerged as promising biomaterial scaffolds due to their biocompatibility and unique structural properties; however, achieving stable and bioactive functionalization remains a key challenge. The tripeptide GHK is known to promote collagen synthesis and wound repair, yet its therapeutic efficacy is often limited by rapid diffusion and instability. Here, we report ALTUM, a thiol-functionalized sponge spicule composite in which GHK is covalently conjugated via disulfide linkage to enable controlled and redox-responsive peptide delivery. ALTUM exhibited sustained GHK retention under physiological and storage conditions, while exposure to reduced glutathione (GSH) selectively accelerated peptide release through disulfide bond cleavage. This dual release behavior-long-term stability combined with reduction-triggered activation-distinguishes ALTUM from conventional delivery systems. The composite also demonstrated structural stability under thermal, cyclic, and photostability conditions. In an artificial human skin model, ALTUM enhanced dermal penetration of GHK and significantly increased collagen deposition in the dermal layer, demonstrating its capacity to promote collagen production within deeper skin tissue, compared to simple spicule-peptide mixtures. ALTUM was fabricated at an optimized spicule-to-peptide ratio of 3% (",
+      "year": "2026",
+      "journal": "Micromachines",
+      "authors": [
+        "Hong Won-Kyu",
+        "Huang Patrick Po-Han",
+        "Duncan Diane",
+        "Marco Rocha",
+        "Choi Ho-Sung"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42354780/"
+    },
+    {
+      "pmid": "42354365",
+      "title": "A Scallop Active Peptide-Incorporated Carboxymethyl Chitosan/Oxidized Sodium Alginate Hydrogel for Accelerating Skin Wound Healing and Tissue Regeneration.",
+      "abstract": "In this study, a novel composite hydrogel was developed based on oxidized sodium alginate (OSA), synthesized via sodium periodate oxidation, and incorporated into a carboxymethyl chitosan (CMCS) matrix. Scallop active peptides (SAPs), a marine-derived bioactive component with outstanding antioxidant and pro-regenerative activities, was introduced to endow the hydrogel with enhanced biological functions, which is of great significance for breaking the functional limitations of traditional single-component hydrogels. The construction of a dynamic covalent network, driven by the Schiff base reaction, was confirmed through structural characterization using FT-IR and ",
+      "year": "2026",
+      "journal": "Gels (Basel, Switzerland)",
+      "authors": [
+        "Kou Lingfeng",
+        "Yang Huan",
+        "Zheng Yunquan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42354365/"
+    },
+    {
+      "pmid": "42353215",
+      "title": "Gestodene Accelerates Cutaneous Wound Healing via PAR1-Selective Positive Allosteric Modulation.",
+      "abstract": "Protease-activated receptor 1 (PAR1), a G protein-coupled receptor, plays a central role in coordinating multiple phases of cutaneous wound healing, including hemostasis, cell proliferation, migration, and extracellular matrix remodeling. Despite its therapeutic potential, PAR1-selective positive allosteric modulators (PAMs) remain limited. Here, we characterized the wound healing efficacy of gestodene, a third-generation progestin previously identified as a selective PAM of PAR1. Gestodene exhibited no intrinsic agonist activity but selectively potentiated PAR1-activating peptide (PAR1-AP)-induced calcium signaling without affecting PAR2 or PAR4 responses. Consistently, gestodene induced a concentration-dependent leftward shift in the PAR1-AP dose-response curve. Notably, gestodene enhanced PAR1-dependent cell proliferation, migration, and ERK1/2 activation, effects abolished by PAR1 knockout or pharmacological inhibition with vorapaxar in human keratinocytes (HaCaT) and dermal fibroblasts (HDF). Gestodene also potentiated the expression of wound healing-associated genes, including matrix metalloproteinases (MMP-1, -2, -3, -10), fibronectin, and type I collagen (COL1A1). In a murine wound model, topical administration of gestodene accelerated wound closure, achieving complete re-epithelialization by Day 8 and significantly enhancing collagen deposition, effects reversed by vorapaxar. Collectively, these findings demonstrate that gestodene accelerates cutaneous wound healing through PAR1-selective positive allosteric modulation and supports its potential as a drug repositioning candidate for wound repair.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Jeon Hyejin",
+        "Heo Yunkyung",
+        "Lee Yechan",
+        "Park So-Hyeon",
+        "Kang Mincheol"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Animals",
+        "Humans",
+        "Allosteric Regulation",
+        "Receptor, PAR-1",
+        "Mice",
+        "Cell Movement",
+        "Skin",
+        "Fibroblasts",
+        "Cell Proliferation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42353215/"
+    },
+    {
+      "pmid": "42346789",
+      "title": "Gastrointestinal Fate and Receptor-Mediated Mechanism of GPSGPQGSR, an Intestinal Barrier-Protective Collagen Peptide from ALASKA Pollock Skin.",
+      "abstract": "Marine-derived collagen peptides exhibit potent intestinal barrier protection; however, their gastrointestinal fate and molecular targets remain unclear, limiting their practical applications. This study investigated the digestive stability and transepithelial transport of GPSGPQGSR, a mucoprotective peptide from Alaska pollock (",
+      "year": "2026",
+      "journal": "Marine drugs",
+      "authors": [
+        "Chen Qianru",
+        "Zhao Zheng",
+        "Wang Fengwu",
+        "Chen Tiejun",
+        "Ding Ting"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Collagen",
+        "Caco-2 Cells",
+        "Gadiformes",
+        "Skin",
+        "Intestinal Barrier Function",
+        "Intestinal Mucosa",
+        "Molecular Docking Simulation",
+        "Peptides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42346789/"
+    },
+    {
+      "pmid": "42330584",
+      "title": "Ready-to-use, in situ formed collagen/RGD/hyaluronic acid hydrogel: accelerating full-thickness wound healing.",
+      "abstract": "A robust strategy was developed to customize the hydrogel's composition, concentration, and crosslink density, thereby providing a method for the screening and optimization of skin repair hydrogels. Specifically, methyltetrazine-modified collagen (Col-T), norbornene-modified RGD peptide, and norbornene-modified hyaluronic acid with varying degrees of modification (HA-N",
+      "year": "2026",
+      "journal": "Biomaterials",
+      "authors": [
+        "Zheng Tiemei",
+        "Li Siqi",
+        "Li Yusen",
+        "Song Jin",
+        "Huang Pengyu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42330584/"
+    },
+    {
+      "pmid": "42317277",
+      "title": "Deep eutectic solvent-mediated extraction of collagen peptides from sturgeon skin: Molecular-weight control and mechanistic insights.",
+      "abstract": "A choline-oxalic acid deep eutectic solvent (DES) was developed for the molecular-weight-controlled extraction of collagen peptides from sturgeon (",
+      "year": "2026",
+      "journal": "Food chemistry: X",
+      "authors": [
+        "Bai Mingkai",
+        "Wang Ning",
+        "Zhang Meichao",
+        "Zhao Zifang",
+        "Yu Jianwei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42317277/"
+    },
+    {
+      "pmid": "42317129",
+      "title": "Nanostructure and Collagen-Stimulating Activity of Cationic Pentapeptide Lipopeptides.",
+      "abstract": "The self-assembly in aqueous solutions, cytocompatibility, and collagen production of lipopeptide C",
+      "year": "2026",
+      "journal": "Journal of peptide science : an official publication of the European Peptide Society",
+      "authors": [
+        "de Mello Lucas R",
+        "Castelletto Valeria",
+        "Seitsonen Jani",
+        "Hamley Ian W"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Lipopeptides",
+        "Collagen",
+        "Nanostructures",
+        "Fibroblasts",
+        "Cell Survival",
+        "Oligopeptides",
+        "Hydrogen-Ion Concentration"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42317129/"
+    }
+  ],
+  "crawled_at": "2026-07-20T22:17:15.104221"
+}

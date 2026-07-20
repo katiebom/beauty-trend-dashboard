@@ -1,0 +1,28 @@
+{
+  "ingredient_id": "pdrn",
+  "name_en": "PDRN (Polydeoxyribonucleotide)",
+  "name_kr": "PDRN",
+  "category": "regeneration",
+  "query": "\"PDRN (Polydeoxyribonucleotide)\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "39852156",
+      "title": "First Report on Microbial-Derived Polydeoxyribonucleotide: A Sustainable and Enhanced Alternative to Salmon-Based Polydeoxyribonucleotide.",
+      "abstract": "Polydeoxyribonucleotide (PDRN) has emerged as a potent bioactive compound with proven efficacy in wound healing, tissue regeneration, and anti-inflammatory applications and is predominantly derived from salmonid gonads. However, this study presents a groundbreaking advancement by successfully extracting and characterizing PDRN from microbial sources, specifically ",
+      "year": "2025",
+      "journal": "Current issues in molecular biology",
+      "authors": [
+        "Chae Doobyeong",
+        "Oh Sae-Woong",
+        "Choi Yoon-Seo",
+        "Kang Dae-Jung",
+        "Park Chun-Woong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39852156/"
+    }
+  ],
+  "crawled_at": "2026-07-20T22:11:45.671403",
+  "source": "pubmed"
+}

@@ -1,0 +1,825 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 22,
+  "trials": [
+    {
+      "nct_id": "NCT06781541",
+      "title": "Physical Activity and Disability Prevention in Postmenopausal Women",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metabolic Syndrome",
+        "Fall Risk",
+        "Sarcopenia in Elderly",
+        "Osteopenia, Osteoporosis",
+        "Cardiovascular Diseases",
+        "Dementia",
+        "Quality of Life Outcomes",
+        "Cognitive Ability, General"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Nordic walking"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Strength training"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Bungy Pump Exercises"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Daily life"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Functional general conditioning training"
+        }
+      ],
+      "sponsor": "Gdansk University of Physical Education and Sport",
+      "primary_completion": "2025-10-05",
+      "url": "https://clinicaltrials.gov/study/NCT06781541"
+    },
+    {
+      "nct_id": "NCT07136467",
+      "title": "A Real World Study to Globally Assess Disease Burden in Adolescent and Adult Participants With Alopecia Areata, Vitiligo, or Hidradenitis Suppurativa",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Non-Segmental Vitiligo (NSV)",
+        "Alopecia Areata",
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [],
+      "sponsor": "AbbVie",
+      "primary_completion": "2027-08",
+      "url": "https://clinicaltrials.gov/study/NCT07136467"
+    },
+    {
+      "nct_id": "NCT06015893",
+      "title": "Semaglutide Therapy for Alcohol Reduction (STAR)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Addiction",
+        "Alcohol Use Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Take Control"
+        },
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2030-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06015893"
+    },
+    {
+      "nct_id": "NCT07453537",
+      "title": "Cranberry Polyphenols and Stress Resilience During Multitasking in Healthy Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Stress Response",
+        "Mental Stress",
+        "Multitasking Behavior and Multitasking Ability",
+        "Physiological Stress",
+        "Cognitive Symptoms",
+        "Motor Activity"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Cranberry juice"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo juice"
+        }
+      ],
+      "sponsor": "University of Florida",
+      "primary_completion": "2028-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07453537"
+    },
+    {
+      "nct_id": "NCT07178119",
+      "title": "Bridging Technique Validation for Nasolabial Folds JN-BRIDGE-1",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Nasolabial Fold Correction",
+        "Facial Aging",
+        "Skin Rejuvenation",
+        "Wrinkles Such as Nasolabial Folds"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "(Bridging) Horizontal Cannula Technique for Treatment of Nasolabial Folds using AILEENE Vol. 2"
+        }
+      ],
+      "sponsor": "Dr. Joseph M Novoa Libermann",
+      "primary_completion": "2026-05",
+      "url": "https://clinicaltrials.gov/study/NCT07178119"
+    },
+    {
+      "nct_id": "NCT06946654",
+      "title": "Geriatric Assessment (GA) for Elderly Patients Undergoing Allo-HSCT",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Elderly",
+        "Geriatric Assessment",
+        "ALLOGENEIC HEMATOPOIETIC STEM CELL TRANSPLANTATION"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Geriatric Assessment"
+        }
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "primary_completion": "2027-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT06946654"
+    },
+    {
+      "nct_id": "NCT06806657",
+      "title": "Safety Study in Subjects ≥ 12 Years of Age With Hereditary Angioedema Switching to Garadacimab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hereditary Angioedema"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Garadacimab"
+        }
+      ],
+      "sponsor": "CSL Behring",
+      "primary_completion": "2026-06-23",
+      "url": "https://clinicaltrials.gov/study/NCT06806657"
+    },
+    {
+      "nct_id": "NCT07347067",
+      "title": "Clinical Study of Myofascial Trigger Points(MTrPs) Injection in the Treatment of Chronic Migraine",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Myofascial Trigger Points",
+        "Chronic Migraine Headache",
+        "Greater Occipital Nerve Block"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "MTrPs Injection"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Greater occipital nerve block group"
+        }
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07347067"
+    },
+    {
+      "nct_id": "NCT07582211",
+      "title": "Bilevel Positive Airway Pressure (BPAP) for Severe Asthma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pediatric Asthma",
+        "Acute Asthma",
+        "BiPAP",
+        "Non-invasive Positive Pressure Ventilation"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Bilevel positive airway pressure ventilation"
+        }
+      ],
+      "sponsor": "Columbia University",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT07582211"
+    },
+    {
+      "nct_id": "NCT06995898",
+      "title": "The Vanguard Study: Testing a New Way to Screen for Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Bladder Carcinoma",
+        "Breast Carcinoma",
+        "Colorectal Carcinoma",
+        "Esophageal Carcinoma",
+        "Gastric Carcinoma",
+        "Liver Carcinoma",
+        "Lung Carcinoma",
+        "Malignant Solid Neoplasm",
+        "Ovarian Carcinoma",
+        "Pancreatic Carcinoma",
+        "Prostate Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Biospecimen Collection"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Device Usage"
+        },
+        {
+          "type": "OTHER",
+          "name": "Electronic Health Record Review"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Multi-Cancer Detection Test"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Multi-Cancer Detection Test"
+        },
+        {
+          "type": "OTHER",
+          "name": "Questionnaire Administration"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2029-01-31",
+      "url": "https://clinicaltrials.gov/study/NCT06995898"
+    },
+    {
+      "nct_id": "NCT05361798",
+      "title": "A Phase II Study Evaluating T-Cell Clonality After Stereotactic Body Radiation Therapy Alone and in Combination With the Immunocytokine PDS01ADC in Localized High and Intermediate Risk Prostate Cancer Treated With Androgen Deprivation Therapy",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cancer Of Prostate"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "PDS01ADC"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Stereotactic Body Radiation Therapy (SBRT)"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2026-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT05361798"
+    },
+    {
+      "nct_id": "NCT05790330",
+      "title": "Mind and Skin - the Neurocutaneous Axis in Atopic Eczema",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Methotrexate"
+        },
+        {
+          "type": "DRUG",
+          "name": "Dupilumab"
+        }
+      ],
+      "sponsor": "King's College London",
+      "primary_completion": "2025-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT05790330"
+    },
+    {
+      "nct_id": "NCT05946044",
+      "title": "The Osteoarthritis Prevention Study",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Osteoarthritis, Knee"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Diet and Exercise"
+        }
+      ],
+      "sponsor": "Wake Forest University",
+      "primary_completion": "2029-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT05946044"
+    },
+    {
+      "nct_id": "NCT04134598",
+      "title": "ExclUsive endocRine Therapy Or Radiation theraPy for Women Aged ≥70 Years Early Stage Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "Breast irradiation (RT)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Endocrine Therapy (ET): letrozole, anastrozole, exemestane, tamoxifen"
+        }
+      ],
+      "sponsor": "Azienda Ospedaliero-Universitaria Careggi",
+      "primary_completion": "2030-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT04134598"
+    },
+    {
+      "nct_id": "NCT07294131",
+      "title": "Targeting Muscle Strength Loss Due to Hospitalization in Older Adults by Blood-flow Restriction Combined With an Electromyography-driven Serious Game.",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hospital Associated Disability",
+        "Immobility",
+        "Older Adults (65 Years and Older)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Gamified isometric strength training with blood flow restriction"
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard Physiotherapy"
+        }
+      ],
+      "sponsor": "Vrije Universiteit Brussel",
+      "primary_completion": "2029-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT07294131"
+    },
+    {
+      "nct_id": "NCT03352765",
+      "title": "A Phase I Study of Bendamustine and Melphalan Conditioning and Autologous Stem Cell Transplantation for Treatment of Multiple Myeloma and Relapsed/Refractory B-cell Lymphoma in Elderly Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "bendamustine"
+        },
+        {
+          "type": "DRUG",
+          "name": "melphalan"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Autologous Stem Cell Transplantation (ASCT)"
+        }
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT03352765"
+    },
+    {
+      "nct_id": "NCT06614777",
+      "title": "Characterization of the Cytokine Profile and the Microbiome in Darier's Disease",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Darier Disease"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "skin biopsies and blood extraction"
+        }
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "primary_completion": "2025-09-25",
+      "url": "https://clinicaltrials.gov/study/NCT06614777"
+    },
+    {
+      "nct_id": "NCT06895330",
+      "title": "Effects of Virtual Reality and Helfer Skin Tap During Vaccination",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pain Management",
+        "Fear",
+        "Anxiety",
+        "Satisfaction"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Virtual Reality Group"
+        },
+        {
+          "type": "OTHER",
+          "name": "Helfer Skin Tap Group"
+        }
+      ],
+      "sponsor": "Mehmet Akif Ersoy University",
+      "primary_completion": "2025-12-03",
+      "url": "https://clinicaltrials.gov/study/NCT06895330"
+    },
+    {
+      "nct_id": "NCT04943328",
+      "title": "Cemented TrendHip® - Multicenter PMCF Study on Total Indications",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Coxarthrosis; Primary",
+        "Coxarthrosis; Post-Traumatic",
+        "Necrosis, Femur Head",
+        "Rheumatoid Arthritis",
+        "Fractures, Hip",
+        "Hip Dysplasia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Total Hip Arthroplasty"
+        }
+      ],
+      "sponsor": "Aesculap AG",
+      "primary_completion": "2023-05-08",
+      "url": "https://clinicaltrials.gov/study/NCT04943328"
+    },
+    {
+      "nct_id": "NCT07072728",
+      "title": "Psilocybin-Assisted Psychotherapy in Cancer Patients With Adjustment Disorder",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Adjustment Disorder",
+        "Adjustment Disorder With Anxious Mood",
+        "Cancer",
+        "Cancer Cachexia",
+        "Cancer of Endometrium",
+        "Cancer of Kidney",
+        "Cancer of Prostate",
+        "Cancer of the Breast",
+        "Cancer of Stomach",
+        "Cancer Melanoma Skin",
+        "Cancer Pancreas"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Psilocybin therapy"
+        }
+      ],
+      "sponsor": "Psyence Australia Pty Ltd",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07072728"
+    },
+    {
+      "nct_id": "NCT05769777",
+      "title": "Open Label, Long-term Study Evaluating Safety and Efficacy of Subcutaneous Amlitelimab in Participants Aged 12 Years and Older With Moderate to Severe Atopic Dermatitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dermatitis Atopic"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Amlitelimab"
+        }
+      ],
+      "sponsor": "Sanofi",
+      "primary_completion": "2031-06-11",
+      "url": "https://clinicaltrials.gov/study/NCT05769777"
+    },
+    {
+      "nct_id": "NCT07135583",
+      "title": "Non-Invasive Interventions for Respiratory Recovery in Chronic Spinal Cord Injury",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Spinal Cord Injury, Chronic",
+        "Spinal Cord Injury Cervical",
+        "Spinal Cord Injury Thoracic",
+        "Incomplete Spinal Cord Injury"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Active Comparator: Single Intervention 1"
+        },
+        {
+          "type": "OTHER",
+          "name": "Active Comparator: Single Intervention 2"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Respiratory Resistance Exercise"
+        }
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "primary_completion": "2027-08-15",
+      "url": "https://clinicaltrials.gov/study/NCT07135583"
+    },
+    {
+      "nct_id": "NCT05171894",
+      "title": "A Study to Evaluate Efficacy and Safety of Light Dose in Subjects With PWB Treated With Hemoporfin PDT",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Port-wine Birthmarks",
+        "Port-Wine Stain",
+        "Nevus Flammeus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Hemopfin+Green Light"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Vehicle+Green Light"
+        }
+      ],
+      "sponsor": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT05171894"
+    },
+    {
+      "nct_id": "NCT03930056",
+      "title": "C-Brace II Spinal Cord Injury",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Spinal Cord Injury"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "C-Brace II"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Traditional Care KAFO intervention"
+        }
+      ],
+      "sponsor": "Shirley Ryan AbilityLab",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT03930056"
+    },
+    {
+      "nct_id": "NCT03665051",
+      "title": "Electrical Stimulation of Human Myocytes in Microgravity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Sarcopenia"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Muscle Tissue Biopsy"
+        },
+        {
+          "type": "OTHER",
+          "name": "Maximal Oxygen Consumption (V02max)"
+        }
+      ],
+      "sponsor": "AdventHealth Translational Research Institute",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT03665051"
+    },
+    {
+      "nct_id": "NCT03997786",
+      "title": "A Study of Tildrakizumab in Pediatric Subjects With Chronic Plaque Psoriasis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Moderate-to-severe Chronic Plaque Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tildrakizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tildrakizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tildrakizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tildrakizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Etanercept"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Sun Pharmaceutical Industries Limited",
+      "primary_completion": "2025-04-07",
+      "url": "https://clinicaltrials.gov/study/NCT03997786"
+    },
+    {
+      "nct_id": "NCT07236762",
+      "title": "An Exploratory Clinical Study of YTS109 Cell for R/R Autoimmune Diseases",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus",
+        "Lupus Nephritis (LN)",
+        "Sjogren's Syndrome",
+        "Inflammatory Myopathy",
+        "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+        "Antiphospholipid Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "YTS109 cell"
+        }
+      ],
+      "sponsor": "China Immunotech (Beijing) Biotechnology Co., Ltd.",
+      "primary_completion": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT07236762"
+    },
+    {
+      "nct_id": "NCT02338947",
+      "title": "Off-pump Versus On-pump Coronary Artery Bypass Grafting in Frail Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Frail Elderly",
+        "Coronary Artery Disease"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Off-pump coronary-artery bypass grafting"
+        },
+        {
+          "type": "OTHER",
+          "name": "On-pump coronary-artery bypass grafting"
+        }
+      ],
+      "sponsor": "University of Sao Paulo General Hospital",
+      "primary_completion": "2024-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT02338947"
+    },
+    {
+      "nct_id": "NCT06271018",
+      "title": "TocILizumab in aorTitis in GCA (TILT)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Aortitis",
+        "Giant Cell Arteritis (GCA)"
+      ],
+      "interventions": [],
+      "sponsor": "Groupe français d'étude des Maladies Inflammatoires de loeil",
+      "primary_completion": "2026-09-27",
+      "url": "https://clinicaltrials.gov/study/NCT06271018"
+    },
+    {
+      "nct_id": "NCT06313515",
+      "title": "Transcutaneous Spinal Cord Stimulation Combined With Arm Bike for Cardiovascular Recovery in SCI",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Spinal Cord Injuries"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Transcutaneous Spinal Cord Stimulation"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Arm-crank bike exercise"
+        },
+        {
+          "type": "OTHER",
+          "name": "Sham Stimulation"
+        }
+      ],
+      "sponsor": "University of Washington",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT06313515"
+    }
+  ],
+  "fetched_at": "2026-07-20T22:16:52.566697"
+}

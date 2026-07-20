@@ -1,0 +1,119 @@
+{
+  "ingredient_id": "mugwort",
+  "name_kr": "쑥",
+  "name_en": "Mugwort",
+  "query": "(\"Mugwort\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 4,
+  "recent_complete_count": 3,
+  "trials": [
+    {
+      "nct_id": "NCT07563439",
+      "title": "PollenVax Subcutaneous Immunotherapy for Mugwort Pollen-Induced Allergic Rhinitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rhinitis Allergic"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Recombinant Artemisia vulgaris allergen Art v 1 with Montanide ISA-51 adjuvant"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Montanide ISA-51 placebo emulsion"
+        }
+      ],
+      "sponsor": "Kazakh National Agrarian University",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT07563439"
+    },
+    {
+      "nct_id": "NCT04017520",
+      "title": "Breast Milk: Influence of the Micro-transcriptome Profile on Atopy in Children Over Time",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Atopy",
+        "Atopic Dermatitis Eczema",
+        "Wheezing",
+        "Food Allergy in Infants"
+      ],
+      "interventions": [],
+      "sponsor": "Milton S. Hershey Medical Center",
+      "primary_completion": "2021-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT04017520"
+    },
+    {
+      "nct_id": "NCT07402200",
+      "title": "Study of Indoor Air Pollutants and Their Impact in Children's Health and Wellbeing",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Allergy"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Standardized questionnaires"
+        },
+        {
+          "type": "OTHER",
+          "name": "Lung function tests"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Prick tests"
+        },
+        {
+          "type": "OTHER",
+          "name": "Biological samples"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Portable sensors"
+        }
+      ],
+      "sponsor": "University Hospital, Montpellier",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT07402200"
+    },
+    {
+      "nct_id": "NCT07015658",
+      "title": "Clinical Effects of Moxibustion Combined With Tailored Baduanjin Exercise Programs on Early Postoperative Rehabilitation in Lumbar Disc Herniation Patients Undergoing Minimally Invasive Surgery",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lumbar Disc Herniations"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Baduanjin"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Moxibustion"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Conventional intervention"
+        }
+      ],
+      "sponsor": "Suyun Liu",
+      "primary_completion": "2026-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT07015658"
+    }
+  ],
+  "fetched_at": "2026-07-20T22:16:46.396526"
+}

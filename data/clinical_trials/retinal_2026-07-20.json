@@ -1,0 +1,807 @@
+{
+  "ingredient_id": "retinal",
+  "name_kr": "레티날",
+  "name_en": "Retinal",
+  "query": "(\"Retinal\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 24,
+  "trials": [
+    {
+      "nct_id": "NCT06906081",
+      "title": "Finerenone Treatment for Diabetic Cardiovascular Autonomic Neuropathy: the FibroCAN Study",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cardiovascular Autonomic Neuropathy",
+        "Type 2 Diabetes",
+        "Diabetic Neuropathies"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Kerendia (Finerenone, BAY94-8862)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Peter Rossing",
+      "primary_completion": "2028-01",
+      "url": "https://clinicaltrials.gov/study/NCT06906081"
+    },
+    {
+      "nct_id": "NCT02866136",
+      "title": "Conservative Treatments of Retinoblastoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Retinoblastoma",
+        "Children",
+        "Retinal Neoplasm"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "VP16, carboplatin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Melphalan"
+        },
+        {
+          "type": "DRUG",
+          "name": "VP16, carboplatin, vincristin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Carboplatin + laser day 1 (chemothermotherapy)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Laser (local treatment)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "cryoapplication (local treatment)"
+        },
+        {
+          "type": "RADIATION",
+          "name": "I125 radioactive plaques (local treatment)"
+        },
+        {
+          "type": "DRUG",
+          "name": "intravitreal Melphalan (local treatment)"
+        }
+      ],
+      "sponsor": "Institut Curie",
+      "primary_completion": "2023-01",
+      "url": "https://clinicaltrials.gov/study/NCT02866136"
+    },
+    {
+      "nct_id": "NCT00001373",
+      "title": "Familial Mediterranean Fever and Related Disorders: Genetics and Disease Characteristics",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Familial Mediterranean Fever (FMF)",
+        "Autoinflammation",
+        "Periodic Fever",
+        "Fever",
+        "Genetic Diseases",
+        "ROSAH",
+        "ALPK1"
+      ],
+      "interventions": [],
+      "sponsor": "National Human Genome Research Institute (NHGRI)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT00001373"
+    },
+    {
+      "nct_id": "NCT07619482",
+      "title": "Topical Insulin for Glaucoma (TING2)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Open Angle Glaucoma",
+        "Primary Open Angle Glaucoma",
+        "Low Tension Glaucoma",
+        "Pigmentary Glaucoma",
+        "Pseudoexfoliation Glaucoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "EYED-002 Low Dose (721 U/mL topical insulin)"
+        },
+        {
+          "type": "DRUG",
+          "name": "EYED-002 High Dose (1442 U/mL topical insulin)"
+        },
+        {
+          "type": "DRUG",
+          "name": "EYED-002 (highest tolerated dose, 12-month)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vehicle Placebo"
+        }
+      ],
+      "sponsor": "Stanford University",
+      "primary_completion": "2028-10",
+      "url": "https://clinicaltrials.gov/study/NCT07619482"
+    },
+    {
+      "nct_id": "NCT03865160",
+      "title": "Low-dose Atropine for Myopia Control in Children",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Myopia, Progressive"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Atropine eye drops, 0.01%"
+        },
+        {
+          "type": "DRUG",
+          "name": "Atropine eye drops, 0.02%"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo (NaCl 0.9%) eye drops"
+        }
+      ],
+      "sponsor": "University Eye Hospital, Freiburg",
+      "primary_completion": "2025-11",
+      "url": "https://clinicaltrials.gov/study/NCT03865160"
+    },
+    {
+      "nct_id": "NCT07341919",
+      "title": "Subtenon Autologous Platelet-Rich Plasma in Inherited and Degenerative Retinal Diseases",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Extensive Macular Atrophy With Pseudodrusen (EMAP)",
+        "Retinitis Pigmentosa (RP)"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Subtenon Injection of Autologous Platelet-Rich Plasma"
+        }
+      ],
+      "sponsor": "Rubens Camargo Siqueira",
+      "primary_completion": "2026-03-04",
+      "url": "https://clinicaltrials.gov/study/NCT07341919"
+    },
+    {
+      "nct_id": "NCT05207059",
+      "title": "Healthy Early Life Moments in Singapore",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metabolic Disease",
+        "Mental Health Wellness 1",
+        "Lifestyle Risk Reduction",
+        "Maternal Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "HELMS Lifestyle Intervention"
+        }
+      ],
+      "sponsor": "KK Women's and Children's Hospital",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT05207059"
+    },
+    {
+      "nct_id": "NCT07323082",
+      "title": "Purinergic Compounds in Pseudoxanthoma Elasticum",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pseudoxanthoma Elasticum"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "supplementary tubes"
+        },
+        {
+          "type": "RADIATION",
+          "name": "SCANNER"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "primary_completion": "2027-01-15",
+      "url": "https://clinicaltrials.gov/study/NCT07323082"
+    },
+    {
+      "nct_id": "NCT05366933",
+      "title": "B-Complex: A Nutraceutical SANS Countermeasure",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Optic Disc Edema",
+        "Endothelial Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vitamin B-Complex Supplement"
+        }
+      ],
+      "sponsor": "National Aeronautics and Space Administration (NASA)",
+      "primary_completion": "2027-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT05366933"
+    },
+    {
+      "nct_id": "NCT05206877",
+      "title": "Topical Insulin for Glaucoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Glaucoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Insulin, 4 units"
+        },
+        {
+          "type": "DRUG",
+          "name": "Insulin, 20 units"
+        },
+        {
+          "type": "DRUG",
+          "name": "insulin, 4 units twice daily"
+        },
+        {
+          "type": "DRUG",
+          "name": "insulin, 20 units twice daily"
+        },
+        {
+          "type": "DRUG",
+          "name": "insulin, 4 units three times daily"
+        },
+        {
+          "type": "DRUG",
+          "name": "insulin, 20 units three times daily"
+        }
+      ],
+      "sponsor": "Stanford University",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05206877"
+    },
+    {
+      "nct_id": "NCT02339012",
+      "title": "Genetic and Epigenetic Signatures of Translational Aging Laboratory Testing (GESTALT)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Healthy Volunteers",
+        "Non-Healthy/Non-Frail",
+        "Frail"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute on Aging (NIA)",
+      "primary_completion": "2099-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT02339012"
+    },
+    {
+      "nct_id": "NCT06803082",
+      "title": "The Impact of Systemic Light Chain Amyloidosis on Eyes",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Systemic Light Chain Amyloidosis",
+        "Ocular Complications"
+      ],
+      "interventions": [],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "primary_completion": "2026-08-13",
+      "url": "https://clinicaltrials.gov/study/NCT06803082"
+    },
+    {
+      "nct_id": "NCT05971446",
+      "title": "Healthy Little Eyes",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Hypoxic-Ischemic Encephalopathy",
+        "Neonatal Encephalopathy",
+        "Encephalopathy"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Visual Evoked Potential (VEP)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Electroretinogram (ERG)"
+        }
+      ],
+      "sponsor": "University of Wisconsin, Madison",
+      "primary_completion": "2027-07",
+      "url": "https://clinicaltrials.gov/study/NCT05971446"
+    },
+    {
+      "nct_id": "NCT07592273",
+      "title": "Surabgene Lomparvovec Administered in the Suprachoroidal Space in Adult Participants With Diabetic Retinopathy Without Center-Involved Diabetic Macular Edema",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetic Retinopathy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Surabgene Lomparvovec"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sham"
+        },
+        {
+          "type": "DRUG",
+          "name": "Topical Steroid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Artificial Tears"
+        }
+      ],
+      "sponsor": "AbbVie",
+      "primary_completion": "2028-06",
+      "url": "https://clinicaltrials.gov/study/NCT07592273"
+    },
+    {
+      "nct_id": "NCT05893654",
+      "title": "Melphalan Chemoreduction for Ocular Melanoma",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Uveal Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Melphalan Injection"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Plaque brachytherapy"
+        }
+      ],
+      "sponsor": "Hospital das Clínicas de Ribeirão Preto",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT05893654"
+    },
+    {
+      "nct_id": "NCT06282848",
+      "title": "Pharmacological and Non-pharmacological Treatment Effects on Children With Different Predicted Myopia Progression Rate",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Myopia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Atropine 0.05%"
+        },
+        {
+          "type": "DEVICE",
+          "name": "DIMS lens"
+        }
+      ],
+      "sponsor": "The Hong Kong Polytechnic University",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT06282848"
+    },
+    {
+      "nct_id": "NCT05331664",
+      "title": "Dropless Pars Plana Vitrectomy Study",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rhegmatogenous Retinal Detachment"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Pars plana vitrectomy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Triamcinolone Acetonide 40mg/mL"
+        },
+        {
+          "type": "DRUG",
+          "name": "Moxifloxacin 0.5% or Polymyxin/Trimethoprim if patient is allergic to moxifloxacin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisolone 1%"
+        },
+        {
+          "type": "DRUG",
+          "name": "Atropine 1%"
+        }
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "primary_completion": "2026-07-25",
+      "url": "https://clinicaltrials.gov/study/NCT05331664"
+    },
+    {
+      "nct_id": "NCT05440448",
+      "title": "Patch-free Occlusion Therapy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Amblyopia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Patch-free occlusion therapy"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Adhesive patch"
+        }
+      ],
+      "sponsor": "Retina Foundation of the Southwest",
+      "primary_completion": "2028-01-31",
+      "url": "https://clinicaltrials.gov/study/NCT05440448"
+    },
+    {
+      "nct_id": "NCT06007690",
+      "title": "A Phase 3 Randomized, Masked, Controlled Trial to Evaluate Efficacy and Safety of Belzupacap Sarotalocan (AU-011) Treatment Compared to Sham Control in Subjects With Primary Indeterminate Lesions or Small Choroidal Melanoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Choroidal Melanoma",
+        "Indeterminate Lesions",
+        "Uveal Melanoma",
+        "Ocular Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bel-sar"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Suprachoroidal Microinjector"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Infrared Laser"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham Infrared Laser"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham Microinjector"
+        }
+      ],
+      "sponsor": "Aura Biosciences",
+      "primary_completion": "2027-11-15",
+      "url": "https://clinicaltrials.gov/study/NCT06007690"
+    },
+    {
+      "nct_id": "NCT02535702",
+      "title": "Development Of Neuroimaging Methods To Assess The Neurobiology Of Addiction",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Normal Physiology"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "In vivo MRS"
+        },
+        {
+          "type": "OTHER",
+          "name": "fMRI"
+        },
+        {
+          "type": "OTHER",
+          "name": "EEG/EOG"
+        },
+        {
+          "type": "OTHER",
+          "name": "Stimulation tasks"
+        },
+        {
+          "type": "OTHER",
+          "name": "NSPRD"
+        },
+        {
+          "type": "OTHER",
+          "name": "Structural MRI"
+        }
+      ],
+      "sponsor": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT02535702"
+    },
+    {
+      "nct_id": "NCT05797896",
+      "title": "Investigating Geographic Atrophy Insights (i-GAIN) Natural History Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Dry Age-related Macular Degeneration",
+        "Geographic Atrophy",
+        "Retinal Disease",
+        "Macular Degeneration",
+        "Macular Atrophy",
+        "Retinal Degeneration",
+        "Eye Diseases"
+      ],
+      "interventions": [],
+      "sponsor": "Complement Therapeutics",
+      "primary_completion": "2027-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT05797896"
+    },
+    {
+      "nct_id": "NCT01736293",
+      "title": "Natural History of Eye Diseases Related to ABCA4 Mutations",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Retinal Degeneration",
+        "ABCA4-Related Retinopathies"
+      ],
+      "interventions": [],
+      "sponsor": "National Eye Institute (NEI)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT01736293"
+    },
+    {
+      "nct_id": "NCT06743373",
+      "title": "Cannabis Effects on Sleep, Circadian Rhythms, and Light Sensitivity in Young Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cannabis Use",
+        "Sleep",
+        "Circadian Rhythm"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Cannabis Discontinuation"
+        }
+      ],
+      "sponsor": "University of Pittsburgh",
+      "primary_completion": "2029-01-31",
+      "url": "https://clinicaltrials.gov/study/NCT06743373"
+    },
+    {
+      "nct_id": "NCT05277233",
+      "title": "Cardiovascular Risk After Preeclampsia",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Preeclampsia"
+      ],
+      "interventions": [],
+      "sponsor": "Charite University, Berlin, Germany",
+      "primary_completion": "2025-04",
+      "url": "https://clinicaltrials.gov/study/NCT05277233"
+    },
+    {
+      "nct_id": "NCT06310837",
+      "title": "Effect of Immunosuppressants With Adalimumab Biosimilars vs Corticosteroids on Noninfectious Uveitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Uveitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Adalimumab Biosimilars Injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Corticosteroid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Immunosuppressive Agents"
+        }
+      ],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "primary_completion": "2025-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT06310837"
+    },
+    {
+      "nct_id": "NCT04225611",
+      "title": "Therapeutic Contact Lens Drug Delivery System (TCL-DDS) in Patients With Recurrent Cystoid Macular Edema",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cystoid Macular Edema"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone"
+        }
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT04225611"
+    },
+    {
+      "nct_id": "NCT06345976",
+      "title": "Functional Impairment in Albinism",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Albinism, Ocular"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "questionnaire"
+        }
+      ],
+      "sponsor": "Fondation Ophtalmologique Adolphe de Rothschild",
+      "primary_completion": "2025-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06345976"
+    },
+    {
+      "nct_id": "NCT06325800",
+      "title": "Glycoxidation, Arterial Biomechanics, and Target Organ Damage",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Oxidative Stress",
+        "Cardiovascular Risk",
+        "Target Organ Damage"
+      ],
+      "interventions": [],
+      "sponsor": "Complejo Hospitalario Universitario de Santiago",
+      "primary_completion": "2024-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06325800"
+    },
+    {
+      "nct_id": "NCT06242379",
+      "title": "Safety and Efficacy of Stem Cell Small Extracellular Vesicles in Patients With Retinitis Pigmentosa",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Retinitis Pigmentosa"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "GMP compliant-BM-MSC derived sEVs"
+        }
+      ],
+      "sponsor": "Mahidol University",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06242379"
+    },
+    {
+      "nct_id": "NCT06455384",
+      "title": "The Genetics Navigator: Evaluating a Digital Platform for Genomics Health Services",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cardiac Conditions",
+        "Connective Tissue Diseases",
+        "Retinal Disease",
+        "Epilepsy in Children",
+        "Neurodevelopmental Disorders",
+        "Cancer",
+        "Polyposis"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Genetics Navigator"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Standard Care with Genetics Professionals"
+        }
+      ],
+      "sponsor": "Unity Health Toronto",
+      "primary_completion": "2027-03",
+      "url": "https://clinicaltrials.gov/study/NCT06455384"
+    }
+  ],
+  "fetched_at": "2026-07-20T22:16:29.412369"
+}

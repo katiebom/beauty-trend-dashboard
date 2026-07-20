@@ -1,0 +1,348 @@
+{
+  "ingredient_a": "glutathione",
+  "ingredient_b": "nicotinamide",
+  "query": "(\"glutathione\"[Title/Abstract] AND \"nicotinamide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "41915584",
+      "title": "Intravenous longevity therapy: a critical review of evidence, mechanisms, and clinical utility.",
+      "abstract": "Intravenous administration of high-dose vitamins, minerals, amino acids, coenzyme Q10, α-lipoic acid, glutathione, and nicotinamide adenine dinucleotide has emerged as a popular longevity therapy, targeting key molecular processes, oxidative stress, mitochondrial decline, chronic inflammation, and genomic instability, which drive and accelerate aging. The rationale is that intravenous administration facilitates supraphysiological plasma concentrations, bypassing gastrointestinal absorption limitations to more effectively target these age-promoting mechanisms. Evidence from preclinical models and small clinical series reports transient reductions in oxidative biomarkers, modest improvements in fatigue syndromes, and anecdotal enhancements in skin elasticity. However, these findings are predominantly derived from disease-specific or aesthetic contexts rather than studies involving healthy aging populations. Crucially, few studies incorporate validated biomarkers of aging such as epigenetic age or telomere length, and placebo-controlled trials are scarce and underpowered or they yield conflicting results. Additional challenges include pharmacokinetic limitations, procedural risks, and substantial heterogeneity of infusion protocols, all of which hinder reliable interpretation. Until rigorously designed, adequately powered randomized controlled trials demonstrate reproducible long-term efficacy and safety, intravenous longevity therapy should be regarded as an experimental intervention rather than an evidence-based dermatological or anti-aging practice.",
+      "year": "2026",
+      "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica",
+      "authors": [
+        "Godic Aleksandar",
+        "Townsend Jaiden"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Longevity",
+        "Administration, Intravenous",
+        "Infusions, Intravenous",
+        "Vitamins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41915584/"
+    },
+    {
+      "pmid": "41816347",
+      "title": "The \"serine code\" of metabolic reprogramming: multidimensional roles of the serine synthesis pathway in tumors and novel breakthroughs for targeted therapy.",
+      "abstract": "As a pivotal contributor to tumor metabolism following glucose and glutamine, serine plays a crucial role in the metabolic network of tumors via its ",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Su Peng",
+        "Yang Ying",
+        "Zheng Hong"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Metabolic Reprogramming",
+        "Neoplasms",
+        "Animals",
+        "Serine",
+        "Signal Transduction",
+        "Tumor Microenvironment",
+        "Molecular Targeted Therapy",
+        "Antineoplastic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41816347/"
+    },
+    {
+      "pmid": "40709434",
+      "title": "Gain-of-function variant in NNT causes premature diffuse familial sebaceous hyperplasia.",
+      "abstract": "Premature diffuse familial sebaceous hyperplasia (PDFSH) constitutes a distinct clinical variant of sebaceous hyperplasia, characterized by three hallmark features: early disease onset; characteristic sparing of the perioral and periocular regions; and a positive family history. To date, the pathogenic gene underlying PDFSH has remained unidentified.",
+      "year": "2025",
+      "journal": "The British journal of dermatology",
+      "authors": [
+        "Liang Lina",
+        "Wang Sheng",
+        "Huang Shimiao",
+        "Sun Yonghu",
+        "Peng Sha"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Exome Sequencing",
+        "Gain of Function Mutation",
+        "Hyperplasia",
+        "Lipid Peroxidation",
+        "Mutation, Missense"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40709434/"
+    },
+    {
+      "pmid": "40659088",
+      "title": "SIRT7 facilitates ferroptosis resistance of melanocytes via activating the SMAD3-ATF3-GPX4 signaling pathway in vitiligo.",
+      "abstract": "Vitiligo is a hypopigmentation disorder characterized by epidermal melanocyte loss. Endogenous and exogenous oxidative stress causes the regulated cell death (RCD) of melanocytes in vitiligo. Recent studies have indicated that ferroptosis participates in vitiligo pathogenesis. Nevertheless, the underlying regulatory mechanisms remain elusive. Sirtuins (SIRT1-7) are nicotinamide adenine dinucleotide (NAD)",
+      "year": "2026",
+      "journal": "Journal of advanced research",
+      "authors": [
+        "Wu Lili",
+        "Guo Weinan",
+        "Wang Hao",
+        "Yang Yuqi",
+        "Zhang Hengxiang"
+      ],
+      "mesh_terms": [
+        "Ferroptosis",
+        "Melanocytes",
+        "Sirtuins",
+        "Animals",
+        "Vitiligo",
+        "Humans",
+        "Mice",
+        "Signal Transduction",
+        "Activating Transcription Factor 3",
+        "Mice, Knockout"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40659088/"
+    },
+    {
+      "pmid": "40585767",
+      "title": "Dual-Responsive Multi-Functional Silica Nanoparticles With Repaired Mitochondrial Functions for Efficient Alleviation of Spinal Cord Injury.",
+      "abstract": "Preserved/rescued mitochondrial functions have a significant effect on maintaining neurogenesis, axonal carriage, and synaptic plasticity following spinal cord injury (SCI). We fabricated an ingenious redox-responsive strategy for commanded liberation of NADH (reduced form of nicotinamide-adenine dinucleotide) by bioactive diselenide-containing biodegradable mesoporous silica nanoparticles (",
+      "year": "2025",
+      "journal": "Exploration (Beijing, China)",
+      "authors": [
+        "Gao Guibin",
+        "Li Juanjuan",
+        "Ma Yanming",
+        "Xie Min",
+        "Luo Jianxian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40585767/"
+    },
+    {
+      "pmid": "39460853",
+      "title": "High glucose combined with lipopolysaccharide stimulation inhibits cell proliferation and migration of human HaCaT keratinocytes by impacting redox homeostasis and activating the polyol pathway.",
+      "abstract": "High glucose level and chronic inflammation are characteristic features of diabetic cutaneous wounds. Keratinocytes make up the epidermis and play an important role in skin repair. However, metabolomic changes of keratinocytes in chronic diabetic ulcers have not been fully studied.",
+      "year": "2024",
+      "journal": "Molecular biology reports",
+      "authors": [
+        "Xie Zhenhui",
+        "Zhou Shufan",
+        "Tang Songtao",
+        "Zhang Qiu",
+        "Liu Lei"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cell Proliferation",
+        "Lipopolysaccharides",
+        "Keratinocytes",
+        "Glucose",
+        "Cell Movement",
+        "Oxidation-Reduction",
+        "Homeostasis",
+        "Reactive Oxygen Species",
+        "HaCaT Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39460853/"
+    },
+    {
+      "pmid": "37875654",
+      "title": "Improved Photodynamic Therapy Based on Glutaminase Blockage via Tumor Membrane Coated CB-839/IR-780 Nanoparticles.",
+      "abstract": "Photodynamic therapy (PDT) has promising applications. However, the lethal function of reactive oxygen species (ROS) produced during PDT is typically limited. This restriction is induced by oxygen shortage in the tumor microenvironment due to tumor cell hypermetabolism and reductive chemicals overexpression in tumor tissues. Glutamine (Gln) metabolism is crucial for malignancy development and is closely associated with redox. Herein, a novel nanoparticle (NP) named IRCB@M is constructed to boost PDT through dual effects. This NP simultaneously blocks aerobic respiration and inhibits cellular reduced substances by blocking the Gln metabolic pathway. Within the nanocomplex, a photosensitizer (IR-780) and a glutaminase inhibitor (CB-839) are self-assembled and then encapsulated by cancer cell membranes for homologous targeting. The Gln metabolism intervention relieves hypoxia and decreases the levels of nicotinamide adenine dinucleotide phosphate (NADPH) as well as reduced glutathione (GSH) in vitro and in vivo, which are the dual amplification effects on the IR-780-mediated lethal PDT. The antitumor effects against gastric cancer are ultimately evoked in vivo, thus offering a novel concept for enhancing PDT and other ROS-dependent therapeutic approaches.",
+      "year": "2024",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "authors": [
+        "Li Zhiyan",
+        "Li Xianghui",
+        "Lu Yanjun",
+        "Zhu Xudong",
+        "Zheng Wenxuan"
+      ],
+      "mesh_terms": [
+        "Photochemotherapy",
+        "Reactive Oxygen Species",
+        "Glutaminase",
+        "Cell Line, Tumor",
+        "Photosensitizing Agents",
+        "Nanoparticles",
+        "Tumor Microenvironment",
+        "Indoles",
+        "Thiadiazoles",
+        "Benzeneacetamides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37875654/"
+    },
+    {
+      "pmid": "37532524",
+      "title": "1,8-Cineole Alleviates OGD/R-Induced Oxidative Damage and Restores Mitochondrial Function by Promoting the Nrf2 Pathway.",
+      "abstract": "This study examined the effects of 1,8-cineole on reducing oxidative stress injury and restoring mitochondrial function in oxygen-glucose deprivation and reoxygenation (OGD/R) HT22 cells via the nuclear factor erythrocyte 2 related factor 2 (Nrf2) pathway. The optimal concentration of 1,8-cineole to reduce OGD/R injury was screened via cell morphology, cell survival rate, and lactate dehydrogenase (LDH) leakage rate. Oxidative damage was observed by measuring superoxide dismutase (SOD), glutathione peroxidase (GSH-PX), catalase (CAT) activities, and reactive oxygen species (ROS), glutathione (GSH), protein carbonyl, malondialdehyde (MDA), lipid peroxidation (LPO) content, and 8-hydroxy-2 deoxyguanosine (8-OHDG) expression. Mitochondrial function was observed by mitochondrial membrane potential (MMP) and ATPase activity. Nrf2 pathways were observed by the expression levels of total Nrf2, nucleus Nrf2, reduced nicotinamide adenine dinucleotide phosphate (NAD(P)H): quinone oxidoreductase 1 (NQO1) and heme oxygenase-1 (HO-1), the mRNA levels of HO-1 and NQO1. Among different concentrations of 1,8-cineole for promoting HT22 cell proliferation and attenuated OGD/R injury, 10 µmol/L 1,8-cineole was the best. After 1,8-cineole treatment, SOD, GSH-PX, and CAT activities and GSH content increased, while ROS, MDA, LPO, protein carbonyl, and 8-OHDG levels decreased. 1,8-Cineole could restore MMP and increase mitochondrial enzyme activity. It could also increase the total Nrf2, nucleus Nrf2, NQO1, and HO-1, and Nrf2 inhibitor brusatol reduced the effect of 1,8-cineole. Immunofluorescence assay showed that 1,8-cineole could facilitate the transfer of Nrf2 into the nucleus. 1,8-cineole increased the mRNA levels of NQO1 and HO-1. The above results showed that 1,8-cineole could alleviate OGD/R-induced oxidative damage and restores mitochondrial function by activating the Nrf2 signal pathway.",
+      "year": "2023",
+      "journal": "Biological & pharmaceutical bulletin",
+      "authors": [
+        "Liu Zhenyi",
+        "Wang Jing",
+        "Jin Xiaofei",
+        "Gao Ping",
+        "Zhao Yanmeng"
+      ],
+      "mesh_terms": [
+        "Oxygen",
+        "Reactive Oxygen Species",
+        "NF-E2-Related Factor 2",
+        "Eucalyptol",
+        "Glucose",
+        "Signal Transduction",
+        "Oxidative Stress",
+        "Antioxidants",
+        "Glutathione",
+        "Superoxide Dismutase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37532524/"
+    },
+    {
+      "pmid": "36443035",
+      "title": "[Bioinformatics Analysis of Hub Genes of Diabetic Foot Ulcer and Their Biofunctions].",
+      "abstract": "To explore the hub genes associated with the pathogenesis and healing of diabetic foot ulcer (DFU) and their biological functions through bioinformatics analysis of transcriptome sequencing data.",
+      "year": "2022",
+      "journal": "Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition",
+      "authors": [
+        "Xu Fan",
+        "Rui Shun-Li",
+        "Luo Pei-Qi",
+        "Chen Yan",
+        "Ma Yu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Diabetic Foot",
+        "Computational Biology",
+        "Phospholipase D",
+        "Phosphatidylinositol 3-Kinases",
+        "Pyrimidines",
+        "Diabetes Mellitus"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36443035/"
+    },
+    {
+      "pmid": "35696422",
+      "title": "Deletion C-terminal thioesterase abolishes melanin biosynthesis, affects metabolism and reduces the pathogenesis of Fonsecaea monophora.",
+      "abstract": "Dematiaceous Fonsecaea monophora is one of the major pathogens of chromoblastomycosis. It has been well established that melanization is catalyzed by the type I polyketide synthase (PKS) in F. monophora. Multidomain protein Type I PKS is encoded by six genes, in which the last enzyme thioesterase (TE) catalyzes the cyclization and releases polyketide. Two PKS genes AYO21_03016 (pks1) and AYO21_10638 have been found in F. monophora and both PKS loci have the same gene arrangement but the TE domain in AYO21_10638 is truncated at 3'- end. TE may be the key enzyme to maintain the function of pks1. To test this hypothesis, we constructed a 3'-end 500 bp deletion mutant of AYO21_03016 (Δpks1-TE-C500) and its complemented strain. We profiled metabolome of this mutant and analyzed the consequences of impaired metabolism in this mutant by fungal growth in vitro and by pathogenesis in vivo. Compared with wild-type strain, we found that the mutant repressed pks1 expression and other 5 genes expression levels were reduced by more than 50%, perhaps leading to a corresponding melanin loss. The mutant also reduced sporulation and delayed germination, became vulnerable to various environmental stresses and was less resistance to macrophage or neutrophil killings in vitro, and less virulence in mice footpad model. Metabolomic analysis indicated that many metabolites were remarkably affected in Δpks1-TE-C500, in particular, an increased nicotinamide and antioxidant glutathione. In conclusion, we confirmed the crucial role of C-terminal TE in maintaining fully function of pks1 in F. monophora. Deletion of TE negatively impacts on the synthesis of melanin and metabolites that eventually affect growth and virulence of F. monophora. Any potential inhibitor of TE then could be a novel antifungal target for drug development.",
+      "year": "2022",
+      "journal": "PLoS neglected tropical diseases",
+      "authors": [
+        "Li Minying",
+        "Huang Huan",
+        "Liu Jun",
+        "Zhang Xiaohui",
+        "Li Qian"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ascomycota",
+        "Chromoblastomycosis",
+        "Fonsecaea",
+        "Melanins",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35696422/"
+    },
+    {
+      "pmid": "35420772",
+      "title": "Targeting ErbB3 and Cellular NADPH/NADP",
+      "abstract": "Melanoma is a serious health challenge. Ferroptosis is a regulated form of oxidative cell death that shows varied efficacy in melanoma. We aimed to better understand the molecular basis for this differential ferroptosis sensitivity. We find that elevated expression of ErbB3 (V-Erb-B2 Avian Erythroblastic Leukemia Viral Oncogene Homologue 3) associates with ferroptosis resistance and that ErbB3 knockdown sensitizes to ferroptosis inducers. ErbB3 depletion also promotes a marked reduction in the cellular ratio of GSH/GSSG (reduced/oxidized glutathione) and that of NADPH/NADP",
+      "year": "2022",
+      "journal": "ACS chemical biology",
+      "authors": [
+        "Leu Julia I.",
+        "Murphy Maureen E",
+        "George Donna L"
+      ],
+      "mesh_terms": [
+        "Ferroptosis",
+        "Glutathione Disulfide",
+        "Humans",
+        "Melanoma",
+        "NADP",
+        "Receptor, ErbB-3",
+        "Skin Neoplasms",
+        "Cutaneous Malignant Melanoma"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35420772/"
+    },
+    {
+      "pmid": "35243298",
+      "title": "Advanced application of stimuli-responsive drug delivery system for inflammatory arthritis treatment.",
+      "abstract": "Inflammatory arthritis is a major cause of disability in the elderly. This condition causes joint pain, loss of function, and deterioration of quality of life, mainly due to osteoarthritis (OA) and rheumatoid arthritis (RA). Currently, available treatment options for inflammatory arthritis include anti-inflammatory medications administered via oral, topical, or intra-articular routes, surgery, and physical rehabilitation. Novel alternative approaches to managing inflammatory arthritis, so far, remain the grand challenge owing to catastrophic financial burden and insignificant therapeutic benefit. In the view of non-targeted systemic cytotoxicity and limited bioavailability of drug therapies, a major concern is to establish stimuli-responsive drug delivery systems using nanomaterials with on-off switching potential for biomedical applications. This review summarizes the advanced applications of triggerable nanomaterials dependent on various internal stimuli (including reduction-oxidation (redox), pH, and enzymes) and external stimuli (including temperature, ultrasound (US), magnetic, photo, voltage, and mechanical friction). The review also explores the progress and challenges with the use of stimuli-responsive nanomaterials to manage inflammatory arthritis based on pathological changes, including cartilage degeneration, synovitis, and subchondral bone destruction. Exposure to appropriate stimuli induced by such histopathological alterations can trigger the release of therapeutic medications, imperative in the joint-targeted treatment of inflammatory arthritis.",
+      "year": "2022",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Zhang Mi",
+        "Hu Wenhui",
+        "Cai Chenhui",
+        "Wu Yu",
+        "Li Jianmei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35243298/"
+    },
+    {
+      "pmid": "35198601",
+      "title": "Integrated Transcriptomics and Metabolomics Analyses of Stress-Induced Murine Hair Follicle Growth Inhibition.",
+      "abstract": "Psychological stress plays an important role in hair loss, but the underlying mechanisms are not well-understood, and the effective therapies available to regrow hair are rare. In this study, we established a chronic restraint stress (CRS)-induced hair growth inhibition mouse model and performed a comprehensive analysis of metabolomics and transcriptomics. Metabolomics data analysis showed that the primary and secondary metabolic pathways, such as carbohydrate metabolism, amino acid metabolism, and lipid metabolism were significantly altered in skin tissue of CRS group. Transcriptomics analysis also showed significant changes of genes expression profiles involved in regulation of metabolic processes including arachidonic acid metabolism, glutathione metabolism, glycolysis gluconeogenesis, nicotinate and nicotinamide metabolism, purine metabolism, retinol metabolism and cholesterol metabolism. Furthermore, RNA-Seq analyses also found that numerous genes associated with metabolism were significantly changed, such as Hk-1, in CRS-induced hair growth inhibition. Overall, our study supplied new insights into the hair growth inhibition induced by CRS from the perspective of integrated metabolomics and transcriptomics analyses.",
+      "year": "2022",
+      "journal": "Frontiers in molecular biosciences",
+      "authors": [
+        "Wang Xuewen",
+        "Cai Changqing",
+        "Liang Qichang",
+        "Xia Meng",
+        "Lai Lihua"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35198601/"
+    },
+    {
+      "pmid": "33841160",
+      "title": "Nicotinamide Mononucleotide Combined With ",
+      "abstract": "Long-term exposure to UVB (280-320 nm) can cause oxidative skin damage, inflammatory injury, and skin cancer. Research on nicotinamide mononucleotide (NMN) and lactic acid bacteria (LAB) with regard to antioxidation, anti-inflammation, and prevention of other age-related diseases has received increasing attention. In the present study, the ",
+      "year": "2021",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Zhou Xianrong",
+        "Du Hang-Hang",
+        "Ni Luyao",
+        "Ran Jie",
+        "Hu Jian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33841160/"
+    },
+    {
+      "pmid": "33393970",
+      "title": "Panton-Valentine Leucocidin of Staphylococcus aureus Induces Oxidative Stress and Neurotransmitter Imbalance in a Retinal Explant Model.",
+      "abstract": "Endophthalmitis models have reported the virulent role of Panton-Valentine leucocidin (PVL) secreted by Staphylococcus aureus on the retina. PVL targets retinal ganglion cells (RGCs), expressing PVL membrane receptor C5aR. Interactions between PVL and retinal cells lead to glial activation, retinal inflammation, and apoptosis. In this study, we explored oxidative stress and retinal neurotransmitters in a rabbit retinal explant model incubated with PVL.",
+      "year": "2021",
+      "journal": "Investigative ophthalmology & visual science",
+      "authors": [
+        "Wurtz Mathieu",
+        "Ruhland Elisa",
+        "Liu XuanLi",
+        "Namer Izzie-Jacques",
+        "Mazzoleni Viola"
+      ],
+      "mesh_terms": [
+        "Acetylcholine",
+        "Animals",
+        "Bacterial Toxins",
+        "Cells, Cultured",
+        "Culture Media",
+        "Cytokines",
+        "Exotoxins",
+        "Fluorescent Dyes",
+        "Glycine",
+        "Leukocidins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33393970/"
+    }
+  ],
+  "crawled_at": "2026-07-20T22:16:58.463172"
+}

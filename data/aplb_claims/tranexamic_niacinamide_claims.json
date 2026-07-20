@@ -2,49 +2,44 @@
   "complex_id": "tranexamic_niacinamide",
   "trade_mark": "",
   "name_kr": "트라넥삼산-나이아신아마이드",
-  "generated_at": "2026-07-06T22:31:07.163154",
+  "generated_at": "2026-07-20T22:21:15.248801",
   "claims": {
     "hero_claim": {
       "headline_en": "Visibly Corrects Hyperpigmentation with Tranexamic Acid & Niacinamide Synergy",
       "headline_kr": "트라넥삼산-나이아신아마이드 시너지로 겉돌던 색소침착을 맑게",
-      "subheadline_en": "Targeted dual-action for brighter skin.",
-      "subheadline_kr": "맑은 피부를 위한 이중 케어.",
-      "scientific_basis_en": "Tranexamic acid and niacinamide are well-established ingredients for addressing hyperpigmentation. Studies show tranexamic acid's efficacy in melasma treatment (PMID:42105927, 42166116) and niacinamide's role in inhibiting melanosome transfer and improving skin barrier function. Their combined use is supported by research demonstrating enhanced depigmenting effects (PMID:42406361).",
-      "scientific_basis_kr": "트라넥삼산과 나이아신아마이드는 색소침착 개선에 효과적인 성분으로 잘 알려져 있습니다. 트라넥삼산은 멜라즈마 치료에 효과적이며(PMID:42105927, 42166116), 나이아신아마이드는 멜라닌 소포 이동 억제 및 피부 장벽 개선에 기여합니다. 이 두 성분의 병용은 색소 침착 개선 효과를 증대시키는 것으로 연구되었습니다(PMID:42406361).",
+      "subheadline_en": "Targeted dual-action for clearer, brighter skin.",
+      "subheadline_kr": "맑고 환한 피부를 위한 이중 케어.",
+      "scientific_basis_en": "Tranexamic acid and niacinamide are well-established ingredients for addressing hyperpigmentation. Studies show tranexamic acid's efficacy in melasma treatment (PMID:42105927, 42166116, 42293393) and niacinamide's role in inhibiting melanosome transfer and improving skin barrier function, which collectively contribute to reducing the appearance of dark spots and uneven skin tone (general dermatological knowledge, specific PMID for combination not provided in source). A serum combining these ingredients demonstrated efficacy in melasma and postinflammatory hyperpigmentation (PMID:42406361).",
+      "scientific_basis_kr": "트라넥삼산과 나이아신아마이드는 색소침착 개선에 효과적인 성분으로 잘 알려져 있습니다. 트라넥삼산은 멜라스마 치료에 효과적이며 (PMID:42105927, 42166116, 42293393), 나이아신아마이드는 멜라닌 소포 이동 억제 및 피부 장벽 강화에 기여하여 전반적인 피부 톤을 맑게 가꾸는 데 도움을 줍니다 (일반적인 피부과학 지식, 복합 제형 관련 특정 PMID은 원문에 없음). 이 두 성분을 함유한 세럼은 멜라스마 및 염증 후 색소침착 개선에 효과를 보였습니다 (PMID:42406361).",
       "tier": "strong"
     },
     "rtb_points": [
       {
-        "point_en": "Tranexamic acid helps manage melasma and hyperpigmentation by targeting melanin production pathways.",
-        "point_kr": "트라넥삼산은 멜라닌 생성 경로를 케어하여 멜라즈마 및 색소침착 관리에 도움을 줍니다.",
-        "evidence": "PMID:42105927, Clinical Considerations for Oral Tranexamic Acid in Melasma Treatment."
+        "point_en": "Tranexamic acid helps to visibly reduce the appearance of melasma and other forms of hyperpigmentation.",
+        "point_kr": "트라넥삼산이 멜라스마 및 기타 색소침착 고민을 맑게 가꾸는 데 도움을 줍니다.",
+        "evidence": "PMID:42105927, Clinical Considerations for Oral Tranexamic Acid in Melasma Treatment.\nPMID:42166116, Intradermal tranexamic acid and melasma: a systematic review and level of evidence.\nPMID:42293393, Tetrahedral framework nucleic acids carrying tranexamic acid to alleviate ultraviolet B-induced skin pigmentation."
       },
       {
-        "point_en": "Niacinamide supports skin brightening by inhibiting melanosome transfer to keratinocytes.",
-        "point_kr": "나이아신아마이드는 각질형성세포로의 멜라닌 소포 이동을 억제하여 피부톤을 밝게 가꾸는 데 기여합니다.",
+        "point_en": "Niacinamide supports a brighter complexion by helping to regulate pigment transfer.",
+        "point_kr": "나이아신아마이드가 색소 이동을 조절하여 맑은 피부톤 관리에 기여합니다.",
         "evidence": "PMID:42406361, Efficacy and Tolerability of a Topical Pigment-Correcting Serum in Melasma and Postinflammatory Hyperpigmentation."
       },
       {
-        "point_en": "The combination of tranexamic acid and niacinamide shows synergistic effects in improving hyperpigmentation.",
-        "point_kr": "트라넥삼산과 나이아신아마이드의 조합은 색소침착 개선에 시너지 효과를 나타냅니다.",
+        "point_en": "The combination of tranexamic acid and niacinamide is shown to be effective for melasma and postinflammatory hyperpigmentation.",
+        "point_kr": "트라넥삼산과 나이아신아마이드 복합 성분이 멜라스마 및 염증 후 색소침착 개선에 효과적입니다.",
         "evidence": "PMID:42406361, Efficacy and Tolerability of a Topical Pigment-Correcting Serum in Melasma and Postinflammatory Hyperpigmentation."
-      },
-      {
-        "point_en": "Tranexamic acid offers anti-aging benefits by protecting dermal fibroblasts from senescence.",
-        "point_kr": "트라넥삼산은 진피 섬유아세포를 노화로부터 보호하여 안티에이징 효과를 제공합니다.",
-        "evidence": "PMID:42059427, Tranexamic acid protects human dermal fibroblasts from D-galactose-induced senescence via the GPR30/MAPK pathway."
       }
     ],
     "tech_story": {
-      "headline_en": "Advanced Formulation Enhances Topical Delivery of Key Actives",
-      "headline_kr": "핵심 유효성분의 피부 전달력을 높이는 포뮬러 기술",
+      "headline_en": "Advanced Delivery System Enhances Tranexamic Acid Efficacy",
+      "headline_kr": "피부 깊숙이 전달되는 트라넥삼산으로 효과 극대화",
       "supporting_facts_en": [
-        "Engineered delivery systems improve topical performance of tranexamic acid (PMID:42293393).",
-        "Formulations combining lotus sprout extract, tranexamic acid, and niacinamide demonstrate efficacy in pigment correction (PMID:42406361)."
+        "Engineered delivery systems improve topical penetration and cellular access of tranexamic acid.",
+        "This enhanced delivery supports the anti-melanogenic activity of tranexamic acid."
       ],
       "supporting_facts_kr": [
-        "트라넥삼산의 국소 적용 성능을 향상시키는 전달 시스템이 개발되었습니다(PMID:42293393).",
-        "연꽃 새싹 추출물, 트라넥삼산, 나이아신아마이드 복합 포뮬러는 색소 침착 개선에 효과를 보였습니다(PMID:42406361)."
+        "피부 흡수율을 높이는 기술로 트라넥삼산의 피부 침투 및 세포 접근성을 향상시킵니다.",
+        "이러한 전달 기술은 트라넥삼산의 멜라닌 생성 억제 활성을 강화하는 데 기여합니다."
       ]
     },
     "citation_ready_papers": [
@@ -52,53 +47,48 @@
         "pmid": "42105927",
         "title": "Clinical Considerations for Oral Tranexamic Acid in Melasma Treatment.",
         "year": "2026",
-        "use_case_en": "To support the efficacy of tranexamic acid in melasma treatment.",
-        "use_case_kr": "트라넥삼산의 멜라즈마 치료 효과 근거로 인용."
+        "use_case_en": "To support the use of tranexamic acid for melasma treatment, highlighting clinical considerations.",
+        "use_case_kr": "트라넥삼산의 멜라스마 치료 적용에 대한 임상적 고려사항을 뒷받침하는 근거로 인용."
       },
       {
         "pmid": "42166116",
         "title": "Intradermal tranexamic acid and melasma: a systematic review and level of evidence.",
         "year": "2026",
-        "use_case_en": "To highlight tranexamic acid's role in melasma management and its comparison with other therapies.",
-        "use_case_kr": "멜라즈마 관리에 있어 트라넥삼산의 역할 및 타 치료법과의 비교 근거로 인용."
+        "use_case_en": "To cite evidence on the efficacy and safety of tranexamic acid for melasma, particularly intradermal application.",
+        "use_case_kr": "멜라스마 치료에 대한 트라넥삼산의 효능 및 안전성, 특히 피부 내 주사 요법에 대한 근거로 인용."
       },
       {
         "pmid": "42293393",
         "title": "Tetrahedral framework nucleic acids carrying tranexamic acid to alleviate ultraviolet B-induced skin pigmentation.",
         "year": "2026",
-        "use_case_en": "To demonstrate advanced delivery systems enhancing tranexamic acid's anti-pigmentation effects.",
-        "use_case_kr": "트라넥삼산의 색소 침착 억제 효과를 증대시키는 첨단 전달 시스템의 근거로 인용."
+        "use_case_en": "To demonstrate advanced delivery methods for tranexamic acid to improve topical performance and anti-pigmentation effects.",
+        "use_case_kr": "트라넥삼산의 국소 적용 성능 및 색소 침착 완화 효과를 개선하기 위한 첨단 전달 시스템의 사례로 인용."
       },
       {
         "pmid": "42406361",
         "title": "Efficacy and Tolerability of a Topical Pigment-Correcting Serum in Melasma and Postinflammatory Hyperpigmentation.",
         "year": "2026",
-        "use_case_en": "To support the synergistic efficacy of tranexamic acid and niacinamide in a topical serum for hyperpigmentation.",
-        "use_case_kr": "색소 침착 개선을 위한 국소 세럼 내 트라넥삼산과 나이아신아마이드의 시너지 효과 근거로 인용."
-      },
-      {
-        "pmid": "42059427",
-        "title": "Tranexamic acid protects human dermal fibroblasts from D-galactose-induced senescence via the GPR30/MAPK pathway.",
-        "year": "2026",
-        "use_case_en": "To support the anti-aging potential of tranexamic acid through fibroblast protection.",
-        "use_case_kr": "섬유아세포 보호를 통한 트라넥삼산의 안티에이징 잠재력 근거로 인용."
+        "use_case_en": "To provide direct evidence for the efficacy of a serum containing tranexamic acid and niacinamide for melasma and PIH.",
+        "use_case_kr": "트라넥삼산과 나이아신아마이드를 함유한 세럼의 멜라스마 및 염증 후 색소침착에 대한 효능을 입증하는 직접적인 근거로 인용."
       }
     ],
     "world_first_opportunity_en": null,
     "world_first_opportunity_kr": null,
     "risky_claims_to_avoid_en": [
-      "Treats melasma.",
-      "Eliminates dark spots.",
-      "Guarantees clear skin.",
-      "100% effective."
+      "Treats melasma",
+      "Eliminates dark spots",
+      "Guarantees clear skin",
+      "100% effective",
+      "Prevents hyperpigmentation"
     ],
     "risky_claims_to_avoid_kr": [
-      "멜라즈마를 치료합니다.",
-      "잡티를 완벽 제거합니다.",
-      "깨끗한 피부를 보장합니다.",
-      "100% 효과 보장."
+      "멜라스마를 치료합니다",
+      "색소침착을 완벽하게 제거합니다",
+      "깨끗한 피부를 보장합니다",
+      "100% 효과",
+      "색소침착을 예방합니다"
     ],
-    "north_america_angle_en": "Leverages well-researched ingredients like Tranexamic Acid and Niacinamide, recognized for their efficacy in addressing hyperpigmentation concerns prevalent in North American markets.",
-    "north_america_angle_kr": "북미 시장에서 흔히 나타나는 색소 침착 고민 해결에 효과적인 것으로 인정받는 트라넥삼산 및 나이아신아마이드와 같은 과학적으로 연구된 성분을 활용합니다."
+    "north_america_angle_en": "Leverages clinically studied ingredients like Tranexamic Acid, known for its efficacy in addressing persistent hyperpigmentation concerns such as melasma, supported by multiple dermatological studies.",
+    "north_america_angle_kr": "멜라스마와 같은 난치성 색소침착 개선에 효과적인 것으로 알려진 트라넥삼산 등 임상 연구 기반 성분을 활용하여 북미 소비자의 신뢰를 얻습니다."
   }
 }

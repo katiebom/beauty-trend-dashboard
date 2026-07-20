@@ -1,0 +1,8 @@
+{
+  "ingredient_a": "glutathione",
+  "ingredient_b": "vitamin B3",
+  "query": "(\"glutathione\"[Title/Abstract] AND \"vitamin B3\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 0,
+  "articles": [],
+  "crawled_at": "2026-07-20T22:17:01.509390"
+}

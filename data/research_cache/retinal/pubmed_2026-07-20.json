@@ -1,0 +1,166 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42465073",
+      "title": "Case report: Central retinal artery occlusion following scleral buckling surgery with secondary angle closure and recurrent acute ocular hypertension.",
+      "abstract": "Central retinal artery occlusion (CRAO) is a rare but vision-threatening complication following retinal detachment surgery. We report a man in his late 60s who underwent combined phacoemulsification with intraocular lens implantation and segmental scleral buckling for macula-sparing rhegmatogenous retinal detachment caused by inferotemporal ora dialysis. Shortly after surgery, he developed recurrent ocular pain with marked intraocular pressure (IOP) spikes, anterior chamber shallowing, iris bombe, and secondary angle closure. Approximately 3 h post-operatively, visual acuity deteriorated to no light perception. Fundus examination showed diffuse retinal whitening, a cherry-red spot, and marked retinal arterial attenuation. Fluorescein angiography demonstrated delayed retinal arterial filling, with focal choroidal hypoperfusion, consistent with CRAO with associated focal choroidal hypoperfusion rather than primary ophthalmic artery occlusion. Anterior segment optical coherence tomography showed forward displacement of the intraocular lens-iris diaphragm and angle closure. The patient was treated promptly with repeated anterior chamber paracentesis, topical pilocarpine, topical and systemic IOP-lowering therapy, intravenous mannitol, oxygen therapy, and adjunctive supportive treatment. IOP gradually normalized, and anterior chamber depth recovered. However, visual recovery was limited, with hand motion vision persisting during follow-up. Although the mechanism cannot be proven definitively, the temporal sequence and anterior segment findings suggest that buckle-related anterior segment crowding may have led to forward displacement of the intraocular lens-iris diaphragm, secondary angle closure, and recurrent acute ocular hypertension, thereby contributing to critically reduced ocular perfusion pressure and retinal ischemia. This case highlights the need for urgent reassessment of IOP, anterior chamber configuration, and retinal perfusion when recurrent ocular pain and shallow anterior chamber occur after scleral buckling surgery.",
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Chen Jing",
+        "Zhang Ling"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42465073/"
+    },
+    {
+      "pmid": "42462946",
+      "title": "Transcriptomic analyses link changes in gene expression to defects in pigment cell differentiation and eye morphogenesis in a zebrafish model for Oculocutaneous Albinism Type 2.",
+      "abstract": "The oculocutaneous albinism 2 protein is required for melanin synthesis in vertebrates and its loss of function leads to one of the most common forms of skin and eye albinism, Oculocutaneous albinism (OCA). Using a zebrafish disease model for OCA2, we explore developmental explanations for pleiotropic traits observed in humans with OCA2. At multiple stages, we find that oca2 mutant zebrafish exhibit abnormal number and location of iridophores, an accessory pigment cell type that arises from neural crest cells in fish and amphibians. In addition, oca2 mutants display defects during eye development including delayed choroid fissure closure and significant changes in retinal cell differentiation and organization. Our transcriptomic analysis of oca2 mutants revealed alterations in gene networks involved in differentiation of neural crest cells, retinal neurons, and the retinal pigment epithelium (RPE) including Notch and Wnt/β-catenin pathway genes. Together, our data provide information about developmental consequences of oca2 mutation and support the possibility that the Oca2 protein may function in neural crest differentiation and eye development.",
+      "year": "2026",
+      "journal": "Developmental biology",
+      "authors": [
+        "Krilanovich Taylor M",
+        "McCarthy J Rionach",
+        "Vernon Samuel",
+        "Driskell Ryan",
+        "Cerveny Kara L"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42462946/"
+    },
+    {
+      "pmid": "42461929",
+      "title": "Long-Acting RXR Agonism Preserves Retinal Function and Modulates Inflammation in Diabetic Retinopathy.",
+      "abstract": "Diabetic retinopathy (DR) is a leading cause of vision loss and is associated with reduced nuclear retinoid X receptor (RXR) activity. Retinal explants exposed to high glucose showed downregulation of RXR, peroxisome proliferator-activated receptor (PPAR), and liver X receptor-β and their lipid metabolism targets (Abca1, Scd1, and Acox1). Supplementation with the RXR agonist UAB126 restored nuclear receptor signaling and preferentially activated RXR/PPAR heterodimers. We evaluated UAB126 microparticles (UAB126-MP), a sustained-release RXR agonist formulation, for pharmacokinetic, molecular, and functional effects in db/db mouse retinas. A single intravitreal injection of UAB126-MP provided extended drug exposure for up to 6 months and increased retinal RXRα expression. Functionally, UAB126-MP preserved scotopic and photopic electroretinographic responses at 2 months and sustained cone photoreceptor function at 6 months. However, it did not reduce acellular capillaries. At 6 months, immunostaining and flow cytometry revealed decreased retinal macrophage/microglial infiltration and reduced CD45-positive myeloid cells and monocytes. These findings indicate that RXR agonism supports neuronal protection and immune modulation but does not prevent vasodegeneration, suggesting primarily neuroprotective and anti-inflammatory actions. Collectively, UAB126-MP confers durable retinal protection through nuclear receptor-mediated pathways, underscoring its potential as a long-acting therapeutic strategy for DR.",
+      "year": "2026",
+      "journal": "Diabetes",
+      "authors": [
+        "Johnson Emory",
+        "Kaffash Ehsan",
+        "Sheini Fadeela",
+        "Rennhack Ashley",
+        "Sielski Micheli Severo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42461929/"
+    },
+    {
+      "pmid": "42458331",
+      "title": "Intranasal fentanyl to reduce pain intensity associated with retinopathy of prematurity screening in preterm infants: study protocol for a randomized controlled trial.",
+      "abstract": "Preterm infants are frequently exposed to painful procedures associated with adverse short- and long-term neurodevelopmental outcomes. Retinopathy of prematurity (ROP) screening is a necessary examination that is associated with moderate-to-high pain intensity scores and physiologic instability, despite the use of non-pharmacologic comfort measures and topical anesthesia. Current strategies have not reliably reduced procedural pain to mild or no pain levels, highlighting an important gap in neonatal pain management. Intranasal fentanyl provides rapid analgesia without requiring intravenous access and may offer a feasible option for procedural pain management in this population.",
+      "year": "2026",
+      "journal": "BMC pediatrics",
+      "authors": [
+        "McCord Helen",
+        "Disher Tim",
+        "Promelle Véronique",
+        "Mitra Souvik",
+        "Singh Balpreet"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42458331/"
+    },
+    {
+      "pmid": "42454894",
+      "title": "Restoration of Saccadic Eye Movements and Visually Guided Behavior in Ambient White Light with Photoswitchable Small Molecules.",
+      "abstract": "Blinding diseases due to the degeneration of photoreceptors (PhRs), such as geographic atrophy (GA) secondary to dry age-related macular degeneration and retinitis pigmentosa (RP), leave the rest of the retinal circuitry largely intact, albeit unable to respond to light. Gene therapy has been able to revert PhR degeneration, but it can be applied only to a rare mutation affecting a small subset of RP patients. Alternatively, implanted electronic retinal prostheses aim at a larger population by electrically stimulating surviving neurons. However, the treatment is invasive and costly and provides limited resolution. Photopharmacology can develop photoswitchable small molecules to restore vision impairment by conferring light sensitivity to ion channels that are widely expressed in the remaining inner retinal neurons, and a first-in-human clinical trial is ongoing. Here, we have developed novel photoswitchable small-molecule ligands of metabotropic glutamate 6 (mGlu",
+      "year": "2026",
+      "journal": "Journal of the American Chemical Society",
+      "authors": [
+        "Sortino Rosalba",
+        "González-Díez Aleix",
+        "Milla-Navarro Santiago",
+        "Martínez-Tambella Joaquín",
+        "Paleo-García Víctor"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42454894/"
+    },
+    {
+      "pmid": "42454273",
+      "title": "One-Year Outcome of PreserFlo MicroShunt Implantation in Patients with Open Angle Glaucoma: Real-World Data from a Tertiary Centre.",
+      "abstract": "To evaluate the one-year clinical outcomes, safety profile, and surgical success of the PreserFlo",
+      "year": "2026",
+      "journal": "Clinical ophthalmology (Auckland, N.Z.)",
+      "authors": [
+        "Cheng Teck Chee",
+        "Ng Khai Voon",
+        "Che Hamzah Jemaima"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42454273/"
+    },
+    {
+      "pmid": "42452492",
+      "title": "Nose-to-Eye Delivery: The Potential of Intranasal Administration in Ophthalmology.",
+      "abstract": "Non-invasive drug delivery for ocular diseases remains a significant challenge in ophthalmology, as conventional eye drops offer less than 5% bioavailability due to pre-corneal barriers and the corneal epithelium. This review explores the intranasal (IN) route as a promising strategy for targeting both the anterior and posterior segments of the eye. The IN route leverages several distinct pathways: the nasolacrimal reflex for remote physiological stimulation; the \"neural bridge\" through the cribriform plate, allowing direct perineural and vascular transport via the olfactory and trigeminal nerves to bypass the blood-retinal barrier; and systemic absorption that avoids hepatic first-pass metabolism. Pre-clinical evidence indicates that IN administration of agents such as erythropoietin, nerve growth factor, and insulin achieves superior retinal concentrations compared to topical or systemic dosing, offering neuroprotection in models of retinal degeneration and glaucoma. Clinically, varenicline nasal spray is already FDA-approved for dry eye disease, while intranasal steroids demonstrate a favorable ocular safety profile without significantly increasing intraocular pressure. Although limited by mucociliary clearance and small delivery volumes, the IN route offers a painless, non-invasive alternative to intraocular injections, potentially enhancing patient compliance. Future advancements in mucoadhesive nanocarriers are essential to optimize drug residence time and realize the full potential of nose-to-eye delivery in chronic ophthalmic care.",
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Adezio Maria Letizia",
+        "Iannetta Danilo",
+        "Manni Gianluca",
+        "Visioli Giacomo",
+        "Roberti Gloria"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452492/"
+    },
+    {
+      "pmid": "42444007",
+      "title": "Color Doppler ultrasound study: assessing orbital hemodynamics and vascular changes in mucosal lichen planus.",
+      "abstract": "Lichen planus (LP) is a chronic inflammatory condition that can have systemic implications, including effects on vascular health. This exploratory study aimed to evaluate orbital hemodynamics and vascular changes in patients with mucosal LP using color Doppler ultrasound (CDU).",
+      "year": "2026",
+      "journal": "BMC research notes",
+      "authors": [
+        "Mohammadi Abbas",
+        "Pazyar Nader",
+        "Hanafi Mohamad Ghasem",
+        "Azhineh Samaneh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42444007/"
+    },
+    {
+      "pmid": "42441400",
+      "title": "Endothelial FGF13 impairs angiogenesis by accelerating oxygen-independent HIF-1α degradation.",
+      "abstract": "Angiogenesis is a tightly regulated process essential for both development and disease, yet the role of fibroblast growth factor 13 (FGF13) in vascular remodeling has remained unclear. Here, we identify FGF13 as a key negative regulator of physiological and pathological angiogenesis. Using endothelial cell-specific knockout and overexpression mouse models, combined with retinal vascularization assays, hindlimb ischemia and myocardial infarction models, and in vitro endothelial cell functional assays, we demonstrate that loss of FGF13 enhances, whereas its overexpression impairs, neovascularization. Mechanistically, FGF13 binds to the PAS domain of HIF-1α and facilitates its interaction with RACK1, leading to oxygen-independent degradation of HIF-1α and suppression of downstream angiogenic signaling. Importantly, adenoviral overexpression of HIF-1α reverses the inhibitory effects of FGF13, confirming its essential role in mediating FGF13-driven angiogenic regulation. These findings reveal FGF13 as a critical endothelial-intrinsic brake on angiogenesis and suggest its potential as a therapeutic target in ischemic vascular disease.",
+      "year": "2026",
+      "journal": "Cell reports",
+      "authors": [
+        "Wu Zhaohang",
+        "Chen Yingyun",
+        "Tang Zhouhao",
+        "Jiang Meifan",
+        "Zheng Yeyi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42441400/"
+    },
+    {
+      "pmid": "42441242",
+      "title": "Radial Optic Neurotomy for Progressive Visual Field Loss Associated with Optic Nerve Head Drusen: A Case Report.",
+      "abstract": "The aim of this study was to report the use of radial optic neurotomy (RON) as an experimental surgical approach for progressive visual field loss associated with extensive bilateral optic nerve head drusen (ONHD).",
+      "year": "2026",
+      "journal": "Case reports in ophthalmology",
+      "authors": [
+        "Vivarelli Chiara",
+        "Ferri Paola",
+        "Pellegrini Marco",
+        "Adamo Ginevra Giovanna",
+        "Talli Pietro Maria"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42441242/"
+    }
+  ],
+  "crawled_at": "2026-07-20T22:11:42.565804",
+  "source": "pubmed"
+}
