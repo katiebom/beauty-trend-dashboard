@@ -1,0 +1,223 @@
+{
+  "ingredient_id": "ceramide",
+  "name_en": "Ceramide",
+  "name_kr": "세라마이드",
+  "category": "barrier",
+  "query": "\"Ceramide\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42441238",
+      "title": "Linoleic acid concentration at the air-liquid interface is key for optimal incorporation into skin model lipidome.",
+      "abstract": "Linoleic acid is an essential fatty acid required for skin barrier formation. However, linoleic acid-deficient media remains widely used in cell culture and reconstructed skin production, potentially contributing to suboptimal barrier function in skin models. In this study, we investigated the effects of varying linoleic acid concentrations in culture media on lipid composition, bioactive lipid mediator production, and gene expression of lipid-metabolizing enzymes in self-assembled skin substitutes. High-concentration linoleic acid significantly improved barrier function, as evidenced by reduced testosterone permeability, and enhanced incorporation into phospholipids, triacylglycerols, and diacylglycerols. Unexpectedly, ω-hydroxy-sphingosine ceramide proportions were reduced, reflective of downregulation of key enzymes in ω-O-acylceramide synthesis. These findings reveal a complex interplay between linoleic acid availability, lipid remodeling, and enzymatic regulation, offering new insights into optimizing reconstructed skin models for improved barrier function and lipid homeostasis.",
+      "year": "2026",
+      "journal": "Frontiers in physiology",
+      "authors": [
+        "Tremblay Andréa",
+        "Larouche Angélina",
+        "Simard Mélissa",
+        "Dumais Élizabeth",
+        "Julien Pierre"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42441238/"
+    },
+    {
+      "pmid": "42422586",
+      "title": "Type 2 Inflammatory Diseases: The Crossroads of Immunity and Metabolism.",
+      "abstract": "The understanding of type 2 inflammatory diseases is undergoing a paradigm shift from \"immune imbalance\" toward \"immune-metabolic crosstalk\". Energy metabolism not only fuels immune responses but also fundamentally dictates the functional phenotypes of immune cells through metabolic reprogramming. By systematically integrating metabolic programming data of key immune cells across diverse tissues (skin, gut, nasal, and ocular mucosa), this review constructs a cross-disease \"metabolism-signaling network\" atlas. The synthesis highlights that glycolysis and mTORC1 signaling are predominantly coupled with the pro-inflammatory outputs of Th2 cells and ILC2s, whereas fatty acid oxidation (FAO) and oxidative phosphorylation (OXPHOS) sustain the homeostasis of Tregs and M2-like macrophages. Furthermore, this review characterizes how the tryptophan, glutamine, and arginine pathways fine-tune the immune tolerance boundary via the IDO-AhR-mTOR axis. We also elucidate a conserved inter-organ \"hypoxia-HIF-1α-lactylation\" axis, which, in conjunction with tissue-specific metabolic branches (e.g., the ceramide pathway in the skin, the SCFA circuit in the gut, and the lactate-GPR81 loop in the mucosa), collectively sculpts local microenvironments and remodeling trajectories. Ultimately, a novel diagnostic and therapeutic framework centered on metabolic phenotyping is proposed, providing prospective insights into targeting metabolic checkpoints for precision immunotherapy in type 2 inflammation.",
+      "year": "2026",
+      "journal": "Research (Washington, D.C.)",
+      "authors": [
+        "Chen Lin",
+        "Pan Zhou-Xian",
+        "Ma Zi-Qi",
+        "Jin Yu-Xuan",
+        "Ru Yi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42422586/"
+    },
+    {
+      "pmid": "42396048",
+      "title": "Evaluation of the Stratum Corneum Retention Abilities of Monoterpenes and Sesquiterpenes: Strategy for the Discovery of Potent Penetration Enhancers.",
+      "abstract": "Predicting skin penetration enhancers (PEs) from numerous terpenes is of interest for the development of the transdermal drug delivery system (TDDS) and remains a great challenge. In this study, the stratum corneum (SC) retention abilities of 3 sesquiterpenes and 3 monoterpenes from Alpiniae Officinarum Rhizoma were compared. The sesquiterpenes included caryophyllene oxide (CPO), δ-cadinene, and β-caryophyllene, while the monoterpenes contained 4-terpineol, β-pinene, and 1,8-cineole. Long-chain sesquiterpenes showed much higher SC-retention abilities than short-chain monoterpenes. The SC-retention abilities of terpenes were directly correlated with their disturbance effects on skin-barrier function (",
+      "year": "2026",
+      "journal": "ACS omega",
+      "authors": [
+        "Xu Fei",
+        "Li Yanan",
+        "He Tianyu",
+        "Zhu Xixi",
+        "Huang Senlan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42396048/"
+    },
+    {
+      "pmid": "42393254",
+      "title": "Electric fields trigger ceramide-dependent vesicle budding and boost the generation of small extracellular vesicles.",
+      "abstract": "Small extracellular vesicles (sEVs) hold therapeutic promise, but clinical translation is limited by low yields. Physiological electric fields (EFs) naturally present during wound healing, embryonic development, and cancer progression-processes known to involve elevated production of sEVs. Here, we demonstrate that physiological-strength EFs (direct current, 50-200 mV/mm) dramatically enhance sEV secretion, achieving nearly 100-fold increases strength-dependently. Mechanistically, EFs augmented intraluminal vesicle formation within multivesicular bodies. Using giant plasma membrane vesicles, we observed EF-induced nanoscale vesicle formation, supporting an EF-driven membrane electroassembly and vesiculogenesis hypothesis. Notably, alternating current EFs (50 - 400 Hz) were 80-90% less effective than direct current EFs, highlighting membrane electropolarization-dependent modulation. Lipid raft/ceramide inhibition almost abolished EF-induced sEV secretion. Inhibition of the PI3K abolished approximately half of EF-triggered sEV release. Our findings not only unveil EFs as a potent physiological regulator of sEV secretion but also establish a biomimetic, high-yield production strategy leveraging bioelectric cues.",
+      "year": "2026",
+      "journal": "Communications biology",
+      "authors": [
+        "Huang Shiwen",
+        "Chen Liangjing",
+        "Sun Chuan",
+        "Li Runze",
+        "Zhao Yaojie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42393254/"
+    },
+    {
+      "pmid": "42390540",
+      "title": "Composition and structure of stratum corneum intercellular lipids in patients with osimertinib-induced hand-foot syndrome.",
+      "abstract": "Osimertinib (OSM), a third-generation epidermal growth factor receptor tyrosine kinase inhibitor, causes skin disorders, such as hand-foot syndrome (HFS), which impairs skin barrier function. Stratum corneum (SC) lipids play an important role in skin barrier function. This study aimed to compare the SC lipid composition and structure of healthy participants with those of patients with OSM-induced HFS.",
+      "year": "2026",
+      "journal": "Cancer chemotherapy and pharmacology",
+      "authors": [
+        "Nakajo Michiaki",
+        "Uchino Tomonobu",
+        "Asada Kazuhiro",
+        "Hatta Ichiro",
+        "Yumoto Ryuji"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hand-Foot Syndrome",
+        "Female",
+        "Indoles",
+        "Aniline Compounds",
+        "Male",
+        "Pyrimidines",
+        "Middle Aged",
+        "Acrylamides",
+        "Lipids"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42390540/"
+    },
+    {
+      "pmid": "42346157",
+      "title": "IL-4/IL-13-Driven Dysregulation of Epidermal Lipid Metabolism in Atopic Dermatitis: An Immunometabolic Link Between Type 2 Inflammation and Barrier Dysfunction.",
+      "abstract": "Atopic dermatitis (AD) is a chronic immune-mediated inflammatory skin disease characterized by a complex and dynamic interplay between immune dysregulation and epidermal barrier dysfunction. Emerging evidence supports an integrated pathogenic model in which immune activation and barrier impairment form a bidirectional and self-reinforcing axis rather than representing separate processes. This review synthesizes current knowledge on the role of IL-4/IL-13-dependent signaling in regulating keratinocyte lipid metabolism and its impact on epidermal barrier integrity. IL-4/IL-13 signaling via the JAK-STAT pathway, particularly STAT6, contributes to keratinocyte dysfunction, resulting in impaired differentiation and coordinated alterations in lipid metabolism, including fatty acid elongation and ceramide synthesis. These cytokine-driven processes disrupt the organization of the stratum corneum lipid matrix, resulting in increased transepidermal water loss, enhanced skin permeability, and susceptibility to microbial colonization, thereby promoting chronic inflammation. Collectively, these findings support the concept that IL-4/IL-13-mediated dysregulation of keratinocyte lipid metabolism may represent an important immunometabolic mechanism linking type 2 inflammation with secondary barrier dysfunction in atopic dermatitis, thereby contributing to disease persistence. Targeting both immune pathways and epidermal lipid homeostasis may represent an effective strategy to restore barrier function and improve clinical outcomes.",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Andrzejczak Klara",
+        "Sternak Agata",
+        "Witkowski Wiktor",
+        "Flak Aleksandra",
+        "Maj Joanna"
+      ],
+      "mesh_terms": [
+        "Dermatitis, Atopic",
+        "Humans",
+        "Lipid Metabolism",
+        "Interleukin-13",
+        "Epidermis",
+        "Interleukin-4",
+        "Animals",
+        "Inflammation",
+        "Keratinocytes",
+        "Signal Transduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42346157/"
+    },
+    {
+      "pmid": "42327467",
+      "title": "Effects of a Moisturizer and Emollient on the Stratum Corneum Assessed by Confocal Raman Spectroscopy in Patients With and Without Atopic Dermatitis: An Assessor-Blinded Prospective Cohort Study.",
+      "abstract": "Atopic dermatitis (AD) is characterized by impaired skin barrier function and reduced moisturizing factors. Moisturizers and emollients restore the barrier through distinct mechanisms, but their longitudinal molecular effects on the stratum corneum (SC) are poorly characterized, particularly in barrier-deficient skin. We assessed the time-dependent effects of a cream-type moisturizer (CM) and petroleum jelly (PJ) on SC molecular composition in adults with and without AD using confocal Raman spectroscopy (CRS).",
+      "year": "2026",
+      "journal": "Health science reports",
+      "authors": [
+        "Fukuda Risa",
+        "Hashimoto Rena",
+        "Pak Kyongsun",
+        "Yasuda Hazuki",
+        "Mochimaru Naoko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42327467/"
+    },
+    {
+      "pmid": "42320792",
+      "title": "Metabolic engineering of Saccharomyces cerevisiae sphingolipid pathways for enhanced phytoceramide production.",
+      "abstract": "Phytoceramides are essential sphingolipids that support skin barrier integrity and hydration, making them valuable for cosmetic and pharmaceutical applications. However, their intricate structures and low natural abundance pose significant challenges for scalable production. Here, we present an integrated metabolic engineering and lipidomics study aimed at enhancing phytoceramide production in Saccharomyces cerevisiae. We implemented three strategies: (i) overexpression of SUR2 (sphinganine C4-hydroxylase) to boost phytosphingolipid formation; (ii) deletion of SCS7 (ceramide α-hydroxylase) to redirect flux toward non-hydroxylated phytoceramides; and (iii) overexpression of ISC1 (inositol phosphosphingolipid phospholipase) to recycle complex sphingolipids into ceramide pools. SUR2 overexpression showed the highest transcript levels, whereas lipidomics revealed that scs7Δ produced the highest phytoceramide enrichment with a 15-fold increase in phytoceramide abundance relative to the wild type. In terms of relative abundance within the quantified ceramide pool, phytoceramides increased from 5% in wild type to 46% in the SUR2-OE strain and 75% in the scs7Δ strain. The combined scs7Δ SUR2-OE strain did not exhibit additive metabolic effects on the lipid profile. The presence of residual hydroxylated ceramides indicated intrinsic regulatory constraints, aligning with the bypass mechanism proposed here whereby ceramide synthases can use pre-hydroxylated acyl-CoA. Importantly, this work contributes a comprehensive lipidomic profiling of S. cerevisiae, enabling clear discrimination between engineered and wild type strains and identification of genotypes exerting the greatest impact on phytoceramide accumulation. This approach advances sphingolipid pathway modulation and positions S. cerevisiae as a valuable model for studying phytoceramide-focused remodeling.",
+      "year": "2026",
+      "journal": "New biotechnology",
+      "authors": [
+        "Guixeras-Carreras Jordi",
+        "Caballé Marc",
+        "Leivar Pablo",
+        "De Mey Marjan",
+        "Planas Antoni"
+      ],
+      "mesh_terms": [
+        "Saccharomyces cerevisiae",
+        "Metabolic Engineering",
+        "Ceramides",
+        "Sphingolipids",
+        "Saccharomyces cerevisiae Proteins",
+        "Mixed Function Oxygenases"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42320792/"
+    },
+    {
+      "pmid": "42320369",
+      "title": "Oral ceramide attenuates ultraviolet Binduced epidermal dysregulation and hyperpigmentation by modulating MITF signaling and barrier-related pathways.",
+      "abstract": "Ultraviolet B (UVB) irradiation induces epidermal dysregulation characterized by hyperpigmentation, barrier dysfunction, and abnormal keratinocyte differentiation, contributing to photoaging and skin disorders. Ceramides are key structural lipids of the stratum corneum and are widely used as topical agents to support barrier integrity. However, the role of oral ceramide in UVB-induced skin damage remains unclear. In this study, we investigated whether oral ceramide administration attenuates UVB-induced skin alterations in HRM-2 hairless mice. Mice were repeatedly exposed to UVB and orally administered ceramide (2.5 or 7.5 mg/kg/day). UVB exposure increased dorsal skin pigmentation, epidermal thickness, microphthalmia-associated transcription factor (MITF) expression, and melanogenesis-related gene transcription, while tending to reduce skin hydration. Oral ceramide markedly suppressed these changes and enhanced skin moisture content without affecting general health status. Immunofluorescence and reverse transcription-quantitative PCR analyses revealed a reduction in the number of MITF-positive cells and downregulation of Tyrp1, Mc1r, and Mitf. RNA sequencing analysis further demonstrated that ceramide counteracted UVB-induced transcriptional dysregulation by suppressing keratinization pathways and promoting retinoic acid receptor- and wound-healing-associated signaling. These findings indicate that oral ceramide not only reduces melanin synthesis but also promotes the recovery of epidermal homeostasis by modulating melanocyte activity, keratinocyte differentiation, and barrier function. Accordingly, oral ceramide attenuates UVB-induced skin pigmentation by suppressing MITF-dependent melanogenesis and restoring skin homeostasis, highlighting its potential as a therapeutic agent for photodamage-associated skin disorders.",
+      "year": "2026",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "authors": [
+        "Zang Liqing",
+        "Kagotani Kazuhiro",
+        "Hayakawa Takuya",
+        "Kagawa Tatsuki",
+        "Fujimoto Yuki"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ceramides",
+        "Ultraviolet Rays",
+        "Epidermis",
+        "Hyperpigmentation",
+        "Signal Transduction",
+        "Microphthalmia-Associated Transcription Factor",
+        "Administration, Oral",
+        "Mice",
+        "Mice, Hairless"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42320369/"
+    },
+    {
+      "pmid": "42310852",
+      "title": "Effects of Selective Sphingosine-1-Phosphate Receptor 1 Agonist, TRV045, on Evoked Pain Tests: An Exploratory, Four-Way Cross-Over Study in Healthy Volunteers.",
+      "abstract": "Preclinical evidence suggests that dysregulation of the ceramide-sphingosine-1-phosphate (S1P) axis may have analgesic properties. However, currently approved S1PR1 modulators such as fingolimod are hindered for this indication as they induce lymphopenia. The aim of the current study was to evaluate whether the novel, selective S1PR1 agonist TRV045 has analgesic effects in a validated evoked pain test battery in healthy volunteers.",
+      "year": "2026",
+      "journal": "European journal of pain (London, England)",
+      "authors": [
+        "Bakker Wouter A",
+        "Eijsvogel P",
+        "Klaassen Erica S",
+        "Kim Jessica",
+        "Chen Ruihua"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Cross-Over Studies",
+        "Adult",
+        "Double-Blind Method",
+        "Young Adult",
+        "Pain Measurement",
+        "Analgesics",
+        "Sphingosine-1-Phosphate Receptors"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42310852/"
+    }
+  ],
+  "crawled_at": "2026-07-21T22:11:34.324201",
+  "source": "pubmed"
+}

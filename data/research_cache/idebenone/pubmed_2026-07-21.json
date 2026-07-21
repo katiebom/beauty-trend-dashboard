@@ -1,0 +1,230 @@
+{
+  "ingredient_id": "idebenone",
+  "name_en": "Idebenone",
+  "name_kr": "이데베논",
+  "category": "anti_aging",
+  "query": "\"Idebenone\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42113675",
+      "title": "Novel Combination Of Antioxidants To Restore Healthy Intercellular Communication In An In vitro Model Using Conditioned Medium From Senescent Cells.",
+      "abstract": "Skin aging is a multifactorial process driven by alterations at the molecular and cellular level, also known as hallmarks of aging. One of these alterations consists of altered intercellular communication, which contributes to skin tissue dysfunction and structural damage. Here, an in vitro model to mimic these skin aging features by incubating healthy fibroblasts with conditioned medium from senescent fibroblasts is presented. First, UVB-irradiated fibroblasts can be analyzed for changes in gene expression associated with photoaging. Second, conditioned medium from UVB-induced senescent fibroblasts can be harvested and transferred to healthy fibroblasts, leading to downregulation of extracellular matrix proteins and upregulation of proinflammatory cytokine gene expression. These changes are counteracted by using a novel combination of antioxidants (vitamin C + idebenone). These results demonstrate that the in vitro model can be used to assess the efficacy of novel compounds on skin dermal cell aging features, and thus to select compounds that may modulate skin regenerative and rejuvenation cellular processes.",
+      "year": "2026",
+      "journal": "Journal of visualized experiments : JoVE",
+      "authors": [
+        "Martínez-Gutierrez Alfredo",
+        "Cami Helena"
+      ],
+      "mesh_terms": [
+        "Antioxidants",
+        "Fibroblasts",
+        "Cellular Senescence",
+        "Cell Communication",
+        "Humans",
+        "Culture Media, Conditioned",
+        "Ascorbic Acid",
+        "Ubiquinone",
+        "Skin Aging",
+        "Ultraviolet Rays"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42113675/"
+    },
+    {
+      "pmid": "42068620",
+      "title": "Synergistic transdermal antioxidant therapy with idebenone-mPDA microneedles: Implications for regenerative applications.",
+      "abstract": "Oxidative stress can hinders tissue regeneration, thus highlighting the importance of localized antioxidant-based interventions. Herein, we engineered a synergistic skin delivery platform that combined idebenone (IDB)-loaded anti-oxidative mesoporous polydopamine nanoparticles (mPDA) with dissolving microneedles (MNs) for localized anti-oxidative stress treatment. Through a soft-template synthesis, the mPDA nanocarrier was prepared, achieving a drug loading of 5.00% ± 0.26% and encapsulation efficiency of 88.36% ± 3.85%. Based on a central composite design-response surface methodology (CCD-RSM), the PVP/PVA‑based MN was optimized with robust mechanical strength to accommodate nanoparticles for skin penetration. The platform substantially enhanced the penetration depth in the skin by formation of microchannels for deep dermal delivery. Synergistic antioxidant activity was achieved, respectively scavenging 80.96% ± 4.71% DPPH radicals and 49.89% ± 4.32% hydroxyl radicals, while also greatly reducing intracellular ROS in H₂O₂-stressed PC12 cells. Additionally, it increases the neuronal differentiation rate and neurite length to two-fold, while also promoting keratinocyte migration for wound healing. This nanocomposite MN system provides enhanced localized drug delivery, combined antioxidant action, and simulation of tissue regeneration, offering a promising strategy for treatment of oxidative stress-impaired conditions.",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Gu Hongchun",
+        "Bao Hongyang",
+        "Zhou Lubin",
+        "Wang Sihui",
+        "Sun Xinxing"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Rats",
+        "Administration, Cutaneous",
+        "Antioxidants",
+        "Hydrogen Peroxide",
+        "Indoles",
+        "Microneedle Drug Delivery",
+        "Nanoparticles",
+        "Needles",
+        "Oxidative Stress"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068620/"
+    },
+    {
+      "pmid": "41878677",
+      "title": "Protective Effect of Idebenone Against UVB-Induced Photoaging in HaCaT Cells.",
+      "abstract": "Ultraviolet B (UVB) irradiation is a key exogenous factor contributing to skin photoaging. Idebenone (IDE), a structural analog of coenzyme Q10 (CoQ10), exhibits potent free radical scavenging capacity and is mainly employed in the treatment of neurodegenerative disorders, and in anti-aging products. However, the molecular mechanisms underlying its photoprotective effects in skin cells remain poorly understood.",
+      "year": "2026",
+      "journal": "Drug design, development and therapy",
+      "authors": [
+        "Feng Liwei",
+        "Tian Linjie",
+        "Guo Jing",
+        "Zhang Lingling",
+        "Wang Peng"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Ubiquinone",
+        "Ultraviolet Rays",
+        "Skin Aging",
+        "HaCaT Cells",
+        "Oxidative Stress",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Keratinocytes",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41878677/"
+    },
+    {
+      "pmid": "40732772",
+      "title": "Injectable PEG-PCL-PEG Copolymers for Skin Rejuvenation: In Vitro Cell Studies to in Vivo Collagen Induction.",
+      "abstract": "In this study, we designed an injectable skin-rejuvenating formulation based on polyethylene glycol-polycaprolactone-polyethylene glycol (PEG-PCL-PEG) copolymers to provide a synergistic combination of biocompatibility, antioxidative capacity, and regenerative potential. Through the systematic optimization of the precursor molar ratio and molecular weight, well-defined PEG-PCL-PEG copolymers were synthesized and structurally characterized using gel permeation chromatography (GPC), proton nuclear magnetic resonance (",
+      "year": "2025",
+      "journal": "Polymers",
+      "authors": [
+        "Lee Seunghwa",
+        "Kim Aram",
+        "Koo Jimo",
+        "Kim Yunsik",
+        "Choi Sunglim"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40732772/"
+    },
+    {
+      "pmid": "39195014",
+      "title": "Microparticles Made with Silk Proteins for Melanoma Adjuvant Therapy.",
+      "abstract": "Melanoma is one of the most aggressive forms of skin cancer, which is characterized by metastasis and poor prognosis due to the limited effectiveness of current therapies and the toxicity of conventional drugs. For this reason and in recent years, one of the most promising strategies in the treatment of this form of cancer is the use of drug delivery systems as carriers capable of conveying the therapeutic agent into the tumor microenvironment, thus preventing its degradation and improving its safety and effectiveness profiles. In the present work, microparticles based on silk fibroin and epifibroin 0039, silk-derived proteins loaded with idebenone, were created, which act as therapeutic carriers for topical use in the treatment of melanoma. The resulting particles have a spherical shape, good loading efficiency, and release capacity of idebenone. Efficacy studies have demonstrated a reduction in the proliferation of COLO-38, melanoma tumor cells, while safety tests have demonstrated that the microparticles are not cytotoxic and do not possess prosensitizing activity. Notably, transdermal release studies revealed that all particles released idebenone over more days. The analysis of the stimulatory markers of the proinflammatory process, CD54 and CD86, did not show any increase in expression, thus confirming the absence of potential prosesensitization effects of the silk fibroin-based particles. The research, therefore, found that idebenone-loaded silk protein microparticles could effectively reduce the proliferation of melanoma cells without cytotoxicity. This indicates the promise of a safe and effective treatment of melanoma.",
+      "year": "2024",
+      "journal": "Gels (Basel, Switzerland)",
+      "authors": [
+        "Trombino Sonia",
+        "Sole Roberta",
+        "Curcio Federica",
+        "Malivindi Rocco",
+        "Caracciolo Daniele"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39195014/"
+    },
+    {
+      "pmid": "38967874",
+      "title": "Assessment of objective visual function following idebenone administration in patients with leber hereditary optic neuropathy.",
+      "abstract": "To objectively assess visual function in Leber's Hereditary Optic Neuropathy (LHON) patients; this study evaluated pre- and post-idebenone treatment changes in primary visual cortical (V1) responses using functional magnetic resonance imaging (fMRI), given the challenges in subjective testing due to central retinal ganglion cell damage.",
+      "year": "2024",
+      "journal": "Japanese journal of ophthalmology",
+      "authors": [
+        "Masuda Yoichiro",
+        "Ishikawa Hiroto",
+        "Ishikawa Hitoshi",
+        "Kezuka Takeshi",
+        "Miyazaki Atsushi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Optic Atrophy, Hereditary, Leber",
+        "Ubiquinone",
+        "Visual Acuity",
+        "Male",
+        "Magnetic Resonance Imaging",
+        "Adult",
+        "Female",
+        "Visual Fields",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38967874/"
+    },
+    {
+      "pmid": "38541080",
+      "title": "Options for Topical Treatment of Oxidative Eye Diseases with a Special Focus on Retinopathies.",
+      "abstract": "Antioxidants, usually administered orally through the systemic route, are known to counteract the harmful effects of oxidative stress on retinal cells. The formulation of these antioxidants as eye drops might offer a new option in the treatment of oxidative retinopathies. In this review, we will focus on the use of some of the most potent antioxidants in treating retinal neuropathies. Melatonin, known for its neuroprotective qualities, may mitigate oxidative damage in the retina. N-acetyl-cysteine (NAC), a precursor to glutathione, enhances the endogenous antioxidant defense system, potentially reducing retinal oxidative stress. Idebenone, a synthetic analogue of coenzyme Q10, and edaravone, a free radical scavenger, contribute to cellular protection against oxidative injury. Epigallocatechin-3-gallate (EGCG), a polyphenol found in green tea, possesses anti-inflammatory and antioxidant effects that could be beneficial in cases of retinopathy. Formulating these antioxidants as eye drops presents a localized and targeted delivery method, ensuring effective concentrations reach the retina. This approach might minimize systemic side effects and enhance therapeutic efficacy. In this paper, we also introduce a relatively new strategy: the alkylation of two antioxidants, namely, edaravone and EGCG, to improve their insertion into the lipid bilayer of liposomes or even directly into cellular membranes, facilitating their crossing of epithelial barriers and targeting the posterior segment of the eye. The synergistic action of these antioxidants may offer a multifaceted defense against oxidative damage, holding potential for the treatment and management of oxidative retinopathies. Further research and clinical trials will be necessary to validate the safety and efficacy of these formulations, but the prospect of antioxidant-based eye drops represents a promising avenue for future ocular therapies.",
+      "year": "2024",
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "authors": [
+        "Russo Cristina",
+        "Rusciano Dario",
+        "Santangelo Rosa",
+        "Malaguarnera Lucia"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Edaravone",
+        "Antioxidants",
+        "Oxidative Stress",
+        "Eye Diseases",
+        "Retinal Diseases",
+        "Ophthalmic Solutions"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38541080/"
+    },
+    {
+      "pmid": "37867363",
+      "title": "Letter to the Editor: Retinal morphological and functional response to Idebenone therapy in Leber hereditary optic neuropathy.",
+      "abstract": "",
+      "year": "2023",
+      "journal": "Romanian journal of morphology and embryology = Revue roumaine de morphologie et embryologie",
+      "authors": [
+        "Mercuţ Maria Filofteia",
+        "Tănasie Cornelia Andreea",
+        "Nicolcescu Andreea Mihaela",
+        "Ică Oana Maria",
+        "Mocanu Carmen Luminiţa"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Optic Atrophy, Hereditary, Leber",
+        "Ubiquinone",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37867363/"
+    },
+    {
+      "pmid": "37371744",
+      "title": "Microneedle-Assisted Topical Delivery of Idebenone-Loaded Bioadhesive Nanoparticles Protect against UV-Induced Skin Damage.",
+      "abstract": "Ultraviolet (UV) radiation can penetrate the basal layer of the skin and induce profound alterations in the underlying dermal tissues, including skin pigmentation, oxidative stress, photoaging, glycation, and skin cancer. Idebenone (IDB), an effective antioxidant that suppresses melanin biosynthesis and glycation, can protect the skin from UV-induced damage, accounting for its use in commercial anti-aging formulations. Ideally, IDB formulations should retain IDB inside the skin for a sufficient period, despite disturbances such as sweating or swimming. Herein, we present an IDB topical formulation based on Tris (tris(hydroxymethyl)-aminomethane)-modified bioadhesive nanoparticles (Tris-BNPs) and microneedle-assisted delivery. We found that Tris-BNPs loaded with IDB (IDB/Tris-BNPs) effectively reached the basal layer of the skin and were retained for at least 4 days with a slow and continuous drug release profile, unlike non-bioadhesive nanoparticles (NNPs) and bioadhesive nanoparticles (BNPs) of similar sizes (ranging from 120-142 nm) and zeta-potentials (above -20 mV), which experienced a significant reduction in concentration within 24 h. Notably, IDB/Tris-BNPs showed superior performance against UV-induced damage relative to IDB/NNPs and IDB/BNPs. This effect was demonstrated by lower levels of reactive oxygen species and advanced glycation end-products in skin tissues, as well as suppressed melanogenesis. Therefore, the proposed IDB delivery strategy provided long-term protective effects against UV-induced skin damage.",
+      "year": "2023",
+      "journal": "Biomedicines",
+      "authors": [
+        "Xie Yuan",
+        "Ye Jingping",
+        "Ouyang Yaqi",
+        "Gong Jianing",
+        "Li Chujie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37371744/"
+    },
+    {
+      "pmid": "37313630",
+      "title": "LC-MS profiling-based non-targeted secondary metabolite screening for deciphering cosmeceutical potential of Malaysian algae.",
+      "abstract": "Application of natural resources from the marine environment in the cosmeceutical industry is gaining great attention.",
+      "year": "2023",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Lim Min Wen",
+        "Yow Yoon-Yen",
+        "Gew Lai Ti"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Chromatography, Liquid",
+        "Antioxidants",
+        "Cosmeceuticals",
+        "Tandem Mass Spectrometry",
+        "Sargassum"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37313630/"
+    }
+  ],
+  "crawled_at": "2026-07-21T22:11:36.465209",
+  "source": "pubmed"
+}
