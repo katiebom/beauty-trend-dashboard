@@ -1,0 +1,191 @@
+{
+  "ingredient_id": "microbiome",
+  "name_en": "Microbiome/Postbiotics",
+  "name_kr": "마이크로바이옴/포스트바이오틱스",
+  "category": "barrier",
+  "query": "\"Microbiome/Postbiotics\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42451600",
+      "title": "Microbiome-Driven Bioactives for Chronic Wound Repair: Microbial Metabolites, Host-Microbe Mechanisms and Paths to Clinical Translation.",
+      "abstract": "Chronic wounds represent a substantial and growing clinical burden, yet durable healing remains difficult to achieve in a large proportion of patients. The skin microbiome plays a central role in this challenge: in healthy tissue, resident microorganisms support barrier integrity and calibrate immune responses, whereas in chronic wounds, community disruption-often combined with persistent biofilm formation-drives non-resolving inflammation, impairs re-epithelialisation, and increases antimicrobial tolerance. As antibiotic resistance escalates, these features strengthen the rationale for microbiome-directed strategies that target wound ecology while reducing reliance on conventional antimicrobials. Current evidence is still dominated by mechanistic and preclinical studies, with only early clinical signals for selected approaches; therefore, next-generation probiotics, including ",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Garcia Juliana",
+        "Silva Jani",
+        "Alves Maria José",
+        "Gouvinhas Irene"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Microbiota",
+        "Chronic Disease",
+        "Host Microbial Interactions",
+        "Animals",
+        "Probiotics",
+        "Skin Microbiome",
+        "Biofilms",
+        "Translational Research, Biomedical"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42451600/"
+    },
+    {
+      "pmid": "42397540",
+      "title": "Postbiotics as Emerging Therapeutics for Allergic Diseases: A Novel Approach Beyond Live Biologics.",
+      "abstract": "Allergic diseases, including asthma, atopic dermatitis, allergic rhinitis, and food allergies, are characterized by immune dysregulation, epithelial barrier dysfunction, and exaggerated type 2 inflammation. Although current therapeutic strategies have improved disease management, many treatments remain symptomatic, costly, and insufficiently effective in a substantial proportion of patients. Increasing recognition of the gut-immune axis has shifted attention toward microbiome-derived therapeutic approaches. However, safety concerns and inconsistent clinical outcomes associated with live probiotics have accelerated interest in postbiotics, defined as preparations of inanimate microorganisms and/or their bioactive components that confer health benefits to the host. This comprehensive review summarizes current mechanistic, translational, and clinical evidence regarding the role of postbiotics in allergic diseases. Particular emphasis is placed on immunological checkpoints targeted by postbiotic-derived bioactive molecules, including modulation of Th1/Th2 balance, induction of regulatory T cells, restoration of epithelial barrier integrity, regulation of innate lymphoid cells, and systemic immune signaling through the gut-lung and gut-skin axes. Accumulating evidence indicates that postbiotics-including short-chain fatty acids, cell wall components, extracellular vesicles, exopolysaccharides, and microbial metabolites-can modulate immune responses independently of microbial viability. Preclinical studies consistently demonstrate that postbiotics restore immune tolerance, attenuate allergic inflammation, and improve epithelial barrier function. Clinical studies, particularly in atopic dermatitis, have shown promising but heterogeneous outcomes, highlighting the need for standardized formulations and biomarker-guided patient stratification. Postbiotics represent a mechanistically distinct and potentially safer microbiome-based therapeutic strategy for allergic diseases. Nevertheless, important challenges remain regarding standardization, regulatory harmonization, mechanistic characterization, and long-term clinical validation. Future progress will depend on rigorously designed longitudinal studies, multi-omics integration, and precision medicine approaches to determine whether postbiotics can evolve from adjunctive therapies into disease-modifying interventions.",
+      "year": "2026",
+      "journal": "Probiotics and antimicrobial proteins",
+      "authors": [
+        "El-Sehrawy Amr Ali Mohamed Abdelgawwad",
+        "Farhan Anfal Fawzi",
+        "Alghamdi Mohammad A",
+        "Al-Ghamdi Hasan S",
+        "Choubisa Hansraj"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42397540/"
+    },
+    {
+      "pmid": "42364363",
+      "title": "The skin microbiome: from historical ecology to therapeutic frontiers.",
+      "abstract": "Human skin, the body's largest organ, hosts a diverse ecosystem of bacteria, fungi, viruses, and mites collectively known as the skin microbiome. This microbiome supports cutaneous homeostasis through barrier defense, immune education, and metabolic functions.",
+      "year": "2026",
+      "journal": "Anais brasileiros de dermatologia",
+      "authors": [
+        "Sanabani Sabri Saeed"
+      ],
+      "mesh_terms": [
+        "Skin Microbiome",
+        "Humans",
+        "Skin Diseases",
+        "Dysbiosis",
+        "Skin",
+        "Probiotics",
+        "Microbiota"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42364363/"
+    },
+    {
+      "pmid": "42357365",
+      "title": "Preformulation Studies and Rational Design of an Ointment Containing a Postbiotic Metabolite of Procyanidins for Topical Use.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Todryk Tomasz",
+        "Budnicka Monika",
+        "Pajchel Lukasz",
+        "Kierońska Hanna",
+        "Dawidowski Maciej"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42357365/"
+    },
+    {
+      "pmid": "42354855",
+      "title": "Postbiotics as Multifunctional Bioactives: Mechanistic Insights and Translational Applications in Host Physiology and Microbial Ecosystem Modulation.",
+      "abstract": "Postbiotics are increasingly recognized as a predominant group of biotherapeutic agents sourced from the microbial secretome, offering functional benefits, while circumventing the safety concerns associated with the application of live microbial consortia. These microbial derivatives are emerging as promising approaches for tackling complex diseases, encompassing cancer, autoimmune diseases, and metabolic disorders, through modulation of host cell signalling pathways, including G protein-coupled receptors (GPCRs), the NF-κB (Nuclear Factor Kappa B) pathway, and epigenetic regulatory pathways. Besides systemic effects, postbiotics may also have localized effects, such as epithelial regeneration, modulation of fibroblast functions, and control of collagen remodelling. Eventually, the scale-up in the production of postbiotics has initiated new avenues in improving sustainable agriculture and environmental biotechnology. This comprehensive review attempts to integrate mechanistic insights and translational applications, highlighting the therapeutic potential of postbiotics across biomedical and ecological domains. These observations could pave the way to bridge the gap between microbiome regulation, precision medicine, and sustainable biotechnology, thereby positioning postbiotics as a versatile tool addressing some of the most pressing health and sustainability challenges of the 21st century.",
+      "year": "2026",
+      "journal": "Microorganisms",
+      "authors": [
+        "Babysulatha Sasidharan Nidhisha",
+        "Hely Sreetha",
+        "John Subin",
+        "Arun Kalyani",
+        "Raveendran Nandhana Joy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42354855/"
+    },
+    {
+      "pmid": "42326996",
+      "title": "Evaluation of lactic acid ferment lysate for the management of oily skin: impact on sebum, hydration, and microbiota.",
+      "abstract": "Oily skin is a prevalent, cosmetically troubling condition. This study investigated the effects of a topical cream with 3% lactic acid ferment lysate VHProbi",
+      "year": "2026",
+      "journal": "Frontiers in physiology",
+      "authors": [
+        "Song Lei",
+        "Cui Hongchang",
+        "Xu Xingtao",
+        "Duan Zhi",
+        "Meng Guoqing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42326996/"
+    },
+    {
+      "pmid": "42273932",
+      "title": "A Microbial Formulation Perspective on Probiotic Skincare: Viability, Challenges, and Current Approaches to Maintain Probiotic Viability.",
+      "abstract": "The human body hosts a vast and dynamic microbial ecosystem that plays essential roles in immunity, metabolism, and tissue function. Growing scientific and consumer interest in the human microbiome has accelerated innovation in topical skincare, particularly in the emerging category of probiotic, prebiotic, and postbiotic formulations. However, despite rapid market growth, most commercial products rely on non-viable microbial derivatives rather than live, strain-identified organisms, largely due to formulation, regulatory, and stability challenges. This review provides a microbial formulation perspective on probiotic skincare, beginning with an overview of the human and skin microbiomes, followed by a discussion of how beneficial microorganisms influence skin appearance and barrier function. We clarify the definitions and scientific distinctions among probiotics, prebiotics, and postbiotics and evaluate current cosmetic applications. We then explore the technical and regulatory hurdles associated with incorporating live microbes into cosmetic products, including preservative compatibility, viability, packaging, and activation requirements. Finally, we present some available strategies and technologies in an effort to keep probiotic viable until use and outline future research considerations needed to advance authentic, evidence-based probiotic skincare.",
+      "year": "2026",
+      "journal": "Biotechnology and bioengineering",
+      "authors": [
+        "Rezaei Farzaneh",
+        "Rollin Joseph A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42273932/"
+    },
+    {
+      "pmid": "42257798",
+      "title": "The microbiota-gut-immunity axis in teleost fish: dual regulatory mechanisms of viral infections and prospects for microbiome-based antiviral strategies.",
+      "abstract": "Bacteria and viruses engage in complex synergistic and antagonistic interactions with profound implications for host health, particularly through functional modulation by intestinal and other mucosal (e.g., skin, gill) microbiota. In teleost models, intestinal microbiota demonstrates dual regulatory capacities-either potentiating or suppressing viral infections. However, the mechanistic underpinnings of these interactions remain inadequately explored in aquatic species. This review systematically delineates the dual regulatory pathways (facilitative vs. inhibitory) through which the gut microbiota modulates viral infections in fish. Based on these mechanisms, we propose a novel microbiota-gut-immunity axis framework-defined as the bidirectional communication network linking gut microbial communities, intestinal barrier function, and host systemic immunity-for the development of integrated antiviral interventions. Furthermore, we critically evaluate emerging strategies-including probiotics, prebiotics, postbiotics, synbiotics, fecal microbiota transplantation (FMT), microalgae, seaweed, and phytoactive compounds-to develop preventive and therapeutic countermeasures. Based on mechanistic insights, probiotics and prebiotics emerge as the most promising candidates for large-scale application, as they directly reshape gut microbial composition and enhance host immunity along the microbiota-gut-immunity axis. In contrast, FMT and herbal medicines, while acting on multiple nodes of the axis, currently face safety and standardization challenges, positioning them as adjunctive therapies. Importantly, these mechanistic insights reveal evolutionarily conserved immune pathways with significant translational potential for human virology.",
+      "year": "2026",
+      "journal": "Fish physiology and biochemistry",
+      "authors": [
+        "Zhou Ai Ni",
+        "Liu Long",
+        "Huang Meng Meng",
+        "Yang Shun",
+        "Fei Hui"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Fishes",
+        "Fish Diseases",
+        "Virus Diseases",
+        "Gastrointestinal Microbiome",
+        "Prebiotics",
+        "Probiotics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42257798/"
+    },
+    {
+      "pmid": "42195326",
+      "title": "Multi-Kingdom Synergy of ",
+      "abstract": "Atopic dermatitis (AD) is a chronic inflammatory disease characterized by profound microbial dysbiosis, ",
+      "year": "2026",
+      "journal": "Life (Basel, Switzerland)",
+      "authors": [
+        "Badale Andrea",
+        "Zdrîncă Mihaela",
+        "Maghiar Laura",
+        "Magyar Ioan",
+        "Zaha Dana Carmen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42195326/"
+    },
+    {
+      "pmid": "42168426",
+      "title": "Postbiotic derived from Lacticaseibacillus paracasei CNCM I-5220 as a novel approach to improve ageing-induced skin damage.",
+      "abstract": "The ageing process impacts skin health by reducing cell turnover and altering skin microbiota, which plays a crucial role in maintaining homeostasis and protection against pathogens. Microbiota-derived metabolites, including postbiotics generated through nutrient fermentation, may contribute to these protective functions. In this context, topical application of postbiotics represents a promising strategy to mitigate visible signs of skin ageing. We investigated the effects of PB-SKF, a postbiotic derived from the fermentation of fructooligosaccharides (FOS) by Lacticaseibacillus paracasei strain CNCM I-5220",
+      "year": "2026",
+      "journal": "Scientific reports",
+      "authors": [
+        "Algieri Francesca",
+        "Pimazzoni Silvia",
+        "Tanaskovic Nina",
+        "Braga Daniele",
+        "Penna Giuseppe"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168426/"
+    }
+  ],
+  "crawled_at": "2026-07-23T22:14:15.892403",
+  "source": "pubmed"
+}
