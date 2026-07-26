@@ -1,0 +1,223 @@
+{
+  "ingredient_id": "beta_glucan",
+  "name_en": "Beta-Glucan",
+  "name_kr": "베타글루칸",
+  "category": "barrier",
+  "query": "\"Beta-Glucan\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42375367",
+      "title": "Transdermal entry of a non-pathogenic filamentous fungus ",
+      "abstract": "The immune response to non-pathogenic fungi entering the skin remains largely unknown. In this study, we focused on the fermentative filamentous fungus ",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Ta Thanh Dat",
+        "Ozawa Madoka",
+        "Kasuga Yuka",
+        "Shida Midori",
+        "Kotani Yui"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Lymph Nodes",
+        "Aspergillus oryzae",
+        "Mice",
+        "Cytokines",
+        "Skin",
+        "Female",
+        "Immunomodulation",
+        "Dendritic Cells",
+        "Mice, Inbred BALB C"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42375367/"
+    },
+    {
+      "pmid": "42332934",
+      "title": "The harnessing potential of carboxymethyl beta glucan: A driver of skin repair.",
+      "abstract": "Skin continually faces stresses that compromise its structure and barrier quality, impacting skin appearance and comfort. By sustaining the main biological process of epithelisation, we could improve skin repair, thus correcting skin appearance or discomfort. A stronger barrier will ultimately lead to improvement of the skin surface smoothness, fine lines and radiance. To bolster barrier function, the cohesion of the stratum corneum involving keratinocyte transglutaminase (TGK) and filaggrin (FLG) and the stratum granulosum via tight junction proteins, is critical. Carboxymethyl beta-glucan (CM-BG), a water-soluble derivative of β-glucan, has shown promise in skin repair and anti-ageing applications. This study investigates its wound repair potential using in vitro assays and a 3D human full-thickness wounded skin model. The effects of CM-BG on various skin biological processes, including inflammation, differentiation and extracellular matrix remodelling, were investigated using a range of in vitro assays. Its potential to promote wound healing, epidermal recovery and barrier function was further assessed in a 3D reconstructed skin model. These comprehensive investigations revealed CM-BG's multifaceted actions in skin biology. Findings showed CM-BG selectively activates Dectin-1 receptors in a concentration-dependent manner. Furthermore, CM-BG exhibited anti-inflammatory properties by inhibiting key pro-inflammatory mediators (PGE2, IL-12/IL-23p40, IL-1β) while promoting the release of anti-inflammatory cytokines IL-10. Additionally, CM-BG significantly enhanced the expression of TGK, tight junction proteins (Claudin-1, Zonula occludens-1 and Occludin) and collagen type I. A 3D skin wound healing model confirmed these findings. CM-BG accelerated wound repair, reduced Transepidermal Water Loss and increased epidermal/dermal thickness in the wounded area. Additionally, post-injury, CM-BG also showed increased expression of key markers on the 3D reconstructed skin model. These results suggest CM-BG is a valuable topical ingredient for promoting wound healing, skin repair and mitigating skin ageing by interacting with Dectin-1 receptors, modulating inflammation, improving skin barrier function and boosting collagen production. Further clinical studies are warranted to confirm these promising findings.",
+      "year": "2026",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Pichon Caroline",
+        "Marat Xavier",
+        "Brule Alice",
+        "Black Annie",
+        "Gueniche Audrey"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42332934/"
+    },
+    {
+      "pmid": "42273744",
+      "title": "Enhanced skin wound healing using CNC-g-β-glucan/poly(acrylic acid) composite hydrogels: A biocompatible and bioactive scaffold for tissue regeneration.",
+      "abstract": "In this study, composite hydrogel scaffolds of cellulose nanocrystals (CNC) and β-glucan with poly(acrylic acid) (PAA) were synthesized, and their effects on accelerating skin wound healing were investigated. CNC was extracted from hardwood and β-glucan from oat flour, and after chemical crosslinking and photopolymerization, CNC-g-β-glucan/PAA composite hydrogels were prepared. The scaffolds' biological properties were evaluated using MTT assay, in vitro degradation in simulated wound fluid, DAPI staining, FESEM analysis, histological examinations, and immunofluorescence in an animal model. Biocompatibility results indicated that scaffolds containing β-glucan (particularly samples S2 and S3) showed the highest cell viability compared to other groups (",
+      "year": "2026",
+      "journal": "Journal of biomaterials applications",
+      "authors": [
+        "Fallah-Sohy Amir",
+        "Heydari Nasrabadi Mitra",
+        "Hosseinzadeh Simzar",
+        "Rad Roya"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42273744/"
+    },
+    {
+      "pmid": "42197294",
+      "title": null,
+      "abstract": "Extracted from ",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Huang Cheng-Fu",
+        "Chang Jia-Feng",
+        "Yang Hui-Shan",
+        "Hsu Chih-Ping",
+        "Lin Chih-Cheng"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Mice",
+        "Reishi",
+        "Polysaccharides",
+        "Skin",
+        "Cell Movement",
+        "Wound Healing",
+        "NIH 3T3 Cells",
+        "Fungal Polysaccharides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42197294/"
+    },
+    {
+      "pmid": "42143050",
+      "title": "β-Glucan chitosan particle provides cross-protection against multi-drug-resistant Candida auris.",
+      "abstract": "Multidrug-resistant fungi, Candida auris, persist in the healthcare environment and colonize human skin and medical devices, causing life-threatening infections with mortality rates approaching ~60% in immunocompromised patients. Because some isolates are resistant to nearly all available antifungal drugs, alternative therapeutic approaches are urgently needed. C. auris cell wall contains β-glucan and highly conserved fungal glycan structures. Moreover, many cell wall proteins are heavily β-glycosylated, and a monoclonal antibody raised against β-glucan has been shown to recognize C. albicans hyphal-regulated cell wall protein (Hyr1p), which has homologous proteins in C. auris. Based on this conversation, we evaluated β-glucan chitosan particles (GCP) as a vaccine candidate and evaluated the humoral and cellular immune responses. GCP induced robust IgG antibody and IFN-γ, IL-4, and IL17 producing T cells that recognized purified C. auris cell wall proteins. Anti-GCP antibodies recognized the cell walls of C. auris isolates from four phylogenetic clades through binding to cell wall glycoproteins. Mice vaccinated with GCP were protected from disseminated C. auris infection (40% vs. 0% survival, p = <0.0001). GCP-vaccinated mice had significantly lower fungal burden than placebo in target organs (kidney, heart, and brain) and fewer fungal abscesses. These findings support GCP vaccination as a promising strategy against MDR C. auris.",
+      "year": "2026",
+      "journal": "NPJ vaccines",
+      "authors": [
+        "Singh Shakti",
+        "Barbarino Ashley",
+        "Youssef Eman G",
+        "Das Gupta Kaustav",
+        "Nabeela Sunna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42143050/"
+    },
+    {
+      "pmid": "42140134",
+      "title": "An HSP90-inhibitory thermosensitive hydrogel enhances photothermal therapy against triple-negative breast cancer.",
+      "abstract": "Triple-negative breast cancer (TNBC) is highly aggressive and prone to recurrence, and durable therapeutic efficacy is often difficult to achieve with monotherapy. Photothermal therapy (PTT) offers advantages such as minimal invasiveness and spatiotemporal controllability and induces tumor cell death through localized hyperthermia. However, thermal stimulation simultaneously activates protective heat-stress responses in tumor cells, among which the inducible upregulation of heat shock protein 90 (HSP90) enhances thermotolerance and consequently compromises the efficacy of PTT. To overcome this limitation, we proposed a synergistic strategy based on HSP90 inhibition to induce tumor cell apoptosis while sensitizing tumors to PTT, and constructed an intratumorally injectable thermosensitive hydrogel for localized drug delivery. The HSP90 inhibitor geldanamycin (GA) was loaded into mesoporous polydopamine (MPDA) to form MGA, which was subsequently encapsulated within a PNIPAM/β-glucan composite thermosensitive hydrogel, yielding MGA@Gel. Both in vitro and in vivo studies demonstrated that MGA@Gel markedly enhanced antitumor efficacy under near-infrared (NIR) laser irradiation and effectively suppressed HSP90-associated heat-stress tolerance. Notably, in a 4T1 tumor-bearing mouse model, a single intratumoral injection established a sustained local drug depot. When combined with NIR laser irradiation, this system enabled efficient tumor suppression, pronounced downregulation of HSP90 signaling, increased apoptosis, and reduced tumor cell proliferation. These findings confirm that GA, by blocking the heat-stress protective pathway, effectively potentiates the antitumor effects of PTT. Overall, we developed a thermosensitive in situ hydrogel delivery system that enhances PTT via HSP90 inhibition, thereby overcoming tumor thermoresistance and providing a promising strategy for precise local treatment of TNBC.",
+      "year": "2026",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Wang Ke",
+        "Xu Tao",
+        "Li Ruixiao",
+        "Tao Chao",
+        "Chen Weiyi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140134/"
+    },
+    {
+      "pmid": "42053902",
+      "title": "A Cationic Supramolecule With Potent Antifungal Activity, Single-Species Selectivity, and Strong Synergy With Echinocandins.",
+      "abstract": "Claiming 3.8 million lives annually, fungal pathogens represent a major health threat, where Candida species are the leading cause with >40% mortality rates. Despite rising prevalence of life-threatening fungal species/strains, progress in developing new antifungal agents remains limited. Here, we report a new synthetic membrane-active cationic supramolecule Gua-SMACS-16 that exhibits high antifungal potency and selectivity for Candida tropicalis (MIC = 0.4-0.8 µM) without affecting other phylogenetically close species in the Candida genus, non-Candida fungal, or common opportunistic bacterial species in the human microbiome. Gua-SMACS-16 exerts its activity by disrupting the cytoplasmic membrane, while its C. tropicalis selectivity is attributed to the species' low cell wall β-glucan level, which fails to block the supramolecule entry. It also exhibits minimal toxicity to mammalian cells and zebrafish embryos, suggesting a high clinical translation potential. Moreover, an ultra-strong synergy was observed between Gua-SMACS-16 and caspofungin, a clinical antifungal drug inhibiting 1,3-β-glucan synthase, reducing their MICs by orders of magnitude against all tested Candida species including the intractable C. auris. Together, this work highlights the importance of cell wall glucan for membrane-active antifungal amphiphiles, provides a novel design principle for species-specific antifungal agents, and uncovers a new approach to developing synergizers for combination antifungal therapy.",
+      "year": "2026",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Dai Tianjiao",
+        "Chen Adrielle Xianwen",
+        "Chow Eve Wai Ling",
+        "Pang Li Mei",
+        "Li Jianguo"
+      ],
+      "mesh_terms": [
+        "Antifungal Agents",
+        "Animals",
+        "Echinocandins",
+        "Humans",
+        "Microbial Sensitivity Tests",
+        "Candida",
+        "Zebrafish",
+        "Drug Synergism",
+        "Cations",
+        "Candida tropicalis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42053902/"
+    },
+    {
+      "pmid": "41947139",
+      "title": "Water-soluble yeast β-glucan accelerates oral ulcer healing in rats via collagen synthesis and epithelial regeneration.",
+      "abstract": "BACKGROUND: Oral ulcer is a common, painful lesion that heals slowly and easily becomes secondary-infected. β-glucan, a well-known immunomodulator, has shown potential in promoting wound repair. However, the therapeutic efficacy of its water-soluble form on oral mucosal wounds remains insufficiently studied. Therefore, this study aimed to evaluate the effects of water-soluble yeast β-glucan on the healing of oral ulcers in a rat model. METHODS: Forty rats were randomly assigned to five groups (n = 8): (1) negative control (2), standard care control (0.12% chlorhexidine), and (3–5) experimental groups treated with 0.1%, 0.5%, or 1.0% water-soluble yeast β-glucan, respectively. Oral ulcers were chemically induced, and lesion size and clinical status were monitored daily. Histopathological changes were assessed by hematoxylin–eosin, Masson trichrome, and immunohistochemical staining. Data were analyzed by one-way analysis of variance using GraphPad Prism 10.0; P < 0.05 was considered statistically significant. RESULTS: On day 6, water-soluble yeast β-glucan- and chlorhexidine-treated rats exhibited significantly smaller ulcer areas, faster healing rates, complete epithelialization, and improved histological scores compared with the negative controls (P < 0.05). Water-soluble yeast β-glucan treatment also increased collagen deposition (P < 0.05). Moreover, water-soluble yeast β-glucan-treated animals showed significantly greater weight gain than the negative controls (P < 0.0001). CONCLUSIONS: This study establishes the beneficial effect of water-soluble yeast β-glucan on oral mucosal repair and provides a clear rationale for its clinical evaluation in human oral ulcers.",
+      "year": "2026",
+      "journal": "BMC oral health",
+      "authors": [
+        "Tu Yeting",
+        "Huang Hua",
+        "Zhang Mengyun",
+        "Yu Xiaomin",
+        "Lei Zixue"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "beta-Glucans",
+        "Rats",
+        "Wound Healing",
+        "Oral Ulcer",
+        "Collagen",
+        "Male",
+        "Regeneration",
+        "Rats, Sprague-Dawley",
+        "Random Allocation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41947139/"
+    },
+    {
+      "pmid": "41881222",
+      "title": "Sustainable valorization of waste biomass for β-glucan production: Key technologies, quality control and future prospects: A review.",
+      "abstract": "β-glucan, a biologically active polysaccharide with remarkable health benefits and versatile industrial applications, has attracted extensive research attention. Sustainable production of β-glucan from waste biomass is consistent with global initiatives to promote the circular economy and green biotechnology. This review comprehensively summarizes the latest progress in process development for β-glucan production using sustainable waste resources. The biological functions and application potential of β-glucan are outlined, with emphasis on its critical roles in pharmaceutical, food, cosmetic and agricultural industries. Various types of waste substrates and their suitability for β-glucan biosynthesis are discussed. Key technologies, including fermentation and enzymatic hydrolysis, as well as optimization strategies to improve yield and process efficiency, are highlighted. In addition, characterization techniques for evaluating the physicochemical properties and bioactivity of β-glucan are systematically reviewed. Despite considerable progress, current production methods face technical and economic challenges, such as substrate variability, process scalability and cost-effectiveness. Based on recent research advances, this review identifies critical bottlenecks and proposes future directions for sustainable β-glucan production. Ultimately, this work aims to provide theoretical support and practical guidance for the development of green, efficient and commercially viable β-glucan manufacturing from waste materials.",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Qiang Wei"
+      ],
+      "mesh_terms": [
+        "beta-Glucans",
+        "Biomass",
+        "Hydrolysis",
+        "Quality Control",
+        "Biotechnology",
+        "Waste Products",
+        "Fermentation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41881222/"
+    },
+    {
+      "pmid": "41750354",
+      "title": "Intranasal Resveratrol Plus Carboxymethyl-β-Glucan: A Promising Option in Clinical Practice.",
+      "abstract": "Resveratrol is a polyphenol with numerous beneficial properties, acting as a phytoalexin. Plants produce resveratrol in response to various types of stress, such as infections and external damage. Resveratrol is a natural medicine thanks to its antimicrobial, antioxidant, anti-inflammatory, immunomodulatory, and antiallergic properties. However, resveratrol has poor oral bioavailability. To overcome this drawback, a topical nasal formulation has been developed, characterized by the fixed combination of carboxymethyl-β-glucan (CMBG) with trans-resveratrol. This innovative molecule has been the subject of in-depth preclinical studies to demonstrate its stability and solubility. Subsequently, several controlled clinical studies have shown that this formulation is effective and safe in patients with respiratory infections, allergic rhinitis, and nasal surgery. Therefore, taken together, these findings suggest that intranasal resveratrol-CMBG might be a promising option for the management of upper airway diseases.",
+      "year": "2026",
+      "journal": "Biomolecules",
+      "authors": [
+        "Ciprandi Giorgio",
+        "Tosca Maria Angela"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "Humans",
+        "beta-Glucans",
+        "Administration, Intranasal",
+        "Animals",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41750354/"
+    }
+  ],
+  "crawled_at": "2026-07-26T22:02:06.570278",
+  "source": "pubmed"
+}

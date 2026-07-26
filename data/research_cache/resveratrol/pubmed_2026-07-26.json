@@ -1,0 +1,233 @@
+{
+  "ingredient_id": "resveratrol",
+  "name_en": "Resveratrol",
+  "name_kr": "레스베라트롤",
+  "category": "anti_aging",
+  "query": "\"Resveratrol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42493097",
+      "title": "Cyclodextrin-mediated delivery of resveratrol: Recent advances, therapeutic potential, and future perspectives.",
+      "abstract": "Resveratrol (RES) is a naturally occurring polyphenol with established antioxidant, anti-inflammatory, anticancer, and cardioprotective properties. However, low aqueous solubility, poor chemical stability, fast metabolism, and low oral bioavailability severely restrict its clinical translation. Cyclodextrins (CDs) and their derivatives, which act as host molecules, can be improved the solubility, stability, and therapeutic efficacy of RES by formation inclusion complexes (ICs). In addition to conventional CDs/RES ICs, various advanced delivery platforms, including CDs-based nanosponges, hybrid nanosystems, and topical/transdermal formulations have demonstrated encouraging outcomes in recent years in terms of enhancing biological activity and modifying release kinetics. Accordingly, a comprehensive understanding of CDs-based platforms for optimizing RES delivery and therapeutic application is necessary. This review highlights the physicochemical basis of the CDs-RES interaction, the mechanisms underlying improved bioavailability, and the effectiveness of CDs-based systems in both in vitro and in vivo models. Moreover, current challenges and future perspectives are discussed to highlight the potential of CDs-enabled strategies for optimizing RES delivery and therapeutic performance.",
+      "year": "2026",
+      "journal": "Carbohydrate polymers",
+      "authors": [
+        "Boroumand Raheleh",
+        "Haghighizadeh Atoosa",
+        "Salmasi Zahra",
+        "Rajabi Omid"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "Cyclodextrins",
+        "Humans",
+        "Animals",
+        "Biological Availability",
+        "Drug Carriers",
+        "Drug Delivery Systems",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42493097/"
+    },
+    {
+      "pmid": "42489821",
+      "title": "Adaptive Evolution Identifies MHY1-Mediated Transcriptional Reprogramming for Polyphenol Tolerance in Yarrowia lipolytica.",
+      "abstract": "Polyphenols are bioactive compounds used in food, beverages, cosmetics, and medicine. Despite their expanding use, the mechanisms of polyphenol toxicity in microbial polyphenol producers and the adaptive strategies that confer tolerance, remain poorly characterized. Here, we applied adaptive laboratory evolution to evolve tolerance to three structurally distinct polyphenols, curcumin, naringenin, and resveratrol in Yarrowia lipolytica. Whole-genome resequencing of tolerant strains revealed recurrent loss-of-function mutations in the morphogenetic transcription factor MHY1 (YALI1_B28150g) and large segmental duplications on chromosome E, indicating multiple evolutionary solutions. Notably, resveratrol-evolved strains showed strong tolerance in the absence of MHY1 mutations, instead relying on chromosome-scale copy-number variation, highlighting compound-specific adaptive routes. Functional reconstruction demonstrated that MHY1 inactivation is sufficient to confer high-level tolerance, as both gene deletion (ΔMHY1) and independent point mutations (F240L, C153*) reproduce the tolerant phenotype across polyphenols. Transcriptomic analysis showed that MHY1 inactivation is associated with a distinct regulatory state characterized by reduced transcriptional representation of stress-associated pathways and relative stabilization of core metabolic functions. Together, these results identify MHY1 loss-of-function as a dominant and transferable regulatory mechanism for polyphenol tolerance, while also revealing alternative genome-level adaptations selected under severe chemical stress.",
+      "year": "2026",
+      "journal": "Biotechnology journal",
+      "authors": [
+        "Zhou Hongyi",
+        "Abuhena Md",
+        "Shi Zhihui",
+        "He Hailin",
+        "Yu Hua"
+      ],
+      "mesh_terms": [
+        "Yarrowia",
+        "Polyphenols",
+        "Fungal Proteins",
+        "Transcription Factors",
+        "Directed Molecular Evolution"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42489821/"
+    },
+    {
+      "pmid": "42437846",
+      "title": "The inhibition of pathological IgE in allergic diseases by natural compounds.",
+      "abstract": "IgE-mediated allergic diseases are common and greatly affect quality of life. Current therapeutic strategies include avoidance, which is unreliable, and unspecific symptom management, which causes adverse effects and are expensive. This urges the need for safe, effective, and affordable treatment options for infants, children, adolescents, and adults. This narrative review discusses naturally occurring compounds that have been researched in animal models, in vitro cell lines, and clinical trials to inhibit pathological IgE. These include Food Allergy Herbal Formula (FAHF)-1 and -2 and the derivatives B-FAHF-2, EBF-2, and berberine; Rubia cordifolia and its isolate xanthopurpurin; arctigenin; Anti-Asthma Herbal Medicine Intervention and its isolate formononetin; apigenin; luteolin; resveratrol; pterostilbene; and ginsenoside Rh1. Natural compounds largely work through reduction of IgE production of B cells through modulation of genes involved in B cell activation, differentiation and proliferation, and cell cycle. There is a resulting reduction of Th2 responses and mast cell degranulation, and hence allergic disease pathology and symptomology. There are rich resources of natural compounds, including those with the capacity to restore immunity to that seen in non-allergic individuals. Natural compounds are promising, novel treatment strategies for the vast sufferers of food allergy, allergic asthma, allergic rhinitis, and allergic eczema.",
+      "year": "2026",
+      "journal": "Natural products and bioprospecting",
+      "authors": [
+        "Carnazza Michelle",
+        "Begley Morgan",
+        "Tiwari Raj K",
+        "Geliebter Jan",
+        "Yang Nan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42437846/"
+    },
+    {
+      "pmid": "42424602",
+      "title": "A GelMA hydrogel co-loaded with resveratrol, 18-β-glycyrrhetinic acid, and berberine for the combination therapy of infected wounds.",
+      "abstract": "To develop a gelatin methacrylate hydrogel dressing loaded with traditional Chinese medicine active components-resveratrol (RES), 18-β-glycyrrhetinic acid (GA), and berberine (BBR)-for the treatment of infected wounds, aiming to enhance wound healing through their anti-inflammatory, antibacterial, and antioxidant properties.",
+      "year": "2026",
+      "journal": "The Journal of pharmacy and pharmacology",
+      "authors": [
+        "Ji Wenbo",
+        "Yang Yaxu",
+        "Cao Xinyi",
+        "Song Jie",
+        "Zhang Zhenhai"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Glycyrrhetinic Acid",
+        "Berberine",
+        "Wound Healing",
+        "Gelatin",
+        "Hydrogels",
+        "Resveratrol",
+        "Mice",
+        "Anti-Bacterial Agents",
+        "Antioxidants"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42424602/"
+    },
+    {
+      "pmid": "42392196",
+      "title": "Metabolic engineering of Escherichia coli for resveratrol production using food-grade D-xylose as a carbon source.",
+      "abstract": "Resveratrol is a high-value polyphenolic compound widely utilized in nutraceutical, cosmetic, and pharmaceutical applications. However, most microbial production systems rely on glucose as the primary carbon source, which limits flexibility for integrating alternative and renewable feedstocks. In this study, we developed an engineered Escherichia coli platform to investigate resveratrol biosynthesis under xylose-supporting conditions, using food-grade D-xylose as the carbon source. A heterologous pathway consisting of Populus tomentosa 4-coumarate: CoA ligase (Pt4CL) and Arachis hypogaea stilbene synthase (AhSTS) was introduced to convert externally supplied p-coumaric acid (PCA) into resveratrol. To improve precursor availability, intracellular malonyl-CoA supply was enhanced by introducing matB and matC from Streptomyces coelicolor A3(2) and overexpressing the acetyl-CoA carboxylase complex (ACC) from E. coli. Xylose assimilation was further strengthened by expressing xylE, xylA, and xylB, while carbon catabolite repression was alleviated using CRISPR interference (CRISPRi) targeting the glucose transporter gene ptsG. Under shake-flask conditions, the engineered strain produced up to 23.9 mg/L resveratrol from food-grade D-xylose, accompanied by near-complete xylose consumption and 93%-94% precursor conversion. This corresponded to an overall fermentation yield of approximately 12.5 mg resveratrol per g xylose consumed. Similar titers (27 mg/L) were obtained in a 5-L bioreactor, indicating stable pathway performance under controlled fermentation conditions. Overall, these results show that E. coli can be engineered to support efficient precursor-to-product conversion under xylose-supported conditions, providing a useful proof-of-concept framework for integrating alternative carbon sources into microbial production platforms for aromatic compounds. One sentence summary An engineered Escherichia coli system integrates xylose utilization, malonyl-CoA pathway optimization, and CRISPRi regulation to support resveratrol biosynthesis under xylose-supported conditions.",
+      "year": "2026",
+      "journal": "Journal of industrial microbiology & biotechnology",
+      "authors": [
+        "Nguyen Huy Quang",
+        "Nguyen Hoa An Thi",
+        "Chu Luan Luong"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "Escherichia coli",
+        "Xylose",
+        "Metabolic Engineering",
+        "Stilbenes",
+        "Carbon",
+        "Coumaric Acids",
+        "Coenzyme A Ligases",
+        "Acyltransferases",
+        "Malonyl Coenzyme A"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392196/"
+    },
+    {
+      "pmid": "42365115",
+      "title": "Resveratrol-loaded novasomal gel for sustained dermal delivery against monobenzone-induced vitiligo-like depigmentation in black chicks.",
+      "abstract": "Vitiligo is a multifactorial depigmenting disorder characterized by melanocyte loss, oxidative stress, and impaired melanogenesis. Resveratrol (RVT) exhibits potent antioxidant and cytoprotective properties; however, its topical application is limited by its poor cutaneous penetration, rapid degradation, and limited local bioavilability. To overcome these limitations, we developed a resveratrol-loaded novasomal formulation (RVT-NVS) and evaluated its physicochemical properties, in vitro release behavior, repigmentation efficacy in a 40% monobenzone (MZ)-induced vitiligo-like depigmentation model in black chicks. Dermal tolerability was additionally assessed in rats. RVT-NVS exhibited nanoscale vesicles with an average size of 386 nm, a a relatively narrow size distribution (PDI = 0.31), high entrapment efficiency of 79%, and a negative zeta potential of - 37 mV. The RVT-NVS gel showed sustained RVT release over 12 h compared with the free RVT gel. MZ induced marked depigmentation, hematological alterations, reduced body weight gain, histopathological skin damage, reduced tyrosinase immunoreactivity, and altered behavioral readouts. RVT-NVS significantly improved visible repigmentation, normalized hematological parameters, improved body weight gain, preserved epidermal and feather follicle architecture, and restored tyrosinase-positive melanocyte-associated staining more effectively than free RVT, blank nanovehicle, or natural composite formulations. RVT-NVS also improved several MZ-associated behavioral readouts, including sweet-solution consumption, locomotor activity, social-response measures, freezing behavior, and tonic immobility duration. Molecular docking suggested possible interactions of RVT with targets related to redox regulation, melanogenesis, inflammation, and apoptosis, with favorable predicted interactions observed for catalase (CAT) and selected melanogenesis-associated targets. These findings suggest that RVT-NVS may represent a promising nanoscale topical delivery system for chemically induced oxidative melanocyte injury and vitiligo-like depigmentation.",
+      "year": "2026",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": [
+        "El-Ela Fatma I Abo",
+        "Eid Hussein M",
+        "Hassan Walid Hamdy",
+        "Ragab Ibrahim Rasha",
+        "Abdel-Razik Abdel-Razik H"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42365115/"
+    },
+    {
+      "pmid": "42305447",
+      "title": "Integrated transcriptomics identifies HIF1A and GSTP1 as biomarkers for cutaneous squamous cell carcinoma.",
+      "abstract": "Cutaneous squamous cell carcinoma (cSCC) is one of the most common skin malignancies with limited reliable biomarkers for early detection and prognosis. This study integrated bulk and single‑cell transcriptomic data to identify post‑translational modification-related key genes and to characterise cellular and immune alterations in cSCC.",
+      "year": "2026",
+      "journal": "Translational cancer research",
+      "authors": [
+        "Li Wenting",
+        "Xu Tao",
+        "Ding Yu",
+        "Chen Jianghan",
+        "Yao Guotai"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42305447/"
+    },
+    {
+      "pmid": "42273775",
+      "title": "Resveratrol may mitigate the proliferation and migration of hypertrophic scars ",
+      "abstract": "Hypertrophic scars (HS) represent a common complication arising from abnormal wound healing following skin injury. Resveratrol and microRNA (miRNA) have been implicated in the formation of HS. However, the precise mechanism by which resveratrol modulates hypertrophic scarring through miRNA regulation remains unclear.Investigating the potential functional effects and molecular mechanisms of resveratrol in HS.RT-qPCR was employed to detect the levels of miR-1290 and ADAMTS8. The targeted binding relationship between miR-1290 and ADAMTS8 was validated through dual luciferase reporter assays and RIP experiments. Cell proliferation, migration capacity, and inflammatory cytokine (IL-1β, IL-6) secretion levels were assessed using CCK-8 assays, Transwell migration assays, and ELISA.MiR-1290 was overexpressed in HS tissue and HSFB cells, whereas ADAMTS8 levels were markedly downregulated, exhibiting a negative correlation between the two. Resveratrol concentration-dependently inhibited miR-1290 levels and upregulated ADAMTS8 levels. ADAMTS8 may represent a direct target gene of miR-1290. Resveratrol may suppress the proliferation, migration, inflammatory cytokine levels, and fibrosis marker levels in HSFB cells. Overexpression of miR-1290 partially reversed the effects of resveratrol, whilst overexpression of ADAMTS8 suppressed the actions induced by miR-1290.Resveratrol may suppress the malignant phenotype of HSFB cells by regulating the miR-1290/ADAMTS8 axis.",
+      "year": "2026",
+      "journal": "Xenobiotica; the fate of foreign compounds in biological systems",
+      "authors": [
+        "Ren Yule",
+        "Han Zehua",
+        "Zhou Xiaocheng"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "MicroRNAs",
+        "Cell Proliferation",
+        "Humans",
+        "Cicatrix, Hypertrophic",
+        "Cell Movement",
+        "ADAMTS Proteins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42273775/"
+    },
+    {
+      "pmid": "42270939",
+      "title": "Development of Resveratrol/Curcumin Dual-Loaded Chitosan/Sericin Hydrogel Films for Wound Healing: A Comparison Of Shrimp- and Crab-Sourced Chitosan.",
+      "abstract": "This study reports the formulation and comparative evaluation of resveratrol and curcumin dual-loaded chitosan-based wound-healing films prepared from shrimp-derived chitosan (Shrimp-CTS, ~ 80 kDa, degree of deacetylation of ~ 95%) and crab-derived chitosan (Crab-CTS, ~ 100 kDa, degree of deacetylation of ~ 85%). The film was prepared by crosslinking reaction of chitosan and glutaraldehyde, and the influence of chitosan origin on film structure, swelling, drug release, skin permeability, and in vivo wound healing was investigated. Morphological analyses revealed that shrimp-CTS-films possessed heterogeneous surfaces, whereas crab-CTS-films exhibited smoother surfaces. Swelling studies showed that shrimp-CTS-films displayed a burst swelling, reaching 75-85% swelling within 30-60 min, while the crab-CTS-films exhibited sustained swelling, progressively increasing to ~ 100% after 240 min. All drug release profiles followed biphasic kinetics (a burst release phase and a sustained phase) and fitted well to the Korsmeyer-Peppas model (R",
+      "year": "2026",
+      "journal": "AAPS PharmSciTech",
+      "authors": [
+        "Thuy Bui Thi Phuong",
+        "Ha Phuong T M",
+        "Quyen Nguyen Thi Ngoc",
+        "Ngan Nguyen Thi Kim",
+        "Nguyen Ngoc Yen"
+      ],
+      "mesh_terms": [
+        "Chitosan",
+        "Wound Healing",
+        "Animals",
+        "Curcumin",
+        "Resveratrol",
+        "Hydrogels",
+        "Drug Liberation",
+        "Brachyura",
+        "Swine",
+        "Permeability"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42270939/"
+    },
+    {
+      "pmid": "42219757",
+      "title": "Changes in Cancer Stem Cell Signalling Pathways With Plant Metabolites to Discover Chemotherapy.",
+      "abstract": "Cancer stem cells (CSCs) are metabolically different from differentiated tumour cells, which are known as bulk cells. In this communication, we discuss the metabolic and biological differences between bulk tumour cells and CSCs. We further aim to discuss how plant metabolites can reorchestrate CSC signalling pathways, pushing these metabolically precarious cells towards differentiation and cell death. We delineate how plant metabolites curcumin, resveratrol, epigallocatechin gallate (EGCG) and genistein alter signaling in CSCs. The chemotherapeutic and chemopreventive potential of plant metabolites is also discussed, along with an analysis of how this field is going to progress with reference to drug discovery.",
+      "year": "2026",
+      "journal": "Chemistry & biodiversity",
+      "authors": [
+        "Rizvi Asim",
+        "Farhan Mohd",
+        "Ahmad Aamir",
+        "Aatif Mohammad"
+      ],
+      "mesh_terms": [
+        "Neoplastic Stem Cells",
+        "Humans",
+        "Signal Transduction",
+        "Plants",
+        "Antineoplastic Agents, Phytogenic",
+        "Resveratrol",
+        "Drug Discovery",
+        "Catechin",
+        "Curcumin",
+        "Genistein"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42219757/"
+    }
+  ],
+  "crawled_at": "2026-07-26T22:02:17.725385",
+  "source": "pubmed"
+}
