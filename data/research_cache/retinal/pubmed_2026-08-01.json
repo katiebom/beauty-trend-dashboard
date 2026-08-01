@@ -1,0 +1,174 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42531436",
+      "title": "Evaluating the Efficacy and Safety of Topical Difluprednate in Patients with Chronic Central Serous Chorioretinopathy.",
+      "abstract": "To evaluate the efficacy and safety of topical Difluprednate ophthalmic emulsion 0.05% in chronic Central Serous Chorioretinopathy (cCSCR) and compare its outcomes with oral eplerenone and observation.",
+      "year": "2026",
+      "journal": "Retina (Philadelphia, Pa.)",
+      "authors": [
+        "Yadav Parul",
+        "Shakha",
+        "Mishra Sanjay",
+        "Maula Kabiruddin",
+        "Verma Saurabh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42531436/"
+    },
+    {
+      "pmid": "42520533",
+      "title": "Updating melanoma therapy regarding melanin structure: Advances and proposals from biophysics, histochemistry and cell biology.",
+      "abstract": "Melanin is an ancestral biopigment with strong adaptive value and diverse functions across all phyla. In mammals, melanin appears in the skin, retinal-pigmented epithelium, central nervous system and in the malignant melanoma, one of the most aggressive and therapy-resistant tumors. Owing to the occurrence of melanin in melanomas, structural and physico-chemical properties can be considered to develop improved treatments. Several chemical structures have been suggested for melanin, but the model that best aligns with all known features, is the planar or spiral catechol/benzoquinone derivative of the porphycene ring. This model contains the 2,2'-bipyrrole motif as revealed by Ru(II)-induced luminescence, accounting for melanin's broadband light and ultrasound absorption, metal, dye and drug binding, antioxidant capacity, radical scavenging, electrical conductivity and multilayered graphite-like structure, observed by X-ray crystallography and electron microscopy. Due to this properties, endogenous melanin is an ideal target for treating melanotic melanomas by near infrared (NIR)-driven photothermal therapy (PTT). In addition to PTT with melanin itself and its complexes with red- or NIR-absorbing intercalating and redox dyes, further perspectives include PTT using mixed-valence and inclusion compounds. Recently, even more exotic approaches involve employing isotopes ¹ ⁰boron and ¹ ⁵⁷gadolinium for enhanced neutron-capture therapy, lanthanide-based up-conversion, ultrasonic-piezoelectric and tetrazine photo-explosive effects. Excited π-electrons after NIR or electrochemical production of reactive oxygen species and radicals following ultrasound absorption induce efficient thermal and/or oxidative responses, leading to tumor cell death. The ability of melanin to bind metal cations, dyes and drugs with high affinity has seminal implications for Cell Biology, Histochemistry, Pathology and Pharmacology of melanomas. Ultimately, this review explores melanin's structure as a therapeutic target, leveraging its striking biophysical, biochemical and biological properties to propose and implement new strategies for melanoma treatment.",
+      "year": "2026",
+      "journal": "Acta histochemica",
+      "authors": [
+        "Stockert Juan C",
+        "Blázquez-Castro Alfonso"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42520533/"
+    },
+    {
+      "pmid": "42518340",
+      "title": "Case report: Vogt-Koyanagi-Harada-like uveitis induced by anti-PD-1 therapy (Sintilimab) in a gastric cancer patient: a case study.",
+      "abstract": "Immune checkpoint inhibitors (ICIs), such as anti-programmed cell death-1 (PD-1) antibodies, have become pivotal in treating advanced cancers. While effective, they are associated with immune-related adverse events (irAEs). Ocular irAEs, including uveitis, are uncommon, and Vogt-Koyanagi-Harada (VKH)-like panuveitis is a rare but vision-threatening complication. Sintilimab is a PD-1 inhibitor used in China, and this report describes a case of VKH-like uveitis following its long-term use for gastric cancer.",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Wang Lei",
+        "Gao Ran",
+        "Lin Si-Yong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42518340/"
+    },
+    {
+      "pmid": "42513307",
+      "title": null,
+      "abstract": null,
+      "year": "2026",
+      "journal": "Journal of clinical medicine",
+      "authors": [
+        "Marziali Elisa",
+        "Elia Chiavetta",
+        "Bargiacchi Sara",
+        "Mancano Giorgia",
+        "Artuso Rosangela"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42513307/"
+    },
+    {
+      "pmid": "42502515",
+      "title": "Fulminant Unilateral Pseudomonas aeruginosa Endogenous Endophthalmitis Secondary to Peripheral Venous Catheter-Related Bacteremia in a Full-Term Neonate: A Case Report.",
+      "abstract": "Endogenous endophthalmitis is a rare but devastating complication of neonatal sepsis, predominantly reported in premature infants with very low birth weight. We report fulminant unilateral ",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Moutei Hassan",
+        "Kabbaj Salma",
+        "Chraibi Fouad",
+        "Abdellaoui Meriem",
+        "Benatiya Andaloussi Idriss"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42502515/"
+    },
+    {
+      "pmid": "42497935",
+      "title": "Repurposing glibenclamide for retinal protection: TUDCA-modified liposomes for ocular delivery.",
+      "abstract": "Glibenclamide, widely used as an oral treatment for type 2 diabetes, represents a promising example of drug repurposing. This second-generation sulfonylurea has demonstrated neuroprotective effects on ocular tissues following oral administration, showing potential benefits in the prevention and management of diabetic retinopathy and age-related macular degeneration (AMD). These findings suggest that local administration could be particularly advantageous for patients not receiving systemic glibenclamide therapy. However, to enhance ocular bioavailability and achieve sustained drug release, an appropriate delivery system is required. This study aimed to develop a topical liposomal formulation for the ocular delivery of glibenclamide. To improve penetration across biological barriers, liposome properties were optimized by incorporating tauroursodeoxycholic acid (TUDCA), a bile salt derivative that also demonstrated neuroprotective activity. The inclusion of this molecule within the lipid bilayer impacted phospholipid organization, increasing vesicle deformability, as confirmed by small-angle X-ray scattering (SAXS) analysis. Glibenclamide loading did not affect vesicle deformability and was higher in TUDCA-modified liposomes compared to conventional liposomes. Ex vivo permeation studies using isolated porcine ocular tissues (cornea, conjunctiva, and sclera) further supported TUDCA's role as an edge activator, enhancing drug penetration. Notably, glibenclamide liposomes were also able to accumulate in the sclera, forming a reservoir for sustained release over time. Finally, the liposomal formulation demonstrated good tolerability in ARPE-19 cell lines, highlighting its potential as a safe and effective system for ocular delivery of glibenclamide.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Dalla Lana Sofia",
+        "Bertocchi Francesco",
+        "Ricci Caterina",
+        "Sissa Cristina",
+        "Bianchera Annalisa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42497935/"
+    },
+    {
+      "pmid": "42495497",
+      "title": "Lupus Retinopathy Mimicking Ocular Tuberculosis: A Diagnostic Dilemma.",
+      "abstract": "Systemic lupus erythematosus (SLE) or Lupus is often called the \"great mimicker\" due to its ability to mimic other systemic disorders. SLE is a multisystem autoimmune disorder with varied manifestations, including ocular involvement. Retinal vascular occlusions are an uncommon but potentially vision-threatening presentation of lupus retinopathy. When coexisting systemic features mimic infectious etiologies such as tuberculosis (TB), diagnosis becomes challenging, delaying appropriate immunosuppressive therapy. We report a diagnostically complex case of a 22-year-old female who presented with sudden, painless loss of vision in the right eye. Initially, she was diagnosed elsewhere as macular branch retinal artery occlusion (BRAO) and chorioretinitis. Systemic symptoms-weight loss, low-grade fever, and neuropathy-along with a positive sputum smear and chest radiograph findings, led to a provisional diagnosis of pulmonary tuberculosis with presumed ocular TB. She was started on anti-tubercular therapy (ATT) and oral corticosteroids. Upon further evaluation at our center, additional ocular findings included disc pallor, active vasculitis, and bilateral chorioretinitis. Imaging studies (Fundus Fluorescein Angiography (FFA), Indocyanine Green Angiography (ICGA), Optical Coherence Tomography (OCT)) confirmed retinal vasculitis. A dermatologic evaluation of her facial rash was inconclusive for SLE. However, subsequent worsening of systemic symptoms and neuropsychiatric events prompted re-investigation. Specific MRI findings and immunological tests that revealed strong positivity for anti-Smith, anti-ribonucleoprotein (anti-RNP), anti-Ro-52, and anti-double-stranded deoxyribonucleic acid (anti-dsDNA) antibodies with hypocomplementemia confirmed the diagnosis of neuropsychiatric SLE (NPSLE). ATT was discontinued, and the patient was treated with intravenous steroids and cyclophosphamide and later transitioned to mycophenolate mofetil. Over a year, the patient showed significant systemic and ocular improvement, with best-corrected visual acuity in the affected eye improving from perception of light to 6/60. This case highlights the diagnostic dilemma in distinguishing retinal vasculitis of autoimmune etiology from that due to infectious causes such as tuberculosis, especially in endemic regions. Ocular involvement can be an early sign of systemic SLE, underscoring the need for high clinical suspicion, systemic correlation, and immunological workup in young patients with retinal vascular occlusions. Early recognition of lupus retinopathy and timely immunosuppression are key to preserving vision and preventing systemic morbidity.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Rawat Supriya",
+        "Malhotra Suhani",
+        "Lakhlan Priksha",
+        "Das Shrutanjoy",
+        "Bhatt Vaibhav"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42495497/"
+    },
+    {
+      "pmid": "42494806",
+      "title": "Central Retinal Artery Occlusion Following Cosmetic Blepharoplasty in a Young Patient: A Case Report.",
+      "abstract": "The purpose of this study is to report a case of unilateral central retinal artery occlusion (CRAO) as a rare ophthalmic complication following bilateral cosmetic blepharoplasty in a young patient and to highlight its probable causes, management, and preventive considerations.",
+      "year": "2026",
+      "journal": "Case reports in ophthalmological medicine",
+      "authors": [
+        "Mallick Abdul Hadi Hassan",
+        "Malik Manahil",
+        "Zahra Fatima",
+        "Ismail Haji",
+        "Tayyab Haroon"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42494806/"
+    },
+    {
+      "pmid": "42488285",
+      "title": "Systemic Sclerosis Presenting With Chronic Atrophic Gastritis and Retinal Artery Occlusion: A Case Report.",
+      "abstract": "Systemic sclerosis (SSc), also known as scleroderma, is a rare autoimmune disease characterized by fibroproliferative changes, vascular dysfunction, and small-vessel proliferation. It can affect multiple organ systems, including the gastrointestinal tract, skin, heart, eyes, kidneys, and lungs. We report a case of a 67-year-old woman with systemic sclerosis who tested negative for specific antibodies and simultaneously developed two rare complications: autoimmune atrophic gastritis resulting in megaloblastic anemia and acute retinal artery occlusion. Notably, she presented with megaloblastic anemia despite normal serum vitamin B12 levels, consistent with early deficiency due to parietal cell destruction and reduced intrinsic factor production. This case emphasizes the importance of recognizing uncommon gastrointestinal and ocular manifestations in systemic sclerosis, as timely diagnosis and management are essential to prevent serious complications such as severe anemia and permanent vision loss.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Gvinepadze Kristine",
+        "Toidze Marika"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42488285/"
+    },
+    {
+      "pmid": "42486661",
+      "title": "Retinoblastoma presenting as congenital glaucoma.",
+      "abstract": "An infant girl was referred to our paediatric ophthalmology service as a case of congenital glaucoma not responding to topical medication, presenting with asymmetrical globe enlargement, epiphora, corneal oedema and right eye elevated intraocular pressure of 29 mm Hg. Examination under anaesthesia of the right eye revealed iris neovascularisation, corneal oedema and a retrolental vascularised dome-shaped mass. Examination of the left eye was normal. B-scan ultrasonography demonstrated a bi-lobulated retinal lesion with calcifications extending into the anterior hyaloid to the lens. Since the findings were highly suggestive of retinoblastoma, urgent MRI was arranged which demonstrated a right globe intraocular mass with no optic nerve or intracranial extension. The tumour was classified as Group E retinoblastoma, based on the International Intraocular Retinoblastoma Classification (IIRC) classification system. She underwent right eye enucleation and was fitted with a prosthesis. At nearly 1 year of follow-up, the patient remains clinically well and undergoes regular follow-ups with our retinoblastoma service.",
+      "year": "2026",
+      "journal": "BMJ case reports",
+      "authors": [
+        "AlShimali Reem",
+        "AlShemali Rawan",
+        "AlKandari Aseel",
+        "AlAli Alaa"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Retinoblastoma",
+        "Retinal Neoplasms",
+        "Eye Enucleation",
+        "Infant",
+        "Glaucoma",
+        "Diagnosis, Differential",
+        "Magnetic Resonance Imaging",
+        "Ultrasonography"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42486661/"
+    }
+  ],
+  "crawled_at": "2026-08-01T22:00:35.824883",
+  "source": "pubmed"
+}
