@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-03",
+  "total_hashtags_checked": 188,
+  "views_collected": 1,
+  "new_candidates": 0,
+  "classification_pending": true,
+  "raw_candidates": [
+    {
+      "hashtag": "phyticacid",
+      "views": 4300000,
+      "weekly_delta": 100000,
+      "growth_rate": 0.0238,
+      "size_score": 0.737
+    }
+  ],
+  "flagged": [],
+  "top_overall": [
+    {
+      "hashtag": "phyticacid",
+      "views": 4300000,
+      "weekly_delta": 100000,
+      "growth_rate": 0.0238,
+      "size_score": 0.737
+    }
+  ],
+  "monitor": {}
+}
