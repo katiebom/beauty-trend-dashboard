@@ -1,0 +1,52 @@
+{
+  "ingredient_id": "heartleaf",
+  "name_en": "Heartleaf (Houttuynia)",
+  "name_kr": "어성초",
+  "category": "natural",
+  "query": "\"Heartleaf (Houttuynia)\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 2,
+  "articles": [
+    {
+      "pmid": "42292698",
+      "title": "Protective effects of three natural extracts on ovalbumin-induced intestinal and skin damage in felines via the gut-skin axis: An ",
+      "abstract": "The gut-skin axis plays a crucial role in mediating systemic immune and metabolic responses, particularly in allergic disorders. This study investigated the protective effects of three natural extracts-",
+      "year": "2026",
+      "journal": "Biochemistry and biophysics reports",
+      "authors": [
+        "Wang Hengyan",
+        "Liu Tong",
+        "Bai Huasong",
+        "Jin Hongchen",
+        "Wang Zhanzhong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42292698/"
+    },
+    {
+      "pmid": "15133864",
+      "title": "Different therapy for different types of ulcerative colitis in China.",
+      "abstract": "To study the different therapy for different types of ulcerative colitis (UC) in China.",
+      "year": "2004",
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Jiang Xue-Liang",
+        "Cui Hui-Fei"
+      ],
+      "mesh_terms": [
+        "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+        "Adult",
+        "Aminosalicylic Acids",
+        "Anti-Inflammatory Agents",
+        "Antigens, CD",
+        "China",
+        "Colitis, Ulcerative",
+        "Drugs, Chinese Herbal",
+        "Epithelial Cells",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/15133864/"
+    }
+  ],
+  "crawled_at": "2026-08-07T21:53:30.920976",
+  "source": "pubmed"
+}
