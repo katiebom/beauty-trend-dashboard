@@ -1,0 +1,167 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42586445",
+      "title": "A systematic review and narrative synthesis of functional neuroimaging studies for chronic ocular surface pain.",
+      "abstract": "Chronic ocular surface pain (COSP) is a debilitating condition of the eye driven by nociceptive, nociplastic, and neuropathic mechanisms. While individual studies using functional neuroimaging techniques to investigate ocular pain exist, the full extent, methodologies, and cumulative findings of this body of literature have not been systematically synthesized. Using a systematic review approach, we identified 5 articles evaluating the use of functional neuroimaging in COSP patients from an initial pool of 643 unique studies. All 5 studies used functional magnetic resonance imaging exclusively as their functional neuroimaging modality, and 4 included photophobia as a manifestation of COSP. Across the 5 studies, there were a total of 107 adult patients enrolled, of whom 83 were cases (37.3% female) with active COSP/photophobia and 24 were controls (29.2% female). The results of the studies demonstrate that light robustly recruits trigeminocortical nociceptive networks (spinal trigeminal/brainstem, S1, insula, anterior midcingulate), with partial attenuation after interventions such as topical anesthesia, botulinum toxin, or FL-41 lenses. Mechanistically, photophobia may reflect convergence of melanopsin/intrinsically photosensitive retinal ganglion cells signaling with trigeminothalamic pathways, motivating brain-based biomarkers alongside surface metrics. The consistency in study design, imaging hardware, and analytical pipelines across the 5 primary articles facilitates direct comparison but also highlights current limitations in the broader generalizability and diversity of the field. Notably, the paucity of neurophysiological studies limits our mechanistic understanding of COSP in terms of neural oscillations that can be potential targets of neuromodulatory interventions.",
+      "year": "2026",
+      "journal": "Survey of ophthalmology",
+      "authors": [
+        "Haddad Eliot N",
+        "Amin Radhika S",
+        "Nero Neil",
+        "Hogue Olivia",
+        "Rao Sujata"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42586445/"
+    },
+    {
+      "pmid": "42582531",
+      "title": "Retinal Pigment Epithelial Detachment Following Topical Travoprost Therapy.",
+      "abstract": "Prostaglandin analogs, including travoprost, are widely used to lower intraocular pressure in primary open-angle glaucoma. While generally safe, rare posterior segment changes have been reported. Retinal pigment epithelial detachment (RPED) associated with travoprost is uncommon and poorly documented. We report three patients who developed serous RPED shortly after initiating topical travoprost, none of whom had preexisting macular disease. Optical coherence tomography (OCT) confirmed the detachments, and complete anatomical and visual recovery occurred following discontinuation of travoprost and initiation of alternative glaucoma therapy. A clear temporal relationship was observed between drug initiation and RPED onset. The absence of clinical or OCT features suggestive of alternative diagnoses-such as central serous chorioretinopathy, age-related macular degeneration, or pachychoroid spectrum disorders-combined with consistent reversibility, suggests a possible association between travoprost and RPED. These findings emphasize the importance of early recognition and timely intervention, as RPED appears fully reversible when identified promptly, preventing potential persistent visual impairment.",
+      "year": "2026",
+      "journal": "Journal of current glaucoma practice",
+      "authors": [
+        "Narapareddy Meghana",
+        "Balakrishnan Narayanan",
+        "Iqbal Mohamed Anjum"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42582531/"
+    },
+    {
+      "pmid": "42578060",
+      "title": "Delayed Diagnosis of Tuberous Sclerosis Complex: A Case Report.",
+      "abstract": "Tuberous sclerosis complex (TSC) is a multisystem genetic disorder with variable clinical expression. We report the case of a 26-year-old woman who presented with characteristic cutaneous findings, including facial angiofibromas, periungual fibromas, and a fibrous cephalic plaque. Further evaluation revealed renal angiomyolipomas and retinal astrocytic hamartomas. Despite a history of childhood seizures, the diagnosis was delayed until adulthood. This case highlights the role of dermatological examination in identifying TSC, particularly in patients with subtle or asymptomatic systemic involvement.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Kundak Selcen",
+        "Yalabik Himmet"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42578060/"
+    },
+    {
+      "pmid": "42576164",
+      "title": "Outcomes of Ahmed Glaucoma Valve Placement in Client-Owned Rabbits With Refractory Glaucoma.",
+      "abstract": "To evaluate the outcome and describe complications associated with use of Ahmed valve gonioimplants in the treatment of glaucoma in rabbits.",
+      "year": "2026",
+      "journal": "Veterinary ophthalmology",
+      "authors": [
+        "Boo Gladys"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Rabbits",
+        "Glaucoma Drainage Implants",
+        "Glaucoma",
+        "Female",
+        "Male",
+        "Treatment Outcome",
+        "Intraocular Pressure",
+        "Postoperative Complications"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42576164/"
+    },
+    {
+      "pmid": "42572367",
+      "title": "Efficacy and safety of a novel anhydrous 0.1% retinal and 10% azelaic acid concentrate for blemish-prone skin: An eight-week randomized prospective split-face, vehicle-controlled study.",
+      "abstract": "Blemish-prone skin is driven by follicular hyperkeratinization, excessive sebum production, microbial dysbiosis and inflammation, often accompanied by post-inflammatory erythema and hyperpigmentation. Retinal and azelaic acid are established topical actives with complementary mechanisms of action, yet no clinical study has evaluated their combination in a single formulation.",
+      "year": "2026",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Gaudicheau Chloé",
+        "Ahlström Maria",
+        "Gillbro Johanna Maria",
+        "Åkerström Ulf"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42572367/"
+    },
+    {
+      "pmid": "42570929",
+      "title": "Adverse Drug Events Associated With Six Classes of Glaucoma Medications: A Retrospective Pharmacovigilance Study Using Real-World Data From The FAERS Database.",
+      "abstract": "Comparative post-marketing safety evidence across commonly used antiglaucoma drug classes remains limited. We conducted a real-world pharmacovigilance study to compare adverse event reporting patterns associated with 6 major classes of glaucoma medications using the U.S. Food and Drug Administration Adverse Event Reporting System (FAERS).",
+      "year": "2026",
+      "journal": "Clinical therapeutics",
+      "authors": [
+        "Jiang Yuqi",
+        "Wu Shinan",
+        "Chen Yuling",
+        "Xu Changsheng",
+        "Liu Zuguo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42570929/"
+    },
+    {
+      "pmid": "42568743",
+      "title": "Pilot Clinical Trial of Topical Netarsudil to Lower Risk of Proliferative Vitreoretinopathy in High-Risk Primary Retinal Detachment.",
+      "abstract": "To determine whether a topical rho-kinase inhibitor used in eyes with primary rhegmatogenous retinal detachment (RRD) at high risk for proliferative vitreoretinopathy (PVR) reduces the rate of recurrent RD due to grade C or worse PVR.",
+      "year": "2026",
+      "journal": "Journal of vitreoretinal diseases",
+      "authors": [
+        "Momenaei Bita",
+        "Ni Roselind",
+        "Zhang Jingwen",
+        "Yonekawa Yoshihiro",
+        "Kuriyan Ajay E"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42568743/"
+    },
+    {
+      "pmid": "42566755",
+      "title": "Telemanipulated Robot-Assisted Vitreoretinal Surgery: Safety and Effectiveness of the Luca™ System in robotically performed core vitrectomy in ERM or Macular Hole Surgical Treatment Safety and feasibility of Luca™ System.",
+      "abstract": "To evaluate the initial safety and feasibility of the Luca™ System, a telemanipulated robotic system with bimanual capabilities, used to perform a Core vitrectomy during surgical treatment of epiretinal membrane (ERM) or macular hole (MH).",
+      "year": "2026",
+      "journal": "Retina (Philadelphia, Pa.)",
+      "authors": [
+        "Nerinckx Fanny",
+        "Van Slycken Maxim",
+        "Van Puyvelde Julie",
+        "Leroy Bart"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42566755/"
+    },
+    {
+      "pmid": "42565100",
+      "title": "Reappraisal of the Entity of Pediatric Uveitis: Bilateral Iridocyclitis With Retinal Capillaritis (BIRC) in Juveniles in 18 Additional Cases.",
+      "abstract": "Bilateral iridocyclitis with retinal capillaritis (BIRC) in juveniles is a newly recognized ​​​​​entity of juvenile chronic uveitis with no systemic involvement. In this study, 18 additional consecutive patients with BIRC were reported to show that the entity would be useful in the differential diagnosis.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Matsuo Toshihiko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42565100/"
+    },
+    {
+      "pmid": "42559299",
+      "title": "Evaluation of Microvascular Changes in the Macula After Uneventful Phacoemulsification Surgery Using Optical Coherence Tomography Angiography.",
+      "abstract": "This was a longitudinal observational study.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Natung Tanie",
+        "Dhanashree Hanjabam",
+        "Nongrum Benjamin",
+        "Prabha B Jaya",
+        "Paul Arundhoti"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42559299/"
+    }
+  ],
+  "crawled_at": "2026-08-15T21:25:01.717059",
+  "source": "pubmed"
+}
