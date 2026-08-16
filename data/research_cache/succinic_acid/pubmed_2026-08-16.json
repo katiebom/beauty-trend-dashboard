@@ -1,0 +1,236 @@
+{
+  "ingredient_id": "succinic_acid",
+  "name_en": "Succinic Acid",
+  "name_kr": "호박산",
+  "category": "pore_texture",
+  "query": "\"Succinic Acid\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42603125",
+      "title": "Quality Improvement of Porcine Bone Broth via Enzyme-Driven Flavor Release and Structural Modification.",
+      "abstract": "In this study, post-simmering enzymatic hydrolysis was employed to improve the quality of porcine bone broth by physical structure and rheology modulation. The effect of papain, lipase, and synergistic dual-enzyme hydrolysis on sensory quality and flavor profiling were compared. Results showed that papain-treated broth (PA) exhibited superior sensory characteristics of smoothness, richness, umami, sweetness, and characteristic aroma than samples treated with lipase (PR) or a combination of papain and lipase (AR). Taste-active compound analysis revealed more umami and sweet amino acids, 5'-nucleotides, and succinic acid in PA, yielding an equivalent umami concentration (EUC) of 10.68 g monosodium glutamate (MSG)/100 g. A potent taste base was formed as papain-hydrolyzed proteins into key taste compounds (amino acids, peptides) while releasing succinic acid and 5'-nucleotides. Gas chromatography-mass spectrometry (GC-MS) analysis revealed that PA exhibited a higher concentration of aldehyde with fatty, sweet, fruity, and floral aromas as well as characteristic volatiles (1-octen-3-ol, 2-pentylfuran, and 2,5-dimethylpyrazine) with strong mushroom, fatty, and grilled meat aroma. Physical characterization demonstrated that enzymatically derived emulsifying proteins and peptides established a stable emulsion system with finer particle size, favorable viscosity, and shear force. This not only imparted richness and smoothness to the broth but also promoted the long-lasting release of key volatile components by shortening the diffusion path of lipid-soluble aroma compounds to the oil-water interface. Partial least squares regression analysis further confirmed the critical role of particle size, viscosity, sugar, and amino acids on the sensory quality of porcine bone broth. This study provided a feasible enzymatic strategy and clarified processing-structure-flavor correlations for industrial production.",
+      "year": "2026",
+      "journal": "Journal of food science",
+      "authors": [
+        "Song Shiqing",
+        "Peng Ting",
+        "Li Dongna",
+        "Yang Yang",
+        "Xie Ling"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Swine",
+        "Taste",
+        "Lipase",
+        "Odorants",
+        "Hydrolysis",
+        "Bone and Bones",
+        "Papain",
+        "Amino Acids",
+        "Gas Chromatography-Mass Spectrometry"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42603125/"
+    },
+    {
+      "pmid": "42294898",
+      "title": "Bittersweet: how hyperglycemia exacerbates vitiligo progression through the succinate/SUCNR1 axis.",
+      "abstract": "Vitiligo is a depigmenting disease marked by progressive T cell-driven destruction of melanocytes in the skin, hair, and mucosa. While vitiligo is known to be a T cell-mediated autoimmune disease, its triggers have remained poorly understood and treatment options limited. In this issue of the JCI, Kang et al. demonstrated how hyperglycemia exacerbates vitiligo progression through the succinate/SUCNR1 axis. These findings identify succinate as a potential biomarker for disease activity and highlight an independent pathway for targeting in therapeutic intervention. More broadly, the findings linking succinate and glucose metabolism to vitiligo suggest that lifestyle factors could be modified to slow development of vitiligo and other autoimmune diseases linked to succinate.",
+      "year": "2026",
+      "journal": "The Journal of clinical investigation",
+      "authors": [
+        "O'Donnell Kaitlyn G",
+        "Le Poole I Caroline"
+      ],
+      "mesh_terms": [
+        "Vitiligo",
+        "Humans",
+        "Animals",
+        "Mice",
+        "Receptors, G-Protein-Coupled",
+        "Disease Progression",
+        "Hyperglycemia",
+        "Succinic Acid",
+        "Melanocytes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42294898/"
+    },
+    {
+      "pmid": "42294897",
+      "title": "Hyperglycemia aggravates vitiligo through succinate/SUCNR1-mediated T cell activation.",
+      "abstract": "Vitiligo is an autoimmune skin disease characterized by depigmentation, mainly due to CD8+ T cell-mediated destruction of melanocytes. Hyperglycemia exacerbates autoimmune responses and is associated with vitiligo; however, the underlying immunometabolic mechanisms are poorly understood. Here, we demonstrated the correlation between hyperglycemia and vitiligo in a case-control study and demonstrated that hyperglycemia aggravated vitiligo based on a mouse model. Targeted metabolomics identified succinate as the potential metabolite mediating hyperglycemia-aggravated vitiligo. Mechanistically, succinate promotes the activation of CD8+ T cells through succinate receptor 1 (SUCNR1) and promotes keratinocytes to secrete CXCL9 and CXCL10 by enhancing the stability and nuclear translocation of hypoxia-inducible factor-1α, facilitating the skin-homing of CD8+ T cells. Thus, hyperglycemia aggravates vitiligo through succinate/SUCNR1 axis-regulated CD8+ T cell hyperactivation. Our study provides insights into the long-observed yet previously unclear mechanism by which hyperglycemia accelerates vitiligo progression and highlights SUCNR1 as a potential therapeutic target.",
+      "year": "2026",
+      "journal": "The Journal of clinical investigation",
+      "authors": [
+        "Kang Pan",
+        "Chang Yuqian",
+        "Wang Tingting",
+        "Yi Xiuli",
+        "Wang Yinghan"
+      ],
+      "mesh_terms": [
+        "Vitiligo",
+        "Animals",
+        "Mice",
+        "CD8-Positive T-Lymphocytes",
+        "Humans",
+        "Hyperglycemia",
+        "Receptors, G-Protein-Coupled",
+        "Lymphocyte Activation",
+        "Succinic Acid",
+        "Hypoxia-Inducible Factor 1, alpha Subunit"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42294897/"
+    },
+    {
+      "pmid": "41921367",
+      "title": "Targeting TNF-SDH axis in macrophages reverses abnormal succinate metabolism and M1 polarization to alleviate UVB-induced skin damage.",
+      "abstract": "Ultraviolet B (UVB) radiation is a major environmental factor causing skin damage, yet the actual role of macrophages in UVB-induced inflammatory remains incompletely understood. This study aimed to investigate the function and metabolic regulation of macrophages in UVB-induced skin injury. Clinical specimens from sun-exposed and non-sun-exposed human skin, murine models of acute and chronic UVB-induced damage, ex vivo skin co-culture system, and in vitro keratinocyte-macrophage co-culture systems were employed in our study. We found that depletion of macrophages by clodronate liposome significantly alleviated UVB-induced mouse skin damage. Further analysis revealed that UVB radiation promoted M1 polarization and induced metabolic dysregulation of macrophages. Pharmacological inhibition of TNF signaling using R7050 suppressed M1 polarization and ameliorated skin damage, while also rescuing UVB-induced metabolic alterations in macrophages. Importantly, restoration of succinate dehydrogenase (SDH) in macrophages reversed M1 polarization. These results demonstrated that macrophages contributed to UVB-induced skin injury via metabolic alterations and M1 polarization, processes orchestrated by the TNF-SDH axis. Targeting this pathway may represent a promising therapeutic strategy for UVB-induced skin pathologies.",
+      "year": "2026",
+      "journal": "Journal of photochemistry and photobiology. B, Biology",
+      "authors": [
+        "Li Min",
+        "Guo Yiming",
+        "Sun Xue",
+        "Chen Sihan",
+        "Zhang Ran"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ultraviolet Rays",
+        "Macrophages",
+        "Mice",
+        "Skin",
+        "Humans",
+        "Tumor Necrosis Factor-alpha",
+        "Succinate Dehydrogenase",
+        "Succinic Acid",
+        "Keratinocytes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41921367/"
+    },
+    {
+      "pmid": "41757602",
+      "title": "Comparative analysis of chemical and physical cross-linking strategies for CMCs/Gelatin/PVA wound dressings: Balancing mechanical strength with biocompatibility.",
+      "abstract": "In skin tissue engineering, the cross-linking of wound dressings is a critical step as it enhances mechanical strength. This improved strength regulates the release of incorporated components and determines the dressing's replacement schedule. Therefore, due to the lack of comparative knowledge for the cross-linking of carboxymethyl chitosan, gelatin, and polyvinyl alcohol (CMCs-Gel-PVA) wound dressings, this study was designed a systematic comparison of five distinct strategies: chemical cross-linkers-glutaraldehyde (GLU), EDC/NHS, citric acid (CA), and succinic acid (SA)-alongside a physical freeze-thaw method. Cross-linked wound dressings were fabricated and systematically characterized in terms of surface morphology (SEM), chemical bonding (FTIR), mechanical strength, porosity, biodegradability, fluid absorption, blood compatibility, cytotoxicity, and anti-inflammatory activity. The scaffolds exhibited interconnected pores ranging from 32.07 to 89.12 µm. The non-cross-linked sample showed higher porosity, liquid absorption, and degradation rate (90.33 ± 5.17%), which was attributed to its lower mechanical strength. All samples demonstrated good biocompatibility with no significant cytotoxic effects on 3T3 fibroblasts. Tensile strength values ranged from 0.15 to 1.92 MPa. Glutaraldehyde-crosslinked scaffolds displayed superior mechanical properties suitable for load-bearing wound applications, despite a slight reduction in cell viability (92.59 ± 3.19%), which remained above the accepted clinical biocompatibility threshold. These scaffolds also showed enhanced coagulation activity, whereas citric acid-crosslinked samples exhibited anticoagulant behavior and superior anti-inflammatory potential. In conclusion, this comparative study demonstrates that the choice of cross-linker dictates key functional properties of CMCs-Gel-PVA scaffolds, allowing for the strategic tuning of mechanical strength, degradation rate, hemostatic activity, and anti-inflammatory potential. These tailored ",
+      "year": "2026",
+      "journal": "Journal of biomaterials applications",
+      "authors": [
+        "Molzemi Sahar",
+        "Zamani Sepehr",
+        "Mahheidari Naimeh",
+        "Salehi Majid"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41757602/"
+    },
+    {
+      "pmid": "41745585",
+      "title": "Exploring UVA1-Induced Metabolic Effects in Different In Vitro, Ex Vivo, and In Vivo Systems.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Metabolites",
+      "authors": [
+        "Ivanova Irina",
+        "Svilenska Teodora",
+        "Maisch Tim",
+        "Gronwald Wolfram",
+        "Niebel Dennis"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41745585/"
+    },
+    {
+      "pmid": "41641180",
+      "title": "Hyaluronic Acid, Succinic Acid, and Exosomes in the Treatment of Facial Hyperpigmentation: A Report of Two Cases.",
+      "abstract": "Facial hyperpigmentation is a common clinical manifestation of various dermatologic conditions and may arise from multiple endogenous and exogenous factors. Its therapeutic management remains a clinical challenge due to its persistent nature and the limited long-term effectiveness of conventional treatment strategies. In recent years, emerging regenerative approaches, such as the use of exosomes and the combination of non-cross-linked hyaluronic acid with succinic acid, have been described in the international literature based on their biological, anti-inflammatory, and tissue microenvironment modulatory properties. In this case report, we present two patients with facial hyperpigmentation of similar etiology who were treated using a combined protocol based on plant-derived exosomes and non-cross-linked hyaluronic acid plus succinic acid. We describe the treatment protocol, follow-up, and the final clinical outcomes observed.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Corvalan Valentina",
+        "Mercado Victor",
+        "Amin Marta"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41641180/"
+    },
+    {
+      "pmid": "41460316",
+      "title": "Development and optimization of asiaticoside co-crystal-loaded transdermal patch for topical therapy.",
+      "abstract": "The objective of this study was to develop and optimize a transdermal patch incorporating asiaticoside co-crystals to enhance solubility, mechanical properties, and sustained release for effective topical therapy in wound management. Asiaticoside co-crystals were prepared by the solvent evaporation method using ethanol-water (70:30) with succinic acid (1:1 molar ratio) as co-former and incorporated into hydrogel-based transdermal patches using HPMC K100M and PEG 400. A 3",
+      "year": "2026",
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "authors": [
+        "Siddheshwar Suhas Shivaji",
+        "Atkare Omkar",
+        "Ghorpade Arti Changdev",
+        "Ghogare Rajashri",
+        "Mankar Someshwar Dattatraya"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Transdermal Patch",
+        "Triterpenes",
+        "Drug Liberation",
+        "Wound Healing",
+        "Administration, Cutaneous",
+        "Male",
+        "Solubility",
+        "Skin",
+        "Polyethylene Glycols"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41460316/"
+    },
+    {
+      "pmid": "41448880",
+      "title": null,
+      "abstract": null,
+      "year": "2026",
+      "journal": "Gut",
+      "authors": [
+        "Tan Huishi",
+        "Huang Linwen",
+        "Wang Jun",
+        "Huang Hongli",
+        "Lin Zelong"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Extracellular Traps",
+        "Mice",
+        "Humans",
+        "Colitis-Associated Neoplasms",
+        "Colitis, Ulcerative",
+        "Disease Models, Animal",
+        "Neutrophils",
+        "Male",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41448880/"
+    },
+    {
+      "pmid": "41345752",
+      "title": "Plastic film biodegradation using Stutzerimonas stutzeri with metal nanoparticles as degradation enhancers-A bioeconomic approach.",
+      "abstract": "Worldwide, one third of waste accumulation was shared by solid waste plastic bags which play a major role in manufacturing and packaging industries. Mismanage of waste plastics results in soil absorption and leads to soil infertility and structural degradation of soil. Biodegradation of plastic films enlighten the microbial activity towards plastic treatment without harming the ecosystem. Advancement towards biodegradation with aid of nanoparticles as degradation enhancer provides a synergistic approach to mitigate the plastic pollution. In this study, plastic degrading microorganisms were isolated from agriculture soil and metal nanoparticles such as Zinc oxide (ZnO) and Zinc-Magnesium oxide (ZnO-MgO) nanoparticles were synthesized using Co-precipitation method. Thus prepared inorganic metal nanoparticles were subsequently added to enhance the microbial degradation action. The synthesised nanoparticles appeared as hexagonal nanoflakes with a size range of 32.8 and 35 nm respectively. The isolated strain from the soil Stutzerimonas stutzeri, a gram negative bacterium was identified using 16S rRNA sequencing technique. The plastic films treated with isolated strain, showed 65% of degradation efficiency rate in the presence of synthesised nanoparticles as enhancers. SEM analysis confirmed the bacterial adhesion and revealed significant structural damage such as cracks, pits, holes and erosion in plastic film. FT-IR analysis revealed the presence of functional groups such as carbonyl (C=O) and (-CH) stretching at 1076 cm",
+      "year": "2025",
+      "journal": "Biodegradation",
+      "authors": [
+        "Purushothaman Mohanapriya",
+        "Manivannan Karthikeyan",
+        "Munusamy Chamundeeswari"
+      ],
+      "mesh_terms": [
+        "Biodegradation, Environmental",
+        "Metal Nanoparticles",
+        "Plastics",
+        "Pseudomonas stutzeri",
+        "Soil Microbiology",
+        "Zinc Oxide"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41345752/"
+    }
+  ],
+  "crawled_at": "2026-08-16T21:26:54.984988",
+  "source": "pubmed"
+}
