@@ -1,0 +1,147 @@
+{
+  "ingredient_a": "glutathione",
+  "ingredient_b": "centella",
+  "query": "(\"glutathione\"[Title/Abstract] AND \"centella\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 6,
+  "articles": [
+    {
+      "pmid": "40659547",
+      "title": "Enhanced Skin-Protective Effects of a Novel ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "Journal of microbiology and biotechnology",
+      "authors": [
+        "Ko Kayoung",
+        "Cheon Ga Yeong",
+        "Ha Yeon Ji",
+        "Ko Ye Rin",
+        "Kim Jeong Hwan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Centella",
+        "Antioxidants",
+        "Keratinocytes",
+        "Skin",
+        "Plant Extracts",
+        "HaCaT Cells",
+        "Collagen",
+        "Triterpenes",
+        "Polyphenols"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40659547/"
+    },
+    {
+      "pmid": "40001970",
+      "title": "Protective Effects of ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "Biology",
+      "authors": [
+        "Tan Yu",
+        "Hu Ailing",
+        "Lu Jingya",
+        "Lin Yunhai",
+        "Li Xuejing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40001970/"
+    },
+    {
+      "pmid": "38671930",
+      "title": "Comparison of the Antioxidant Potency of Four Triterpenes of ",
+      "abstract": "We comparatively evaluated the antioxidant properties of key triterpenes from ",
+      "year": "2024",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Lim Jinyeong",
+        "Lee Hana",
+        "Hong Seonghwa",
+        "Lee Junsoo",
+        "Kim Younghwa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38671930/"
+    },
+    {
+      "pmid": "30404969",
+      "title": "Tunisian Clematis flammula Essential Oil Enhances Wound Healing: GC-MS Analysis, Biochemical and Histological Assessment.",
+      "abstract": "The aerial part of Clematis flammula (Ranunculaceae) has been traditionally used in the treatment of skin diseases including mycotic infection in the Tunisian traditional medicine. The study was undertaken to extract and determine the essential oil chemical composition of Clematis flammula aerial parts and to assess the potential of anemonin in wound healing on mechanically wounded wistar rats. The essential oil was obtained by hydrodistillation and analyzed by GC-MS. Anemonin was isolated and then incorporated as active in a cream for which the cytotoxicity was evaluated by methyl thiazolyl tetrazolium (MTT)-based colorimetric assay. Then, its potential in wound healing on mechanically wounded wistar rats was assessed. The GC-MS analysis showed that the major compound was protoanemonin (86.74%) which spontaneously dimerised in part to form the anemonin. The wound healing activity of anemonin cream exhibited a non toxic potential of anemonin at a concentration of 25 µg/mL with a cell migration efficiency that reaches more than 80% after 48 hours of treatment. Wound healing efficiency was evaluated by monitoring morphological and skin histological analyses. Comparable wound surface reduction of the group treated by anemonin cream (p ≥ 0.05) when compared to the reference treated group. The skin histological analysis showed the completely wound closure. Antioxidant activity was assessed by the malondialdehyde (MDA) rates and antioxidant enzymes (glutathione peroxidase (GPx) and catalase) determination. The results provided strong support for the effective wound healing activity of anemonin cream, making it a promising candidate as a therapeutic agent in tissue repairing processes.",
+      "year": "2018",
+      "journal": "Journal of oleo science",
+      "authors": [
+        "Saidi Rakia",
+        "Ghrab Ferdaws",
+        "Kallel Rim",
+        "Feki Abdelfattah El",
+        "Boudawara Tahya"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Animals",
+        "Antioxidants",
+        "Catalase",
+        "Clematis",
+        "Female",
+        "Furans",
+        "Gas Chromatography-Mass Spectrometry",
+        "Glutathione Peroxidase",
+        "Malondialdehyde"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30404969/"
+    },
+    {
+      "pmid": "18484522",
+      "title": "Madecassoside isolated from Centella asiatica herbs facilitates burn wound healing in mice.",
+      "abstract": "The current study was designed to investigate the effect of madecassoside, the major triterpene in CENTELLA ASIATICA, on burn wound healing and its possible mechanism of action. An oral administration of madecassoside (6, 12, 24 mg/kg) facilitated wound closure in a time-dependent manner and reached its peak effect, nearly completely wound closure, on day 20 in the group receiving the highest dose of 24 mg/kg of madecassoside. Further histopathological analysis revealed that madecassoside alleviated infiltration of inflammatory cells as well as enhanced epithelisation resulting from dermal proliferation of fibroblasts. Madecassoside at higher doses (12 and 24 mg/kg) decreased nitric oxide (NO) levels and malondialdehyde (MDA) content in the burn skin tissue. However, reduced glutathione (GSH) and hydroxyproline levels were increased in the same skin tissue. In addition, madecassoside promoted skin angiogenesis IN VIVO, correlating with our findings IN VITRO that it stimulated endothelial cell growth in a rat aortic ring assay. These data suggest that madecassoside has significant wound-healing activity and is one of the major reasons for the use of C. ASIATICA herbs in the successful treatment of burn injury. Moreover, the results from the present study indicate that the effect of madecassoside on wound healing may involve several mechanisms including antioxidative activity, collagen synthesis and angiogenesis.",
+      "year": "2008",
+      "journal": "Planta medica",
+      "authors": [
+        "Liu Mei",
+        "Dai Yue",
+        "Li Ying",
+        "Luo Yubin",
+        "Huang Fang"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Burns",
+        "Centella",
+        "Collagen",
+        "Lipid Peroxidation",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Neovascularization, Physiologic",
+        "Phytotherapy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/18484522/"
+    },
+    {
+      "pmid": "10189951",
+      "title": "Asiaticoside-induced elevation of antioxidant levels in healing wounds.",
+      "abstract": "Asiaticoside derived from the plant Centella asiatica is known to possess good wound healing activity. Enhanced healing activity has been attributed to increased collagen formation and angiogenesis. Since antioxidants have been reported to play a significant role in the wound healing process we studied the effect of asiaticoside on the levels of certain antioxidants in the wound so as to explore the possible involvement of such a mechanism in the asiaticoside induced wound healing. Asiaticoside application (0.2%, topical) twice daily for 7 days to excision-type cutaneous wounds in rats led to increased enzymatic and non-enzymatic antioxidants, namely superoxide dismutase (35%), catalase (67%), glutathione peroxidase (49%), vitamin E (77%) and ascorbic acid (36%) in newly formed tissues. It also resulted in a several fold decrease in lipid peroxide levels (69%) as measured in terms of thiobarbituric acid reactive substance. However, continued application for 14 days showed no significant difference in these antioxidants compared with their values in vehicle treated wound tissue. It appears from the present study that asiaticosides enhanced induction of antioxidant levels at an initial stage of healing which may be an important contributory factor in the healing properties of this substance.",
+      "year": "1999",
+      "journal": "Phytotherapy research : PTR",
+      "authors": [
+        "Shukla A",
+        "Rasik A M",
+        "Dhawan B N"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Infective Agents",
+        "Antioxidants",
+        "Ascorbic Acid",
+        "Catalase",
+        "Glutathione",
+        "Glutathione Peroxidase",
+        "India",
+        "Male",
+        "Malondialdehyde"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/10189951/"
+    }
+  ],
+  "crawled_at": "2026-08-17T21:35:53.407804"
+}

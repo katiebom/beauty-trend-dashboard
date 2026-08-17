@@ -1,0 +1,326 @@
+{
+  "ingredient_a": "ceramide",
+  "ingredient_b": "hyaluronic acid",
+  "query": "(\"ceramide\"[Title/Abstract] AND \"hyaluronic acid\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "41658751",
+      "title": "Oryza Ceramax in Dermatologic Care: A Multi-pathway Approach to Skin Hydration and Barrier Repair.",
+      "abstract": "Environmental stressors, including climate change, pollution, and lifestyle factors, can disrupt the skin barrier, leading to dryness and exacerbating conditions such as atopic dermatitis (AD), acne, and psoriasis. Effective barrier repair requires maintaining hydration and lipid balance, particularly the ceramide-cholesterol-fatty acid ratio of 3:1:1, which is recommended by dermatological societies for optimal skin restoration. Although traditional moisturizers provide hydration through occlusives, humectants, and emollients, they often do not achieve sustained barrier repair or adequate intracellular hydration. Next-generation moisturizers are designed with bioactive ingredients that aim to both hydrate and support barrier repair by reducing inflammation, modulating the microbiome, and promoting skin homeostasis. Oryza Ceramax (Alaina Healthcare; Alembic Pharmaceuticals Pvt. Ltd., Vadodara, India), a next-generation moisturizer incorporating a 3:1:1 ceramide-cholesterol-fatty acid ratio, includes aquaporin (AQP) boosters, naturally sourced betaine, saffron extract, hyaluronic acid, and other bioactive components that resemble the skin's natural lipid composition. Clinical evidence supports the efficacy of ceramide-dominant formulations in improving hydration and reducing transepidermal water loss (TEWL), with studies reporting TEWL reductions of approximately 10% and hydration improvement lasting up to 72 hours. Oryza Ceramax is formulated to align with dermatologic recommendations for use in dry or impaired skin and is free from parabens, alcohol, mineral oil, and soap (PAMS-free). Its formulation characteristics are consistent with evidence-based principles for skin barrier protection and hydration maintenance. This narrative review examines the science underlying multi-pathway approaches to skin barrier repair and hydration, using Oryza Ceramax as an example of a ceramide- and AQP-based formulation. The findings highlight emerging strategies in moisturizer design but also emphasize the need for independent, well-controlled clinical studies to validate these observations.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "De Abhishek",
+        "Sarveswari K N",
+        "Tolat Sunil",
+        "Hameed Sunaina",
+        "Bhat Shilpa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41658751/"
+    },
+    {
+      "pmid": "41516082",
+      "title": "Oral ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Choi Yean Jung",
+        "Cho Eun-Chae",
+        "Lim Seungtae",
+        "Lee Jaemin",
+        "Bae Jaewoo"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ultraviolet Rays",
+        "Skin Aging",
+        "Mice, Hairless",
+        "Antioxidants",
+        "Mice",
+        "Anti-Inflammatory Agents",
+        "Centella",
+        "Triterpenes",
+        "Extracellular Matrix"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41516082/"
+    },
+    {
+      "pmid": "41319169",
+      "title": "Investigation into the delivery and evaluation of a unique Avena sativa (Oat) Lipid Extract on skin barrier using LC‒MS/MS, Raman spectroscopy, immunostaining analysis and skin efficacy.",
+      "abstract": "Oat lipids are rich in ceramides. In this investigation, we analysed the delivery of a specific Oat Lipid Extract derived from Avena sativa, comprising 'skin identical' ratios of fatty acids, ceramides and cholesterol/sterol. This investigation is the first reported investigation of oat lipids utilizing Raman spectroscopy for the identification of oat ceramides from A. sativa supported by Lipbarvis®, transmission electron microscopy and immunofluorescence analysis.",
+      "year": "2026",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Gombert E",
+        "Dewis C"
+      ],
+      "mesh_terms": [
+        "Avena",
+        "Humans",
+        "Spectrum Analysis, Raman",
+        "Skin",
+        "Tandem Mass Spectrometry",
+        "Plant Extracts",
+        "Lipids",
+        "Chromatography, Liquid",
+        "Liquid Chromatography-Mass Spectrometry",
+        "Ceramides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41319169/"
+    },
+    {
+      "pmid": "39710589",
+      "title": "Effect of the SGLT2 inhibitor ipragliflozin on the expression of genes that regulate skin function.",
+      "abstract": "Skin disorders occur more frequently with sodium-dependent glucose cotransporter type 2 (SGLT2) inhibitors than with other antidiabetic drugs. We conducted basic research using ipragliflozin, with the aim of identifying new measures to prevent skin disorders caused by SGLT2 inhibitors.",
+      "year": "2025",
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+      "authors": [
+        "Ikarashi Nobutomo",
+        "Tabata Keito",
+        "Shinozaki Yui",
+        "Kon Risako",
+        "Sakai Hiroyasu"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Glucosides",
+        "Thiophenes",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Mice",
+        "Skin",
+        "Male",
+        "Filaggrin Proteins",
+        "Diabetes Mellitus, Type 2",
+        "Hypoglycemic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39710589/"
+    },
+    {
+      "pmid": "39682897",
+      "title": "Effect of Ceramides Derivatives from the Peach on Skin Function Improvement in UV-Irradiated Hairless Mice.",
+      "abstract": "This study investigated the protective effects of a ceramides derivates from the peach (PF3) on photoaging by UV-irradiated hairless mice. Mice were randomly divided into seven groups: AIN93G without UVB exposure (normal control, NC), AIN93G with UVB exposure (control, C), AIN93G supplemented 100 mg/kg body weight (BW) of L-ascorbic acid with UVB exposure (AA), AIN93G supplemented 100 mg/kg BW of arbutin with UVB exposure (Arbutin), AIN93G supplemented 10 mg/kg BW of PF3 with UVB exposure (10PF3), AIN93G supplemented 20 mg/kg BW of PF3 with UVB exposure (20PF3), and AIN93G supplemented 40 mg/kg BW of PF3 with UVB exposure (40PF3). The study examined the impact of PF3 on skin hydration, wrinkle formation, and melanogenesis using enzyme-linked immunosorbent assay (ELISA), real-time polymerase chain reaction (real-time PCR), and Western blot analysis. The PF3 demonstrated significant protective effects against photoaging by reducing skin wrinkle formation, decreasing epidermal and dermal thickening, and improving skin hydration. It also enhanced the expression of moisture-related factors (hyaluronic acid synthase [HAS], long-chain ceramides [LCBs], dihydroceramide desaturase 1 [DEGS1], and type I collagen [COL1A]) and antioxidant enzyme activities while reducing pro-inflammatory cytokines and oxidative stress markers. The PF3 supplementation positively modulated skin wrinkle formation-related factors, increasing collagen-related gene expression and decreasing matrix metalloproteinases. Additionally, PF3 showed potential in regulating melanogenesis by reducing the nitric oxide and cAMP content, as well as the expression of melanogenesis-related proteins. These comprehensive findings suggest that PF3 supplementation may be an effective strategy for preventing and treating UVB-induced skin photoaging through multiple mechanisms, including improved skin structure, hydration, antioxidant defense, and reduced inflammation and pigmentation.",
+      "year": "2024",
+      "journal": "Foods (Basel, Switzerland)",
+      "authors": [
+        "Kim Jinhee",
+        "Lee Minhee",
+        "Cho Wonhee",
+        "Yoo Eunhee",
+        "Kim Jinhak"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39682897/"
+    },
+    {
+      "pmid": "39263267",
+      "title": "Significantly Enhanced Improvement in Dryness, Roughness, Fine Lines and Radiance Following Daily Use of a Novel Multi-Weight Hyaluronic Acid Plus Antioxidant Complex-Based Lotion Compared to a Single-Weight HA Plus Ceramide-Based Lotion.",
+      "abstract": "Hyaluronic acid (HA) has become a commonly used ingredient in topical moisturizing products; however, limitations of delivery of HA to only the surface of skin have hindered leveraging the full capacity of HA for skin rejuvenation. Here, we aimed to evaluate the clinical benefits of a multi-weight HA plus antioxidant complex-based lotion with SPF 30 compared to a single-weight HA plus ceramide-based lotion with SPF 30.",
+      "year": "2024",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "Mariwalla Kavita",
+        "Zeichner Joshua",
+        "Folsom-Kovarik Michael",
+        "Yousefian Omid",
+        "Arrowitz Craig"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39263267/"
+    },
+    {
+      "pmid": "38616504",
+      "title": "Effects on keratinocytes of the traditional combination of herb extract (Royal Oji Complex) implicated the improvement of young children's skin moisture and barrier.",
+      "abstract": "Natural products are often friendly and can be used on children's skin after systematic and careful research. Therefore, in this study, the Royal Oji Complex (ROC), a product with natural ingredients, was used to study their effectiveness on keratinocytes taken from the skin of children from 0 to 3 years old.",
+      "year": "2024",
+      "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+      "authors": [
+        "Trinh Thuy-Tien Thi",
+        "Choi Jae Hee",
+        "Yang Jee-Eun",
+        "Kim Woon Ha",
+        "Chien Pham Ngoc"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Infant",
+        "Humans",
+        "Child, Preschool",
+        "Infant, Newborn",
+        "Skin",
+        "Keratinocytes",
+        "Epidermis",
+        "Ceramides",
+        "Tissue Donors"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38616504/"
+    },
+    {
+      "pmid": "38579153",
+      "title": "Indian Gooseberry and Barley Sprout Complex Prevent Oxidative Stress and Photoaging of the Skin in Ultraviolet B-Irradiated SHK-I Mice.",
+      "abstract": "This study investigated the protective effects of a complex of Indian gooseberry and barley sprout (IB complex) on oxidative stress and skin damage caused by ultraviolet B irradiation in SHK-I hairless mice. The study examined the impact of IB complex on skin hydration, wrinkle formation, and melanogenesis using enzyme-linked immunosorbent assay, real-time polymerase chain reaction, and western blot analysis. The IB complex reduced skin hydration loss and wrinkle formation, while also demonstrating enhanced antioxidant activities. The IB complex maintained skin hydration via upregulation of hyaluronic acid and ceramide synthesis, including the regulation of hyaluronic acid synthase, long-chain ceramide formation, dihydroceramide desaturase 1 activity, and type I collagen production. The IB complex prevented wrinkle formation via downregulating JNK and upregulating TGF-β pathways. Moreover, IB complex blocked melanin production via inhibition of protein kinase A, cAMP response element-binding protein, and microphthalmia-associated transcription factor pathways. These results suggest that IB complex is a potential agent to protect the skin against photodamage caused by exposure to UVB radiation. The research protocols underwent approval from the Institutional Animal Care and Use Committee of Kyung Hee University (KHGASP-21-577), ensuring compliance with ethical standards.",
+      "year": "2024",
+      "journal": "Journal of medicinal food",
+      "authors": [
+        "Lee Minhee",
+        "Kim Dakyung",
+        "Park Mi-Ryeong",
+        "Kim Soyoung",
+        "Kim Jong-Lae"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ultraviolet Rays",
+        "Mice, Hairless",
+        "Oxidative Stress",
+        "Skin Aging",
+        "Mice",
+        "Hordeum",
+        "Skin",
+        "Plant Extracts",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38579153/"
+    },
+    {
+      "pmid": "38344440",
+      "title": "Revolutionizing Psoriasis Topical Treatment: Enhanced Efficacy Through Ceramide/Phospholipid Composite Cerosomes Co-Delivery of Cyclosporine and Dithranol: In-Vitro, Ex-Vivo, and in-Vivo Studies.",
+      "abstract": "Improving the treatment of psoriasis is a serious challenge today. Psoriasis is an immune-mediated skin condition affecting 125 million people worldwide. It is commonly treated with cyclosporine-A (CsA) and dithranol (DTH). CsA suppresses the activation of T-cells, immune cells involved in forming psoriatic lesions. Meanwhile, DTH is a potent anti-inflammatory and anti-proliferative drug that effectively reduces the severity of psoriasis symptoms such as redness, scaling, and skin thickness. CsA and DTH belong to BCS class II with limited oral bioavailability. We aim to develop a drug delivery system for topical co-delivery of CsA and DTH, exploring its therapeutic potential.",
+      "year": "2024",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Elhabal Sammar Fathy",
+        "Abdelaal Nashwa",
+        "Al-Zuhairy Saeed A S",
+        "Mohamed Elrefai Mohamed Fathi",
+        "Khalifa Mohamed Mansour"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Mice",
+        "Anthralin",
+        "Cyclosporine",
+        "Phospholipids",
+        "Ceramides",
+        "Administration, Cutaneous",
+        "Psoriasis",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38344440/"
+    },
+    {
+      "pmid": "38087767",
+      "title": "Effect of the gut microbiota on the expression of genes that are important for maintaining skin function: Analysis using aged mice.",
+      "abstract": "The gut microbiota changes greatly at the onset of disease, and the importance of intestinal bacteria has been highlighted. The gut microbiota also changes greatly with aging. Aging causes skin dryness, but it is not known how changes in the gut microbiota with aging affects the expression of genes that are important for maintaining skin function. In this study, we investigated how age-related changes in gut microbiota affect the expression of genes that regulate skin function. The gut microbiotas from young mice and aged mice were transplanted into germ-free mice (fecal microbiota transplantation [FMT]). These recipient mice were designated FMT-young mice and FMT-old mice respectively, and the expression levels of genes important for maintaining skin function were analyzed. The dermal water content was significantly lower in old mice than that in young mice, indicating dry skin. The gut microbiota significantly differed between old mice and young mice. The water channel aquaporin-3 (Aqp3) expression level in the skin of FMT-old mice was significantly higher than that in FMT-young mice. In addition, among the genes that play an important role in maintaining skin function, the expression levels of those encoding ceramide-degrading enzyme, ceramide synthase, hyaluronic acid-degrading enzyme, and Type I collagen were also significantly higher in FMT-old mice than in FMT-young mice. It was revealed that the gut microbiota, which changes with age, regulates the expression levels of genes related to skin function, including AQP3.",
+      "year": "2024",
+      "journal": "The Journal of dermatology",
+      "authors": [
+        "Tabata Keito",
+        "Ikarashi Nobutomo",
+        "Shinozaki Yui",
+        "Yoshida Ryotaro",
+        "Kon Risako"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Gastrointestinal Microbiome",
+        "Fecal Microbiota Transplantation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38087767/"
+    },
+    {
+      "pmid": "37840567",
+      "title": "Taurine accelerates the synthesis of ceramides and hyaluronic acid in cultured epidermis and dermal fibroblasts.",
+      "abstract": "Taurine is a sulfur-containing amino acid derivative that can be found in the majority of mammalian tissues. Taurine is also present in the skin and is involved in maintaining skin homeostasis by exerting osmoregulatory and antioxidant effects. Previous studies have indicated that taurine treatment is effective against age-, ultraviolet- or detergent-induced skin dysfunction. To determine the mechanism responsible for the beneficial actions of taurine in the skin, the present study aimed to evaluate the effects of taurine on epidermal components (ceramides and filaggrin) and on the dermal extracellular matrix, in three-dimensionally (3D) cultured epidermis and dermal fibroblasts, respectively. These cells were cultured in the presence of 3-50 mM taurine, and cells or culture medium were collected for analysis. The effects of taurine on transepidermal water loss (TEWL) in the skin and the expression of inflammatory cytokines, including IL-1α, IL-1β and IL-1 receptor antagonist, were investigated in acetone-treated 3D-cultured epidermis using a Tewameter and reverse transcription-quantitative PCR (RT-qPCR), respectively. The mRNA expression levels of MMP-1 and hyaluronic acid (HA) production were measured in skin dermal fibroblasts using RT-qPCR and ELISA, respectively. Taurine was found to suppress acetone-induced elevation in TEWL in 3D-cultured epidermis. Taurine also stimulated the mRNA expression of ceramide synthase 4 and filaggrin, a major structural protein in the stratum corneum, in 3D-cultured epidermis. In skin dermal fibroblasts, taurine inhibited the IL-1α-stimulated mRNA and protein expression of MMP-1. In addition, taurine treatment increased HA synthase-2 mRNA expression and in turn HA production. Results from the present study suggest that the protective effect of taurine on the skin is associated with the enhancement of epidermal barrier component expression and modulation of dermal extracellular matrix metabolism.",
+      "year": "2023",
+      "journal": "Experimental and therapeutic medicine",
+      "authors": [
+        "Yoshimura Tomohisa",
+        "Manabe Chika",
+        "Nagumo Jun-Ichiro",
+        "Nagahama Tohru",
+        "Sato Takashi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37840567/"
+    },
+    {
+      "pmid": "37066027",
+      "title": "Gly-Pro-Val-Gly-Pro-Ser Peptide Fish Collagen Improves Skin Moisture and Wrinkles with Ameliorated the Oxidative Stress and Pro-inflammatory Factors in Skin Photoaging Mimic Models.",
+      "abstract": "This study aimed to investigate whether low molecular fish collagen peptide (FC) from ",
+      "year": "2023",
+      "journal": "Preventive nutrition and food science",
+      "authors": [
+        "Cho Wonhee",
+        "Park Jeongjin",
+        "Lee Minhee",
+        "Park Seong-Hoo",
+        "Jung Jaeeun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37066027/"
+    },
+    {
+      "pmid": "36721753",
+      "title": "Fish Collagen Peptide (Naticol",
+      "abstract": "Consistent ultraviolet B (UVB) radiation exposure results in dry skin, wrinkles, and melanogenesis. In this study, we investigated whether fish collagen peptide (Naticol",
+      "year": "2022",
+      "journal": "Preventive nutrition and food science",
+      "authors": [
+        "Lee Minhee",
+        "Kim Dakyung",
+        "Park Seong-Hoo",
+        "Jung Jaeeun",
+        "Cho Wonhee"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36721753/"
+    },
+    {
+      "pmid": "36139878",
+      "title": "Glucocerebroside-Containing Milk Concentrated Powder Suppresses Oxidative Stress and Photoaging in the Skin of Hairless Mice.",
+      "abstract": "This study investigated the protective effects of glucocerebroside-containing buttermilk concentrated powder (GCBM) on oxidative stress and photoaging in ultraviolet B (UVB)-irradiated hairless mice. We measured antioxidant enzyme activities, collagen synthesis-related pathways, and moisturizing-related factors in the dorsal skin of mice. We observed that dietary supplementation with GCBM increased antioxidant enzyme activity and decreased pro-inflammatory cytokine expression in the UVB-irradiated dorsal skin. Furthermore, dietary supplementation with GCBM inhibited wrinkle formation by suppressing the JNK/c-FOS/c-Jun/MMP pathway and stimulating the TGF-βRI/Smad3/procollagen type I pathway. Dietary supplementation with GCBM also increased skin moisturization by stimulating hyaluronic acid and ceramide synthesis in the dorsal skin. Therefore, buttermilk powder supplementation helps prevent photoaging and can be used as an effective component in developing anti-photoaging products.",
+      "year": "2022",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Kim Dakyung",
+        "Choi Eun-Hye",
+        "Lee Ju Young",
+        "See Hye-Jeong",
+        "Kim Hye-Jin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36139878/"
+    },
+    {
+      "pmid": "36047012",
+      "title": "Repurposing levocetirizine hydrochloride loaded into cationic ceramide/phospholipid composite (CCPCs) for management of alopecia: central composite design optimization, ",
+      "abstract": "Levocetirizine hydrochloride (LVC) is an antihistaminic drug that is repurposed for the treatment of alopecia. This investigation is targeted for formulating LVC into cationic ceramide/phospholipid composite (CCPCs) for the management of alopecia. CCPCs were fabricated by ethanol-injection approach, through a central composite experiment. CCPCs were evaluated by inspecting their entrapment efficiency (EE%), polydispersity index (PDI), particle size (PS), and zeta potential (ZP). The optimum CCPCs were additionally studied by ",
+      "year": "2022",
+      "journal": "Drug delivery",
+      "authors": [
+        "Albash Rofida",
+        "El-Dahmy Rania Moataz",
+        "Hamed Mohammed I A",
+        "Darwish Khaled M",
+        "Alahdal Abdulrahman M"
+      ],
+      "mesh_terms": [
+        "Alopecia",
+        "Ceramides",
+        "Cetirizine",
+        "Drug Carriers",
+        "Drug Repositioning",
+        "Humans",
+        "Particle Size",
+        "Phospholipids"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36047012/"
+    }
+  ],
+  "crawled_at": "2026-08-17T21:36:02.776710"
+}

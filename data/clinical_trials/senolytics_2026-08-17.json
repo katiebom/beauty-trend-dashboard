@@ -1,0 +1,856 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 24,
+  "trials": [
+    {
+      "nct_id": "NCT07547423",
+      "title": "Auricular Laser Acupuncture for Improving Sleep in Breast Cancer Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer Females",
+        "Insomnia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "auricular laser acupuncture"
+        },
+        {
+          "type": "DEVICE",
+          "name": "sham auricular laser acupuncture"
+        }
+      ],
+      "sponsor": "CHING-RONG HUANG",
+      "primary_completion": "2027-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07547423"
+    },
+    {
+      "nct_id": "NCT07736651",
+      "title": "Anti Inflammatory Diet With Physical Therapy on Psoriasis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Anti-Inflammatory Diet (Gluten-Free, Low-Histamine)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Physical Therapy Program"
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard Dermatologic Care"
+        }
+      ],
+      "sponsor": "Mahmoud Usama Mahmoud Ahmed",
+      "primary_completion": "2026-09-15",
+      "url": "https://clinicaltrials.gov/study/NCT07736651"
+    },
+    {
+      "nct_id": "NCT06800131",
+      "title": "Hepatitis B Vaccine Delivered Trans-dermally by MAP",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hepatitis B Vaccine"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Hepatitis B Vaccine administered trans-dermally via Microneedle Array Patch (MAP)"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Active comparator vaccine via intramuscular injection"
+        }
+      ],
+      "sponsor": "International Vaccine Institute",
+      "primary_completion": "2026-08-05",
+      "url": "https://clinicaltrials.gov/study/NCT06800131"
+    },
+    {
+      "nct_id": "NCT07127796",
+      "title": "Non-inferiority RCT on Fish Waste-Derived vs. Synthetic Vitamin D Supplementation in Healthy Adults With Suboptimal Vitamin D Levels",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Vitamin D",
+        "Dietary Supplement"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Dietary Supplement - Fish-derived Vitamin D"
+        },
+        {
+          "type": "OTHER",
+          "name": "Dietary Supplement - Synthetic Vitamin D"
+        }
+      ],
+      "sponsor": "University of Bologna",
+      "primary_completion": "2027-09-10",
+      "url": "https://clinicaltrials.gov/study/NCT07127796"
+    },
+    {
+      "nct_id": "NCT05907746",
+      "title": "Allogeneic Hematopoietic Stem Cell Transplantation With Briquilimab-Based Conditioning in Participants With GATA2 Deficiency",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "GATA2",
+        "Immunodeficiency"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Mycophenolate Mofetil"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tacrolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Post-Transplant Cyclophosphamide"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Total Body Irradiation"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Hematopoietic Cell Transplant"
+        },
+        {
+          "type": "DRUG",
+          "name": "Briquilimab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Bone Marrow Biopsy"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Bone Marrow Aspirate"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "2D echo"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "EKG"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "PFT's"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "CT scan of chest, abdomen and pelvis"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2025-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT05907746"
+    },
+    {
+      "nct_id": "NCT06548646",
+      "title": "Ultrasound-guided Thoracic Interfascial Plane Nerve Block Versus Erector Spinae Plane Block for Pain Control After Modified Radical Mastectomy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postoperative Pain Following Modified Radical Mastectomy for Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Thoracic Interfascial Plane Block"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Erector Spinae Plane Block"
+        }
+      ],
+      "sponsor": "Safie ramez tewfeik abd el moneim",
+      "primary_completion": "2025-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT06548646"
+    },
+    {
+      "nct_id": "NCT06473194",
+      "title": "This Study Assess Some Physiological Parameters, Blood Picture, and Hemodynamic Parameters, Blood Pressure, Respiratory Assess by SPO2, During Different Periods in Laparoscopic Surgery",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anesthesia Complication",
+        "Physiological Parameter"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "general anesthesia drug (like Propofol, esmeron, and ketamin, .effects of pneumoperitoneum"
+        }
+      ],
+      "sponsor": "Mohammed Abdulhameed",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT06473194"
+    },
+    {
+      "nct_id": "NCT07250815",
+      "title": "A Study on Infections in Adults With Ulcerative Colitis/Crohn's Disease",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Ulcerative Colitis",
+        "Crohn's Disease"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "No intervention"
+        }
+      ],
+      "sponsor": "Takeda",
+      "primary_completion": "2026-12-15",
+      "url": "https://clinicaltrials.gov/study/NCT07250815"
+    },
+    {
+      "nct_id": "NCT06528873",
+      "title": "COMS for Chronic Ulcers Treatment",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Venous Leg Ulcer",
+        "Wound Heal",
+        "Magnetic Field Exposure"
+      ],
+      "interventions": [
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "Concurrent optical and magnetic stimulation (COMS) treatment"
+        }
+      ],
+      "sponsor": "Sebastian Probst",
+      "primary_completion": "2026-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT06528873"
+    },
+    {
+      "nct_id": "NCT07345208",
+      "title": "Safety and Immunogenicity of ID vs IM Rabies Vaccine",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rabies"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rabies vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rabies vaccine"
+        }
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "primary_completion": "2027-05-15",
+      "url": "https://clinicaltrials.gov/study/NCT07345208"
+    },
+    {
+      "nct_id": "NCT06980688",
+      "title": "The PROTECT Trial: PROpofol Titration to Enhance haemodynamiC sTability",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anesthesia"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Propofol titration"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Conventional propofol induction"
+        }
+      ],
+      "sponsor": "University Hospital, Basel, Switzerland",
+      "primary_completion": "2027-09",
+      "url": "https://clinicaltrials.gov/study/NCT06980688"
+    },
+    {
+      "nct_id": "NCT07335003",
+      "title": "Study of the Photoprotection and Prevention of Actinic Damage With Anthelios Fluide 100 KA+ UVMune 400 in Patients With Multiple Actinic Keratoses",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Actinic Keratosis (AK)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Tested product group"
+        },
+        {
+          "type": "OTHER",
+          "name": "Control group"
+        }
+      ],
+      "sponsor": "Cosmetique Active International",
+      "primary_completion": "2029-03",
+      "url": "https://clinicaltrials.gov/study/NCT07335003"
+    },
+    {
+      "nct_id": "NCT06809166",
+      "title": "Metabolic and Behavioural Effects of CONTRAVE as Potential Mechanisms of Weight Loss in Adults With Obesity",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity",
+        "Weight Loss",
+        "Weight Management",
+        "Dietary Intervention",
+        "Obesity/Therapy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Contrave"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Diet Program"
+        }
+      ],
+      "sponsor": "The Royal's Institute of Mental Health Research",
+      "primary_completion": "2026-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06809166"
+    },
+    {
+      "nct_id": "NCT05289258",
+      "title": "Unified Barlow Protocol (UP) in Cancer Survivors for Cognitive Impairments",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cancer, Breast"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Neuropsychological treatment"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Unified Protocol for the Transdiagnostic Treatment of Emotional Disorders (PU)."
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Waitlist group"
+        }
+      ],
+      "sponsor": "Universidad de Córdoba",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT05289258"
+    },
+    {
+      "nct_id": "NCT07634354",
+      "title": "Sarcopenia and Juvenile Idiopathic Arthritis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Juvenile Idiopathic Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Sarcopenia screening assessment"
+        }
+      ],
+      "sponsor": "CHU de Reims",
+      "primary_completion": "2027-10",
+      "url": "https://clinicaltrials.gov/study/NCT07634354"
+    },
+    {
+      "nct_id": "NCT07200791",
+      "title": "The Effect of Mobile Application-Assisted Nursing Services on Symptom Control in Breast Cancer Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Symptom Management",
+        "Quality of Life"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Mobile Application"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Usual Care Only"
+        }
+      ],
+      "sponsor": "Fenerbahce University",
+      "primary_completion": "2026-04",
+      "url": "https://clinicaltrials.gov/study/NCT07200791"
+    },
+    {
+      "nct_id": "NCT07505329",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Less Than 3 Months Old",
+        "Healthy Infants"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo (maltodextrin)"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Probiotic"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Probiotic"
+        }
+      ],
+      "sponsor": "University College Cork",
+      "primary_completion": "2027-10",
+      "url": "https://clinicaltrials.gov/study/NCT07505329"
+    },
+    {
+      "nct_id": "NCT07137442",
+      "title": "Distinguishing Tics and Functional Tics Using Clinical Neurophysiological Techniques",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Tics",
+        "Functional Tics"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "primary_completion": "2034-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07137442"
+    },
+    {
+      "nct_id": "NCT06904066",
+      "title": "Autologous T Cells Transduced With Retroviral Vectors Expressing TCRs for Participant-specific Neoantigens in Patients With Hematologic Malignancies",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Malignancy, Hematologic",
+        "Neoplasms, Hematologic",
+        "Neoplasms, Hematopoietic",
+        "Blood Cancer",
+        "Hematological Neoplasms",
+        "Hematopoietic Malignancies",
+        "Dysmyelopoietic Syndromes",
+        "Hematopoetic Myelodysplasia",
+        "Myeloid Leukemia, Acute",
+        "Nonlymphoblastic Leukemia, Acute",
+        "Leukemia, Lymphocytic, Acute"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "aldesleukin"
+        },
+        {
+          "type": "DRUG",
+          "name": "cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "fludarabine phosphate"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Individual Patient TCR-Transduced PBL"
+        },
+        {
+          "type": "DEVICE",
+          "name": "TruSight Oncology (TSO) 500"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2029-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT06904066"
+    },
+    {
+      "nct_id": "NCT07574541",
+      "title": "Multitargeted Recombinant Ad5 PSA/MUC-1/Brachyury-Based Immunotherapy (TriAdeno) Vaccine With IL-15 Superagonist N-803 in Participants With Clinically Localized Prostate Cancer Undergoing Active Surveillance",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Adenocarcinoma",
+        "Prostate Cancer",
+        "Neoplasms",
+        "Carcinoma",
+        "Neoplasms, Glandular and Epithelial",
+        "Neoplasms by Histologic Type"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "TriAdeno vaccine"
+        },
+        {
+          "type": "DRUG",
+          "name": "N-803"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2027-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT07574541"
+    },
+    {
+      "nct_id": "NCT07262983",
+      "title": "Evaluating the Safety and Tolerability of Baricitinib in Patients With Job Syndrome With Lupus-Like Disease and/or Atopic Dermatitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hyper IgE Syndrome From STAT3 Mutation",
+        "Job s Syndrome",
+        "HIES",
+        "Lupus",
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "baricitinib"
+        }
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "primary_completion": "2030-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07262983"
+    },
+    {
+      "nct_id": "NCT07711756",
+      "title": "Comparative Study of Adherence to Antibiotic Therapy Among Pediatric Patients: Hospital Emergency Department vs. Primary Care Center",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Tonsillitis Acute",
+        "Pneumonia - Bacterial",
+        "Otitis Media Acute",
+        "Cystitis Acute",
+        "Sinusitis Bacterial",
+        "Pneumonia Atypical",
+        "Impetigo"
+      ],
+      "interventions": [],
+      "sponsor": "University Hospital, Montpellier",
+      "primary_completion": "2028-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07711756"
+    },
+    {
+      "nct_id": "NCT07695259",
+      "title": "Olaparib+Trastuzumab+Pertuzumab Neoadjuvant for Elderly HER2+ Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Elderly Females",
+        "HER2 + Breast Cancer",
+        "Neoadjuvant Therapy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "olaparib combined with trastuzumab and pertuzumab"
+        }
+      ],
+      "sponsor": "Wen-Ming Cao",
+      "primary_completion": "2027-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07695259"
+    },
+    {
+      "nct_id": "NCT07340463",
+      "title": "The Efficacy and Safety of Biologics (Belimumab/ Telitacicept) Induction Therapy in Proliferative Lupus Nephritis Patients for 6 Months Compared With Mycophenolate Mofetil Treatment",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus (SLE)",
+        "Lupus Nephritis (LN)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Glucocorticoids"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "belimumab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Telitacicept"
+        },
+        {
+          "type": "DRUG",
+          "name": "Mycophenolate mofetil (MMF)"
+        }
+      ],
+      "sponsor": "Nanjing University School of Medicine",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT07340463"
+    },
+    {
+      "nct_id": "NCT07275307",
+      "title": "Impact of Prontosan Wound Gel X on Surgical Site Infections in Cardiac Surgery",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Surgical Site Infection After Major Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Application of Prontosan Wound Gel X"
+        }
+      ],
+      "sponsor": "IRCCS Policlinico S. Donato",
+      "primary_completion": "2027-07",
+      "url": "https://clinicaltrials.gov/study/NCT07275307"
+    },
+    {
+      "nct_id": "NCT07657793",
+      "title": "Sirolimus in Patients With Systemic Lupus Erythematosus-Associated Immune Thrombocytopenia",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus",
+        "Immune Thrombocytopenia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Sirolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Chinese SLE Treatment And Research Group",
+      "primary_completion": "2027-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT07657793"
+    },
+    {
+      "nct_id": "NCT06494072",
+      "title": "Short Versus Standard of Care Antibiotic Duration for Children Hospitalized for CAP",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Community Acquired Pneumonia in Children"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ampicillin for Injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Ceftriaxone for Injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Amoxicillin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Ampicillin / Sulbactam Injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Amoxicillin-clavulanate"
+        },
+        {
+          "type": "DRUG",
+          "name": "Clindamycin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cefprozil"
+        },
+        {
+          "type": "DRUG",
+          "name": "Levofloxacin"
+        }
+      ],
+      "sponsor": "Medical College of Wisconsin",
+      "primary_completion": "2028-05",
+      "url": "https://clinicaltrials.gov/study/NCT06494072"
+    },
+    {
+      "nct_id": "NCT03949647",
+      "title": "Collection of Bone Marrow Aspirate From Normal Volunteers",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Normal Aging"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute on Aging (NIA)",
+      "primary_completion": "2050-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03949647"
+    },
+    {
+      "nct_id": "NCT01463072",
+      "title": "Nab-Paclitaxel in Treating Older Patients With Locally Advanced or Metastatic Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Locally Advanced Breast Carcinoma",
+        "Metastatic Breast Carcinoma",
+        "Recurrent Breast Carcinoma",
+        "Stage III Breast Cancer AJCC v7",
+        "Stage IIIA Breast Cancer AJCC v7",
+        "Stage IIIB Breast Cancer AJCC v7",
+        "Stage IIIC Breast Cancer AJCC v7",
+        "Stage IV Breast Cancer AJCC v6 and v7"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Laboratory Biomarker Analysis"
+        },
+        {
+          "type": "DRUG",
+          "name": "Nab-paclitaxel"
+        },
+        {
+          "type": "OTHER",
+          "name": "Questionnaire Administration"
+        }
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "primary_completion": "2017-05-17",
+      "url": "https://clinicaltrials.gov/study/NCT01463072"
+    },
+    {
+      "nct_id": "NCT06614777",
+      "title": "Characterization of the Cytokine Profile and the Microbiome in Darier's Disease",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Darier Disease"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "skin biopsies and blood extraction"
+        }
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "primary_completion": "2025-09-25",
+      "url": "https://clinicaltrials.gov/study/NCT06614777"
+    }
+  ],
+  "fetched_at": "2026-08-17T21:35:51.617130"
+}

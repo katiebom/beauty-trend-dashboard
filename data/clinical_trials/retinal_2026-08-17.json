@@ -1,0 +1,1006 @@
+{
+  "ingredient_id": "retinal",
+  "name_kr": "레티날",
+  "name_en": "Retinal",
+  "query": "(\"Retinal\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 22,
+  "trials": [
+    {
+      "nct_id": "NCT06227962",
+      "title": "Cognitive Functioning and Health Related Quality of Life in Retinoblastoma Survivors",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Retinoblastoma",
+        "Neurocognitive Dysfunction",
+        "Health-Related Behavior"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Neuropsychological assesment"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Psychosocial functioning and quality of life (questionnaires)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Parental psychosocial functioning (questionnaires)"
+        }
+      ],
+      "sponsor": "Amsterdam University Medical Center",
+      "primary_completion": "2026-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT06227962"
+    },
+    {
+      "nct_id": "NCT05991986",
+      "title": "Preparation of Patient Autologous Induced Pluripotent Stem Cell-derived Retinal Cells for AMD",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Age-Related Macular Degeneration"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "somatic cell collection"
+        }
+      ],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT05991986"
+    },
+    {
+      "nct_id": "NCT04118920",
+      "title": "Safety of Topical Insulin Drops for Open-angle Glaucoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Glaucoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Topical insulin (4 units)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Topical insulin (20 units)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Artificial tears"
+        }
+      ],
+      "sponsor": "Centre hospitalier de l'Université de Montréal (CHUM)",
+      "primary_completion": "2024-08-20",
+      "url": "https://clinicaltrials.gov/study/NCT04118920"
+    },
+    {
+      "nct_id": "NCT07388069",
+      "title": "Study of TN-001 Topical Eyedrops for Keratoconus",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Keratoconus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Low-dose TGF-B3 and Dexamethasone Sodium Phosphate"
+        },
+        {
+          "type": "DRUG",
+          "name": "High-dose TGF-B3 and Dexamethasone Sodium Phosphate"
+        }
+      ],
+      "sponsor": "TheiaNova Ltd.",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07388069"
+    },
+    {
+      "nct_id": "NCT06587828",
+      "title": "A Biospecimen Collection Study to Identify the Targets of Disease-Reactive T Cells in Patients With Autoimmune Disease",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Autoimmune Diseases",
+        "Ulcerative Colitis",
+        "Multiple Sclerosis",
+        "Scleroderma",
+        "Ankylosing Spondylitis",
+        "Celiac Disease",
+        "Non-radiographic Axial Spondyloarthritis (Nr-axSpA)",
+        "Crohn&Amp;#39;s Disease",
+        "Birdshot Chorioretinitis"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Companion blood samples with procedure"
+        }
+      ],
+      "sponsor": "TScan Therapeutics, Inc.",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT06587828"
+    },
+    {
+      "nct_id": "NCT03934957",
+      "title": "Hamburg City Health Study - a German Cohort Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Coronary Heart Disease",
+        "Stroke",
+        "Dementia",
+        "Cancer",
+        "Health Care",
+        "Vascular Diseases",
+        "Periodontal Diseases",
+        "Ocular Diseases",
+        "Respiratory Disease",
+        "Obesity"
+      ],
+      "interventions": [],
+      "sponsor": "Universitätsklinikum Hamburg-Eppendorf",
+      "primary_completion": "2022-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03934957"
+    },
+    {
+      "nct_id": "NCT06500728",
+      "title": "Visual Involvement in Giant Cell Arteritis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Giant Cell Arteritis",
+        "Visual Impairment",
+        "Central Retinal Artery Occlusion",
+        "Anterior Ischemic Optic Neuropathy",
+        "Paracentral Acute Middle Maculopathy",
+        "Posterior Ischemic Optic Neuropathy",
+        "Retinal Ischemia",
+        "Blindness",
+        "Visual Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Fluorescein and Indocyanine green Angiography"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "High-resolution Optical Coherence Tomography"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Angio-Optical Coherence Tomography"
+        }
+      ],
+      "sponsor": "ASST Fatebenefratelli Sacco",
+      "primary_completion": "2028-06",
+      "url": "https://clinicaltrials.gov/study/NCT06500728"
+    },
+    {
+      "nct_id": "NCT02866136",
+      "title": "Conservative Treatments of Retinoblastoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Retinoblastoma",
+        "Children",
+        "Retinal Neoplasm"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "VP16, carboplatin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Melphalan"
+        },
+        {
+          "type": "DRUG",
+          "name": "VP16, carboplatin, vincristin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Carboplatin + laser day 1 (chemothermotherapy)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Laser (local treatment)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "cryoapplication (local treatment)"
+        },
+        {
+          "type": "RADIATION",
+          "name": "I125 radioactive plaques (local treatment)"
+        },
+        {
+          "type": "DRUG",
+          "name": "intravitreal Melphalan (local treatment)"
+        }
+      ],
+      "sponsor": "Institut Curie",
+      "primary_completion": "2023-01",
+      "url": "https://clinicaltrials.gov/study/NCT02866136"
+    },
+    {
+      "nct_id": "NCT06491615",
+      "title": "National Ophthalmic Genotyping and Phenotyping Network (eyeGENE (Registered Trademark)), Stage 3 - Expansion of DNA and Data Repositories for Rare Inherited Ophthalmic Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Inherited Ophthalmic Diseases",
+        "Hypopigmentation Disorder",
+        "Corneal Dystrophy",
+        "Blue-cone Monochromacy",
+        "Best Disease",
+        "Aniridia",
+        "Albinism"
+      ],
+      "interventions": [],
+      "sponsor": "National Eye Institute (NEI)",
+      "primary_completion": "2054-06-27",
+      "url": "https://clinicaltrials.gov/study/NCT06491615"
+    },
+    {
+      "nct_id": "NCT06242379",
+      "title": "Safety and Efficacy of Stem Cell Small Extracellular Vesicles in Patients With Retinitis Pigmentosa",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Retinitis Pigmentosa"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "GMP compliant-BM-MSC derived sEVs"
+        }
+      ],
+      "sponsor": "Mahidol University",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06242379"
+    },
+    {
+      "nct_id": "NCT05207059",
+      "title": "Healthy Early Life Moments in Singapore",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metabolic Disease",
+        "Mental Health Wellness 1",
+        "Lifestyle Risk Reduction",
+        "Maternal Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "HELMS Lifestyle Intervention"
+        }
+      ],
+      "sponsor": "KK Women's and Children's Hospital",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT05207059"
+    },
+    {
+      "nct_id": "NCT01496625",
+      "title": "National Eye Institute Biorepository for Retinal Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Age-Related Macular Degeneration",
+        "Diabetic Retinopathy",
+        "Von Hippel-Lindau Syndrome",
+        "Retinal Disease",
+        "Retinal Vein Occlusion"
+      ],
+      "interventions": [],
+      "sponsor": "National Eye Institute (NEI)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT01496625"
+    },
+    {
+      "nct_id": "NCT06887062",
+      "title": "Dapagliflozin and Endothelin Receptor Antagonism in Large Vessel Vasculitis (DERAIL-LVV)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Large Vessel Vasculitis",
+        "Giant Cell Arteritis (GCA)",
+        "Takayasu Arteritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bosentan and dapagliflozin"
+        }
+      ],
+      "sponsor": "University of Edinburgh",
+      "primary_completion": "2027-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06887062"
+    },
+    {
+      "nct_id": "NCT07359547",
+      "title": "Comparing XEN®-63 Gel Stent and PRESERFLO® MicroShunt",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "GLAUCOMA 1, OPEN ANGLE, D (Disorder)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "XEN®-63 Gel Stent"
+        },
+        {
+          "type": "DEVICE",
+          "name": "PRESERFLO™ MicroShunt"
+        }
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT07359547"
+    },
+    {
+      "nct_id": "NCT05180994",
+      "title": "Topical Infliximab in Eyes With Penetrating Keratoplasty",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Glaucoma Following Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Topical infliximab"
+        },
+        {
+          "type": "OTHER",
+          "name": "No topical infliximab"
+        }
+      ],
+      "sponsor": "Centre hospitalier de l'Université de Montréal (CHUM)",
+      "primary_completion": "2027-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT05180994"
+    },
+    {
+      "nct_id": "NCT06700655",
+      "title": "A Clinical Study on Co-transplantation of Autologous Limbal Stem Cells and Corneal Stromal Stem Cells to Repair Corneal Injury",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Limbal Stem Cells Deficiency"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Cornea limbal stem cell transplantation group"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Corneal transplantation"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Cornea limbal stem cell transplantation combined corneal stromal stem cell group"
+        }
+      ],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "primary_completion": "2028-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT06700655"
+    },
+    {
+      "nct_id": "NCT07619482",
+      "title": "Topical Insulin for Glaucoma (TING2)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Open Angle Glaucoma",
+        "Primary Open Angle Glaucoma",
+        "Low Tension Glaucoma",
+        "Pigmentary Glaucoma",
+        "Pseudoexfoliation Glaucoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "EYED-002 Low Dose (721 U/mL topical insulin)"
+        },
+        {
+          "type": "DRUG",
+          "name": "EYED-002 High Dose (1442 U/mL topical insulin)"
+        },
+        {
+          "type": "DRUG",
+          "name": "EYED-002 (highest tolerated dose, 12-month)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vehicle Placebo"
+        }
+      ],
+      "sponsor": "Stanford University",
+      "primary_completion": "2028-10",
+      "url": "https://clinicaltrials.gov/study/NCT07619482"
+    },
+    {
+      "nct_id": "NCT07766473",
+      "title": "First in Human Study of BETA-TT8 in wetAge-related Macular Degeneration (wetAMD)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Neovascular (Wet) Age-Related Macular Degeneration"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BETA-TT8 ophthalmic gel 3.8% w/v"
+        }
+      ],
+      "sponsor": "Filamon LTD",
+      "primary_completion": "2027-03",
+      "url": "https://clinicaltrials.gov/study/NCT07766473"
+    },
+    {
+      "nct_id": "NCT07011602",
+      "title": "INTEGRATED CHILDHOOD ACTIVITY AND NUTRITION (ICAN) STUDY",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Achievement",
+        "Weight Change",
+        "Cognition",
+        "Fitness",
+        "Nutrition Status"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "8-week Physical Activity and Nutrition Program"
+        }
+      ],
+      "sponsor": "University of Illinois at Urbana-Champaign",
+      "primary_completion": "2027-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT07011602"
+    },
+    {
+      "nct_id": "NCT06813261",
+      "title": "GLYLO Supplement Pilot Trial on Glycation and Aging in Postmenopausal Women",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postmenopause",
+        "Metabolism",
+        "Geroscience"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "GLYLO"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Buck Institute for Research on Aging",
+      "primary_completion": "2026-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT06813261"
+    },
+    {
+      "nct_id": "NCT07206238",
+      "title": "Orbital Vascular Inflammation in Ischemic Optic Neuropathy and Giant Cell Arteritis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Giant Cell Arteritis (GCA)",
+        "Ischemic Optic Neuropathy",
+        "NAION - Non-Arteritic Ischemic Optic Neuropathy"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Positron Emission Tomography / Magnetic Resonance Imaging"
+        }
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07206238"
+    },
+    {
+      "nct_id": "NCT03655223",
+      "title": "Early Check: Expanded Screening in Newborns",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Spinal Muscular Atrophy",
+        "Fragile X Syndrome",
+        "Fragile X - Premutation",
+        "Duchenne Muscular Dystrophy",
+        "Hyperinsulinemic Hypoglycemia, Familial 1",
+        "Diabetes Mellitus",
+        "Adrenoleukodystrophy, Neonatal",
+        "Medium-chain Acyl-CoA Dehydrogenase Deficiency",
+        "Very Long Chain Acyl Coa Dehydrogenase Deficiency",
+        "Beta-ketothiolase Deficiency",
+        "Severe Combined Immunodeficiency Due to Adenosine Deaminase Deficiency",
+        "Primary Hyperoxaluria Type 1",
+        "Congenital Bile Acid Synthesis Defect Type 2",
+        "Pyridoxine-Dependent Epilepsy",
+        "Hereditary Fructose Intolerance",
+        "Hypophosphatasia",
+        "Hyperargininemia",
+        "Mucopolysaccharidosis Type 6",
+        "Argininosuccinic Aciduria",
+        "Citrullinemia, Type I",
+        "Wilson Disease",
+        "Maple Syrup Urine Disease, Type 1A",
+        "Maple Syrup Urine Disease, Type 1B",
+        "Biotinidase Deficiency",
+        "Neonatal Severe Primary Hyperparathyroidism",
+        "Intrinsic Factor Deficiency",
+        "Usher Syndrome Type 1D/F Digenic (Diagnosis)",
+        "Cystic Fibrosis",
+        "Stickler Syndrome Type 2",
+        "Stickler Syndrome Type 1",
+        "Alport Syndrome, Autosomal Recessive",
+        "Alport Syndrome, X-Linked",
+        "Carbamoyl Phosphate Synthetase I Deficiency Disease",
+        "Carnitine Palmitoyl Transferase 1A Deficiency",
+        "Carnitine Palmitoyltransferase II Deficiency",
+        "Cystinosis",
+        "Chronic Granulomatous Disease",
+        "Cerebrotendinous Xanthomatoses",
+        "Maple Syrup Urine Disease, Type 2",
+        "Severe Combined Immunodeficiency Due to DCLRE1C Deficiency",
+        "Thyroid Dyshormonogenesis 6",
+        "Thyroid Dyshormonogenesis 5",
+        "Supravalvar Aortic Stenosis",
+        "Factor X Deficiency",
+        "Hemophilia A",
+        "Hemophilia B",
+        "Tyrosinemia, Type I",
+        "Fructose 1,6 Bisphosphatase Deficiency",
+        "Glycogen Storage Disease Type I",
+        "G6PD Deficiency",
+        "Glycogen Storage Disease II",
+        "Galactokinase Deficiency",
+        "Mucopolysaccharidosis Type IV A",
+        "Galactosemias",
+        "Guanidinoacetate Methyltransferase Deficiency",
+        "Agat Deficiency",
+        "Glutaryl-CoA Dehydrogenase Deficiency",
+        "Gtp Cyclohydrolase I Deficiency",
+        "Hyperinsulinism-Hyperammonemia Syndrome",
+        "Primary Hyperoxaluria Type 2",
+        "3-Hydroxyacyl-CoA Dehydrogenase Deficiency",
+        "Long-chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency",
+        "Mitochondrial Trifunctional Protein Deficiency",
+        "Sickle Cell Disease",
+        "Beta-Thalassemia",
+        "Holocarboxylase Synthetase Deficiency",
+        "3-Hydroxy-3-Methylglutaric Aciduria",
+        "Primary Hyperoxaluria Type 3",
+        "Hermansky-Pudlak Syndrome 1",
+        "Hermansky-Pudlak Syndrome 4",
+        "Apparent Mineralocorticoid Excess",
+        "HSDB",
+        "CBAS1",
+        "Mucopolysaccharidosis Type 2",
+        "Mucopolysaccharidosis Type 1",
+        "Severe Combined Immunodeficiency, X Linked",
+        "Severe Combined Immunodeficiency Due to IL-7Ralpha Deficiency",
+        "Diabetes Mellitus, Permanent Neonatal",
+        "Isovaleric Acidemia",
+        "Severe Combined Immunodeficiency T-Cell Negative B-Cell Positive Due to Janus Kinase-3 Deficiency (Disorder)",
+        "Jervell and Lange-Nielsen Syndrome 2",
+        "Hyperinsulinemic Hypoglycemia, Familial, 2",
+        "Diabetes Mellitus, Permanent Neonatal, With Neurologic Features",
+        "Jervell and Lange-Nielsen Syndrome 1",
+        "Lysosomal Acid Lipase Deficiency",
+        "CblF",
+        "3-Methylcrotonyl CoA Carboxylase 1 Deficiency",
+        "3-Methylcrotonyl CoA Carboxylase 2 Deficiency",
+        "Waardenburg Syndrome Type 2A",
+        "Methylmalonic Aciduria cblA Type",
+        "Methylmalonic Aciduria cblB Type",
+        "Methylmalonic Aciduria and Homocystinuria Type cblC",
+        "MAHCD",
+        "Methylmalonic Aciduria Due to Methylmalonyl-CoA Mutase Deficiency",
+        "Congenital Disorder of Glycosylation Type 1B",
+        "Mthfr Deficiency",
+        "Methylcobalamin Deficiency Type Cbl G (Disorder)",
+        "Methylcobalamin Deficiency Type cblE",
+        "Usher Syndrome, Type 1B",
+        "N-acetylglutamate Synthase Deficiency",
+        "Ornithine Transcarbamylase Deficiency",
+        "Phenylketonurias",
+        "Waardenburg Syndrome Type 1",
+        "Congenital Hypothyroidism",
+        "Propionic Acidemia",
+        "Usher Syndrome, Type 1F",
+        "Pancreatic Agenesis 1",
+        "Hereditary Hypophosphatemic Rickets",
+        "Glycogen Storage Disease IXB",
+        "Glycogen Storage Disease IXC",
+        "MOWS",
+        "Epilepsy, Early-Onset, Vitamin B6-Dependent",
+        "Pyridoxal Phosphate-Responsive Seizures",
+        "Pituitary Hormone Deficiency, Combined, 1",
+        "Ptsd",
+        "Dihydropteridine Reductase Deficiency",
+        "Severe Combined Immunodeficiency Due to RAG1 Deficiency",
+        "Severe Combined Immunodeficiency Due to RAG2 Deficiency",
+        "Retinoblastoma",
+        "Multiple Endocrine Neoplasia Type 2B",
+        "Pseudohypoaldosteronism, Type I",
+        "Liddle Syndrome",
+        "Biotin-Responsive Basal Ganglia Disease",
+        "SCD",
+        "DIAR1",
+        "GSD1C",
+        "Acrodermatitis Enteropathica",
+        "Thyroid Dyshormonogenesis 1",
+        "Riboflavin Transporter Deficiency",
+        "Waardenburg Syndrome, Type 2E",
+        "SRD",
+        "Congenital Lipoid Adrenal Hyperplasia Due to STAR Deficiency",
+        "Barth Syndrome",
+        "Adrenocorticotropic Hormone Deficiency",
+        "Transcobalamin II Deficiency",
+        "Thyroid Dyshormonogenesis 3",
+        "Segawa Syndrome, Autosomal Recessive",
+        "Autosomal Recessive Nonsyndromic Hearing Loss",
+        "Thyroid Dyshormonogenesis 2A",
+        "Congenital Isolated Thyroid Stimulating Hormone Deficiency",
+        "Hypothyroidism Due to TSH Receptor Mutations",
+        "Usher Syndrome Type 1C",
+        "Usher Syndrome Type 1G (Diagnosis)",
+        "Von Willebrand Disease, Type 3",
+        "Combined Immunodeficiency Due to ZAP70 Deficiency",
+        "Adenine Phosphoribosyltransferase Deficiency",
+        "Metachromatic Leukodystrophy",
+        "Canavan Disease",
+        "Menkes Disease",
+        "Carbonic Anhydrase VA Deficiency",
+        "Developmental and Epileptic Encephalopathy 2",
+        "17 Alpha-Hydroxylase Deficiency",
+        "Smith-Lemli-Opitz Syndrome",
+        "Krabbe Disease",
+        "Glutathione Synthetase Deficiency",
+        "Mucopolysaccharidosis Type 7",
+        "Rett Syndrome",
+        "Molybdenum Cofactor Deficiency, Type A",
+        "Niemann-Pick Disease, Type C1",
+        "Niemann-Pick Disease Type C2",
+        "Ornithine Aminotransferase Deficiency",
+        "3-Phosphoglycerate Dehydrogenase Deficiency",
+        "Leber Congenital Amaurosis 2",
+        "Dravet Syndrome",
+        "Mucopolysaccharidosis Type 3 A",
+        "Ornithine Translocase Deficiency",
+        "Carnitine-acylcarnitine Translocase Deficiency",
+        "Glucose Transporter Type 1 Deficiency Syndrome",
+        "Creatine Transporter Deficiency",
+        "Niemann-Pick Disease Type A",
+        "Pitt Hopkins Syndrome",
+        "Tuberous Sclerosis 1",
+        "Tuberous Sclerosis 2",
+        "Ataxia With Isolated Vitamin E Deficiency",
+        "Angelman Syndrome",
+        "Prader-Willi Syndrome",
+        "Homocystinuria",
+        "Permanent Neonatal Diabetes Mellitus",
+        "Transient Neonatal Diabetes Mellitus",
+        "Factor VII Deficiency",
+        "Glycogen Storage Disease Type IXA1",
+        "Glycogen Storage Disease, Type IXA2",
+        "Glycogen Storage Disease IC",
+        "Glycogen Storage Disease Type IB",
+        "Central Hypoventilation Syndrome With or Without Hirschsprung Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Confirmatory Testing"
+        }
+      ],
+      "sponsor": "RTI International",
+      "primary_completion": "2026-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT03655223"
+    },
+    {
+      "nct_id": "NCT00874783",
+      "title": "Development of IPS from Donated Somatic Cells of Patients with Neurological Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Neurodegenerative Disorders"
+      ],
+      "interventions": [],
+      "sponsor": "Hadassah Medical Organization",
+      "primary_completion": "2030-12",
+      "url": "https://clinicaltrials.gov/study/NCT00874783"
+    },
+    {
+      "nct_id": "NCT07314411",
+      "title": "Carotenoid Supplementation and Retinal Health in Healthy Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "other"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Pacific University",
+      "primary_completion": "2026-03",
+      "url": "https://clinicaltrials.gov/study/NCT07314411"
+    },
+    {
+      "nct_id": "NCT05841758",
+      "title": "Hydroxychloroquine as a Steroid-sparing Agent in Extrapulmonary Sarcoidosis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sarcoidosis, Pulmonary"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Hydroxychloroquine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "primary_completion": "2029-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT05841758"
+    },
+    {
+      "nct_id": "NCT03749980",
+      "title": "MyVHL: Patient Natural History Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Von Hippel-Lindau Disease",
+        "Hereditary Leiomyomatosis and Renal Cell Cancer",
+        "Birt-Hogg-Dube Syndrome",
+        "SDHB Gene Mutation"
+      ],
+      "interventions": [],
+      "sponsor": "Joshua Mann, MPH",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT03749980"
+    },
+    {
+      "nct_id": "NCT07633457",
+      "title": "Comparison Between Outcomes of Closure of Idiopathic Macular Hole Using Autologus Tenon Capsule Graft and Internal Limiting Membrane Flap Techniques (Pilot Study)",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Macular Hole Surgery",
+        "ILM Peeling",
+        "Tenon Capsule",
+        "ILM Flap",
+        "Macular Hole"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "vitrectomy under topical anesthesia [Proparacaine HCL (Alcaine®)]"
+        }
+      ],
+      "sponsor": "Ain Shams University",
+      "primary_completion": "2027-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07633457"
+    },
+    {
+      "nct_id": "NCT06881888",
+      "title": "Intranasal Delivery of Octreotide for Treatment of Diabetic Macular Edema",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetic Macular Edema"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Octreotide (drug)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT06881888"
+    },
+    {
+      "nct_id": "NCT07456826",
+      "title": "Study Evaluating the Efficacy and Safety of Chloroprocaine HCl Ophthalmic Gel 3% vs Proparacaine Ophthalmic Solution 0.5% Plus Subconjunctival Lidocaine in Patients Undergoing Intravitreal Injections",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetic Macular Edema (DME)",
+        "Age-Related Macular Degeneration (AMD)",
+        "Retinal Vein Occlusion",
+        "Diabetic Retinopathy (DR)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Chloroprocaine Ophthalmic Gel 3% (IHEEZO)"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Sham Subconjunctival Injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Proparacaine Hydrochloride Ophthalmic Solution 0.5%"
+        },
+        {
+          "type": "DRUG",
+          "name": "Lidocaine Hydrochloride Injection 2%"
+        }
+      ],
+      "sponsor": "Harrow Inc",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT07456826"
+    },
+    {
+      "nct_id": "NCT07240649",
+      "title": "Emerging Indications for Hyperbaric Oxygen Treatment",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Post-COVID-19 Condition",
+        "Ulcerative Colitis",
+        "Crohn Disease",
+        "Calciphylaxis",
+        "Frostbite",
+        "Acute COVID-19",
+        "Pyoderma Gangrenosum",
+        "Pterygium",
+        "Hypospadias",
+        "Head Trauma",
+        "Pneumatosis Intestinalis",
+        "Ischemic Bowel",
+        "Raynaud Syndrome",
+        "Malignant Otitis Externa",
+        "Nonarteritic Anterior Ischemic Optic Neuropathy",
+        "Central Retinal Vein Occlusion",
+        "Femoral Head Necrosis",
+        "Invasive Fungal Infection",
+        "Chronic Anal Fissure",
+        "Vasculitic Ulcer",
+        "Graft-vs-Host Disease",
+        "Decubitus Ulcer",
+        "Greater Trochanteric Pain Syndrome",
+        "Rectovaginal Fistula",
+        "Pouchitis",
+        "Tinnitus",
+        "Clostridium Enterocolitis",
+        "Branch Retinal Artery Occlusion",
+        "Axonotmesis",
+        "Multiple Sclerosis",
+        "Inclusion Body Myositis",
+        "Epidermolysis Bullosa (EB)",
+        "Osteonecrosis",
+        "Ulcer Ischemic",
+        "Avascular Necrosis of Bone",
+        "Prosthesis Related Infections",
+        "Facial Filler Injections",
+        "Cystitis Chronic",
+        "Ligament Injury",
+        "Anastomosis, Leaking",
+        "Cartilage Injury"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Hyperbaric oxygen treatment (HBOT)"
+        },
+        {
+          "type": "DRUG",
+          "name": "100% Oxygen"
+        }
+      ],
+      "sponsor": "Jay C. Buckey Jr.",
+      "primary_completion": "2035-12",
+      "url": "https://clinicaltrials.gov/study/NCT07240649"
+    }
+  ],
+  "fetched_at": "2026-08-17T21:35:32.677923"
+}

@@ -1,0 +1,62 @@
+{
+  "ingredient_a": "exosome-like nanovesicle",
+  "ingredient_b": "skin",
+  "query": "(\"exosome-like nanovesicle\"[Title/Abstract] AND \"skin\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 2,
+  "articles": [
+    {
+      "pmid": "42210742",
+      "title": "Cucumber-derived exosome-like nanovesicles encapsulating epigallocatechin gallate for skin depigmentation: molecular docking, stability, and efficacy in B16/F10 cells and zebrafish.",
+      "abstract": "To address the challenges of instability and low bioavailability that limit the application of (-)-epigallocatechin gallate (EGCG) as a whitening agent, we engineered a cucumber-derived exosome-like nanovesicle (CEV) as a synergistic nanocarrier. A hybrid isolation method combining polyethylene glycol precipitation with electrophoretic dialysis (PED) was established to obtain high-purity CEVs. The resulting EGCG-loaded CEVs (EGCG@CEVs) achieved 95.43% encapsulation efficiency with enhanced stability and a sustained release profile. Metabolomics and network pharmacology identified the STAT3/MAPK signaling axis as the primary target, a mechanism subsequently validated in B16F10 melanocytes and zebrafish models. Compared with free EGCG, EGCG@CEVs significantly decreased tyrosinase activity and melanin production. With the stable EGCG@CEV system, the ERK-STAT3-MITF pathway can be regulated, potentially functioning as a plant-based cosmetic system.",
+      "year": "2026",
+      "journal": "Journal of materials chemistry. B",
+      "authors": [
+        "Tao Li",
+        "Wang Ping",
+        "Zhang Mengying",
+        "Zhang Wenyue",
+        "Zhang Rui"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Catechin",
+        "Cucumis sativus",
+        "Drug Stability",
+        "Exosomes",
+        "Melanins",
+        "Molecular Docking Simulation",
+        "Nanoparticles",
+        "Skin Lightening Preparations"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42210742/"
+    },
+    {
+      "pmid": "40846023",
+      "title": "Mango ginger-derived exosome-like nanovesicles promotes diabetic wound healing via inducing the promigratory protein, follistatin-like 1.",
+      "abstract": "Chronic non-healing wounds are major threat in diabetes leading to lower extremity amputation. Lack of keratinocyte migration over the wound bed is a causal factor for non-healing wounds. Topical therapeutics with pro-migratory growth factors faces limited success due to the protease rich wound milieu. Plant-derived nanovesicles (PDNVs) are exosome-mimetic vesicles isolated from edible plants with bioavailable presence of several key plant bioactives with therapeutic value. Herein, using in vitro scratch wound model to mimic keratinocyte migration, we screened a panel of seven PDNVs from Zingiberaceae and Citrus plants and found Mango ginger-derived PDNVs (MGDNV) to promote wound healing in vitro. In streptozotocin-induced diabetic mice model, topical application of MGDNVs, formulated as hydrogel, rescued delayed wound healing caused by diabetes. Mechanistically, MGDNVs promote keratinocyte migration via induction of follistatin-like 1 (FSTL1) protein both in vitro and in vivo. FSTL1 is a key pro-migratory factor expressed in healing wounds, and failure to induce FSTL1 in keratinocytes leads to lack of cell migration in diabetic wounds. Considering MGDNVs also displayed percutaneous penetration in porcine skin, which is similar to human skin, and exhibited immunomodulatory properties, MGDNVs could be natural and cost-effective topical alternative to conventional biological agents for the treatment of chronic wounds.",
+      "year": "2025",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Suresh Anaghapriya",
+        "Ravilla Jahnavi",
+        "Narayanan Janakiraman",
+        "Sundaram Gopinath M"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Animals",
+        "Zingiber officinale",
+        "Mice",
+        "Diabetes Mellitus, Experimental",
+        "Exosomes",
+        "Humans",
+        "Cell Movement",
+        "Keratinocytes",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40846023/"
+    }
+  ],
+  "crawled_at": "2026-08-17T21:36:14.546547"
+}

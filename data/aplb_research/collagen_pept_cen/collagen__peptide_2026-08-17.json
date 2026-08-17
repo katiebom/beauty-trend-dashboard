@@ -1,0 +1,314 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "peptide",
+  "query": "(\"collagen\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42605868",
+      "title": "Chinese giant salamander (",
+      "abstract": "Dietary collagen peptides have been shown to alleviate UVB-induced skin photoaging. However, the upstream regulatory mechanisms and the bioactive peptide sequences underlying these effects remain unclear. In this study, using UVB-induced photoaging models in HaCaT cells and nude mice, we demonstrated that Chinese giant salamander-derived skin collagen peptides (CPs) ameliorate photoaging through the miR-4521/EGFR/MAPK axis and identified GPY (Gly-Pro-Try) as a representative anti-photoaging tripeptide. In HaCaT cells, UVB irradiation downregulated miR-4521. Bioinformatics and transfection analyses suggested that EGFR is regulated by miR-4521 and functions as an upstream regulator of the MAPK pathway. CPs treatment increased miR-4521, inhibited EGFR and MAPK activation, and consequently ameliorated photoaging-related phenotypes. Compared with UVB irradiation alone, GPY increased the expression of type I collagen and elastin in HaCaT cells by 61.9 and 10.0%, respectively, while suppressing MAPK activation. In nude mice exposed to UVB for 10 weeks, dermal collagen fibers became disorganized, and the collagen area and type I collagen level decreased to approximately 20 and 10% of the corresponding control values, respectively. Dietary CPs intervention restored collagen fiber organization and increased the collagen area and type I collagen to 66.7 and 76.0% of the control levels, respectively. CPs supplementation also suppressed MAPK signaling, as evidenced by reductions of 22.3, 81.3, and 44.7% in p-JNK, p-ERK, and p-p38 levels, respectively, relative to the UVB-only group. Overall, these findings reveal the miR-4521/EGFR/MAPK axis and GPY as key bases for the anti-photoaging effects of CPs.",
+      "year": "2026",
+      "journal": "Food & function",
+      "authors": [
+        "Zhou Yongjie",
+        "Xu Wenjing",
+        "Valacchi Giuseppe",
+        "Zhao Chunyue",
+        "Zhang Yan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42605868/"
+    },
+    {
+      "pmid": "42604590",
+      "title": "Secretion Engineering Enables Production of a Structurally Stable and Long-Continuous Type III Collagen Fragment in Pichia pastoris.",
+      "abstract": "Recombinant humanized type III collagen has attracted increasing interest for biomedical and tissue engineering applications due to its roles in extracellular matrix remodeling and tissue repair. However, the production of long-continuous, structurally stable type III collagen fragment in Pichia pastoris is limited by host-derived proteolysis of the recombinant α1 chain, resulting in fragmentation and loss of structural integrity. In this study, a long-continuous type III collagen fragment was produced in P. pastoris by proteolytic selection and identified as a continuous 585-amino acid sequence (N611-P1195) by LC-MS/MS. Secretion efficiency was improved by signal peptide optimization, enabling the development of high-producing strains (6.22 g/L). rColIII was purified to > 90% purity with low endotoxin levels (< 10 EU/mg) using multimodal chromatography and exhibited enhanced thermal stability. Although CD analysis indicated the absence of a canonical triple-helix conformation, FITR spectroscopy confirmed preservation of key peptide backbone structures. Biological assays demonstrated favorable cytocompatibility, with rColIII promoting HSF cell viability, adhesion, and migration. This study provides a scalable strategy for producing long, continuous type III collagen fragment with improved stability in P. pastoris, and supports their potential applications in cosmetic, tissue engineering, regenerative medicine, and other biomedical fields.",
+      "year": "2026",
+      "journal": "Biotechnology and bioengineering",
+      "authors": [
+        "Zhu Lin",
+        "Liang Qingping",
+        "Zhang Guijun",
+        "Wang Zhaoyu",
+        "Shen Zhaopeng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604590/"
+    },
+    {
+      "pmid": "42595117",
+      "title": "Molecular basis of collagen triple helix recognition by VWF A-like domain 2 of collagen VII: Implications for interlaced anchoring fibril formation.",
+      "abstract": "Anchoring fibrils formed by collagen VII play a critical role in stabilizing the dermal-epidermal junction. The N-terminal non-collagenous (NC1) domain of collagen VII binds firmly to basement membrane components including collagen IV and has also been reported to interact with mesenchymal fibrillar collagens via its von Willebrand factor A-like domain 2 (A2 domain). To elucidate how collagen VII recognizes fibrillar collagen, we performed yeast two-hybrid screening using a triple-helical random peptide library, which resulted in the identification of a Met-Gly-Φ (Φ; aromatic amino acid residue) motif. Biochemical analysis with synthetic triple-helical peptides revealed a binding preference of Trp > Phe as the Φ residue by the A2 domain despite Trp being absent in native collagens. The crystal structure of the A2 domain in complex with the Nle (Met surrogate)-Gly-Trp-containing peptide revealed a unique mechanism by which two distinct hydrophobic pockets of the A2 domain accommodate the Nle and Trp residues corresponding to the Met-Gly-Φ motif, engaging all three chains of the triple helix. Subsequent molecular dynamics simulations demonstrated that the A2 domain recognizes the corresponding native Met-Gly-Phe motif in a similar manner, but with lower affinity, implying a transient interaction with mesenchymal collagens. The findings obtained in this work suggest models in which transient A2-triple helix interaction promotes the recruitment of collagen I and III fibrils into the arc-shaped structure of anchoring fibrils. This also provides a foundation for linking structural understanding to skin fragility diseases caused by collagen VII dysfunction.",
+      "year": "2026",
+      "journal": "The Journal of biological chemistry",
+      "authors": [
+        "Hashimoto Moe",
+        "Oki Hiroya",
+        "Kawahara Kazuki",
+        "Fujii Kazunori K",
+        "Koide Takaki"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42595117/"
+    },
+    {
+      "pmid": "42589634",
+      "title": "Semaglutide and Liraglutide Modulate Oxidative Stress and Wound Repair in Normal Human Skin Cells Exposed to an In Vitro Diabetic-like Environment.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) not only improve glycemic control but also possess anti-inflammatory and antioxidant properties. In this study, the effects of semaglutide and liraglutide on oxidative stress and wound healing were examined in human dermal fibroblasts (NHDFs) and keratinocytes (NHEKs) under diabetes-mimicking conditions. Cells were exposed to high glucose and hydrogen peroxide, followed by treatment with semaglutide or liraglutide at concentrations of 22.5 and 45 pg/mL for 48 h. We assessed cell viability, apoptosis, intracellular reactive oxygen species (ROS), Ki-67, and Pax-7. Advanced glycation end-products (AGEs) and their receptor (RAGE) were quantified via ELISA. Wound healing was evaluated by scratch assay, and the gene expression of antioxidants, cytokines, and matrix components was measured by real-time PCR. Semaglutide significantly improved NHDF viability and proliferation under diabetic conditions, reducing ROS production more effectively than liraglutide. Apoptosis decreased, evidenced by increased Bcl-2 alongside decreased Bax and cleaved caspase-3, particularly with semaglutide. Furthermore, semaglutide uniquely activated Pax-7 expression. While both agents upregulated antioxidants, semaglutide more effectively suppressed AGEs/RAGE and inflammatory cytokines. Both drugs enhanced collagen expression and accelerated wound closure; however, semaglutide achieved near-complete healing within 48 h. Neither drug induced observable changes in NHEKs. Semaglutide exhibits strong antioxidative, cytoprotective, and pro-regenerative effects in diabetic NHDFs, outperforming liraglutide across multiple parameters. These findings highlight semaglutide's therapeutic potential for diabetic wound healing, warranting further in vivo investigation.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Anastasiou Ioanna A",
+        "Tentolouris Konstantinos",
+        "Katsaouni Athanasia",
+        "Sarantis Panagiotis",
+        "Mourouzis Iordanis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Semaglutide",
+        "Oxidative Stress",
+        "Liraglutide",
+        "Glucagon-Like Peptides",
+        "Wound Healing",
+        "Apoptosis",
+        "Fibroblasts",
+        "Cell Survival",
+        "Reactive Oxygen Species"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42589634/"
+    },
+    {
+      "pmid": "42547443",
+      "title": "[Research progress on the role of calcitonin gene-related peptide in the repair of diabetic wounds].",
+      "abstract": "Diabetic wounds are a severe complication of diabetes, which can lead to amputation or even mortality in severe cases. While normal wound healing consists of four phases: hemostasis, inflammation, proliferation, and remodeling, diabetic wounds tend to become chronic and refractory primarily due to a prolonged inflammatory phase. In diabetic wounds, insufficient synthesis and release of endogenous calcitonin gene-related peptide (CGRP) is a critical upstream mechanism underlying the disrupted neuro-immune communication, the persistent inflammation, and the arrested wound healing process. In contrast to pure skin defect wounds, where CGRP is rapidly upregulated after injury, CGRP remains persistently low in diabetic wound tissue, consequently failing to drive macrophage polarization towards the M2 phenotype or promote vascular maturation and collagen fiber deposition in the later phase of inflammation. In the early inflammatory phase, CGRP exerts pro-inflammatory effects by enhancing angiogenesis and modulating macrophage polarization. In the late inflammatory phase, CGRP upregulates thrombospondin-1, promotes neutrophil apoptosis and phagocytic clearance, thereby inhibiting excessive inflammatory response and shifting the wound microenvironment from a pro-inflammatory state to a pro-reparative state. Restoring CGRP signaling reconstructs the neuroimmunomodulation axis and improves wound repair while relieving diabetic neuropathic pain. Engineered CGRP combined with intelligent delivery systems offers promising prospects for diabetic wound therapy. However, large-scale clinical trials are still required to validate its clinical efficacy and safety. This paper systematically analyzes the mechanisms and application strategies of CGRP in facilitating diabetic wound repair, which can provide a theoretical basis and innovative strategies for clinical management.",
+      "year": "2026",
+      "journal": "Zhonghua shao shang yu chuang mian xiu fu za zhi",
+      "authors": [
+        "Wang X Y",
+        "Tan Q"
+      ],
+      "mesh_terms": [
+        "Calcitonin Gene-Related Peptide",
+        "Humans",
+        "Wound Healing",
+        "Diabetes Complications",
+        "Animals"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42547443/"
+    },
+    {
+      "pmid": "42530536",
+      "title": "A liposome-hydrogel composite ameliorates UVB-induced mouse skin photoaging through integrated antioxidant and extracellular matrix remodeling pathways.",
+      "abstract": "Skin photoaging, predominantly caused by chronic ultraviolet B (UVB) exposure, is characterized by oxidative stress, collagen degradation, and disruption of the skin barrier. Deer placenta polypeptides (DPP) are rich in bioactive amino acids (AAs); however, their antioxidant and dermo-protective effects remain insufficiently elucidated, and their topical application is limited by enzymatic instability and poor transdermal permeability. To overcome these limitations, we developed a liposome-hydrogel composite delivery system to enhance the stability, skin penetration, and bioactivity of DPP. DPP obtained ",
+      "year": "2026",
+      "journal": "Drug delivery",
+      "authors": [
+        "Liu Yifan",
+        "Chen Kejia",
+        "Pei Jin",
+        "Song Qi",
+        "Wang Xinlu"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Liposomes",
+        "Antioxidants",
+        "Mice",
+        "Ultraviolet Rays",
+        "Skin Aging",
+        "Oxidative Stress",
+        "Hydrogels",
+        "Extracellular Matrix",
+        "Peptides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42530536/"
+    },
+    {
+      "pmid": "42511252",
+      "title": "Purification and Characterization of Novel Collagen Peptides from ",
+      "abstract": "Rainbow trout is produced in large quantities worldwide, generating substantial processing by-products, among which collagen-rich skin and bone require high-value utilization. Rainbow trout collagen peptides potentially exhibit antiplatelet activity based on structural similarity to reported antiplatelet fish collagen peptides, while their active peptide sequences and underlying mechanisms require investigation. In this study, rainbow trout skin collagen was hydrolyzed by neutral protease, yielding a hydrolysate with 70.52% inhibition of platelet aggregation at 4 mg/mL. The fraction with high antiplatelet activity, N2-2, was obtained via separation by ODS-C18 and Sephadex LH-20 chromatography, which was enriched in Gly, Pro, and Hyp residues and characterized by mild hydrophilicity and a moderate molecular weight. Peptide sequences in the N2-2 were identified by HPLC-MS/MS, followed by molecular docking-based screening, and the four peptides selected were synthesized and evaluated for antiplatelet activity in vitro. Peptides MTGP and OOGGHG exhibited higher antiplatelet activity, with IC",
+      "year": "2026",
+      "journal": "Foods (Basel, Switzerland)",
+      "authors": [
+        "Liu Haodong",
+        "Zhang Linjing",
+        "Zeng Zhiyong",
+        "Wang Xin",
+        "Li Bo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42511252/"
+    },
+    {
+      "pmid": "42508151",
+      "title": "Bioelectronic hydrogel driven by perovskite solar cells promotes healing of drug-resistant bacteria-infected wounds.",
+      "abstract": "Self-powered dressings based on triboelectric or piezoelectric systems generate alternating electric stimulation (ES) that induces M1-type macrophage polarization and exacerbates inflammation, limiting therapeutic efficacy. Here, we report a self-powered dressing integrating portable perovskite solar cells to deliver direct ES that activates anti-inflammatory M2-type macrophage polarization, thereby regulating immune responses and reshaping infected-wound microenvironments. Under optimized conditions (130 mV/mm, 30 min), solar cell-derived ES combined with antimicrobial peptide-loaded silk fibroin hydrogel (AMP@hydrogel (+ES)) efficiently eradicated pathogens by disrupting bacterial respiration, while concurrently promoting fibroblast migration, vascular endothelial tubulogenesis, and neuron differentiation. In methicillin-resistant Staphylococcus aureus-infected wounds, AMP@hydrogel (+ES) achieved 99.8% wound closure through pathogen clearance and immune regulation, accompanied by enhanced collagen deposition, re-epithelization, angiogenesis, and nerve regeneration. Transcriptomic analysis identified cytokine-cytokine receptor interaction and focal adhesion pathways as key mediators. As the first immunomodulatory self-powered dressing, AMP@hydrogel (+ES) provides a promising platform for infected-wound treatment.",
+      "year": "2026",
+      "journal": "Biomaterials",
+      "authors": [
+        "Duan Lian",
+        "Bu Yufan",
+        "Zhou Peng",
+        "Liu Ga",
+        "Liao Fuying"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42508151/"
+    },
+    {
+      "pmid": "42505973",
+      "title": "Low-Molecular-Weight Fish Collagen Peptide Enhances Hair Regrowth via Activation of Proliferative Signaling and Suppression of Inhibitory Pathways.",
+      "abstract": "Collagen peptides have been widely studied for their beneficial effects on skin health; however, their potential role in hair growth remains insufficiently explored. This study aimed to investigate the effects of orally administered low-molecular-weight fish collagen peptide (SH-GT) on hair regrowth and its underlying mechanisms in a hair-removed C57BL/6J mouse model. Mice were administered SH-GT (100, 300, or 600 mg/kg body weight) or a positive control (Pansidil, 400 mg/kg) daily for 28 days. SH-GT significantly enhanced hair regrowth, as evidenced by the increased hair growth area. Histological analysis revealed increased dermal thickness and visible hair follicle structures in SH-GT-treated groups. At the molecular level, SH-GT upregulated proliferation-related proteins, including PCNA and Cyclin D1, and activated Wnt/β-catenin signaling. In addition, SH-GT enhanced PI3K/Akt/mTOR signaling, suggesting improved cellular growth and survival. Conversely, SH-GT suppressed hair growth inhibitory pathways by reducing BMP4 expression and decreasing Smad phosphorylation. Furthermore, SH-GT increased the mRNA expression of growth factors such as IGF-1, HGF, VEGF, EGF, and FGF7. In conclusion, SH-GT promotes hair regrowth by simultaneously activating proliferation-related signaling pathways and suppressing inhibitory mechanisms, thereby improving the dorsal skin microenvironment associated with hair regrowth. These findings suggest that SH-GT may serve as a promising functional ingredient for improving hair growth.",
+      "year": "2026",
+      "journal": "Marine drugs",
+      "authors": [
+        "Kim Hyelim",
+        "Lee Yeonhwa",
+        "Park Seong-Hoo",
+        "Choi Hyunyoung",
+        "Yang Joon Sung"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Collagen",
+        "Mice, Inbred C57BL",
+        "Cell Proliferation",
+        "Hair",
+        "Mice",
+        "Hair Follicle",
+        "Wnt Signaling Pathway",
+        "Signal Transduction",
+        "Fishes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42505973/"
+    },
+    {
+      "pmid": "42505345",
+      "title": "Membrane Fusion-Based Mirabilis Himalaica-Derived Exosome-like Nanoparticles Fused with Cell-Penetrating Peptide Mediated for Chebulinic Acid Delivery Against UVA-Induced Photoaging.",
+      "abstract": "Exposure to ultraviolet (UV), particularly UVA radiation, is a primary driver of photoaging due to its deep dermal penetration, which triggers DNA damage, collagen degradation, and immune suppression. Chebulinic acid (CA), a polyphenolic compound from ",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Zhao Weiwei",
+        "Yang Siqi",
+        "Liu Ruobing",
+        "Liu Chaozhi",
+        "Zhang Jing"
+      ],
+      "mesh_terms": [
+        "Ultraviolet Rays",
+        "Nanoparticles",
+        "Cell-Penetrating Peptides",
+        "Exosomes",
+        "Humans",
+        "Hydrolyzable Tannins",
+        "Skin Aging",
+        "Membrane Fusion",
+        "tat Gene Products, Human Immunodeficiency Virus"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42505345/"
+    },
+    {
+      "pmid": "42483953",
+      "title": "Peptide-coordinated silver nanoassemblies: a multifunctional hydrogel platform for infected diabetic wound healing.",
+      "abstract": "Diabetic chronic wounds remain a major clinical challenge due to persistent infection, excessive inflammation, and impaired tissue regeneration. Herein, we report a multifunctional peptide-based antibacterial hydrogel (PAHG) for treating infected wounds, constructed through the incorporation of Cys-Arg-NH",
+      "year": "2026",
+      "journal": "Journal of materials chemistry. B",
+      "authors": [
+        "Ge Heng",
+        "Yuan Wen",
+        "Sun Yulin",
+        "Wang Kaiwen",
+        "Min Jie"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Hydrogels",
+        "Silver",
+        "Anti-Bacterial Agents",
+        "Humans",
+        "Escherichia coli",
+        "Animals",
+        "Peptides",
+        "Methicillin-Resistant Staphylococcus aureus",
+        "Diabetes Mellitus, Experimental"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42483953/"
+    },
+    {
+      "pmid": "42480655",
+      "title": "Interface-engineered supramolecular collagen peptide nanocapsules for barrier repair and matrix remodeling: From molecular assembly to clinical translation.",
+      "abstract": "The transdermal delivery of hydrophilic low-molecular collagen peptides (MW ∼5 kDa,) remains a major dermatological barrier, owing to the strong barrier function of the stratum corneum. While recombinant collagen peptides holds significant therapeutic promise, its application is severely limited by poor penetration and susceptibility to enzymatic degradation. Herein, we present an interface-engineered strategy based on a therapeutic supramolecular solvent to overcome these limitations. We constructed a supramolecular collagen peptides nanocapsules (Supra-Coll-Nano) system via the non-covalent assembly of α-bisabolol and dipalmitoyl hydroxyproline (DPHP). Unlike conventional inert carriers, this lipid-based supramolecular solvent not only stabilizes recombinant human type III collagen peptides (rhCOL3A1) through precise interfacial modulation but also synergistically regulates the skin microenvironment. The Supra-Coll-Nano exhibited exceptional physicochemical stability and achieved a 22.43-fold increase in viable epidermis collagen peptides deposition compared to free collagen peptides, penetrating to a depth of ∼40 μm within 8 h, corresponding to deep viable epidermis. Mechanistically, the system activates the TGF-β1/Smad3 signaling pathway, orchestrating the upregulation of a broad spectrum of collagens (types I, III, IV, VII, XVII, XVIII) and key barrier-associated proteins (Filaggrin, Loricrin), while simultaneously suppressing pro-inflammatory cytokines (TNF-α, IL-1α) via the release of bioactive α-bisabolol. Clinical efficacy evaluations further confirmed these pleiotropic effects, demonstrating significant improvements in stratum corneum hydration (+38.38%) and skin elasticity (+21.57%), along with a remarkable 53.94% reduction in crow's feet wrinkles. This work establishes a new paradigm for \"carrier-active\" synergistic delivery, offering a robust material strategy for sensitive skin repair and non-invasive anti-aging therapies from molecular design to clinical application.",
+      "year": "2026",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "authors": [
+        "Zhou Mingqing",
+        "Li An",
+        "Yang Bo",
+        "Liu Tianqi",
+        "Tang Yixuan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42480655/"
+    },
+    {
+      "pmid": "42453843",
+      "title": "Cellulite as a Possible Biomarker of Metabolic Dysfunction: Redefining Body Remodeling in the Glucagon-Like Peptide-1 Era Through the Cellulite Removal Medical Protocol-G21 Concept.",
+      "abstract": "Cellulite has traditionally been regarded as a localized aesthetic condition; however, it may also reflect interactions between adipose tissue biology, dermal architecture, microcirculation, extracellular matrix remodeling, inflammation, and metabolic status. This editorial proposes the metabolic-dermal axis as a conceptual framework for understanding cellulite beyond its surface appearance. In this context, insulin resistance, chronic low-grade inflammation, adipose tissue dysfunction, impaired microvascular function, and altered collagen organization may contribute to the development or persistence of cellulite-like changes. The glucagon-like peptide-1 receptor agonist era, including therapies such as tirzepatide, has transformed obesity and metabolic medicine by improving weight, adiposity, insulin sensitivity, and cardiometabolic risk. Nevertheless, weight loss and metabolic improvement do not necessarily restore dermal structure, skin firmness, or tissue quality. Persistent cellulite and skin laxity after substantial weight reduction highlight the need for approaches that address both systemic metabolic health and local dermal remodeling. The Cellulite Removal Medical Protocol-G21 (CRMP-G21) is presented here as a proposed integrative concept rather than a validated therapeutic standard. It aims to combine metabolic optimization with targeted dermal restoration strategies. Further clinical studies are required to determine whether cellulite can serve as a meaningful clinical marker of metabolic-dermal dysfunction and whether combined systemic and local interventions improve patient outcomes.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Adamidis Nikos",
+        "Adamidi Sofia",
+        "Georgakopoulou Vasiliki E",
+        "Papadopoulou Nektaria",
+        "Adamidis Sotirios"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42453843/"
+    },
+    {
+      "pmid": "42451143",
+      "title": "Dietary Collagen Supplementation as a Strategy for Skin Health: A Narrative Review of Clinical Effects on Skin, Hair, Nails, and Wound Healing.",
+      "abstract": "Collagen is a key structural protein of the skin, essential for maintaining its mechanical strength, elasticity, and hydration. Oral collagen supplementation, particularly in the form of collagen peptides, has recently gained significant interest as a nutritional strategy to support skin health and overall wellbeing. However, the evidence regarding its effectiveness in supporting skin health and improving hair, nail, and wound-healing outcomes remains heterogeneous. The aim of this review is to summarize and critically evaluate the current human evidence on oral collagen supplementation and its potential role in supporting skin health, hair and nail quality, and wound healing. A targeted literature search was conducted using PubMed and Web of Science to identify clinical trials and relevant studies assessing the effects of collagen supplementation on skin aging parameters, including elasticity, wrinkles, hydration, and barrier function, as well as hair loss, nail disorders, and wound healing. Collagen-derived peptide supplementation has been associated with improvements in skin hydration, elasticity, wrinkle appearance, and dermal extracellular matrix organization, while also supporting hair thickness and strength, modestly enhancing nail growth, and promoting wound healing. Benefits are most consistent with low-molecular-weight hydroxyproline-rich peptides, with peptide characteristics appearing more important than collagen source. Evidence is limited by short study durations, heterogeneous designs, multi-ingredient formulations, and industry funding, which reduce confidence in the magnitude and consistency of the reported effects. Nevertheless, high-quality, long-term, independently funded trials with standardized outcomes are still required to confirm these findings.",
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Biełach-Bazyluk Angelika",
+        "Jurga Marta",
+        "Flisiak Iwona",
+        "Zbroch Edyta"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Collagen",
+        "Nails",
+        "Dietary Supplements",
+        "Hair",
+        "Skin",
+        "Skin Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42451143/"
+    },
+    {
+      "pmid": "42445555",
+      "title": "Adipose-derived stem cell peptide 5 alleviates hypertrophic scarring through targeting pyruvate carboxylase or p50 to coordinate PI3K/AKT/mTOR-autophagy and NF-κB/IL-6 signaling.",
+      "abstract": "Hypertrophic scars are a major clinical challenge with limited treatments. Adipose-derived stem cells (ADSCs) play an important role in inhibiting pathological scar formation. However, the underlying mechanisms remain unclear. In this study, we aimed to investigate the function, mechanism, and therapeutic potential of adipose-derived stem cell peptide 5 (ADSCP5), a novel peptide from adipose-derived stem cell-conditioned medium.",
+      "year": "2026",
+      "journal": "Burns & trauma",
+      "authors": [
+        "Chen Ling",
+        "Zhang Enyuan",
+        "Zeng Siqi",
+        "Yan Qiyue",
+        "Li Jingyun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42445555/"
+    }
+  ],
+  "crawled_at": "2026-08-17T21:35:59.765633"
+}

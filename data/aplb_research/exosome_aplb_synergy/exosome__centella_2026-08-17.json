@@ -1,0 +1,25 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "centella",
+  "query": "(\"exosome\"[Title/Abstract] AND \"centella\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "41964367",
+      "title": "The potential of plant-derived exosome-like nanovesicles from ",
+      "abstract": "This study aimed to isolate plant-derived exosome-like nanovesicles from ",
+      "year": "2026",
+      "journal": "Future science OA",
+      "authors": [
+        "Barlian Anggraini",
+        "Cho Youngkwan",
+        "Rahmah Yulia",
+        "Az Zahra Annisa Nurrahmi",
+        "Maulidisya Hanifa Azka"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41964367/"
+    }
+  ],
+  "crawled_at": "2026-08-17T21:36:09.169815"
+}

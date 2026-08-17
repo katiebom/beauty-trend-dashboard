@@ -1,0 +1,190 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42604704",
+      "title": "Multilevel metabolic and enzyme engineering enables efficient biosynthesis of cyanidin-3-O-glucoside from dihydroquercetin in Escherichia coli.",
+      "abstract": "Cyanidin-3-O-glucoside (C3G) is a water-soluble, value-added natural flavonoid with extensive applications in the nutraceutical and cosmetic industries. However, its efficient bioproduction is hampered by intermediate instability, metabolic imbalance and enzyme kinetic constraints. Here, we successfully constructed an efficient biosynthesis pathway from the dihydroquercetin (DHQ) to C3G in Escherichia coli through a multilevel engineering strategy. Initially, the integration of glutathione S-transferase (GST) redirected the metabolic flux towards target cyanidin formation. To minimize the dissipation of labile intermediates, pathway enzymes were spatially organized within a protein cage to enhance cascade efficiency. Furthermore, genomic integration of Glycine max sucrose synthase established an in-situ UDP-glucose regeneration module to ensure a continuous precursor supply for the final glycosylation step. After these pathway-level optimizations, the key enzyme dihydroflavonol 4-reductase (FaDFR) emerged as a new rate-limiting bottleneck due to substrate inhibition under increased DHQ loading. Structure-guided and evolution-informed engineering generated FaDFR variants with improved high-substrate tolerance, as supported by in vitro activity profiling and molecular dynamics simulations. Through combined pathway and enzyme engineering, the G130C-containing strain achieved a C3G titer of 1.34 g/L, representing a 23-fold improvement over the GST-assisted baseline strain. Our platform enables efficient, value-added C3G production and provides a promising framework for constructing downstream pathways toward structurally diverse anthocyanin derivatives.",
+      "year": "2026",
+      "journal": "Bioresource technology",
+      "authors": [
+        "Wang Zhiyao",
+        "Xie Wei",
+        "Gao Ruichen",
+        "Tu Zezhong",
+        "Lou Wenyong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604704/"
+    },
+    {
+      "pmid": "42598431",
+      "title": "Indole-2-carboxylic Acid Nanoemulsions: A Novel Approach for Topical Cosmeceuticals with Antioxidant Properties in Human Skin Models.",
+      "abstract": "Bioactive molecules, such as indole alkaloids, have received special attention due to their remarkable pharmacological versatility, particularly their antioxidant activities. Therefore, our objective was to build an engineered delivery system (a topical nanoemulsion), incorporating indole-2-carboxylic acid, and evaluate its antioxidant potential using an ",
+      "year": "2026",
+      "journal": "ACS omega",
+      "authors": [
+        "Lima Hyanne Pereira",
+        "Costa Eduarda Pires",
+        "Fonseca Gislaine Gonçalves",
+        "Brito Nathan Caraciole",
+        "Dias Manoela Maciel Dos Santos"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42598431/"
+    },
+    {
+      "pmid": "42596501",
+      "title": "Overcoming Photodynamic Therapy Resistance: GSH-Responsive AIE Photosensitizer-Hydroxycamptothecin Nanoliposomes for Extrahepatic Cholangiocarcinoma.",
+      "abstract": "Photodynamic therapy (PDT) has been shown to improve survival and quality of life in patients with unresectable extrahepatic cholangiocarcinoma. However, its therapeutic efficacy is frequently limited by the survival of residual tumor cells that can re-enter the proliferative cycle. Our previous studies showed that residual cholangiocarcinoma cells can re-enter the proliferative cycle following PDT accompanied by hypoxia-induced activation of the HIF-1α survival pathway and intracellular antioxidant programs. To address this residual viability, we developed a glutathione-responsive targeted nanosystem (TSH NPs), in which the aggregation-induced emission (AIE) photosensitizer TPA-Ph-RDN is conjugated to the chemotherapeutic agent hydroxycamptothecin (HCPT) via a disulfide linkage. This design enables HCPT to exert direct cytotoxic effects while simultaneously suppressing the HIF-1α-mediated hypoxic adaptation pathway, thereby reducing residual tumor viability and enhancing PDT efficacy. This strategy achieves a dual-mechanism, two-pronged therapeutic effect. Both in vitro and in vivo studies demonstrated that TSH NPs elicited markedly synergistic antitumor activity, highlighting their potential as a promising therapeutic approach for improving clinical outcomes in patients with eCCA.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Qu Yong",
+        "Peng Tao",
+        "Zhang Yating",
+        "Cao Juanmei",
+        "Wang Birong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42596501/"
+    },
+    {
+      "pmid": "42585783",
+      "title": "Dendrobine activates the SIRT3-SOD2 axis to protect keratinocytes from UVB-induced oxidative damage.",
+      "abstract": "Ultraviolet B (UVB) irradiation is a primary environmental factor leading to skin oxidative damage and photoaging, primarily by disrupting mitochondrial redox homeostasis in keratinocytes. Dendrobine (DDB), a bioactive sesquiterpene alkaloid derived from the edible and medicinal plant Dendrobium nobile, exhibits diverse pharmacological properties. However, its role and mechanism in protecting against UVB-induced skin damage remain unclear.",
+      "year": "2026",
+      "journal": "Biochemical and biophysical research communications",
+      "authors": [
+        "Xu Jing",
+        "Liu Titi",
+        "Yang Ziyan",
+        "Che Mingxing",
+        "Xiang Xianhui"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42585783/"
+    },
+    {
+      "pmid": "42577963",
+      "title": "Total Astragalus Saponins Modulate Ferroptosis Pathways in Cigarette Smoke and LPS-Induced Models of COPD: An in vitro and in vivo Investigation.",
+      "abstract": "Chronic obstructive pulmonary disease (COPD) is a progressive respiratory condition characterized by persistent airflow limitation and chronic airway inflammation. Emerging evidence indicates that ferroptosis contributes to disease pathogenesis. The current therapeutic strategies cause adverse side effects and frequent exacerbations. ",
+      "year": "2026",
+      "journal": "Journal of inflammation research",
+      "authors": [
+        "Wang Qing",
+        "Wang Xuehua",
+        "Han Ling",
+        "Sun Yue",
+        "Zhang Junhong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42577963/"
+    },
+    {
+      "pmid": "42571803",
+      "title": "Bioactive glutathione-modified carboxymethyl cellulose hydrogels as levofloxacin delivery platforms for the Staphylococcus aureus-infected wounds management.",
+      "abstract": "Bacterial infection severely impairs wound healing, and current therapeutic strategies are limited due to their poor antibacterial efficacy and potential bio-toxicity. Herein, a novel multifunctional hydrogel (CGBA",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Wang Tianbao",
+        "Yang Yaqin",
+        "Zhuo Ya",
+        "Li Aihui",
+        "Si Changyun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42571803/"
+    },
+    {
+      "pmid": "42567394",
+      "title": "Ferroptosis in vitiligo and melanoma: Opposing susceptibilities, shared mechanisms, and therapeutic targets.",
+      "abstract": "Vitiligo is a common acquired depigmentation disorder affecting approximately 0.5-2% of the global population, characterized by the selective destruction of melanocytes leading to white patches on the skin. The pathogenesis of vitiligo involves complex interactions between genetic susceptibility, autoimmune responses, oxidative stress, and melanocyte dysfunction. Recent studies have demonstrated that ferroptosis, a novel iron-dependent form of programmed cell death, may play a critical role in melanocyte loss in vitiligo. Ferroptosis is characterized by iron accumulation, lipid peroxidation, glutathione (GSH) depletion, and decreased glutathione peroxidase 4 (GPX4) activity. This form of cell death differs fundamentally from apoptosis, necrosis, and autophagy in its morphological, biochemical, and genetic characteristics. Understanding the role of ferroptosis in vitiligo pathogenesis opens new avenues for therapeutic intervention and may explain why melanocytes in vitiligo patients are particularly vulnerable to oxidative damage. Multiple experimental and clinical studies have now confirmed the upregulation of ferroptosis biomarkers including transferrin receptor 1 (TFR1), malondialdehyde (MDA), and 4-hydroxynonenal (4-HNE) in vitiligo lesions, alongside downregulation of GPX4 and the cystine/glutamate antiporter System Xc-. Emerging evidence further implicates epigenetic regulators such as SIRT7 and RNA-binding proteins such as SLC3A2 in modulating melanocyte ferroptosis susceptibility. This comprehensive review systematically summarizes current knowledge on ferroptosis mechanisms in vitiligo, including the System Xc-/GPX4 axis, iron metabolism dysregulation, lipid peroxidation pathways, and their interactions with autoimmune responses. We also explore emerging therapeutic strategies targeting ferroptosis-related pathways, including iron chelation, GPX4 enhancement, lipid peroxidation inhibitors, NRF2 activators, and natural compounds such as baicalein. By integrating basic research findings with clinical observations, this review provides novel insights into vitiligo pathogenesis and establishes a theoretical foundation for developing innovative treatment strategies based on ferroptosis regulation. Crucially, by contrasting the ferroptosis-hypersensitive profile of vitiligo melanocytes with the ferroptosis-resistant molecular landscape of melanoma cells, this review proposes a novel framework for melanocyte-lineage-selective ferroptosis modulation as a therapeutic strategy.",
+      "year": "2026",
+      "journal": "Experimental cell research",
+      "authors": [
+        "Zhang Chunyan",
+        "Xu Faming"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42567394/"
+    },
+    {
+      "pmid": "42566080",
+      "title": "Honeybee venom modulates antioxidant gene expression and tissue regeneration in a rat model of staphylococcus aureus - infected skin wounds.",
+      "abstract": "Skin integrity is necessary for protection against microbial invasion, and disturbance of this barrier predisposes to infections, particularly those caused by Staphylococcus aureus.",
+      "year": "2026",
+      "journal": "Molecular biology reports",
+      "authors": [
+        "Smael Sabir Ahmed",
+        "Ismail Treefa Farouq",
+        "Abdullah Banaz Sdiq",
+        "Hamasalih Rebwar Muhammad",
+        "Khaleqsefat Esmat"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Bee Venoms",
+        "Rats",
+        "Male",
+        "Staphylococcus aureus",
+        "Wound Healing",
+        "Antioxidants",
+        "Disease Models, Animal",
+        "Superoxide Dismutase",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42566080/"
+    },
+    {
+      "pmid": "42561248",
+      "title": "Effect of antioxidants derived from Copaifera langsdorffii Desf. on skin tissue repair in diabetic rats.",
+      "abstract": "to assess the antioxidant effect of topically applied oleoresin from Copaifera langsdorffii Desf. on skin lesions in alloxan-induced diabetic rats.",
+      "year": "2026",
+      "journal": "Revista brasileira de enfermagem",
+      "authors": [
+        "Fernandes Maria Neyze Martins",
+        "Saraiva Andreza Gysllaynny Delmondes",
+        "Caldas Nathylle Régia de Sousa",
+        "Coelho Hercules Pereira",
+        "Lopes Maria do Socorro Vieira"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Rats",
+        "Rats, Wistar",
+        "Fabaceae",
+        "Diabetes Mellitus, Experimental",
+        "Male",
+        "Plant Extracts",
+        "Skin",
+        "Oxidative Stress"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42561248/"
+    },
+    {
+      "pmid": "42560464",
+      "title": "Melittin attenuates imiquimod-induced psoriatic dermatitis in mice: a role for autophagy activation via PI3K/Akt/mTOR pathway suppression.",
+      "abstract": "Despite multiple therapeutic strategies, a significant proportion of psoriatic patients fail to achieve complete/sustained disease clearance, highlighting the need for effective adjuvant or alternative therapy. Melittin, the main component in bee venom, exhibits valuable anti-inflammatory and immunomodulatory properties in various diseases; meanwhile, its effect on psoriasis has not been explored yet. Our study aims to investigate the anti-psoriatic effect of melittin with possible involvement of phosphoinositide 3-kinase/protein kinase B (PI3K/Akt) and the autophagy pathways. Mice were divided into 5 groups: Control group, Imiquimod (IMQ) group, and groups (3-5) received daily intraperitoneal injections of methotrexate (MTX, 1 mg/kg), melittin (40 mg/kg), or melittin (80 mg/kg), respectively. All groups except the control received topical IMQ for seven days. Melittin 80 demonstrated superior efficacy, significantly reducing the clinical Psoriasis Area and Severity Index score by 60% and epidermal thickening by 58.55%. Mel 80 decreased malondialdehyde by 62.32%, increased glutathione by 1.44-fold, and reduced nuclear factor-kappa B p65, tumor necrosis factor-alpha, interleukin (IL)-1 beta, IL-6, IL-23, and IL-17 levels by 72.10%, 83.70%, 61.54%, and 58.09%, 64.55%, and 55.19%, indicating suppression of the pathogenic IL-23/IL-17 axis. Furthermore, Melittin 80 inhibited PI3K/Akt pathway, decreasing p-Akt and PI3K by 50.88% and 57.30%, leading to downregulation of phosphorylated mammalian target of rapamycin (p-mTOR) by 58.53% and a 3.01-fold increase in Beclin-1, indicating restored autophagy. Epidermal proliferation was reduced, with a 58.80% reduction in Epidermal Growth Factor Receptor and 46.51% reduction in Ki67 expression. These results suggest that melittin may represent a promising antioxidant and anti-inflammatory agent for psoriasis, acting through PI3K/Akt/mTOR pathway inhibition and autophagy restoration.",
+      "year": "2026",
+      "journal": "Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society",
+      "authors": [
+        "Hafez Saeed A",
+        "Ahmed Asmaa A",
+        "Elkhoely Abeer",
+        "Ahmed Amany A E"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42560464/"
+    }
+  ],
+  "crawled_at": "2026-08-17T21:31:54.751841",
+  "source": "pubmed"
+}
