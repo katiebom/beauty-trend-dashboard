@@ -1,0 +1,213 @@
+{
+  "ingredient_id": "cysteamine",
+  "name_en": "Cysteamine",
+  "name_kr": "시스테아민",
+  "category": "brightening",
+  "query": "\"Cysteamine\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42489122",
+      "title": "Repression of Virulence in Staphylococcus aureus by 2-Aminothiol-Mediated Quorum Quenching.",
+      "abstract": "We present a novel strategy for the inhibition of quorum sensing in Staphylococcus bacteria. Previous work has focused on the development of peptides that can compete with native autoinducing peptides (AIPs), to antagonize the receptor histidine kinase responsible for activation of quorum sensing and thereby repress the expression of virulence genes. Here we report simple analogues of cysteine that can eliminate the native AIPs extracellularly, before they activate their receptor, and validate that this alternative strategy can also be applied to turn off quorum sensing in different Staphylococcus aureus reporter strain assays. Further, we show that two selected compounds can reduce skin infection caused by MRSA in a murine model. This work provides impetus for the development of simple small molecules for the topical treatment of staphylococcal skin infections. We anticipate that further studies, including delivery strategies, will help illuminate this potential.",
+      "year": "2026",
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "authors": [
+        "Gless Bengt H",
+        "Milazzo Riccardo",
+        "Bojer Martin S",
+        "Sereika-Bejder Benjamin S",
+        "Ingmer Hanne"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42489122/"
+    },
+    {
+      "pmid": "42153065",
+      "title": "Post-inflammatory Hyperpigmentation in Skin of Color: Emerging Therapies and Treatment Algorithms.",
+      "abstract": "Post-inflammatory hyperpigmentation (PIH) is a common pigmentary disorder that is especially prevalent among individuals with skin of color. Lesions can persist for months to years and may contribute to psychosocial distress. Given its chronicity and significant impact, it is important to optimize treatment approaches tailored to diverse skin types. This review evaluated emerging therapies and treatment algorithms for PIH across adult and pediatric populations, with a focus on evidence specific to skin of color. A comprehensive literature search covering 2015 to 2025 identified clinical studies including randomized controlled trials (RCTs), cohort studies, case series, and case reports that reported on topical, systemic, or procedural interventions for PIH. Emphasis was placed on therapies that were evaluated in skin-of-color cohorts. Topical agents such as hydroquinone (HQ), retinoids, azelaic acid (AA), cysteamine, and tranexamic acid (TXA) remain first-line therapies alongside photoprotection. Recent clinical trials have demonstrated their efficacy: cysteamine 5% cream reduced hyperpigmentation indices within 16 weeks, while topical TXA combinations yielded a 30-40% improvement in pigmentation with favorable safety. Oral TXA and emerging nutraceuticals have also shown promise as systemic options. Procedural interventions, including chemical peels and laser therapies, must be used cautiously in individuals with darker skin. In pediatric PIH, first-line management includes gentle skincare, sun protection, and treatment of the underlying inflammatory condition before considering more aggressive interventions. Emerging therapies such as cysteamine and TXA expand the range of treatment options for PIH, providing effective and safe alternatives to HQ in skin of color. Stepwise, individualized regimens that integrate topical therapy, photoprotection, and adjunctive interventions can optimize outcomes while minimizing risks. Further research in pediatric and skin-of-color populations is needed to refine treatment algorithms.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Persson Calista",
+        "Desai Roma",
+        "Manikkuttiyil Christo",
+        "Multani Harleen",
+        "Lirio Raven"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42153065/"
+    },
+    {
+      "pmid": "42094739",
+      "title": "Heparin-Conjugated Silver Nanoparticles via Amide Chemistry for Selective Targeting of Triple-Negative Breast Cancer and Pathogenic Fungi.",
+      "abstract": "Heparin, a polydisperse glycosaminoglycan, is well-known for its anticoagulant activity and clinical use in preventing venous thromboembolism. In addition to coagulation, heparin and its derivatives have shown therapeutic potential in cancer and infectious, inflammatory, and neurodegenerative diseases. This study aimed to develop and evaluate heparin-capped AgNPs (hep-AgNPs) as multifunctional nanotherapeutics with selective cytotoxicity, antibacterial, and antifungal activity.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Ahire Jayshree H",
+        "Wang Qi",
+        "Bao Yongping",
+        "Storer Isabelle S R",
+        "Bidula Stefan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Silver",
+        "Metal Nanoparticles",
+        "Triple Negative Breast Neoplasms",
+        "Heparin",
+        "Female",
+        "Antifungal Agents",
+        "Anti-Bacterial Agents",
+        "Antineoplastic Agents",
+        "Cell Line, Tumor"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42094739/"
+    },
+    {
+      "pmid": "42087526",
+      "title": "International Expert Consensus on Integrated Skincare Active Ingredients for Pretreatment and Posttreatment Use With Medical Aesthetic Procedures to Enhance Skin Benefits.",
+      "abstract": "Integrated skincare (ISC) combines dermocosmetics with medical aesthetic procedures to improve outcomes. However, guidance on selecting appropriate active ingredients across different procedure types and phases remains limited.",
+      "year": "2026",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Bjerring Peter",
+        "Draelos Zoe D",
+        "Fabi Sabrina G",
+        "Goodman Greg J",
+        "Hau Kwun Cheun"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cosmetic Techniques",
+        "Skin Care",
+        "Dermatologic Agents",
+        "Skin Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42087526/"
+    },
+    {
+      "pmid": "41908499",
+      "title": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
+      "abstract": "Melasma is a chronic hyperpigmentation disorder with pathogenesis linked to hormonal mediation, ultraviolet and heat exposure, and genetic predisposition. Five-alpha reductase inhibitors (5-ARIs), including finasteride and dutasteride, are widely prescribed for treatment of benign prostatic hyperplasia (BPH) and off-label for androgen-mediated dermatologic conditions, yet pigmentary adverse effects are rarely reported. To date, only one case documenting melasma following 5-ARI use has been published. We report two additional cases of finasteride-induced melasma.",
+      "year": "2026",
+      "journal": "Case reports in dermatology",
+      "authors": [
+        "Elhaj Hiba",
+        "Orrell Kelsey A",
+        "Beach Renée A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41908499/"
+    },
+    {
+      "pmid": "41642146",
+      "title": "Efficacy and Safety of Cysteamine-Isobionic Amide Complex in the Treatment of Periorbital Hyperpigmentation.",
+      "abstract": "Periorbital hyperpigmentation is a common yet challenging cosmetic concern due to the thin, vascular, and pigment-prone nature of periocular skin, as well as its multifactorial etiology. Discoloration in this area can be driven by genetics, photoaging, dermal thinning, and pigmentary disorders, making treatment outcomes often unpredictable and temporary. The cysteamine&ndash;isobionic amide complex offers a novel, non-hydroquinone and non-retinoid approach, combining the multi-pathway pigment reduction of cysteamine with the barrier-supporting and pigment-evening properties of isobionic amide. This pilot study aimed to evaluate the safety, tolerability, and efficacy of the cysteamine-isobionic amide complex for periorbital hyperpigmentation using objective imaging and patient-reported outcomes. Seven participants self-administered treatment three to five times weekly for 10 weeks. Patient-reported outcomes demonstrated consistent improvements in pigmentation, radiance, and overall appearance, with 83.3% noting improvement in their primary concern and 100% indicating they would recommend the regimen. The treatment was well tolerated, with only one case of transient mild erythema. To our knowledge, this is one of the first studies to investigate the cysteamine&ndash;isobionic amide complex in the periorbital region, supporting its potential as a safe, at-home option for under-eye hyperpigmentation. Future controlled trials with larger and more diverse cohorts are warranted to confirm these preliminary findings and assess long-term efficacy. &nbsp.",
+      "year": "2026",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Zafar Kayla",
+        "Stolyar Julia",
+        "Collins Alexia",
+        "Rivas Sharen",
+        "Gupta Neal"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cysteamine",
+        "Hyperpigmentation",
+        "Female",
+        "Pilot Projects",
+        "Treatment Outcome",
+        "Adult",
+        "Male",
+        "Middle Aged",
+        "Patient Reported Outcome Measures"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41642146/"
+    },
+    {
+      "pmid": "41601200",
+      "title": "The Role of the Cysteamine Dioxygenase (ADO) Gene in Atopic Dermatitis.",
+      "abstract": "Atopic dermatitis is a chronic inflammatory skin disorder influenced by genetic and environmental factors. A chromosome conformation capture study identified the cysteamine dioxygenase (ADO) gene as being associated with atopic dermatitis in differentiating keratinocytes. We aimed to evaluate the causal and pathophysiological roles of ADO in atopic dermatitis. This study utilized transcriptomic data and immunostaining techniques to analyse ADO expression. Human keratinocyte cell line (HaCat), and zebrafish models were employed to explore the functional role of ADO. RNA sequencing and immunostainings indicated higher ADO expression in lesional skin than in non-lesional skin in atopic dermatitis patients. Moreover, atopic dermatitis patients carrying the risk allele (C) exhibited increased levels of ADO in lesional skin. In vivo, zebrafish embryos with dysregulated ADO expression displayed impaired epidermal morphogenesis, particularly in their tails, along with increased neutrophil infiltration, indicating an inflammatory response. In vitro, alterations in ADO expression in HaCaT cells led to expression changes of proinflammatory cytokines and skin barrier markers. Further, both upregulation and downregulation of ADO were associated with enhanced reactive oxygen species production. These findings suggest that the ADO gene plays a critical role in maintaining skin homeostasis, and its dysregulation contributes to inflammation and compromised skin barrier function in the pathogenesis of atopic dermatitis.",
+      "year": "2026",
+      "journal": "Acta dermato-venereologica",
+      "authors": [
+        "Wang Sailan",
+        "Vaz Raquel",
+        "Lysell Josefin",
+        "Eisfeldt Jesper",
+        "Sahlén Pelin"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dermatitis, Atopic",
+        "Animals",
+        "Zebrafish",
+        "Keratinocytes",
+        "Reactive Oxygen Species",
+        "HaCaT Cells",
+        "Genetic Predisposition to Disease",
+        "Disease Models, Animal",
+        "Cytokines"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41601200/"
+    },
+    {
+      "pmid": "41420622",
+      "title": "The efficacy of cysteamine as a melasma therapy: a systematic review of trial studies.",
+      "abstract": "Melasma is a chronic and refractory hyperpigmentation disorder that predominantly affects women and individuals with darker skin tones. Treatment remains challenging due to issues related to efficacy, side effects, and high recurrence rates. Cysteamine is a depigmenting agent that has demonstrated promising outcomes in melasma management with minimal adverse effects. This study evaluates the effectiveness of cysteamine as a treatment for melasma. A systematic review was conducted using databases from PubMed, Google Scholar, and ScienceDirect, including articles published over the past 10 years (2013-2023). Eight studies met the inclusion criteria for this review. Cysteamine showed good therapeutic efficacy, reflected in reductions in the melasma area and severity index (MASI) ranging from 1.5 to 10.07, with a mean decrease of 5.73. No severe adverse effects were reported, and only mild reactions such as erythema, itching, irritation, dry skin, tingling, and burning sensations were noted. Overall, cysteamine is demonstrated to be an effective and safe therapy for melasma, offering satisfactory clinical improvement with minimal side effects.",
+      "year": "2025",
+      "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica",
+      "authors": [
+        "Kusumawardani Arie",
+        "Octarica Stella Gracia",
+        "Dewi Ayu Kusuma",
+        "Sambodo Shelly Lavenia",
+        "Utama Rahmat Firdaus Dwi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cysteamine",
+        "Melanosis",
+        "Treatment Outcome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41420622/"
+    },
+    {
+      "pmid": "41321547",
+      "title": "Shimmering Clarity: A Rare Case Report of Ocular Cystinosis.",
+      "abstract": "Ocular cystinosis is a rare hereditary lysosomal storage disorder characterized by amino acid cystine deposition in various tissues, prominently affecting the cornea and conjunctiva. While typically diagnosed in childhood, cases in adults may present atypically or as part of the nephropathic spectrum. This report highlights the clinical presentation, diagnosis, and management of ocular cystinosis in a 37-year-old male.",
+      "year": "2025",
+      "journal": "Case reports in ophthalmology",
+      "authors": [
+        "Angadi Aishwarya M",
+        "Jakhalu Kalibo",
+        "Mushtaq Iqra",
+        "Shah Saujas"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41321547/"
+    },
+    {
+      "pmid": "41144290",
+      "title": "The Effect of ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "Journal of medicinal food",
+      "authors": [
+        "Tangpudtasiri Puttiporn",
+        "Wiriyakun Natta",
+        "Niwaspragrit Cholticha",
+        "Amornlerdpison Doungporn",
+        "Namchaiw Poommaree"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41144290/"
+    }
+  ],
+  "crawled_at": "2026-08-18T21:28:06.277826",
+  "source": "pubmed"
+}

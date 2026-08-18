@@ -1,0 +1,178 @@
+{
+  "ingredient_id": "tranexamic_acid",
+  "name_en": "Tranexamic Acid",
+  "name_kr": "트라넥삼산",
+  "category": "brightening",
+  "query": "\"Tranexamic Acid\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42587097",
+      "title": "The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia Preservation: A Pilot Study.",
+      "abstract": "Abdominoplasty is a common body contouring procedure. Optimization of surgical outcomes should be pursued. Tranexamic acid (TXA), an antifibrinolytic agent, has demonstrated benefits in various surgical fields, presenting as a potential solution to address these challenges. This study evaluates the impact of combined TXA administration in patients undergoing abdominoplasty with Scarpa fascia preservation.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Teixeira Carolina",
+        "Rebelo Marco",
+        "Barros António Sousa",
+        "Costa-Ferreira António"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42587097/"
+    },
+    {
+      "pmid": "42577005",
+      "title": "Bionic intelligent responsive barbed microneedles synergistically remodel the microenvironment for the treatment of refractory pigmentation disorders (melasma).",
+      "abstract": "Clinically refractory melasma remains difficult to treat because it is driven by a multidimensional pathological microenvironment that includes melanocyte hyperactivity, aberrant vascular growth, oxidative stress and chronic inflammation. Single-pathway therapies therefore often produce incomplete or transient responses. To remodel this microenvironment more broadly, we developed a bioinspired, stimulus-responsive co-delivery microneedle platform (TXA/Exo@HAMA-PBA MNs). Inspired by the backward-curved barbs on the tick hypostome, the microneedles were engineered with outward-facing barbs to improve anchoring within skin tissue. Chemically, adipose-derived stem cell exosomes (ADSC-Exos) acted as bioactive crosslinking nodes. They were coupled to the HAMA-PBA matrix through ROS-sensitive dynamic boronate ester bonds, while tranexamic acid (TXA) was physically co-encapsulated. After insertion into ROS-rich melasma-like lesions, oxidative cleavage of carbon-boron bonds accelerated matrix degradation and promoted on-demand release of both payloads. Mechanistically, this platform produced an asymmetric but coordinated blockade of the pathological microenvironment: ADSC-Exos mainly scavenged local ROS, including ·OH, whereas TXA preferentially disrupted abnormal capillary networks. Together, they suppressed melanogenesis through the MITF/TYRP1 cascade and shifted macrophages from a pro-inflammatory M1 phenotype towards a tissue-reparative M2 phenotype. In a UV/progesterone-induced mouse model of melasma validated by bulk RNA sequencing, the system produced multidimensional microenvironmental regulation and visible depigmentation. This bioinspired, spatiotemporally responsive co-delivery microneedle platform integrates complementary and synergistic therapeutic actions and offers a translational strategy for complex, multifactorial hyperpigmentary disorders.",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Ding Hao",
+        "Zhang Erhao",
+        "Wang Yubin",
+        "Guo Chunyi",
+        "Sun Yixin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42577005/"
+    },
+    {
+      "pmid": "42516502",
+      "title": "Effect of preoperative tranexamic acid on hidden blood loss and C-reactive protein in patients undergoing Delta-channel endoscopic lumbar discectomy: a retrospective case-control study.",
+      "abstract": "The minimally invasive Delta-channel interlaminar endoscopic discectomy has been increasingly applied in clinical practice. However, the impact of tranexamic acid (TXA) on hidden blood loss (HBL) and C-reactive protein (CRP) levels in patients undergoing this procedure remains unclear. Accordingly, the present study is designed to investigate the impact of intravenous TXA on postoperative HBL and CRP levels in patients with lumbar disc herniation (LDH) treated via Delta-channel interlaminar endoscopic discectomy.",
+      "year": "2026",
+      "journal": "Frontiers in surgery",
+      "authors": [
+        "Hao Shenshen",
+        "Dong Shengli",
+        "Li Hongke",
+        "Liang Yu",
+        "Li Shuaizhi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42516502/"
+    },
+    {
+      "pmid": "42493591",
+      "title": "Integrated Topical Skincare Enhances Picosecond Laser Treatment Outcomes for Photoaging: A Prospective Split-Face Trial.",
+      "abstract": "The 755-nm picosecond alexandrite laser with a diffractive lens array effectively treats photoaging in Asian patients but may cause transient adverse effects due to temporary disruption of the skin barrier.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Lin Liang-Chen",
+        "Yu Ya-Ting",
+        "Hsiao Hsuan-Jung",
+        "Lai Yun-Hsin",
+        "Pan Ching-Ting"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42493591/"
+    },
+    {
+      "pmid": "42447962",
+      "title": "Increased risk of thromboembolic events with oral tranexamic acid exposure after sensitivity analysis using TriNetX.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Hopson Adam R L",
+        "Lipner Shari R"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42447962/"
+    },
+    {
+      "pmid": "42411392",
+      "title": "Efficacy and Safety of Early Administration of IV Tranexamic Acid in the Prevention of Atonic Postpartum Hemorrhage during Cesarean Section - A Randomized Controlled Study.",
+      "abstract": "Postpartum hemorrhage remains a major cause of maternal morbidity and mortality. Tranexamic acid may reduce blood loss by inhibiting fibrinolysis.",
+      "year": "2026",
+      "journal": "Annals of African medicine",
+      "authors": [
+        "Garg Aradhya",
+        "Mehrotra Seema",
+        "Solanki Vandana",
+        "Singh Priyanka",
+        "Khanna Vidisha"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42411392/"
+    },
+    {
+      "pmid": "42406361",
+      "title": "Efficacy and Tolerability of a Topical Pigment-Correcting Serum in Melasma and Postinflammatory Hyperpigmentation.",
+      "abstract": "Melasma and postinflammatory hyperpigmentation (PIH) are common disorders of hyperpigmentation of key aesthetic concern. This study assessed the efficacy and tolerability of a serum formulated with lotus sprout extract, tranexamic acid, and niacinamide (LTN serum) for the treatment of melasma and PIH secondary to acne.",
+      "year": "2026",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Grimes Pearl",
+        "Dias Shanaya",
+        "Huang Priscilla",
+        "Cheng Tsing",
+        "Makino Elizabeth"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Melanosis",
+        "Hyperpigmentation",
+        "Adult",
+        "Young Adult",
+        "Treatment Outcome",
+        "Quality of Life",
+        "Administration, Cutaneous",
+        "Niacinamide"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42406361/"
+    },
+    {
+      "pmid": "42383425",
+      "title": "Tranexamic Acid-Soaked Intranasal Packing for Postoperative Bleeding After Nasal Interpolation Flap Repair.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+      "authors": [
+        "Jeha George M",
+        "Hengy Meredith H",
+        "Nadir Umer",
+        "Bar Anna",
+        "Tolkachjov Stanislav N"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42383425/"
+    },
+    {
+      "pmid": "42376706",
+      "title": "Cost efficiency of topical tranexamic acid in reduction mammaplasty surgeries.",
+      "abstract": "Perioperatively used, topically administered tranexamic acid (TXA) has attracted increasing interest in plastic surgery, and several studies have compared the effectiveness and safety of topical and intravenous (IV) administration. Topical TXA has been reported to have an equal or superior effect in reducing postoperative bleeding and transfusion requirements, with no increase in reported adverse events. Although prophylactic topical TXA is believed to result in cost savings, cost-effectiveness analyses concerning the use of TXA in breast surgery have not yet been reported.",
+      "year": "2026",
+      "journal": "Scandinavian journal of surgery : SJS : official organ for the Finnish Surgical Society and the Scandinavian Surgical Society",
+      "authors": [
+        "Sipos Krisztina",
+        "Rautalin Mervi",
+        "Ojala Kaisu",
+        "Kauhanen Susanna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42376706/"
+    },
+    {
+      "pmid": "42373027",
+      "title": "Optimal Route of Tranexamic Acid Administration in Total Knee Arthroplasty: A Bayesian Network Meta-Analysis with Decision-Analytic Cost Evaluation.",
+      "abstract": "Tranexamic acid (TXA) is widely used in total knee arthroplasty (TKA) to reduce blood loss and transfusion; however, the optimal route of administration remains uncertain, particularly when considering both clinical outcomes and cost.",
+      "year": "2026",
+      "journal": "The Journal of arthroplasty",
+      "authors": [
+        "Hershfeld Benjamin E",
+        "Le Justin N",
+        "Xie Katherine",
+        "Kelawy Amr",
+        "Klein Brandon J"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42373027/"
+    }
+  ],
+  "crawled_at": "2026-08-18T21:28:02.739266",
+  "source": "pubmed"
+}
