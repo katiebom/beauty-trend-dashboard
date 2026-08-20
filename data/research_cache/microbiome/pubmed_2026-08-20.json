@@ -1,0 +1,222 @@
+{
+  "ingredient_id": "microbiome",
+  "name_en": "Microbiome/Postbiotics",
+  "name_kr": "마이크로바이옴/포스트바이오틱스",
+  "category": "barrier",
+  "query": "\"Microbiome/Postbiotics\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42621978",
+      "title": "Regenerative Microbiology: Harnessing Bacterial Antagonism and Spatiotemporal Signaling for Diabetic Wound Repair.",
+      "abstract": "Chronic diabetic foot ulcers represent a persistent clinical challenge characterized by a \"locked\" inflammatory phase, biofilm-mediated infection, and impaired tissue regeneration. Because conventional antibiotic and debridement therapies fail to resolve dysbiosis or stimulate healing, microbial antagonism has emerged as a potent biological principle for wound restoration. This narrative review integrates ecological evidence and mechanistic insights from animal models and early human studies to explore how beneficial microorganisms, including probiotics, bacteriophages, and competitive consortia, actively reshape diabetic wound environments. We examined the multifaceted mechanisms of these interactions, ranging from direct pathogen inhibition to host immunomodulation and metabolic signaling via conserved pathways such as the p40/epidermal growth factor receptor (EGFR)/PI3K axis. To address significant translational barriers, we introduce a \"Regenerative Microbiology\" framework that emphasizes spatiotemporal coordination and precision stratification. By tailoring the use of live biotherapeutics or metabolically independent postbiotics to a patient's vascular and microbial profiles, this approach offers a strategic roadmap for transforming the management of infection-driven tissue damage in chronic diseases.",
+      "year": "2026",
+      "journal": "Smart medicine",
+      "authors": [
+        "Sanabani Sabri Saeed"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42621978/"
+    },
+    {
+      "pmid": "42609585",
+      "title": "The Role of Dermocosmetics in Acne Management: Implications for Clinical Practice in Brazil.",
+      "abstract": "Acne is a prevalent skin condition worldwide, affecting diverse populations, including Brazil. Although acne guidelines are well established for topical and/or systemic medications, recommendations regarding dermocosmetics, which have become increasingly important in acne management, remain limited. This review examines the role of dermocosmetics within acne treatment protocols and provides practical guidance for their integration into skincare routines alongside conventional therapies. Six dermatology experts conducted structured PubMed literature searches (2012-2024) and discussed the findings during expert meetings focused on acne management and dermocosmetics in the Brazilian context. Despite increasing evidence of benefit, the role of dermocosmetics remains underreported, with systemic treatments predominating. Acne pathophysiology is complex with four main pillars: hyperkeratinization of the pilosebaceous gland infundibulum, inflammation, overactivity of sebaceous glands, and microbiome imbalance in the context of an altered skin barrier. Advances in acne microbiome research highlight the importance of targeting dysbiosis, with new treatments exploring pre-, pro-, and postbiotics and bacteriophages. Dermocosmetics containing key active ingredients can address these multifactorial targets of acne, including excessive sebum production, hyperkeratinization, inflammation, and skin barrier and microbiome imbalance. They have been shown in clinical studies to be beneficial as monotherapy for mild cases, as maintenance therapy, or as adjuncts to acne medications. Due to their safety and tolerability profile, dermocosmetics are especially valuable for specific populations, such as pregnant women and prepubertal patients. Published evidence and expert clinical consensus support integrating dermocosmetics into daily routines to enhance acne control, patient adherence, and quality of life. Effective patient education on skincare regimens prevents treatment-related issues and optimizes outcomes. Incorporating dermocosmetics and improving patient education may further optimize these benefits.",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Rocha Marco Alexandre Da",
+        "Bagatin Ediléia",
+        "Dréno Brigitte",
+        "Gontijo Gabriel",
+        "Ribeiro Beatriz Medeiros"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42609585/"
+    },
+    {
+      "pmid": "42609478",
+      "title": "The Scalp Microbiome-Hair Axis: Mechanisms and Therapeutic Translation.",
+      "abstract": "Hair loss is common and can markedly impair quality of life, yet the contribution of the scalp microbiome to alopecia remains fragmented across disease subtypes and mechanistic levels. This review aims to construct a clinically relevant and mechanistically coherent framework for the scalp microbiome-hair axis. We first summarize the composition and physiological functions of the scalp microbiome, including its roles in barrier integrity, immune regulation, and nutrient metabolism. We then compare dysbiosis patterns across androgenetic alopecia, alopecia areata, seborrheic dermatitis-associated hair loss, and folliculitis/scarring alopecia. This comparison identifies a shared pathogenic layer-barrier disruption, innate immune activation, altered lipid or metabolite processing, and impaired anagen support-together with subtype-selective mechanisms, including immune-privilege collapse in alopecia areata, androgen-lipid-microbiome coupling in androgenetic alopecia, ",
+      "year": "2026",
+      "journal": "Research (Washington, D.C.)",
+      "authors": [
+        "Li Ting",
+        "Yao Dongni",
+        "Cheng Feng",
+        "Mou Xiaozhou",
+        "Bian Qiong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42609478/"
+    },
+    {
+      "pmid": "42608979",
+      "title": "Topical Application of Indole-3-Acetic Acid, Present in S. epidermidis Supernatant, Alleviates Atopic Dermatitis in Mice at Least via the Aryl Hydrocarbon Receptor Signalling Pathway.",
+      "abstract": "Dysbiosis of the skin microbiome, characterised by Staphylococcus aureus overgrowth and imbalance of commensals such as Staphylococcus epidermidis (S. epidermidis), is closely associated with atopic dermatitis (AD). However, the therapeutic relevance of defined S. epidermidis-associated indole metabolite, especially indole-3-acetic acid (IAA), in AD-like inflammation remains incompletely characterised. Here, we investigated the role of IAA, a tryptophan-derived metabolite enriched in the culture supernatant of the tested S. epidermidis strain, in AD-like inflammation. Public transcriptomic analyses suggested impaired AHR-associated and tryptophan-metabolism signatures in AD skin, particularly in lesional skin, while human metagenomic data indicated AD-associated staphylococcal alterations. Targeted metabolomics identified IAA as an enriched indole metabolite in S. epidermidis culture supernatant. In an MC903-induced AD-like mouse model, cutaneous IAA levels and S. epidermidis abundance were reduced. Topical IAA attenuated AD-like phenotypes, improved barrier-related proteins and reduced inflammatory indices. These protective effects were diminished by the AHR antagonist CH223191. Molecular docking predicted a possible interaction between IAA and AHR, and in vitro assays showed that IAA modulated keratinocyte AHR-associated inflammatory and barrier-related responses. Together, our findings support IAA as a microbiome-associated postbiotic candidate for AD management, at least partly through AHR-associated signalling.",
+      "year": "2026",
+      "journal": "Experimental dermatology",
+      "authors": [
+        "Wang Piao",
+        "Wang Caixi",
+        "Zhang Yanting",
+        "Bi Lingbo",
+        "Zhao Hanqing"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dermatitis, Atopic",
+        "Indoleacetic Acids",
+        "Receptors, Aryl Hydrocarbon",
+        "Staphylococcus epidermidis",
+        "Signal Transduction",
+        "Mice",
+        "Humans",
+        "Skin Microbiome",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42608979/"
+    },
+    {
+      "pmid": "42588414",
+      "title": "Microbiome-Directed Bioactive Strategies in Skin Aging: Mechanistic Insights and Precision Nanocarrier Delivery Approaches.",
+      "abstract": "Skin aging is a multidimensional biological process driven by intrinsic chronological changes, exposomal stress, endocrine-metabolic shifts, extracellular matrix remodeling, inflammaging, oxidative injury, barrier impairment, and microbiome dysbiosis. This review integrates current evidence on the endocrine-microbiome-skin axis and evaluates microbiome-directed bioactive strategies for preserving cutaneous homeostasis during aging. Particular attention is given to probiotics, prebiotics, postbiotics, synbiotics, phytoestrogens, polyphenols, bioactive peptides, antioxidants, mitochondrial protectors, adaptogens, and metabolic modulators. Their mechanisms are discussed in relation to collagen homeostasis, mitochondrial function, lipid barrier integrity, immune regulation, microbial metabolite signaling, and systemic endocrine-metabolic status. The review also examines advanced delivery platforms, including liposomes, solid lipid nanoparticles, nanostructured lipid carriers, polymeric nanocarriers, nanoemulsions, encapsulated microbiome-active systems, and stimuli-responsive carriers, emphasizing their potential to improve compound stability, skin retention, controlled release, and target-site precision. Translational limitations are critically addressed, including strain and formulation specificity, insufficient long-term safety data, incomplete nanocarrier toxicology, regulatory ambiguity, and the need for personalization according to hormonal, metabolic, and microbiome profiles. Overall, microbiome-directed bioactive compounds combined with precision delivery systems represent a promising, but still evolving, strategy for delaying skin aging and restoring cutaneous homeostasis.",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Bălăceanu-Gurău Beatrice",
+        "Sotiri Ina",
+        "Girštautė Patricija",
+        "Șmocot-Stănescu Anastasia Patricia",
+        "Voinea Iulia-Alexandra"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Aging",
+        "Skin Microbiome",
+        "Animals",
+        "Nanoparticles",
+        "Microbiota",
+        "Drug Carriers",
+        "Antioxidants",
+        "Skin",
+        "Probiotics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42588414/"
+    },
+    {
+      "pmid": "42585817",
+      "title": "From gut-derived metabolites to topical targets: 5-(3',4'-dihydroxyphenyl)-γ-valerolactone as an anti-inflammatory candidate for skin and mucosal inflammation.",
+      "abstract": "Plant-derived compounds can be transformed by the human gut microbiota into postbiotic metabolites with distinct structures and biological activities, providing insight into the mechanisms underlying the pharmacological effects of medicinal plants. Among them, 5-(3',4'-dihydroxyphenyl)-γ-valerolactone (DHPV), a microbial metabolite of procyanidins, has emerged as a promising bioactive molecule with therapeutic potential. This study evaluated the potential application of synthetically produced DHPV in inflammatory conditions, focusing on its effects on inflammatory responses and wound-healing processes in skin and mucosal cell models, including keratinocytes, dermal fibroblasts, and vaginal epithelial cells. Cell viability after DHPV treatment was assessed using the MTT assay. Anti-inflammatory activity was examined in TNF-α/IFN-γ-stimulated HaCaT keratinocytes, LTA-stimulated NHDF fibroblasts, and TNF-α-stimulated VK2 vaginal epithelial cells. The effect on wound healing was evaluated using a keratinocyte scratch assay, while LC-MS-based metabolomic profiling was performed in TNF-α/IFN-γ-stimulated HaCaT cells. DHPV significantly reduced the release of pro-inflammatory mediators in all tested models, including IL-6, IL-8, CCL2, CCL22, and CCL5 in HaCaT keratinocytes; CCL2, IL-6, and IL-8 in NHDF fibroblasts; and IL-8 in VK2 cells. DHPV showed a favorable safety profile at the tested concentrations and markedly enhanced keratinocyte migration, indicating pro-regenerative activity. Metabolomic analysis revealed effects on tyrosine, histidine, and tryptophan metabolism, pathways related to cell proliferation, migration, and antioxidant defense. Overall, DHPV demonstrated anti-inflammatory and pro-healing properties, supporting its potential as a bioactive compound for inflammatory skin and mucosal conditions.",
+      "year": "2026",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "authors": [
+        "Skowrońska Weronika",
+        "Kiełkiewicz Rafał M",
+        "Kirzyc Maja",
+        "Janowski Mikołaj",
+        "Kołodziejska Julianna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42585817/"
+    },
+    {
+      "pmid": "42547472",
+      "title": "Subtype-Specific Efficacy of Topical ",
+      "abstract": "Topical ",
+      "year": "2026",
+      "journal": "Allergy, asthma & immunology research",
+      "authors": [
+        "Kang Jiseung",
+        "Yim Yesol",
+        "Lee Haeun",
+        "Kang So Min",
+        "Lee Dong-Geol"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42547472/"
+    },
+    {
+      "pmid": "42529037",
+      "title": "Microbiota-directed therapies for atopic dermatitis: a three-tier framework for inflammation control, immune modulation, and microbiome restoration.",
+      "abstract": "The pathogenesis of atopic dermatitis (AD) involves cutaneous barrier dysfunction, immune dysregulation, and microbiota imbalance. Although microbiota-directed therapeutic approaches have garnered increasing attention, current evidence is heterogeneous, encompassing probiotics, postbiotics, microbial metabolites, local microbial interventions, antimicrobials and ecological modulation strategies. This narrative review does not aim to provide clinical guidelines, but rather seeks to synthesise existing evidence within a three-tier conceptual framework. This framework classifies interventions into three categories: those primarily addressing local inflammation and barrier-associated microbiota dysbiosis; those exerting systemic immunomodulation via gut-derived microbial signals; and those modulating the skin microbiota ecology. It should be noted that human clinical data are still limited and heterogeneous, and much mechanistic insight is derived from preclinical research. By clarifying mechanistic layers and evidentiary gaps, this framework may facilitate future research to evaluate the sequencing or combination of anti-inflammatory therapy, barrier restoration, and microbiota ecological modulation.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Zhao Yi",
+        "Gao Quan",
+        "Li Guixiu",
+        "Zhou Qiongyan",
+        "Yang Feng"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dermatitis, Atopic",
+        "Skin Microbiome",
+        "Animals",
+        "Immunomodulation",
+        "Inflammation",
+        "Probiotics",
+        "Microbiota",
+        "Dysbiosis",
+        "Gastrointestinal Microbiome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42529037/"
+    },
+    {
+      "pmid": "42528716",
+      "title": "Atopic dermatitis and the gut-skin axis: a review from dysbiosis to novel targeted therapeutic strategies.",
+      "abstract": "Atopic dermatitis (AD) is a common, chronic, relapsing, inflammatory skin disorder with a complex pathogenesis involving genetic, immune, and environmental factors. Recent advances in the research on the gut-skin axis (GSA) have shed new light on the pathophysiology of AD, highlighting the critical role of gut microbiota dysbiosis in immune regulation and inflammatory responses. This review summarizes gut and skin microbial dysbiosis in AD and its impact on immune homeostasis, elaborates on molecular/cellular mechanisms by which gut-skin axis dysfunction drives AD inflammation, and focuses on targeted therapeutic strategies for gut-skin axis modulation. It outlines the latest research and clinical translation of interventions, including probiotics, prebiotics, postbiotics, dietary adjustments, fecal microbiota transplantation, and microbe/metabolite-targeted biologics, providing a theoretical basis for AD precision management and novel therapeutic development.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Peng Ruzhen",
+        "Huang Xiao",
+        "Bao Yindi",
+        "Luo Guangwen",
+        "Zeng Junfen"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Dermatitis, Atopic",
+        "Dysbiosis",
+        "Animals",
+        "Gastrointestinal Microbiome",
+        "Skin Microbiome",
+        "Skin",
+        "Probiotics",
+        "Fecal Microbiota Transplantation",
+        "Prebiotics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42528716/"
+    },
+    {
+      "pmid": "42451600",
+      "title": "Microbiome-Driven Bioactives for Chronic Wound Repair: Microbial Metabolites, Host-Microbe Mechanisms and Paths to Clinical Translation.",
+      "abstract": "Chronic wounds represent a substantial and growing clinical burden, yet durable healing remains difficult to achieve in a large proportion of patients. The skin microbiome plays a central role in this challenge: in healthy tissue, resident microorganisms support barrier integrity and calibrate immune responses, whereas in chronic wounds, community disruption-often combined with persistent biofilm formation-drives non-resolving inflammation, impairs re-epithelialisation, and increases antimicrobial tolerance. As antibiotic resistance escalates, these features strengthen the rationale for microbiome-directed strategies that target wound ecology while reducing reliance on conventional antimicrobials. Current evidence is still dominated by mechanistic and preclinical studies, with only early clinical signals for selected approaches; therefore, next-generation probiotics, including ",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Garcia Juliana",
+        "Silva Jani",
+        "Alves Maria José",
+        "Gouvinhas Irene"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Microbiota",
+        "Chronic Disease",
+        "Host Microbial Interactions",
+        "Animals",
+        "Probiotics",
+        "Skin Microbiome",
+        "Biofilms",
+        "Translational Research, Biomedical"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42451600/"
+    }
+  ],
+  "crawled_at": "2026-08-20T21:31:50.863241",
+  "source": "pubmed"
+}
