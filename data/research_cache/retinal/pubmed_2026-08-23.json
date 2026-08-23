@@ -1,0 +1,156 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 9,
+  "articles": [
+    {
+      "pmid": "42632563",
+      "title": "Adjunct Rose Bengal Photodynamic Antimicrobial Therapy for Refractory Pseudomonas aeruginosa Infectious Necrotizing Scleritis After Scleral Buckling: A Case Report.",
+      "abstract": "A 34-year-old man developed rapidly progressive infectious necrotizing scleritis following blunt ocular trauma and subsequent scleral buckle placement for rhegmatogenous retinal detachment. At presentation, best-corrected visual acuity was light perception, with conjunctival lysis, multifocal scleral thinning with uveal exposure, purulent discharge, and marked ocular inflammation. Microbiologic cultures grew Pseudomonas aeruginosa. Despite targeted topical and systemic antimicrobial therapy and surgical debridement with partial buckle removal and tectonic reconstruction, scleral necrosis continued to progress. RB-PDAT was performed as adjuvant therapy, resulting in rapid clinical improvement, stabilization of scleral thinning, resolution of purulence and active inflammation, and no further tissue loss during follow-up. RB-PDAT may be a useful adjunctive option for refractory infectious necrotizing scleritis, particularly in aggressive Pseudomonas infections when conventional medical and surgical measures fail to halt scleral melt.",
+      "year": "2026",
+      "journal": "Archivos de la Sociedad Espanola de Oftalmologia",
+      "authors": [
+        "Botero-Benítez Alejandra",
+        "Vera-Duarte Guillermo Raul",
+        "Muleiro-Alvarez Mauricio",
+        "Kahuam-López Nicolás",
+        "Ramirez-Miranda Arturo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42632563/"
+    },
+    {
+      "pmid": "42632562",
+      "title": "Neurovascular unit-targeted therapeutic strategies in diabetic retinopathy.",
+      "abstract": "Diabetic retinopathy (DR) has traditionally been regarded as a microvascular complication, but increasing evidence supports its classification as a neurovascular disease. The retinal neurovascular unit (NVU), comprising neurons, glial, and vascular, elements, is crucial for retinal homeostasis and is disrupted early in DR. The present narrative review aims to summarize current clinical evidence on the role of NVU dysfunction in DR and to evaluate the clinical benefits of NVU-oriented therapeutic strategies. Clinical data indicate that neurodegeneration and glial activation, precede overt blood-retinal barrier damage and microvascular breakdown observable in DR. Emerging NVU-oriented treatments, including topical neuroprotective agents, anti-inflammatory therapies, and selected systemic metabolic drugs, show beneficial effects on functional and structural retinal outcomes. Targeting NVU may represent a disease-modifying strategy, enabling earlier intervention and potentially preventing irreversible vision loss in DR. Further well-designed prospective and randomized studies are warranted to strengthen the level of evidence and validate this therapeutic approach.",
+      "year": "2026",
+      "journal": "Archivos de la Sociedad Espanola de Oftalmologia",
+      "authors": [
+        "Fragiotta S",
+        "Ciancimino C",
+        "Scuderi G"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42632562/"
+    },
+    {
+      "pmid": "42628995",
+      "title": "Selective retinal arterial whitening in retinal astrocytic hamartoma in tuberous sclerosis.",
+      "abstract": "This case report aims to describe and understand the mechanism behind the selective retinal arterial whitening in a case of retinal astrocytic hamartoma (RAH) associated with tuberous sclerosis complex (TSC). Multimodal imaging of a late-adolescent female with TSC-associated RAH demonstrated unique vascular features including selective whitening of the retinal arteries with sparing of the retinal veins. Genetic testing confirmed a TSC2 (tuberin) gene mutation, known to affect the mammalian target of rapamycin (mTOR) signalling pathway. To understand the mechanism behind selective arterial involvement, a literature review was conducted on vascular alterations in other TSC-affected organs (skin and kidneys). Histopathological analyses suggest that defects in the mTOR signalling pathway affect smooth muscle cells. Unlike retinal veins and smaller retinal arterioles, larger retinal arteries possess smooth muscle cells, making them more susceptible to similar pathological changes. Selective whitening of retinal arteries in TSC-associated RAH likely results from vascular remodelling influenced by mTOR mutations, leading to alterations in smooth muscle cells.",
+      "year": "2026",
+      "journal": "BMJ case reports",
+      "authors": [
+        "Aggarwal Akshita",
+        "Pappuru Rajeev Reddy",
+        "Sadda Srinivas",
+        "Narayanan Raja",
+        "Kaliki Swathi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Tuberous Sclerosis",
+        "Hamartoma",
+        "Retinal Artery",
+        "Retinal Diseases",
+        "Tuberous Sclerosis Complex 2 Protein",
+        "TOR Serine-Threonine Kinases"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628995/"
+    },
+    {
+      "pmid": "42628515",
+      "title": "Retinal organoids: From research tools to regenerative transplants.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "authors": [
+        "Alexandru Madalina A",
+        "Williamson James R H",
+        "Jacków-Malinowska Joanna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628515/"
+    },
+    {
+      "pmid": "42628363",
+      "title": "Isoprothiolane disrupts mitochondrial and endoplasmic reticulum homeostasis and impairs development of the embryonic nervous system in zebrafish.",
+      "abstract": "Isoprothiolane (IPT) is a widely used fungicide in Asian rice cultivation, yet its toxicological profile remains incompletely characterized, particularly regarding dermal exposure relevant to occupational settings. This study evaluated the cytotoxic mechanisms and developmental consequences of IPT exposure using human keratinocytes (HaCaT), dermal fibroblasts (HDF), and zebrafish (Danio rerio) embryos. In human skin cells, IPT produced predominantly cytostatic effects associated with severe mitochondrial dysfunction, including membrane depolarization, impaired oxidative phosphorylation, and a near-complete loss of spare respiratory capacity. IPT also induced an ER stress-associated response, evidenced by increased BiP expression, eIF2α phosphorylation, and concentration-dependent induction of ATF4 and CHOP. In zebrafish embryos, IPT exposure resulted in concentration-dependent developmental toxicity characterized by pericardial edema, reduced heart rate, growth retardation, and defects in eye and brain development. Toxicological assessments demonstrated pronounced ROS accumulation and increased apoptosis signals in cranial and retinal regions, accompanied by disrupted angiogenesis and neural development. N-acetylcysteine (NAC) attenuated ROS accumulation and vascular and neural abnormalities, supporting a contributory role of oxidative stress in these developmental effects. Collectively, these findings reveal sublethal mitochondrial bioenergetic impairment and ER stress-associated responses in human skin-derived cells, together with oxidative stress-associated vascular and neural developmental abnormalities in zebrafish, providing a broader understanding of IPT toxicity.",
+      "year": "2026",
+      "journal": "Journal of hazardous materials",
+      "authors": [
+        "Lee Sang-Jin",
+        "Lee Jin-Young"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628363/"
+    },
+    {
+      "pmid": "42621631",
+      "title": "Ocular Decompression Retinopathy Followed by Central Retinal Vein Occlusion After Augmented Trabeculectomy in Pseudoexfoliative Glaucoma: A Case Report.",
+      "abstract": "We report a rare sequential presentation of ocular decompressive retinopathy (ODR) and central retinal vein occlusion (CRVO) following trabeculectomy in a patient with pseudoexfoliative glaucoma (PXG). A 62-year-old woman with poorly controlled hypertension, bilateral grade II hypertensive retinopathy, and left-eye PXG initially achieved intraocular pressure (IOP) control with maximal medical therapy but was lost to follow-up. She re-presented with an IOP of 65 mmHg in the left eye and progressive glaucomatous damage despite maximal topical and systemic agents, necessitating augmented trabeculectomy with mitomycin C. Postoperatively, she developed hypotony (IOP: 5 mmHg) with fundus findings of ocular decompression retinopathy. Six weeks later, vision declined from 6/18 to 2/60 with new dilated tortuous veins, worsening hemorrhages, and cystoid macular edema (CME) confirmed on optical coherence tomography (OCT) (central subfield thickness (CST): 1100 µm). Fundus fluorescein angiography (FFA) showed delayed arteriovenous (AV) transit without capillary nonperfusion, consistent with nonischemic CRVO. She received three monthly intravitreal ranibizumab injections, resulting in the best-corrected visual acuity (BCVA) improvement of 6/24, marked CME resolution (389 µm), and stable IOP in the low teens. This case highlights that CRVO may occur after ODR-like postoperative retinal hemorrhages in high-risk patients after trabeculectomy, emphasizing the need for vigilant postoperative surveillance and prompt intervention to preserve vision.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Fakhrurazi Shahrir Fadhli",
+        "Cheng Teck Chee",
+        "Mohd Khialdin Safinaz",
+        "Che Hamzah Jemaima"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42621631/"
+    },
+    {
+      "pmid": "42611169",
+      "title": "Intravitreal Dexamethasone Implant in Punctate Inner Choroidopathy: Clinical Indications and Outcomes in a Real-World Case Series.",
+      "abstract": "The aim of this study is to characterize the clinical indications, treatment patterns, and outcomes associated with intravitreal dexamethasone implant (DEX implant) in eyes with punctate inner choroidopathy (PIC).",
+      "year": "2026",
+      "journal": "Ophthalmology and therapy",
+      "authors": [
+        "Capobianco Matteo",
+        "Rissotto Federico",
+        "Marzano Costanza",
+        "Trinco Andrea",
+        "Del Fabbro Sebastiano"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42611169/"
+    },
+    {
+      "pmid": "42603910",
+      "title": "Integrating optoacoustic microscopy with existing and emerging imaging modalities: a review.",
+      "abstract": "Multimodal imaging integrates complementary contrasts to improve the understanding of physiological processes and disease progression. In this review, we aim to summarize and critically assess the integration of optoacoustic microscopy (OAM) with established ultrasound-based and optical microscopy-based modalities, addressing how these hybrid systems enhance structural, functional, and molecular imaging across biomedical applications. A comprehensive literature review was conducted focusing on OAM-based multimodal microscopy platforms integrated with ultrasound microscopy and optical techniques, including optical coherence tomography, fluorescence microscopy, multiphoton microscopy, light-sheet microscopy, and Raman spectroscopy. Emerging strategies such as integration with quantitative phase imaging and advanced signal processing approaches, including the multiple signal classification algorithm, were also examined. Studies were analysed with respect to system design, image co-registration and fusion strategies, and application domains including oncology, dermatology, ophthalmology, and neuroscience. Multimodal OAM platforms demonstrated enhanced imaging performance by combining high optical contrast with improved penetration depth and functional sensitivity. These systems enabled detailed visualization of oxygenation, tumor angiogenesis, skin microarchitecture, retinal structures, and neuronal activity. Comparative analysis revealed trade-offs and synergies among modalities in terms of spatial resolution, penetration depth, frame rate, and field-of-view, highlighting the advantages of hybrid configurations over single-modality approaches. Hybrid OAM-based multimodal microscopy provides a powerful framework for comprehensive biomedical imaging. By leveraging complementary contrasts and advanced image fusion strategies, these platforms hold strong potential to advance both fundamental research and translational clinical applications.",
+      "year": "2026",
+      "journal": "Biomedical engineering letters",
+      "authors": [
+        "Ranjan Abhishek",
+        "Jensen Mathias Novik",
+        "Dubey Astita",
+        "Kalva Sandeep Kumar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42603910/"
+    },
+    {
+      "pmid": "42603628",
+      "title": "Daily topical latanoprost free acid exacerbates retinal ganglion cell degeneration in the DBA/2J mouse model of pigment dispersion glaucoma.",
+      "abstract": "To compare diazoxide (DZ), an ATP-sensitive potassium channel opener and latanoprost free acid (LFA), the active metabolite of the prostaglandin analogue latanoprost, a first-line agent for intraocular pressure (IOP) reduction in patients with glaucoma, on IOP, retinal ganglion cell (RGC) density, retinal morphology, and glial cell activation in the DBA/2J mouse model of pigment dispersion glaucoma.",
+      "year": "2026",
+      "journal": "Prostaglandins & other lipid mediators",
+      "authors": [
+        "Niknam Parvin",
+        "Omer Mohammed E",
+        "Anderson Kjersten J",
+        "Rinkoski Tommy A",
+        "Roy Chowdhury Uttio"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42603628/"
+    }
+  ],
+  "crawled_at": "2026-08-23T21:26:43.433170",
+  "source": "pubmed"
+}
