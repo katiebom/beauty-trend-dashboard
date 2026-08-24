@@ -1,0 +1,106 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "wound healing skin",
+  "query": "(\"exosome\"[Title/Abstract] AND \"wound healing skin\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 4,
+  "articles": [
+    {
+      "pmid": "41127790",
+      "title": "The Potential Application of Exosomes as Therapeutic Agents, Carriers, and Biomarkers in Skin Diseases.",
+      "abstract": "Exosomes, owing to their potent capabilities for intercellular communication, have great potential in modern medicine. The pathogenesis of skin diseases is predominantly characterized by immune imbalance and impaired regenerative processes. Exosomes are rich in microRNAs, lipids, and proteins, which play a crucial role in immune regulation and regenerative medicine. Recent studies have highlighted the involvement of exosomes in the therapeutic management of dermatological disorders. This review provides a comprehensive overview of the potential therapeutic applications of exosomes in autoimmune skin conditions, such as systemic lupus erythematosus, systemic sclerosis, psoriasis, and vitiligo, as well as their roles in skin wound healing, skin aging, scar formation, skin flap regeneration, hair regeneration, and other skin regenerative disorders. The paper examines various exosome delivery methods and evaluates current clinical trials, identifying challenges related to exosome isolation, preservation, active components, mechanistic understanding, and clinical translation. Furthermore, it delineates future research directions and proposes innovative strategies for advancing exosome-based therapies in dermatology.",
+      "year": "2025",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Li Wenjing",
+        "Li Haiyan",
+        "Fan Liangliang",
+        "Zhao Ronghua",
+        "Dong Fusong"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Humans",
+        "Skin Diseases",
+        "Biomarkers",
+        "Autoimmune Diseases",
+        "MicroRNAs",
+        "Drug Delivery Systems"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41127790/"
+    },
+    {
+      "pmid": "39832778",
+      "title": "Exosomes in Facial Plastic Surgery.",
+      "abstract": "Exosomes have emerged as a promising therapeutic frontier in facial plastic surgery. Preclinical studies have demonstrated their ability to modulate wound healing, skin rejuvenation, hair growth, and nerve regeneration. Early clinical evidence suggests potential benefits in enhancing recovery after laser resurfacing, treating acne scars, and promoting hair growth. Despite their potential, there are currently no exosome products that are FDA-approved for medical use, and they should be considered experimental until receiving regulatory approval and robust clinical validation. As research advances, exosomes may offer valuable tools for facial plastic surgeons to improve patient outcomes and expand regenerative medicine applications in facial aesthetics and reconstruction.",
+      "year": "2025",
+      "journal": "Facial plastic surgery : FPS",
+      "authors": [
+        "Abraham Manoj T",
+        "Wilson John"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Face",
+        "Wound Healing",
+        "Rejuvenation",
+        "Cicatrix",
+        "Plastic Surgery Procedures",
+        "Surgery, Plastic",
+        "Cosmetic Techniques",
+        "Nerve Regeneration"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39832778/"
+    },
+    {
+      "pmid": "34536054",
+      "title": "Stem cell-derived exosomes: A supernova in cosmetic dermatology.",
+      "abstract": "Stem cell-derived exosomes are cell-free vesicles secreted by stem cells. Exosomes play a pivotal role in cell-to cell communication due to the functional proteins and genetic information which they carry. In addition, studies on cell migration, tumor invasion, tissue regeneration, myocardial repair after injury, and fracture healing have been widely reported.",
+      "year": "2021",
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Shen Xu",
+        "Song Shenghua",
+        "Chen Nian",
+        "Liao Junlin",
+        "Zeng Li"
+      ],
+      "mesh_terms": [
+        "Dermatology",
+        "Exosomes",
+        "Mesenchymal Stem Cells",
+        "Stem Cells",
+        "Wound Healing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34536054/"
+    },
+    {
+      "pmid": "31483606",
+      "title": "Efficient Angiogenesis-Based Diabetic Wound Healing/Skin Reconstruction through Bioactive Antibacterial Adhesive Ultraviolet Shielding Nanodressing with Exosome Release.",
+      "abstract": "Diabetic wound healing and angiogenesis remain a worldwide challenge for both clinic and research. The use of adipose stromal cell derived exosomes delivered by bioactive dressing provides a potential strategy for repairing diabetic wounds with less scar formation and fast healing. In this study, we fabricated an injectable adhesive thermosensitive multifunctional polysaccharide-based dressing (FEP) with sustained pH-responsive exosome release for promoting angiogenesis and diabetic wound healing. The FEP dressing possessed multifunctional properties including efficient antibacterial activity/multidrug-resistant bacteria, fast hemostatic ability, self-healing behavior, and tissue-adhesive and good UV-shielding performance. FEP@exosomes (FEP@exo) can significantly enhance the proliferation, migration, and tube formation of endothelial cells ",
+      "year": "2019",
+      "journal": "ACS nano",
+      "authors": [
+        "Wang Min",
+        "Wang Chenggui",
+        "Chen Mi",
+        "Xi Yuewei",
+        "Cheng Wei"
+      ],
+      "mesh_terms": [
+        "Adhesives",
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Bacteria",
+        "Bandages",
+        "Collagen",
+        "Diabetes Mellitus, Experimental",
+        "Exosomes",
+        "Hemostasis",
+        "Human Umbilical Vein Endothelial Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31483606/"
+    }
+  ],
+  "crawled_at": "2026-08-24T21:40:39.684554"
+}

@@ -1,0 +1,146 @@
+{
+  "ingredient_id": "ceramide",
+  "name_kr": "세라마이드",
+  "name_en": "Ceramide",
+  "query": "(\"Ceramide\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 7,
+  "recent_complete_count": 6,
+  "trials": [
+    {
+      "nct_id": "NCT06943469",
+      "title": "Effect of Partially Hydrolyzed Formula With Synbiotics on Skin Barrier Function",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atopic Dermatitis (AD)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Test formula"
+        },
+        {
+          "type": "OTHER",
+          "name": "Control formula"
+        }
+      ],
+      "sponsor": "Société des Produits Nestlé (SPN)",
+      "primary_completion": "2027-10",
+      "url": "https://clinicaltrials.gov/study/NCT06943469"
+    },
+    {
+      "nct_id": "NCT06669949",
+      "title": "Natural History of Sphingosine Phosphate Lyase Insufficiency Syndrome (SPLIS)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Sphingosine Phosphate Lyase Insufficiency Syndrome (SPLIS)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "no intervention"
+        }
+      ],
+      "sponsor": "University of California, San Francisco",
+      "primary_completion": "2030-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06669949"
+    },
+    {
+      "nct_id": "NCT07719309",
+      "title": "Exploratory Study of Peristomal and Non-Peristomal Skin Barrier Characteristics in People With a Stoma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Colostomy - Stoma",
+        "Ileostomy - Stoma",
+        "Urostomy"
+      ],
+      "interventions": [],
+      "sponsor": "Salts Healthcare",
+      "primary_completion": "2028-05",
+      "url": "https://clinicaltrials.gov/study/NCT07719309"
+    },
+    {
+      "nct_id": "NCT07735169",
+      "title": "Clinical Observation of Skin Condition in Patients With Acne Vulgaris Using Ubiquinol, Pomegranate Peel Extract, Ceramide, and Salicylic Acid Emulsion",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Acne"
+      ],
+      "interventions": [],
+      "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07735169"
+    },
+    {
+      "nct_id": "NCT07411638",
+      "title": "Non-interventional Translational Study in Mild, Moderate and Severe Acne Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Acne"
+      ],
+      "interventions": [],
+      "sponsor": "National Skin Centre",
+      "primary_completion": "2028-02-14",
+      "url": "https://clinicaltrials.gov/study/NCT07411638"
+    },
+    {
+      "nct_id": "NCT07250880",
+      "title": "Evaluation of Serum Ceramides C16, C24, and Sphingosine-1-Phosphate (S1P) in Patients With Acne Vulgaris",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Acne Vulgaris"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Blood sample collection for biochemical analysis of serum ceramides (C16, C24) and sphingosine-1-phosphate (S1P)."
+        }
+      ],
+      "sponsor": "Sohag University",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT07250880"
+    },
+    {
+      "nct_id": "NCT07183423",
+      "title": "Novel Skin Barrier Product Versus Petrolatum for Skin Barrier Dysfunction",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriasis",
+        "Atopic Dermatitis",
+        "Xerosis",
+        "Contact Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Novel barrier repair topical product"
+        },
+        {
+          "type": "OTHER",
+          "name": "Petrolatum"
+        }
+      ],
+      "sponsor": "Makati Medical Center",
+      "primary_completion": "2025-09",
+      "url": "https://clinicaltrials.gov/study/NCT07183423"
+    }
+  ],
+  "fetched_at": "2026-08-24T21:39:42.531118"
+}

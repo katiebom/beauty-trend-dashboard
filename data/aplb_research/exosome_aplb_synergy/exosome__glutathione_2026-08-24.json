@@ -1,0 +1,223 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "glutathione",
+  "query": "(\"exosome\"[Title/Abstract] AND \"glutathione\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 8,
+  "articles": [
+    {
+      "pmid": "41728888",
+      "title": "Synergistic combination of quercetin and kaempferol via milk exosome-based emulsion for enhanced antioxidant and anti-skin aging efficacy.",
+      "abstract": "The natural flavonoids quercetin (Que) and kaempferol (Kae) show great potential for anti-aging applications but suffer from poor solubility and skin permeability. This study aimed to develop a synergistic topical emulsion system to overcome the poor bioavailability of the Que and Kae for enhanced efficacy. The optimal synergistic molar ratio (Que:Kae = 1:2) was first identified ",
+      "year": "2026",
+      "journal": "Pharmaceutical development and technology",
+      "authors": [
+        "Gu Xuemei",
+        "Wang Jie",
+        "Chen Jing",
+        "Lv Zhiyang",
+        "Wu Shaohua"
+      ],
+      "mesh_terms": [
+        "Quercetin",
+        "Animals",
+        "Kaempferols",
+        "Antioxidants",
+        "Emulsions",
+        "Skin Aging",
+        "Mice",
+        "Milk",
+        "Exosomes",
+        "Drug Synergism"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41728888/"
+    },
+    {
+      "pmid": "39970726",
+      "title": "Milk-derived exosome-loaded SS31 as a novel strategy to mitigate UV-induced photodamage in skin.",
+      "abstract": "It is widely recognized that ultraviolet (UV) radiation primarily catalyses photodamage in the skin by generating reactive oxygen species (ROS). In this study, we developed a novel antioxidant complex, Exo-SS31, by loading the antioxidant peptide SS31 (also known as MTP-131, elamipretide) into milk-derived exosomes. Our findings indicate that Exo-SS31 is an effective antioxidant capable of mitigating Human dermal fibroblast (HDF) damage induced by ultraviolet exposure, suppressing ROS production, and achieving greater therapeutic efficacy than SS31 alone. This complex can regulate the levels of superoxide dismutase (SOD) and glutathione (GSH) within the skin, inhibit the expression of proteins in pathways such as pMAPK and AP-1 triggered by UV radiation, and reduce the expression of the matrix metalloproteinases MMP1 and MMP3. Through these mechanisms, Exo-SS31 effectively prevents collagen degradation in the dermis and inhibits ultraviolet-induced photodamage. The use of milk-derived exosomes as carriers for antioxidant peptides represents a promising strategy to increase the bioavailability of peptide-based therapeutics.",
+      "year": "2025",
+      "journal": "Journal of photochemistry and photobiology. B, Biology",
+      "authors": [
+        "Luo Ding",
+        "Mao Yanhong",
+        "Zhang Shengni",
+        "Shen Shengqiang",
+        "Ge Xiaohu"
+      ],
+      "mesh_terms": [
+        "Ultraviolet Rays",
+        "Humans",
+        "Exosomes",
+        "Skin",
+        "Reactive Oxygen Species",
+        "Matrix Metalloproteinase 1",
+        "Antioxidants",
+        "Milk",
+        "Fibroblasts",
+        "Superoxide Dismutase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39970726/"
+    },
+    {
+      "pmid": "39835358",
+      "title": "Evaluation of the Effect of Exosomes From Adipose Derived Stem Cells on Changes in GSH/ROS Levels During Skin Photoaging.",
+      "abstract": "Exosomes (Exos) from adipose derived stem cells (ADSCs) can delay skin photoaging, but their effects on reactive oxygen species (ROS) remains unclear. This study aimed to investigate the relationship between adipose derived stem cell exosomes (ADSCs-Exos) in anti-photoaging of skin and glutathione (GSH)/ ROS expression in human fibroblasts.",
+      "year": "2025",
+      "journal": "Photodermatology, photoimmunology & photomedicine",
+      "authors": [
+        "Wang Yiping",
+        "Shen Xu",
+        "Song Shenghua",
+        "Chen Nian",
+        "Wang Yihao"
+      ],
+      "mesh_terms": [
+        "Skin Aging",
+        "Exosomes",
+        "Stem Cells",
+        "Adipose Tissue",
+        "Glutathione",
+        "Reactive Oxygen Species",
+        "Fibroblasts",
+        "Humans",
+        "Cells, Cultured",
+        "beta-Galactosidase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39835358/"
+    },
+    {
+      "pmid": "39255693",
+      "title": "Oxidative stress promotes oral carcinogenesis via Thbs1-mediated M1-like tumor-associated macrophages polarization.",
+      "abstract": "Although oxidative stress is closely associated with tumor invasion and metastasis, its' exact role and mechanism in the initial stage of oral cancer remain ambiguous. Glutamine uptake mediated by alanine-serine-cysteine transporter 2 (ASCT2) participates in glutathione synthesis to resolve oxidative stress. Currently, we firstly found that ASCT2 deletion caused oxidative stress in oral mucosa and promoted oral carcinogenesis induced by 4-Nitroquinoline-1-oxide (4-NQO) using transgenic mice of ASCT2 knockout in oral epithelium. Subsequently, we identified an upregulated gene Thbs1 linked to macrophage infiltration by mRNA sequencing and immunohistochemistry. Importantly, multiplex immunohistochemistry showed M1-like tumor-associated macrophages (TAMs) were enriched in cancerous area. Mechanically, targeted ASCT2 effectively curbed glutamine uptake and caused intracellular reactive oxygen species (ROS) accumulation, which upregulated Thbs1 in oral keratinocytes and then activated p38, Akt and SAPK/JNK signaling to polarize M1-like TAMs via exosome-transferred pathway. Moreover, we demonstrated M1-like TAMs promoted malignant progression of oral squamous cell carcinoma (OSCC) both in vitro and in vivo by a DOK transformed cell line induced by 4-NQO. All these results establish that oxidative stress triggered by ASCT2 deletion promotes oral carcinogenesis through Thbs1-mediated M1 polarization, and indicate that restore redox homeostasis is a new approach to prevent malignant progression of oral potentially malignant disorders.",
+      "year": "2024",
+      "journal": "Redox biology",
+      "authors": [
+        "Li Wei",
+        "Zeng Qingwen",
+        "Wang Bing",
+        "Lv Chao",
+        "He Haoan"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Oxidative Stress",
+        "Mice",
+        "Mouth Neoplasms",
+        "Humans",
+        "Thrombospondin 1",
+        "Tumor-Associated Macrophages",
+        "Reactive Oxygen Species",
+        "Carcinogenesis",
+        "4-Nitroquinoline-1-oxide"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39255693/"
+    },
+    {
+      "pmid": "39008916",
+      "title": "Camouflaging nanoreactor traverse the blood-brain barrier to catalyze redox cascade for synergistic therapy of glioblastoma.",
+      "abstract": "The blood-brain barrier (BBB) is a complex and highly restrictive barrier that prevents most biomolecules and drugs from entering the brain. However, effective strategies for delivering drugs to the brain are urgently needed for the treatment of glioblastoma. Based on the efficient BBB penetration properties of exosomes derived from brain metastatic breast cancer cells (EB), this work prepared a nanoreactor (denoted as MAG@EB), which was constructed by self-assembly of Mn",
+      "year": "2024",
+      "journal": "Biomaterials",
+      "authors": [
+        "Cheng WeiYi",
+        "Ren WeiYe",
+        "Ye Peng",
+        "He Li",
+        "Bao Dandan"
+      ],
+      "mesh_terms": [
+        "Glioblastoma",
+        "Blood-Brain Barrier",
+        "Humans",
+        "Oxidation-Reduction",
+        "Animals",
+        "Cell Line, Tumor",
+        "Brain Neoplasms",
+        "Glucose Oxidase",
+        "Hydrogen Peroxide",
+        "Nanoparticles"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39008916/"
+    },
+    {
+      "pmid": "37888610",
+      "title": "Exosomes derived from human dermal fibroblasts protect against UVB‑induced skin photoaging.",
+      "abstract": "Exosomes are used as innovative treatment options for repairing skin defects, such as aging, atopic dermatitis and wounds. However, the effects of exosomes obtained from human foreskin fibroblasts BJ‑5ta (BJ‑5ta Exo) on ultraviolet B (UVB)‑mediated photoaging have not been previously reported, at least to the best of our knowledge. Therefore, the present study aimed to investigate the anti‑photoaging effects of BJ‑5ta Exo on UVB radiation in human skin fibroblasts and SKH‑1 hairless mice. The results revealed that BJ‑5ta Exo decreased the production of reactive oxygen species and inhibited the decrease in the expression levels of superoxide dismutase 1 and 2, glutathione peroxidase and catalase following UVB exposure. In addition, BJ‑5ta Exo attenuated the decrease in nuclear factor erythroid 2‑related factor 2 levels induced by UVB rays, indicating its scavenging activity against oxidative stress. Moreover, BJ‑5ta Exo inhibited the UVB‑induced increase in the levels of γH2AX, p53/21 and cleaved PARP, whereas it promoted DNA double‑strand break repair through radiation sensitive 52 and effectively activated the TGF‑β1/Smad pathway. BJ‑5ta Exo also protected against UVB‑induced senescence, as indicated by the downregulation in the levels of senescence‑associated β‑galactosidase and p16. In a mouse model of photoaging, BJ‑5ta Exo prevented the UVB‑induced increase in transepidermal water loss, wrinkle formation and MMP‑1 expression, while also suppressing the UVB‑mediated decrease in collagen type I and elastin levels in the dorsal skin. Overall, the findings of the present study suggest that BJ‑5ta Exo represent an effective anti‑photoaging agent, which can be used as a component in cosmetic products.",
+      "year": "2023",
+      "journal": "International journal of molecular medicine",
+      "authors": [
+        "Park A Yeon",
+        "Lee Jung Ok",
+        "Jang Youna",
+        "Kim Yu-Jin",
+        "Lee Jung Min"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Humans",
+        "Skin Aging",
+        "Exosomes",
+        "Skin",
+        "Collagen Type I",
+        "Fibroblasts",
+        "Ultraviolet Rays",
+        "Reactive Oxygen Species"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37888610/"
+    },
+    {
+      "pmid": "37385136",
+      "title": "Exosome camouflaged coordination-assembled Iridium(III) photosensitizers for apoptosis-autophagy-ferroptosis induced combination therapy against melanoma.",
+      "abstract": "Melanoma represents the most fatal form of skin cancer due to its resistance mechanisms and high capacity for the development of metastases. Among other medicinal techniques, photodynamic therapy is receiving increasing attention. Despite promising results, the application of photodynamic therapy is inherently limited due to interference from melanin, poor tissue penetration of photosensitizers, low loading into drug delivery systems, and a lack of tumor selectivity. To overcome these limitations, herein, the coordination-driven assembly of Ir(III) complex photosensitizers with Fe(III) ions into nanopolymers for combined photodynamic therapy and chemodynamic therapy is reported. While remaining stable under physiological conditions, the nanopolymers dissociated in the tumor microenvironment. Upon exposure to light, the Ir(III) complexes produced singlet oxygen and superoxide anion radicals, inducing cell death by apoptosis and autophagy. The Fe(III) ions were reduced to Fe(II) upon depletion of glutathione and reduction of the GPX4 levels, triggering cell death by ferroptosis. To provide tumor selectivity, the nanopolymers were further camouflaged with exosomes. The generated nanoparticles were found to eradicate a melanoma tumor as well as inhibit the formation of metastases inside a mouse model.",
+      "year": "2023",
+      "journal": "Biomaterials",
+      "authors": [
+        "Feng Tao",
+        "Tang Zixin",
+        "Karges Johannes",
+        "Shen Jinchao",
+        "Jin Chengzhi"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Photosensitizing Agents",
+        "Iridium",
+        "Ferroptosis",
+        "Exosomes",
+        "Ferric Compounds",
+        "Neoplasms",
+        "Photochemotherapy",
+        "Melanoma"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37385136/"
+    },
+    {
+      "pmid": "32791387",
+      "title": "MSC-derived exosomes protect against oxidative stress-induced skin injury via adaptive regulation of the NRF2 defense system.",
+      "abstract": "Oxidative stress is a major cause of skin injury induced by damaging stimuli such as UV radiation. Currently, owing to their immunomodulatory properties, mesenchymal stem cell-derived exosomes (MSC-Exo), as a nanotherapeutic agent, have attracted considerable attention. Here, we investigated the therapeutic effects of MSC-Exo on oxidative injury in H",
+      "year": "2020",
+      "journal": "Biomaterials",
+      "authors": [
+        "Wang Tian",
+        "Jian Zhe",
+        "Baskys Andrius",
+        "Yang Junle",
+        "Li Jianying"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Exosomes",
+        "Hydrogen Peroxide",
+        "Mesenchymal Stem Cells",
+        "Mice",
+        "NF-E2-Related Factor 2",
+        "Oxidative Stress"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32791387/"
+    }
+  ],
+  "crawled_at": "2026-08-24T21:40:32.087190"
+}

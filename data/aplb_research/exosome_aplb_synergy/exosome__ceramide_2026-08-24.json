@@ -1,0 +1,61 @@
+{
+  "ingredient_a": "exosome",
+  "ingredient_b": "ceramide",
+  "query": "(\"exosome\"[Title/Abstract] AND \"ceramide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 2,
+  "articles": [
+    {
+      "pmid": "37511392",
+      "title": "Exosome from IFN-γ-Primed Induced Pluripotent Stem Cell-Derived Mesenchymal Stem Cells Improved Skin Inflammation and Barrier Function.",
+      "abstract": "The pathogenesis of atopic dermatitis (AD) is multifactorial, including immune dysregulation and epidermal barrier defects, and a novel therapeutic modality that can simultaneously target multiple pathways is needed. We investigated the therapeutic effects of exosomes (IFN-γ-iExo) secreted from IFN-γ-primed induced pluripotent stem cell-derived mesenchymal stem cells (iMSC) in mice with ",
+      "year": "2023",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Yoon Jin",
+        "Lee Seul Ki",
+        "Park Arum",
+        "Lee Jiho",
+        "Jung Inuk"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Mice",
+        "Cytokines",
+        "Dermatitis, Atopic",
+        "Exosomes",
+        "Induced Pluripotent Stem Cells",
+        "Inflammation",
+        "Interferon-gamma",
+        "Mesenchymal Stem Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37511392/"
+    },
+    {
+      "pmid": "33960414",
+      "title": "Sphingomyelinases in a journey to combat arthropod-borne pathogen transmission.",
+      "abstract": "Ixodes scapularis ticks feed on humans and other vertebrate hosts and transmit several pathogens of public health concern. Tick saliva is a complex mixture of bioactive proteins, lipids and immunomodulators, such as I. scapularis sphingomyelinase (IsSMase)-like protein, an ortholog of dermonecrotoxin SMase D found in the venom of Loxosceles spp. of spiders. IsSMase modulates the host immune response towards Th2, which suppresses Th1-mediated cytokines to facilitate pathogen transmission. Arboviruses utilize exosomes for their transmission from tick to the vertebrate host, and exosomes derived from tick saliva/salivary glands suppress C-X-C motif chemokine ligand 12 and interleukin-8 immune response(s) in human skin to delay wound healing and repair processes. IsSMase affects also viral replication and exosome biogenesis, thereby inhibiting tick-to-vertebrate host transmission of pathogenic exosomes. In this review, we elaborate on exosomes and their biogenesis as potential candidates for developing novel control measure(s) to combat tick-borne diseases. Such targets could help with the development of an efficient anti-tick vaccine for preventing the transmission of tick-borne pathogens.",
+      "year": "2021",
+      "journal": "FEBS letters",
+      "authors": [
+        "Rajendran Kundave V",
+        "Neelakanta Girish",
+        "Sultana Hameeda"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Arbovirus Infections",
+        "Arboviruses",
+        "Arthropod Proteins",
+        "Humans",
+        "Immunologic Factors",
+        "Ixodes",
+        "Salivary Glands",
+        "Sphingomyelin Phosphodiesterase",
+        "Th1 Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33960414/"
+    }
+  ],
+  "crawled_at": "2026-08-24T21:40:35.440593"
+}

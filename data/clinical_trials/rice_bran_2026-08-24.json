@@ -1,0 +1,34 @@
+{
+  "ingredient_id": "rice_bran",
+  "name_kr": "쌀겨",
+  "name_en": "Rice Bran",
+  "query": "(\"Rice Bran\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 1,
+  "recent_complete_count": 1,
+  "trials": [
+    {
+      "nct_id": "NCT07503496",
+      "title": "Evaluation of the Efficacy of Biobran (Rice Bran Arabinoxylan) in Supporting Breast Cancer Chemotherapy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer Stages I",
+        "Breast Cancer Stages II",
+        "Breast Cancer Stage III"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Biobran supplementation"
+        }
+      ],
+      "sponsor": "China Medical University Hospital",
+      "primary_completion": "2026-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT07503496"
+    }
+  ],
+  "fetched_at": "2026-08-24T21:39:56.236830"
+}

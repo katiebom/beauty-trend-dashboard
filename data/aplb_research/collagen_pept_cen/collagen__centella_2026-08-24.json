@@ -1,0 +1,368 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "centella",
+  "query": "(\"collagen\"[Title/Abstract] AND \"centella\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42592986",
+      "title": "Topical ",
+      "abstract": "To evaluate the effects of topical ",
+      "year": "2026",
+      "journal": "Medicinski glasnik : official publication of the Medical Association of Zenica-Doboj Canton, Bosnia and Herzegovina",
+      "authors": [
+        "Setiawan Eko",
+        "Nabih Dimas Irfan",
+        "Rahman Farhan Arifendy",
+        "Syarief Hasan"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Rats, Wistar",
+        "Wound Healing",
+        "Rats",
+        "Centella",
+        "Diabetes Mellitus, Experimental",
+        "Inflammation",
+        "Triterpenes",
+        "Gels"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42592986/"
+    },
+    {
+      "pmid": "42445113",
+      "title": null,
+      "abstract": "Skin aging is driven by the progressive accumulation of oxidative stress and chronic inflammation, leading to fibroblast dysfunction, extracellular matrix degradation, and impaired tissue repair. ",
+      "year": "2026",
+      "journal": "Frontiers in molecular biosciences",
+      "authors": [
+        "Nezi Paola",
+        "Vella Enrica",
+        "Riva Antonella",
+        "Cicogni Mattia",
+        "Cicaloni Vittoria"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42445113/"
+    },
+    {
+      "pmid": "42343000",
+      "title": "Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asiatica.",
+      "abstract": "The aging process is essentially a result of a network of biological events including oxidative stress, chronic inflammation, cellular senescence, mitochondrial dysfunction, and neurodegeneration. In the search for effective multi-target anti-aging strategies, there is a growing trend towards the use of plant compounds with strong bioactivities. Among numerous medicinal plants, Urtica dioica and Centella asiatica are two of the most extensively studied for their antioxidant, anti-inflammatory, neuroprotective, and skin-regenerative effects. This paper is a comprehensive review of the phytochemical contents, pharmacological effects, and combined potentials of these plants in the alleviation of aging-related biological markers. Urtica dioica is a plant that is packed with flavonoids, phenolic acids, sterols, and vitamins and it has a strong capability to scavenge free radicals. It also changes the inflammatory pathways and keeps cells alive. Centella asiatica, which is known to have triterpenoids like asiaticoside, madecassoside, and asiatic acid, not only facilitates collagen production but also improves brain function and is effective in getting rid of oxidative and inflammatory stressors that lead to aging. As a result, the duo of these natural products exhibits the most similar functions that can navigate the senescence-associated pathways, attack neuronal loss and preserve skin morphology and physiology. Although there is sufficient preclinical evidence and some clinical trials to support the fact that these two plant extracts have therapeutic effects, the problems related to standardization, bioavailability, safety, and regulatory approval of combined herbal formulations remain. This review bridges the gap between the present mechanistic understanding, clinical utilization, drawbacks, and future directions, thereby, reflecting the potential of U. dioica and C. asiatica as two synergistic anti-aging agents in nutraceutical, cosmeceutical, and integrative medicine frameworks.",
+      "year": "2026",
+      "journal": "Inflammopharmacology",
+      "authors": [
+        "Dobriyal Pratiksha",
+        "Singh Vaishnavi",
+        "Goel Falguni",
+        "Garg Vipin Kumar"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Oxidative Stress",
+        "Centella",
+        "Animals",
+        "Aging",
+        "Urtica dioica",
+        "Triterpenes",
+        "Plant Extracts",
+        "Antioxidants",
+        "Neurodegenerative Diseases"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42343000/"
+    },
+    {
+      "pmid": "42280293",
+      "title": "Geroprotective Potential of ",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Borowicz Kinga K"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Centella",
+        "Animals",
+        "Cellular Senescence",
+        "Triterpenes",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Antioxidants",
+        "Signal Transduction",
+        "Aging"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42280293/"
+    },
+    {
+      "pmid": "42252897",
+      "title": "Anti-Photoaging and Anti-Melanogenic Effects of a Novel ",
+      "abstract": "Ultraviolet B (UVB) irradiation is a major contributor to photoaging and hyperpigmentation, leading to collagen damage and excessive melanin accumulation. This study investigated the anti-photoaging and anti-melanogenic effects of heat-killed ",
+      "year": "2026",
+      "journal": "Journal of microbiology and biotechnology",
+      "authors": [
+        "Seo Jiwon",
+        "Sung Eun Jin",
+        "Son Do Yeong",
+        "Yoo Dae Sung",
+        "Seo Dae Bang"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Mice",
+        "alpha-MSH",
+        "Cell Line, Tumor",
+        "Centella",
+        "Collagen",
+        "Fibroblasts",
+        "Lactiplantibacillus plantarum",
+        "Matrix Metalloproteinase 1"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42252897/"
+    },
+    {
+      "pmid": "41964367",
+      "title": "The potential of plant-derived exosome-like nanovesicles from ",
+      "abstract": "This study aimed to isolate plant-derived exosome-like nanovesicles from ",
+      "year": "2026",
+      "journal": "Future science OA",
+      "authors": [
+        "Barlian Anggraini",
+        "Cho Youngkwan",
+        "Rahmah Yulia",
+        "Az Zahra Annisa Nurrahmi",
+        "Maulidisya Hanifa Azka"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41964367/"
+    },
+    {
+      "pmid": "41866921",
+      "title": "Therapeutic potential of ",
+      "abstract": "Endoscopic submucosal dissection (ESD) is the standard treatment for early gastrointestinal cancers but is often complicated by delayed healing and stenosis. Current therapies like proton pump inhibitors primarily suppress acid without actively promoting mucosal regeneration. ",
+      "year": "2026",
+      "journal": "Pharmaceutical biology",
+      "authors": [
+        "Li Qinghua",
+        "Chen Wangqi",
+        "Xie Yuxia",
+        "Zhu Hong"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Animals",
+        "Triterpenes",
+        "Endoscopic Mucosal Resection",
+        "Drug Delivery Systems",
+        "Anti-Inflammatory Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41866921/"
+    },
+    {
+      "pmid": "41657731",
+      "title": "Evaluation of liposome",
+      "abstract": "Encapsulating herbal extracts with wound-healing properties in liposomes may enhance their stability and delivery performance. This study evaluated the biological efficacy of a liposome-encapsulated ethanolic extract of ",
+      "year": "2026",
+      "journal": "Frontiers in medical technology",
+      "authors": [
+        "Chonsut Piriya",
+        "Tawanwongsri Weeratian",
+        "Naphatthalung Jomkarn",
+        "Chokpaisarn Julalak",
+        "Charoensup Rawiwan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41657731/"
+    },
+    {
+      "pmid": "41574389",
+      "title": "Enhancing Wound Healing with a Novel Alginate/Eggshell Membrane-Based Hydrogel Enriched with Red Ginseng Roots and Centella Asiatica.",
+      "abstract": "Bridging ancient herbal wisdom with modern biomaterial innovation, this study pioneers a smart hydrogel infused with Red Ginseng (RG) (angiogenesis-boosting ginsenosides) and Centella asiatica (collagen-stimulating asiaticoside), synergized with alginate and upcycled eggshell membrane for unrivaled wound adhesion and eco-conscious design. Unlike conventional hydrogels, this bioactive synergy accelerates tissue regeneration while fighting antibiotic-resistant infections, thus opening up a new era of wound care inspired by nature.",
+      "year": "2026",
+      "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+      "authors": [
+        "Esmaeili Samaneh",
+        "Rahmati Majid",
+        "Salehi Majid",
+        "Yahaya Badrul Hisham",
+        "Zamani Sepehr"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Alginates",
+        "Centella",
+        "Panax",
+        "Hydrogels",
+        "Rats",
+        "Plant Roots",
+        "Triterpenes",
+        "Egg Shell"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41574389/"
+    },
+    {
+      "pmid": "41559388",
+      "title": "Comparative Evaluation of Single and Combination Pharmacologic and Device-Based Anti-scar Therapies in a Murine Linear Wound Model.",
+      "abstract": "Scarring, a form of tissue fibrosis, is an unavoidable outcome of wound healing and can lead to cosmetic, functional, and psychological burdens. While both surgical and non-surgical treatments are available, non-invasive topical therapies are generally more acceptable to patients and easier to maintain over the long-term. Despite the availability of various anti-scar products targeting inflammation, hydration, and mechanical tension, there is a lack of comparative data on their individual and combined efficacy. Therefore, evidence-based guidance is needed to optimize scar prevention strategies.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Wang Yi",
+        "Guo Kai",
+        "Li Ying",
+        "Zhao Wan-Yi",
+        "Wu Zhang-Rui"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Cicatrix",
+        "Mice, Inbred C57BL",
+        "Wound Healing",
+        "Disease Models, Animal",
+        "Immunohistochemistry",
+        "Female",
+        "Combined Modality Therapy",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41559388/"
+    },
+    {
+      "pmid": "41516082",
+      "title": "Oral ",
+      "abstract": null,
+      "year": "2025",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Choi Yean Jung",
+        "Cho Eun-Chae",
+        "Lim Seungtae",
+        "Lee Jaemin",
+        "Bae Jaewoo"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ultraviolet Rays",
+        "Skin Aging",
+        "Mice, Hairless",
+        "Antioxidants",
+        "Mice",
+        "Anti-Inflammatory Agents",
+        "Centella",
+        "Triterpenes",
+        "Extracellular Matrix"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41516082/"
+    },
+    {
+      "pmid": "41469630",
+      "title": "Wound healing activity of Sweetgum oil (Liquidambar orientalis L. balsam): characterization of its mechanism of action on HaCaT human keratinocyte cells and possible responsible active constituents.",
+      "abstract": "INTRODUCTION: BACKGROUND: Sweetgum oil (Liquidambar orientalis Mill.; Styrax liquidus) is traditionally used in Turkey for wounds and burns, yet its cellular mechanisms remain unclear. METHODS: Two locally sourced sweetgum oil samples were tested in human HaCaT keratinocytes. Cytotoxicity was assessed by MTT. Proliferation and migration were quantified using RTCA-DP and scratch assays. COL1A1 mRNA was measured by TaqMan RT-PCR. Phytochemical profiling employed IT-TOF/MS; titrated Centella asiatica extract (TECA) was the positive control. RESULTS: Non-toxic concentrations were identified at 0.001–0.1 μg/mL. At 0.001 μg/mL, sweetgum oil significantly increased keratinocyte proliferation and migration in a time-dependent manner (RTCA-DP; p < 0.05 to p < 0.01), accelerating scratch-wound closure versus control. COL1A1 expression was unchanged. IT-TOF/MS indicated phenylpropyl cinnamate as the dominant constituent in both samples. CONCLUSIONS: Sweetgum oil promotes re-epithelialization-related processes primarily by enhancing keratinocyte proliferation and migration rather than collagen induction. These findings support sweetgum oil as a promising natural wound-healing agent and motivate in vivo validation.",
+      "year": "2025",
+      "journal": "BMC complementary medicine and therapies",
+      "authors": [
+        "Yusuf Muhammed",
+        "Gökşen-Ekiz Burcu",
+        "Engür-Öztürk Selin",
+        "Dikmen Miriş",
+        "Levent Serkan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Keratinocytes",
+        "Plant Oils",
+        "Cell Proliferation",
+        "Liquidambar",
+        "HaCaT Cells",
+        "Cell Movement",
+        "Turkey",
+        "Plant Extracts"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41469630/"
+    },
+    {
+      "pmid": "41421280",
+      "title": "Madecassoside attenuated UVB irradiation-induced skin ferroptosis by targeting POR.",
+      "abstract": "UVB exposure induces oxidative damage and accelerates skin photoaging. Madecassoside (MA), a triterpenoid saponin from Centella asiatica (L.) Urban, has antioxidant and anti-inflammatory properties, but its role in ferroptosis remains unclear.",
+      "year": "2026",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Liu Lingxia",
+        "Niu Pengxiang",
+        "Xiao Bo",
+        "Ma Haotian",
+        "Cui Yating"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Ultraviolet Rays",
+        "Ferroptosis",
+        "Humans",
+        "Mice",
+        "Triterpenes",
+        "Skin",
+        "Reactive Oxygen Species",
+        "Antioxidants",
+        "Lipid Peroxidation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41421280/"
+    },
+    {
+      "pmid": "41045264",
+      "title": "Polyherbal formulations and phytosome-based delivery in diabetic wound healing: an integrative review.",
+      "abstract": "Diabetic foot ulcers are a global health concern due to their high prevalence, chronicity, risk of infection, and recurrence. Alternative therapy is necessary since clinical outcomes are poor despite prescribed treatments such as debridement, antibiotic medication, and revascularization. A growing number of researchers are looking at plant medicines as potential new adjuvant or supplementary treatments; the topic includes polyherbal preparations and innovative nanocarrier platforms. This review aims to evaluate the pharmacological action, formulation strategy, and translation potential of polyherbal formulations and phytosome-based drug delivery with a focus on their potential for use in DFU therapy. The anti-inflammatory, antioxidant, antibacterial, and pro-angiogenic effects of polyherbal formulations, including ",
+      "year": "2026",
+      "journal": "Journal of biomaterials science. Polymer edition",
+      "authors": [
+        "Chettupalli Ananda Kumar",
+        "Bukke Sarad Pawar Naik",
+        "Vardhan Jai",
+        "Yadhav Shika",
+        "Mamilla Mugaiahgari Bharath Kumar"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Wound Healing",
+        "Phytosomes",
+        "Animals",
+        "Drug Carriers",
+        "Drug Compounding",
+        "Diabetic Foot"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41045264/"
+    },
+    {
+      "pmid": "41025315",
+      "title": "Transfersomal delivery of ",
+      "abstract": "This study presents the development and evaluation of ",
+      "year": "2025",
+      "journal": "Drug delivery",
+      "authors": [
+        "Lapmanee Sarawut",
+        "Bunwatcharaphansakun Phichaporn",
+        "Phongsupa Waleewan",
+        "Namdee Katawut",
+        "Suttisintong Khomson"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Mice",
+        "Triterpenes",
+        "Rats",
+        "RAW 264.7 Cells",
+        "Centella",
+        "Nanoparticles",
+        "Administration, Cutaneous",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41025315/"
+    }
+  ],
+  "crawled_at": "2026-08-24T21:40:17.558426"
+}

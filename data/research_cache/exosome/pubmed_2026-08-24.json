@@ -1,0 +1,191 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42635047",
+      "title": "ATF7 drives diabetic wound healing via NOTCH1 repression and N1ICD-dependent macrophage polarization control.",
+      "abstract": "Chronic, non-healing wounds are a severe diabetic complication. The underlying mechanisms are not fully understood, and the role of ATF7 in this context has not been well characterized. In our study, we utilized db/db diabetic mice and AAV-mediated keratinocyte-specific Atf7 overexpression in vivo. HaCaT keratinocyte/THP-1 macrophage cocultures under high glucose were used in vitro. Our results showed that ATF7 was upregulated in diabetic wounds. Keratinocyte-specific Atf7 overexpression accelerated diabetic wound closure, enhanced re-epithelialization, granulation tissue formation, and keratinocyte proliferation, while suppressing macrophage M1 polarization and inflammation. Multiomics screening identified NOTCH1 as a key ATF7 target. ATF7 transcriptionally repressed NOTCH1 by recruiting Suv39h1, increasing H3K9me3 at the NOTCH1 promoter. This reduced NOTCH1 protein and its active intracellular domain (N1ICD) within keratinocyte-derived exosomes. ATF7-overexpressing keratinocyte exosomes carried less N1ICD, leading to decreased N1ICD transfer to macrophages and subsequent inhibition of M1 polarization. Notably, local injection of exosomes from ATF7-overexpressing keratinocytes accelerated wound healing in db/db mice. In summary, ATF7 promotes diabetic wound healing by repressing NOTCH1 transcription via H3K9me3, thereby reducing exosomal N1ICD secretion from keratinocytes and inhibiting macrophage M1 polarization. This identifies the ATF7/NOTCH1/exosome axis as a therapeutic target.",
+      "year": "2026",
+      "journal": "JCI insight",
+      "authors": [
+        "Xu Pengcheng",
+        "Xue Yuan",
+        "Feng Linlin",
+        "Kuang Jingwen",
+        "Hu Xiaochen"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Receptor, Notch1",
+        "Wound Healing",
+        "Mice",
+        "Humans",
+        "Macrophages",
+        "Keratinocytes",
+        "Activating Transcription Factors",
+        "Exosomes",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42635047/"
+    },
+    {
+      "pmid": "42634544",
+      "title": "Effects of Human Hair Outer Root Sheath Cell- and Human Bone Marrow Mesenchymal Stem Cell-Derived Exosomes on Human Hair Follicle Stem Cells.",
+      "abstract": "The cyclical growth of hair follicles depends on the periodic proliferation and differentiation of hair follicle stem cells (HFSCs). Previous studies have shown that extracellular vesicles (EVs) derived from mesenchymal stem cells (MSCs) and human hair outer root sheath cells (HHORSCs) can enhance hair follicle development, ameliorate androgenetic alopecia, and support the inductive capacity of dermal papilla cells. However, the regulatory effects of HHORSC-derived EVs (HHORSC-EVs) and human bone marrow mesenchymal stem cell-derived EVs (HBMMSCEVs) on HFSCs remain unclear.",
+      "year": "2026",
+      "journal": "Current stem cell research & therapy",
+      "authors": [
+        "Bao Linlin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42634544/"
+    },
+    {
+      "pmid": "42628211",
+      "title": "Integrative study of acute ammonia exposure on the skin of the Striped catfish (Pangasianodon hypophthalmus).",
+      "abstract": "Ammonia can rapidly accumulate in a water body and pose a serious threat to fish health. Striped catfish is a key species in Southeast Asia. Climate change and intensive farming waste pose significant risks of ammonia stress to this species in both natural habitats and farming ponds. As a vital immune-related organ and a significant surface barrier, the fish skin plays a crucial role in defending against ammonia; however, little is known about skin response to acute ammonia exposure. In this study, Striped catfish were exposed to 40 mg L",
+      "year": "2026",
+      "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+      "authors": [
+        "Hsiao Wei-Hsuan",
+        "Lin Shun-Yi",
+        "Wu Ying-Hsien",
+        "Ho Han-Chen",
+        "Liu Tsunglin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628211/"
+    },
+    {
+      "pmid": "42621380",
+      "title": "Fractional CO",
+      "abstract": "Atrophic acne scars impose a significant physical and psychological burden. Fractional CO",
+      "year": "2026",
+      "journal": "Postepy dermatologii i alergologii",
+      "authors": [
+        "Helmi Rena Raad",
+        "Mohammed Rusul Sahib Hussien",
+        "Nori Wassan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42621380/"
+    },
+    {
+      "pmid": "42617979",
+      "title": "AI-assisted FTIR spectroscopic profiling of exosomes: Emerging frontiers in early detection of Alzheimer's disease.",
+      "abstract": "Alzheimer's disease (AD) remains one of the most challenging neurodegenerative disorders, primarily due to the lack of reliable tools for its early and non-invasive diagnosis. Exosomes, nanosized extracellular vesicles secreted by neural and peripheral cells, have emerged as promising biomarkers reflecting the molecular alterations associated with AD pathogenesis. Fourier Transform Infrared (FTIR) spectroscopy, with its capacity to capture unique biochemical fingerprints of biomolecules, provides a rapid, label-free, and cost-effective approach for exosome characterization. The recent integration of Artificial Intelligence (AI), particularly machine learning and deep learning algorithms, has significantly advanced the interpretation of complex FTIR spectra, enabling the identification of subtle spectral variations linked to disease progression. This review highlights the synergistic potential of AI-assisted FTIR spectroscopy for exosomal profiling in AD, discussing advances in spectral data analytics, biomarker discovery, and diagnostic modeling. Furthermore, it explores current challenges, technological gaps, and future perspectives toward establishing intelligent, exosome-based diagnostic frameworks for the early detection and personalized management of Alzheimer's disease.",
+      "year": "2026",
+      "journal": "Ageing research reviews",
+      "authors": [
+        "Pei JinJin",
+        "Perumal Nishanthi Chella",
+        "Meng Panpan",
+        "Long Qianfa",
+        "Palanisamy Chella Perumal"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617979/"
+    },
+    {
+      "pmid": "42610144",
+      "title": "AI-driven CRISPR strategies in breast cancer: Organoid modeling, adaptive editing, and precision delivery.",
+      "abstract": "Triple-negative breast cancer (TNBC) is defined by profound heterogeneity, dormant metastatic reservoirs, and rapid therapy resistance. Building on our AI-Driven CRISPR Strategies in Breast Cancer framework, CRISPR-Cas9 is emerging as more than a gene-editing tool, capable of restoring circadian integrity, eliminating dormant clones, and re-programming immune surveillance. A structured PubMed, Scopus, and ClinicalTrials.gov review through 2025 integrated mechanistic, preclinical, and early clinical evidence. Beyond standard knockout, base, and prime editing, we highlight chrono-genomic repair of BMAL1/PER2, dormancy-focused synthetic-lethality screens, and genomic-collapse tactics for BRCA1-deficient tumors. Adaptive AI pipelines that iteratively refine guide RNAs and exosome-mimetic carriers, incorporating Boolean logic gates, were also evaluated for self-regulated, tumor-specific delivery. Proof-of-concept studies show that HER2 deletion, TP53 rescue, and ABCB1 silencing enhance chemosensitivity across luminal, HER2-positive, and TNBC models. Circadian restoration expands therapeutic windows and delays relapse in xenografts. Dormancy-directed CRISPR screens reveal unique vulnerabilities in disseminated tumor cells, whereas genomic collapse selectively destroys BRCA1-mutant clones. Integration with CAR-T cells and antibody-drug conjugates amplifies cytotoxicity, and transient nanoparticle or exosome systems improve solid-tumor penetration while minimizing off-target events. CRISPR-Cas9 is transitioning from a molecular scalpel to an adaptive, self-learning therapeutic ecosystem. By uniting AI-guided design, circadian reprogramming, dormancy eradication, and logic-gated delivery, the strategies detailed here define a next-generation precision-oncology paradigm capable of anticipating tumor evolution, overcoming resistance, and preventing metastatic relapse.",
+      "year": "2026",
+      "journal": "Iranian journal of basic medical sciences",
+      "authors": [
+        "Taki Anmar Ghanim",
+        "Shareef Abdulkareem",
+        "Arora Vimal",
+        "Oweis Rami",
+        "Jyothi S Renuka"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42610144/"
+    },
+    {
+      "pmid": "42602642",
+      "title": "Beyond the needle: psychosocial and quality-of-life outcomes following facial aesthetic injectable treatments.",
+      "abstract": "Facial aesthetic injectables are commonly discussed through an anatomic and cosmetic lens. However, patients often seek treatment for reasons that exceed physical correction or enhancement, including confidence, social functioning, self-perception, and appearance-related distress.",
+      "year": "2026",
+      "journal": "JPRAS open",
+      "authors": [
+        "Michon Alain"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42602642/"
+    },
+    {
+      "pmid": "42594253",
+      "title": "Adipose stem cell vesicles reduce bleomycin-induced dermal fibrosis and oxidative stress in scleroderma mice via circ-Zfyve9.",
+      "abstract": "Systemic sclerosis (SSc) is an autoimmune condition affecting several organs. It is identified by thickening of the dermis, connective tissue affected by collagen accumulation, and vascular injuries that induce hypoxia. The present study aimed to determine whether extracellular vesicles (EVs) from adipose-derived stem cells (ADSCs) attenuated bleomycin-induced skin fibrosis and oxidative stress in scleroderma. ADSCs and their EVs were separated and a bleomycin-induced SSc mouse model was constructed. High-throughput sequencing was employed to study abnormal expression of circular RNAs in SSc skin tissues with or without ADSC-EV treatment. The regulatory mechanism and targets were studied using bioinformatics analysis, luciferase reporting analysis, angiogenic differentiation experiments, and RT-qPCR detection analysis. EVs from ADSCs were successfully isolated. The exosome treatment prevented dermal thickening and fibrosis in bleomycin-induced scleroderma. In addition, circ-Zfyve9 was demonstrated to have an important function in ADSC-EV-mediated skin tissue protection. GPX4 and miR-135 were shown to be downstream targets of circ-Zfyve9. Overexpressing miR-135 or downregulating GPX4 reversed the promotion effects of circ-Zfyve9 on angiopoiesis by increasing lipidosome ROS in EPCs under hypoxic conditions. Overexpressing miR-135 or downregulating GPX4 reversed the inhibition effect of circ-Zfyve9 on fibrosis in myofibroblasts under hypoxic conditions. Overexpressing circ-Zfyve9 increased the therapeutic effect of ADSC-EVs. EVs from ADSCs attenuated bleomycin-induced skin fibrosis and oxidative stress in scleroderma via circ-Zfyve9 delivery.",
+      "year": "2026",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "authors": [
+        "Li Xue",
+        "Zhang Weiguo",
+        "Liu Jiao",
+        "Zhu Zhidong",
+        "Tang Hui"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Oxidative Stress",
+        "Bleomycin",
+        "Mice",
+        "Scleroderma, Systemic",
+        "Fibrosis",
+        "Disease Models, Animal",
+        "RNA, Circular",
+        "Extracellular Vesicles",
+        "Stem Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42594253/"
+    },
+    {
+      "pmid": "42571418",
+      "title": "Progress in the Application of Exosomes in Androgenetic Alopecia: Focusing on Molecular Mechanisms.",
+      "abstract": "Androgenetic alopecia (AGA) is the most common type of hair loss worldwide, characterized by progressive miniaturization of hair follicles and a shortened anagen phase. Currently, FDA-approved drugs for AGA treatment, minoxidil and finasteride, cannot provide satisfactory outcomes for all patients and can sometimes cause side effects. Therefore, there has been an urgent need for novel and safer therapeutic strategies. At the cellular and molecular level, the pathogenesis of AGA is closely associated with the dysregulation of signaling pathways in hair follicles. As nano-sized extracellular vesicles secreted by cells, exosomes carry bioactive substances such as proteins, lipids, and nucleic acids, thereby playing a crucial role in intercellular and intracellular communication. By modulating dysregulated signaling pathways in hair follicles, exosome therapy offers a highly promising therapeutic option for AGA patients. However, it should be noted that current evidence remains limited, and more well-designed studies are required to validate the long-term efficacy and safety of exosome-based therapies for AGA. Also, addressing challenges in the production, application, and regulation of exosomes is indispensable for promoting the future clinical application of exosome-based therapies in AGA treatment. This review summarizes the preclinical and clinical progress in exosome-based therapies for AGA treatment, with a particular focus on their molecular mechanisms, especially their regulation of key signaling pathways involved in AGA pathogenesis, such as Wnt/β-catenin, Shh, TGF-β/Smad, PI3K/AKT, and MAPK signaling pathways. These endeavors are expected to provide researchers with valuable scientific insights and practical information for AGA drug discovery.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Chen Yuanyuan",
+        "Chen Shuting",
+        "Ding Wei",
+        "Li Ling",
+        "Li Peizhen"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Humans",
+        "Alopecia",
+        "Animals",
+        "Signal Transduction",
+        "Hair Follicle"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42571418/"
+    },
+    {
+      "pmid": "42551612",
+      "title": "FGF21-modified adipose stem cell-derived exosomes promote wound healing by activating fibroblast glycolysis through AMPK/mTOR signaling.",
+      "abstract": "Chronic wound healing disorders remain a significant clinical challenge, largely due to the limited effectiveness of conventional therapeutic strategies. Emerging evidence suggests that engineered exosomes represent a promising cell-free therapeutic approach. This study aimed to elucidate the mechanisms by which fibroblast growth factor 21 (FGF21)-modified adipose-derived mesenchymal stem cell (ADSC) exosomes promote wound healing.",
+      "year": "2026",
+      "journal": "Cellular signalling",
+      "authors": [
+        "Chen Kewei",
+        "Chen Xiaoyu",
+        "Wen Chenyi",
+        "Chen Wanying",
+        "Liao Zijin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42551612/"
+    }
+  ],
+  "crawled_at": "2026-08-24T21:35:16.065685",
+  "source": "pubmed"
+}
