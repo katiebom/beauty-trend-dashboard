@@ -7,6 +7,33 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42667429",
+      "title": "Antioxidant Activity of Bioactive Peptides Derived from Ulva prolifera in HaCaT Cells and Zebrafish.",
+      "abstract": "Ulva prolifera (U. prolifera), a large green alga widely distributed along coastlines worldwide, can trigger marine ecological issues such as \"green tides\" when over-proliferating. Nevertheless, it is abundant in various nutrients and bioactive compounds, making the utilization of this alga an urgent task. In this study, an antioxidant peptide fraction (UCP‑1) was isolated and purified from U. prolifera. LC‑MS/MS analysis indicated that the peptide composition and molecular weight distribution of UCP‑1 possess typical characteristics of antioxidant peptides. In vitro experiments demonstrated that UCP‑1 at a concentration of 1 mg mL⁻¹ exhibited a DPPH radical scavenging capacity of 38.86 ± 2.7%, indicating antioxidant activity. In human immortalized keratinocytes (HaCaT) and zebrafish models, UCP-1 pretreatment reduced hydrogen peroxide (H₂O₂)-induced reactive oxygen species (ROS) and malondialdehyde (MDA) levels while increasing superoxide dismutase (SOD) activity. In zebrafish, UCP-1 also enhanced catalase (CAT) and glutathione peroxidase (GSH-Px) activities. In addition, incorporation of UCP‑1 into lotions and creams in skin trials improved skin hydration and elasticity and reduced erythema. Overall, the peptide UCP‑1 derived from U. prolifera exerts antioxidant activity and may serve as a natural antioxidant ingredient in cosmetic formulations, thereby providing an alternative approach for the high-value utilization of U. prolifera resources.",
+      "year": "2026",
+      "journal": "Marine biotechnology (New York, N.Y.)",
+      "authors": [
+        "Hong Li-Ru",
+        "Wang Shuo-Qi",
+        "Wu Ting-Ting",
+        "Chen Zhi-Ru",
+        "Chen Mo"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Antioxidants",
+        "Humans",
+        "Ulva",
+        "Peptides",
+        "HaCaT Cells",
+        "Reactive Oxygen Species",
+        "Hydrogen Peroxide",
+        "Bioactive Peptides, Dietary"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667429/"
+    },
+    {
       "pmid": "42653853",
       "title": "Oxidative Stress-Associated Apoptotic Responses Induced by ",
       "abstract": "Lung cancer remains a leading cause of cancer-related mortality worldwide, underscoring the need for safer and more effective therapeutic strategies. In this study, zinc oxide nanoparticles (ZnO NPs) were synthesized via a green, biogenic approach using ",
@@ -179,24 +206,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604704/"
-    },
-    {
-      "pmid": "42598431",
-      "title": "Indole-2-carboxylic Acid Nanoemulsions: A Novel Approach for Topical Cosmeceuticals with Antioxidant Properties in Human Skin Models.",
-      "abstract": "Bioactive molecules, such as indole alkaloids, have received special attention due to their remarkable pharmacological versatility, particularly their antioxidant activities. Therefore, our objective was to build an engineered delivery system (a topical nanoemulsion), incorporating indole-2-carboxylic acid, and evaluate its antioxidant potential using an ",
-      "year": "2026",
-      "journal": "ACS omega",
-      "authors": [
-        "Lima Hyanne Pereira",
-        "Costa Eduarda Pires",
-        "Fonseca Gislaine Gonçalves",
-        "Brito Nathan Caraciole",
-        "Dias Manoela Maciel Dos Santos"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42598431/"
     }
   ],
-  "crawled_at": "2026-08-29T03:10:57.560488",
+  "crawled_at": "2026-08-29T23:07:14.411477",
   "source": "pubmed"
 }

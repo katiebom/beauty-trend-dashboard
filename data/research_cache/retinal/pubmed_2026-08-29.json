@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42664799",
+      "title": "A visual evoked potential and optical coherence tomography cross-sectional study in patients with Behcet's disease.",
+      "abstract": "Previous studies have reported conflicting results regarding visual evoked potential (VEP) and OCT abnormalities in patients with Behçet's disease (BD). This study aimed to address these discrepancies by investigating subclinical optic neuropathy and retinal dysfunction in Behçet's disease using VEP and OCT.",
+      "year": "2026",
+      "journal": "Journal of neuroimmunology",
+      "authors": [
+        "Aliyeva Gamar",
+        "Şener Özden",
+        "Yalçındağ Nilüfer",
+        "Ateş Aşkın",
+        "Boyvat Ayşe"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664799/"
+    },
+    {
       "pmid": "42658289",
       "title": "Dexamethasone intravitreal implant (Ozurdex) monotherapy for uveitic macular edema secondary to non-infectious uveitis: a single-center retrospective cohort study.",
       "abstract": "Uveitic macular edema is a major cause of visual impairment in intermediate, posterior, and panuveitis. Local corticosteroid therapy can control posterior-segment inflammation while avoiding concomitant systemic corticosteroid exposure in selected patients. This study evaluated the anatomical, functional, pressure-related, and durability outcomes of the 0.7 mg dexamethasone intravitreal implant (Ozurdex) used as local monotherapy for macular edema secondary to non-infectious uveitis.",
@@ -150,24 +166,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636766/"
-    },
-    {
-      "pmid": "42632563",
-      "title": "Adjunct Rose Bengal Photodynamic Antimicrobial Therapy for Refractory Pseudomonas aeruginosa Infectious Necrotizing Scleritis After Scleral Buckling: A Case Report.",
-      "abstract": "A 34-year-old man developed rapidly progressive infectious necrotizing scleritis following blunt ocular trauma and subsequent scleral buckle placement for rhegmatogenous retinal detachment. At presentation, best-corrected visual acuity was light perception, with conjunctival lysis, multifocal scleral thinning with uveal exposure, purulent discharge, and marked ocular inflammation. Microbiologic cultures grew Pseudomonas aeruginosa. Despite targeted topical and systemic antimicrobial therapy and surgical debridement with partial buckle removal and tectonic reconstruction, scleral necrosis continued to progress. RB-PDAT was performed as adjuvant therapy, resulting in rapid clinical improvement, stabilization of scleral thinning, resolution of purulence and active inflammation, and no further tissue loss during follow-up. RB-PDAT may be a useful adjunctive option for refractory infectious necrotizing scleritis, particularly in aggressive Pseudomonas infections when conventional medical and surgical measures fail to halt scleral melt.",
-      "year": "2026",
-      "journal": "Archivos de la Sociedad Espanola de Oftalmologia",
-      "authors": [
-        "Botero-Benítez Alejandra",
-        "Vera-Duarte Guillermo Raul",
-        "Muleiro-Alvarez Mauricio",
-        "Kahuam-López Nicolás",
-        "Ramirez-Miranda Arturo"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42632563/"
     }
   ],
-  "crawled_at": "2026-08-29T03:10:45.254377",
+  "crawled_at": "2026-08-29T23:07:01.409164",
   "source": "pubmed"
 }
