@@ -1,0 +1,262 @@
+{
+  "ingredient_id": "egf_fgf",
+  "name_en": "EGF/FGF Growth Factor",
+  "name_kr": "EGF/FGF (성장인자)",
+  "category": "anti_aging",
+  "query": "\"EGF/FGF Growth Factor\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "41725888",
+      "title": "Engineered Exosomes Co-Delivering EGF and FGF Ameliorate Androgenetic Alopecia in a Mouse Model.",
+      "abstract": "Androgenetic alopecia (AGA) is characterized by hair follicle miniaturization and growth factor deficiency. However, conventional therapies such as minoxidil and finasteride fail to restore the pathological follicular microenvironment, highlighting the urgent need for novel therapeutic strategies. Epidermal growth factor (EGF) and fibroblast growth factor (FGF) are key regulators of hair follicle regeneration, yet their expression is downregulated in the follicular microenvironment of AGA patients.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Lai Yongxian",
+        "Wu Junchao",
+        "Tan Tianhao",
+        "Gao Bo",
+        "Han Jie"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Alopecia",
+        "Epidermal Growth Factor",
+        "Humans",
+        "Mice",
+        "Exosomes",
+        "Hair Follicle",
+        "Disease Models, Animal",
+        "Male",
+        "Fibroblast Growth Factors"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41725888/"
+    },
+    {
+      "pmid": "37830229",
+      "title": "Low Molecular Weight Collagen Peptide (LMWCP) Promotes Hair Growth by Activating the Wnt/GSK-3β/β-Catenin Signaling Pathway.",
+      "abstract": "Low molecular weight collagen peptide (LMWCP) is a collagen hydrolysate derived from fish. We investigated the effects of LMWCP on hair growth using human dermal papilla cells (hDPCs), human hair follicles (hHFs), patch assay, and telogenic C57BL/6 mice, while also examining the underlying mechanisms of its action. LMWCP promoted proliferation and mitochondrial potential, and the secretion of hair growth-related factors, such as EGF, HB-EGF, FGF-4, and FGF-6 in hDPCs. Patch assay showed that LMWCP increased the neogeneration of new HFs in a dose-dependent manner. This result correlated with an increase in the expression of dermal papilla (DP) signature genes such as, ",
+      "year": "2024",
+      "journal": "Journal of microbiology and biotechnology",
+      "authors": [
+        "Kim Yujin",
+        "Lee Jung Ok",
+        "Lee Jung Min",
+        "Lee Mun-Hoe",
+        "Kim Hyeong-Min"
+      ],
+      "mesh_terms": [
+        "Mice",
+        "Humans",
+        "Animals",
+        "Wnt Signaling Pathway",
+        "Glycogen Synthase Kinase 3 beta",
+        "beta Catenin",
+        "Molecular Weight",
+        "Vascular Endothelial Growth Factor A",
+        "Cells, Cultured",
+        "Mice, Inbred C57BL"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37830229/"
+    },
+    {
+      "pmid": "36453854",
+      "title": "Jade material in vitro and in vivo: A study on the anti-inflammatory and repair efficacy of jade material on the skin.",
+      "abstract": "The biological safety of natural jade materials and assembled jade-activated materials on cells and their anti-inflammatory and damage repair functions, as well as the repair function on sensitive skin, were studied utilizing in vitro cell biology and in vivo.",
+      "year": "2023",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Shu Xiaohong",
+        "Wang Ling",
+        "Qu Ruina",
+        "Li Li",
+        "Wang Xi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Skin",
+        "Skin Diseases",
+        "Cytokines",
+        "Plant Extracts",
+        "Anti-Inflammatory Agents",
+        "Fibroblasts"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36453854/"
+    },
+    {
+      "pmid": "35742965",
+      "title": "Cytokines and Venous Leg Ulcer Healing-A Systematic Review.",
+      "abstract": "Venous leg ulcers (VLUs) are the most common type of leg ulcers with a significant socioeconomic burden due to slow healing. Cytokines may be involved in the pathogenesis of VLUs. In this systematic review, our objective was to investigate the association between cytokine levels, including growth factors, with the healing of VLUs. PubMed, Embase, Web of Science and Cochrane Library were searched from their inception to August 2021. We retrieved 28 articles investigating 38 different cytokines in 790 patients. Cytokines were most commonly investigated in wound fluid and less frequently in biopsies and serum. The studies were judged as having a moderate to high risk of bias, and the results were often inconsistent and sometimes conflicting. A meta-analysis was not performed due to clinical and methodological heterogeneities. We found weak evidence for elevated IL-1α, IL-6, IL-8, TNF-α and VEGF levels in non-healing VLUs, an elevation that declined with healing. TGF-β1 levels tended to increase with VLU healing. Other cytokines warranting further investigations include EGF, FGF-2, GM-CSF, IL-1β, IL-1Ra and PDGF-AA/PDGF-BB. We conclude that non-healing VLUs may be associated with an elevation of a palette of pro-inflammatory cytokines, possibly reflecting activated innate immunity in these wounds. There is a paucity of reliable longitudinal studies monitoring the dynamic changes in cytokine levels during wound healing.",
+      "year": "2022",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Burian Ewa A",
+        "Sabah Lubna",
+        "Karlsmark Tonny",
+        "Kirketerp-Møller Klaus",
+        "Moffatt Christine J"
+      ],
+      "mesh_terms": [
+        "Cytokines",
+        "Humans",
+        "Leg Ulcer",
+        "Varicose Ulcer",
+        "Vascular Endothelial Growth Factor A",
+        "Wound Healing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35742965/"
+    },
+    {
+      "pmid": "35282074",
+      "title": "Advanced platelet-rich fibrin promotes the paracrine function and proliferation of adipose-derived stem cells and contributes to micro-autologous fat transplantation by modulating ",
+      "abstract": "The micro-autologous fat transplantation (MAFT) technique has demonstrated its feasibility in multiple medical fields, such as facial rejuvenation. Advanced platelet-rich fibrin (",
+      "year": "2022",
+      "journal": "Annals of translational medicine",
+      "authors": [
+        "Huang Hao",
+        "Tang Xike",
+        "Li Shounan",
+        "Huang Donglin",
+        "Lu Dongchangcheng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35282074/"
+    },
+    {
+      "pmid": "28746231",
+      "title": "A comparative study to evaluate the efficacy of EGF, FGF-2, and 0.3% (w/v) ofloxacin drops on eardrum regeneration.",
+      "abstract": "Traumatic tympanic membrane perforations (TMPs) tend to spontaneous healing, however, large TMPs usually fail to healing. Clinical and experimental studies had demonstrated that growth factors accelerated the healing of large TMPs. The aim of this study was to compare the effects of growth factors and 0.3% (w/v) ofloxacin drops n the healing of human large TMPs.",
+      "year": "2017",
+      "journal": "Medicine",
+      "authors": [
+        "Lou Zhengcai",
+        "Lou Zihan"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adult",
+        "Conservative Treatment",
+        "Epidermal Growth Factor",
+        "Female",
+        "Fibroblast Growth Factor 2",
+        "Follow-Up Studies",
+        "Hearing Tests",
+        "Humans",
+        "Intercellular Signaling Peptides and Proteins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28746231/"
+    },
+    {
+      "pmid": "28695797",
+      "title": "Effects of 630 nm Red and 460 nm Blue Light Emitting Diode Irradiation on Healing of the Skin Wound in Japanese Big-ear White Rabbit.",
+      "abstract": "Objective To observe the effects of 630 nm red light and 460 nm blue light emitting diode irradiation on the healing of skin wounds in Japanese big-ear white rabbits. Methods The skin wound model was established with 8 Japanese big-ear white rabbits. Three parts of vulnus in each rabbit were used:two parts of vulnus were irradiated vertically by red and blue LED light,respectively(15 min/time),and the distance between lights and wounds was 15 cm;the 3",
+      "year": "2017",
+      "journal": "Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae",
+      "authors": [
+        "Li Yanhong",
+        "Zhang Jigang",
+        "Xu Yanfeng",
+        "Han Yunlin",
+        "Jiang Binbin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antigens, CD",
+        "Antigens, Differentiation, Myelomonocytic",
+        "Epidermal Growth Factor",
+        "Fibroblast Growth Factors",
+        "Light",
+        "Phototherapy",
+        "Platelet Endothelial Cell Adhesion Molecule-1",
+        "Proliferating Cell Nuclear Antigen",
+        "Rabbits"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28695797/"
+    },
+    {
+      "pmid": "28573979",
+      "title": "Growth factor-functionalized silk membranes support wound healing in vitro.",
+      "abstract": "Chronic wounds represent a serious problem in daily medical routine requiring improved wound care. Silk of the domesticated silkworm (Bombyx mori) has been used to form a variety of biomaterials for medical applications. We genetically engineered B. mori to produce silk functionalized with growth factors to promote wound healing in vitro. In this study FGF-, EGF-, KGF-, PDGF- or VEGF-functionalized silk membranes were compared to native B. mori silk membranes without growth factors for their ability to support wound healing in vitro. All silk membranes were cytocompatible and supported macrophage secretion of neutrophil recruiting factor CXCL1 and monocyte chemoattractant protein 1 (MCP-1). VEGF-functionalized silk significantly outperformed other growth factor-functionalized silk membranes, but not native silk in angiogenesis assays. In addition, EGF- and VEGF-functionalized silk membranes slightly enhanced macrophage adhesion compared to silk without growth factors. In wound healing assays in vitro (reduction of wound lesion), dermal equivalents showed a higher wound healing capacity when covered with EGF-, FGF- or VEGF-functionalized silk membranes compared to native, KGF- or PDGF-functionalized silk membranes. Keratinocyte migration and growth is overstimulated by KGF- and VEGF-functionalized silk membranes. In conclusion, growth factor-functionalized silk membranes prepared from genetically engineered silk worm glands are promising wound dressings for future wound healing therapies.",
+      "year": "2017",
+      "journal": "Biomedical materials (Bristol, England)",
+      "authors": [
+        "Bienert M",
+        "Hoss M",
+        "Bartneck M",
+        "Weinandy S",
+        "Böbel M"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Animals, Genetically Modified",
+        "Biocompatible Materials",
+        "Bombyx",
+        "Cell Line",
+        "Humans",
+        "In Vitro Techniques",
+        "Intercellular Signaling Peptides and Proteins",
+        "Macrophages",
+        "Materials Testing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28573979/"
+    },
+    {
+      "pmid": "27347879",
+      "title": "The Histopathological Investigation of Red and Blue Light Emitting Diode on Treating Skin Wounds in Japanese Big-Ear White Rabbit.",
+      "abstract": "The biological effects of different wavelengths of light emitting diode (LED) light tend to vary from each other. Research into use of photobiomodulation for treatment of skin wounds and the underlying mechanisms has been largely lacking. We explored the histopathological basis of the therapeutic effect of photobiomodulation and the relation between duration of exposure and photobiomodulation effect of different wavelengths of LED in a Japanese big-ear white rabbit skin-wound model. Skin wound model was established in 16 rabbits (three wounds per rabbit: one served as control, the other two wounds were irradiated by red and blue LED lights, respectively). Rabbits were then divided into 2 equal groups based on the duration of exposure to LED lights (15 and 30 min/exposure). The number of wounds that showed healing and the percentage of healed wound area were recorded. Histopathological examination and skin expression levels of fibroblast growth factor (FGF), epidermal growth factor (EGF), endothelial marker (CD31), proliferating cell nuclear antigen (Ki67) and macrophagocyte (CD68) infiltration, and the proliferation of skin collagen fibers was assessed. On days 16 and 17 of irradiation, the healing rates in red (15 min and 30 min) and blue (15 min and 30 min) groups were 50%, 37.5%, 25% and 37.5%, respectively, while the healing rate in the control group was 12.5%. The percentage healed area in the red light groups was significantly higher than those in other groups. Collagen fiber and skin thickness were significantly increased in both red light groups; expression of EGF, FGF, CD31 and Ki67 in the red light groups was significantly higher than those in other groups; the expression of FGF in red (30 min) group was not significantly different from that in the blue light and control groups. The effect of blue light on wound healing was poorer than that of red light. Red light appeared to hasten wound healing by promoting fibrous tissue, epidermal and endothelial cell proliferation. An increase in the exposure time to 30 min did not confer any additional benefit in both red and blue light groups. This study provides a theoretical basis for the potential therapeutic application of LED light in clinical settings.",
+      "year": "2016",
+      "journal": "PloS one",
+      "authors": [
+        "Li Yanhong",
+        "Zhang Jigang",
+        "Xu Yanfeng",
+        "Han Yunlin",
+        "Jiang Binbin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Antigens, CD",
+        "Antigens, Differentiation, Myelomonocytic",
+        "Collagen",
+        "Epidermal Growth Factor",
+        "Female",
+        "Fibroblast Growth Factors",
+        "Ki-67 Antigen",
+        "Male",
+        "Phototherapy"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/27347879/"
+    },
+    {
+      "pmid": "26035055",
+      "title": "Age-dependent variation in cytokines, chemokines, and biologic analytes rinsed from the surface of healthy human skin.",
+      "abstract": "In the skin, aging is associated with overall epidermal thinning, decreased barrier function, and gradual deterioration of the epidermal immune response. However, the presence and role of cytokines, chemokines, and biologic analytes (CCBAs) in immunosenescence are not known. Here we identified age-related changes in skin properties and CCBAs from stratum corneum of healthy human subjects, providing a means to utilize CCBAs as benchmarks for aging skin health. Transepidermal water loss and a(*) (skin redness) decreased in an age-dependent manner, and were significantly lower (p < 0.05) in Groups 2 (56.6 ± 4.6 years) and 3 (72.9 ± 3.0 years) vs. Group 1 (24.3 ± 2.8 years). In skin wash fluid, 48 CCBAs were detected; seven were significantly lower (p < 0.05) in Groups 2 and 3: EGF, FGF-2, IFNα2, IL-1RA, HSA, keratin-6, and involucrin; cortisol was significantly higher (p < 0.05) in Groups 2 and 3. Our results correspond with the pro-inflammatory shift that occurs with immunosenescence and also provides basis for understanding the inflammatory changes in normal aging skin.",
+      "year": "2015",
+      "journal": "Scientific reports",
+      "authors": [
+        "Kinn Patrick M",
+        "Holdren Grant O",
+        "Westermeyer Brittney A",
+        "Abuissa Mousa",
+        "Fischer Carol L"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Age Factors",
+        "Aged",
+        "Aged, 80 and over",
+        "Biological Products",
+        "Chemokines",
+        "Cytokines",
+        "Healthy Volunteers",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26035055/"
+    }
+  ],
+  "crawled_at": "2026-09-01T00:25:25.038186",
+  "source": "pubmed"
+}
