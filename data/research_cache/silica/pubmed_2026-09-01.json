@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42677917",
+      "title": "Supramolecular Engineering of Dynamically Interlocked Dual-Stiffness Interphase for Biomimetic Strong and Tough Double Network Aerogel.",
+      "abstract": "Resolving the fundamental modulus-toughness trade-off in organic-inorganic hybrids remains a formidable challenge in supramolecular chemistry and materials science. Herein, we present a molecular-level design of a dynamically interlocked dual-stiffness interphase to break this limit, utilizing an aramid nanofiber/silica double-network architecture. Unlike traditional physical blending, this interphase is governed by a bidirectional hydrogen-bonding network. Through deep spectroscopic investigations, we reveal that this strong interfacial interaction triggers an intramolecular proton transfer and electronic redistribution within the ANFs. More intriguingly, this supramolecular interaction drives a rare and critical structural phase transition within the inorganic network, transforming flexible six-membered siloxane rings (SiO)",
+      "year": "2026",
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "authors": [
+        "Han Zi-Meng",
+        "Tu Hua",
+        "Zhao Xiang",
+        "Sun Wen-Bin",
+        "Li Fang-Chuan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42677917/"
+    },
+    {
       "pmid": "42654064",
       "title": "Enhanced Transdermal Delivery of rhHAPLN1 by Soluball",
       "abstract": null,
@@ -182,33 +198,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42499016/"
-    },
-    {
-      "pmid": "42493465",
-      "title": "Application of 2D-Chromatography System for the Determination of Cosmetic Peptides in Skin Homogenates.",
-      "abstract": "Peptides are increasingly employed as active ingredients in both therapeutic and cosmeceutical applications due to their high biological specificity, favorable safety profiles, and expanding market relevance. In topical formulations, peptide activity is typically confined to the skin, where widespread dermal proteases may significantly affect their stability and efficacy. Despite the growing use of bioactive peptides in dermatological and cosmeceutical products, robust analytical methodologies for assessing their susceptibility to dermal enzymatic degradation remain limited. In this study, a two-dimensional HPLC-MS/MS (2D-HPLC-MS/MS) method based on ion trap detection was developed and validated for the quantitative evaluation of peptide stability in human skin homogenate (HSH). The analytical setup integrates online cleanup with chromatographic separation on a silica-based pentafluorophenyl (PFP) column, enabling reliable analysis of peptides with different polarity profiles within a single workflow. The system enables direct injection of sample solutions with relatively high organic solvent content, allowing limited sample dilution and preservation of analytical sensitivity. A key feature of the method is the use of isomeric peptide analogues as internal standards, monitored under identical MS/MS conditions as their corresponding analytes. This approach provides effective correction for ionization and fragmentation variability while offering a practical alternative to stable isotope-labelled standards. The ion trap mass analyzer ensured controlled and reproducible fragmentation behavior, supporting robust quantitative performance. The developed method demonstrated satisfactory linearity, sensitivity, precision, accuracy, and minimal matrix effects. Application to stability studies of three peptides with distinct polarity profiles confirmed its suitability for monitoring degradation kinetics in HSH. Overall, this 2D-HPLC-MS/MS strategy provides a versatile analytical platform for dermal peptide stability assessment and supports early-stage screening and preclinical studies of bioactive peptides intended for topical applications.",
-      "year": "2026",
-      "journal": "Journal of mass spectrometry : JMS",
-      "authors": [
-        "Errante Fosca",
-        "Pallecchi Marco",
-        "Menicatti Marta",
-        "Giovannelli Lisa",
-        "Rovero Paolo"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Skin",
-        "Tandem Mass Spectrometry",
-        "Chromatography, High Pressure Liquid",
-        "Peptides",
-        "Cosmetics",
-        "Reproducibility of Results",
-        "Liquid Chromatography-Mass Spectrometry"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42493465/"
     }
   ],
-  "crawled_at": "2026-09-01T00:25:47.906423",
+  "crawled_at": "2026-09-01T23:07:44.149304",
   "source": "pubmed"
 }

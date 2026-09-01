@@ -7,6 +7,21 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42678505",
+      "title": "Chitosan-associated vasculitis with eye and sensorineural symptoms following postpartum haemorrhage: a case-based review.",
+      "abstract": "Cogan syndrome is a rare autoimmune disorder characterised by ocular inflammation and audiovestibular dysfunction. Similar clinical phenotypes are being described in association with the haemostatic biomaterial chitosan. This \"Cogan-like\" entity being referred to as chitosan-associated vasculitis with eye and sensorineural symptoms (CAVES), is increasingly being reported in the literature.",
+      "year": "2026",
+      "journal": "Irish journal of medical science",
+      "authors": [
+        "O'Leary Eimear",
+        "Conway Marcus",
+        "Rogers Duncan",
+        "Burke Tomás"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42678505/"
+    },
+    {
       "pmid": "42664799",
       "title": "A visual evoked potential and optical coherence tomography cross-sectional study in patients with Behcet's disease.",
       "abstract": "Previous studies have reported conflicting results regarding visual evoked potential (VEP) and OCT abnormalities in patients with Behçet's disease (BD). This study aimed to address these discrepancies by investigating subclinical optic neuropathy and retinal dysfunction in Behçet's disease using VEP and OCT.",
@@ -152,22 +167,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42638860/"
-    },
-    {
-      "pmid": "42636766",
-      "title": "Electroretinogram response changes in a guinea pig myopia model treated with different atropine concentrations.",
-      "abstract": "We used electroretinography (ERG) to assess whether different concentrations of atropine alter the electrical activity of retinal cells during inhibition of myopia progression.",
-      "year": "2026",
-      "journal": "Biochemical and biophysical research communications",
-      "authors": [
-        "Wang YongHong",
-        "Li Fang",
-        "Lap Ki Alex Ng"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636766/"
     }
   ],
-  "crawled_at": "2026-09-01T00:25:15.254052",
+  "crawled_at": "2026-09-01T23:07:08.858446",
   "source": "pubmed"
 }

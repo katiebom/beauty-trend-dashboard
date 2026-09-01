@@ -104,18 +104,29 @@
     },
     {
       "pmid": "42556752",
-      "title": "PEG-400-Modified transethosomes for resveratrol Delivery: Enhanced dermal penetration and collagen remodeling over Dermarolling Strategies.",
-      "abstract": "Skin aging is a complex biological process driven by collagen degradation and oxidative damage, often exacerbated by UV exposure. While resveratrol is a premier antioxidant for anti-aging, its topical efficacy is historically limited by poor water solubility and weak skin penetration. This study addresses these barriers by developing optimized polyethylene glycol-based liposomes (PEG-liposomes) as novel deformable liposome derivative. The uncoated vesicles demonstrated high stability and uniformity, with a size of 320.17 ± 0.25 nm and a zeta potential of -35.2 ± 0.4 mV. By coating these vesicles with 0.1% hyaluronic acid (HA), successful surface functionalization and improved size stability was achieved. Ex vivo and confocal studies confirmed that these PEG-liposomes successfully reached the deep dermis; notably, a sequential application strategy of the coated and uncoated PEG-liposomes showed that uncoated vesicles could transiently disrupt lipid structures to facilitate deeper penetration for the HA-coated versions. When integrated with micro-needling via a derma roller, the system triggered significant collagen remodeling and a surge in antioxidant enzymes like SOD, while simultaneously reducing oxidative stress markers such as MDA, MMP-1, and the aging indicator beta-galactosidase. The cooperative effect of this dual-vesicle system not only restored the structural integrity of the dermal-epidermal junction but also significantly outperformed existing commercial resveratrol products. Our findings demonstrate that this novel PEG-liposomal system provides a transformative approach to deep-tissue rejuvenation. Through its unique synergistic mechanism with micro-needling, it achieves biological remodeling and dermal restoration that surpasses the efficacy of current market-leading standards.",
+      "title": "PEG-400-Modified Transethosomes for Resveratrol Delivery: Enhanced Dermal Penetration and Collagen Remodeling over Dermarolling Strategies.",
+      "abstract": "Skin aging is a complex biological process driven by collagen degradation and oxidative damage, often exacerbated by UV exposure. While resveratrol is a premier antioxidant for anti-aging, its topical efficacy is historically limited by poor water solubility and weak skin penetration. This study addresses these barriers by developing optimized polyethylene glycol-based liposomes (PEG-liposomes) as novel deformable liposome derivative. The uncoated vesicles demonstrated high stability and uniformity, with a size of 320.17 ± 0.25 nm and a zeta potential of -35.2 ± 0.4 mV. By coating these vesicles with 0.1% hyaluronic acid (HA), successful surface functionalization and improved size stability was achieved. Ex vivo and confocal studies confirmed that these PEG-liposomes successfully reached the deep dermis; notably, a sequential application strategy of the coated and uncoated PEG-liposomes showed that uncoated vesicles could transiently disrupt lipid structures to facilitate deeper penetration for the HA-coated versions. When integrated with micro-needling via a derma roller, the system triggered significant collagen remodeling and a surge in antioxidant enzymes like SOD, while simultaneously reducing oxidative stress markers such as MDA, MMP-1, and the aging indicator beta-galactosidase. The cooperative effect of this dual-vesicle system not only restored the structural integrity of the dermal-epidermal junction but also significantly outperformed existing commercial resveratrol products. Our findings demonstrate that this novel PEG-liposomal system provides a transformative approach to deep-tissue rejuvenation. Through its unique synergistic mechanism with micro-needling, it achieves biological remodeling and dermal restoration that surpasses the efficacy of current market-leading standards.",
       "year": "2026",
       "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V",
       "authors": [
-        "Zoweil Merna",
+        "Zewail Merna S",
         "Aboushady Dina",
         "Kamel Ahmed S",
         "Tadros Mina Ibrahim",
         "Mansour Samar"
       ],
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Resveratrol",
+        "Polyethylene Glycols",
+        "Liposomes",
+        "Collagen",
+        "Animals",
+        "Skin Aging",
+        "Skin Absorption",
+        "Administration, Cutaneous",
+        "Antioxidants",
+        "Hyaluronic Acid"
+      ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556752/"
     },
     {
@@ -186,6 +197,6 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42493097/"
     }
   ],
-  "crawled_at": "2026-09-01T00:25:39.551679",
+  "crawled_at": "2026-09-01T23:07:35.760321",
   "source": "pubmed"
 }

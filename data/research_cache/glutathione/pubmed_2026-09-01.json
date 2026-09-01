@@ -7,6 +7,33 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42677254",
+      "title": "L-theanine attenuates AlCl3-induced cognitive dysfunction and neurotoxicity in rats: a behavioral and biochemical study.",
+      "abstract": "The effects of L-theanine (LTN), a natural compound found in tea leaves, on biochemical parameters and cognitive functions were investigated in an aluminum chloride (AlCl",
+      "year": "2026",
+      "journal": "Turkish journal of medical sciences",
+      "authors": [
+        "Dönmez Muhammet Oğuzhan",
+        "Şener Azize",
+        "Karaman Ersoy Şeyda",
+        "Marzi Mahdi",
+        "Şener Göksel"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Glutamates",
+        "Aluminum Chloride",
+        "Male",
+        "Rats, Wistar",
+        "Rats",
+        "Cognitive Dysfunction",
+        "Lipid Peroxidation",
+        "Aluminum Compounds",
+        "Disease Models, Animal"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42677254/"
+    },
+    {
       "pmid": "42667429",
       "title": "Antioxidant Activity of Bioactive Peptides Derived from Ulva prolifera in HaCaT Cells and Zebrafish.",
       "abstract": "Ulva prolifera (U. prolifera), a large green alga widely distributed along coastlines worldwide, can trigger marine ecological issues such as \"green tides\" when over-proliferating. Nevertheless, it is abundant in various nutrients and bioactive compounds, making the utilization of this alga an urgent task. In this study, an antioxidant peptide fraction (UCP‑1) was isolated and purified from U. prolifera. LC‑MS/MS analysis indicated that the peptide composition and molecular weight distribution of UCP‑1 possess typical characteristics of antioxidant peptides. In vitro experiments demonstrated that UCP‑1 at a concentration of 1 mg mL⁻¹ exhibited a DPPH radical scavenging capacity of 38.86 ± 2.7%, indicating antioxidant activity. In human immortalized keratinocytes (HaCaT) and zebrafish models, UCP-1 pretreatment reduced hydrogen peroxide (H₂O₂)-induced reactive oxygen species (ROS) and malondialdehyde (MDA) levels while increasing superoxide dismutase (SOD) activity. In zebrafish, UCP-1 also enhanced catalase (CAT) and glutathione peroxidase (GSH-Px) activities. In addition, incorporation of UCP‑1 into lotions and creams in skin trials improved skin hydration and elasticity and reduced erythema. Overall, the peptide UCP‑1 derived from U. prolifera exerts antioxidant activity and may serve as a natural antioxidant ingredient in cosmetic formulations, thereby providing an alternative approach for the high-value utilization of U. prolifera resources.",
@@ -190,24 +217,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617276/"
-    },
-    {
-      "pmid": "42604704",
-      "title": "Multilevel metabolic and enzyme engineering enables efficient biosynthesis of cyanidin-3-O-glucoside from dihydroquercetin in Escherichia coli.",
-      "abstract": "Cyanidin-3-O-glucoside (C3G) is a water-soluble, value-added natural flavonoid with extensive applications in the nutraceutical and cosmetic industries. However, its efficient bioproduction is hampered by intermediate instability, metabolic imbalance and enzyme kinetic constraints. Here, we successfully constructed an efficient biosynthesis pathway from dihydroquercetin (DHQ) to C3G in Escherichia coli through a multilevel engineering strategy. Initially, the integration of glutathione S-transferase (GST) redirected the metabolic flux towards target cyanidin formation. To minimize the dissipation of labile intermediates, pathway enzymes were spatially organized within a protein cage to enhance cascade efficiency. Furthermore, genomic integration of Glycine max sucrose synthase established an in-situ UDP-glucose regeneration module to ensure a continuous precursor supply for the final glycosylation step. After these pathway-level optimizations, the key enzyme dihydroflavonol 4-reductase (FaDFR) emerged as a new rate-limiting bottleneck due to substrate inhibition under increased DHQ loading. Structure-guided and evolution-informed engineering generated FaDFR variants with improved high-substrate tolerance, as supported by in vitro activity profiling and molecular dynamics simulations. Through combined pathway and enzyme engineering, the G130C-containing strain achieved a C3G titer of 1.34 g/L, representing a 23-fold improvement over the GST-assisted baseline strain. Our platform enables efficient, value-added C3G production and provides a promising framework for constructing downstream pathways toward structurally diverse anthocyanin derivatives.",
-      "year": "2026",
-      "journal": "Bioresource technology",
-      "authors": [
-        "Wang Zhiyao",
-        "Xie Wei",
-        "Gao Ruichen",
-        "Tu Zezhong",
-        "Lou Wenyong"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604704/"
     }
   ],
-  "crawled_at": "2026-09-01T00:25:28.065232",
+  "crawled_at": "2026-09-01T23:07:22.990301",
   "source": "pubmed"
 }

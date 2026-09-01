@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42673676",
+      "title": "Integrated InPETM drug analysis and transcriptomics to explore potential mechanisms and key active components of multiple traditional Chinese medicine prescriptions for psoriasis.",
+      "abstract": "Psoriasis is a chronic immune-mediated inflammatory skin disease characterized by epidermal hyperproliferation, skin barrier dysfunction, and immune dysregulation, with a complex pathogenesis. This study aimed to investigate the potential molecular mechanisms underlying the therapeutic effects of traditional Chinese medicine (TCM) compound prescriptions for psoriasis.",
+      "year": "2026",
+      "journal": "Computational biology and chemistry",
+      "authors": [
+        "Xu Lezhen",
+        "Zhao Jingyu",
+        "Li Linxue",
+        "Shi Wen",
+        "Gu Julin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42673676/"
+    },
+    {
       "pmid": "42603125",
       "title": "Quality Improvement of Porcine Bone Broth via Enzyme-Driven Flavor Release and Structural Modification.",
       "abstract": "In this study, post-simmering enzymatic hydrolysis was employed to improve the quality of porcine bone broth by physical structure and rheology modulation. The effect of papain, lipase, and synergistic dual-enzyme hydrolysis on sensory quality and flavor profiling were compared. Results showed that papain-treated broth (PA) exhibited superior sensory characteristics of smoothness, richness, umami, sweetness, and characteristic aroma than samples treated with lipase (PR) or a combination of papain and lipase (AR). Taste-active compound analysis revealed more umami and sweet amino acids, 5'-nucleotides, and succinic acid in PA, yielding an equivalent umami concentration (EUC) of 10.68 g monosodium glutamate (MSG)/100 g. A potent taste base was formed as papain-hydrolyzed proteins into key taste compounds (amino acids, peptides) while releasing succinic acid and 5'-nucleotides. Gas chromatography-mass spectrometry (GC-MS) analysis revealed that PA exhibited a higher concentration of aldehyde with fatty, sweet, fruity, and floral aromas as well as characteristic volatiles (1-octen-3-ol, 2-pentylfuran, and 2,5-dimethylpyrazine) with strong mushroom, fatty, and grilled meat aroma. Physical characterization demonstrated that enzymatically derived emulsifying proteins and peptides established a stable emulsion system with finer particle size, favorable viscosity, and shear force. This not only imparted richness and smoothness to the broth but also promoted the long-lasting release of key volatile components by shortening the diffusion path of lipid-soluble aroma compounds to the oil-water interface. Partial least squares regression analysis further confirmed the critical role of particle size, viscosity, sugar, and amino acids on the sensory quality of porcine bone broth. This study provided a feasible enzymatic strategy and clarified processing-structure-flavor correlations for industrial production.",
@@ -219,35 +235,8 @@
         "Polyethylene Glycols"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41460316/"
-    },
-    {
-      "pmid": "41448880",
-      "title": null,
-      "abstract": null,
-      "year": "2026",
-      "journal": "Gut",
-      "authors": [
-        "Tan Huishi",
-        "Huang Linwen",
-        "Wang Jun",
-        "Huang Hongli",
-        "Lin Zelong"
-      ],
-      "mesh_terms": [
-        "Animals",
-        "Extracellular Traps",
-        "Mice",
-        "Humans",
-        "Colitis-Associated Neoplasms",
-        "Colitis, Ulcerative",
-        "Disease Models, Animal",
-        "Neutrophils",
-        "Male",
-        "Female"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41448880/"
     }
   ],
-  "crawled_at": "2026-09-01T00:25:37.547024",
+  "crawled_at": "2026-09-01T23:07:33.453084",
   "source": "pubmed"
 }

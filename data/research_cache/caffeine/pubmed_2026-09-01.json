@@ -7,6 +7,30 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42675341",
+      "title": "Interaction between purinergic signalling and purinergic modulators with skin wound repair effectors: a systematic review of preclinical in vivo models.",
+      "abstract": "Purinergic signalling plays a central regulatory role on cell proliferation, migration, differentiation, survival, and inflammation. However, the impact of purinergic modulators-based therapies on tissue repair is still overlooked. By using a systematic review framework, we investigated the therapeutic relevance of purinergic agonists and antagonists in animal models of skin wound healing. Following PRISMA guidelines, PubMed/Medline, Scopus, Web of Science, Embase, and CINAHL databases were searched, identifying 12 in vivo preclinical studies. Risk of bias was assessed using the SYRCLE tool. Topical or oral administration of CGS-21680 (4-[{N-ethyl-5'-carbamoyladenos-2-yl}aminoethyl] phenylpropionic acid), UTP (Uridine-5'-triphosphate), NECA (5'-N-ethylcarboxamidoadenosine), ATP (adenosine triphosphate), PDRN (polydeoxyribonucleotide), ADP (Adenosine-5'-diphosphate) and TMPS (Thymidine 5'-O-monophosphorothioate) agonists stimulated wound contraction, fibroblast and keratinocyte proliferation, angiogenesis, and collagen biosynthesis. These effects were associated with activation of Nrf2 (Nuclear factor erythroid 2-related factor 2), MAPK (Mitogen-Activated Protein Kinase), and ERK/CREB pathways, inflammation and oxidative/nitrosative stress down-regulation, and increased anti-inflammatory/regulatory cytokines (IL-10, IL-13, TGF-β) and growth factors (FGF, EGF). Conversely, the purinergic antagonists DMPX (3,7-dimethyl-1-propargylxanthine), CSC (8-(3-chlorostyryl) caffeine), SUR (Suramin), ENP (enprofylline), caffeine, CLOP (clopidogrel), MRS 2179 (2'-deoxy-N6-methyladenosine-3',5'-bisphosphate), and MRS 2395 (2-Chloro-3',5'-O-(benzoyl-β,γ-methylene) adenosine 5'-triphosphate), as well as genetic knockout for purinergic receptors delayed wound closure by inhibiting these pathways, impairing angiogenesis, collagenogenesis, and aggravating inflammation and oxidative damage. Purinergic agonists were associated with improved wound healing through inflammatory and oxidative modulation, enhanced angiogenesis, increased cell proliferation, and accelerated wound closure, whereas antagonists or genetic deficiency of purinergic receptors impaired tissue repair. This review was registered in the PROSPERO database (CRD420251010254).",
+      "year": "2026",
+      "journal": "Purinergic signalling",
+      "authors": [
+        "Pelinsari Silvânia Mól",
+        "Goncalves Reggiani Vilela",
+        "da Silva Mattosinhos Patricia",
+        "Sarandy Mariáurea Matias",
+        "Vilela Emerson Ferreira"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Wound Healing",
+        "Signal Transduction",
+        "Skin",
+        "Receptors, Purinergic",
+        "Humans",
+        "Purines"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42675341/"
+    },
+    {
       "pmid": "42648393",
       "title": "Composition-tunable H-PC/LPC discoidal lipid assemblies: molecular packing, nanoscale organization, and permeation behavior.",
       "abstract": "Discoidal membrane-like lipid assemblies provide a useful framework for linking lipid composition to nanoscale organization and interfacial transport, but practical solvent-avoiding routes from formulation-compatible phospholipids remain limited. Here, hydrogenated phosphatidylcholine (H-PC)/lysophosphatidylcholine (LPC) dispersions were prepared in the presence of 1,3-butylene glycol (BG) by a simple heating-stirring procedure that avoids organic solvents used in thin-film hydration. Varying the H-PC/LPC ratio revealed a composition window in which transparent nanoscale dispersions with apparent hydrodynamic diameters of 10-20 nm were obtained. TEM and ",
@@ -152,25 +176,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42488843/"
-    },
-    {
-      "pmid": "42476159",
-      "title": "Global, regional, and national burden of road injuries 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-      "abstract": "Road injuries are a leading cause of mortality and morbidity worldwide. Years of international efforts have aimed to strengthen policy engagement, including the 2020 UN General Assembly's proclamation of the Second Decade of Action for Road Safety (2021-30), targeting a 50% reduction in road traffic deaths and serious injuries by 2030. The aim of this study is to provide estimates to monitor progress and identify intervention gaps.",
-      "year": "2026",
-      "journal": "The Lancet. Public health",
-      "authors": [],
-      "mesh_terms": [
-        "Accidents, Traffic",
-        "Humans",
-        "Global Burden of Disease",
-        "Wounds and Injuries",
-        "Global Health",
-        "Incidence"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42476159/"
     }
   ],
-  "crawled_at": "2026-09-01T00:25:35.907894",
+  "crawled_at": "2026-09-01T23:07:31.678857",
   "source": "pubmed"
 }
