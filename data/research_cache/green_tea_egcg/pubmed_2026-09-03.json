@@ -1,0 +1,140 @@
+{
+  "ingredient_id": "green_tea_egcg",
+  "name_en": "Green Tea EGCG",
+  "name_kr": "녹차 (EGCG)",
+  "category": "natural",
+  "query": "\"Green Tea EGCG\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 5,
+  "articles": [
+    {
+      "pmid": "36265315",
+      "title": "Engineered fabrication of EGCG-UV absorber conjugated nano-assemblies for antioxidative sunscreens with broad-band absorption.",
+      "abstract": "Applying sunscreen is a common, convenient, and effective measure to protect skin from ultraviolet (UV) damage, but most of UV absorbers in the present commercially available sunscreens are accompanied with the insufficiencies in terms of efficacy and biosafety. The use of nanotechnology to combine conventional UV absorbers with biocompatible natural products is a feasible strategy to combat these deficiencies. Herein, a simple, green and engineering preparation of broad-band sunscreens was demonstrated by the molecular assembly of a UV absorber aminobenzoic acid (ABA) and polyphenol extracted from green tea (EGCG). Spherical and negatively-charged EGCG/ABA nanoparticles (EA NPs) were simply synthesized with a wide range of particle size from 54.6 to 715.1 nm. These NPs had the satisfactory biocompatibility and antioxidative activity, and could protect fibroblasts from oxidative-stress damage. The formulations containing 10 wt% EA NPs further exhibited broad-spectrum UV absorption and lower UV transmittance than commercial sunscreens. It is believed that this study would spur the utilization of natural reproducible sources for developing biosafe sunscreens with strong anti-UV capability. Indeed, this simple nanotechnology aimed at tackling the biosafe risk of conventional UV absorbers provides a feasible solution strategy with green tea extracts.",
+      "year": "2022",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "authors": [
+        "Chen Xiangyu",
+        "Yi Zeng",
+        "Chen Guangcan",
+        "Ma Xiaomin",
+        "Tong Qiulan"
+      ],
+      "mesh_terms": [
+        "Sunscreening Agents",
+        "Antioxidants",
+        "Ultraviolet Rays",
+        "Skin",
+        "Tea"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36265315/"
+    },
+    {
+      "pmid": "35328586",
+      "title": "Adipose-Derived Stem Cells Preincubated with Green Tea EGCG Enhance Pancreatic Tissue Regeneration in Rats with Type 1 Diabetes through ROS/Sirt1 Signaling Regulation.",
+      "abstract": "Type 1 diabetes stem-cell-based therapy is one of the best therapeutic approaches for pancreatic damage treatment due to stem cell tissue regeneration. Epigallocatechin gallate (EGCG) is one of the active components found in green tea. Experimental results suggest that EGCG shows beneficial effects on cell protection. This study explores whether a better pancreatic regeneration therapeutic effect could be found in mesenchymal stem cells pretreated with EGCG compared to stem cells without EGCG pretreatment. A cell model confirmed that adipose-derived stem cells (ADSC) incubated with EGCG increase cell viability under high-glucose (HG) stress. This is due to survival marker p-Akt expression. In an animal model, type 1 diabetes induced the activation of several pathological signals, including islet size reduction, extracellular fibrotic collagen deposition, oxidative stress elevation, survival pathway suppression, apoptosis signaling induction, and Sirt1 antioxidant pathway downregulation. Ordinary ADSC transplantation slightly improved the above pathological signals. Further, EGCG-pretreated ADSC transplantation significantly improved the above pathological conditions. Taken together, EGCG-pretreated ADSCs show clinical potential in the treatment of patients with type 1 diabetes through the regeneration of damaged pancreatic tissues.",
+      "year": "2022",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Chen Tung-Sheng",
+        "Liao Wei-Yu",
+        "Huang Chi-Wen",
+        "Chang Chin-Hsien"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Catechin",
+        "Diabetes Mellitus, Type 1",
+        "Humans",
+        "Pancreatic Hormones",
+        "Rats",
+        "Reactive Oxygen Species",
+        "Sirtuin 1",
+        "Stem Cells",
+        "Tea"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35328586/"
+    },
+    {
+      "pmid": "34684703",
+      "title": "Beneficial Effects of Green Tea EGCG on Skin Wound Healing: A Comprehensive Review.",
+      "abstract": "Epigallocatechin gallate (EGCG) is associated with various health benefits. In this review, we searched current work about the effects of EGCG and its wound dressings on skin for wound healing. Hydrogels, nanoparticles, micro/nanofiber networks and microneedles are the major types of EGCG-containing wound dressings. The beneficial effects of EGCG and its wound dressings at different stages of skin wound healing (hemostasis, inflammation, proliferation and tissue remodeling) were summarized based on the underlying mechanisms of antioxidant, anti-inflammatory, antimicrobial, angiogenesis and antifibrotic properties. This review expatiates on the rationale of using EGCG to promote skin wound healing and prevent scar formation, which provides a future clinical application direction of EGCG.",
+      "year": "2021",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Xu Fa-Wei",
+        "Lv Ying-Li",
+        "Zhong Yu-Fan",
+        "Xue Ya-Nan",
+        "Wang Yong"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Anti-Infective Agents",
+        "Antioxidants",
+        "Bandages",
+        "Catechin",
+        "Cicatrix",
+        "Humans",
+        "Hydrogels",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34684703/"
+    },
+    {
+      "pmid": "12811578",
+      "title": "Comparative effects of polyphenols from green tea (EGCG) and soybean (genistein) on VEGF and IL-8 release from normal human keratinocytes stimulated with the proinflammatory cytokine TNFalpha.",
+      "abstract": "In skin inflammation, vascular endothelial growth factor (VEGF) and IL-8 play an important role and are produced by activated keratinocytes. Recently, some polyphenols have been reported to exhibit antiinflammatory and antiangiogenic properties. We therefore evaluated the effects of green tea, its major component epigallocatechin-3-gallate (EGCG) and an isoflavone derived from soybean (genistein) on the release of VEGF and IL-8 by activated normal human keratinocytes (NHK). NHK cultured in defined medium were stimulated for 48 h with the proinflammatory cytokine TNFalpha with the addition or not of different concentrations of polyphenols. Levels of VEGF and IL-8 were measured in cell supernatants by enzyme-linked immunosorbent assays. The different constituents tested inhibited keratinocyte proliferation without inducing apoptosis. They reduced in a dose-dependent manner the basal release and the upregulation of VEGF in NHK. Green tea and EGCG were also potent inhibitors of IL-8 release by TNFalpha-stimulated NHK, whereas genistein exerted only minor effects. These results underline the divergent pathways involved in the downregulation of VEGF and IL-8 by polyphenols in activated keratinocytes. They also suggest that polyphenols may contribute to moderate inflammatory processes in skin diseases associated with angiogenesis.",
+      "year": "2003",
+      "journal": "Archives of dermatological research",
+      "authors": [
+        "Trompezinski Sandra",
+        "Denis Alain",
+        "Schmitt Daniel",
+        "Viac Jacqueline"
+      ],
+      "mesh_terms": [
+        "Angiogenesis Inhibitors",
+        "Catechin",
+        "Cell Division",
+        "Cells, Cultured",
+        "Down-Regulation",
+        "Genistein",
+        "Growth Inhibitors",
+        "Humans",
+        "Interleukin-8",
+        "Keratinocytes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/12811578/"
+    },
+    {
+      "pmid": "1409491",
+      "title": "Anticarcinogenic effects of (-)-epigallocatechin gallate.",
+      "abstract": "Our research objective is to develop nontoxic cancer chemopreventive agents and to apply these agents in treating humans. We are identifying agents that inhibit the process of tumor promotion in two-stage carcinogenesis experiments on mouse skin.",
+      "year": "1992",
+      "journal": "Preventive medicine",
+      "authors": [
+        "Fujiki H",
+        "Yoshizawa S",
+        "Horiuchi T",
+        "Suganuma M",
+        "Yatsunami J"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Catechin",
+        "Hydrolyzable Tannins",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Skin",
+        "Skin Neoplasms",
+        "Tannins"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/1409491/"
+    }
+  ],
+  "crawled_at": "2026-09-03T23:08:06.430200",
+  "source": "pubmed"
+}
