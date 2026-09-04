@@ -1,0 +1,213 @@
+{
+  "ingredient_id": "retinol",
+  "name_en": "Retinol",
+  "name_kr": "레티놀",
+  "category": "retinoid",
+  "query": "\"Retinol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42653210",
+      "title": "Barrier Function and Biophysical Effects of 0.104% and 0.247% Retinol Creams in Mature Facial Skin: A Prospective Study.",
+      "abstract": "Retinol, a bioactive small molecule of the vitamin A family, contributes epidermal and dermal tissue repair through retinoic acid receptor γ (RARγ)/retinoid X receptor (RXR) receptor-mediated transcriptional regulation of keratinocyte differentiation, extracellular matrix (ECM) remodeling, and barrier restoration. However, the relationship between applied concentration, tissue-level regenerative outcomes, and tolerability remains incompletely characterized. This prospective, randomized, single-blind study compared biophysical effects and tolerance of two retinol concentrations in EU-compliant facial creams, high-performance liquid chromatography (HPLC)-verified as 0.104% and 0.247% (",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Pordąb Iwona",
+        "Cieślawska Julia",
+        "Gackowski Michał",
+        "Kowalczyk Michał J",
+        "Pawłowska Małgorzata"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Vitamin A",
+        "Female",
+        "Middle Aged",
+        "Adult",
+        "Prospective Studies",
+        "Skin Cream",
+        "Epidermis",
+        "Skin",
+        "Interleukin-1alpha"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42653210/"
+    },
+    {
+      "pmid": "42628639",
+      "title": "GALNT6-mediated O-glycosylation suppresses NLRP3 inflammasome activation to alleviate atopic dermatitis.",
+      "abstract": "Atopic dermatitis (AD) is characterized by chronic cutaneous inflammation, but the endogenous mechanisms that restrain excessive inflammatory activation remain unclear. This study investigated the role of GALNT6 in AD and its potential association with NLRP3 inflammasome regulation.",
+      "year": "2026",
+      "journal": "Life sciences",
+      "authors": [
+        "Hou Yingshan",
+        "Xu Shenming",
+        "Wang Dan",
+        "Lu Jianyun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628639/"
+    },
+    {
+      "pmid": "42617207",
+      "title": "New solid formulations of retinol protected at the molecular level by the whey protein β-lactoglobulin.",
+      "abstract": "The fat-soluble vitamin retinol plays a critical role in vision, immune function, and skin health, with deficiencies linked to severe health issues, including blindness and increased risk of infection. Despite its importance to the food industry, it is poorly soluble in water and degrades rapidly when exposed to light, heat, and oxygen, limiting its use as a nutraceutical. This study introduces a novel solid formulation of retinol encapsulated by the whey protein β-lactoglobulin (β-LG) to enhance stability for food fortification applications. Retinol forms molecular complexes with β-LG, which are dried into a solid powder, minimizing degradation. Encapsulation within the β-LG calyx protects retinol at the molecular level, as confirmed by fluorescence quenching, mass spectrometry, and X-ray crystallography. This formulation is able to retain retinol integrity throughout more than 5 months of extended storage, which benefits the practical application of the vitamin, addressing health needs while ensuring stability during processing and storage.",
+      "year": "2026",
+      "journal": "Food chemistry",
+      "authors": [
+        "Figueiredo Manuel",
+        "Sárkány Zsuzsa",
+        "Pereira Pedro José Barbosa",
+        "Rocha Fernando",
+        "Martins Pedro M"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617207/"
+    },
+    {
+      "pmid": "42598348",
+      "title": "From sebocytes to skin engineering human sebaceous organoids within a reconstructed dermal matrix.",
+      "abstract": "Sebaceous gland biology depends on the integration of lipid metabolism, tissue architecture, and stromal interactions, yet most available ",
+      "year": "2026",
+      "journal": "Frontiers in toxicology",
+      "authors": [
+        "Pusceddu Tommaso",
+        "Ardondi Luna",
+        "Cavaleri Maria Pia",
+        "Sileo Lucia",
+        "Vitali Ilaria"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42598348/"
+    },
+    {
+      "pmid": "42593667",
+      "title": "Oral Retinol, Alone or Combined with Medical Photoprotection, in Patients with Actinic Keratosis: A Randomized, Open-Label, Prospective, Multicentric Study.",
+      "abstract": "Actinic keratosis (AK) is a chronic ultraviolet-induced condition with potential progression to squamous cell carcinoma. This study assessed the efficacy and tolerability of oral retinol, alone or combined with broad-spectrum medical photoprotection containing piroxicam, in patients with mild-to-moderate AK.",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Ardigò Marco",
+        "Burlando Martina",
+        "Campione Elena",
+        "Nazzaro Gianluca",
+        "Foggi Giulio"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42593667/"
+    },
+    {
+      "pmid": "42558496",
+      "title": "Biochemical characteristics and antioxidant potential of ",
+      "abstract": "This study investigates the biochemical characteristics, antioxidant potential and nutritional parameters of a newly identified eustigmatophycean strain ",
+      "year": "2026",
+      "journal": "Physiology and molecular biology of plants : an international journal of functional plant biology",
+      "authors": [
+        "Maltseva Irina",
+        "Yakoviichuk Aleksandr",
+        "Krivova Zinaida",
+        "Maltseva Svetlana",
+        "Kulikovskiy Maxim"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42558496/"
+    },
+    {
+      "pmid": "42430369",
+      "title": "Topical medium-length PDRN enhances dermal extracellular matrix repair in photodamaged skin via PI3K-Akt/TGF-β-regulated pathways.",
+      "abstract": "Chronic ultraviolet (UV) exposure disrupts dermal fibroblast function and extracellular matrix (ECM) homeostasis, driving the structural features of photoaged skin. Polydeoxyribonucleotide (PDRN) has shown regenerative effects in injectable applications, but the mechanism and delivery of topical PDRN remain insufficiently defined. This study investigated the mechanism, skin delivery, and efficacy of a medium-length PDRN preparation (PDRN-850K) in photodamaged skin. Pathway activation was examined in basal human dermal fibroblasts using western blotting, gene expression analysis, and pharmacological inhibition. Skin delivery was assessed by confocal Raman spectroscopy in a reconstructed epidermal model and by complementary ex vivo and in vivo penetration studies. Tissue-level effects were assessed in a UV-irradiated human ex vivo skin model. Clinical efficacy was evaluated in a randomized, double-blind, split-face study comparing 0.1% PDRN-850K eye cream with 0.1% retinol over 28 days. PDRN-850K activated PI3K-Akt, TGF-β/Smad, and autophagy-related signaling in basal fibroblasts, and inhibition of these pathways reduced ECM gene induction. Raman analysis demonstrated time-dependent distribution of PDRN-associated signal into viable epidermal regions, with additional support from FITC-labeled porcine skin and pilot in vivo human Raman studies. In UV-irradiated ex vivo skin, PDRN-850K increased viable epidermal thickness and upregulated multiple collagens, elastic fiber-associated proteins, and YAP. Clinically, PDRN-850K achieved approximately two-fold greater improvements in periocular wrinkles, dermal thickness, density, and eye bag parameters compared with retinol, with good tolerability. These findings support PDRN-850K as a topical pro-repair approach for photodamaged skin.",
+      "year": "2026",
+      "journal": "PloS one",
+      "authors": [
+        "Ye Rui",
+        "Wang Qianqian",
+        "Du Le",
+        "Li Li",
+        "Hu Fan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Extracellular Matrix",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction",
+        "Transforming Growth Factor beta",
+        "Skin Aging",
+        "Polydeoxyribonucleotides",
+        "Fibroblasts",
+        "Ultraviolet Rays"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42430369/"
+    },
+    {
+      "pmid": "42396622",
+      "title": "Retinyl palmitate-loaded nanostructured lipid carriers prepared by the phase inversion temperature method: Physicochemical properties, ",
+      "abstract": "Nanostructured lipid carriers (NLCs) have emerged as a promising approach to improve the stability and dermal delivery of retinyl palmitate (RP), a widely used anti-ageing ingredient. This study developed RP-loaded NLCs using the phase inversion temperature method for topical delivery. In this study, RP was encapsulated into NLCs prepared by the phase inversion temperature method. The optimised formulation comprised 2% polysorbate 20, a 5:5 ratio of glyceryl monostearate to cetyl palmitate, and a 6:4 solid-to-liquid lipid ratio. The resulting RP-NLCs displayed favourable physicochemical properties, including a particle size of 119.0 ± 3.7 nm, polydispersity index of 0.039 ± 0.005, zeta potential of -22.6 ± 0.6 mV, and high encapsulation efficiency (94.49 ± 0.01%). The nanoparticles were spherical with a low recrystallinity index (10.98%). RP-NLCs significantly enhanced skin penetration, and the 0.1% RP-NLC gel demonstrated good occlusive ability, supporting their potential in advanced anti-ageing formulations.",
+      "year": "2026",
+      "journal": "Journal of microencapsulation",
+      "authors": [
+        "Duyen Tran Thi My",
+        "Hoang Vu Dang",
+        "Yen Tran Thi Hai"
+      ],
+      "mesh_terms": [
+        "Retinyl Esters",
+        "Diterpenes",
+        "Vitamin A",
+        "Drug Carriers",
+        "Animals",
+        "Skin Absorption",
+        "Nanostructures",
+        "Particle Size",
+        "Lipids",
+        "Polysorbates"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42396622/"
+    },
+    {
+      "pmid": "42376007",
+      "title": "Key molecular networks underlying retinol's biphasic effects on cell proliferation through multi-omics integrative analysis using genome-scale metabolic modeling.",
+      "abstract": "Retinol is widely used in skin anti-aging, yet its effects exhibit significant concentration dependence. However, the underlying biphasic mechanism, that is low concentrations promote cell proliferation while high concentrations are inhibitory, remains incompletely understood. Here, we employed multi-omics analysis and genome-scale metabolic models (GEMs) to systematically infer the key molecular networks underlying the distinct effects of retinol concentrations on human foreskin fibroblasts (HFFs). Our results suggest that low retinol concentrations appear to promote proliferation by activating the canonical retinoic acid signaling pathway and inducing sophisticated metabolic reprogramming. This reprogramming appears to involve prioritizing the coenzyme NADPH for retinol processing and antioxidant defense, which is associated with a compensatory suppression of NADPH-consuming cholesterol biosynthesis. This metabolic shift may foster a favorable intracellular environment for growth. Conversely, high concentrations are linked to a multi-system injury cascade. The observed key feature likely involves significant oxidative stress, associated with the buildup of toxic metabolic intermediates and a pro-inflammatory lipid storm marked by elevated leukotrienes. These stress responses align with the signatures of ferroptosis, a form of programmed cell death characterized by glutathione (GSH) defense system collapse and downregulation of the key regulator ",
+      "year": "2027",
+      "journal": "Synthetic and systems biotechnology",
+      "authors": [
+        "He Peishuang",
+        "Xiang Guangming",
+        "Yan Yizhen",
+        "Zhong Jiangming",
+        "Liang Yuting"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42376007/"
+    },
+    {
+      "pmid": "42359775",
+      "title": "Blue light exposure exacerbates Western diet-induced hepatic lipid accumulation and injury ",
+      "abstract": "Excessive exposure to artificial blue light has been associated with circadian disruption and metabolic disorders; however, its role in hepatic lipid metabolism under dietary stress remains poorly defined. This study investigated how blue light exposure modulates Western diet-induced nonalcoholic fatty liver disease (NAFLD) and the underlying molecular mechanisms involving the NR1D1-SIRT1 metabolic axis. Male C57BL/6J mice were fed either a control or Western diet and exposed to blue light or sham illumination for 12 weeks. Hepatic morphology was evaluated by hematoxylin-eosin and Masson's trichrome staining, whereas macrophage infiltration and expression of NR1D1 and SIRT1 were assessed by immunohistochemistry. Untargeted LC-TOFMS-based metabolomic profiling and pathway enrichment analysis were conducted to characterize global metabolic alterations across experimental groups. The results showed that blue light exposure markedly aggravated Western diet-induced hepatic steatosis, ballooning, and lobular inflammation without evidence of fibrosis. Immunohistochemical staining revealed increased F4/80 positive macrophages and downregulation of NR1D1 and SIRT1 in blue light exposed, Western diet-fed (WDBL) mice, suggesting impaired mitochondrial homeostasis. Metabolomic profiling identified 113 hepatic metabolites, revealing distinct clustering by diet and light exposure. Blue light synergistically amplified Western diet-driven accumulation of long-chain and unsaturated acylcarnitines and polyunsaturated fatty acids, indicative of incomplete β-oxidation and oxidative lipid remodeling. Pathway enrichment analysis highlighted disruptions in glycerophospholipid, sphingolipid and bile acid metabolism, accompanied by reduced antioxidant cofactors (retinol and tocopherols). In conclusion, chronic blue light exposure accelerates Western diet-induced NAFLD progression by suppressing the SIRT1-NR1D1 axis, disrupting mitochondrial lipid oxidation, and promoting redox imbalance and macrophage-mediated inflammation. These findings identify environmental blue light as a metabolic stressor that synergizes with dietary lipid overload to drive hepatic injury, offering new mechanistic insight into light-associated metabolic liver disease.",
+      "year": "2026",
+      "journal": "The Analyst",
+      "authors": [
+        "Chang Shu-Jyuan",
+        "Chen Wan-Tzu",
+        "Chen Yi-Ting",
+        "Yu Sebastian",
+        "Yu Hsin-Su"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Sirtuin 1",
+        "Blue Light",
+        "Male",
+        "Diet, Western",
+        "Mice, Inbred C57BL",
+        "Liver",
+        "Mice",
+        "Lipid Metabolism",
+        "Nuclear Receptor Subfamily 1, Group D, Member 1"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359775/"
+    }
+  ],
+  "crawled_at": "2026-09-04T22:50:21.806492",
+  "source": "pubmed"
+}
