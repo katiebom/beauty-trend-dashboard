@@ -1,0 +1,193 @@
+{
+  "ingredient_id": "resveratrol",
+  "name_en": "Resveratrol",
+  "name_kr": "레스베라트롤",
+  "category": "anti_aging",
+  "query": "\"Resveratrol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42694095",
+      "title": "Shared Treg dysregulation underlies psoriasis vulgaris and atopic dermatitis through the PHF19-PRC2 epigenetic axis.",
+      "abstract": "Psoriasis vulgaris (PV) and atopic dermatitis (AD) are chronic inflammatory skin diseases characterized by distinct dominant T cell subsets, yet emerging evidence suggests overlapping immune mechanisms. Whether a shared Treg abnormality underlies both diseases remains unclear.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Lin Yiting",
+        "Su Xiaolei",
+        "Jin Mingzhu",
+        "Wang Yuqi",
+        "Li Yaoyao"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dermatitis, Atopic",
+        "T-Lymphocytes, Regulatory",
+        "Humans",
+        "Psoriasis",
+        "Mice",
+        "Epigenesis, Genetic",
+        "Polycomb Repressive Complex 2",
+        "DNA-Binding Proteins",
+        "Disease Models, Animal"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42694095/"
+    },
+    {
+      "pmid": "42687230",
+      "title": "Drug-Induced Hypersensitivity Syndrome Induced by Resveratrol Dietary Supplement.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "International journal of dermatology",
+      "authors": [
+        "Idrogo-Lam Alexander",
+        "Padniewski Jessica",
+        "Dean Owen",
+        "Bigliardi Paul"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687230/"
+    },
+    {
+      "pmid": "42655116",
+      "title": "Antibacterial and Immunomodulatory Effects of ",
+      "abstract": "Although most upper respiratory tract infections (URTIs) have a viral etiology, antibiotics are widely prescribed, thus contributing substantially to antimicrobial resistance. This study investigated the potential beneficial effects of a novel strain, ",
+      "year": "2026",
+      "journal": "Microorganisms",
+      "authors": [
+        "Mattioli Roberto",
+        "Di Risola Daniel",
+        "Sivori Francesca",
+        "Franzese Ornella",
+        "Genovese Ilaria"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42655116/"
+    },
+    {
+      "pmid": "42653656",
+      "title": "Transferosomes Containing 20-Hydroxyecdysone for Psoriasis Treatment: Preparation, Characterization, and In Vitro and In Vivo Toxicity Assessment.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Bakun Pawel",
+        "Mlynarczyk Dariusz T",
+        "Durowicz Kacper",
+        "Tomczak Szymon",
+        "Dlugaszewska Jolanta"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42653656/"
+    },
+    {
+      "pmid": "42638272",
+      "title": "SIRT1 Activator Resveratrol Attenuates Age-Related Skin Thinning in Mice.",
+      "abstract": "Aging is associated with thinning of the epidermis and dermis, leading to wrinkles, dryness, and impaired skin barrier function. Sirtuin-1 (SIRT1) is an NAD",
+      "year": "2026",
+      "journal": "The Journal of dermatology",
+      "authors": [
+        "Tamura Fuka",
+        "Nojima Iyori",
+        "Kunimoto Risa",
+        "Hosoda Ryusuke",
+        "Kuwabara Yuko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42638272/"
+    },
+    {
+      "pmid": "42622436",
+      "title": "Age-adjusted machine learning identifies facial skin microbes associated with skin quality among Korean women.",
+      "abstract": "Recognizing specific microbes that significantly influence skin quality is becoming an essential aspect of personalized skincare. However, conventional large-scale cohort skin microbiome studies often overlook important confounders, such as age, leading to missing meaningful microbe-skin relationships. In this study, we developed an age-adjusted machine learning (AAML) framework to identify microbial candidates associated with skin quality by determining optimal age ranges that enhance age-independent signals of skin microbes. It allowed the identification of distinct age groups that clearly explain specific skin microbial effects, as well as potential microbes showing notable age-independent links to skin quality, which were not observed in analyses across the entire age spectrum. In particular, ",
+      "year": "2026",
+      "journal": "mSystems",
+      "authors": [
+        "Park Sangbeen",
+        "Kim Hye-Been",
+        "Ahn Hyunsoo",
+        "Lee Geunyeong",
+        "Song Woomin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622436/"
+    },
+    {
+      "pmid": "42597219",
+      "title": "Ozone exposure promotes melanogenesis through MAPK-dependent oxidative stress signaling: attenuation by resveratrol in zebrafish and melanoma cells.",
+      "abstract": "Ground-level ozone, a major air pollutant, primarily forms through photochemical reactions between nitrogen oxides (NOx) and volatile organic compounds (VOCs) in sunlight. Ozone is known to harm human health and skin, making it a significant environmental concern. In this study, we examined the effects of ozone exposure on melanogenesis and whether resveratrol could influence this process. Using zebrafish models and B16F10 melanoma cells, we assessed changes in melanin production. In B16F10 cells, we investigated the impact of 1 ppm ozone exposure on reactive oxygen species (ROS) production and its subsequent effect on mitogen-activated protein kinase (MAPK) signaling pathways, including the extracellular signal-regulated kinase (ERK), c-Jun N-terminal kinase (JNK), and p38. Our findings showed that ozone exposure significantly increased melanin levels in both zebrafish and B16F10 cells. Ozone exposure enhanced p38 and JNK phosphorylation, reduced ERK phosphorylation, and upregulated microphthalmia-associated transcription factor (MITF) and tyrosinase expression. Resveratrol was selected as a candidate agent for its ability to inhibit MAPK signaling. Resveratrol treatment effectively reduced ozone-induced melanin production by decreasing MITF and its downstream enzyme, tyrosinase. These results highlight the role of MAPK signaling in ozone-induced pigmentation and suggest that resveratrol could be a promising agent for protecting against ozone-related skin damage.",
+      "year": "2026",
+      "journal": "American journal of cancer research",
+      "authors": [
+        "Lee Che-Hsin",
+        "Chang Chi-Jie",
+        "Liu Wang-Ta",
+        "Chen Pei-Hsuan",
+        "Wang Chia C"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42597219/"
+    },
+    {
+      "pmid": "42572371",
+      "title": "Trans-resveratrol alleviates inflammation and improves skin barrier function via aryl hydrocarbon receptor pathway in human reconstructed epidermis.",
+      "abstract": "The aryl hydrocarbon receptor (AHR) is a regulator of epidermal homeostasis and a promising target for cosmetic and dermatological ingredients aimed at improving skin barrier function and reducing inflammation. This study investigated the potential of the natural polyphenol trans-resveratrol (RSV), a compound of cosmetic interest, to modulate downstream AHR signalling and restore epidermal integrity in a model of skin compromised by a pro-inflammatory environment.",
+      "year": "2026",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Dijkhoff Irini M",
+        "Keshavan Sandeep",
+        "Daré Regina G",
+        "Petri-Fink Alke",
+        "Eeman Marc"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42572371/"
+    },
+    {
+      "pmid": "42556752",
+      "title": "PEG-400-Modified Transethosomes for Resveratrol Delivery: Enhanced Dermal Penetration and Collagen Remodeling over Dermarolling Strategies.",
+      "abstract": "Skin aging is a complex biological process driven by collagen degradation and oxidative damage, often exacerbated by UV exposure. While resveratrol is a premier antioxidant for anti-aging, its topical efficacy is historically limited by poor water solubility and weak skin penetration. This study addresses these barriers by developing optimized polyethylene glycol-based liposomes (PEG-liposomes) as novel deformable liposome derivative. The uncoated vesicles demonstrated high stability and uniformity, with a size of 320.17 ± 0.25 nm and a zeta potential of -35.2 ± 0.4 mV. By coating these vesicles with 0.1% hyaluronic acid (HA), successful surface functionalization and improved size stability was achieved. Ex vivo and confocal studies confirmed that these PEG-liposomes successfully reached the deep dermis; notably, a sequential application strategy of the coated and uncoated PEG-liposomes showed that uncoated vesicles could transiently disrupt lipid structures to facilitate deeper penetration for the HA-coated versions. When integrated with micro-needling via a derma roller, the system triggered significant collagen remodeling and a surge in antioxidant enzymes like SOD, while simultaneously reducing oxidative stress markers such as MDA, MMP-1, and the aging indicator beta-galactosidase. The cooperative effect of this dual-vesicle system not only restored the structural integrity of the dermal-epidermal junction but also significantly outperformed existing commercial resveratrol products. Our findings demonstrate that this novel PEG-liposomal system provides a transformative approach to deep-tissue rejuvenation. Through its unique synergistic mechanism with micro-needling, it achieves biological remodeling and dermal restoration that surpasses the efficacy of current market-leading standards.",
+      "year": "2026",
+      "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V",
+      "authors": [
+        "Zewail Merna S",
+        "Aboushady Dina",
+        "Kamel Ahmed S",
+        "Tadros Mina Ibrahim",
+        "Mansour Samar"
+      ],
+      "mesh_terms": [
+        "Resveratrol",
+        "Polyethylene Glycols",
+        "Liposomes",
+        "Collagen",
+        "Animals",
+        "Skin Aging",
+        "Skin Absorption",
+        "Administration, Cutaneous",
+        "Antioxidants",
+        "Hyaluronic Acid"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556752/"
+    },
+    {
+      "pmid": "42518420",
+      "title": "Sustainable Valorization of Peanut Byproducts: An Optimized Green Strategy for High-Yield Resveratrol Extraction.",
+      "abstract": "Peanut (",
+      "year": "2026",
+      "journal": "ACS omega",
+      "authors": [
+        "Ranzeti Mirella T F",
+        "Cremasco Gabriela",
+        "Sherman Patrick J",
+        "Arrua R Dario",
+        "Funari Cristiano S"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42518420/"
+    }
+  ],
+  "crawled_at": "2026-09-05T22:39:22.002691",
+  "source": "pubmed"
+}
