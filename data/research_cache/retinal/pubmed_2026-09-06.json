@@ -1,0 +1,189 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42701144",
+      "title": "Culture media alter retinal organoid physiology promoting AAV transduction and retinal ganglion cell survival.",
+      "abstract": "Human iPSC-derived retinal organoids offer a human-relevant platform for inherited retinal disease (IRD) gene therapy, yet robust AAV transduction in vitro remains challenging. Here we show that culture in BrainPhys™ (BP) medium markedly enhances AAV-mediated gene delivery. Brief BP exposure during the transduction window improves uptake, whereas continuous BP culture yields the strongest effects, indicating contributions from acute entry processes and longer-term cellular remodelling. Quantitative proteomics reveal coordinated upregulation of viral entry and trafficking mediators, including integrins that form αVβ5, and the trans-Golgi entry factor GPR108, together with enrichment of endosomal/ER-Golgi transport proteins, providing a mechanistic basis for enhanced vector processing. BP concurrently promotes neuronal maturation and metabolism, with pronounced increases in neurotrophic and synaptic proteins and broad enhancement of oxidative phosphorylation components. Functional calcium imaging demonstrates comparable neuronal dynamics across conditions but reveals robust, recurrent network-level bursts under BP, consistent with strengthened connectivity. BP also preserves retinal ganglion cells and maintains expression of canonical markers, aligning with a BDNF-centred interactome and improved circuit integration. Collectively, these findings identify the culture environment as a critical determinant of AAV efficacy in human retinal tissue models and position BP as a simple, scalable strategy to reduce vector requirements, enhance retinal cells targeting, and increase the fidelity of organoid-based non-animal testing for IRD gene therapy development.",
+      "year": "2026",
+      "journal": "Gene therapy",
+      "authors": [
+        "O'Hara-Wright Michelle",
+        "Lim Benjamin Y",
+        "M Mangala Melissa",
+        "Kaiser Vivienne",
+        "Wong Emilie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42701144/"
+    },
+    {
+      "pmid": "42699770",
+      "title": "Environmental particulate reference materials increase DCFDA fluorescence and reduce ATP-dependent viability in primary mouse retinal cells.",
+      "abstract": "Long-term exposure to ambient particulate matter ≤2.5 μm in aerodynamic diameter (PM2.5) has been associated with optic neuropathy and retinal neurodegeneration, but experimental evidence remains limited. We assessed two certified environmental particulate reference materials in primary mouse retinal cells and after repeated ocular-surface exposure in mice. For the in vitro analyses, technical replicate wells were first averaged within each independent cell isolation, and each experimental condition was then normalized to the corresponding control from the same biological replicate. Particulate exposure produced condition-dependent changes in 2',7'-dichlorofluorescin diacetate (DCFDA) fluorescence and ATP-dependent viability, with statistically significant effects concentrated in selected retinal glial-cell conditions. After within-experiment normalization and multiplicity adjustment, direct comparisons did not demonstrate a statistically significant protective effect of α-tocopherol or N-acetylcysteine on particulate-associated responses, and retinal glial-cell coculture did not significantly improve RGC survival relative to monoculture. In postnatal mice, topical particulate administration was associated with inner retinal thinning and lower RGC-marker-positive cell counts. In adult Thy1-CFP mice, neither sample-specific nor post hoc pooled within-mouse comparisons with contralateral saline-treated eyes were statistically significant. A separate post hoc exploratory between-animal comparison showed fewer CFP-positive cells in pooled particulate-treated eyes than in independent bilateral-saline controls (mean difference, -14.4 cells; 95% CI, -28.1 to -0.7; P = 0.040). These findings support cellular and retinal susceptibility under the conditions used, but they do not establish particle transport to the retina, a causal oxidative mechanism, or quantitative risk from ambient PM2.5 exposure in humans.",
+      "year": "2026",
+      "journal": "Biochemistry and biophysics reports",
+      "authors": [
+        "Chen Wanjing",
+        "Iizuka Yoko",
+        "Mabuchi Fumihiko",
+        "Yoshizawa Satoko",
+        "Muramatsu Tomoko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42699770/"
+    },
+    {
+      "pmid": "42693542",
+      "title": "Determination of Human Effective Dose via Translational Ocular Modeling: Clinical Translation of a Novel Topical Agent Using PBPK.",
+      "abstract": "Wet age-related macular degeneration (wAMD) is a leading cause of vision loss, and human dose selection for ocular therapeutics remains a key translational challenge. We developed a physiologically based pharmacokinetic (PBPK) model for EB-203 to guide dose selection by translating preclinical ocular tissue exposure to human. PK data were obtained from mouse and rabbit studies and human plasma PK from a phase I trial. The model incorporated species-specific ocular physiology, drug permeability, and pharmacokinetics, and was implemented using an open-source PBPK modeling software (MoBi, version 12.2, Open Systems Pharmacology). Drug-specific model parameters were estimated using mouse and rabbit plasma and ocular tissue concentration data. Human plasma PK data from a Phase I clinical trial were then used to estimate human-specific systemic clearance, and human ocular tissue concentrations were subsequently predicted by the model. Simulated human retinal drug concentrations (AUC, C",
+      "year": "2026",
+      "journal": "Clinical and translational science",
+      "authors": [
+        "Jung Woojin",
+        "Lee Jamie Jaeheung",
+        "Cho Yunseok",
+        "Min Kyoung Ah",
+        "Yun Hwi-Yeol"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Rabbits",
+        "Mice",
+        "Models, Biological",
+        "Macular Degeneration",
+        "Translational Research, Biomedical",
+        "Dose-Response Relationship, Drug",
+        "Ophthalmic Solutions",
+        "Computer Simulation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42693542/"
+    },
+    {
+      "pmid": "42684571",
+      "title": "Electronegative ERG revealing melanoma-associated retinopathy in a patient with trametinib-associated retinopathy.",
+      "abstract": "To describe electrophysiologic detection of melanoma-associated retinopathy (MAR) in a patient initially presumed to have isolated trametinib-associated retinopathy.",
+      "year": "2026",
+      "journal": "Documenta ophthalmologica. Advances in ophthalmology",
+      "authors": [
+        "Inuzuka Masayuki",
+        "Mochizuki Kiyofumi",
+        "Fujibayashi Shotaro",
+        "Ueno Shinji",
+        "Iwata Hiroaki"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42684571/"
+    },
+    {
+      "pmid": "42678505",
+      "title": "Chitosan-associated vasculitis with eye and sensorineural symptoms following postpartum haemorrhage: a case-based review.",
+      "abstract": "Cogan syndrome is a rare autoimmune disorder characterised by ocular inflammation and audiovestibular dysfunction. Similar clinical phenotypes are being described in association with the haemostatic biomaterial chitosan. This \"Cogan-like\" entity being referred to as chitosan-associated vasculitis with eye and sensorineural symptoms (CAVES), is increasingly being reported in the literature.",
+      "year": "2026",
+      "journal": "Irish journal of medical science",
+      "authors": [
+        "O'Leary Eimear",
+        "Conway Marcus",
+        "Rogers Duncan",
+        "Burke Tomás"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42678505/"
+    },
+    {
+      "pmid": "42664799",
+      "title": "A visual evoked potential and optical coherence tomography cross-sectional study in patients with Behcet's disease.",
+      "abstract": "Previous studies have reported conflicting results regarding visual evoked potential (VEP) and OCT abnormalities in patients with Behçet's disease (BD). This study aimed to address these discrepancies by investigating subclinical optic neuropathy and retinal dysfunction in Behçet's disease using VEP and OCT.",
+      "year": "2026",
+      "journal": "Journal of neuroimmunology",
+      "authors": [
+        "Aliyeva Gamar",
+        "Şener Özden",
+        "Yalçındağ Nilüfer",
+        "Ateş Aşkın",
+        "Boyvat Ayşe"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664799/"
+    },
+    {
+      "pmid": "42658289",
+      "title": "Dexamethasone intravitreal implant (Ozurdex) monotherapy for uveitic macular edema secondary to non-infectious uveitis: a single-center retrospective cohort study.",
+      "abstract": "Uveitic macular edema is a major cause of visual impairment in intermediate, posterior, and panuveitis. Local corticosteroid therapy can control posterior-segment inflammation while avoiding concomitant systemic corticosteroid exposure in selected patients. This study evaluated the anatomical, functional, pressure-related, and durability outcomes of the 0.7 mg dexamethasone intravitreal implant (Ozurdex) used as local monotherapy for macular edema secondary to non-infectious uveitis.",
+      "year": "2026",
+      "journal": "International ophthalmology",
+      "authors": [
+        "Simaku Ermal",
+        "Popa Megi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Retrospective Studies",
+        "Dexamethasone",
+        "Female",
+        "Drug Implants",
+        "Uveitis",
+        "Visual Acuity",
+        "Male",
+        "Macular Edema",
+        "Glucocorticoids"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658289/"
+    },
+    {
+      "pmid": "42652982",
+      "title": "Clinical Anterior Segment and Ocular Surface Findings Across Renal Replacement Modalities: Associations with CKD-Related Factors, Mineral Metabolism and Activin A.",
+      "abstract": "Chronic kidney disease (CKD) is characterized by persistent inflammation, metabolic dysregulation, and mineral and bone disorder (CKD-MBD), all of which may affect ocular tissues. While retinal manifestations of CKD have been increasingly investigated, data regarding clinical anterior segment modifications and their relationship with systemic biochemical parameters remain limited.",
+      "year": "2026",
+      "journal": "Life (Basel, Switzerland)",
+      "authors": [
+        "Bilha Ioana-Madalina",
+        "Bilha Stefana Catalina",
+        "Akad Nada",
+        "Covic Adrian",
+        "Hogaș Simona"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42652982/"
+    },
+    {
+      "pmid": "42650946",
+      "title": "Unmasking Incontinentia Pigmenti: A Multimodal Clinico-Dermoscopic and Pathologic Correlation.",
+      "abstract": "Incontinentia pigmenti (IP) is a rare, X-linked dominant genodermatosis caused by mutations in the ",
+      "year": "2026",
+      "journal": "Diagnostics (Basel, Switzerland)",
+      "authors": [
+        "Niedźwiedź Michał",
+        "Skibińska Małgorzata",
+        "Kurowski Marcin",
+        "Poznańska-Kurowska Katarzyna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42650946/"
+    },
+    {
+      "pmid": "42650278",
+      "title": "Blue Light Pollution and Ocular Surface Toxicity: p53-Mediated Ferroptosis in Corneal Epithelium Drives Dry Eye Pathogenesis.",
+      "abstract": "This study investigated the molecular mechanisms underlying blue light-induced corneal epithelial toxicity.",
+      "year": "2026",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Zhang Lingyu",
+        "Qian Yiwen",
+        "Jin Jun",
+        "Zhang Yu",
+        "Wang Zhiliang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42650278/"
+    }
+  ],
+  "crawled_at": "2026-09-06T22:45:31.477833",
+  "source": "pubmed"
+}
