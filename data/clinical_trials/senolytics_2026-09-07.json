@@ -1,0 +1,721 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 26,
+  "trials": [
+    {
+      "nct_id": "NCT02889458",
+      "title": "Hong Kong Breast Cancer Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Ductal Carcinoma In Situ"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Not Provided"
+        }
+      ],
+      "sponsor": "The University of Hong Kong",
+      "primary_completion": "2022-12",
+      "url": "https://clinicaltrials.gov/study/NCT02889458"
+    },
+    {
+      "nct_id": "NCT06903884",
+      "title": "3% Diquafosol Ophthalmic Solution for Active Moderate-to-Severe Vernal Keratoconjunctivitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Vernal Keratoconjunctivitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "3% Diquafosol ophthalmic solution and 0.1% Cyclosporin A cationic ophthalmic emulsion"
+        },
+        {
+          "type": "DRUG",
+          "name": "0.1% Cyclosporin A cationic ophthalmic emulsion"
+        }
+      ],
+      "sponsor": "The University of Hong Kong",
+      "primary_completion": "2028-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06903884"
+    },
+    {
+      "nct_id": "NCT07153315",
+      "title": "AI-Based Medical Data Analysis for Differentiating Inflammatory vs Degenerative Joint Diseases in Elderly Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Arthritis, Rheumatoid (RA)"
+      ],
+      "interventions": [],
+      "sponsor": "Assiut University",
+      "primary_completion": "2026-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT07153315"
+    },
+    {
+      "nct_id": "NCT07456618",
+      "title": "Using Music During Wound Care Among Seniors With Pressure Injuries",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pressure Injuries",
+        "Pressure Injury",
+        "Pressure Ulcer (PU)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Music listening"
+        }
+      ],
+      "sponsor": "McMaster University",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07456618"
+    },
+    {
+      "nct_id": "NCT07422740",
+      "title": "Intervention Study of Virtual Reality-Based Mindfulness-Based Cognitive Therapy (VR-MBCT) Combined With Adaptive tDCS Modulation for Post-Stroke Depression",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Post-stroke Depression"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Virtual Reality Mindfulness-Based Cognitive Therapy (Active VR-MBCT)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Active transcranial Direct Current Stimulation (Active tDCS)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Sham Virtual Reality Mindfulness Program (Sham VR-MBCT)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham transcranial Direct Current Stimulation (Sham tDCS)"
+        }
+      ],
+      "sponsor": "Second Affiliated Hospital, Zhejiang University, School of Medicine",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07422740"
+    },
+    {
+      "nct_id": "NCT06169150",
+      "title": "Detection and Characterization of Neurologic Manifestations of Inborn and Acquired Errors of Immunity",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Nervous System Disease",
+        "Immune System Disease"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "primary_completion": "2043-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06169150"
+    },
+    {
+      "nct_id": "NCT06341179",
+      "title": "Effect of Sleep Extension on Body Weight and Learning in Children (More2Sleep)",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sleep Duration",
+        "Child Obesity",
+        "Child Development",
+        "Child Behavior"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Sleep extension"
+        }
+      ],
+      "sponsor": "University of Copenhagen",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06341179"
+    },
+    {
+      "nct_id": "NCT06145282",
+      "title": "Non-myeloablative Haploidentical HCT Study for Patients With Sickle Cell Disease, Including Compromised Organ Function",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sickle Cell Disease"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Briquilimab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Filgrastim"
+        },
+        {
+          "type": "DRUG",
+          "name": "Abatacept"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sirolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        }
+      ],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "primary_completion": "2025-10-27",
+      "url": "https://clinicaltrials.gov/study/NCT06145282"
+    },
+    {
+      "nct_id": "NCT04993027",
+      "title": "Topical Vancomycin for Infection Prophylaxis in TJA",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Infection of Total Hip Joint Prosthesis",
+        "Infection of Total Knee Joint Prosthesis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vancomycin Powder"
+        }
+      ],
+      "sponsor": "Alberta Hip and Knee Clinic",
+      "primary_completion": "2028-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT04993027"
+    },
+    {
+      "nct_id": "NCT06666660",
+      "title": "Daily Intake of Multivitamin & Mineral Supplementation Effects on Biological Age of Relatively Healthy Middle-aged Individuals",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Relatively Healthy Volunteers"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Multivitamin/Mineral supplements"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "National University of Singapore",
+      "primary_completion": "2025-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT06666660"
+    },
+    {
+      "nct_id": "NCT06920810",
+      "title": "Viscum Album for TNBC on Adjuvant Pembrolizumab",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Triple Negative Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "viscum album"
+        }
+      ],
+      "sponsor": "Ilsan Cha hospital",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06920810"
+    },
+    {
+      "nct_id": "NCT05611346",
+      "title": "HYPNOsis in the Management of Atopic Dermatitis in Children and Teenagers",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Hypnosis"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de la Réunion",
+      "primary_completion": "2027-02",
+      "url": "https://clinicaltrials.gov/study/NCT05611346"
+    },
+    {
+      "nct_id": "NCT07765888",
+      "title": "A Study to Learn About the Study Medicine Called Tilrekimig in People With Moderate-to-Severe Eczema",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tilrekimig"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2028-03-10",
+      "url": "https://clinicaltrials.gov/study/NCT07765888"
+    },
+    {
+      "nct_id": "NCT06891651",
+      "title": "21-gene in Elder Breast Cancer Patients With Lymph Node Metastasis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer Metastatic",
+        "Breast Cancer Survival"
+      ],
+      "interventions": [],
+      "sponsor": "Qilu Hospital of Shandong University",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06891651"
+    },
+    {
+      "nct_id": "NCT07657156",
+      "title": "Musculoskeletal Ultrasound for Differentiating Rheumatoid and Gouty Arthritis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis (RA)",
+        "Gouty Arthritis (GA)",
+        "Gout",
+        "Inflammatory Arthritis"
+      ],
+      "interventions": [],
+      "sponsor": "Assiut University",
+      "primary_completion": "2027-07",
+      "url": "https://clinicaltrials.gov/study/NCT07657156"
+    },
+    {
+      "nct_id": "NCT07048405",
+      "title": "Intermittent Cold Exposure and Brown Adipose Tissue Hyperplasia",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Brown Adipose Tissue",
+        "Cold Exposure",
+        "18F-FDG PET/CT"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Cooling"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Biopsies"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Injection of 18F-FDG"
+        },
+        {
+          "type": "OTHER",
+          "name": "Indirect calorimetry"
+        },
+        {
+          "type": "OTHER",
+          "name": "Electromyogram"
+        },
+        {
+          "type": "OTHER",
+          "name": "Core and skin temperature monitoring"
+        }
+      ],
+      "sponsor": "University of Edinburgh",
+      "primary_completion": "2027-07",
+      "url": "https://clinicaltrials.gov/study/NCT07048405"
+    },
+    {
+      "nct_id": "NCT07236762",
+      "title": "An Exploratory Clinical Study of YTS109 Cell for R/R Autoimmune Diseases",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus",
+        "Lupus Nephritis (LN)",
+        "Sjogren's Syndrome",
+        "Inflammatory Myopathy",
+        "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+        "Antiphospholipid Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "YTS109 cell"
+        }
+      ],
+      "sponsor": "China Immunotech (Beijing) Biotechnology Co., Ltd.",
+      "primary_completion": "2026-11-24",
+      "url": "https://clinicaltrials.gov/study/NCT07236762"
+    },
+    {
+      "nct_id": "NCT07068074",
+      "title": "A Randomized Phase III Study of Management of Treatment Naive Primary Melanoma in Elderly Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cutaneous Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Wide local Excision"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Sentinel Lymph Node and Wide Local Excision"
+        }
+      ],
+      "sponsor": "Eastern Cooperative Oncology Group",
+      "primary_completion": "2031-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT07068074"
+    },
+    {
+      "nct_id": "NCT07708324",
+      "title": "Efficacy and Safety of Auricular Acupressure for Perimenopausal Insomnia",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Perimenopausal Insomnia"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Auricular Acupressure"
+        },
+        {
+          "type": "OTHER",
+          "name": "sham Auricular Acupressure"
+        }
+      ],
+      "sponsor": "The First Affiliated Hospital of Zhejiang Chinese Medical University",
+      "primary_completion": "2027-05-31",
+      "url": "https://clinicaltrials.gov/study/NCT07708324"
+    },
+    {
+      "nct_id": "NCT07414680",
+      "title": "Integrating Systematic Data of Medicine to Explore the Solution for Healthy Aging (ISDHA) Phase 4",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Sleep Disturbance",
+        "Cognitive Change",
+        "Aging"
+      ],
+      "interventions": [],
+      "sponsor": "Chang Gung Memorial Hospital",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07414680"
+    },
+    {
+      "nct_id": "NCT06605261",
+      "title": "Effect of Yoga Program on Quality of Life in Women With Breast Cancer Receiving Endocrine Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Yoga",
+        "Quality of Life",
+        "Nursing",
+        "Endocrine Therapy"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Yoga (intervention) group"
+        }
+      ],
+      "sponsor": "Gözde Gür",
+      "primary_completion": "2026-07",
+      "url": "https://clinicaltrials.gov/study/NCT06605261"
+    },
+    {
+      "nct_id": "NCT07081373",
+      "title": "Study on Repeat Liposomal Bupivacaine for Post-Surgery Pain in Anal Fistula Patients.",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anal Fistula"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "A single dose of liposomal bupivacaine is administered at the conclusion of surgery without adjunctive analgesics, followed by a supplemental dose 72 hours postoperatively."
+        }
+      ],
+      "sponsor": "Sixth Affiliated Hospital, Sun Yat-sen University",
+      "primary_completion": "2026-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07081373"
+    },
+    {
+      "nct_id": "NCT07693179",
+      "title": "Assessment of Prolonged Pain in Infants With Excessive Crying: Contribution of Infrared Thermal Imaging - The NEOTHERM Pilot Study",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Excessive Crying",
+        "Prolonged Pain"
+      ],
+      "interventions": [],
+      "sponsor": "Centre Hospitalier de Saint-Denis",
+      "primary_completion": "2028-07",
+      "url": "https://clinicaltrials.gov/study/NCT07693179"
+    },
+    {
+      "nct_id": "NCT07619924",
+      "title": "Randomized Controlled Study on the Safety and Efficacy of Phage Cocktail in the Treatment of Multidrug-Resistant Bacterial Skin Infections",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Phage Therapy",
+        "Bacteriophage Therapy",
+        "Skin and Soft Tissue Infections"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Bacteriophage Treatment"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo treatment using 0.9% normal saline"
+        }
+      ],
+      "sponsor": "First Affiliated Hospital Xi'an Jiaotong University",
+      "primary_completion": "2027-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT07619924"
+    },
+    {
+      "nct_id": "NCT06715761",
+      "title": "Effectiveness of Manual and Instrumental Myofascial Release in Chronic Low Back Pain and the Posture of Practitioners CrossFit®",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Low Back Pain"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Myofascial release"
+        },
+        {
+          "type": "OTHER",
+          "name": "Cupping therapy"
+        }
+      ],
+      "sponsor": "Gabriela Souza de Vasconcelos",
+      "primary_completion": "2025-07-30",
+      "url": "https://clinicaltrials.gov/study/NCT06715761"
+    },
+    {
+      "nct_id": "NCT05342519",
+      "title": "Daily Topical Rapamycin for Vitiligo",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Vitiligo"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rapamycin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rapamycin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "primary_completion": "2027-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT05342519"
+    },
+    {
+      "nct_id": "NCT07343544",
+      "title": "Clinical Trial to Assess the Efficacy and Safety of a Cosmetic Product in Individuals Showing Signs of Cutaneous Aging.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Skin",
+        "Skin Ageing",
+        "Fine Lines",
+        "Face Aging/Photo Aging of Moderate Grade",
+        "Face Skin Photoaging"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Active cream"
+        }
+      ],
+      "sponsor": "AB Biotics, SA",
+      "primary_completion": "2026-05",
+      "url": "https://clinicaltrials.gov/study/NCT07343544"
+    },
+    {
+      "nct_id": "NCT07483307",
+      "title": "A Study of the Impact of Endocrine Therapy on Surgical Outcomes in People With Lobular Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "HER2-negative Breast Cancer",
+        "HER2 Negative Breast Carcinoma",
+        "ER+ Breast Cancer",
+        "Lobular Breast Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Neoadjuvant endocrine therapy"
+        }
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "primary_completion": "2030-03-13",
+      "url": "https://clinicaltrials.gov/study/NCT07483307"
+    },
+    {
+      "nct_id": "NCT06696144",
+      "title": "Testing Carriage of Resistant Bacteria Using Swabs on Surfaces and Staff in a Complex Nursing Unit for Patients with Resistant Bacteria",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Multi Drug Resistant Department",
+        "Multi Drug Resistant Bacteria"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Skin swabs for multi drug resistant bacteria"
+        }
+      ],
+      "sponsor": "Shmuel Harofeh Hospital, Geriatric Medical Center",
+      "primary_completion": "2025-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT06696144"
+    },
+    {
+      "nct_id": "NCT07155967",
+      "title": "Effect of Cross-Education in Blood Flow Restriction Resistance Training on Lower Limbs in Older Women",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Muscle Strength",
+        "Hypertrophy"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Blood Flow Restriction Cuff"
+        }
+      ],
+      "sponsor": "Paulista University",
+      "primary_completion": "2026-07",
+      "url": "https://clinicaltrials.gov/study/NCT07155967"
+    }
+  ],
+  "fetched_at": "2026-09-07T23:23:44.129015"
+}

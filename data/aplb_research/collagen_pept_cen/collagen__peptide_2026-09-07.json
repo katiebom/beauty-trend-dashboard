@@ -1,0 +1,315 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "peptide",
+  "query": "(\"collagen\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42696340",
+      "title": "Clinical Evidence of Skin Improvements With a Biologically Active Multimodal Topical Skin Treatment.",
+      "abstract": "Antiaging skin treatments are continuously in development to meet the needs of an aging population and counteract cosmetic effects of glucagon-like peptide-1 receptor agonists. Peptide Facial Refining Concentrate (ST26-PF-F1) serum contains multiple bioactive peptides within a penetrative delivery system. A clinical study of ST26-PF-F1 assessed its effects on skin health/appearance and tolerability/usability.",
+      "year": "2026",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "authors": [
+        "Obagi Zein E",
+        "Balian Raffi J",
+        "Ramsey Susan V",
+        "Woodin Frederick W",
+        "Nguyen Grace H"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Skin Aging",
+        "Middle Aged",
+        "Administration, Cutaneous",
+        "Treatment Outcome",
+        "Aged",
+        "Skin",
+        "Face",
+        "Dermatologic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42696340/"
+    },
+    {
+      "pmid": "42694070",
+      "title": "Short peptide 803sp inhibits the inflammatory response induced by ",
+      "abstract": "Prolonged antibiotic use has led to increased bacterial resistance, making antibacterial peptides a promising alternative. We previously identified that the anti-apoptotic lncRNA-803 could encode short peptides, though their functions were unknown.",
+      "year": "2026",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "authors": [
+        "Han Shuo",
+        "Jiang Junxi",
+        "Duan Wei",
+        "Luo Lin",
+        "Du Ning"
+      ],
+      "mesh_terms": [
+        "Macrophages",
+        "Animals",
+        "Escherichia coli",
+        "Wound Healing",
+        "Escherichia coli Infections",
+        "Cytokines",
+        "Inflammation",
+        "Peptides",
+        "Mice",
+        "Anti-Bacterial Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42694070/"
+    },
+    {
+      "pmid": "42683869",
+      "title": "Mechanistic understanding and peptide ingredient screening for type III collagen via biological knowledge graph and molecular docking.",
+      "abstract": "Type III collagen plays a key role in maintaining skin elasticity and dermal resilience, yet its decline is associated with visible signs of skin ageing. This study aimed to establish a data-driven approach to identify cosmetic peptides with potential to enhance type III collagen through multi-target regulation.",
+      "year": "2026",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Zang Shanshan",
+        "Chen Zhiqiang",
+        "Qiu Jie",
+        "Gu Yao",
+        "Li Nan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42683869/"
+    },
+    {
+      "pmid": "42675285",
+      "title": "Effects of Botulinum Toxin Type A and Argireline on Dermal Collagen Remodeling and Skin Biology in a Flap Model.",
+      "abstract": "Botulinum toxin type A (BoNT-A) is increasingly recognized for tissue-level effects beyond neuromuscular blockade, but its impact on dermal collagen composition remains incompletely characterized. Acetyl hexapeptide-8 (Argireline) is a SNAP-25 mimetic cosmeceutical peptide whose biological activity at the tissue level is unclear. This study evaluated the effects of BoNT-A, Argireline, and their combination on dermal collagen type I/III and Substance P (SP) expression in a flap model.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Acuner Burçin",
+        "Görgülü Tahsin",
+        "Işıktekin Emrah",
+        "Kaymaz Morkoç Esin",
+        "Kargı Ahmet Eksal"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42675285/"
+    },
+    {
+      "pmid": "42673945",
+      "title": "Manganese Dioxide Nanozyme-Constituted Composite Hydrogel to Scavenge Reactive Oxygen Species for Scarless Wound Healing.",
+      "abstract": "Pathological skin scarring is still a major obstacle due to functional impairment and psychological diseases. Excessive reactive oxygen species (ROS) can hinder the healing of skin wound and increase the formation of scar tissues. To address this dilemma here, manganese dioxide (MnO2) nanozyme-constituted GelMA hydrogel was designed to eliminate ROS, while vascular endothelial growth factor (VEGF)-encapsulated RADA16 peptide nanofibers improved the angiogenesis responses for rapid wound healing, thus paving the way to design and orchestrate RADA16/VEGF/MnO2@GelMA composite hydrogel. With tailored physicochemical properties and favorable biocompatibility, our in vitro experiments revealed that RADA16/VEGF/MnO2@GelMA composite hydrogel enabled the controlled release of the MnO2 nanozyme to restrain excessive collagen deposition and the stimulus of VEGF to enhance vascularization. In the full-thickness skin defect rat model, this composite hydrogel significantly minimized scar formation and triggered functional neovascularization, promoting the scarless wound healing. This innovative RADA16/VEGF/MnO2@GelMA composite hydrogel-based therapeutic strategy presents an advanced approach toward scarless wound healing, holding great promise in orchestrating the synergistic effects of scar inhibition and angiogenesis promotion.",
+      "year": "2026",
+      "journal": "ACS applied materials & interfaces",
+      "authors": [
+        "Wang Qingtao",
+        "Tao Yong",
+        "Zhong Zhenyu",
+        "Li Dichen",
+        "Ni Yilu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42673945/"
+    },
+    {
+      "pmid": "42661359",
+      "title": "Potential Supportive Effects of AP Collagen Peptides on Skin Hydration in a Mouse Model of Oxazolone-Induced Atopic Dermatitis.",
+      "abstract": "Atopic dermatitis (AD) is a chronic and relapsing inflammatory skin disorder characterized by impaired skin barrier function and Th2-mediated immune responses. Collagen tripeptide (CTP), an amino acid-rich dietary supplement with low antigenicity, has been reported to improve skin hydration and barrier function. However, its therapeutic effects in AD, particularly under conditions of barrier dysfunction, have not yet been fully established. In this study, we evaluated the potential effects of AP collagen peptide (APCP), which contains CTP, on skin hydration and inflammatory responses, in an oxazolone (OXZ)-induced AD-like model using hairless mice. Skin hydration and transepidermal water loss (TEWL) were measured, while inflammatory responses were analyzed by histological evaluation and RT-qPCR. APCP-treated mice showed a tendency toward improvement in AD-like clinical symptoms and TEWL. In addition, APCP administration significantly increased skin hydration, accompanied by restoration of filaggrin expression and significantly reduced expression of TSLP, p-STAT3, and p-ERK. In contrast, mast cell infiltration, CD3",
+      "year": "2026",
+      "journal": "Journal of microbiology and biotechnology",
+      "authors": [
+        "Kim Su-Young",
+        "Park A Yeon",
+        "Lee Hyun Joo",
+        "Kim Eo Jin",
+        "Choi Ayeon"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dermatitis, Atopic",
+        "Oxazolone",
+        "Disease Models, Animal",
+        "Mice",
+        "Skin",
+        "Collagen",
+        "Cytokines",
+        "Filaggrin Proteins",
+        "Peptides"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42661359/"
+    },
+    {
+      "pmid": "42653901",
+      "title": "Silk Fibroin Peptides Promote Extracellular Matrix Homeostasis in Photoaging via Modulation of the ITGB1/FAK-TGF-β/Smad Signaling Axis.",
+      "abstract": "Excessive ultraviolet A (UVA) irradiation disrupts extracellular matrix (ECM) homeostasis in skin photoaging by impairing the balance between synthesis and degradation, yet whether silk fibroin peptide (SF), a small bioactive peptide from ",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "He Siyuan",
+        "Yan Yongqiu",
+        "Xiong Feifei",
+        "Diao Wenwen",
+        "Jia Fuhuai"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Extracellular Matrix",
+        "Integrin beta1",
+        "Skin Aging",
+        "Signal Transduction",
+        "Homeostasis",
+        "Fibroins",
+        "Animals",
+        "Fibroblasts",
+        "Transforming Growth Factor beta"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42653901/"
+    },
+    {
+      "pmid": "42643905",
+      "title": "Influence of Oral Collagen Peptides on Skin Biophysical Properties in Humans: A Narrative Review.",
+      "abstract": "The skin not only provides protection and sensory functions for the body, but healthy skin also enhances self-esteem. Moreover, altered cutaneous function contributes to the development of extracutaneous disorders. Therefore, great efforts have been made to identify agents and natural ingredients that are safe and effective to improve cutaneous function. In this narrative review, we searched PubMed and Google Scholar for literature on the effects of collagen peptides on skin biophysical properties. Studies have demonstrated that oral peptide improves several cutaneous functions, including stratum corneum hydration, epidermal permeability barrier, elasticity, firmness and roughness, in part via upregulation of keratinocyte differentiation, epidermal lipid synthesis, hyaluronic acid and collagen synthesis, and inhibition of inflammation, in addition to stimulation of fibroblast proliferation and aquaporin 3 expression. However, the heterogeneity among the included studies and their limited sample sizes preclude firm conclusions regarding the benefits of oral collagen peptides for cutaneous biophysical properties. Further research is needed to assess the efficacy of different collagen peptide sources and types across individual skin biophysical outcomes.",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Lei Dongyun",
+        "Zhang Guoqiang",
+        "Guo Tao",
+        "Zhang Litao",
+        "Man Mao-Qiang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42643905/"
+    },
+    {
+      "pmid": "42632737",
+      "title": "Cryoprotective effects of fish skin collagen peptide on frozen gluten proteins: From conformational changes to functional properties.",
+      "abstract": "Fish skin collagen peptides (FSCP) are mainly extracted from fish processing residues and exhibit outstanding biological activity and excellent functional properties. This study conducted a systematic evaluation of the effects of FSCP incorporation (0-2.0%, w/w) on the multiscale structural characteristics and functional performance of gluten proteins during freezing. Results demonstrated that FSCP exhibited pronounced ice recrystallization inhibition activity, effectively suppressing water migration, reducing the content of freezable water, and preserving the structural integrity of gluten proteins during freezing. On day 28 of freezing, 1.5% FSCP significantly increased the proportion of bound water than the control. Specifically, disulfide bond content increased by 69.69%, whereas intrinsic fluorescence intensity and median particle size decreased by 17.71% and 36.40%, respectively. Analysis of noncovalent interactions revealed that ionic and hydrogen bonds increased by 121.07% and 34.32%, respectively, whereas hydrophobic interactions decreased by 34.73%. FSCP addition enhanced water-holding capacity by 37.54% but reduced oil-holding capacity by 25.50%. Meanwhile, the emulsifying properties have also been enhanced. Rheological measurement further indicates storage and loss modulus increased significantly, while creep strain decreased slightly, reflecting improved viscoelastic behavior. Microstructural analysis further confirmed that FSCP contributed to a more densely packed and continuous gluten protein matrix. These effects are likely attributable to FSCP limiting water mobility through hydrogen bonding, thereby inhibiting ice crystal formation and recrystallization during freezing. Overall, as a novel and highly effective cryoprotectant, FSCP can stabilize protein network structures and enhance their functional properties, demonstrating significant application potential and offering a promising strategy for mitigating freeze-induced deterioration in frozen flour-based foods.",
+      "year": "2026",
+      "journal": "Food research international (Ottawa, Ont.)",
+      "authors": [
+        "Xin Menglei",
+        "Guo Jie",
+        "Wang Libo",
+        "Han Sihai",
+        "Yue Chonghui"
+      ],
+      "mesh_terms": [
+        "Glutens",
+        "Animals",
+        "Collagen",
+        "Freezing",
+        "Cryoprotective Agents",
+        "Fish Proteins",
+        "Skin",
+        "Fishes",
+        "Hydrogen Bonding",
+        "Protein Conformation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42632737/"
+    },
+    {
+      "pmid": "42628342",
+      "title": "Epithelial integration in tissue-engineered oral mucosa using RGDTFI-presenting micropatterned collagen scaffolds.",
+      "abstract": "To determine whether presentation of the integrin αvβ3/αvβ5-binding peptide motif RGDTFI on micropatterned collagen scaffolds improves epithelial coverage and stabilizes the epithelial-scaffold interface during fabrication of tissue-engineered oral mucosa (TEOM).",
+      "year": "2026",
+      "journal": "Journal of oral biosciences",
+      "authors": [
+        "Yortchan Witsanu",
+        "Yamada Yuji",
+        "Yoshiba Nagako",
+        "Aizawa Yuka",
+        "Hara-Saito Yuko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628342/"
+    },
+    {
+      "pmid": "42624827",
+      "title": "Efficacy and Safety of Low-Molecular-Weight Collagen Peptide GT for Improving Hair Condition in Individuals with Damaged Hair: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "abstract": "Addressing hair damage is essential for maintaining overall hair and scalp health. Previous studies have suggested that low-molecular-weight collagen peptides may support hair follicle biology through regulation of extracellular matrix homeostasis and cellular signaling pathways. In addition, recent preclinical studies have demonstrated that low-molecular-weight fish collagen peptides promote hair regrowth through activation of proliferative signaling and suppression of inhibitory pathways. However, their clinical efficacy in improving hair damage has not been clearly established. In this study, the efficacy and safety of low-molecular-weight collagen peptide GT (LMWCP GT) were evaluated in Korean adults with damaged hair. In a randomized, placebo-controlled trial, individuals aged 19∼60 years without alopecia but with mild to moderate hair damage received LMWCP GT (3 g/day) for 24 weeks. Compared with placebo, the treatment group demonstrated significant improvements in hair gloss, as measured using a gloss meter (SAMBA) and scanning electron microscopy, as well as in hair elasticity, assessed by tensile strength and hair diameter. Subjective evaluations further indicated improvements in overall hair condition, including gloss, elasticity, thickness, texture, fullness, and appearance. In addition, scalp elasticity was significantly increased in the treatment group. No treatment-related adverse events were observed. These findings indicate that daily supplementation with LMWCP GT (3 g/day) for 24 weeks is safe and effective in improving overall hair condition in individuals with damaged hair without alopecia.",
+      "year": "2026",
+      "journal": "International journal of stem cells",
+      "authors": [
+        "Kim Taek-Kyong",
+        "Oh Jintaek",
+        "Ha Yoon-Su",
+        "Son Hee-Ju",
+        "Yang Joon Sung"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42624827/"
+    },
+    {
+      "pmid": "42605868",
+      "title": "Chinese giant salamander (",
+      "abstract": "Dietary collagen peptides have been shown to alleviate UVB-induced skin photoaging. However, the upstream regulatory mechanisms and the bioactive peptide sequences underlying these effects remain unclear. In this study, using UVB-induced photoaging models in HaCaT cells and nude mice, we demonstrated that Chinese giant salamander-derived skin collagen peptides (CPs) ameliorate photoaging through the miR-4521/EGFR/MAPK axis and identified GPY (Gly-Pro-Try) as a representative anti-photoaging tripeptide. In HaCaT cells, UVB irradiation downregulated miR-4521. Bioinformatics and transfection analyses suggested that EGFR is regulated by miR-4521 and functions as an upstream regulator of the MAPK pathway. CPs treatment increased miR-4521, inhibited EGFR and MAPK activation, and consequently ameliorated photoaging-related phenotypes. Compared with UVB irradiation alone, GPY increased the expression of type I collagen and elastin in HaCaT cells by 61.9 and 10.0%, respectively, while suppressing MAPK activation. In nude mice exposed to UVB for 10 weeks, dermal collagen fibers became disorganized, and the collagen area and type I collagen level decreased to approximately 20 and 10% of the corresponding control values, respectively. Dietary CPs intervention restored collagen fiber organization and increased the collagen area and type I collagen to 66.7 and 76.0% of the control levels, respectively. CPs supplementation also suppressed MAPK signaling, as evidenced by reductions of 22.3, 81.3, and 44.7% in p-JNK, p-ERK, and p-p38 levels, respectively, relative to the UVB-only group. Overall, these findings reveal the miR-4521/EGFR/MAPK axis and GPY as key bases for the anti-photoaging effects of CPs.",
+      "year": "2026",
+      "journal": "Food & function",
+      "authors": [
+        "Zhou Yongjie",
+        "Xu Wenjing",
+        "Valacchi Giuseppe",
+        "Zhao Chunyue",
+        "Zhang Yan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42605868/"
+    },
+    {
+      "pmid": "42604590",
+      "title": "Secretion Engineering Enables Production of a Structurally Stable and Long-Continuous Type III Collagen Fragment in Pichia pastoris.",
+      "abstract": "Recombinant humanized type III collagen has attracted increasing interest for biomedical and tissue engineering applications due to its roles in extracellular matrix remodeling and tissue repair. However, the production of long-continuous, structurally stable type III collagen fragment in Pichia pastoris is limited by host-derived proteolysis of the recombinant α1 chain, resulting in fragmentation and loss of structural integrity. In this study, a long-continuous type III collagen fragment was produced in P. pastoris by proteolytic selection and identified as a continuous 585-amino acid sequence (N611-P1195) by LC-MS/MS. Secretion efficiency was improved by signal peptide optimization, enabling the development of high-producing strains (6.22 g/L). rColIII was purified to > 90% purity with low endotoxin levels (< 10 EU/mg) using multimodal chromatography and exhibited enhanced thermal stability. Although CD analysis indicated the absence of a canonical triple-helix conformation, FITR spectroscopy confirmed preservation of key peptide backbone structures. Biological assays demonstrated favorable cytocompatibility, with rColIII promoting HSF cell viability, adhesion, and migration. This study provides a scalable strategy for producing long, continuous type III collagen fragment with improved stability in P. pastoris, and supports their potential applications in cosmetic, tissue engineering, regenerative medicine, and other biomedical fields.",
+      "year": "2026",
+      "journal": "Biotechnology and bioengineering",
+      "authors": [
+        "Zhu Lin",
+        "Liang Qingping",
+        "Zhang Guijun",
+        "Wang Zhaoyu",
+        "Shen Zhaopeng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604590/"
+    },
+    {
+      "pmid": "42595117",
+      "title": "Molecular basis of collagen triple helix recognition by VWF A-like domain 2 of collagen VII: Implications for interlaced anchoring fibril formation.",
+      "abstract": "Anchoring fibrils formed by collagen VII play a critical role in stabilizing the dermal-epidermal junction. The N-terminal non-collagenous (NC1) domain of collagen VII binds firmly to basement membrane components including collagen IV and has also been reported to interact with mesenchymal fibrillar collagens via its von Willebrand factor A-like domain 2 (A2 domain). To elucidate how collagen VII recognizes fibrillar collagen, we performed yeast two-hybrid screening using a triple-helical random peptide library, which resulted in the identification of a Met-Gly-Φ (Φ; aromatic amino acid residue) motif. Biochemical analysis with synthetic triple-helical peptides revealed a binding preference of Trp > Phe as the Φ residue by the A2 domain despite Trp being absent in native collagens. The crystal structure of the A2 domain in complex with the Nle (Met surrogate)-Gly-Trp-containing peptide revealed a unique mechanism by which two distinct hydrophobic pockets of the A2 domain accommodate the Nle and Trp residues corresponding to the Met-Gly-Φ motif, engaging all three chains of the triple helix. Subsequent molecular dynamics simulations demonstrated that the A2 domain recognizes the corresponding native Met-Gly-Phe motif in a similar manner, but with lower affinity, implying a transient interaction with mesenchymal collagens. The findings obtained in this work suggest models in which transient A2-triple helix interaction promotes the recruitment of collagen I and III fibrils into the arc-shaped structure of anchoring fibrils. This also provides a foundation for linking structural understanding to skin fragility diseases caused by collagen VII dysfunction.",
+      "year": "2026",
+      "journal": "The Journal of biological chemistry",
+      "authors": [
+        "Hashimoto Moe",
+        "Oki Hiroya",
+        "Kawahara Kazuki",
+        "Fujii Kazunori K",
+        "Koide Takaki"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42595117/"
+    },
+    {
+      "pmid": "42589634",
+      "title": "Semaglutide and Liraglutide Modulate Oxidative Stress and Wound Repair in Normal Human Skin Cells Exposed to an In Vitro Diabetic-like Environment.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) not only improve glycemic control but also possess anti-inflammatory and antioxidant properties. In this study, the effects of semaglutide and liraglutide on oxidative stress and wound healing were examined in human dermal fibroblasts (NHDFs) and keratinocytes (NHEKs) under diabetes-mimicking conditions. Cells were exposed to high glucose and hydrogen peroxide, followed by treatment with semaglutide or liraglutide at concentrations of 22.5 and 45 pg/mL for 48 h. We assessed cell viability, apoptosis, intracellular reactive oxygen species (ROS), Ki-67, and Pax-7. Advanced glycation end-products (AGEs) and their receptor (RAGE) were quantified via ELISA. Wound healing was evaluated by scratch assay, and the gene expression of antioxidants, cytokines, and matrix components was measured by real-time PCR. Semaglutide significantly improved NHDF viability and proliferation under diabetic conditions, reducing ROS production more effectively than liraglutide. Apoptosis decreased, evidenced by increased Bcl-2 alongside decreased Bax and cleaved caspase-3, particularly with semaglutide. Furthermore, semaglutide uniquely activated Pax-7 expression. While both agents upregulated antioxidants, semaglutide more effectively suppressed AGEs/RAGE and inflammatory cytokines. Both drugs enhanced collagen expression and accelerated wound closure; however, semaglutide achieved near-complete healing within 48 h. Neither drug induced observable changes in NHEKs. Semaglutide exhibits strong antioxidative, cytoprotective, and pro-regenerative effects in diabetic NHDFs, outperforming liraglutide across multiple parameters. These findings highlight semaglutide's therapeutic potential for diabetic wound healing, warranting further in vivo investigation.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Anastasiou Ioanna A",
+        "Tentolouris Konstantinos",
+        "Katsaouni Athanasia",
+        "Sarantis Panagiotis",
+        "Mourouzis Iordanis"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Semaglutide",
+        "Oxidative Stress",
+        "Liraglutide",
+        "Glucagon-Like Peptides",
+        "Wound Healing",
+        "Apoptosis",
+        "Fibroblasts",
+        "Cell Survival",
+        "Reactive Oxygen Species"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42589634/"
+    }
+  ],
+  "crawled_at": "2026-09-07T23:23:52.231516"
+}

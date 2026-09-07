@@ -1,0 +1,800 @@
+{
+  "ingredient_id": "urea",
+  "name_kr": "우레아",
+  "name_en": "Urea",
+  "query": "(\"Urea\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 27,
+  "trials": [
+    {
+      "nct_id": "NCT07050134",
+      "title": "A Trial to Evaluate the Efficacy and Safety of DR10624 in Patients With Hypertriglyceridemia and Carotid Atherosclerotic Plaque",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hypertriglyceridemia",
+        "Carotid Atherosclerotic Plaques"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "DR10624 Injection；"
+        },
+        {
+          "type": "DRUG",
+          "name": "DR10624 Injection Placebo (referred to as placebo)"
+        }
+      ],
+      "sponsor": "Junbo Ge",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07050134"
+    },
+    {
+      "nct_id": "NCT07362238",
+      "title": "Daratumumab Versus Rituximab in the Management of Pediatric Primary Immune Thrombocytopenia (ITP)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenia",
+        "Treatment"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Daratumumab"
+        }
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "primary_completion": "2028-03",
+      "url": "https://clinicaltrials.gov/study/NCT07362238"
+    },
+    {
+      "nct_id": "NCT07426120",
+      "title": "Efficacy and Safety of a Botanical Total Coumarin (TC) Cream in Treating Patients With Psoriasis Vulgaris (PLANTCOAT-III)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriasis Vulgaris",
+        "Topical Administration",
+        "Phase III"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Total coumarin (TC) cream"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vehicle cream"
+        }
+      ],
+      "sponsor": "Psoriasis Research Institute of Guangzhou",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07426120"
+    },
+    {
+      "nct_id": "NCT07488988",
+      "title": "SCARFREE-001: Verteporfin for Scar Prevention",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Surgical Scar"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Verteporfin Injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Saline injection"
+        }
+      ],
+      "sponsor": "Odense University Hospital",
+      "primary_completion": "2028-02",
+      "url": "https://clinicaltrials.gov/study/NCT07488988"
+    },
+    {
+      "nct_id": "NCT06372587",
+      "title": "Next-Generation alzheImer'S Therapeutics",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Alzheimer Disease"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "genetically encoded engineered proteins"
+        }
+      ],
+      "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "primary_completion": "2024-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT06372587"
+    },
+    {
+      "nct_id": "NCT07694414",
+      "title": "Rituximab for Treatment of Checkpoint Inhibitor Induced Immune-related Adverse Events",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune-Related Adverse Events"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab (RTX)"
+        }
+      ],
+      "sponsor": "Inge Marie Svane",
+      "primary_completion": "2028-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07694414"
+    },
+    {
+      "nct_id": "NCT07245771",
+      "title": "Phase 1/2a Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Effect on Body Weight of RN3161 as Monotherapy and in Combination With Tirzepatide in Adults With Overweight and Obesity",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity &Amp; Overweight"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "RN3161"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo Control"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide"
+        }
+      ],
+      "sponsor": "Ikaria Bioscience Pty Ltd",
+      "primary_completion": "2027-02-15",
+      "url": "https://clinicaltrials.gov/study/NCT07245771"
+    },
+    {
+      "nct_id": "NCT06668181",
+      "title": "An Open-label Study to Evaluate the Pharmacokinetics and Safety of Bimekizumab in Pediatric Study Participants With Active Juvenile Idiopathic Arthritis Subtypes Enthesitis-related Arthritis (Including Juvenile-onset Ankylosing Spondylitis) and Juvenile Psoriatic Arthritis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Enthesitis-related Arthritis",
+        "Juvenile Psoriatic Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bimekizumab"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2028-04-12",
+      "url": "https://clinicaltrials.gov/study/NCT06668181"
+    },
+    {
+      "nct_id": "NCT06388941",
+      "title": "Iptacopan in Patients With ANCA Associated Vasculitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anti-Neutrophil Cytoplasm Antibodies (ANCA) Associated Vasculitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Iptacopan"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        }
+      ],
+      "sponsor": "Novartis Pharmaceuticals",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT06388941"
+    },
+    {
+      "nct_id": "NCT07525505",
+      "title": "Nigella Sativa Oil for Eczematous Otitis Externa",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Eczema/Atopic Dermatitis",
+        "Otitis Externa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Mometasone Furoate (MF)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Nigella sativa oil"
+        }
+      ],
+      "sponsor": "Bezmialem Vakif University",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT07525505"
+    },
+    {
+      "nct_id": "NCT06549231",
+      "title": "Evaluation of Efficacy and Safety of Rituximab and Mycophenolate Mofetil Combination in Patients With Interstitial Lung Disease Related to Systemic Sclerosis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Interstitial Lung Disease With Systemic Sclerosis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University Hospital, Tours",
+      "primary_completion": "2028-07-08",
+      "url": "https://clinicaltrials.gov/study/NCT06549231"
+    },
+    {
+      "nct_id": "NCT06544226",
+      "title": "The Use of Smart Devices in Capturing Digital Biomarkers in Eating Disorders",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Eating Disorders"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "UH100"
+        }
+      ],
+      "sponsor": "Univa Health",
+      "primary_completion": "2025-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT06544226"
+    },
+    {
+      "nct_id": "NCT04400994",
+      "title": "IVIG With Rituximab vs Rituximab as First Line Treatment of Pemphigus",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pemphigus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "OTHER",
+          "name": "IVIg"
+        }
+      ],
+      "sponsor": "The University of Hong Kong",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT04400994"
+    },
+    {
+      "nct_id": "NCT05508009",
+      "title": "Early Trial of Allogeneic Hematopoietic Stem Cell Transplantation for Patients Who Will Receive a Kidney Transplant From the Same Donor",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "SIOD",
+        "Cystinosis",
+        "FSGS",
+        "SLE Nephritis",
+        "CKD Stage 4"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide 1200 mg/Kg"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide 100 mg/Kg"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Total Body Irradiation"
+        },
+        {
+          "type": "DRUG",
+          "name": "ATG"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Melphalan"
+        },
+        {
+          "type": "DEVICE",
+          "name": "CliniMACS® TCR α/β Reagent Kit and CliniMACS® CD19 System"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Kidney Transplant"
+        }
+      ],
+      "sponsor": "Alice Bertaina",
+      "primary_completion": "2032-10",
+      "url": "https://clinicaltrials.gov/study/NCT05508009"
+    },
+    {
+      "nct_id": "NCT07615959",
+      "title": "Medicsen Smartpatch: Safety & Performance (SOUNDD)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Medicsen Smartpatch"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Subcutaneous (SC) single dose"
+        }
+      ],
+      "sponsor": "Medicsensors S.L",
+      "primary_completion": "2026-11",
+      "url": "https://clinicaltrials.gov/study/NCT07615959"
+    },
+    {
+      "nct_id": "NCT03999229",
+      "title": "S-Nitrosylation (SNO) Therapy During Autologous Blood Transfusion",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Transfusion Related Complication"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SNO"
+        },
+        {
+          "type": "DRUG",
+          "name": "Normal Saline"
+        },
+        {
+          "type": "DRUG",
+          "name": "Red Blood Cell"
+        }
+      ],
+      "sponsor": "James Reynolds",
+      "primary_completion": "2028-02-29",
+      "url": "https://clinicaltrials.gov/study/NCT03999229"
+    },
+    {
+      "nct_id": "NCT07360808",
+      "title": "Safety and Efficacy of Adipose-Derived Regenerative Cells (ADRCs) for Improving Hand Dysfunction in Systemic Sclerosis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Sclerosis (SSc)",
+        "Hand Dysfunction"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Autologous ADRCs injection Combined with Standard Therapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Standard Treatment group"
+        }
+      ],
+      "sponsor": "Cytori Therapeutics",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07360808"
+    },
+    {
+      "nct_id": "NCT07555626",
+      "title": "Mediterranean Diet and Gut Microbiota in Children With Systemic Lupus Erythematosus",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus (SLE)"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Mediterranean Diet-Based Individual Nutrition Counseling"
+        }
+      ],
+      "sponsor": "TC Erciyes University",
+      "primary_completion": "2027-10",
+      "url": "https://clinicaltrials.gov/study/NCT07555626"
+    },
+    {
+      "nct_id": "NCT07458763",
+      "title": "Rapid Response Home Care as an Alternative to Acute Admission",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Infection"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Admission avoidance Hospital at Home"
+        }
+      ],
+      "sponsor": "Copenhagen University Hospital at Herlev",
+      "primary_completion": "2026-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT07458763"
+    },
+    {
+      "nct_id": "NCT06425549",
+      "title": "A Study to Evaluate the Efficacy and Safety of Bimekizumab Compared to Ustekinumab in Children and Adolescents From 6 Years to Less Than 18 Years of Age With Moderate to Severe Plaque Psoriasis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Moderate to Severe Plaque Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "bimekizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "ustekinumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "placebo"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2028-08-21",
+      "url": "https://clinicaltrials.gov/study/NCT06425549"
+    },
+    {
+      "nct_id": "NCT06206837",
+      "title": "A Study to Learn About Vepdegestrant When Given With PF-07220060 to People With Advanced or Metastatic Breast Cancer.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "vepdegestrant"
+        },
+        {
+          "type": "DRUG",
+          "name": "PF-07220060"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2025-09-05",
+      "url": "https://clinicaltrials.gov/study/NCT06206837"
+    },
+    {
+      "nct_id": "NCT07237425",
+      "title": "Intralesional Ronkyla Plus Injection for the Treatment of Superficial Lipoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lipoma",
+        "Submental Fullness"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ronkyla Plus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Kybella"
+        }
+      ],
+      "sponsor": "Glonova Pharma Co., Ltd",
+      "primary_completion": "2028-05-31",
+      "url": "https://clinicaltrials.gov/study/NCT07237425"
+    },
+    {
+      "nct_id": "NCT06284590",
+      "title": "Study of the Efficacy of Intratumoral L19IL2 or L19TNF or L19IL2/L19TNF, in Combination With Pembrolizumab, in Unresectable Melanoma Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melanoma Stage III",
+        "Melanoma Stage IV"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "L19IL2"
+        },
+        {
+          "type": "DRUG",
+          "name": "L19TNF"
+        },
+        {
+          "type": "DRUG",
+          "name": "L19IL2/L19TNF"
+        },
+        {
+          "type": "DRUG",
+          "name": "KEYTRUDA®"
+        }
+      ],
+      "sponsor": "Philogen S.p.A.",
+      "primary_completion": "2028-07",
+      "url": "https://clinicaltrials.gov/study/NCT06284590"
+    },
+    {
+      "nct_id": "NCT06639178",
+      "title": "Effectiveness of an N-acetylcysteine and Urea-based Cream in Prevention of Capecitabine-induced HAND-foot Syndrome in Breast Cancer Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "DECLARAN cream"
+        }
+      ],
+      "sponsor": "Centro di Riferimento Oncologico - Aviano",
+      "primary_completion": "2026-05-15",
+      "url": "https://clinicaltrials.gov/study/NCT06639178"
+    },
+    {
+      "nct_id": "NCT07193589",
+      "title": "A Phase II Clinical Study Evaluating of ZL-82 Tablets in Atopic Dermatitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "The high-dose group of ZL-82 tablets"
+        },
+        {
+          "type": "DRUG",
+          "name": "The low-dose group of ZL-82 tablets"
+        },
+        {
+          "type": "DRUG",
+          "name": "The placebo group"
+        }
+      ],
+      "sponsor": "Chengdu Zenitar Biomedical Technology Co., Ltd",
+      "primary_completion": "2027-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07193589"
+    },
+    {
+      "nct_id": "NCT06175338",
+      "title": "Study, Evaluating Pharmacokinetics, Pharmacodynamics, Immunogenicity and Safety Profiles of Rituximab Compared to MabThera® in Patients With Rheumatoid Arthritis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "MabThera®"
+        }
+      ],
+      "sponsor": "Mabscale, LLC",
+      "primary_completion": "2024-11",
+      "url": "https://clinicaltrials.gov/study/NCT06175338"
+    },
+    {
+      "nct_id": "NCT07268326",
+      "title": "Plant-Based Diet for Patients With Rheumatoid Arthritis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis (RA)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Plant-based diet"
+        }
+      ],
+      "sponsor": "Center for Clinical Research and Prevention",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT07268326"
+    },
+    {
+      "nct_id": "NCT06478290",
+      "title": "Pilot Assessment of the Safety of a Combination of Curcumin, Omega-3, and Vitamin D Supplements in ACPA+ Individuals",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy Participants"
+      ],
+      "interventions": [
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "curcumin, omega-3, and vitamin D (COD)"
+        }
+      ],
+      "sponsor": "University of Manitoba",
+      "primary_completion": "2026-07",
+      "url": "https://clinicaltrials.gov/study/NCT06478290"
+    },
+    {
+      "nct_id": "NCT04323748",
+      "title": "Dose Dense Rituximab for High Risk Newly Diagnosed Acute Immune Thrombocytopenic Purpura",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenic Purpura"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "rituxan"
+        }
+      ],
+      "sponsor": "New York Medical College",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT04323748"
+    },
+    {
+      "nct_id": "NCT06656962",
+      "title": "The Efficacy and Safety of Treatment with Telitacicept in Antineutrophil Cytoplasmic Antibody-associated Nephritis (AAGN)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Antineutrophil Cytoplasmic Antibody (ANCA)-associated Nephritis (AAGN)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Telitacicept 160mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisone (and methylprednisolone)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        }
+      ],
+      "sponsor": "Renmin Hospital of Wuhan University",
+      "primary_completion": "2025-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT06656962"
+    }
+  ],
+  "fetched_at": "2026-09-07T23:23:42.176148"
+}
