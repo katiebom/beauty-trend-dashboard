@@ -1,0 +1,182 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42714580",
+      "title": "One-year real-world data of intravitreal faricimab in patients with pre-treated neovascular age-related macular degeneration.",
+      "abstract": "To assess one-year real-world outcomes of faricimab therapy in patients with neovascular age-related macular degeneration (nAMD) previously treated with anti-VEGF agents and managed using a treat-and-extend (TAE) regimen.",
+      "year": "2026",
+      "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+      "authors": [
+        "Hoffmann Sebastian",
+        "Liegl Constance",
+        "Stasik Isabel",
+        "Holz Frank G",
+        "Liegl Raffael"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42714580/"
+    },
+    {
+      "pmid": "42710781",
+      "title": "Clinical features, retinal detachment (RD) rates, and RD prophylaxis in patients with genetically confirmed Knobloch Syndrome, a U.S.-based multi-center study.",
+      "abstract": "Knobloch syndrome is a rare autosomal recessive condition characterized by lack of functional collagen type XVIII (COL18A1), occipital defects, high myopia, and vitreoretinal degeneration. Clinical features, retinal detachment (RD) rates, and role of prophylactic treatment are not well established. The purpose is to 1) report clinical/systemic features, 2) RD rates and 3) the role of prophylactic treatment in a U.S.-based genetically confirmed cohort.",
+      "year": "2026",
+      "journal": "Ophthalmology. Retina",
+      "authors": [
+        "Rao Prethy",
+        "Chang Emmanuel",
+        "Spoth Emily",
+        "Santos da Cruz Natasha Ferreira",
+        "Berrocal Audina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710781/"
+    },
+    {
+      "pmid": "42707082",
+      "title": "Irreversible vision loss following split lateral rectus nasal transposition for complete oculomotor nerve palsy.",
+      "abstract": "To report a rare case of irreversible vision loss following nasal transposition of the split lateral rectus muscle (NTSLR) in a patient with complete oculomotor nerve palsy (ONP) and outline its clinical implications.",
+      "year": "2026",
+      "journal": "American journal of ophthalmology case reports",
+      "authors": [
+        "Komori Miwa",
+        "Sato Miho",
+        "Arakawa Akari",
+        "Kaneko Hiroki",
+        "Hikoya Akiko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42707082/"
+    },
+    {
+      "pmid": "42703705",
+      "title": "Cilioretinal-Sparing Central Retinal Artery Occlusion in a Child with Adenosine Deaminase 2 (ADA2) Deficiency.",
+      "abstract": "To report cilioretinal-sparing central retinal artery occlusion (CRAO) in a child with adenosine deaminase 2 (ADA2) deficiency and polyarteritis nodosa-like systemic vasculitis.",
+      "year": "2026",
+      "journal": "Ocular immunology and inflammation",
+      "authors": [
+        "Sharma Arpit",
+        "Rajan Renu P",
+        "V Muthukrishnan",
+        "Kannan Naresh B",
+        "Ramasamy Kim"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42703705/"
+    },
+    {
+      "pmid": "42702847",
+      "title": "Ocular Events Temporally Associated With Minoxidil: A Structured Review.",
+      "abstract": "Minoxidil is widely used in topical form for androgenetic alopecia and is increasingly prescribed orally for hair disorders. Although cardiovascular and dermatologic adverse effects are well recognized, ocular complications associated with minoxidil exposure remain poorly characterized in the dermatologic literature. We conducted a structured review of published papers describing ocular adverse events temporally associated with oral or topical minoxidil (TM) use, following PRISMA guidelines. Twelve papers were identified, with a mean patient age of 33 years and predominance of male patients (83%). Exposure involved TM in 75% of cases, oral minoxidil in 8%, and combined use in 17%. Central serous chorioretinopathy was the most frequently reported event (58%), followed by retinal vascular occlusion (17%), nonarteritic anterior ischemic optic neuropathy (8%), ocular hypertension (8%), and transient optic nerve-associated visual disturbance (8%). Diagnostic confirmation was reported in all cases (100%). Discontinuation of minoxidil occurred in most cases (92%) and was frequently associated with clinical or anatomic improvement (83%); however, causality remained uncertain based on WHO-UMC and modified Naranjo assessments, with most cases categorized as possible adverse drug reactions. These findings highlight a rare but clinically relevant spectrum of ocular events temporally associated with minoxidil use. Clinicians should counsel patients to report new visual symptoms and consider ophthalmologic evaluation when indicated. Larger pharmacovigilance and observational studies are needed to better define incidence and underlying mechanisms.",
+      "year": "2026",
+      "journal": "Journal of cutaneous medicine and surgery",
+      "authors": [
+        "Akiska Yagiz Matthew",
+        "Boginskaya Olga",
+        "Mumtaz Aisha",
+        "Sibbald Cathryn",
+        "Ali Asim"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42702847/"
+    },
+    {
+      "pmid": "42701144",
+      "title": "Culture media alter retinal organoid physiology promoting AAV transduction and retinal ganglion cell survival.",
+      "abstract": "Human iPSC-derived retinal organoids offer a human-relevant platform for inherited retinal disease (IRD) gene therapy, yet robust AAV transduction in vitro remains challenging. Here we show that culture in BrainPhys™ (BP) medium markedly enhances AAV-mediated gene delivery. Brief BP exposure during the transduction window improves uptake, whereas continuous BP culture yields the strongest effects, indicating contributions from acute entry processes and longer-term cellular remodelling. Quantitative proteomics reveal coordinated upregulation of viral entry and trafficking mediators, including integrins that form αVβ5, and the trans-Golgi entry factor GPR108, together with enrichment of endosomal/ER-Golgi transport proteins, providing a mechanistic basis for enhanced vector processing. BP concurrently promotes neuronal maturation and metabolism, with pronounced increases in neurotrophic and synaptic proteins and broad enhancement of oxidative phosphorylation components. Functional calcium imaging demonstrates comparable neuronal dynamics across conditions but reveals robust, recurrent network-level bursts under BP, consistent with strengthened connectivity. BP also preserves retinal ganglion cells and maintains expression of canonical markers, aligning with a BDNF-centred interactome and improved circuit integration. Collectively, these findings identify the culture environment as a critical determinant of AAV efficacy in human retinal tissue models and position BP as a simple, scalable strategy to reduce vector requirements, enhance retinal cells targeting, and increase the fidelity of organoid-based non-animal testing for IRD gene therapy development.",
+      "year": "2026",
+      "journal": "Gene therapy",
+      "authors": [
+        "O'Hara-Wright Michelle",
+        "Lim Benjamin Y",
+        "M Mangala Melissa",
+        "Kaiser Vivienne",
+        "Wong Emilie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42701144/"
+    },
+    {
+      "pmid": "42699770",
+      "title": "Environmental particulate reference materials increase DCFDA fluorescence and reduce ATP-dependent viability in primary mouse retinal cells.",
+      "abstract": "Long-term exposure to ambient particulate matter ≤2.5 μm in aerodynamic diameter (PM2.5) has been associated with optic neuropathy and retinal neurodegeneration, but experimental evidence remains limited. We assessed two certified environmental particulate reference materials in primary mouse retinal cells and after repeated ocular-surface exposure in mice. For the in vitro analyses, technical replicate wells were first averaged within each independent cell isolation, and each experimental condition was then normalized to the corresponding control from the same biological replicate. Particulate exposure produced condition-dependent changes in 2',7'-dichlorofluorescin diacetate (DCFDA) fluorescence and ATP-dependent viability, with statistically significant effects concentrated in selected retinal glial-cell conditions. After within-experiment normalization and multiplicity adjustment, direct comparisons did not demonstrate a statistically significant protective effect of α-tocopherol or N-acetylcysteine on particulate-associated responses, and retinal glial-cell coculture did not significantly improve RGC survival relative to monoculture. In postnatal mice, topical particulate administration was associated with inner retinal thinning and lower RGC-marker-positive cell counts. In adult Thy1-CFP mice, neither sample-specific nor post hoc pooled within-mouse comparisons with contralateral saline-treated eyes were statistically significant. A separate post hoc exploratory between-animal comparison showed fewer CFP-positive cells in pooled particulate-treated eyes than in independent bilateral-saline controls (mean difference, -14.4 cells; 95% CI, -28.1 to -0.7; P = 0.040). These findings support cellular and retinal susceptibility under the conditions used, but they do not establish particle transport to the retina, a causal oxidative mechanism, or quantitative risk from ambient PM2.5 exposure in humans.",
+      "year": "2026",
+      "journal": "Biochemistry and biophysics reports",
+      "authors": [
+        "Chen Wanjing",
+        "Iizuka Yoko",
+        "Mabuchi Fumihiko",
+        "Yoshizawa Satoko",
+        "Muramatsu Tomoko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42699770/"
+    },
+    {
+      "pmid": "42693542",
+      "title": "Determination of Human Effective Dose via Translational Ocular Modeling: Clinical Translation of a Novel Topical Agent Using PBPK.",
+      "abstract": "Wet age-related macular degeneration (wAMD) is a leading cause of vision loss, and human dose selection for ocular therapeutics remains a key translational challenge. We developed a physiologically based pharmacokinetic (PBPK) model for EB-203 to guide dose selection by translating preclinical ocular tissue exposure to human. PK data were obtained from mouse and rabbit studies and human plasma PK from a phase I trial. The model incorporated species-specific ocular physiology, drug permeability, and pharmacokinetics, and was implemented using an open-source PBPK modeling software (MoBi, version 12.2, Open Systems Pharmacology). Drug-specific model parameters were estimated using mouse and rabbit plasma and ocular tissue concentration data. Human plasma PK data from a Phase I clinical trial were then used to estimate human-specific systemic clearance, and human ocular tissue concentrations were subsequently predicted by the model. Simulated human retinal drug concentrations (AUC, C",
+      "year": "2026",
+      "journal": "Clinical and translational science",
+      "authors": [
+        "Jung Woojin",
+        "Lee Jamie Jaeheung",
+        "Cho Yunseok",
+        "Min Kyoung Ah",
+        "Yun Hwi-Yeol"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Rabbits",
+        "Mice",
+        "Models, Biological",
+        "Macular Degeneration",
+        "Translational Research, Biomedical",
+        "Dose-Response Relationship, Drug",
+        "Ophthalmic Solutions",
+        "Computer Simulation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42693542/"
+    },
+    {
+      "pmid": "42684571",
+      "title": "Electronegative ERG revealing melanoma-associated retinopathy in a patient with trametinib-associated retinopathy.",
+      "abstract": "To describe electrophysiologic detection of melanoma-associated retinopathy (MAR) in a patient initially presumed to have isolated trametinib-associated retinopathy.",
+      "year": "2026",
+      "journal": "Documenta ophthalmologica. Advances in ophthalmology",
+      "authors": [
+        "Inuzuka Masayuki",
+        "Mochizuki Kiyofumi",
+        "Fujibayashi Shotaro",
+        "Ueno Shinji",
+        "Iwata Hiroaki"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42684571/"
+    },
+    {
+      "pmid": "42678505",
+      "title": "Chitosan-associated vasculitis with eye and sensorineural symptoms following postpartum haemorrhage: a case-based review.",
+      "abstract": "Cogan syndrome is a rare autoimmune disorder characterised by ocular inflammation and audiovestibular dysfunction. Similar clinical phenotypes are being described in association with the haemostatic biomaterial chitosan. This \"Cogan-like\" entity being referred to as chitosan-associated vasculitis with eye and sensorineural symptoms (CAVES), is increasingly being reported in the literature.",
+      "year": "2026",
+      "journal": "Irish journal of medical science",
+      "authors": [
+        "O'Leary Eimear",
+        "Conway Marcus",
+        "Rogers Duncan",
+        "Burke Tomás"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42678505/"
+    }
+  ],
+  "crawled_at": "2026-09-11T23:05:23.502151",
+  "source": "pubmed"
+}

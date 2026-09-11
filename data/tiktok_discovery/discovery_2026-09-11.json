@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-11",
+  "total_hashtags_checked": 188,
+  "views_collected": 1,
+  "new_candidates": 0,
+  "classification_pending": true,
+  "raw_candidates": [
+    {
+      "hashtag": "snowmushroom",
+      "views": 37000000,
+      "weekly_delta": 200000,
+      "growth_rate": 0.0054,
+      "size_score": 0.841
+    }
+  ],
+  "flagged": [],
+  "top_overall": [
+    {
+      "hashtag": "snowmushroom",
+      "views": 37000000,
+      "weekly_delta": 200000,
+      "growth_rate": 0.0054,
+      "size_score": 0.841
+    }
+  ],
+  "monitor": {}
+}
