@@ -1,0 +1,739 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 22,
+  "trials": [
+    {
+      "nct_id": "NCT06774547",
+      "title": "Early Implementation of Plyometric Exercises in the Rehabilitation of Individuals Suffering From Lower-Extremity Tendinopathies",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Achilles Tendinopathy",
+        "Patellar Tendinopathy",
+        "Plantar Fasciopathy"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Heavy-slow resistance training"
+        },
+        {
+          "type": "OTHER",
+          "name": "Plyometric exercise"
+        }
+      ],
+      "sponsor": "Aalborg University",
+      "primary_completion": "2027-10",
+      "url": "https://clinicaltrials.gov/study/NCT06774547"
+    },
+    {
+      "nct_id": "NCT07780240",
+      "title": "Axillary Web Syndrome After Breast Cancer Surgery: Incidence, Risk Factors, and Functional Outcomes",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Axillary Web Syndrome",
+        "Breast Cancer",
+        "Breast Cancer Lymphedema",
+        "Postoperative Complications"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Axillary surgery (sentinel lymph node biopsy or axillary lymph node dissection)"
+        }
+      ],
+      "sponsor": "Antalya City Hospital",
+      "primary_completion": "2027-10",
+      "url": "https://clinicaltrials.gov/study/NCT07780240"
+    },
+    {
+      "nct_id": "NCT04224038",
+      "title": "The Inspire Bio-resource Research Platform for Healthy Aging INSPIRE Platform",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Biological Aging"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "The Inspire Bio-resource Research Platform for Healthy Aging"
+        }
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "primary_completion": "2031-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT04224038"
+    },
+    {
+      "nct_id": "NCT00001252",
+      "title": "Human Movement Database",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Movement Disorder"
+      ],
+      "interventions": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT00001252"
+    },
+    {
+      "nct_id": "NCT06015893",
+      "title": "Semaglutide Therapy for Alcohol Reduction (STAR)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Addiction",
+        "Alcohol Use Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Take Control"
+        },
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        }
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "primary_completion": "2027-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT06015893"
+    },
+    {
+      "nct_id": "NCT07792447",
+      "title": "Antioxidant Nutrition and Facial Exercise for Skin Aging",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Facial Skin Aging and Wrinkle Severity"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Combined Antioxidant Nutrition and Facial Exercise Program"
+        }
+      ],
+      "sponsor": "University of Zakho",
+      "primary_completion": "2026-08-25",
+      "url": "https://clinicaltrials.gov/study/NCT07792447"
+    },
+    {
+      "nct_id": "NCT07637032",
+      "title": "Clinical Study of a Facial Cream for Rosacea",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Facial Rosacea"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "ARM 1"
+        },
+        {
+          "type": "OTHER",
+          "name": "ARM 2"
+        }
+      ],
+      "sponsor": "ChinaNorm",
+      "primary_completion": "2026-07-09",
+      "url": "https://clinicaltrials.gov/study/NCT07637032"
+    },
+    {
+      "nct_id": "NCT07369258",
+      "title": "Clinical Application of Listening to Music to Prevent Delirium in the Intensive Care Unit",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Critical Illness",
+        "Delirium"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Personalized Music"
+        },
+        {
+          "type": "OTHER",
+          "name": "Relaxing Music"
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard of Care"
+        }
+      ],
+      "sponsor": "HOSPITAL BRITANICO DE BUENOS AIRES",
+      "primary_completion": "2026-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT07369258"
+    },
+    {
+      "nct_id": "NCT06804772",
+      "title": "A Clinical Study to Evaluate the Efficacy of Activated Silk™ 27P-α in Subjects, Aged 35-65 Years of Age, to Improve the Signs of Aging, by Comparing to a Placebo",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Skin Aging"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Investigational Facial Serum #3"
+        },
+        {
+          "type": "OTHER",
+          "name": "Investigational Facial Serum #1"
+        },
+        {
+          "type": "OTHER",
+          "name": "Investigational Facial Serum #2"
+        }
+      ],
+      "sponsor": "Victoria Collotta",
+      "primary_completion": "2025-01-03",
+      "url": "https://clinicaltrials.gov/study/NCT06804772"
+    },
+    {
+      "nct_id": "NCT07365202",
+      "title": "Osteosynthesis of Fibula Fractures With a Locked Thin Plate",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Osteosynthesis of Fibula Fractures With a Locked Thin Plate"
+      ],
+      "interventions": [],
+      "sponsor": "University Hospital, Grenoble",
+      "primary_completion": "2026-12-15",
+      "url": "https://clinicaltrials.gov/study/NCT07365202"
+    },
+    {
+      "nct_id": "NCT07352930",
+      "title": "A Novel Intraoperative Fluorescence-guided System for Evaluating Margins During Breast-conserving Surgery for Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast-Conserving Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "EndoSCell Scanner (ES Scanner) System"
+        }
+      ],
+      "sponsor": "Guangdong Provincial People's Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07352930"
+    },
+    {
+      "nct_id": "NCT06334471",
+      "title": "Whole Genome Sequencing in Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "no intervention needed"
+        }
+      ],
+      "sponsor": "Inocras Korea Inc.",
+      "primary_completion": "2025-08-02",
+      "url": "https://clinicaltrials.gov/study/NCT06334471"
+    },
+    {
+      "nct_id": "NCT07347730",
+      "title": "Clinical Study of Myofascial Trigger Points(MTrPs) Injection in the Treatment of Chronic Cervicogenic Headache",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Myofascial Trigger Points",
+        "Cervicogenic Headache",
+        "Dorsal Root Ganglion"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "MTrPs injection"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "C2 dorsal root ganglion blocks"
+        }
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07347730"
+    },
+    {
+      "nct_id": "NCT07155967",
+      "title": "Effect of Cross-Education in Blood Flow Restriction Resistance Training on Lower Limbs in Older Women",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Muscle Strength",
+        "Hypertrophy"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Blood Flow Restriction Cuff"
+        }
+      ],
+      "sponsor": "Paulista University",
+      "primary_completion": "2026-07",
+      "url": "https://clinicaltrials.gov/study/NCT07155967"
+    },
+    {
+      "nct_id": "NCT02889458",
+      "title": "Hong Kong Breast Cancer Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Ductal Carcinoma In Situ"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Not Provided"
+        }
+      ],
+      "sponsor": "The University of Hong Kong",
+      "primary_completion": "2022-12",
+      "url": "https://clinicaltrials.gov/study/NCT02889458"
+    },
+    {
+      "nct_id": "NCT07760129",
+      "title": "Erector Spinae Oxygen Saturation and AKI After OPCAB",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Acute Kidney Injury",
+        "Coronary Artery Disease",
+        "Coronary Artery Bypass, Off-Pump",
+        "Postoperative Complications",
+        "Cardiac Surgical Procedures",
+        "Spectroscopy, Near-Infrared"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Near-infrared spectroscopy monitoring of erector spinae muscle and renal regional oxygen saturation"
+        }
+      ],
+      "sponsor": "Yonsei University",
+      "primary_completion": "2029-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT07760129"
+    },
+    {
+      "nct_id": "NCT07761312",
+      "title": "Afentanil and Remifentanil for Anesthesia Quality and Recovery",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Anesthesia Recovery Period ； Postoperative Pain； Hemodynamic Stability During Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "alfentanil"
+        },
+        {
+          "type": "DRUG",
+          "name": "Remifentanil"
+        }
+      ],
+      "sponsor": "Qianfoshan Hospital",
+      "primary_completion": "2027-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07761312"
+    },
+    {
+      "nct_id": "NCT04537156",
+      "title": "Efficacy, Immunogenicity and Safety Study of Recombinant Human Papillomavirus Vaccine(6,11,16,18,31,33,45,52,58 Type)(E.Coli)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cervical Intraepithelial Neoplasia",
+        "Cervical Cancer",
+        "Condylomata Acuminata"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Nonavalent HPV vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Bivalent HPV vaccine"
+        }
+      ],
+      "sponsor": "Xiamen University",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT04537156"
+    },
+    {
+      "nct_id": "NCT06324357",
+      "title": "Beamion BCGC-1: A Study to Find a Suitable Dose of Zongertinib Used Alone and in Combination With Other Treatments to Test Whether it Helps People With Different Types of HER2+ Cancer That Has Spread",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Metastatic Breast Cancer",
+        "Metastatic Gastric Adenocarcinoma",
+        "Gastroesophageal Junction Adenocarcinoma",
+        "Esophageal Adenocarcinoma",
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Zongertinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Trastuzumab deruxtecan"
+        },
+        {
+          "type": "DRUG",
+          "name": "Trastuzumab emtansine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Trastuzumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Capecitabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "mFOLFOX6"
+        },
+        {
+          "type": "DRUG",
+          "name": "zanidatamab"
+        }
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "primary_completion": "2029-01-08",
+      "url": "https://clinicaltrials.gov/study/NCT06324357"
+    },
+    {
+      "nct_id": "NCT06717828",
+      "title": "The Effects of Tai Chi on Metabolic Dysfunction-associated Fatty Liver Disease in Middle-Aged and Older Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Non-Alcoholic Fatty Liver Disease"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Tai Chi Exercise"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Regular Exercise"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Control"
+        }
+      ],
+      "sponsor": "Fujian Provincial Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06717828"
+    },
+    {
+      "nct_id": "NCT07352137",
+      "title": "Endoscopic Nipple-Sparing Mastectomy (E-NSM) With Immediate Multistage Autologous Fat Grafting(IMAFG) for Total Breast Reconstruction Via the Axillary Incision",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Breast Reconstruction"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "endoscopic nipple-sparing mastectomy (E-NSM) with immediate implant-based reconstruction"
+        }
+      ],
+      "sponsor": "Guangdong Provincial Hospital of Traditional Chinese Medicine",
+      "primary_completion": "2027-01-13",
+      "url": "https://clinicaltrials.gov/study/NCT07352137"
+    },
+    {
+      "nct_id": "NCT06807281",
+      "title": "A Long-term Study of the Medicine Called Abrocitinib in Children Aged 2 Years and Older With Moderate to Severe Eczema",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Abrocitinib"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2032-02-22",
+      "url": "https://clinicaltrials.gov/study/NCT06807281"
+    },
+    {
+      "nct_id": "NCT05238285",
+      "title": "Production of Nonverbal Acoustic Signals and Resulting Physiological Responses",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Self-Perception"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Production of vocal sounds"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Saint Etienne",
+      "primary_completion": "2027-04",
+      "url": "https://clinicaltrials.gov/study/NCT05238285"
+    },
+    {
+      "nct_id": "NCT06759818",
+      "title": "Effect of Transcutaneous Auricular Vagus Nerve Stimulation on Postoperative Myocardial Injury in Elderly Patients Undergoing Thoracoscopic Surgery: a Prospective, Randomized Controlled Study",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Myocardial Injury"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "transcutaneous vagus nerve stimulation"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham stimulation group"
+        }
+      ],
+      "sponsor": "Affiliated Hospital of Jiaxing University",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT06759818"
+    },
+    {
+      "nct_id": "NCT05609630",
+      "title": "Study of Oral Upadacitinib and Subcutaneous/Intravenous Tocilizumab to Evaluate Change in Disease Activity, Adverse Events and How Drug Moves Through the Body of Pediatric and Adolescent Participants With Active Systemic Juvenile Idiopathic Arthritis.",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Juvenile Idiopathic Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Upadacitinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tocilizumab"
+        }
+      ],
+      "sponsor": "AbbVie",
+      "primary_completion": "2029-06",
+      "url": "https://clinicaltrials.gov/study/NCT05609630"
+    },
+    {
+      "nct_id": "NCT07767253",
+      "title": "Evaluation of 611 in Chinese Children With Moderate to Severe Atopic Dermatitis(AD)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dermatitis, Atopic"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "611"
+        },
+        {
+          "type": "DRUG",
+          "name": "611"
+        },
+        {
+          "type": "DRUG",
+          "name": "Matching placebo"
+        }
+      ],
+      "sponsor": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",
+      "primary_completion": "2027-09",
+      "url": "https://clinicaltrials.gov/study/NCT07767253"
+    },
+    {
+      "nct_id": "NCT06993636",
+      "title": "Pharmacometrics Analysis of Rivaroxaban in Chinese Children Aged Over 2 Years",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Kawasaki Disease",
+        "Coronary Artery Aneurysm",
+        "Rivaroxaban",
+        "Anticoagulant Drugs",
+        "Pharmacokinetics and Pharmacodynamics"
+      ],
+      "interventions": [],
+      "sponsor": "Children's Hospital of Fudan University",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06993636"
+    },
+    {
+      "nct_id": "NCT06304077",
+      "title": "Restorative Environments for Gait Therapy with VR",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gait Analysis",
+        "Virtual Reality",
+        "Attention",
+        "Stress"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Forest"
+        },
+        {
+          "type": "OTHER",
+          "name": "Urban"
+        },
+        {
+          "type": "OTHER",
+          "name": "Rural"
+        }
+      ],
+      "sponsor": "ETH Zurich",
+      "primary_completion": "2025-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT06304077"
+    },
+    {
+      "nct_id": "NCT02276430",
+      "title": "TACkLE Study - Tackling Adverse Chemotherapy-associated Late Effects",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Testicular Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Vena punction"
+        }
+      ],
+      "sponsor": "University Medical Center Groningen",
+      "primary_completion": "2017-05-08",
+      "url": "https://clinicaltrials.gov/study/NCT02276430"
+    },
+    {
+      "nct_id": "NCT07377630",
+      "title": "Intrathecal MoRphine Versus Transabdominal Plane Block (TAP) Block for AnalGesic Management in Elective Caesarean Section",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pregnancy",
+        "Cesarean Section",
+        "Neuroaxial Analgesia Procedures"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Intrathecal Morphine"
+        },
+        {
+          "type": "DRUG",
+          "name": "TAP Block"
+        }
+      ],
+      "sponsor": "Istituto Giannina Gaslini",
+      "primary_completion": "2027-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT07377630"
+    }
+  ],
+  "fetched_at": "2026-09-14T23:51:31.548925"
+}

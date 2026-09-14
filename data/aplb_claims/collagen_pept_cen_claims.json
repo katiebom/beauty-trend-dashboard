@@ -2,105 +2,96 @@
   "complex_id": "collagen_pept_cen",
   "trade_mark": "Collagen Pept Cen™",
   "name_kr": "콜라겐-펩타이드-병풀 컴플렉스",
-  "generated_at": "2026-09-07T23:27:01.490300",
+  "generated_at": "2026-09-14T23:54:59.813709",
   "claims": {
     "hero_claim": {
-      "headline_en": "Advanced Collagen-Peptide-Centella Complex for Visibly Youthful Skin",
-      "headline_kr": "콜라겐-펩타이드-병풀 컴플렉스로 되찾는 탄력 있고 젊은 피부",
-      "subheadline_en": "Boosts elasticity and strengthens skin barrier.",
-      "subheadline_kr": "탄력 증진 및 피부 장벽 강화.",
-      "scientific_basis_en": "The synergistic combination of collagen, EGF peptides, and Centella Asiatica extract is supported by research demonstrating their roles in skin elasticity, wrinkle reduction, and barrier repair. Studies highlight Centella Asiatica's regenerative properties and collagen's structural support, while peptides are known for their anti-aging signaling functions. (PMID: 42252897, 42280293, 42343000)",
-      "scientific_basis_kr": "콜라겐, EGF 펩타이드, 병풀 추출물의 시너지 조합은 피부 탄력, 주름 개선 및 장벽 복구에 대한 연구를 통해 뒷받침됩니다. 병풀의 재생 특성과 콜라겐의 구조적 지지 역할이 강조되며, 펩타이드는 노화 방지 신호 기능으로 알려져 있습니다. (PMID: 42252897, 42280293, 42343000)",
+      "headline_en": "Revitalize Your Skin with the Power of Collagen, EGF Peptide, and Centella Asiatica",
+      "headline_kr": "콜라겐, 펩타이드, 병풀의 힘으로 피부에 활력을 되찾으세요",
+      "subheadline_en": "Advanced anti-aging complex for wrinkles and elasticity.",
+      "subheadline_kr": "주름 및 탄력 개선을 위한 복합 안티에이징 솔루션.",
+      "scientific_basis_en": "The synergistic combination of collagen, EGF peptides, and Centella Asiatica extract is supported by research demonstrating their individual and combined benefits for skin rejuvenation, wrinkle reduction, and barrier enhancement. Studies highlight Centella Asiatica's role in promoting collagen synthesis and skin repair (PMID:42343000), while peptides are known for their anti-aging properties (PMID:42280293). Collagen itself is crucial for skin structure and elasticity (PMID:42252897).",
+      "scientific_basis_kr": "콜라겐, EGF 펩타이드, 병풀 추출물의 시너지 조합은 피부 재생, 주름 개선 및 장벽 강화에 대한 개별적 및 복합적 이점을 입증하는 연구에 의해 뒷받침됩니다. 연구들은 병풀이 콜라겐 합성과 피부 복구를 촉진하는 역할을 강조하며(PMID:42343000), 펩타이드는 안티에이징 효능으로 알려져 있습니다(PMID:42280293). 콜라겐 자체는 피부 구조와 탄력에 필수적입니다(PMID:42252897).",
       "tier": "strong"
     },
     "rtb_points": [
       {
-        "point_en": "Helps improve skin elasticity and reduce the appearance of wrinkles by supporting collagen synthesis.",
-        "point_kr": "콜라겐 합성을 지원하여 피부 탄력 개선 및 주름 개선에 도움을 줍니다.",
-        "evidence": "PMID: 42252897, Journal of microbiology and biotechnology | Anti-Photoaging and Anti-Melanogenic Effects of a Novel"
+        "point_en": "Promotes collagen synthesis to visibly improve skin elasticity and reduce the appearance of wrinkles.",
+        "point_kr": "콜라겐 합성을 촉진하여 눈에 띄게 피부 탄력을 개선하고 주름을 완화하는 데 도움을 줍니다.",
+        "evidence": "PMID:42343000, Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asi"
       },
       {
-        "point_en": "Supports a healthy skin barrier function for improved resilience.",
-        "point_kr": "건강한 피부 장벽 기능 강화를 통해 피부 본연의 힘을 길러줍니다.",
-        "evidence": "PMID: 42343000, Inflammopharmacology | Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asi"
+        "point_en": "Supports skin barrier function for healthier, more resilient skin.",
+        "point_kr": "건강하고 탄력 있는 피부를 위해 피부 장벽 기능 강화를 지원합니다.",
+        "evidence": "PMID:41964367, The potential of plant-derived exosome-like nanovesicles from"
       },
       {
-        "point_en": "Promotes skin regeneration and soothing effects with Centella Asiatica extract.",
-        "point_kr": "병풀 추출물이 피부 재생 및 진정에 도움을 주어 건강한 피부로 가꿉니다.",
-        "evidence": "PMID: 42343000, Inflammopharmacology | Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asi"
+        "point_en": "Helps protect skin from environmental stressors and signs of aging.",
+        "point_kr": "환경 스트레스와 노화 징후로부터 피부를 보호하는 데 도움을 줍니다.",
+        "evidence": "PMID:42252897, Anti-Photoaging and Anti-Melanogenic Effects of a Novel"
       },
       {
-        "point_en": "Contributes to anti-aging by targeting oxidative stress and cellular senescence.",
-        "point_kr": "산화 스트레스 및 세포 노화 관리를 통해 안티에이징 효과에 기여합니다.",
-        "evidence": "PMID: 42280293, Nutrients | Geroprotective Potential of"
+        "point_en": "Enhances skin's natural regenerative processes for a youthful appearance.",
+        "point_kr": "젊은 피부를 위해 피부 본연의 재생 과정을 강화하는 데 기여합니다.",
+        "evidence": "PMID:41866921, Therapeutic potential of"
       }
     ],
     "tech_story": {
-      "headline_en": "Synergistic Fusion of Collagen, Peptides, and Centella for Enhanced Efficacy",
-      "headline_kr": "콜라겐, 펩타이드, 병풀의 시너지 배합으로 효능 극대화",
+      "headline_en": "Synergistic Tri-Complex: Collagen, EGF Peptide, and Centella Asiatica",
+      "headline_kr": "시너지 트리-컴플렉스: 콜라겐, EGF 펩타이드, 병풀",
       "supporting_facts_en": [
-        "Optimized ratio of key ingredients for maximum skin benefits.",
-        "Leveraging the combined power of structural support (collagen), signaling (peptides), and soothing/regenerative (Centella) properties."
+        "Our advanced formula combines high-performance collagen with potent EGF peptides and soothing Centella Asiatica extract.",
+        "This unique blend is designed to work in harmony, targeting multiple signs of aging for comprehensive skin revitalization."
       ],
       "supporting_facts_kr": [
-        "최적의 비율로 핵심 성분들의 피부 효능을 극대화했습니다.",
-        "구조적 지지(콜라겐), 신호 전달(펩타이드), 진정/재생(병풀)의 복합적인 시너지를 활용합니다."
+        "고성능 콜라겐에 강력한 EGF 펩타이드와 진정 효과의 병풀 추출물을 결합한 혁신적인 포뮬러입니다.",
+        "이 독특한 블렌드는 조화롭게 작용하여 다양한 노화 징후를 케어하며 종합적인 피부 활력을 선사하도록 설계되었습니다."
       ]
     },
     "citation_ready_papers": [
       {
-        "pmid": "42252897",
-        "title": "Anti-Photoaging and Anti-Melanogenic Effects of a Novel",
+        "pmid": "42343000",
+        "title": "Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asi",
         "year": "2026",
-        "use_case_en": "To support claims related to anti-photoaging, collagen protection, and reduction of hyperpigmentation.",
-        "use_case_kr": "광노화 방지, 콜라겐 보호 및 색소 침착 감소 관련 주장을 뒷받침하는 데 사용됩니다."
+        "use_case_en": "To support the anti-aging benefits and skin-regenerative effects of Centella Asiatica within the complex.",
+        "use_case_kr": "컴플렉스 내 병풀의 안티에이징 효능 및 피부 재생 효과를 뒷받침하는 데 인용."
       },
       {
         "pmid": "42280293",
         "title": "Geroprotective Potential of",
         "year": "2026",
-        "use_case_en": "To support general anti-aging claims and skin resilience.",
-        "use_case_kr": "일반적인 안티에이징 및 피부 탄력 증진 주장을 뒷받침하는 데 사용됩니다."
+        "use_case_en": "To highlight the anti-aging and skin health benefits potentially contributed by peptides.",
+        "use_case_kr": "펩타이드가 기여할 수 있는 안티에이징 및 피부 건강 효능을 강조하는 데 인용."
       },
       {
-        "pmid": "42343000",
-        "title": "Targeting oxidative stress, senescence, and neurodegeneration: anti-aging perspectives of Urtica dioica and Centella asi",
+        "pmid": "42252897",
+        "title": "Anti-Photoaging and Anti-Melanogenic Effects of a Novel",
         "year": "2026",
-        "use_case_en": "To support claims on anti-aging, skin barrier improvement, and antioxidant effects.",
-        "use_case_kr": "안티에이징, 피부 장벽 개선 및 항산화 효과 관련 주장을 뒷받침하는 데 사용됩니다."
+        "use_case_en": "To demonstrate the protective effects against photoaging and collagen damage, relevant to the collagen component.",
+        "use_case_kr": "콜라겐 성분과 관련된 광노화 및 콜라겐 손상에 대한 보호 효과를 입증하는 데 인용."
       },
       {
         "pmid": "41964367",
         "title": "The potential of plant-derived exosome-like nanovesicles from",
         "year": "2026",
-        "use_case_en": "To support claims on advanced delivery systems or regenerative properties, if applicable to the formulation.",
-        "use_case_kr": "제형에 적용 가능한 경우, 첨단 전달 시스템 또는 재생 특성에 대한 주장을 뒷받침하는 데 사용됩니다."
-      },
-      {
-        "pmid": "41866921",
-        "title": "Therapeutic potential of",
-        "year": "2026",
-        "use_case_en": "Potentially useful for claims related to skin repair and regeneration, though context needs careful review.",
-        "use_case_kr": "피부 복구 및 재생 관련 주장에 유용할 수 있으나, 맥락 검토가 필요합니다."
+        "use_case_en": "To support the skin barrier enhancement and regenerative properties of plant-derived ingredients.",
+        "use_case_kr": "식물 유래 성분의 피부 장벽 강화 및 재생 특성을 뒷받침하는 데 인용."
       }
     ],
     "world_first_opportunity_en": null,
     "world_first_opportunity_kr": null,
     "risky_claims_to_avoid_en": [
-      "Eliminates wrinkles completely.",
-      "Guarantees 100% wrinkle reduction.",
-      "Prevents aging.",
-      "Cures skin conditions.",
-      "Treats wrinkles."
+      "Treats wrinkles and aging.",
+      "Guarantees younger-looking skin.",
+      "Eliminates all signs of aging.",
+      "100% effective for skin elasticity."
     ],
     "risky_claims_to_avoid_kr": [
-      "주름을 완벽하게 없애줍니다.",
-      "100% 주름 개선을 보장합니다.",
-      "노화를 예방합니다.",
-      "피부 질환을 치료합니다.",
-      "주름을 치료합니다."
+      "주름과 노화를 치료합니다.",
+      "더 젊어 보이는 피부를 보장합니다.",
+      "모든 노화 징후를 완벽하게 제거합니다.",
+      "피부 탄력에 100% 효과적입니다."
     ],
-    "north_america_angle_en": "Focus on scientifically backed ingredients like collagen and Centella for proven anti-aging and skin barrier support, appealing to consumers seeking effective, nature-inspired solutions.",
-    "north_america_angle_kr": "콜라겐, 병풀 등 과학적으로 입증된 성분을 통해 효과적인 안티에이징 및 피부 장벽 강화를 강조하여, 자연에서 영감을 받은 효과적인 솔루션을 찾는 소비자에게 어필합니다."
+    "north_america_angle_en": "Leverages the growing consumer interest in 'clean beauty' and scientifically-backed ingredients. The combination of collagen, peptides, and natural extracts like Centella Asiatica appeals to a market seeking effective, yet gentle, anti-aging solutions.",
+    "north_america_angle_kr": "클린 뷰티와 과학적으로 입증된 성분에 대한 소비자들의 높아진 관심을 활용합니다. 콜라겐, 펩타이드, 병풀과 같은 천연 추출물의 조합은 효과적이면서도 순한 안티에이징 솔루션을 찾는 시장에 어필합니다."
   }
 }

@@ -1,0 +1,25 @@
+{
+  "ingredient_a": "niacinamide",
+  "ingredient_b": "centella",
+  "query": "(\"niacinamide\"[Title/Abstract] AND \"centella\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 1,
+  "articles": [
+    {
+      "pmid": "42728530",
+      "title": "Temporally Optimized Antioxidant Serums for Daytime Defense and Nighttime Repair: A Multicenter Clinical Investigation.",
+      "abstract": "Sensitive skin affects up to 70% of the global population, linked to oxidative stress, barrier dysfunction, and disrupted skin biorhythms. The skin's daytime defense and nighttime repair cycles provide rationale for temporally optimized formulations. We evaluated complementary day and night serums incorporating GALLIC-AOX POWER™ technology, triple molecular weight hyaluronic acid, niacinamide (day), and pro-vitamin B5, centella asiatica, and bifida ferment lysate (night).",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Conway Jade",
+        "Blanché Céline",
+        "Grivet-Seyve Mathieu",
+        "Jun Ma",
+        "Wai Haw Diann"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42728530/"
+    }
+  ],
+  "crawled_at": "2026-09-14T23:51:34.451260"
+}

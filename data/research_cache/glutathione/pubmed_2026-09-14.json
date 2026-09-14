@@ -1,0 +1,221 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42731687",
+      "title": "Repeated topical exposure to benzo[a]pyrene and systemic immune effects in rats: analysis of splenic responses and macrophage function.",
+      "abstract": "Environmental exposure to benzo[a]pyrene (BaP), a widespread polycyclic aromatic hydrocarbon (PAH) air pollutant, is associated with systemic immunotoxicity. However, the contribution of dermal exposure to systemic immune effects remains insufficiently characterized, despite the skin being a major route of exposure. This study evaluated systemic immune alterations following 10-day epicutaneous BaP exposure in rats at doses reflecting environmental and occupational exposure levels, focusing on hematological parameters, splenic immune responses, and peripheral macrophage function. BaP exposure reduced circulating leukocyte counts and induced mild hepatocellular injury. In the spleen, structural alterations, including congestion, enhanced erythropoiesis, and reduced periarteriolar lymphoid sheath cellularity, were accompanied by decreased frequencies of CD4⁺ and CD8⁺ T cells. Despite this, splenocytes exhibited increased mRNA expression and stimulated production of IFN-γ, IL-17, and IL-10. These changes were associated with increased mRNA for AhR and Cyp1B1, along with activation of antioxidant pathways, characterized by elevated glutathione levels and upregulation of Nrf2 and HO-1, in the absence of increased reactive oxygen species. This was accompanied by reduced basal proinflammatory activity and apoptosis. In contrast, peritoneal macrophages displayed a proinflammatory and functionally activated phenotype, characterized by increased oxidative activity, elevated TNF and IL-6 production, and enhanced bactericidal capacity. These findings are consistent with compartment-specific systemic immunomodulation following dermal BaP exposure and highlight the skin as a relevant route contributing to the systemic immune effects of environmental PAHs.",
+      "year": "2026",
+      "journal": "Toxicology letters",
+      "authors": [
+        "Malešević Anastasija",
+        "Popović Dušanka",
+        "Kulaš Jelena",
+        "Mirkov Ivana",
+        "Čakić-Milošević Maja"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42731687/"
+    },
+    {
+      "pmid": "42725520",
+      "title": "Internal Stimuli-Responsive Nanocarriers for Dermal and Transdermal Drug Delivery: Mechanisms, Materials, and Translational Challenges.",
+      "abstract": "There are several problems with cutaneous or transdermal drug delivery, including suboptimal drug penetration, an insufficient amount of time for the drug to remain at the target, and drug instability. In response to intrinsic biological stimuli in diseased epidermal tissues, stimuli-responsive nanocarriers also called intelligent or smart delivery systems emerged to overcome these limitations and deliver various therapeutic agents.",
+      "year": "2026",
+      "journal": "Current topics in medicinal chemistry",
+      "authors": [
+        "Kumar Lalit",
+        "Sarkar Ashish",
+        "Dwivedi Renu",
+        "Chaudhuri Arijit",
+        "Goyal Anju"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42725520/"
+    },
+    {
+      "pmid": "42685940",
+      "title": "Potential wound healing effects of Combretum aculeatum Vent. aerial parts; FOXO1/MIP2 modulation supported by LC-QTOF-MS/MS and molecular docking approaches.",
+      "abstract": "Combretum aculeatum, widely distributed in Sudan and South Darfur, has been traditionally used for wound healing.",
+      "year": "2026",
+      "journal": "Journal of ethnopharmacology",
+      "authors": [
+        "Hussein Mai E",
+        "Sabry Manal M",
+        "El-Fishawy Ahlam M",
+        "Eltanany Basma M",
+        "Salama Abeer"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685940/"
+    },
+    {
+      "pmid": "42682543",
+      "title": "Tissue-specific oxidative stress and bleomycin hydrolase signatures are associated with organ-specific fibrotic responses in a mouse model of systemic sclerosis.",
+      "abstract": "Systemic sclerosis (SSc) is a multisystem autoimmune disease characterized by inflammation, vasculopathy, and progressive fibrosis, yet the mechanisms underlying specific organ involvement are incompletely understood. Using the bleomycin-osmotic minipump (BLM-MP) mouse model, which recapitulates key clinical and histopathological features of SSc, we investigated whether tissue-specific oxidative stress responses and BLM metabolism are associated with divergent inflammatory and fibrotic remodeling across organs. Male C57BL/6 mice received continuous systemic infusion of BLM or saline for 7 days. Lungs, skin, kidneys, and liver were analyzed 14 and 28 days later by histopathology, collagen quantification, immunohistochemistry, and RT-qPCR. Systemic BLM exposure induced distinct organ-specific inflammatory, fibrotic and molecular responses. Progressive fibrosis and inflammatory infiltration developed predominantly in the lungs and skin, whereas the kidneys exhibited only mild focal cortical fibrosis and the liver remained largely unaffected. Fibrosis-prone organs displayed impaired antioxidant responses, characterized by reduced expression of superoxide dismutase 1 (",
+      "year": "2026",
+      "journal": "Frontiers in cell and developmental biology",
+      "authors": [
+        "Johri Rishabh",
+        "Brizio Marianela",
+        "Lora Maximilien",
+        "Joy Sydney",
+        "Martin James"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42682543/"
+    },
+    {
+      "pmid": "42677254",
+      "title": "L-theanine attenuates AlCl3-induced cognitive dysfunction and neurotoxicity in rats: a behavioral and biochemical study.",
+      "abstract": "The effects of L-theanine (LTN), a natural compound found in tea leaves, on biochemical parameters and cognitive functions were investigated in an aluminum chloride (AlCl",
+      "year": "2026",
+      "journal": "Turkish journal of medical sciences",
+      "authors": [
+        "Dönmez Muhammet Oğuzhan",
+        "Şener Azize",
+        "Karaman Ersoy Şeyda",
+        "Marzi Mahdi",
+        "Şener Göksel"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Glutamates",
+        "Aluminum Chloride",
+        "Male",
+        "Rats, Wistar",
+        "Rats",
+        "Cognitive Dysfunction",
+        "Lipid Peroxidation",
+        "Aluminum Compounds",
+        "Disease Models, Animal"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42677254/"
+    },
+    {
+      "pmid": "42667429",
+      "title": "Antioxidant Activity of Bioactive Peptides Derived from Ulva prolifera in HaCaT Cells and Zebrafish.",
+      "abstract": "Ulva prolifera (U. prolifera), a large green alga widely distributed along coastlines worldwide, can trigger marine ecological issues such as \"green tides\" when over-proliferating. Nevertheless, it is abundant in various nutrients and bioactive compounds, making the utilization of this alga an urgent task. In this study, an antioxidant peptide fraction (UCP‑1) was isolated and purified from U. prolifera. LC‑MS/MS analysis indicated that the peptide composition and molecular weight distribution of UCP‑1 possess typical characteristics of antioxidant peptides. In vitro experiments demonstrated that UCP‑1 at a concentration of 1 mg mL⁻¹ exhibited a DPPH radical scavenging capacity of 38.86 ± 2.7%, indicating antioxidant activity. In human immortalized keratinocytes (HaCaT) and zebrafish models, UCP-1 pretreatment reduced hydrogen peroxide (H₂O₂)-induced reactive oxygen species (ROS) and malondialdehyde (MDA) levels while increasing superoxide dismutase (SOD) activity. In zebrafish, UCP-1 also enhanced catalase (CAT) and glutathione peroxidase (GSH-Px) activities. In addition, incorporation of UCP‑1 into lotions and creams in skin trials improved skin hydration and elasticity and reduced erythema. Overall, the peptide UCP‑1 derived from U. prolifera exerts antioxidant activity and may serve as a natural antioxidant ingredient in cosmetic formulations, thereby providing an alternative approach for the high-value utilization of U. prolifera resources.",
+      "year": "2026",
+      "journal": "Marine biotechnology (New York, N.Y.)",
+      "authors": [
+        "Hong Li-Ru",
+        "Wang Shuo-Qi",
+        "Wu Ting-Ting",
+        "Chen Zhi-Ru",
+        "Chen Mo"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Antioxidants",
+        "Humans",
+        "Ulva",
+        "Peptides",
+        "HaCaT Cells",
+        "Reactive Oxygen Species",
+        "Hydrogen Peroxide",
+        "Bioactive Peptides, Dietary"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667429/"
+    },
+    {
+      "pmid": "42653853",
+      "title": "Oxidative Stress-Associated Apoptotic Responses Induced by ",
+      "abstract": "Lung cancer remains a leading cause of cancer-related mortality worldwide, underscoring the need for safer and more effective therapeutic strategies. In this study, zinc oxide nanoparticles (ZnO NPs) were synthesized via a green, biogenic approach using ",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Sabi Essa M",
+        "Mujamammi Ahmed H",
+        "Zarea Khalil I",
+        "Althafar Ziyad M",
+        "Sumaily Khalid M"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Zinc Oxide",
+        "Oxidative Stress",
+        "Apoptosis",
+        "Lantana",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Flowers",
+        "Plant Extracts",
+        "Cell Line, Tumor",
+        "Lung Neoplasms"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42653853/"
+    },
+    {
+      "pmid": "42649581",
+      "title": "Effect of Discoloration Reducing Agents on Dentin Remineralization After Silver Diammine Fluoride Treatment.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pediatric dentistry",
+      "authors": [
+        "Balkan Demet",
+        "Akcay Merve"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tooth Remineralization",
+        "Dentin",
+        "Potassium Iodide",
+        "Hydrogen Peroxide",
+        "Tooth Discoloration",
+        "Quaternary Ammonium Compounds",
+        "Silver Compounds",
+        "Microscopy, Confocal",
+        "Cariostatic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42649581/"
+    },
+    {
+      "pmid": "42641005",
+      "title": "Stage-Specific Insecticidal Activity of Thymol Against Colorado Potato Beetle and Time-Dependent Detoxification Gene Expression.",
+      "abstract": "The contact toxicity of thymol, alpha-terpinene, and beta-pinene against Leptinotarsa decemlineata (Say) (Coleoptera: Chrysomelidae) was evaluated by topical application. Thymol exhibited markedly higher insecticidal activity (51.67% mortality at 5%) than the other monoterpenes. Dose-mortality tests showed 100% third-instar larval mortality at 7.5% thymol. Probit analyze revealed third-instar larvae (LC",
+      "year": "2026",
+      "journal": "Chemistry & biodiversity",
+      "authors": [
+        "Kazan Buse",
+        "Karakoç Ömer Cem",
+        "Tüfekçi Ebru Derelli"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Thymol",
+        "Coleoptera",
+        "Insecticides",
+        "Larva",
+        "Glutathione Transferase",
+        "Cytochrome P-450 Enzyme System",
+        "Time Factors",
+        "Dose-Response Relationship, Drug"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42641005/"
+    },
+    {
+      "pmid": "42638894",
+      "title": "Effects of Environmental Temperature During Cultivation of Broccoli Microgreens on Hematological Parameters, Molecular Markers, and Myocardial Antioxidant Status in Swiss Mice.",
+      "abstract": "Modern lifestyle and diet, characterized by low fruit and vegetable intake, contribute to the rising prevalence of diet-related disorders, particularly cardiovascular diseases. This highlights the importance of nutrition-based strategies for maintaining human health. Broccoli microgreens, due to their short growth cycle and high content of bioactive compounds, such as polyphenols and glucosinolates, represent a promising functional food. Although in vivo and in vitro studies have demonstrated beneficial physiological effects of Brassica-derived compounds, excessive intake may also produce adverse, anti-nutritional effects. Given that broccoli extracts are frequently consumed in the form of various dietary supplements and commercially available cruciferous vegetables, we investigated the in vivo effects of water extracts from broccoli sprouts (BWE) grown at 23°C and 38°C on hematological parameters and myocardial tissue in healthy Swiss mice. Metabolic, structural, inflammatory, and redox changes were evaluated to determine whether growth temperature alters phytochemical composition and consequently affects blood and myocardial physiology. Administration of BWE at a dose of 300 mg/kg body weight significantly reduced mean platelet volume (",
+      "year": "2026",
+      "journal": "Food science & nutrition",
+      "authors": [
+        "Balta Vedran",
+        "Ferara Nikola",
+        "Đikić Domagoj",
+        "Odeh Dyana",
+        "Beletić Anđelo"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42638894/"
+    }
+  ],
+  "crawled_at": "2026-09-14T23:47:31.894744",
+  "source": "pubmed"
+}

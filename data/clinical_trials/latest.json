@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:23:44.988971",
+  "generated_at": "2026-09-14T23:51:32.459651",
   "total_ingredients": 45,
   "summary": [
     {
@@ -11,184 +11,59 @@
       "future_signal_score": 88,
       "top_trials": [
         {
-          "nct_id": "NCT06379724",
-          "title": "Burn Study- Tranexamic Acid Versus Thrombin in Split Thickness Skin Graft",
+          "nct_id": "NCT06580509",
+          "title": "TranExamic Atomized for Pediatric Post-Operative Tonsillectomy Hemorrhage: Pilot Study",
+          "status": "RECRUITING",
+          "phases": [
+            "EARLY_PHASE1"
+          ],
+          "completion": "2027-09-30",
+          "sponsor": "The University of Texas Health Science Center at San Antonio",
+          "url": "https://clinicaltrials.gov/study/NCT06580509"
+        },
+        {
+          "nct_id": "NCT06270407",
+          "title": "The Effect of Local Application of Tranexamic Acid Versus Placebo on Postoperative Complications in Plastic Surgery",
           "status": "RECRUITING",
           "phases": [
             "PHASE4"
           ],
-          "completion": "2027-12",
-          "sponsor": "University of Kansas Medical Center",
-          "url": "https://clinicaltrials.gov/study/NCT06379724"
+          "completion": "2028-12-31",
+          "sponsor": "St. Olavs Hospital",
+          "url": "https://clinicaltrials.gov/study/NCT06270407"
         },
         {
-          "nct_id": "NCT06754371",
-          "title": "Prophylactic Tranexamic Acid Reduces Postpartum Hemorrhage",
+          "nct_id": "NCT06057675",
+          "title": "Tranexamic Acid in Nasal Mohs Reconstruction",
           "status": "RECRUITING",
-          "phases": [
-            "PHASE4"
-          ],
-          "completion": "2027-01",
-          "sponsor": "RenJi Hospital",
-          "url": "https://clinicaltrials.gov/study/NCT06754371"
-        },
-        {
-          "nct_id": "NCT07202156",
-          "title": "Ultrasound-Enhanced Delivery of Compound TXA Solution in Melasma",
-          "status": "RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2026-02-07",
-          "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
-          "url": "https://clinicaltrials.gov/study/NCT07202156"
-        },
-        {
-          "nct_id": "NCT07169383",
-          "title": "Oral Melatonin Versus Oral Tranexamic Acid in the Management of Melasma",
-          "status": "ENROLLING_BY_INVITATION",
           "phases": [
             "PHASE2"
           ],
-          "completion": "2025-12-28",
-          "sponsor": "Hina Malik",
-          "url": "https://clinicaltrials.gov/study/NCT07169383"
+          "completion": "2027-08",
+          "sponsor": "Vanderbilt University Medical Center",
+          "url": "https://clinicaltrials.gov/study/NCT06057675"
         },
         {
-          "nct_id": "NCT06337838",
-          "title": "Bleeding Reduction in Acute and Chronic Kidney Patients Having Surgery (BRACKETS) Pilot Trial",
+          "nct_id": "NCT06229483",
+          "title": "The Effects of Intraoperative Tranexamic Acid on Perioperative Bleeding In Craniotomies",
           "status": "RECRUITING",
           "phases": [
             "PHASE3"
           ],
-          "completion": "2027-02",
-          "sponsor": "Hamilton Health Sciences Corporation",
-          "url": "https://clinicaltrials.gov/study/NCT06337838"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "urea",
-      "name_kr": "우레아",
-      "name_en": "Urea",
-      "active_count": 30,
-      "recent_complete_count": 27,
-      "future_signal_score": 84,
-      "top_trials": [
+          "completion": "2027-01-31",
+          "sponsor": "Stephen Lownie",
+          "url": "https://clinicaltrials.gov/study/NCT06229483"
+        },
         {
-          "nct_id": "NCT07050134",
-          "title": "A Trial to Evaluate the Efficacy and Safety of DR10624 in Patients With Hypertriglyceridemia and Carotid Atherosclerotic",
-          "status": "ENROLLING_BY_INVITATION",
+          "nct_id": "NCT07795515",
+          "title": "Evaluating the Effectiveness and Safety of Microneedling With Topical Tranexamic Acid in Treatment of Striae Rubra",
+          "status": "NOT_YET_RECRUITING",
           "phases": [
             "NA"
           ],
-          "completion": "2026-12-31",
-          "sponsor": "Junbo Ge",
-          "url": "https://clinicaltrials.gov/study/NCT07050134"
-        },
-        {
-          "nct_id": "NCT07362238",
-          "title": "Daratumumab Versus Rituximab in the Management of Pediatric Primary Immune Thrombocytopenia (ITP)",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE2"
-          ],
-          "completion": "2028-03",
-          "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
-          "url": "https://clinicaltrials.gov/study/NCT07362238"
-        },
-        {
-          "nct_id": "NCT07426120",
-          "title": "Efficacy and Safety of a Botanical Total Coumarin (TC) Cream in Treating Patients With Psoriasis Vulgaris (PLANTCOAT-III",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE3"
-          ],
-          "completion": "2027-12-31",
-          "sponsor": "Psoriasis Research Institute of Guangzhou",
-          "url": "https://clinicaltrials.gov/study/NCT07426120"
-        },
-        {
-          "nct_id": "NCT07488988",
-          "title": "SCARFREE-001: Verteporfin for Scar Prevention",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "PHASE2"
-          ],
-          "completion": "2028-02",
-          "sponsor": "Odense University Hospital",
-          "url": "https://clinicaltrials.gov/study/NCT07488988"
-        },
-        {
-          "nct_id": "NCT06372587",
-          "title": "Next-Generation alzheImer'S Therapeutics",
-          "status": "RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2024-12-30",
-          "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
-          "url": "https://clinicaltrials.gov/study/NCT06372587"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "active_count": 30,
-      "recent_complete_count": 26,
-      "future_signal_score": 82,
-      "top_trials": [
-        {
-          "nct_id": "NCT07508514",
-          "title": "Early Temporal Dynamics of Optic Nerve Sheath Diameter After Therapy in GCA",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [],
-          "completion": "2028-01-01",
-          "sponsor": "Centre Integre Universitaire de Sante et Services Sociaux du Nord de l'ile de Montreal",
-          "url": "https://clinicaltrials.gov/study/NCT07508514"
-        },
-        {
-          "nct_id": "NCT05662085",
-          "title": "Progression Rate of Pseudoxanthoma Elasticum-associated Choroidal and Retinal Degeneration",
-          "status": "ACTIVE_NOT_RECRUITING",
-          "phases": [],
-          "completion": "2025-10-31",
-          "sponsor": "University Hospital, Basel, Switzerland",
-          "url": "https://clinicaltrials.gov/study/NCT05662085"
-        },
-        {
-          "nct_id": "NCT05481827",
-          "title": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to",
-          "status": "ENROLLING_BY_INVITATION",
-          "phases": [
-            "PHASE2"
-          ],
-          "completion": "2028-06-02",
-          "sponsor": "Gyroscope Therapeutics Limited",
-          "url": "https://clinicaltrials.gov/study/NCT05481827"
-        },
-        {
-          "nct_id": "NCT05180994",
-          "title": "Topical Infliximab in Eyes With Penetrating Keratoplasty",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "completion": "2027-03-01",
-          "sponsor": "Centre hospitalier de l'Université de Montréal (CHUM)",
-          "url": "https://clinicaltrials.gov/study/NCT05180994"
-        },
-        {
-          "nct_id": "NCT06552767",
-          "title": "Thrombosis and Inflammation in Vessels Initiative (TIVI)",
-          "status": "RECRUITING",
-          "phases": [],
-          "completion": "2034-01-30",
-          "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
-          "url": "https://clinicaltrials.gov/study/NCT06552767"
+          "completion": "2026-12-01",
+          "sponsor": "Sohag University",
+          "url": "https://clinicaltrials.gov/study/NCT07795515"
         }
       ]
     },
@@ -197,20 +72,19 @@
       "name_kr": "레티놀",
       "name_en": "Retinol",
       "active_count": 30,
-      "recent_complete_count": 26,
-      "future_signal_score": 82,
+      "recent_complete_count": 27,
+      "future_signal_score": 84,
       "top_trials": [
         {
-          "nct_id": "NCT06787222",
-          "title": "Effectiveness and Safety of Zingiber Officinale Transdermal Patch for Acne Vulgaris; Study of Interleukin 1 and Skin Mic",
-          "status": "ACTIVE_NOT_RECRUITING",
+          "nct_id": "NCT07586826",
+          "title": "Romiplostim N01 Plus ATRA for Persistent Isolated Chemotherapy-Induced Thrombocytopenia After Complete Remission of Gyne",
+          "status": "RECRUITING",
           "phases": [
-            "PHASE2",
-            "PHASE3"
+            "PHASE2"
           ],
-          "completion": "2025-08-25",
-          "sponsor": "Hasanuddin University",
-          "url": "https://clinicaltrials.gov/study/NCT06787222"
+          "completion": "2027-10-31",
+          "sponsor": "Peking University People's Hospital",
+          "url": "https://clinicaltrials.gov/study/NCT07586826"
         },
         {
           "nct_id": "NCT07395674",
@@ -224,97 +98,38 @@
           "url": "https://clinicaltrials.gov/study/NCT07395674"
         },
         {
-          "nct_id": "NCT07586826",
-          "title": "Romiplostim N01 Plus ATRA for Persistent Isolated Chemotherapy-Induced Thrombocytopenia After Complete Remission of Gyne",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE2"
-          ],
-          "completion": "2027-10-31",
-          "sponsor": "Peking University People's Hospital",
-          "url": "https://clinicaltrials.gov/study/NCT07586826"
-        },
-        {
-          "nct_id": "NCT07504822",
-          "title": "Comparative Effectiveness of Clindamycin-Retinoid, Clindamycin-Retinoid-Dexamethasone, and 10% SM-hUCMSC Secretome Gel i",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "completion": "2027-03-18",
-          "sponsor": "Yohanes Firmansyah, dr, MH, MM",
-          "url": "https://clinicaltrials.gov/study/NCT07504822"
-        },
-        {
-          "nct_id": "NCT05366933",
-          "title": "B-Complex: A Nutraceutical SANS Countermeasure",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE1"
-          ],
-          "completion": "2027-07-01",
-          "sponsor": "National Aeronautics and Space Administration (NASA)",
-          "url": "https://clinicaltrials.gov/study/NCT05366933"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "caffeine",
-      "name_kr": "카페인",
-      "name_en": "Caffeine",
-      "active_count": 30,
-      "recent_complete_count": 26,
-      "future_signal_score": 82,
-      "top_trials": [
-        {
-          "nct_id": "NCT06962046",
-          "title": "Can the Use of Virtual Reality Improve TKA Outcomes",
-          "status": "RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2025-12",
-          "sponsor": "Belfast Health and Social Care Trust",
-          "url": "https://clinicaltrials.gov/study/NCT06962046"
-        },
-        {
-          "nct_id": "NCT05500066",
-          "title": "Tornier HRS (Humeral Reconstruction System) Study (REVIVE)",
-          "status": "ENROLLING_BY_INVITATION",
-          "phases": [],
-          "completion": "2028-01-06",
-          "sponsor": "Stryker Trauma and Extremities",
-          "url": "https://clinicaltrials.gov/study/NCT05500066"
-        },
-        {
-          "nct_id": "NCT06477250",
-          "title": "Investigating the Effects of a Dyad Intervention on Teacher Resilience, Mental Health, and Social Emotions and Behavior",
+          "nct_id": "NCT06787222",
+          "title": "Effectiveness and Safety of Zingiber Officinale Transdermal Patch for Acne Vulgaris; Study of Interleukin 1 and Skin Mic",
           "status": "ACTIVE_NOT_RECRUITING",
           "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "completion": "2025-08-25",
+          "sponsor": "Hasanuddin University",
+          "url": "https://clinicaltrials.gov/study/NCT06787222"
+        },
+        {
+          "nct_id": "NCT06715215",
+          "title": "Role of Acute Phase Proteins In Diagnosis of Immune Thrombocytopenia",
+          "status": "RECRUITING",
+          "phases": [
             "NA"
           ],
-          "completion": "2025-12-31",
-          "sponsor": "Max Planck Social Neuroscience Lab",
-          "url": "https://clinicaltrials.gov/study/NCT06477250"
+          "completion": "2025-12-30",
+          "sponsor": "Sohag University",
+          "url": "https://clinicaltrials.gov/study/NCT06715215"
         },
         {
-          "nct_id": "NCT07783048",
-          "title": "Biomarkers of Brain Health in Blast Overpressure Exposure",
+          "nct_id": "NCT06880042",
+          "title": "COMPARISON OF EFFICACY AND SAFETY OF NARROWBAND UVB WITH 0.1% TACROLIMUS VS NARROWBAND UVB WITH 0.005% CALCIPOTRIOL IN T",
           "status": "ENROLLING_BY_INVITATION",
-          "phases": [],
-          "completion": "2026-08-14",
-          "sponsor": "Neurable, Inc",
-          "url": "https://clinicaltrials.gov/study/NCT07783048"
-        },
-        {
-          "nct_id": "NCT05300308",
-          "title": "Lymphoedema and Nocturia/Nocturnal Polyuria After Pelvic LND for Urogenital Cancer",
-          "status": "RECRUITING",
-          "phases": [],
-          "completion": "2026-11",
-          "sponsor": "Universitaire Ziekenhuizen KU Leuven",
-          "url": "https://clinicaltrials.gov/study/NCT05300308"
+          "phases": [
+            "EARLY_PHASE1"
+          ],
+          "completion": "2025-06-30",
+          "sponsor": "Dr ayesha wahid",
+          "url": "https://clinicaltrials.gov/study/NCT06880042"
         }
       ]
     },
@@ -327,184 +142,183 @@
       "future_signal_score": 82,
       "top_trials": [
         {
-          "nct_id": "NCT06341179",
-          "title": "Effect of Sleep Extension on Body Weight and Learning in Children (More2Sleep)",
-          "status": "RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2027-12-31",
-          "sponsor": "University of Copenhagen",
-          "url": "https://clinicaltrials.gov/study/NCT06341179"
-        },
-        {
-          "nct_id": "NCT07221461",
-          "title": "Assess Impact of Microdroplet Hyaluronic Acid Filler on Skin Quality in Patients on Glucagon-like Peptide-1 Agonists",
-          "status": "NOT_YET_RECRUITING",
+          "nct_id": "NCT06015893",
+          "title": "Semaglutide Therapy for Alcohol Reduction (STAR)",
+          "status": "ACTIVE_NOT_RECRUITING",
           "phases": [
             "PHASE2"
           ],
+          "completion": "2027-03-31",
+          "sponsor": "National Institute on Drug Abuse (NIDA)",
+          "url": "https://clinicaltrials.gov/study/NCT06015893"
+        },
+        {
+          "nct_id": "NCT07224880",
+          "title": "Ellacor® Micro-Coring Technology® in Fitzpatrick Skin Types I-VI, Including Patients Receiving Glucagon-Like Peptide-1 R",
+          "status": "RECRUITING",
+          "phases": [],
           "completion": "2026-01-30",
-          "sponsor": "Goldman, Butterwick, Fitzpatrick and Groff",
-          "url": "https://clinicaltrials.gov/study/NCT07221461"
+          "sponsor": "Cytrellis Biosystems, Inc.",
+          "url": "https://clinicaltrials.gov/study/NCT07224880"
         },
         {
-          "nct_id": "NCT07027995",
-          "title": "Food and Fitness With Medicine (FFWM)",
-          "status": "RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2028-11",
-          "sponsor": "Ohio State University",
-          "url": "https://clinicaltrials.gov/study/NCT07027995"
-        },
-        {
-          "nct_id": "NCT07245771",
-          "title": "Phase 1/2a Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Effect on Body Weight of R",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE1",
-            "PHASE2"
-          ],
-          "completion": "2027-02-15",
-          "sponsor": "Ikaria Bioscience Pty Ltd",
-          "url": "https://clinicaltrials.gov/study/NCT07245771"
-        },
-        {
-          "nct_id": "NCT06439277",
-          "title": "A Study of Tirzepatide in Adolescents With Obesity and Weight-Related Comorbidities (SURMOUNT-ADOLESCENTS-2)",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE3"
-          ],
-          "completion": "2027-10",
-          "sponsor": "Eli Lilly and Company",
-          "url": "https://clinicaltrials.gov/study/NCT06439277"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "senolytics",
-      "name_kr": "세놀리틱스",
-      "name_en": "senolytics",
-      "active_count": 30,
-      "recent_complete_count": 26,
-      "future_signal_score": 82,
-      "top_trials": [
-        {
-          "nct_id": "NCT02889458",
-          "title": "Hong Kong Breast Cancer Study",
-          "status": "ACTIVE_NOT_RECRUITING",
-          "phases": [],
-          "completion": "2022-12",
-          "sponsor": "The University of Hong Kong",
-          "url": "https://clinicaltrials.gov/study/NCT02889458"
-        },
-        {
-          "nct_id": "NCT06903884",
-          "title": "3% Diquafosol Ophthalmic Solution for Active Moderate-to-Severe Vernal Keratoconjunctivitis",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE3"
-          ],
-          "completion": "2028-06-30",
-          "sponsor": "The University of Hong Kong",
-          "url": "https://clinicaltrials.gov/study/NCT06903884"
-        },
-        {
-          "nct_id": "NCT07153315",
-          "title": "AI-Based Medical Data Analysis for Differentiating Inflammatory vs Degenerative Joint Diseases in Elderly Patients",
+          "nct_id": "NCT07462663",
+          "title": "SHAPE-ENDO: Pilot Randomized Trial of Multimodal Pre-Surgical Optimization Versus Standard Surgery in Patients With Obes",
           "status": "NOT_YET_RECRUITING",
-          "phases": [],
-          "completion": "2026-09-01",
-          "sponsor": "Assiut University",
-          "url": "https://clinicaltrials.gov/study/NCT07153315"
-        },
-        {
-          "nct_id": "NCT07456618",
-          "title": "Using Music During Wound Care Among Seniors With Pressure Injuries",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2026-10-01",
-          "sponsor": "McMaster University",
-          "url": "https://clinicaltrials.gov/study/NCT07456618"
-        },
-        {
-          "nct_id": "NCT07422740",
-          "title": "Intervention Study of Virtual Reality-Based Mindfulness-Based Cognitive Therapy (VR-MBCT) Combined With Adaptive tDCS Mo",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2027-12-31",
-          "sponsor": "Second Affiliated Hospital, Zhejiang University, School of Medicine",
-          "url": "https://clinicaltrials.gov/study/NCT07422740"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "glutathione",
-      "name_kr": "글루타치온",
-      "name_en": "Glutathione",
-      "active_count": 30,
-      "recent_complete_count": 24,
-      "future_signal_score": 78,
-      "top_trials": [
-        {
-          "nct_id": "NCT07202156",
-          "title": "Ultrasound-Enhanced Delivery of Compound TXA Solution in Melasma",
-          "status": "RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2026-02-07",
-          "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
-          "url": "https://clinicaltrials.gov/study/NCT07202156"
-        },
-        {
-          "nct_id": "NCT07263841",
-          "title": "Comparison of Effectiveness of Tranexamic Acid Mesotherapy Versus Glutathione Mesotherapy in Post Burn Facial Hyperpigme",
-          "status": "ACTIVE_NOT_RECRUITING",
-          "phases": [
-            "PHASE2"
-          ],
-          "completion": "2025-12-26",
-          "sponsor": "King Edward Medical University",
-          "url": "https://clinicaltrials.gov/study/NCT07263841"
-        },
-        {
-          "nct_id": "NCT07733063",
-          "title": "Serum Ferroptosis Biomarkers (GPX4, MDA) in Alopecia Areata",
-          "status": "RECRUITING",
-          "phases": [],
-          "completion": "2026-12-01",
-          "sponsor": "Istanbul Training and Research Hospital",
-          "url": "https://clinicaltrials.gov/study/NCT07733063"
-        },
-        {
-          "nct_id": "NCT07073846",
-          "title": "Effect of Lidocaine-Dexmedetomidine on Pain, Inflammation, and Oxidative Stress After Bariatric Surgery.",
-          "status": "RECRUITING",
           "phases": [
             "PHASE4"
           ],
-          "completion": "2027-05-01",
-          "sponsor": "Instituto Mexicano del Seguro Social",
-          "url": "https://clinicaltrials.gov/study/NCT07073846"
+          "completion": "2031-04",
+          "sponsor": "Hospital Universitari de Bellvitge",
+          "url": "https://clinicaltrials.gov/study/NCT07462663"
         },
         {
-          "nct_id": "NCT05366933",
-          "title": "B-Complex: A Nutraceutical SANS Countermeasure",
+          "nct_id": "NCT06986603",
+          "title": "Glucagon Dose-Response in Patients With Post-Bariatric Hypoglycemia",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "phases": [
+            "PHASE4"
+          ],
+          "completion": "2026-06-01",
+          "sponsor": "Joslin Diabetes Center",
+          "url": "https://clinicaltrials.gov/study/NCT06986603"
+        },
+        {
+          "nct_id": "NCT06937060",
+          "title": "Effect of Semaglutide in Patients With Psoriasis and Obesity",
           "status": "RECRUITING",
           "phases": [
-            "PHASE1"
+            "PHASE3"
           ],
-          "completion": "2027-07-01",
-          "sponsor": "National Aeronautics and Space Administration (NASA)",
-          "url": "https://clinicaltrials.gov/study/NCT05366933"
+          "completion": "2026-07-31",
+          "sponsor": "The University of Hong Kong",
+          "url": "https://clinicaltrials.gov/study/NCT06937060"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "caffeine",
+      "name_kr": "카페인",
+      "name_en": "Caffeine",
+      "active_count": 30,
+      "recent_complete_count": 25,
+      "future_signal_score": 80,
+      "top_trials": [
+        {
+          "nct_id": "NCT06717828",
+          "title": "The Effects of Tai Chi on Metabolic Dysfunction-associated Fatty Liver Disease in Middle-Aged and Older Adults",
+          "status": "RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2026-12-31",
+          "sponsor": "Fujian Provincial Hospital",
+          "url": "https://clinicaltrials.gov/study/NCT06717828"
+        },
+        {
+          "nct_id": "NCT06962046",
+          "title": "Can the Use of Virtual Reality Improve TKA Outcomes",
+          "status": "RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2025-12",
+          "sponsor": "Belfast Health and Social Care Trust",
+          "url": "https://clinicaltrials.gov/study/NCT06962046"
+        },
+        {
+          "nct_id": "NCT07127861",
+          "title": "Effects of Treadmill-Based Gait Training in Patients With Stroke",
+          "status": "RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2025-09-15",
+          "sponsor": "University of Salamanca",
+          "url": "https://clinicaltrials.gov/study/NCT07127861"
+        },
+        {
+          "nct_id": "NCT06917690",
+          "title": "A Study to Learn About the Safety and Efficacy of the Drug Oleogel-S10 in Japanese Patients With Epidermolysis Bullosa",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE3"
+          ],
+          "completion": "2026-03",
+          "sponsor": "Chiesi Farmaceutici S.p.A.",
+          "url": "https://clinicaltrials.gov/study/NCT06917690"
+        },
+        {
+          "nct_id": "NCT06461429",
+          "title": "PLatform for Adaptive Trials In Perinatal UnitS - [Core Protocol]",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2050-12-31",
+          "sponsor": "University of Melbourne",
+          "url": "https://clinicaltrials.gov/study/NCT06461429"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "urea",
+      "name_kr": "우레아",
+      "name_en": "Urea",
+      "active_count": 30,
+      "recent_complete_count": 25,
+      "future_signal_score": 80,
+      "top_trials": [
+        {
+          "nct_id": "NCT03150693",
+          "title": "Inotuzumab Ozogamicin and Frontline Chemotherapy in Treating Young Adults With Newly Diagnosed B Acute Lymphoblastic Leu",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE3"
+          ],
+          "completion": "2027-03-01",
+          "sponsor": "Alliance for Clinical Trials in Oncology",
+          "url": "https://clinicaltrials.gov/study/NCT03150693"
+        },
+        {
+          "nct_id": "NCT06564181",
+          "title": "The Relation Between Serum Zinc and Lupus Nephritis",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [],
+          "completion": "2026-12",
+          "sponsor": "Assiut University",
+          "url": "https://clinicaltrials.gov/study/NCT06564181"
+        },
+        {
+          "nct_id": "NCT04115631",
+          "title": "A Comparison of Three Chemotherapy Regimens for the Treatment of Patients With Newly Diagnosed Mantle Cell Lymphoma",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "phases": [
+            "PHASE2"
+          ],
+          "completion": "2026-12-31",
+          "sponsor": "ECOG-ACRIN Cancer Research Group",
+          "url": "https://clinicaltrials.gov/study/NCT04115631"
+        },
+        {
+          "nct_id": "NCT07504055",
+          "title": "Non-invasive Spinal Cord Stimulation and Blood Pressure Regulation After Spinal Cord Injury",
+          "status": "RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2029-02",
+          "sponsor": "University of Louisville",
+          "url": "https://clinicaltrials.gov/study/NCT07504055"
+        },
+        {
+          "nct_id": "NCT06429995",
+          "title": "Standard Follow-up Program (SFP) for Breast Cancer Patients",
+          "status": "ENROLLING_BY_INVITATION",
+          "phases": [],
+          "completion": "2030-01-01",
+          "sponsor": "University Medical Center Groningen",
+          "url": "https://clinicaltrials.gov/study/NCT06429995"
         }
       ]
     },
@@ -513,9 +327,20 @@
       "name_kr": "엑소좀",
       "name_en": "Exosome",
       "active_count": 30,
-      "recent_complete_count": 23,
-      "future_signal_score": 76,
+      "recent_complete_count": 24,
+      "future_signal_score": 78,
       "top_trials": [
+        {
+          "nct_id": "NCT07221773",
+          "title": "Pilot Study to Evaluate the Efficacy and Safety of Xvie Delivered Into the Scalp by Microneedling in Women With Self-per",
+          "status": "ENROLLING_BY_INVITATION",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2026-12",
+          "sponsor": "Restore Biologics Holdings, Inc. dba Xtressé",
+          "url": "https://clinicaltrials.gov/study/NCT07221773"
+        },
         {
           "nct_id": "NCT06652425",
           "title": "Acute Effects of Cold Exposure on Cardiovascular System",
@@ -528,39 +353,6 @@
           "url": "https://clinicaltrials.gov/study/NCT06652425"
         },
         {
-          "nct_id": "NCT07324018",
-          "title": "Spirulina Derivative for Radiation Esophagitis",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "PHASE2"
-          ],
-          "completion": "2026-06-30",
-          "sponsor": "West China Hospital",
-          "url": "https://clinicaltrials.gov/study/NCT07324018"
-        },
-        {
-          "nct_id": "NCT07192666",
-          "title": "Exosomes in Patients With Ocular Involvement of Sjögren's Syndrome",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "EARLY_PHASE1"
-          ],
-          "completion": "2026-09-30",
-          "sponsor": "Guangdong ProCapZoom Biosciences Co., Ltd.",
-          "url": "https://clinicaltrials.gov/study/NCT07192666"
-        },
-        {
-          "nct_id": "NCT05955521",
-          "title": "Exosome as the Prognostic and Predictive Biomarker in EBC Patients",
-          "status": "ACTIVE_NOT_RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2023-07-01",
-          "sponsor": "Samsung Medical Center",
-          "url": "https://clinicaltrials.gov/study/NCT05955521"
-        },
-        {
           "nct_id": "NCT07707986",
           "title": "Safety of Topical Exosome-Containing Liquid in Healthy Volunteers for Future Surgical Wound Use",
           "status": "NOT_YET_RECRUITING",
@@ -570,6 +362,208 @@
           "completion": "2026-12",
           "sponsor": "West Kazakhstan Marat Ospanov Medical University",
           "url": "https://clinicaltrials.gov/study/NCT07707986"
+        },
+        {
+          "nct_id": "NCT06608511",
+          "title": "Liquid Biomarker Study in Melanoma and Non-Melanoma Skin Cancers",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "phases": [],
+          "completion": "2026-12",
+          "sponsor": "University of Wisconsin, Madison",
+          "url": "https://clinicaltrials.gov/study/NCT06608511"
+        },
+        {
+          "nct_id": "NCT04356300",
+          "title": "Exosome of Mesenchymal Stem Cells for Multiple Organ Dysfuntion Syndrome After Surgical Repaire of Acute Type A Aortic D",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2021-09-01",
+          "sponsor": "Fujian Medical University",
+          "url": "https://clinicaltrials.gov/study/NCT04356300"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "glutathione",
+      "name_kr": "글루타치온",
+      "name_en": "Glutathione",
+      "active_count": 30,
+      "recent_complete_count": 24,
+      "future_signal_score": 78,
+      "top_trials": [
+        {
+          "nct_id": "NCT07595705",
+          "title": "Gingival Hyperpigmentation Treatment",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE2"
+          ],
+          "completion": "2027-01",
+          "sponsor": "Cairo University",
+          "url": "https://clinicaltrials.gov/study/NCT07595705"
+        },
+        {
+          "nct_id": "NCT07325851",
+          "title": "Patients Referred to the Chronic Pain Unit for Palliative Treatment With Ozone Therapy Between 2026 and 2029.",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [],
+          "completion": "2029-12-31",
+          "sponsor": "Bernardino Clavo, MD, PhD",
+          "url": "https://clinicaltrials.gov/study/NCT07325851"
+        },
+        {
+          "nct_id": "NCT07304440",
+          "title": "Adia MED of Winter Park LLC Autism Spectrum Disorder Research Study",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "completion": "2028-06-15",
+          "sponsor": "Adia Med of Winter Park LLC",
+          "url": "https://clinicaltrials.gov/study/NCT07304440"
+        },
+        {
+          "nct_id": "NCT07471542",
+          "title": "Copper Supplementation in Cirrhosis",
+          "status": "RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2028-12",
+          "sponsor": "University of Washington",
+          "url": "https://clinicaltrials.gov/study/NCT07471542"
+        },
+        {
+          "nct_id": "NCT06316284",
+          "title": "miRNA in Chronic Kidney Diseases",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [],
+          "completion": "2025-12-31",
+          "sponsor": "Josip Juraj Strossmayer University of Osijek",
+          "url": "https://clinicaltrials.gov/study/NCT06316284"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "active_count": 30,
+      "recent_complete_count": 23,
+      "future_signal_score": 76,
+      "top_trials": [
+        {
+          "nct_id": "NCT03934957",
+          "title": "Hamburg City Health Study - a German Cohort Study",
+          "status": "RECRUITING",
+          "phases": [],
+          "completion": "2022-12-31",
+          "sponsor": "Universitätsklinikum Hamburg-Eppendorf",
+          "url": "https://clinicaltrials.gov/study/NCT03934957"
+        },
+        {
+          "nct_id": "NCT05749094",
+          "title": "Optic Nerve Sheath Ultrasound in Giant Cell Arteritis",
+          "status": "RECRUITING",
+          "phases": [],
+          "completion": "2027-12",
+          "sponsor": "Centre Integre Universitaire de Sante et Services Sociaux du Nord de l'ile de Montreal",
+          "url": "https://clinicaltrials.gov/study/NCT05749094"
+        },
+        {
+          "nct_id": "NCT05799378",
+          "title": "Effects of Stopping Hydroxychloroquine in Elderly Lupus Disease",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE3"
+          ],
+          "completion": "2028-12-31",
+          "sponsor": "NYU Langone Health",
+          "url": "https://clinicaltrials.gov/study/NCT05799378"
+        },
+        {
+          "nct_id": "NCT04504123",
+          "title": "MMP-9 Inhibition for Recalcitrant Wet AMD",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE2"
+          ],
+          "completion": "2026-12-31",
+          "sponsor": "University of Iowa",
+          "url": "https://clinicaltrials.gov/study/NCT04504123"
+        },
+        {
+          "nct_id": "NCT07116967",
+          "title": "Long-Term Safety Study of Deucravacitinib Versus Ustekinumab in Participants With Psoriasis (PRAGMATYK)",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE3"
+          ],
+          "completion": "2031-01-16",
+          "sponsor": "Bristol-Myers Squibb",
+          "url": "https://clinicaltrials.gov/study/NCT07116967"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "senolytics",
+      "name_kr": "세놀리틱스",
+      "name_en": "senolytics",
+      "active_count": 30,
+      "recent_complete_count": 22,
+      "future_signal_score": 74,
+      "top_trials": [
+        {
+          "nct_id": "NCT06774547",
+          "title": "Early Implementation of Plyometric Exercises in the Rehabilitation of Individuals Suffering From Lower-Extremity Tendino",
+          "status": "RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2027-10",
+          "sponsor": "Aalborg University",
+          "url": "https://clinicaltrials.gov/study/NCT06774547"
+        },
+        {
+          "nct_id": "NCT07780240",
+          "title": "Axillary Web Syndrome After Breast Cancer Surgery: Incidence, Risk Factors, and Functional Outcomes",
+          "status": "RECRUITING",
+          "phases": [],
+          "completion": "2027-10",
+          "sponsor": "Antalya City Hospital",
+          "url": "https://clinicaltrials.gov/study/NCT07780240"
+        },
+        {
+          "nct_id": "NCT04224038",
+          "title": "The Inspire Bio-resource Research Platform for Healthy Aging INSPIRE Platform",
+          "status": "RECRUITING",
+          "phases": [],
+          "completion": "2031-10-16",
+          "sponsor": "University Hospital, Toulouse",
+          "url": "https://clinicaltrials.gov/study/NCT04224038"
+        },
+        {
+          "nct_id": "NCT00001252",
+          "title": "Human Movement Database",
+          "status": "RECRUITING",
+          "phases": [],
+          "completion": "",
+          "sponsor": "National Institutes of Health Clinical Center (CC)",
+          "url": "https://clinicaltrials.gov/study/NCT00001252"
+        },
+        {
+          "nct_id": "NCT06015893",
+          "title": "Semaglutide Therapy for Alcohol Reduction (STAR)",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "phases": [
+            "PHASE2"
+          ],
+          "completion": "2027-03-31",
+          "sponsor": "National Institute on Drug Abuse (NIDA)",
+          "url": "https://clinicaltrials.gov/study/NCT06015893"
         }
       ]
     },
@@ -577,29 +571,20 @@
       "ingredient_id": "silica",
       "name_kr": "실리카",
       "name_en": "Silica",
-      "active_count": 9,
-      "recent_complete_count": 9,
-      "future_signal_score": 27,
+      "active_count": 8,
+      "recent_complete_count": 8,
+      "future_signal_score": 24,
       "top_trials": [
         {
-          "nct_id": "NCT07120152",
-          "title": "A Pharmacokinetic-pharmacodynamic Modeling and Simulation Study of Subcutaneous Infliximab in Patients With Inflammatory",
+          "nct_id": "NCT07080645",
+          "title": "BIOSILITACE AS A DESENSITIZING AGENTIN HMI",
           "status": "NOT_YET_RECRUITING",
-          "phases": [],
-          "completion": "2026-09-01",
-          "sponsor": "Erwin Dreesen",
-          "url": "https://clinicaltrials.gov/study/NCT07120152"
-        },
-        {
-          "nct_id": "NCT06845839",
-          "title": "Study to Evaluate CAY001 in Healthy Volunteers",
-          "status": "RECRUITING",
           "phases": [
-            "PHASE1"
+            "NA"
           ],
-          "completion": "2026-10-30",
-          "sponsor": "Cayuga Biotech, Inc.",
-          "url": "https://clinicaltrials.gov/study/NCT06845839"
+          "completion": "2025-07-31",
+          "sponsor": "University of Sao Paulo",
+          "url": "https://clinicaltrials.gov/study/NCT07080645"
         },
         {
           "nct_id": "NCT06137833",
@@ -613,6 +598,28 @@
           "url": "https://clinicaltrials.gov/study/NCT06137833"
         },
         {
+          "nct_id": "NCT07494747",
+          "title": "Evaluation of the Effect of the Toothpaste on Delicate Gums",
+          "status": "RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2026-09",
+          "sponsor": "Lacer S.A.",
+          "url": "https://clinicaltrials.gov/study/NCT07494747"
+        },
+        {
+          "nct_id": "NCT06845839",
+          "title": "Study to Evaluate CAY001 in Healthy Volunteers",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE1"
+          ],
+          "completion": "2026-10-30",
+          "sponsor": "Cayuga Biotech, Inc.",
+          "url": "https://clinicaltrials.gov/study/NCT06845839"
+        },
+        {
           "nct_id": "NCT01266096",
           "title": "PET Imaging of Patients With Melanoma and Malignant Brain Tumors Using an 124I-labeled cRGDY Silica Nanomolecular Partic",
           "status": "ACTIVE_NOT_RECRUITING",
@@ -622,17 +629,6 @@
           "completion": "2026-12",
           "sponsor": "Memorial Sloan Kettering Cancer Center",
           "url": "https://clinicaltrials.gov/study/NCT01266096"
-        },
-        {
-          "nct_id": "NCT07080645",
-          "title": "BIOSILITACE AS A DESENSITIZING AGENTIN HMI",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2025-07-31",
-          "sponsor": "University of Sao Paulo",
-          "url": "https://clinicaltrials.gov/study/NCT07080645"
         }
       ]
     },
@@ -644,6 +640,24 @@
       "recent_complete_count": 6,
       "future_signal_score": 19,
       "top_trials": [
+        {
+          "nct_id": "NCT07719309",
+          "title": "Exploratory Study of Peristomal and Non-Peristomal Skin Barrier Characteristics in People With a Stoma",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [],
+          "completion": "2028-05",
+          "sponsor": "Salts Healthcare",
+          "url": "https://clinicaltrials.gov/study/NCT07719309"
+        },
+        {
+          "nct_id": "NCT07411638",
+          "title": "Non-interventional Translational Study in Mild, Moderate and Severe Acne Patients",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [],
+          "completion": "2028-02-14",
+          "sponsor": "National Skin Centre",
+          "url": "https://clinicaltrials.gov/study/NCT07411638"
+        },
         {
           "nct_id": "NCT06943469",
           "title": "Effect of Partially Hydrolyzed Formula With Synbiotics on Skin Barrier Function",
@@ -665,24 +679,6 @@
           "url": "https://clinicaltrials.gov/study/NCT07250880"
         },
         {
-          "nct_id": "NCT06669949",
-          "title": "Natural History of Sphingosine Phosphate Lyase Insufficiency Syndrome (SPLIS)",
-          "status": "RECRUITING",
-          "phases": [],
-          "completion": "2030-12-31",
-          "sponsor": "University of California, San Francisco",
-          "url": "https://clinicaltrials.gov/study/NCT06669949"
-        },
-        {
-          "nct_id": "NCT07411638",
-          "title": "Non-interventional Translational Study in Mild, Moderate and Severe Acne Patients",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [],
-          "completion": "2028-02-14",
-          "sponsor": "National Skin Centre",
-          "url": "https://clinicaltrials.gov/study/NCT07411638"
-        },
-        {
           "nct_id": "NCT07735169",
           "title": "Clinical Observation of Skin Condition in Patients With Acne Vulgaris Using Ubiquinol, Pomegranate Peel Extract, Ceramid",
           "status": "NOT_YET_RECRUITING",
@@ -701,6 +697,17 @@
       "recent_complete_count": 5,
       "future_signal_score": 15,
       "top_trials": [
+        {
+          "nct_id": "NCT07060157",
+          "title": "Comparative Efficacy of Resveratrol 1 % Gel and Trichloroacetic Acid 20% in Treatment of Melasma: A Split-face Study",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [
+            "NA"
+          ],
+          "completion": "2026-08-08",
+          "sponsor": "Assiut University",
+          "url": "https://clinicaltrials.gov/study/NCT07060157"
+        },
         {
           "nct_id": "NCT07100613",
           "title": "Mucoadhesive Modified-Release Formulations for the Topical Treatment of Symptomatic Oral Lichen Planus",
@@ -735,17 +742,6 @@
           "url": "https://clinicaltrials.gov/study/NCT07393802"
         },
         {
-          "nct_id": "NCT07060157",
-          "title": "Comparative Efficacy of Resveratrol 1 % Gel and Trichloroacetic Acid 20% in Treatment of Melasma: A Split-face Study",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "NA"
-          ],
-          "completion": "2026-08-08",
-          "sponsor": "Assiut University",
-          "url": "https://clinicaltrials.gov/study/NCT07060157"
-        },
-        {
           "nct_id": "NCT06723119",
           "title": "Effect of Resveratrol Supplementation on Exercise Performance and Recovery",
           "status": "RECRUITING",
@@ -767,6 +763,28 @@
       "future_signal_score": 12,
       "top_trials": [
         {
+          "nct_id": "NCT07482813",
+          "title": "An Open Label Extension Safety Study to Evaluate SD-101 in Epidermolysis Bullosa",
+          "status": "NOT_YET_RECRUITING",
+          "phases": [
+            "PHASE3"
+          ],
+          "completion": "2027-09-19",
+          "sponsor": "Paradigm Therapeutics",
+          "url": "https://clinicaltrials.gov/study/NCT07482813"
+        },
+        {
+          "nct_id": "NCT07482787",
+          "title": "Efficacy and Safety Study to Evaluate SD-101 in Epidermolysis Bullosa",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE3"
+          ],
+          "completion": "2027-05-17",
+          "sponsor": "Paradigm Therapeutics",
+          "url": "https://clinicaltrials.gov/study/NCT07482787"
+        },
+        {
           "nct_id": "NCT07587684",
           "title": "A Study of IN026 in Participants With Refractory Gout",
           "status": "RECRUITING",
@@ -787,28 +805,6 @@
           "completion": "2026-02-10",
           "sponsor": "Tanta University",
           "url": "https://clinicaltrials.gov/study/NCT07429812"
-        },
-        {
-          "nct_id": "NCT07482813",
-          "title": "An Open Label Extension Safety Study to Evaluate SD-101 in Epidermolysis Bullosa",
-          "status": "NOT_YET_RECRUITING",
-          "phases": [
-            "PHASE3"
-          ],
-          "completion": "2027-07-19",
-          "sponsor": "Paradigm Therapeutics",
-          "url": "https://clinicaltrials.gov/study/NCT07482813"
-        },
-        {
-          "nct_id": "NCT07482787",
-          "title": "Efficacy and Safety Study to Evaluate SD-101 in Epidermolysis Bullosa",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE3"
-          ],
-          "completion": "2027-05-17",
-          "sponsor": "Paradigm Therapeutics",
-          "url": "https://clinicaltrials.gov/study/NCT07482787"
         }
       ]
     },
@@ -821,17 +817,6 @@
       "future_signal_score": 10,
       "top_trials": [
         {
-          "nct_id": "NCT01530373",
-          "title": "Solifenacin Compared to Clonidine for Reducing Hot Flashes Among Breast Cancer Patients",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE2"
-          ],
-          "completion": "2027-07",
-          "sponsor": "University of Arkansas",
-          "url": "https://clinicaltrials.gov/study/NCT01530373"
-        },
-        {
           "nct_id": "NCT06985056",
           "title": "Reducing Symptom Burden Through Physical Exercise in Melanoma Patients",
           "status": "RECRUITING",
@@ -841,6 +826,17 @@
           "completion": "2027-09",
           "sponsor": "Universität Duisburg-Essen",
           "url": "https://clinicaltrials.gov/study/NCT06985056"
+        },
+        {
+          "nct_id": "NCT01530373",
+          "title": "Solifenacin Compared to Clonidine for Reducing Hot Flashes Among Breast Cancer Patients",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE2"
+          ],
+          "completion": "2027-07",
+          "sponsor": "University of Arkansas",
+          "url": "https://clinicaltrials.gov/study/NCT01530373"
         },
         {
           "nct_id": "NCT05798403",
@@ -875,17 +871,6 @@
       "future_signal_score": 10,
       "top_trials": [
         {
-          "nct_id": "NCT07563439",
-          "title": "PollenVax Subcutaneous Immunotherapy for Mugwort Pollen-Induced Allergic Rhinitis",
-          "status": "RECRUITING",
-          "phases": [
-            "PHASE2"
-          ],
-          "completion": "2026-09",
-          "sponsor": "Kazakh National Agrarian University",
-          "url": "https://clinicaltrials.gov/study/NCT07563439"
-        },
-        {
           "nct_id": "NCT07402200",
           "title": "Study of Indoor Air Pollutants and Their Impact in Children's Health and Wellbeing",
           "status": "RECRUITING",
@@ -897,15 +882,6 @@
           "url": "https://clinicaltrials.gov/study/NCT07402200"
         },
         {
-          "nct_id": "NCT04017520",
-          "title": "Breast Milk: Influence of the Micro-transcriptome Profile on Atopy in Children Over Time",
-          "status": "ACTIVE_NOT_RECRUITING",
-          "phases": [],
-          "completion": "2021-10-30",
-          "sponsor": "Milton S. Hershey Medical Center",
-          "url": "https://clinicaltrials.gov/study/NCT04017520"
-        },
-        {
           "nct_id": "NCT07015658",
           "title": "Clinical Effects of Moxibustion Combined With Tailored Baduanjin Exercise Programs on Early Postoperative Rehabilitation",
           "status": "NOT_YET_RECRUITING",
@@ -915,6 +891,26 @@
           "completion": "2026-09-30",
           "sponsor": "Suyun Liu",
           "url": "https://clinicaltrials.gov/study/NCT07015658"
+        },
+        {
+          "nct_id": "NCT07563439",
+          "title": "PollenVax Subcutaneous Immunotherapy for Mugwort Pollen-Induced Allergic Rhinitis",
+          "status": "RECRUITING",
+          "phases": [
+            "PHASE2"
+          ],
+          "completion": "2026-09",
+          "sponsor": "Kazakh National Agrarian University",
+          "url": "https://clinicaltrials.gov/study/NCT07563439"
+        },
+        {
+          "nct_id": "NCT04017520",
+          "title": "Breast Milk: Influence of the Micro-transcriptome Profile on Atopy in Children Over Time",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "phases": [],
+          "completion": "2021-10-30",
+          "sponsor": "Milton S. Hershey Medical Center",
+          "url": "https://clinicaltrials.gov/study/NCT04017520"
         }
       ]
     },
@@ -927,6 +923,15 @@
       "future_signal_score": 9,
       "top_trials": [
         {
+          "nct_id": "NCT07293793",
+          "title": "Pregnancy-Safe Skin Care Guidelines: Expert Consensus Recommendations",
+          "status": "ENROLLING_BY_INVITATION",
+          "phases": [],
+          "completion": "2026-09-01",
+          "sponsor": "Venus Research Center",
+          "url": "https://clinicaltrials.gov/study/NCT07293793"
+        },
+        {
           "nct_id": "NCT06966388",
           "title": "Study to Evaluate the Feasibility of Twice Daily Use of Topical Azelaic Acid in Breast Cancer Patients Undergoing Radiat",
           "status": "RECRUITING",
@@ -936,15 +941,6 @@
           "completion": "2027-11-30",
           "sponsor": "Virginia Commonwealth University",
           "url": "https://clinicaltrials.gov/study/NCT06966388"
-        },
-        {
-          "nct_id": "NCT07293793",
-          "title": "Pregnancy-Safe Skin Care Guidelines: Expert Consensus Recommendations",
-          "status": "ENROLLING_BY_INVITATION",
-          "phases": [],
-          "completion": "2026-09-01",
-          "sponsor": "Venus Research Center",
-          "url": "https://clinicaltrials.gov/study/NCT07293793"
         },
         {
           "nct_id": "NCT05416333",
@@ -1011,15 +1007,15 @@
       "future_signal_score": 7,
       "top_trials": [
         {
-          "nct_id": "NCT04513028",
-          "title": "Beta Glucan's Effect on Pembrolizumab Immunologic Response in Stage III-IV Melanoma",
-          "status": "RECRUITING",
+          "nct_id": "NCT03154619",
+          "title": "Efficacy of TR 987, Beta-1,3-1,6-D-glucan, in the Treatment of Chronic Venous Insufficiency Ulcers",
+          "status": "ACTIVE_NOT_RECRUITING",
           "phases": [
-            "NA"
+            "PHASE2"
           ],
-          "completion": "2026-07-31",
-          "sponsor": "Kelly McMasters",
-          "url": "https://clinicaltrials.gov/study/NCT04513028"
+          "completion": "2019-04-04",
+          "sponsor": "SerenaGroup, Inc.",
+          "url": "https://clinicaltrials.gov/study/NCT03154619"
         },
         {
           "nct_id": "NCT07524439",
@@ -1033,15 +1029,15 @@
           "url": "https://clinicaltrials.gov/study/NCT07524439"
         },
         {
-          "nct_id": "NCT03154619",
-          "title": "Efficacy of TR 987, Beta-1,3-1,6-D-glucan, in the Treatment of Chronic Venous Insufficiency Ulcers",
-          "status": "ACTIVE_NOT_RECRUITING",
+          "nct_id": "NCT04513028",
+          "title": "Beta Glucan's Effect on Pembrolizumab Immunologic Response in Stage III-IV Melanoma",
+          "status": "RECRUITING",
           "phases": [
-            "PHASE2"
+            "NA"
           ],
-          "completion": "2019-04-04",
-          "sponsor": "SerenaGroup, Inc.",
-          "url": "https://clinicaltrials.gov/study/NCT03154619"
+          "completion": "2026-07-31",
+          "sponsor": "Kelly McMasters",
+          "url": "https://clinicaltrials.gov/study/NCT04513028"
         }
       ]
     },

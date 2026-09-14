@@ -1,0 +1,774 @@
+{
+  "ingredient_id": "retinal",
+  "name_kr": "레티날",
+  "name_en": "Retinal",
+  "query": "(\"Retinal\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 23,
+  "trials": [
+    {
+      "nct_id": "NCT03934957",
+      "title": "Hamburg City Health Study - a German Cohort Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Coronary Heart Disease",
+        "Stroke",
+        "Dementia",
+        "Cancer",
+        "Health Care",
+        "Vascular Diseases",
+        "Periodontal Diseases",
+        "Ocular Diseases",
+        "Respiratory Disease",
+        "Obesity"
+      ],
+      "interventions": [],
+      "sponsor": "Universitätsklinikum Hamburg-Eppendorf",
+      "primary_completion": "2022-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03934957"
+    },
+    {
+      "nct_id": "NCT05749094",
+      "title": "Optic Nerve Sheath Ultrasound in Giant Cell Arteritis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Giant Cell Arteritis",
+        "Anterior Ischemic Optic Neuropathy",
+        "Optic Neuropathy, Ischemic"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Optic nerve sheath ultrasound"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Standardized GCA assessment"
+        }
+      ],
+      "sponsor": "Centre Integre Universitaire de Sante et Services Sociaux du Nord de l'ile de Montreal",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT05749094"
+    },
+    {
+      "nct_id": "NCT05799378",
+      "title": "Effects of Stopping Hydroxychloroquine in Elderly Lupus Disease",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Hydroxychloroquine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "NYU Langone Health",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05799378"
+    },
+    {
+      "nct_id": "NCT04504123",
+      "title": "MMP-9 Inhibition for Recalcitrant Wet AMD",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Exudative Macular Degeneration",
+        "Wet Age-related Macular Degeneration"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Doxycycline Hyclate"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "University of Iowa",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT04504123"
+    },
+    {
+      "nct_id": "NCT07116967",
+      "title": "Long-Term Safety Study of Deucravacitinib Versus Ustekinumab in Participants With Psoriasis (PRAGMATYK)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Plaque Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Deucravacitinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Ustekinumab"
+        }
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "primary_completion": "2031-01-16",
+      "url": "https://clinicaltrials.gov/study/NCT07116967"
+    },
+    {
+      "nct_id": "NCT04462328",
+      "title": "Acalabrutinib and Durvalumab in Primary and Secondary Central Nervous System Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Primary Central Nervous System Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Durvalumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Acalabrutinib"
+        }
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "primary_completion": "2026-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT04462328"
+    },
+    {
+      "nct_id": "NCT05270044",
+      "title": "Adjuvant Encorafenib and Binimetinib in High-risk Stage II Melanoma With a BRAF Mutation.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melanoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Encorafenib and Binimetinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo to match Encorafenib ; Placebo to match Binimetinib"
+        }
+      ],
+      "sponsor": "Pierre Fabre Medicament",
+      "primary_completion": "2027-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT05270044"
+    },
+    {
+      "nct_id": "NCT04514653",
+      "title": "RGX-314 Gene Therapy Administered in the Suprachoroidal Space for Participants With Neovascular Age-Related Macular Degeneration (nAMD)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Neovascular Age-Related Macular Degeneration (nAMD)"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Ranibizumab"
+        },
+        {
+          "type": "GENETIC",
+          "name": "ABBV-RGX-314 Dose 1"
+        },
+        {
+          "type": "GENETIC",
+          "name": "ABBV-RGX-314 Dose 2"
+        },
+        {
+          "type": "GENETIC",
+          "name": "ABBV-RGX-314 Dose 3"
+        },
+        {
+          "type": "DRUG",
+          "name": "Local Steroid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Topical Steroid"
+        },
+        {
+          "type": "GENETIC",
+          "name": "ABBV-RGX-314 Dose 4"
+        }
+      ],
+      "sponsor": "AbbVie",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT04514653"
+    },
+    {
+      "nct_id": "NCT06004154",
+      "title": "Post-therapeutic Imaging Evaluation of Patients With Horton's Disease (Giant Cell Arteritis) (EvHortim)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Giant Cell Arteritis"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Injected cerebral MRI angiography and ultrasound of the superior aortic trunks, temporal and axillary arteries"
+        }
+      ],
+      "sponsor": "Fondation Ophtalmologique Adolphe de Rothschild",
+      "primary_completion": "2027-04",
+      "url": "https://clinicaltrials.gov/study/NCT06004154"
+    },
+    {
+      "nct_id": "NCT06813261",
+      "title": "GLYLO Supplement Pilot Trial on Glycation and Aging in Postmenopausal Women",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postmenopause",
+        "Metabolism",
+        "Geroscience"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "GLYLO"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Buck Institute for Research on Aging",
+      "primary_completion": "2026-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT06813261"
+    },
+    {
+      "nct_id": "NCT06887062",
+      "title": "Dapagliflozin and Endothelin Receptor Antagonism in Large Vessel Vasculitis (DERAIL-LVV)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Large Vessel Vasculitis",
+        "Giant Cell Arteritis (GCA)",
+        "Takayasu Arteritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bosentan and dapagliflozin"
+        }
+      ],
+      "sponsor": "University of Edinburgh",
+      "primary_completion": "2027-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06887062"
+    },
+    {
+      "nct_id": "NCT06929026",
+      "title": "Retinal Biomarkers in Parkinson´s Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Parkinson Disease"
+      ],
+      "interventions": [],
+      "sponsor": "Landspitali University Hospital",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06929026"
+    },
+    {
+      "nct_id": "NCT06742671",
+      "title": "Performance of a Fast-track Pathway for Giant Cell Arteritis Diagnosis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Giant Cell Arteritis (GCA)"
+      ],
+      "interventions": [],
+      "sponsor": "Groupe Hospitalier de la Rochelle Ré Aunis",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06742671"
+    },
+    {
+      "nct_id": "NCT06587828",
+      "title": "A Biospecimen Collection Study to Identify the Targets of Disease-Reactive T Cells in Patients With Autoimmune Disease",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Autoimmune Diseases",
+        "Ulcerative Colitis",
+        "Multiple Sclerosis",
+        "Scleroderma",
+        "Ankylosing Spondylitis",
+        "Celiac Disease",
+        "Non-radiographic Axial Spondyloarthritis (Nr-axSpA)",
+        "Crohn&Amp;#39;s Disease",
+        "Birdshot Chorioretinitis"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Companion blood samples with procedure"
+        }
+      ],
+      "sponsor": "TScan Therapeutics, Inc.",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT06587828"
+    },
+    {
+      "nct_id": "NCT06532604",
+      "title": "Study of Electrophysiological Markers of Antidepressants in Major Depressive Disorder",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Major Depressive Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Electroretinography (ERG)"
+        }
+      ],
+      "sponsor": "Centre Psychothérapique de Nancy",
+      "primary_completion": "2028-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT06532604"
+    },
+    {
+      "nct_id": "NCT07406906",
+      "title": "Dietary Supplement for Myopia Control",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Myopia"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Oral dietary supplement provided in a capsule format (3 active capsules/ per day)"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Oral dietary supplement provided in a capsule format (1 active capsule and 2 placebo capsules/per day)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo control (3 placebo capsules/per day)"
+        }
+      ],
+      "sponsor": "The Hong Kong Polytechnic University",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07406906"
+    },
+    {
+      "nct_id": "NCT03694626",
+      "title": "Objectively Diagnose and Monitor Treatment of Light Sensitivity",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Photophobia",
+        "Traumatic Brain Injury",
+        "Migraine"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Pupillography"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Ocular Coherence Tomography (OCT)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Wrist-watch sensor device"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Videography"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Electrophysiology"
+        }
+      ],
+      "sponsor": "Randy Kardon",
+      "primary_completion": "2028-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT03694626"
+    },
+    {
+      "nct_id": "NCT06203106",
+      "title": "NYSCF Scientific Discovery Biobank",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "ALS",
+        "Amyotrophic Lateral Sclerosis",
+        "Alzheimer Disease",
+        "Alzheimer Disease, Early Onset",
+        "Alzheimer Disease, Late Onset",
+        "Batten Disease",
+        "Corticobasal Degeneration",
+        "Dementia",
+        "Frontotemporal Dementia",
+        "Huntington Disease",
+        "Lewy Body Disease",
+        "Multiple Sclerosis",
+        "Multiple System Atrophy",
+        "Parkinson Disease",
+        "Parkinson's Disease and Parkinsonism",
+        "Progressive Supranuclear Palsy",
+        "INAD",
+        "Diabetes",
+        "Diabetes Mellitus",
+        "Diabetes Mellitus, Type 2",
+        "Diabetes Mellitus, Type 1",
+        "Macular Degeneration",
+        "Ovarian Cancer",
+        "Cervical Cancer",
+        "Uterine Cancer",
+        "Vaginal Cancer",
+        "Vulvar Cancer",
+        "PTSD",
+        "Post Traumatic Stress Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Biological Sample Collection"
+        }
+      ],
+      "sponsor": "New York Stem Cell Foundation Research Institute",
+      "primary_completion": "2045-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT06203106"
+    },
+    {
+      "nct_id": "NCT06693882",
+      "title": "Electrical Stimulation of the Optic Nerve in Patients With Glaucoma.",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Glaucoma"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "EYETRONIC Nextwave System"
+        }
+      ],
+      "sponsor": "Glaucoma Center of San Francisco",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06693882"
+    },
+    {
+      "nct_id": "NCT04868578",
+      "title": "PPI Supplementation to Fight ECtopIc Calcification in PXE",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pseudoxanthoma Elasticum"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "study treatment PPI"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo comparator"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "primary_completion": "2026-12-13",
+      "url": "https://clinicaltrials.gov/study/NCT04868578"
+    },
+    {
+      "nct_id": "NCT07341919",
+      "title": "Subtenon Autologous Platelet-Rich Plasma in Inherited and Degenerative Retinal Diseases",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Extensive Macular Atrophy With Pseudodrusen (EMAP)",
+        "Retinitis Pigmentosa (RP)"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Subtenon Injection of Autologous Platelet-Rich Plasma"
+        }
+      ],
+      "sponsor": "Rubens Camargo Siqueira",
+      "primary_completion": "2026-03-04",
+      "url": "https://clinicaltrials.gov/study/NCT07341919"
+    },
+    {
+      "nct_id": "NCT05557721",
+      "title": "Uddevalla Skövde Transscleral Micropulse Study",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Primary Open Angle Glaucoma",
+        "Pseudoexfoliation Glaucoma"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Topical lidocaine"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "MP-TLT"
+        }
+      ],
+      "sponsor": "Vastra Gotaland Region",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05557721"
+    },
+    {
+      "nct_id": "NCT01432847",
+      "title": "Cell Collection to Study Eye Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Retinal Disease",
+        "AMD",
+        "Retinal Degeneration",
+        "Retinitis Pigmentosa"
+      ],
+      "interventions": [],
+      "sponsor": "National Eye Institute (NEI)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT01432847"
+    },
+    {
+      "nct_id": "NCT03050268",
+      "title": "Familial Investigations of Childhood Cancer Predisposition",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Acute Leukemia",
+        "Adenomatous Polyposis",
+        "Adrenocortical Carcinoma",
+        "AML",
+        "BAP1 Tumor Predisposition Syndrome",
+        "Carney Complex",
+        "Choroid Plexus Carcinoma",
+        "Constitutional Mismatch Repair Deficiency Syndrome",
+        "Diamond-Blackfan Anemia",
+        "DICER1 Syndrome",
+        "Dyskeratosis Congenita",
+        "Emberger Syndrome",
+        "Familial Acute Myeloid Leukemia",
+        "Familial Adenomatous Polyposis",
+        "Fanconi Anemia",
+        "Familial Cancer",
+        "Familial Wilms Tumor",
+        "Familial Neuroblastoma",
+        "GIST",
+        "Hereditary Breast and Ovarian Cancer",
+        "Hereditary Paraganglioma-Pheochromocytoma Syndrome",
+        "Hodgkin Lymphoma",
+        "Juvenile Polyposis",
+        "Li-Fraumeni Syndrome",
+        "Lynch Syndrome",
+        "MDS",
+        "Melanoma Syndrome",
+        "Multiple Endocrine Neoplasia Type 1",
+        "Multiple Endocrine Neoplasia Type 2",
+        "Neuroblastoma",
+        "Neurofibromatosis Type 1",
+        "Neurofibromatosis Type II",
+        "Nevoid Basal Cell Carcinoma Syndrome",
+        "Non Hodgkin Lymphoma",
+        "Noonan Syndrome and Other Rasopathy",
+        "Overgrowth Syndromes",
+        "Pancreatic Cancer",
+        "Peutz-Jeghers Syndrome",
+        "Pheochromocytoma/Paraganglioma",
+        "PTEN Hamartoma Tumor Syndrome",
+        "Retinoblastoma",
+        "Rhabdoid Tumor Predisposition Syndrome",
+        "Rhabdomyosarcoma",
+        "Rothmund-Thomson Syndrome",
+        "Tuberous Sclerosis",
+        "Von Hippel-Lindau Disease"
+      ],
+      "interventions": [],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "primary_completion": "2037-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT03050268"
+    },
+    {
+      "nct_id": "NCT07679776",
+      "title": "Study on Early Visual Dysfunction in Patients With Systemic Lupus Erythematosus",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus (SLE)",
+        "Visual Function"
+      ],
+      "interventions": [],
+      "sponsor": "The First Affiliated Hospital of Anhui Medical University",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07679776"
+    },
+    {
+      "nct_id": "NCT06879301",
+      "title": "Effectiveness of Intravitreal Injection of Aflibercept 8 mg in Resistant Diabetic Macular Edema, Retinal Vein Occlusion and Myopic Choroidal Neovascularisation Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetic Macular Edema (DME)",
+        "Retinal Vein Occlusion (RVO)",
+        "Myopic Choroidal Neovascularisation"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Intravitreal injection of aflibercept 8 mg"
+        }
+      ],
+      "sponsor": "Tanta University",
+      "primary_completion": "2025-11-19",
+      "url": "https://clinicaltrials.gov/study/NCT06879301"
+    },
+    {
+      "nct_id": "NCT07258524",
+      "title": "PET Assessment of Disease Activity and Cardiovascular Disease Risk in ANCA-associated Vasculitis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "ANCA Associated Vasculitis (AAV)"
+      ],
+      "interventions": [],
+      "sponsor": "University of Edinburgh",
+      "primary_completion": "2029-01",
+      "url": "https://clinicaltrials.gov/study/NCT07258524"
+    },
+    {
+      "nct_id": "NCT07701759",
+      "title": "Incidence of Hypoxia During Intravitreal Anti-VEGF (Vascular Endothelial Growth Factor) Injections for Retinopathy of Prematurity (ROP) Under Topical Anesthesia",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Retinopathy of Prematurity"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ranibizumab"
+        }
+      ],
+      "sponsor": "Minia University",
+      "primary_completion": "2026-07-15",
+      "url": "https://clinicaltrials.gov/study/NCT07701759"
+    },
+    {
+      "nct_id": "NCT04692012",
+      "title": "Treatment of Residual Hypermetropic Refraction on Pseudophakic Patients Using Allogenic Fresh Myopic Lenticule",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pseudophakia",
+        "Hypermetropia",
+        "Myopia"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "FRESH CORNEAL MYOPIC LENTICULE IMPLANTATION"
+        }
+      ],
+      "sponsor": "Eye Hospital Pristina Kosovo",
+      "primary_completion": "2020-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT04692012"
+    },
+    {
+      "nct_id": "NCT05481827",
+      "title": "ORACLE: A Long-term Follow-up Study to Evaluate the Safety of GT005 in Participants With Geographic Atrophy Secondary to Age-related Macular Degeneration Treated in a Gyroscope-sponsored Antecedent Study",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Age Related Macular Degeneration (AMD)"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "GT005"
+        }
+      ],
+      "sponsor": "Gyroscope Therapeutics Limited",
+      "primary_completion": "2028-06-02",
+      "url": "https://clinicaltrials.gov/study/NCT05481827"
+    }
+  ],
+  "fetched_at": "2026-09-14T23:51:08.738104"
+}

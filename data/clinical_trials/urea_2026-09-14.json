@@ -1,0 +1,943 @@
+{
+  "ingredient_id": "urea",
+  "name_kr": "우레아",
+  "name_en": "Urea",
+  "query": "(\"Urea\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 25,
+  "trials": [
+    {
+      "nct_id": "NCT03150693",
+      "title": "Inotuzumab Ozogamicin and Frontline Chemotherapy in Treating Young Adults With Newly Diagnosed B Acute Lymphoblastic Leukemia",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "B Acute Lymphoblastic Leukemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Allopurinol"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cytarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Daunorubicin Hydrochloride"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vincristine Sulfate"
+        },
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Pegylated L-Asparaginase"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methotrexate"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Bone Marrow Aspiration and Biopsy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Mercaptopurine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Doxorubicin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Thioguanine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Inotuzumab Ozogamicin"
+        },
+        {
+          "type": "OTHER",
+          "name": "Laboratory Biomarker Analysis"
+        }
+      ],
+      "sponsor": "Alliance for Clinical Trials in Oncology",
+      "primary_completion": "2027-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT03150693"
+    },
+    {
+      "nct_id": "NCT06564181",
+      "title": "The Relation Between Serum Zinc and Lupus Nephritis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Lupus Nephritis"
+      ],
+      "interventions": [],
+      "sponsor": "Assiut University",
+      "primary_completion": "2026-12",
+      "url": "https://clinicaltrials.gov/study/NCT06564181"
+    },
+    {
+      "nct_id": "NCT04115631",
+      "title": "A Comparison of Three Chemotherapy Regimens for the Treatment of Patients With Newly Diagnosed Mantle Cell Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Liver Lymphoma",
+        "Mantle Cell Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Acalabrutinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Bendamustine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Bendamustine Hydrochloride"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cytarabine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rituximab"
+        }
+      ],
+      "sponsor": "ECOG-ACRIN Cancer Research Group",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT04115631"
+    },
+    {
+      "nct_id": "NCT07504055",
+      "title": "Non-invasive Spinal Cord Stimulation and Blood Pressure Regulation After Spinal Cord Injury",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Spinal Cord Injury",
+        "Orthostatic Hypertension",
+        "Autonomic Dysreflexia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Spinal Cord Transcutaneous Stimulation"
+        }
+      ],
+      "sponsor": "University of Louisville",
+      "primary_completion": "2029-02",
+      "url": "https://clinicaltrials.gov/study/NCT07504055"
+    },
+    {
+      "nct_id": "NCT06429995",
+      "title": "Standard Follow-up Program (SFP) for Breast Cancer Patients",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "Radiotherapy"
+        }
+      ],
+      "sponsor": "University Medical Center Groningen",
+      "primary_completion": "2030-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06429995"
+    },
+    {
+      "nct_id": "NCT05468359",
+      "title": "Safety and Efficacy of Cyclophosphamide, Sorafenib, Bevacizumab, and Atezolizumab in Pediatric Solid Tumor Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Refractory Solid Tumor",
+        "Hepatocellular Carcinoma",
+        "Malignant Solid Tumor",
+        "Pediatric Cancer",
+        "Pediatric Solid Tumor",
+        "Fibrolamellar Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Atezolizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sorafenib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Bevacizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        }
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "primary_completion": "2032-06",
+      "url": "https://clinicaltrials.gov/study/NCT05468359"
+    },
+    {
+      "nct_id": "NCT06467721",
+      "title": "Clinical Efficacy of Self-adhesive Silicone Gel Waterproof Dressings Versus Conventional Dressings in the Healing of Incisions After Total Joint Arthroplasty",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Self-adhesive Silicone Gel Waterproof Dressing",
+        "Gauze Dressing",
+        "Total Joint Arthroplasty"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Self-adhesive silicone gel waterproof dressing"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sterile gauze dressing"
+        }
+      ],
+      "sponsor": "First Affiliated Hospital of Xinjiang Medical University",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06467721"
+    },
+    {
+      "nct_id": "NCT07362238",
+      "title": "Daratumumab Versus Rituximab in the Management of Pediatric Primary Immune Thrombocytopenia (ITP)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenia",
+        "Treatment"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Daratumumab"
+        }
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "primary_completion": "2028-03",
+      "url": "https://clinicaltrials.gov/study/NCT07362238"
+    },
+    {
+      "nct_id": "NCT07426120",
+      "title": "Efficacy and Safety of a Botanical Total Coumarin (TC) Cream in Treating Patients With Psoriasis Vulgaris (PLANTCOAT-III)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriasis Vulgaris",
+        "Topical Administration",
+        "Phase III"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Total coumarin (TC) cream"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vehicle cream"
+        }
+      ],
+      "sponsor": "Psoriasis Research Institute of Guangzhou",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07426120"
+    },
+    {
+      "nct_id": "NCT07335562",
+      "title": "A Study to Compare the Efficacy and Safety of BMS-986353 (Zolacabtagene- Autoleucel / Zola-cel), CD19-CAR T Cells, Versus Standard of Care in Participants With Active Systemic Sclerosis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Sclerosis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BMS-986353"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tocilizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Nintedanib"
+        }
+      ],
+      "sponsor": "Juno Therapeutics, Inc., a Bristol-Myers Squibb Company",
+      "primary_completion": "2028-11-14",
+      "url": "https://clinicaltrials.gov/study/NCT07335562"
+    },
+    {
+      "nct_id": "NCT07719309",
+      "title": "Exploratory Study of Peristomal and Non-Peristomal Skin Barrier Characteristics in People With a Stoma",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Colostomy - Stoma",
+        "Ileostomy - Stoma",
+        "Urostomy"
+      ],
+      "interventions": [],
+      "sponsor": "Salts Healthcare",
+      "primary_completion": "2028-05",
+      "url": "https://clinicaltrials.gov/study/NCT07719309"
+    },
+    {
+      "nct_id": "NCT03999229",
+      "title": "S-Nitrosylation (SNO) Therapy During Autologous Blood Transfusion",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Transfusion Related Complication"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SNO"
+        },
+        {
+          "type": "DRUG",
+          "name": "Normal Saline"
+        },
+        {
+          "type": "DRUG",
+          "name": "Red Blood Cell"
+        }
+      ],
+      "sponsor": "James Reynolds",
+      "primary_completion": "2028-02-29",
+      "url": "https://clinicaltrials.gov/study/NCT03999229"
+    },
+    {
+      "nct_id": "NCT06206837",
+      "title": "A Study to Learn About Vepdegestrant When Given With PF-07220060 to People With Advanced or Metastatic Breast Cancer.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "vepdegestrant"
+        },
+        {
+          "type": "DRUG",
+          "name": "PF-07220060"
+        }
+      ],
+      "sponsor": "Pfizer",
+      "primary_completion": "2025-09-05",
+      "url": "https://clinicaltrials.gov/study/NCT06206837"
+    },
+    {
+      "nct_id": "NCT06509139",
+      "title": "Optimal Duration of Bismuth Quadruple Therapy for Helicobacter Pylori Eradication in Females As Compared with Males",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Helicobacter Pylori Infection",
+        "Sex",
+        "Bismuth Quadruple Therapy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Drug: Bismuth Subcitrate 120 MG Oral Tablet"
+        },
+        {
+          "type": "DRUG",
+          "name": "Esomeprazole 40mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "Metronidazole 250 MG"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tetracycline Pill"
+        }
+      ],
+      "sponsor": "National Cheng-Kung University Hospital",
+      "primary_completion": "2032-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT06509139"
+    },
+    {
+      "nct_id": "NCT06323525",
+      "title": "TCR Reserved and Power3 (SPPL3) Gene Knock-out Allogeneic CD19-targeting CAR-T Cell Therapy in r/r B Cell Lymphoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Non-hodgkin Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "TCR reserved and Power3 (SPPL3) gene knock-out allogeneic CD19-targeting CAR-T cell (ATHENA-2 CAR-T)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        }
+      ],
+      "sponsor": "Chinese PLA General Hospital",
+      "primary_completion": "2026-04-25",
+      "url": "https://clinicaltrials.gov/study/NCT06323525"
+    },
+    {
+      "nct_id": "NCT03678883",
+      "title": "9-ING-41 in Patients With Advanced Cancers",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cancer",
+        "Pancreatic Cancer",
+        "Sarcoma",
+        "Renal Cancer",
+        "Refractory Cancer",
+        "Refractory Neoplasm",
+        "Refractory Non-Hodgkin Lymphoma",
+        "Pancreatic Adenocarcinoma",
+        "Resistant Cancer",
+        "Neoplasm Metastasis",
+        "Neoplasm of Bone",
+        "Neoplasm, Breast",
+        "Neoplasm of Lung",
+        "Neoplasms,Colorectal",
+        "Neoplasms Pancreatic",
+        "Malignant Glioma",
+        "Malignancies",
+        "Malignancies Multiple",
+        "Bone Metastases",
+        "Bone Neoplasm",
+        "Bone Cancer",
+        "Pancreas Cancer",
+        "Pancreatic Neoplasms",
+        "Breast Neoplasms",
+        "Acute T Cell Leukemia Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "9-ING-41"
+        },
+        {
+          "type": "DRUG",
+          "name": "Gemcitabine - 21 day cycle"
+        },
+        {
+          "type": "DRUG",
+          "name": "Doxorubicin."
+        },
+        {
+          "type": "DRUG",
+          "name": "Lomustine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Carboplatin."
+        },
+        {
+          "type": "DRUG",
+          "name": "Nab paclitaxel."
+        },
+        {
+          "type": "DRUG",
+          "name": "Paclitaxel."
+        },
+        {
+          "type": "DRUG",
+          "name": "Gemcitabine - 28 day cycle"
+        },
+        {
+          "type": "DRUG",
+          "name": "Irinotecan"
+        }
+      ],
+      "sponsor": "Actuate Therapeutics Inc.",
+      "primary_completion": "2026-06",
+      "url": "https://clinicaltrials.gov/study/NCT03678883"
+    },
+    {
+      "nct_id": "NCT07139366",
+      "title": "Saccharomyces Boulardii Combined With Bismuth Quadruple Therapy for Helicobacter Pylori Rescue Treatment",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gastritis",
+        "Dyspepsia",
+        "Helicobacter Pylori Infection",
+        "Gastric Cancer",
+        "Peptic Ulcer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bismuth"
+        },
+        {
+          "type": "DRUG",
+          "name": "Esomeprazole"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tetracycline"
+        },
+        {
+          "type": "DRUG",
+          "name": "Furazolidone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Saccharomyces Boulardii Oral Powder"
+        }
+      ],
+      "sponsor": "Yongquan Shi",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT07139366"
+    },
+    {
+      "nct_id": "NCT07587294",
+      "title": "Efficacy and Safety of Ultrasound Modulation of Stellate Ganglion for the Prevention of Ventricular Arrhythmia in Patients With ST-segment Elevation Myocardial Infarction",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acute ST-segment Elevation Myocardial Infarction (Patients Undergoing Emergency PCI)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Ultrasound modulation of the left stellate ganglion"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham ultrasound modulation of the left stellate ganglion"
+        }
+      ],
+      "sponsor": "Renmin Hospital of Wuhan University",
+      "primary_completion": "2027-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT07587294"
+    },
+    {
+      "nct_id": "NCT07029178",
+      "title": "Taurine's Therapeutic Effect on Acute Radiation-induced Oral Mucositis and Dermatitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Radiation Induced Oral Mucositis",
+        "Radiodermatitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Taurine granule"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo granule"
+        }
+      ],
+      "sponsor": "Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University",
+      "primary_completion": "2027-11-01",
+      "url": "https://clinicaltrials.gov/study/NCT07029178"
+    },
+    {
+      "nct_id": "NCT04323748",
+      "title": "Dose Dense Rituximab for High Risk Newly Diagnosed Acute Immune Thrombocytopenic Purpura",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune Thrombocytopenic Purpura"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "rituxan"
+        }
+      ],
+      "sponsor": "New York Medical College",
+      "primary_completion": "2026-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT04323748"
+    },
+    {
+      "nct_id": "NCT07689435",
+      "title": "Cholesterol Cream vs Urea Cream for Skin Barrier and Quality of Life in Ichthyosis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Autosomal Recessive Congenital Ichthyosis",
+        "Skin Barrier Dysfunction",
+        "Ichthyosis Inherited"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "10% Cholesterol Cream"
+        },
+        {
+          "type": "DRUG",
+          "name": "10% Urea cream"
+        }
+      ],
+      "sponsor": "Institute of Dermatology, Thailand",
+      "primary_completion": "2027-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07689435"
+    },
+    {
+      "nct_id": "NCT07775235",
+      "title": "Treatment Response in Immune-mediated Myositis Associated Rapidly-progressing Interstitial Lung Disease",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Interstitial Lung Disease",
+        "Myositis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Immunosuppressant Regimen"
+        }
+      ],
+      "sponsor": "Singapore General Hospital",
+      "primary_completion": "2029-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT07775235"
+    },
+    {
+      "nct_id": "NCT06245213",
+      "title": "A Study of ANAVEX3-71 in Adults With Schizophrenia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Schizophrenia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ANAVEX3-71 oral capsules"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo oral capsules"
+        }
+      ],
+      "sponsor": "Anavex Life Sciences Corp.",
+      "primary_completion": "2025-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT06245213"
+    },
+    {
+      "nct_id": "NCT04216524",
+      "title": "Venetoclax, SL-401, and Chemotherapy for the Treatment of Blastic Plasmacytoid Dendritic Cell Neoplasm",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Blastic Plasmacytoid Dendritic Cell Neoplasm"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cytarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Doxorubicin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Mercaptopurine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methotrexate"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methylprednisolone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisone"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rituximab"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Tagraxofusp-erzs"
+        },
+        {
+          "type": "DRUG",
+          "name": "Venetoclax"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vincristine"
+        }
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT04216524"
+    },
+    {
+      "nct_id": "NCT07545902",
+      "title": "Clinical Study on the Medical Devices PROXERA PSOMED 20 and PROXERA PSOMED 40 for the Treatment of Plaque Psoriasis and Non-pustular Palmoplantar Psoriasis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Plaque Type Psorisis",
+        "Non-pustular Palmoplantar Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "PROXERA PSOMED 20 cream; PROXERA PSOMED 40 gel"
+        }
+      ],
+      "sponsor": "ICIM International S.r.l.",
+      "primary_completion": "2026-11-25",
+      "url": "https://clinicaltrials.gov/study/NCT07545902"
+    },
+    {
+      "nct_id": "NCT06668181",
+      "title": "An Open-label Study to Evaluate the Pharmacokinetics and Safety of Bimekizumab in Pediatric Study Participants With Active Juvenile Idiopathic Arthritis Subtypes Enthesitis-related Arthritis (Including Juvenile-onset Ankylosing Spondylitis) and Juvenile Psoriatic Arthritis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Enthesitis-related Arthritis",
+        "Juvenile Psoriatic Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bimekizumab"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2028-04-12",
+      "url": "https://clinicaltrials.gov/study/NCT06668181"
+    },
+    {
+      "nct_id": "NCT06287125",
+      "title": "Renal Assessment for Early Detection of Renal Impairment in Systemic Sclerosis and Systemic Lupus Erythematosus Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Systemic Sclerosis and Systemic Lupus Erythematous"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Renal multi-parametric MRI, Renal doppler ultrasound, Serum CD147"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2026-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT06287125"
+    },
+    {
+      "nct_id": "NCT07756671",
+      "title": "Photodynamic Therapy For Onychomycosis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Onychomycosis of Toenail"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ALA 10% gel"
+        },
+        {
+          "type": "DEVICE",
+          "name": "PDT"
+        },
+        {
+          "type": "DRUG",
+          "name": "Urea"
+        }
+      ],
+      "sponsor": "The University of Texas Health Science Center, Houston",
+      "primary_completion": "2027-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07756671"
+    },
+    {
+      "nct_id": "NCT06655896",
+      "title": "Phase 2 Study Evaluating Rapcabtagene Autoleucel in Participants With Diffuse Cutaneous Systemic Sclerosis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Scleroderma, Diffuse"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "rapcabtagene autoleucel"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "rituximab"
+        }
+      ],
+      "sponsor": "Novartis Pharmaceuticals",
+      "primary_completion": "2028-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT06655896"
+    },
+    {
+      "nct_id": "NCT07131410",
+      "title": "Efficacy of Hyaluronic Acid Cream in Preventing Foot Ulceration Risk in Patients With Type 2 Diabetes and Moderate-to-Severe Peripheral Neuropathy: A Randomized Clinical Trial.",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "DIABETES"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Group hialuronyc"
+        }
+      ],
+      "sponsor": "University of Malaga",
+      "primary_completion": "2026-11-15",
+      "url": "https://clinicaltrials.gov/study/NCT07131410"
+    }
+  ],
+  "fetched_at": "2026-09-14T23:51:29.190830"
+}
