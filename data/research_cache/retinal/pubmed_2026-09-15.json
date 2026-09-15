@@ -1,0 +1,209 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42742812",
+      "title": "Peripheral TDP-43 pathology in amyotrophic lateral sclerosis: toward a systemic proteinopathy.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by progressive degeneration of upper and lower motor neurons. Cytoplasmic accumulation of phosphorylated TAR DNA-binding protein 43 (pTDP-43) is the pathological hallmark of most ALS cases. While ALS has traditionally been viewed as a disease confined to the brain, spinal cord and motor nerves, recent studies have reported pTDP-43 pathology in multiple other tissues (skeletal and cardiac muscle, skin, minor salivary glands, gastrointestinal tract and lymph nodes), referred to as peripheral pathology. The detection of pTDP-43 beyond the nervous system suggests that ALS-associated TDP-43 proteinopathy may be more widespread than previously recognized and raises fundamental questions regarding the spatial and temporal landscape of ALS pathology. Peripheral pTDP-43 accumulation may reflect a systemic biological susceptibility affecting multiple tissues, propagation of pathological TDP-43 species between anatomical compartments, or a combination of both mechanisms. While its biological significance is yet to be determined, the presence of pTDP-43 in peripheral tissues broadens the current conceptual framework of ALS. It may also provide new opportunities for pathology-based biomarkers, therapeutic monitoring, and mechanistic studies aimed at understanding disease initiation and progression. However, current evidence is derived from small and methodologically heterogeneous cohorts, and peripheral pTDP-43 pathology is not restricted to ALS, emphasizing the need for larger standardized studies.",
+      "year": "2026",
+      "journal": "Acta neuropathologica",
+      "authors": [
+        "Codron Philippe",
+        "Miranda Marion",
+        "Garnier Maelle",
+        "He Shiyang",
+        "Gouju Julien"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Amyotrophic Lateral Sclerosis",
+        "DNA-Binding Proteins",
+        "TDP-43 Proteinopathies",
+        "Animals"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42742812/"
+    },
+    {
+      "pmid": "42738828",
+      "title": "Liposomal Drug Delivery in Ocular Therapy: Strategies for Enhancing Corneal Penetration and Bioavailability.",
+      "abstract": "Vision impairment affects approximately 2.2 billion people worldwide, with glaucoma, age-related macular degeneration, fungal keratitis, and diabetic retinopathy among the leading causes of preventable blindness. Effective pharmacotherapy remains severely constrained by the eye's multilayered barrier architecture. Tear film, the corneal epithelium, the blood-aqueous barrier, and the blood-retinal barrier collectively restrict conventional topical drug bioavailability to less than 5% of the administered dose. Liposomal drug delivery systems have emerged as a clinically translatable platform capable of overcoming these barriers through targeted surface modification. This review provides a brief introduction to ocular barriers to drug delivery and transport and critically examines numerous surface-modification strategies applied to liposomal carriers to enhance corneal permeation and ocular bioavailability of drugs. It highlights the advantages and disadvantages of each modification strategy, as well as the convergent mechanism of liposomal surface modification in overcoming ocular barriers, and provides a comparative analysis of different surface-modification strategies of liposomes in terms of safety, efficacy and corneal retention. Additionally, it describes challenges associated with liposomal ophthalmic formulations in industrial scaling up. The review also sheds light on some FDA-approved liposomal ophthalmic products, active clinical trials on liposomal formulations, and relevant patents, demonstrating the potential benefits of liposomal drug delivery in the treatment of ocular disorders.",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Mehta Palak",
+        "Moore Erik",
+        "Dash Alekha",
+        "Shukla Surabhi"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Liposomes",
+        "Biological Availability",
+        "Drug Delivery Systems",
+        "Cornea",
+        "Animals",
+        "Administration, Ophthalmic",
+        "Eye Diseases",
+        "Ophthalmic Solutions"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42738828/"
+    },
+    {
+      "pmid": "42736783",
+      "title": "Ophthalmic artery occlusion following local hyaluronic acid injection: A case report.",
+      "abstract": "Ophthalmic artery occlusion (OAO) following hyaluronic acid (HA) injection is a rare but devastating complication of facial aesthetic procedures, often resulting in profound and irreversible visual loss. Due to its rarity and poor prognosis, standardized management of iatrogenic OAO remains limited. To our knowledge, long-term multimodal imaging follow-up of HA-induced OAO with integrated traditional Chinese and Western medicine treatment is rarely documented. Here, we report a case of OAO following nasal root HA injection and describe its clinical manifestations, multimodal imaging findings, and 10-month follow-up outcomes.",
+      "year": "2026",
+      "journal": "Medicine",
+      "authors": [
+        "Xiong Ziqi",
+        "Lv Haiming",
+        "Niu Chunhuan",
+        "Wen Ying",
+        "Gao Yane"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Hyaluronic Acid",
+        "Female",
+        "Middle Aged",
+        "Ophthalmic Artery",
+        "Arterial Occlusive Diseases",
+        "Retinal Artery Occlusion",
+        "Cosmetic Techniques",
+        "Injections",
+        "Blindness"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42736783/"
+    },
+    {
+      "pmid": "42734463",
+      "title": "Application of medical gases in prevention and treatment of electromagnetic radiation injury.",
+      "abstract": "The widespread proliferation of electromagnetic technologies in communications, healthcare, and daily life poses increasing risks of radiation-induced tissue injury. Mitigating these deleterious effects remains a formidable challenge. Recently, medical gases, including molecular hydrogen (H2), hydrogen sulfide (H2S), carbon monoxide (CO), nitric oxide (NO), and hyperbaric oxygen, have emerged as a promising therapeutic modality with radioprotective potential. These gases exert their effects through integrated, anti-inflammatory, anti-apoptotic, and mitochondrial-protective mechanisms. Specifically, the endogenous gasotransmitters (CO, NO, and H2S) modulate precise signaling networks, while the exogenous interventions (H2, and hyperbaric oxygen) function primarily through direct radical scavenging or the induction of hormetic stress responses. This review evaluates the research progress of these five medical gases in preventing and treating injuries across the electromagnetic spectrum. H2 possesses the broadest evidence base, particularly in radiofrequency and ultraviolet protection. H2S and CO demonstrate potent efficacy in addressing ultraviolet-induced skin and retinal damage. NO plays a dual role as both a cytoprotectant and a mediator of bystander effect propagation. Hyperbaric oxygen enhances systemic resilience through preconditioning. Delivery strategies have evolved from conventional inhalation and oral administration toward smart nanocarriers and stimuli-responsive donor systems. However, these platforms still face challenges in spatiotemporal control and long-term safety. Furthermore, broader limitations, including an uneven research distribution across electromagnetic wavebands, a scarcity of clinical trials, and the lack of non-invasive methods for real-time gas concentration monitoring, are comprehensively discussed.",
+      "year": "2027",
+      "journal": "Medical gas research",
+      "authors": [
+        "Xing Yun",
+        "Chen Fengxu",
+        "Liu Gonggeng",
+        "Bao Shijun",
+        "Zhang Xujian"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Radiation Injuries",
+        "Electromagnetic Radiation",
+        "Hydrogen Sulfide",
+        "Gases",
+        "Carbon Monoxide",
+        "Hyperbaric Oxygenation",
+        "Nitric Oxide",
+        "Hydrogen"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734463/"
+    },
+    {
+      "pmid": "42714580",
+      "title": "One-year real-world data of intravitreal faricimab in patients with pre-treated neovascular age-related macular degeneration.",
+      "abstract": "To assess one-year real-world outcomes of faricimab therapy in patients with neovascular age-related macular degeneration (nAMD) previously treated with anti-VEGF agents and managed using a treat-and-extend (TAE) regimen.",
+      "year": "2026",
+      "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+      "authors": [
+        "Hoffmann Sebastian",
+        "Liegl Constance",
+        "Stasik Isabel",
+        "Holz Frank G",
+        "Liegl Raffael"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42714580/"
+    },
+    {
+      "pmid": "42710781",
+      "title": "Clinical features, retinal detachment (RD) rates, and RD prophylaxis in patients with genetically confirmed Knobloch Syndrome, a U.S.-based multi-center study.",
+      "abstract": "Knobloch syndrome is a rare autosomal recessive condition characterized by lack of functional collagen type XVIII (COL18A1), occipital defects, high myopia, and vitreoretinal degeneration. Clinical features, retinal detachment (RD) rates, and role of prophylactic treatment are not well established. The purpose is to 1) report clinical/systemic features, 2) RD rates and 3) the role of prophylactic treatment in a U.S.-based genetically confirmed cohort.",
+      "year": "2026",
+      "journal": "Ophthalmology. Retina",
+      "authors": [
+        "Rao Prethy",
+        "Chang Emmanuel",
+        "Spoth Emily",
+        "Santos da Cruz Natasha Ferreira",
+        "Berrocal Audina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710781/"
+    },
+    {
+      "pmid": "42707082",
+      "title": "Irreversible vision loss following split lateral rectus nasal transposition for complete oculomotor nerve palsy.",
+      "abstract": "To report a rare case of irreversible vision loss following nasal transposition of the split lateral rectus muscle (NTSLR) in a patient with complete oculomotor nerve palsy (ONP) and outline its clinical implications.",
+      "year": "2026",
+      "journal": "American journal of ophthalmology case reports",
+      "authors": [
+        "Komori Miwa",
+        "Sato Miho",
+        "Arakawa Akari",
+        "Kaneko Hiroki",
+        "Hikoya Akiko"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42707082/"
+    },
+    {
+      "pmid": "42703705",
+      "title": "Cilioretinal-Sparing Central Retinal Artery Occlusion in a Child with Adenosine Deaminase 2 (ADA2) Deficiency.",
+      "abstract": "To report cilioretinal-sparing central retinal artery occlusion (CRAO) in a child with adenosine deaminase 2 (ADA2) deficiency and polyarteritis nodosa-like systemic vasculitis.",
+      "year": "2026",
+      "journal": "Ocular immunology and inflammation",
+      "authors": [
+        "Sharma Arpit",
+        "Rajan Renu P",
+        "V Muthukrishnan",
+        "Kannan Naresh B",
+        "Ramasamy Kim"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42703705/"
+    },
+    {
+      "pmid": "42702847",
+      "title": "Ocular Events Temporally Associated With Minoxidil: A Structured Review.",
+      "abstract": "Minoxidil is widely used in topical form for androgenetic alopecia and is increasingly prescribed orally for hair disorders. Although cardiovascular and dermatologic adverse effects are well recognized, ocular complications associated with minoxidil exposure remain poorly characterized in the dermatologic literature. We conducted a structured review of published papers describing ocular adverse events temporally associated with oral or topical minoxidil (TM) use, following PRISMA guidelines. Twelve papers were identified, with a mean patient age of 33 years and predominance of male patients (83%). Exposure involved TM in 75% of cases, oral minoxidil in 8%, and combined use in 17%. Central serous chorioretinopathy was the most frequently reported event (58%), followed by retinal vascular occlusion (17%), nonarteritic anterior ischemic optic neuropathy (8%), ocular hypertension (8%), and transient optic nerve-associated visual disturbance (8%). Diagnostic confirmation was reported in all cases (100%). Discontinuation of minoxidil occurred in most cases (92%) and was frequently associated with clinical or anatomic improvement (83%); however, causality remained uncertain based on WHO-UMC and modified Naranjo assessments, with most cases categorized as possible adverse drug reactions. These findings highlight a rare but clinically relevant spectrum of ocular events temporally associated with minoxidil use. Clinicians should counsel patients to report new visual symptoms and consider ophthalmologic evaluation when indicated. Larger pharmacovigilance and observational studies are needed to better define incidence and underlying mechanisms.",
+      "year": "2026",
+      "journal": "Journal of cutaneous medicine and surgery",
+      "authors": [
+        "Akiska Yagiz Matthew",
+        "Boginskaya Olga",
+        "Mumtaz Aisha",
+        "Sibbald Cathryn",
+        "Ali Asim"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42702847/"
+    },
+    {
+      "pmid": "42701144",
+      "title": "Culture media alter retinal organoid physiology promoting AAV transduction and retinal ganglion cell survival.",
+      "abstract": "Human iPSC-derived retinal organoids offer a human-relevant platform for inherited retinal disease (IRD) gene therapy, yet robust AAV transduction in vitro remains challenging. Here we show that culture in BrainPhys™ (BP) medium markedly enhances AAV-mediated gene delivery. Brief BP exposure during the transduction window improves uptake, whereas continuous BP culture yields the strongest effects, indicating contributions from acute entry processes and longer-term cellular remodelling. Quantitative proteomics reveal coordinated upregulation of viral entry and trafficking mediators, including integrins that form αVβ5, and the trans-Golgi entry factor GPR108, together with enrichment of endosomal/ER-Golgi transport proteins, providing a mechanistic basis for enhanced vector processing. BP concurrently promotes neuronal maturation and metabolism, with pronounced increases in neurotrophic and synaptic proteins and broad enhancement of oxidative phosphorylation components. Functional calcium imaging demonstrates comparable neuronal dynamics across conditions but reveals robust, recurrent network-level bursts under BP, consistent with strengthened connectivity. BP also preserves retinal ganglion cells and maintains expression of canonical markers, aligning with a BDNF-centred interactome and improved circuit integration. Collectively, these findings identify the culture environment as a critical determinant of AAV efficacy in human retinal tissue models and position BP as a simple, scalable strategy to reduce vector requirements, enhance retinal cells targeting, and increase the fidelity of organoid-based non-animal testing for IRD gene therapy development.",
+      "year": "2026",
+      "journal": "Gene therapy",
+      "authors": [
+        "O'Hara-Wright Michelle",
+        "Lim Benjamin Y",
+        "M Mangala Melissa",
+        "Kaiser Vivienne",
+        "Wong Emilie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42701144/"
+    }
+  ],
+  "crawled_at": "2026-09-15T23:29:01.502971",
+  "source": "pubmed"
+}
