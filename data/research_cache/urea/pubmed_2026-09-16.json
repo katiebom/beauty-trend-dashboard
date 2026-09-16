@@ -1,0 +1,182 @@
+{
+  "ingredient_id": "urea",
+  "name_en": "Urea",
+  "name_kr": "우레아",
+  "category": "hydration",
+  "query": "\"Urea\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42746486",
+      "title": "Experimental evaluation of ",
+      "abstract": "Chemotherapy remains a cornerstone of cancer treatment; however, its clinical use is frequently limited by treatment-associated toxicities. This has prompted investigation into alternative adjuvant substances. ",
+      "year": "2026",
+      "journal": "Experimental and therapeutic medicine",
+      "authors": [
+        "Huber Isabella Morais Tavares",
+        "Lourenço Emerson Luiz Botelho",
+        "Bellettini Salviano Tramontin",
+        "Donadel Guilherme",
+        "Matumoto João Francisco Velasquez"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42746486/"
+    },
+    {
+      "pmid": "42745438",
+      "title": "Extraction-dependent changes in immunoglobulin E binding profiles of processed lesser mealworm (Alphitobius diaperinus) proteins.",
+      "abstract": "Alphitobius diaperinus, the lesser mealworm, is an edible insect considered safe for human consumption; however, its proteins show documented cross-reactivity with crustacean and house dust mite (HDM) allergens, raising potential concerns for allergic populations. In this study, different lesser mealworm materials were extracted using three protein extraction protocols to evaluate how methodological choices and food processing treatments influence immunoglobulin E (IgE)-binding profiles.",
+      "year": "2026",
+      "journal": "Journal of the science of food and agriculture",
+      "authors": [
+        "Epstein Michelle M",
+        "Mafra Isabel",
+        "Teixeira Carla Ss",
+        "Carriço-Sá Bruno",
+        "Mettinger Anna-Laura"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42745438/"
+    },
+    {
+      "pmid": "42741161",
+      "title": "Milk-based multi-omics reveals distinct quality signatures associated with Astragalus polysaccharide supplementation in late lactation goats.",
+      "abstract": "Late lactation is frequently accompanied by changes in goat milk composition and volatile-related quality, which may reduce its commercial value. This study investigated whether Astragalus polysaccharide (APS), a plant-derived bioactive polysaccharide from ",
+      "year": "2026",
+      "journal": "Food chemistry: X",
+      "authors": [
+        "Han Shanshan",
+        "Wang Peng",
+        "Hu Yunhong",
+        "Zhang Qiang",
+        "Wan Ke"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741161/"
+    },
+    {
+      "pmid": "42723799",
+      "title": "Oral dysbiosis in children with renal failure: a systematic review.",
+      "abstract": "The oral microbiome plays an important role in maintaining host homeostasis and may interact with systemic diseases through the oral-systemic axis. Chronic kidney disease (CKD) in childhood is associated with chronic inflammation, metabolic alterations, and immune dysfunction, which may influence microbial ecosystems. While intestinal dysbiosis has been widely studied in paediatric CKD, alterations in the oral microbiome remain less well understood. The aim of this study was to qualitatively synthesize evidence on oral microbiome alterations in children and adolescents with CKD compared with systemically healthy controls.",
+      "year": "2026",
+      "journal": "Frontiers in dental medicine",
+      "authors": [
+        "Ruiz-Roca Juan Antonio",
+        "Pecci-Lloret María Pilar",
+        "Romano Antonio",
+        "Carinci Francesco",
+        "Lauritano Dorina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42723799/"
+    },
+    {
+      "pmid": "42698394",
+      "title": "Efficacy and safety of traditional Chinese medicine herbal hand-foot bath combined with arnebia oil for chemotherapy-induced hand-foot syndrome refractory to standard treatment: a single-arm prospective interventional pilot study of 30 cases.",
+      "abstract": "Chemotherapy-induced hand-foot syndrome (HFS) is a common dose-limiting cutaneous adverse reaction associated with cytotoxic agents such as capecitabine and small-molecule targeted drugs. Severe HFS may lead to dose reduction or interruption of antitumor treatment, significantly impairing patients' quality of life and treatment compliance. Current standard treatments (urea ointment, vitamin B6, topical corticosteroids, etc.) show limited efficacy for some patients with moderate-to-severe HFS, creating an urgent clinical need for additional supportive interventions.",
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Chen Ying",
+        "Jin Yuqi",
+        "Fu Linglin",
+        "Song Ping",
+        "Shao Ziyan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42698394/"
+    },
+    {
+      "pmid": "42687270",
+      "title": "Wearable Colorimetric Microfluidic Sensor Integrated with Localized Unidirectional Sweat-Wicking Nanofiber Membrane for Multianalyte Sweat Analysis.",
+      "abstract": "Wearable sweat sensors have emerged as promising platforms for noninvasive health monitoring; however, inefficient sweat collection and uncontrolled fluid transport remain major challenges that limit their practical application. Here, we report a wearable colorimetric microfluidic sweat sensor integrated with a localized Janus TPU nanofiber membrane (CMS-LJNM) that enables efficient sweat collection and directional transport. The Janus membrane, featuring patterned hydrophilic-hydrophobic regions, facilitates passive and rapid unidirectional sweat transport from the skin surface to the microfluidic chip while suppressing lateral spreading. The flexible microfluidic chip incorporates capillary burst valves to precisely regulate sweat flow and prevent cross-contamination between sensing chambers. The device integrates multiple colorimetric sensing units for the simultaneous quantification of key sweat biomarkers, including glucose, urea, chloride ions, and pH, requiring only 2 μL of sweat for complete analysis. All sensing units exhibited good linearity within physiological concentration ranges and excellent anti-interference performance, and the results could be conveniently quantified through smartphone-based image analysis. On-body tests involving six volunteers demonstrated reliable sweat collection and detection, with results showing strong agreement with conventional analytical methods. This work provides a promising strategy integrating efficient directional sweat transport with precise microfluidic-based multianalyte detection, facilitating practical sports monitoring and sweat-based physiological analysis.",
+      "year": "2026",
+      "journal": "ACS sensors",
+      "authors": [
+        "Lan Wei",
+        "Qiu Yue",
+        "Ye Yongzi",
+        "Chen Yuning",
+        "Chen Xinyu"
+      ],
+      "mesh_terms": [
+        "Sweat",
+        "Colorimetry",
+        "Humans",
+        "Nanofibers",
+        "Wearable Electronic Devices",
+        "Lab-On-A-Chip Devices",
+        "Microfluidic Analytical Techniques",
+        "Biosensing Techniques",
+        "Glucose",
+        "Urea"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687270/"
+    },
+    {
+      "pmid": "42671867",
+      "title": "Topical Recombinant Human Epidermal Growth Factor (rhEGF) gel plus urea ointment in the management of capecitabine-induced hand-foot syndrome: A case series with literature review.",
+      "abstract": "IntroductionCapecitabine-induced hand-foot syndrome (HFS) is a frequent and clinically relevant toxicity that may impair quality of life and lead to chemotherapy dose reduction or interruption. This study aimed to evaluate the effectiveness, safety, and clinical predictors of response to topical recombinant human epidermal growth factor (rhEGF) gel combined with urea ointment in patients with capecitabine-induced HFS.MethodsThis retrospective case series included a total of 83 patients with colorectal adenocarcinoma who developed Grade II-III capecitabine-induced HFS and received topical rhEGF gel plus urea ointment between January 2022 and December 2025.ResultsThe median age was 61 years, and 49 patients (59.0%) were male. At baseline, 48 patients (57.8%) had Grade II HFS and 35 (42.2%) had Grade III HFS. After 3 weeks of treatment, 67 patients (80.7%) achieved at least a one-grade reduction in HFS severity. The median HFS grade significantly decreased after treatment (Wilcoxon, signed-rank, p < 0.001), with no cases of worsening. Improvements were observed in pain (70/70 affected patients; 100.0%), erythema (73/76; 96.1%), desquamation (60/60; 100.0%), and ulceration (18/24; 75.0% among affected patients). The median time to first documented improvement was 10 days. In an exploratory adjusted model, early treatment initiation within 7 days was associated with higher odds of response, whereas baseline Grade III HFS was associated with lower odds of response. No serious adverse events considered related to treatment were documented.ConclusionsTopical rhEGF gel plus urea ointment was associated with rapid, well-tolerated improvement in capecitabine-induced HFS.",
+      "year": "2026",
+      "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+      "authors": [
+        "Zhou Jianjun",
+        "Chen Ruoxi",
+        "Shi Deen",
+        "Wang Jiaqi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42671867/"
+    },
+    {
+      "pmid": "42657370",
+      "title": "Topical regimens for the management of uremic pruritus.",
+      "abstract": "Uremic pruritus (UP), also known as chronic kidney disease-associated pruritus, is a distressing condition affecting patients with end-stage renal disease. Characterized by persistent itching, it significantly impacts patients' quality of life, leading to sleep disturbances, emotional distress, and decreased overall well-being. Although the exact pathophysiology remains uncertain, immune dysregulation, reduced stratum corneum hydration, and altered neurogenic inflammation contribute to UP. Consequently, treating UP poses a significant challenge. Among therapeutic regimens, topical regimens have been shown to effectively alleviate UP. Various topical formulations, including urea-based, physiological lipids, natural oils, capsaicin, anesthetics and glycerin-containing emollients, have demonstrated benefits in amelioration of pruritic symptoms. Clinical studies suggest that consistent application of emollients can minimize skin dryness and relieve pruritus. This review summarizes key clinical findings on the topical therapeutic regimens for UP.",
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Zhu Tingting",
+        "Fang Fumin",
+        "Lei Dongyun",
+        "Zhang Guoqiang",
+        "Man Mao-Qiang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42657370/"
+    },
+    {
+      "pmid": "42656939",
+      "title": "Allopurinol-Induced Drug Reaction With Eosinophilia and Systemic Symptoms (DRESS) Syndrome: A Case Report and Review of the Published Evidence From India.",
+      "abstract": "We report a case of allopurinol-induced drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome in a 58-year-old hypertensive female who developed generalized erythematous, pruritic skin lesions approximately 35 days after initiating allopurinol (100 mg twice daily) for a provisional diagnosis of gout. Dermatological examination revealed diffuse erythematous to hyperpigmented scaly plaques involving the face, trunk, groin, buttocks, and extremities. Laboratory investigations demonstrated marked eosinophilia (30%; absolute eosinophil count of 880 cells/mm³), persistent leukocytosis, transient thrombocytopenia (140,000/mm³), acute kidney injury with elevated blood urea (102-116 mg/dL) and serum creatinine (1.8-3.8 mg/dL), and hepatic dysfunction with elevated alanine aminotransferase (130 IU/L) and alkaline phosphatase (179 U/L). Infectious and autoimmune causes were excluded, and a RegiSCAR score of 7 established a definite diagnosis of DRESS syndrome. Allopurinol was immediately discontinued, and the patient was treated with intravenous hydration, systemic corticosteroids, antihistamines, and supportive care, followed by a gradual tapering of prednisolone. The patient showed complete clinical recovery without recurrence. This case highlights the importance of early recognition of allopurinol-induced DRESS syndrome, prompt withdrawal of the offending drug, timely initiation of systemic corticosteroid therapy, and close monitoring of renal and hepatic involvement to achieve favorable clinical outcomes. It also underscores the value of pharmacovigilance and adverse drug reaction reporting in improving medication safety.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Shinde Anjali",
+        "Thorat Vandana M",
+        "Jamale Varsha",
+        "Gaikwad Smita D",
+        "Panda Bijoy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42656939/"
+    },
+    {
+      "pmid": "42646220",
+      "title": "A Functional TGF-β/Smad Assay for Targeted Profiling of Demineralized Bone Matrix-Derived Allograft Bioactivity.",
+      "abstract": "Demineralized bone matrix (DBM)-derived allografts retain extracellular matrix (ECM)-associated factors involved in bone repair, but biochemical protein recovery alone may not predict functional pathway activation. We evaluated the HEK-Blue™ TGF-β Reporter Assay as a targeted method for assessing Smad-dependent reporter activity in DBM-derived materials. ECM proteins were extracted from cortical demineralized bone granules (DBG) using guanidine hydrochloride (GuHCl) or urea and quantified after extraction, dialysis, and sterile filtration. Reporter cells were stimulated with extracted ECM proteins or directly with processed cortical and cancellous products, including DBG, wet heat-treated DBG formulated as Putty (PHT), and gamma-irradiated PHT (PGI). Non-pooled DBM sponge samples were also tested. Secreted embryonic alkaline phosphatase (SEAP) activity served as the functional reporter readout. Material-only no-cell controls assessed material-derived background. PrestoBlue™ readouts served as exploratory quality controls. The urea-derived extract yielded a higher apparent BCA-detectable protein concentration than the GuHCl-derived extract. Only the GuHCl-derived extract induced increasing SEAP activity at matched protein input. Direct stimulation showed reporter activation above the TNF-α pathway-negative cytokine control for cortical DBG, PHT, PGI, and cancellous DBG. DBM sponges also induced detectable SEAP activity. These findings support targeted functional screening of Smad-dependent TGF-β reporter activation in DBM-derived materials, but not total osteoinductivity assessment.",
+      "year": "2026",
+      "journal": "Journal of functional biomaterials",
+      "authors": [
+        "Lendvai Adrian",
+        "Weichhart Tobias",
+        "Weitzenböck Hans Peter",
+        "Wiesner Christoph",
+        "Seeboeck Rita"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42646220/"
+    }
+  ],
+  "crawled_at": "2026-09-16T23:35:32.122390",
+  "source": "pubmed"
+}

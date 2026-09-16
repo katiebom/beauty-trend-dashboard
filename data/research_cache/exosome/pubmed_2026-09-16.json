@@ -1,0 +1,186 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42738686",
+      "title": "Delivery of Anti-VEGFA Antibody by Plant-Derived Exosome-like Nanovesicles Alleviates Corneal Angiogenesis and Fibrosis via Topical Ocular Administration.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Chen Xuan",
+        "Li Qian",
+        "Cui Hong-Ping"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Corneal Neovascularization",
+        "Mice",
+        "Vascular Endothelial Growth Factor A",
+        "Exosomes",
+        "Fibrosis",
+        "Administration, Ophthalmic",
+        "Humans",
+        "Antibodies",
+        "Angiogenesis Inhibitors"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42738686/"
+    },
+    {
+      "pmid": "42738352",
+      "title": "Proteoglycans as Regulators of Receptor Trafficking and Spatial Signaling in Cancer.",
+      "abstract": "Cellular responses depend on the coordinated regulation of receptor activation, trafficking, and signaling across distinct membrane and intracellular compartments. Proteoglycans (PGs), traditionally regarded as structural components of the extracellular matrix and co-receptors, are now emerging as active organizers of receptor dynamics. This review examines the mechanisms through which PGs regulate receptor trafficking and spatial signaling in cancer. Recent studies addressing the roles of proteoglycans in receptor clustering, endocytic pathway selection, intracellular trafficking, recycling, lysosomal degradation, endosomal signaling, exosome biogenesis, and nuclear receptor transport were evaluated, with particular attention to the strength of direct evidence for trafficking. Particular attention was given to the complementary functions of proteoglycan core proteins, glycosaminoglycan chains, and extracellular matrix remodeling in shaping receptor behavior. Current evidence demonstrates that proteoglycans govern multiple stages of receptor biology by controlling ligand presentation, receptor accessibility, membrane organization, intracellular trafficking, and signaling persistence. Individual proteoglycans exert distinct effects on receptor fate, ranging from receptor downregulation and degradation to sustained endosomal signaling and nuclear receptor translocation. Cancer-associated alterations in proteoglycan expression, glycosaminoglycan sulfation, heparanase activity, ectodomain shedding, and glycocalyx organization remodel signaling networks, strengthen communication between tumor and stromal cells, and promote tumor progression, immune modulation, metastasis, and therapeutic resistance. Proteoglycans have emerged as fundamental regulators of receptor trafficking and signaling architecture. Through the integration of extracellular matrix organization with receptor dynamics, they shape the spatial and temporal properties of oncogenic signaling. This conceptual framework broadens our understanding of tumor biology and identifies proteoglycan-dependent regulation of receptor trafficking as a promising avenue for future therapeutic intervention.",
+      "year": "2026",
+      "journal": "Cancers",
+      "authors": [
+        "Berdiaki Aikaterini",
+        "Konstantaraki Maria",
+        "Ajlan Zuha",
+        "Marmara Maria",
+        "Tsatsakis Aristidis"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42738352/"
+    },
+    {
+      "pmid": "42734780",
+      "title": "Mesenchymal Stem Cell Therapy for Systemic Sclerosis: Current Evidence and Clinical Applications.",
+      "abstract": "Systemic sclerosis is a multisystem autoimmune disease characterized by immune dysfunction, vasculopathy, and progressive fibrosis, yet current therapies rarely address these pathogenic axes simultaneously. Mesenchymal stem cell therapy has gained increasing interest as a disease-modifying strategy because its therapeutic activity appears to depend largely on paracrine signaling rather than durable engraftment. Through these mechanisms, mesenchymal stem cells may suppress profibrotic fibroblast activation, recalibrate innate and adaptive immune responses, and enhance vascular repair. Cell-free approaches, particularly extracellular vesicles and exosome-based therapeutics, are further expanding the translational potential of this field by offering scalable alternatives to live cell administration. Early clinical studies of systemic infusion and local delivery for complications such as hand dysfunction (reduced grip strength, joint contracture, and impaired fine motor function) and digital vasculopathy have demonstrated feasibility, acceptable short-term safety, and encouraging signals in skin and vascular outcomes. Nevertheless, long term clinical benefit remains uncertain because published studies are few and heterogeneous in cell source, manufacturing and expansion protocols, dose, route, concomitant therapy, and endpoint selection. Progress in this area will require standardized potency frameworks, improved control of senescence and functional drift, phenotype-specific trial stratification, and harmonized outcome hierarchies across vascular and cutaneous domains. Integration of immune and vascular biomarkers as pharmacodynamic readouts, together with multicenter randomized controlled trials and long-term follow-up, will be essential for defining efficacy and advancing targeted cell-free therapeutic platforms in systemic sclerosis.",
+      "year": "2026",
+      "journal": "Stem cell reviews and reports",
+      "authors": [
+        "Habiba Umm E",
+        "Sarwar Iqra",
+        "Greene David Lawrence",
+        "Shamim Sabiha",
+        "Haider Ammar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734780/"
+    },
+    {
+      "pmid": "42734212",
+      "title": "Circulating Exosomes Drive Persistent Neuronal Dysfunction in Post-Herpetic Neuralgia Patients.",
+      "abstract": "Post-herpetic neuralgia (PHN) is a debilitating chronic pain condition persisting beyond 3 months after herpes zoster (HZ), yet the mechanisms driving the transition from acute viral injury to chronic neuropathic pain remain poorly characterized. We tested whether circulating exosomes are sufficient to drive sensory neuron dysfunction independent of direct varicella zoster virus infection.",
+      "year": "2026",
+      "journal": "Annals of neurology",
+      "authors": [
+        "Niemeyer Christy S",
+        "Frietze Seth",
+        "Lewis Serena W R",
+        "Artman Emily C",
+        "Coughlan Christina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734212/"
+    },
+    {
+      "pmid": "42733753",
+      "title": "Skin organoid-derived exosomes in a hydrogel system potentiate skin wound healing.",
+      "abstract": "Skin wounds, whether acute or chronic, remain a major clinical challenge due to their complex healing processes involving inflammation, angiogenesis, and tissue remodeling. While stem cell-derived exosomes offer a promising cell-free therapeutic approach, their clinical translation is limited by rapid clearance and insufficient tissue-specificity. In this study, we developed a novel strategy by integrating exosomes derived from skin organoids (SKO-Exo)-which mimic native skin heterogeneity-into a hydrogel-based sustained-release system (Exo-Gel) to enhance wound healing. Skin organoids were generated from human embryonic stem cells, and exosomes were isolated and characterized, revealing typical cup-shaped morphology and exosomal markers. The hydrogel, composed of polyvinyl alcohol/gelatin/boric acid, exhibited excellent self-healing, adhesion, and sustained exosome release with an initial burst. In vitro, SKO-Exo-loaded hydrogel (SKOexo-Gel) significantly promoted endothelial cell proliferation, migration, and tube formation, as well as fibroblast collagen III secretion, outperforming exosomes from 3D keratinocytes (KC-Exo). In a rat full-thickness wound model, SKOexo-Gel accelerated wound closure, enhanced angiogenesis, and increased collagen III deposition. miRNA sequencing identified Hsa-miR-125b-5p as a prominent SKO-Exo-enriched miRNA that activates the Wnt/β-catenin pathway to drive angiogenesis, validated by functional assays. These findings demonstrate that skin organoid-derived exosomes in a hydrogel system synergistically promote wound healing through tissue-specific cues, offering a next-generation therapy for refractory wounds.",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Yang Tao",
+        "Zheng Wen",
+        "Li Yue",
+        "Li Yingshi",
+        "Wang Zhuxian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42733753/"
+    },
+    {
+      "pmid": "42731396",
+      "title": "Calpeptin and protein kinase C inhibition suppress exosome-associated inflammatory signaling and epidermal dysregulation in a 3-dimensional psoriatic skin model.",
+      "abstract": "Psoriasis is a chronic inflammatory skin disorder characterized by dysregulated cytokine signaling and keratinocyte hyperproliferation, in which extracellular vesicles, particularly exosomes, play key roles in mediating intercellular inflammatory communication. In this study, we evaluated the pharmacological effects of calpeptin and bisindolylmaleimide I (BIM-I), inhibitors of calpain and protein kinase C previously reported to modulate extracellular vesicle-associated pathways, in a 3-dimensional human psoriatic skin model. Both inhibitors significantly reduced the expression of proinflammatory cytokines, keratinocyte activation marker, and exosome-related marker, including interleukin (IL)-1β, tumor necrosis factor-α, IL-8, interferon gamma, IL-21, IL-20, CC chemokine ligand-20, keratin 6A, CD9, and CD63, consistent with attenuation of psoriasis-associated inflammatory signaling. BIM-I additionally suppressed IL-22 and IL-6 expression and restored epidermal ultrastructural features, including desmosome density, to levels comparable with normal skin. Integrated proteomic and immunohistochemical analyses revealed distinct downstream biological responses associated with modulation of exosome-associated markers and pathways. Calpeptin treatment was associated with enrichment of endoplasmic reticulum stress-related pathways, as indicated by increased growth arrest and DNA damage-inducible protein 153 and glucose-regulated protein 78 expression, whereas BIM-I preferentially regulated cytoskeletal organization and keratinocyte differentiation, accompanied by reduced expression of growth arrest and DNA damage-inducible protein 153, glucose-regulated protein 78, and keratin 16. Collectively, these findings demonstrate that pharmacological inhibition of calpain and protein kinase C attenuates psoriatic inflammation and epidermal dysregulation and is associated with modulation of exosome-associated markers and pathways, together with differential regulation of endoplasmic reticulum stress and cytoskeletal networks. SIGNIFICANCE STATEMENT: This study demonstrates that pharmacological inhibition of calpain and protein kinase C attenuates inflammatory signaling and keratinocyte activation in a 3-dimensional psoriatic skin model, highlighting exosome-associated pathways as key regulators of disease pathology. Distinct mechanisms involving endoplasmic reticulum stress modulation and cytoskeletal regulation provide insight into how targeting vesicle-mediated intercellular communication may offer therapeutic potential in psoriasis.",
+      "year": "2026",
+      "journal": "The Journal of pharmacology and experimental therapeutics",
+      "authors": [
+        "Fongsodsri Kamonpan",
+        "Somkaew Wasarat",
+        "Aramwit Pornanong",
+        "Reamtong Onrapak",
+        "Thiangtrongjit Tipparat"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42731396/"
+    },
+    {
+      "pmid": "42714753",
+      "title": "From bacterial to microbiome-derived vesicles: genome-informed identity, source qualification, and translational quality for skin-directed cosmetics.",
+      "abstract": "Bacterial extracellular vesicles (BEVs) are increasingly proposed as materials for skin-directed cosmetics, yet rapid adoption of \"exosome\" terminology has outpaced clarity on their origin, composition, and manufacturing quality. This review argues that the value of BEVs depends on scientific discipline rather than marketing appeal, and that they are promising because they are biologically potent, not because they are intrinsically benign. We retain BEVs as the scientific umbrella term for vesicles released by bacteria and we propose the term microbiome-derived vesicles (MDVs) as the consumer-facing designation for qualified commensal BEVs - a surface term that avoids the difficulty of \"bacterial\" while its definition preserves bacterial provenance. We develop a three-axis framework for BEV identity that integrates compositional analysis, producer-strain genomics, and functional or safety profiling, and we position whole-genome sequencing (WGS) as decisive for source qualification and mechanistic interpretation but insufficient to prove the efficacy of a purified preparation. Building on this framework, we summarize isolation, purification, and analytical characterization requirements; interpret current skin-efficacy evidence in light of its methodological limits; and discuss formulation, cosmetic application, regulatory positioning, and manufacturable quality. We conclude that transparent bacterial provenance, reproducible preparation, and evidence proportionate to the claims made are prerequisites for evaluating commensal BEVs, described for skin applications as MDVs, as a scientifically defined cosmetic platform.",
+      "year": "2026",
+      "journal": "Genes & genomics",
+      "authors": [
+        "Pak Hyewon",
+        "Park Taeyoon",
+        "Ho Myoung Jin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42714753/"
+    },
+    {
+      "pmid": "42713281",
+      "title": "Application of stem cell-derived exosomes in skin wound healing: mechanisms, prospects, and challenges.",
+      "abstract": "As the largest organ of the human body, the skin is essential for maintaining systemic homeostasis; however, it remains highly susceptible to injury and wound formation, posing a significant clinical and economic burden. Wound healing is a complex, tightly coordinated process that progresses through overlapping phases of hemostasis, inflammation, proliferation, and tissue remodeling. Exosomes, nanoscale extracellular vesicles (50-150 nm in diameter) secreted by various cell types, have emerged as critical mediators of intercellular communication. Laden with bioactive molecules such as proteins, RNAs, and lipids, exosomes can partially replicate the regenerative functions of their parent cells. Among various types of exosomes, mesenchymal stem cell-derived exosomes (MSC-Exos) have become the most clinically translatable research direction in the field of skin wound repair due to their biological functions similar to those of their parent stem cells, low immunogenicity, and advantages as a cell-free therapy. This review focuses on MSC-Exos and systematically summarizes the roles and underlying mechanisms of adipose-derived stem cell exosomes, bone marrow mesenchymal stem cell exosomes, human umbilical cord mesenchymal stem cell exosomes, antler stem cell exosomes, human urine-derived stem cell exosomes, and induced pluripotent stem cell exosomes in cutaneous wound repair. Additionally, to broaden the diversity of therapeutic sources, plant-derived exosome-like nanovesicles are also discussed as an emerging perspective. Current evidence indicates that these vesicles facilitate wound healing and attenuate scarring by modulating multiple signaling pathways, thereby promoting cell proliferation, migration, angiogenesis, and extracellular matrix remodeling. Nevertheless, challenges in isolation, purification, optimization, standardization, and quality control continue to hinder their broad clinical translation. Despite these obstacles, exosomes represent a promising therapeutic strategy for cutaneous wound healing.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Li Yihang",
+        "Zheng Fuhong",
+        "Bai Yajuan",
+        "Yu Yang",
+        "Zhang Ran"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Wound Healing",
+        "Mesenchymal Stem Cells",
+        "Skin",
+        "Animals"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42713281/"
+    },
+    {
+      "pmid": "42701667",
+      "title": "An adhesive hydrogel enabling spatiotemporal delivery of umbilical cord exosomes for scarless skin regeneration through immunomodulation and ECM remodeling.",
+      "abstract": "The regenerative repair of full-thickness skin defects remains a formidable clinical challenge, often culminating in pathological scarring because conventional dressings lack the functionality to balance robust adhesion with mechanical compliance and actively direct tissue regeneration. To address this, we propose an adhesive dual-network hydrogel (GelMA-PBA/HANB/HepMA) via the synergistic integration of dynamic boronic ester bonds and photo-triggered imine crosslinking, while serving as a smart depot for sustained delivery of umbilical cord-derived exosomes (uExos). This system orchestrates a pro-regenerative niche by polarizing macrophages to a pro-healing phenotype and enhancing endothelial angiogenesis, thereby accelerating wound closure and re-epithelialization in a mouse full-thickness defect model. Crucially, in a rigorous rabbit ear hypertrophic scar model, treatment significantly reduces the Scar Elevation Index (SEI) and restores a physiological collagen architecture, evidenced by an increased Col III/I ratio and reduced bulge angle. Importantly, uExos promote scarless healing involved in extracellular matrix remodeling and balanced collagen deposition. By strategically combining smart adhesive materials with cell-free exosome therapy, this study offers a promising strategy for regenerative wound healing and scar prevention.",
+      "year": "2027",
+      "journal": "Bioactive materials",
+      "authors": [
+        "Zhang Yiqiu",
+        "Xie Jia",
+        "Li Jianghan",
+        "Li Fupeng",
+        "Ci Zheng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42701667/"
+    },
+    {
+      "pmid": "42700619",
+      "title": "Preparation of oxygen-filled adipose-derived stem cells exosome-nanobubbles gel for ultrasound-assisted full-thickness wound healing in rats.",
+      "abstract": "Effective wound healing is often hindered by hypoxia, inflammation, and impaired angiogenesis. Although mesenchymal stem cell (MSC)-based therapies have shown potential, their clinical application remains limited. As a result, MSC-derived exosomes, particularly adipose-derived stem cell exosomes (ADSC-Exos), have been proposed as a cell-free alternative; however, they still face limitations, including suboptimal efficiency in targeted delivery. To address these critical obstacles in existing regenerative therapies, we isolated ADSC-Exos from adipose tissue and fabricated a novel ultrasound-responsive, carbomer-based hydrogel incorporating oxygen-enriched ADSC-Exo nanobubbles (Gel-Exo-NB+US). The preclinical wound-healing potential of the developed nanohydrogel was evaluated using a full-thickness wound model in Wistar rats. The engineered hydrogel exhibited favorable physicochemical properties, including shear-thinning and thixotropic behavior, enabling efficient topical application and enhanced tissue adhesion. In a rat full-thickness skin defect model, the combined Gel-Exo-NB and Gel-Exo-NB + US treatments achieved the highest wound-closure rate among all groups, with enhanced re-epithelialization, a reduced scar index, elevated CD31 and α-SMA expression, increased fibroblast proliferation, and increased blood vessel formation. Furthermore, unprecedented hair-follicle regeneration and abundant collagen deposition were observed in the Gel-Exo-NB + US-treated group compared with the Gel-Exo-NB-treated group, highlighting the pivotal role of ultrasound in skin defect regeneration. Notably, the resulting collagen deposition, abundant hair follicles, and thin epidermis suggest potential for scarless wound healing. These therapeutic outcomes are attributed to the synergistic effects of simultaneous ultrasound-mediated exosome therapy and oxygen delivery.",
+      "year": "2026",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "authors": [
+        "Bagheri Elnaz",
+        "Aminyazdi Elahehsadat",
+        "Amel Sara",
+        "Ramezani Mohammad",
+        "Abnous Khalil"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42700619/"
+    }
+  ],
+  "crawled_at": "2026-09-16T23:35:07.318186",
+  "source": "pubmed"
+}
