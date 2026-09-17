@@ -1,0 +1,11 @@
+{
+  "ingredient_id": "glp1_topical",
+  "name_en": "GLP-1 topical",
+  "name_kr": "GLP-1 외용",
+  "category": "anti_aging",
+  "query": "\"GLP-1\" AND (skin OR topical)",
+  "paper_count": 0,
+  "articles": [],
+  "crawled_at": "2026-09-17T23:25:02.453576",
+  "source": "pubmed_emerging"
+}
