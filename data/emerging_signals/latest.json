@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:01:44.084864",
+  "generated_at": "2026-09-22T23:35:57.170276",
   "total_ingredients": 48,
   "signals": [
     {
@@ -171,202 +171,6 @@
       ]
     },
     {
-      "ingredient_id": "polyglutamic_acid",
-      "name_kr": "폴리글루타민산 (PGA)",
-      "name_en": "Polyglutamic Acid (PGA)",
-      "category": "hydration",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 7,
-        "T3": 0,
-        "unknown": 16
-      },
-      "total_papers": 25,
-      "recent_papers": 19,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 17.9,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "41721023",
-          "title": "Fabrication and characterization evaluation of sustained-release dissolving microneedles with skin soothing function.",
-          "year": "2026",
-          "journal": "Drug delivery and translational research"
-        },
-        {
-          "pmid": "39616682",
-          "title": "Glycopeptide microneedles triggering the ECM process to promote fibroblast viability for anti-aging treatments.",
-          "year": "2025",
-          "journal": "Biomaterials advances"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42031244",
-          "title": "Dynamically cross-linked PVA hydrogel reinforced with poly(γ-glutamic acid) for highly Stretchable and rapidly self-heal",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
-        },
-        {
-          "pmid": "40168525",
-          "title": "Exposure-response of ciclosporin and methotrexate in children and young people with severe atopic dermatitis: a secondar",
-          "year": "2025",
-          "journal": "Clinical and experimental dermatology"
-        },
-        {
-          "pmid": "40147651",
-          "title": "Supermolecular poly-N-acryloyl glycinamide/polyglutamic acid/Fe",
-          "year": "2025",
-          "journal": "International journal of biological macromolecules"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "polyglutamic_acid",
-      "name_kr": "폴리글루타민산",
-      "name_en": "polyglutamic acid",
-      "category": "hydration",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 7,
-        "T3": 0,
-        "unknown": 16
-      },
-      "total_papers": 25,
-      "recent_papers": 19,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 17.9,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "41721023",
-          "title": "Fabrication and characterization evaluation of sustained-release dissolving microneedles with skin soothing function.",
-          "year": "2026",
-          "journal": "Drug delivery and translational research"
-        },
-        {
-          "pmid": "39616682",
-          "title": "Glycopeptide microneedles triggering the ECM process to promote fibroblast viability for anti-aging treatments.",
-          "year": "2025",
-          "journal": "Biomaterials advances"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42031244",
-          "title": "Dynamically cross-linked PVA hydrogel reinforced with poly(γ-glutamic acid) for highly Stretchable and rapidly self-heal",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
-        },
-        {
-          "pmid": "40168525",
-          "title": "Exposure-response of ciclosporin and methotrexate in children and young people with severe atopic dermatitis: a secondar",
-          "year": "2025",
-          "journal": "Clinical and experimental dermatology"
-        },
-        {
-          "pmid": "40147651",
-          "title": "Supermolecular poly-N-acryloyl glycinamide/polyglutamic acid/Fe",
-          "year": "2025",
-          "journal": "International journal of biological macromolecules"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "bakuchiol",
-      "name_kr": "바쿠치올",
-      "name_en": "Bakuchiol",
-      "category": "retinoid_alternative",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 6,
-        "T3": 0,
-        "unknown": 18
-      },
-      "total_papers": 25,
-      "recent_papers": 25,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.9,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42475905",
-          "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pa",
-          "year": "2027",
-          "journal": "Biomaterials"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42764084",
-          "title": "Elucidating drug-carrier interactions and release from PCL and PLA microspheres prepared by PES membrane emulsification:",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42332430",
-          "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
-          "year": "2026",
-          "journal": "International journal of cosmetic science"
-        },
-        {
-          "pmid": "41999703",
-          "title": "Reproductive toxicity of Fructus Psoraleae in zebrafish: material basis and implications for clinical safety dosing.",
-          "year": "2026",
-          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "bakuchiol",
-      "name_kr": "바쿠치올",
-      "name_en": "bakuchiol",
-      "category": "retinoid_alternative",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 6,
-        "T3": 0,
-        "unknown": 18
-      },
-      "total_papers": 25,
-      "recent_papers": 25,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.9,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42475905",
-          "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pa",
-          "year": "2027",
-          "journal": "Biomaterials"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42764084",
-          "title": "Elucidating drug-carrier interactions and release from PCL and PLA microspheres prepared by PES membrane emulsification:",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42332430",
-          "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
-          "year": "2026",
-          "journal": "International journal of cosmetic science"
-        },
-        {
-          "pmid": "41999703",
-          "title": "Reproductive toxicity of Fructus Psoraleae in zebrafish: material basis and implications for clinical safety dosing.",
-          "year": "2026",
-          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
-        }
-      ]
-    },
-    {
       "ingredient_id": "spilanthol",
       "name_kr": "스필란톨",
       "name_en": "spilanthol",
@@ -402,6 +206,52 @@
           "title": "Enhanced transdermal delivery of [6]-Gingerol via Co-Administration of Acmella oleracea and Zingiber officinale lipophil",
           "year": "2026",
           "journal": "International journal of pharmaceutics"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "bakuchiol",
+      "name_kr": "바쿠치올",
+      "name_en": "Bakuchiol",
+      "category": "retinoid_alternative",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 5
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.5,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42475905",
+          "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pa",
+          "year": "2027",
+          "journal": "Biomaterials"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42332430",
+          "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
+        },
+        {
+          "pmid": "41562471",
+          "title": "A Randomized Controlled Trial of the Genistein Plus Bakuchiol and Vitamins (GEN",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "41365395",
+          "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
+          "year": "2026",
+          "journal": "Fitoterapia"
         }
       ]
     },
@@ -454,6 +304,52 @@
           "title": "Efficacy and Safety of Cysteamine-Isobionic Amide Complex in the Treatment of Periorbital Hyperpigmentation.",
           "year": "2026",
           "journal": "Journal of drugs in dermatology : JDD"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "bakuchiol",
+      "name_kr": "바쿠치올",
+      "name_en": "bakuchiol",
+      "category": "retinoid_alternative",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 5
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.5,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42475905",
+          "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pa",
+          "year": "2027",
+          "journal": "Biomaterials"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42332430",
+          "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
+        },
+        {
+          "pmid": "41562471",
+          "title": "A Randomized Controlled Trial of the Genistein Plus Bakuchiol and Vitamins (GEN",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "41365395",
+          "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
+          "year": "2026",
+          "journal": "Fitoterapia"
         }
       ]
     },
@@ -945,39 +841,6 @@
       ]
     },
     {
-      "ingredient_id": "silica",
-      "name_kr": "실리카",
-      "name_en": "Silica",
-      "category": "pore_texture",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42654064",
-          "title": "Enhanced Transdermal Delivery of rhHAPLN1 by Soluball",
-          "year": "2026",
-          "journal": "Pharmaceutics"
-        },
-        {
-          "pmid": "42588451",
-          "title": "Enzyme Co-Immobilization on Precipitated Silica for Sustainable Lactobionic Acid Production.",
-          "year": "2026",
-          "journal": "Molecules (Basel, Switzerland)"
-        }
-      ]
-    },
-    {
       "ingredient_id": "spicule",
       "name_kr": "스피큘",
       "name_en": "Spicule",
@@ -1044,86 +907,6 @@
       ]
     },
     {
-      "ingredient_id": "pdrn",
-      "name_kr": "PDRN",
-      "name_en": "PDRN (Polydeoxyribonucleotide)",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 22
-      },
-      "total_papers": 25,
-      "recent_papers": 25,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 10.1,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42506577",
-          "title": "Plant-Derived Polynucleotides/Polydeoxyribonucleotides in Skin Biomaterials: Delivery Platforms and Bioactivity Attribut",
-          "year": "2026",
-          "journal": "Journal of functional biomaterials"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42696342",
-          "title": ": Real-World Cases Using Phyto Polydeoxyribonucleotide (PDRN) Serum.",
-          "year": "2026",
-          "journal": "Journal of drugs in dermatology : JDD"
-        },
-        {
-          "pmid": "42580574",
-          "title": "Surfactant-tailored alginate/pectin hydrogel beads delivering polydeoxyribonucleotide for inflammatory symptom alleviati",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "pdrn",
-      "name_kr": "PDRN",
-      "name_en": "polydeoxyribonucleotide",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 22
-      },
-      "total_papers": 25,
-      "recent_papers": 25,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 10.1,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42506577",
-          "title": "Plant-Derived Polynucleotides/Polydeoxyribonucleotides in Skin Biomaterials: Delivery Platforms and Bioactivity Attribut",
-          "year": "2026",
-          "journal": "Journal of functional biomaterials"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42696342",
-          "title": ": Real-World Cases Using Phyto Polydeoxyribonucleotide (PDRN) Serum.",
-          "year": "2026",
-          "journal": "Journal of drugs in dermatology : JDD"
-        },
-        {
-          "pmid": "42580574",
-          "title": "Surfactant-tailored alginate/pectin hydrogel beads delivering polydeoxyribonucleotide for inflammatory symptom alleviati",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
-        }
-      ]
-    },
-    {
       "ingredient_id": "caffeine",
       "name_kr": "카페인",
       "name_en": "Caffeine",
@@ -1149,6 +932,46 @@
           "journal": "Nutrients"
         }
       ]
+    },
+    {
+      "ingredient_id": "pdrn",
+      "name_kr": "PDRN",
+      "name_en": "PDRN (Polydeoxyribonucleotide)",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 1
+      },
+      "total_papers": 1,
+      "recent_papers": 1,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.8,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "pdrn",
+      "name_kr": "PDRN",
+      "name_en": "polydeoxyribonucleotide",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 1
+      },
+      "total_papers": 1,
+      "recent_papers": 1,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.8,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
     },
     {
       "ingredient_id": "alpha_arbutin",
@@ -1309,6 +1132,33 @@
           "title": "Milk-based multi-omics reveals distinct quality signatures associated with Astragalus polysaccharide supplementation in ",
           "year": "2026",
           "journal": "Food chemistry: X"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "silica",
+      "name_kr": "실리카",
+      "name_en": "Silica",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42654064",
+          "title": "Enhanced Transdermal Delivery of rhHAPLN1 by Soluball",
+          "year": "2026",
+          "journal": "Pharmaceutics"
         }
       ]
     },
@@ -1642,9 +1492,49 @@
       "top_t2_papers": []
     },
     {
+      "ingredient_id": "polyglutamic_acid",
+      "name_kr": "폴리글루타민산 (PGA)",
+      "name_en": "Polyglutamic Acid (PGA)",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 0,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0,
+      "signal_label": "🔵 데이터 없음",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
       "ingredient_id": "volufiline",
       "name_kr": "보르피린",
       "name_en": "Volufiline",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 0
+      },
+      "total_papers": 0,
+      "recent_papers": 0,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 0,
+      "signal_label": "🔵 데이터 없음",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "polyglutamic_acid",
+      "name_kr": "폴리글루타민산",
+      "name_en": "polyglutamic acid",
       "category": "hydration",
       "tier_dist": {
         "T1": 0,

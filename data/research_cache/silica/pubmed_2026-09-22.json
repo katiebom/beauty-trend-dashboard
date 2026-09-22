@@ -1,0 +1,223 @@
+{
+  "ingredient_id": "silica",
+  "name_en": "Silica",
+  "name_kr": "실리카",
+  "category": "pore_texture",
+  "query": "\"Silica\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42769022",
+      "title": "Translational Progress of Inorganic Nanotheranostic Platforms for Gynecologic Malignancies: A Narrative Review of Endometrial, Ovarian, and Cervical Cancer Focusing on Fertility Preservation, Biosafety, and Industrial Translation.",
+      "abstract": "Endometrial, ovarian, and cervical cancers differ substantially in epidemiology, anatomy, and unmet clinical need, yet the same inorganic nanomaterial toolbox is often discussed without disease-specific translational context. This narrative review synthesizes preclinical and clinical literature on gold, magnetic, mesoporous silica, carbon-based, and metal-organic framework nanotheranostic platforms identified through PubMed and Web of Science searches from database inception through August 2026, using a structured comparison across endometrial, ovarian, and cervical cancer. Particular attention is given to biosafety, reproductive toxicity, patient-derived organoid (PDO) models, AI-assisted design, manufacturing, and regulatory translation. Clinically, carbon nanoparticle suspensions have direct evidence for sentinel lymph node mapping in endometrial cancer, whereas the strongest ovarian cancer precedents for locoregional and nanomedicine delivery remain non-inorganic, including hyperthermic intraperitoneal chemotherapy and pegylated liposomal doxorubicin. In cervical disease, organic hexaminolevulinate photodynamic therapy for CIN2, approved by China's NMPA in March 2026, provides a relevant local drug-device comparator. We identified no inorganic nanomedicine currently approved specifically for a gynecologic malignancy; ferumoxytol is approved as an intravenous iron replacement product, and AuroLase gold nanoshells remain investigational, with no gynecologic trial identified. Route-matched delivery - intrauterine or hysteroscopic for endometrial cancer, intraperitoneal for ovarian cancer, and topical or intracervical for cervical disease - may therefore be more clinically relevant than increasing platform complexity alone. EC- and OC-derived organoids provide increasingly mature disease models that could support nanotherapeutic screening, but direct nanomedicine validation remains limited, while AI-assisted design is constrained by small heterogeneous datasets and limited external validation. Future progress will depend on reproductive-safety endpoints, appropriately validated PDO models, standardized manufacturing and characterization, and regulatory strategies that clearly distinguish established evidence from preclinical promise.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Jin Yile",
+        "Wang Jiangang",
+        "Li Na"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Theranostic Nanomedicine",
+        "Animals",
+        "Fertility Preservation",
+        "Uterine Cervical Neoplasms",
+        "Genital Neoplasms, Female",
+        "Translational Research, Biomedical",
+        "Ovarian Neoplasms",
+        "Endometrial Neoplasms"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42769022/"
+    },
+    {
+      "pmid": "42764812",
+      "title": "Fabrication of Gelatin Nanofibrous Sponges Incorporating Mesoporous Silica Nanoparticles with Enhanced Capacity to Promote Blood Coagulation and Accelerate Wound Healing.",
+      "abstract": "Effective bleeding control and accelerated wound healing are crucial for patient survival. Conventional dressings often have structural limitations that hinder their effectiveness in controlling hemorrhages and promoting skin tissue regeneration. Here, a gelatin-based nanofibrous sponge incorporating mesoporous silica nanoparticles (MSNs) was developed by transforming two-dimensional nanofiber membranes into three-dimensional structures via electrospinning, gas foaming, and freeze-drying techniques. The sponges were characterized using SEM, EDS, and FTIR. Their swelling, degradation behavior, and mechanical properties showed improved permeability and fluid absorption. Incorporating MSNs significantly enhanced the compressive strength of sponges, making them suitable for deep wounds and creating a favorable microenvironment for cellular activity, despite reduced elastic recovery. In vitro tests confirmed good cytocompatibility and low hemolysis ratios. In vivo experiments on a mouse model of full-thickness skin defects showed that the sponge with a combination of (6%) MSNs effectively accelerated wound healing, with a markedly higher re-epithelialization than the control group, achieving nearly complete healing by Day 14. Additionally, this composite sponge facilitated rapid hemostasis with minimal blood loss. These results highlight the potential of the gelatin-based porous nanofibrous sponge combined with MSNs as a promising candidate for clinical applications, serving as an effective wound dressing and an absorbable hemostatic agent.",
+      "year": "2026",
+      "journal": "Macromolecular bioscience",
+      "authors": [
+        "Majidi Raheleh Faridi",
+        "Mesgar Abdorreza Sheikh-Mehdi",
+        "Milan Peiman Brouki",
+        "Kalantarzadeh Rooja",
+        "Ghasemian Melina"
+      ],
+      "mesh_terms": [
+        "Wound Healing",
+        "Silicon Dioxide",
+        "Animals",
+        "Gelatin",
+        "Nanofibers",
+        "Nanoparticles",
+        "Blood Coagulation",
+        "Porosity",
+        "Mice",
+        "Humans"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42764812/"
+    },
+    {
+      "pmid": "42758216",
+      "title": "A chiral silicon-based electrochemical sensor for the detection of L-glutamate.",
+      "abstract": "L-Glutamate (L-Glu), a major excitatory neurotransmitter in the central nervous system, plays an important role in nitrogen metabolism. In this study, chiral mesoporous imprinted silica nanoparticles (CMISNs) were synthesized via the sol-gel method using L-Glu derivatives as templates. Subsequently, the AuNPs/CMISNs@CMK-3/GCE electrochemical sensing interface was constructed. Benefiting from the chiral mesoporous structure of CMISNs and combined high conductivity of CMK-3 and signal amplification effect of gold nanoparticles (AuNPs), the designed electrochemical sensor enables specific detection of L-Glu. The developed sensor exhibits a wide linear response range for L-Glu (1 nM to 1 mM), with a limit of detection of 0.15 nM and a limit of quantification of 0.52 nM. It also demonstrated remarkable enantioselectivity, achieving a chiral separation factor of 7.7 toward glutamate enantiomers, along with good reproducibility (RSD = 3.2%, n = 5). The sensor retained excellent stability over 14 days and high selectivity against potential interferents. In contrast to conventional enzyme-based biosensors, chiral recognition is achieved by imprinted mesopores of L-Glu without the involvement of biological enzymes. This work provides a novel bionic sensing platform for the precise detection of L-Glu, which holds significant potential in neuroscience research and clinical diagnosis.",
+      "year": "2026",
+      "journal": "Mikrochimica acta",
+      "authors": [
+        "Qin Ziyao",
+        "Jia Menggai",
+        "Zhan Yue",
+        "Yang Molin",
+        "Hu Beibei"
+      ],
+      "mesh_terms": [
+        "Glutamic Acid",
+        "Electrochemical Techniques",
+        "Gold",
+        "Silicon Dioxide",
+        "Limit of Detection",
+        "Stereoisomerism",
+        "Metal Nanoparticles",
+        "Porosity",
+        "Biosensing Techniques",
+        "Silicon"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42758216/"
+    },
+    {
+      "pmid": "42742102",
+      "title": "Drug-Loaded Passive Cooling Hydrogels for Synergistic Thermal and Anti-Inflammatory Regulation of Skin Wounds.",
+      "abstract": "Chronic inflammation and inflammation-associated local microenvironmental imbalance are critical barriers to effective wound healing, while conventional dressings remain functionally limited. Here, we developed a drug-loaded passive cooling nanocomposite hydrogel that can simultaneously regulate the physical temperature and biochemical wound microenvironment. The hydrogel is constructed from a poly(vinyl alcohol)-sorbitol network incorporating sulfated cellulose nanocrystals, silica nanoparticles, and salidroside, a potent anti-inflammatory phytochemical, achieving both exceptional passive cooling with a temperature drop of 6.2°C compared to non-covered control under sunlight and the sustained release of salidroside. In vitro, the hydrogel exhibits time-dependent antibacterial efficacy over 97% bacterial inhibition and effectively suppresses inflammation. In a murine full-thickness wound model, the hydrogel promoted local cooling and accelerated wound closure, achieving near-complete healing by day 11, earlier than the phosphate-buffered saline control. Histological analyses confirm attenuated inflammation and enhanced tissue remodeling, as evidenced by suppressed TNF-α expression and CD68 macrophage infiltration, increased α-SMA myofibroblasts, and organized collagen deposition. This work introduces a cooling-and-curing strategy, where material enables physical cooling and localized drug delivery to operate synergistically to disrupt the inflammatory cycle, offering a transformative platform for intelligent wound management.",
+      "year": "2026",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "authors": [
+        "Ding Li",
+        "Huang Jing",
+        "Feng Kai",
+        "Wu Huangzhipeng",
+        "Chen Shu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42742102/"
+    },
+    {
+      "pmid": "42730012",
+      "title": "Development of nanoparticles loaded with D-mannose for topical treatment to alleviate skin aging via rescuing SIRT1 from degradation.",
+      "abstract": "Skin aging is a complicated biological process, greatly interrupting skin physical function and increasing the risk of aging-associated skin diseases, therefore, drugs or treatment to delay or even reverse this process is in urgent need. D-mannose, a monosaccharide metabolite existing in human body and nature, has been demonstrated as a protential beneficial supplementation in clinical practice. However, whether D-mannose could alleviate skin aging remains unclear. Based on our previous study, we initially investigated the effect of topical supplementation of D-mannose on skin aging and found that it markedly rescued the senescent phenotype and recovered extracellular matrix disposition in the aging skin mice model. Considering that exogenous D-mannose predominantly eneters in lysosomes and subsequently exerts its biological functions, we therefore constructed a nanomaterial-loaded-D-mannose (MSN-B-Man) which could deliver D-mannose to lysosomes precisely. Furthermore, we observed prolonged skin retention of D-mannose and stronger anti-senescent effect upon topical application of MSN-B-Man compared with D-mannose alone. Mechanistically, D-mannose, cargo of MSN-B-Man, could physically bound with SIRT1 to prevent SIRT1 degradation in skin fibroblast during senescence, thus activating autophagy and further suppressing skin aging. Therefore, our present results first time unveil a novel protective role and underlying mechanisms of D-mannose during the skin aging course, highlighting the potential application of topical MSN-B-Man administration in alleviating skin aging and skin aging-related diseases.",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Luo Jialiang",
+        "Shao Weijie",
+        "Liu Shuai",
+        "Liang Zhicheng",
+        "Dong Xiaojing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42730012/"
+    },
+    {
+      "pmid": "42687867",
+      "title": "Chain Conformation and Crosslink Density as Independent Mechanistic Levers in Comb-Brush Particle Artificial Solid Electrolyte Interfaces for Lithium-Metal Batteries.",
+      "abstract": "Artificial solid electrolyte interfaces (aSEIs) based on organic-inorganic hybrids offer a promising strategy to stabilize lithium-metal anodes by combining mechanical strength and ionic conductivity. Herein, entanglement- and crosslink-enabled comb-brush particles (CBPs) were synthesized by grafting oligo-(ethylene oxide) methyl ether methacrylate (OEOMA",
+      "year": "2026",
+      "journal": "ACS applied polymer materials",
+      "authors": [
+        "Kempkes Verena",
+        "Wu Hanshu",
+        "Tarnsangpradit Jirameth",
+        "DiFiglia Elizabeth E",
+        "Williams Bailey"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687867/"
+    },
+    {
+      "pmid": "42677917",
+      "title": "Supramolecular Engineering of Dynamically Interlocked Dual-Stiffness Interphase for Biomimetic Strong and Tough Double Network Aerogel.",
+      "abstract": "Resolving the fundamental modulus-toughness trade-off in organic-inorganic hybrids remains a formidable challenge in supramolecular chemistry and materials science. Herein, we present a molecular-level design of a dynamically interlocked dual-stiffness interphase to break this limit, utilizing an aramid nanofiber/silica double-network architecture. Unlike traditional physical blending, this interphase is governed by a bidirectional hydrogen-bonding network. Through deep spectroscopic investigations, we reveal that this strong interfacial interaction triggers an intramolecular proton transfer and electronic redistribution within the ANFs. More intriguingly, this supramolecular interaction drives a rare and critical structural phase transition within the inorganic network, transforming flexible six-membered siloxane rings (SiO)",
+      "year": "2026",
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "authors": [
+        "Han Zi-Meng",
+        "Tu Hua",
+        "Zhao Xiang",
+        "Sun Wen-Bin",
+        "Li Fang-Chuan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42677917/"
+    },
+    {
+      "pmid": "42654064",
+      "title": "Enhanced Transdermal Delivery of rhHAPLN1 by Soluball",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Lee Kyeong Hyeon",
+        "Kim Kang Min",
+        "Han Ju Hyuk",
+        "Oh Kyung Taek",
+        "Kim Dae Kyong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42654064/"
+    },
+    {
+      "pmid": "42596640",
+      "title": "Integrating DFT-assisted optimization into UPLC-DAD method development: simultaneous determination of six atractylodes compounds in cosmetics.",
+      "abstract": "A robust UPLC-DAD method was established for the simultaneous determination of six bioactive compounds-atractylenolides I, II, III, atractylodin, atractylone, and β-eudesmol-from ",
+      "year": "2026",
+      "journal": "Analytical methods : advancing methods and applications",
+      "authors": [
+        "Yao Yongqi",
+        "Zeng Guangfeng",
+        "Xiao Keyin",
+        "Chen Cheng",
+        "Cai Cuiling"
+      ],
+      "mesh_terms": [
+        "Atractylodes",
+        "Cosmetics",
+        "Lactones",
+        "Chromatography, High Pressure Liquid",
+        "Sesquiterpenes",
+        "Density Functional Theory",
+        "Sesquiterpenes, Eudesmane",
+        "Furans",
+        "Limit of Detection",
+        "Reproducibility of Results"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42596640/"
+    },
+    {
+      "pmid": "42589717",
+      "title": "Thermosensitive Alginate/Carrageenan-Stearic Acid Dissolving Microneedles Incorporating Liposome-Coated Hollow Mesoporous Silica Nanoparticles for Controlled Caffeine Delivery.",
+      "abstract": "Caffeine is a promising active for topical pharmaceutical and cosmetic applications; however, its hydrophilic nature can limit passive transport across the stratum corneum and reduce local retention. Although nanoparticle-loaded dissolving microneedles have been explored, few systems combine a hollow porous carrier, a lipid coating, and a polysaccharide matrix within a single controlled-release platform. This study developed thermosensitive dissolving microneedles (DMNs) incorporating caffeine-loaded liposome-coated hollow mesoporous silica nanoparticles (ULp-Caf@HMSNs). Sodium alginate-κ-carrageenan matrices, with and without stearic acid modification, were evaluated for their effects on thermal behavior, mechanical strength, and caffeine release. HMSNs showed a hollow mesoporous structure and high specific surface area, while FTIR supported successful incorporation of the formulation components. Liposome coating increased particle size while maintaining nanoscale dimensions. Hot-stage microscopy showed temperature-dependent structural changes at approximately 33-35 °C, with lower apparent transition temperatures in stearic acid-containing formulations. All DMNs exhibited compression forces comparable to mechanically competent DMNs, with NaAlg-κ-car systems reaching 14.3-15.1 N per array. Free-caffeine DMNs followed non-Fickian release, whereas ULp-Caf@HMSN-containing formulations followed Higuchi diffusion-controlled release and showed slower caffeine release. Stearic acid did not consistently improve release performance. The novelty of this work lies in integrating a hollow silica reservoir, a liposomal coating, and an alginate-κ-carrageenan microneedle matrix within one platform. Overall, the system provides a basis for further evaluation in controlled topical or transdermal caffeine delivery.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Thepphankulngarm Nattanida",
+        "Hirun Namon",
+        "Kraisit Pakorn"
+      ],
+      "mesh_terms": [
+        "Caffeine",
+        "Alginates",
+        "Silicon Dioxide",
+        "Nanoparticles",
+        "Stearic Acids",
+        "Carrageenan",
+        "Microneedle Drug Delivery",
+        "Liposomes",
+        "Porosity",
+        "Temperature"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42589717/"
+    }
+  ],
+  "crawled_at": "2026-09-22T23:35:56.714779",
+  "source": "pubmed"
+}

@@ -1,75 +1,11 @@
 {
   "ingredient_id": "bakuchiol",
-  "name_en": "bakuchiol",
+  "name_en": "Bakuchiol",
   "name_kr": "바쿠치올",
   "category": "retinoid_alternative",
-  "query": "\"bakuchiol\"",
-  "paper_count": 25,
+  "query": "\"Bakuchiol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
   "articles": [
-    {
-      "pmid": "42764084",
-      "title": "Elucidating drug-carrier interactions and release from PCL and PLA microspheres prepared by PES membrane emulsification: a strategy integrating molecular docking.",
-      "abstract": "PES membrane, with its excellent mechanical properties and biocompatibility, facilitate many pharmaceutical applications, particularly to replace SPG and PVDF membranes for membrane emulsification for microspheres preparation. Despite the extensive use of polycaprolactone (PCL) and polylactic acid (PLA) as drug carriers, their interactions with drug molecules have rarely been directly compared. This knowledge gap directly impacts the rational design and control of drug release rates from microspheres made of these polymers. Hence this study focuses on the use of novel PES membrane emulsification technology to investigate the preparation and properties of the PCL and PLA microspheres for sustained drug release. The effect of additives for casting solutions of membrane were investigated for comparing the size distribution of PCL and PLA microspheres. The encapsulation of three phenolic drug contents (i.e. baicalin, quercetin and bakuchiol) were conducted using PCL and PLA as the carrier of the microspheres. The drug release rate as well as other pharmaceutic characteristics were evaluated, while the molecular action between the drug carriers and drug contents were estimated using molecular docking. The experimental results confirmed that microspheres with small and uniform particle size, measured at 40.72 μm, could be achieved using casting solution of 18 wt% prepared PES membrane with additives. In contrast to the smooth surface of PCL microspheres, their PLA counterparts exhibited a distinctly porous morphology. Molecular docking simulations suggested baicalin exhibit strong binding affinity with PCL and PLA reaching -3.36 kcal/mol and -2.32 kcal/mol, together with its low solubility and molecular size, resulted in slowest release of 0.52% on 17th day when encapsulated in both PCL and PLA microsphere. Bakuchiol exhibited weaker binding affinity with PLA than with PCL, resulting in a higher release rate from PLA microspheres. Quercetin, conversely, showed weaker binding affinity with PCL than with PLA, resulting in a higher release rate from PCL microspheres. Among them, C-Bak microspheres showed the highest 48 h wound closure rate (46.09%), while A-Que microspheres exhibited the best cell viability (287.17%).",
-      "year": "2026",
-      "journal": "International journal of pharmaceutics",
-      "authors": [
-        "Zhai Jingwen",
-        "Zeng Haoran",
-        "Guo Liwei",
-        "Chen You",
-        "Li Juan"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42764084/"
-    },
-    {
-      "pmid": "42603928",
-      "title": "Tissue integration in the CAM assay, collagen intensity and near-interface cell density data for novel emulsion electrospun DegraPol®-Bakuchiol fiber meshes that were characterized by FTIR and for fiber thickness and pore size.",
-      "abstract": "To develop bioactive electrospun membranes capable of controlled Bakuchiol release, we engineered an emulsion-electrospun DegraPol® (DP) polymer mesh. The structural integrity of the scaffolds was characterized through detailed fiber morphology and porosity analysis. FTIR spectra were taken. To evaluate the biological response in vivo, the Bakuchiol functionalized meshes were integrated into the chorioallantoic membrane (CAM) assay of the avian embryo. Tissue interaction was assessed via Masson-Goldner trichrome staining, providing semi-quantitative data on tissue integration and collagen deposition intensity. Furthermore, total cell density within the immediate peri‑implant microenvironment was quantified using Haematoxylin-Eosin (H&E) histological sections. In addition, the bacterial adhesion on the scaffold was tested with a ",
-      "year": "2026",
-      "journal": "Data in brief",
-      "authors": [
-        "Rieber Julia",
-        "Kadler Gabor",
-        "Schweizer Tiziano A",
-        "Koliwer-Brandl Hendrik",
-        "Meier Bürgisser Gabriella"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42603928/"
-    },
-    {
-      "pmid": "42491507",
-      "title": "A bakuchiol-linked tetrazole exhibits narrow-spectrum activity against ",
-      "abstract": "Natural product-based amphiphilic phenolic terpenoid antimicrobial agents were rationally designed by integrating the meroterpenoid bakuchiol with a tetrazole moiety through a fragment-based drug design strategy. A library of 30 bakuchiol-linked tetrazole derivatives was synthesized ",
-      "year": "2026",
-      "journal": "RSC medicinal chemistry",
-      "authors": [
-        "Sengar Neha",
-        "Pratap Vidyadhar",
-        "Sarkar Tuhin",
-        "Kriplani Vishnu",
-        "Gupta Astha"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42491507/"
-    },
-    {
-      "pmid": "42485320",
-      "title": "LC-HRMS based metabolomic of ",
-      "abstract": "This study aims to analyse the phytochemical content and potential of ",
-      "year": "2026",
-      "journal": "Natural product research",
-      "authors": [
-        "Wulandari Devyana Dyah",
-        "Ragil Santoso Andreas Putro",
-        "Abdul Hamid Hafizah",
-        "Safira Putri Nanda",
-        "Mufida Nisaul"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42485320/"
-    },
     {
       "pmid": "42475905",
       "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pathways in atopic dermatitis.",
@@ -96,72 +32,6 @@
         "Inflammation"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42475905/"
-    },
-    {
-      "pmid": "42459068",
-      "title": "A Comprehensive Review on Compounds and Herbal Approaches against Amyloid Beta Aggregation in Alzheimer's Disease.",
-      "abstract": "Alzheimer's disease is a neurodegenerative disorder that affects brain cells over time, progressively reducing cognitive function, interfering with memory retention, and making daily tasks more difficult. The development of amyloid-beta (Aβ) plaques plays an important role in the progression of the disease, contributing to neurological swelling and cognitive impairment. Aβ induces oxidative damage and produces anti-inflammatory cytokines while reducing the association with vascular RAGE and acetylcholine. This article aims to present the latest and relevant research on treatment approaches targeting amyloid beta, including synthetic compounds, phytomolecules, and plant extracts. Novel delivery approaches are also covered. Memantine, latrepirdine, somatostatin, diosgenin, cirsiliol, amentoflavone, luteoloside, and many other synthetic compounds have been reported to generally inhibit Aβ aggregation, thereby reducing plaque development. Phytomolecules such as brazilin, (+)-catechin, ginnalin A, bacoside-A, bakuchiol, curcumin, homotaurine, icariin, genistein, fucosterol, and quercitrin also alleviate symptoms via various mechanisms. Additionally, plant extracts from Annona atemoya, Lycium barbarum, Humulus lupulus, Oroxylum indicum, Salvia macilenta, Trichosanthis Semen, Camellia sinensis, Betula utilis, Cirsium japonicum, Elaeagnus glabra, Orthosiphon aristatus, Metasequoia glyptostroboides, Zizania latifolia, and Benincasa hispida are discussed briefly with their mechanisms of action. The present review also addresses the pathogenesis, risk factors, symptoms, and diagnosis of amyloid beta aggregation. Data were collected from PubMed, ScienceDirect, SciFinder, Scopus, and Google Scholar.",
-      "year": "2026",
-      "journal": "Central nervous system agents in medicinal chemistry",
-      "authors": [
-        "Nooreen Zulfa"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42459068/"
-    },
-    {
-      "pmid": "42450164",
-      "title": "Bakuchiol Enhances 5-Fluorouracil Efficacy in Colorectal Cancer Cells via a ROS-Dependent Mechanism Involving Mitochondrial Dysfunction and Apoptosis.",
-      "abstract": "Resistance to 5-fluorouracil (5-FU) remains a major limitation in colorectal cancer therapy, prompting the development of combination strategies aimed at improving its efficacy. Bakuchiol (BAK), a natural compound with reported antioxidant and pro-oxidant properties, may modulate redox balance and enhance chemotherapy response. This study compared the effects of 5-FU and BAK, applied as monotherapies and in combination, in DLD-1 and HT-29 colorectal cancer cells. Cytotoxicity assays showed that co-treatment significantly reduced the IC",
-      "year": "2026",
-      "journal": "International journal of molecular sciences",
-      "authors": [
-        "Radomska Dominika",
-        "Szewczyk-Roszczenko Olga",
-        "Chalecka Magda",
-        "Surazynski Arkadiusz",
-        "Szymanowska Anna"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Fluorouracil",
-        "Reactive Oxygen Species",
-        "Apoptosis",
-        "Colorectal Neoplasms",
-        "Mitochondria",
-        "Phenols",
-        "Membrane Potential, Mitochondrial",
-        "Cell Line, Tumor",
-        "Drug Synergism"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42450164/"
-    },
-    {
-      "pmid": "42334659",
-      "title": "Exploring Bakuchiol as an HSP90-Targeting Lead Against Triple-Negative Breast Cancer: Evidence from In Silico, In Vitro, and Synergy Studies.",
-      "abstract": "Psoralea corylifolia holds a prominent position in traditional herbal medicine. Bakuchiol, the principal phytoconstituent present in the seeds of P. corylifolia, significantly contributes to the medicinal properties of the plant. Because of its diverse biological activities, ranging from anti-oxidative to anti-inflammatory, this natural meroterpenoid is attracting considerable attention. The present study aims to investigate the potential of bakuchiol in mitigating triple-negative breast cancer (TNBC) by targeting heat shock protein 90 (HSP90), a pivotal molecular chaperone implicated in cancer cell growth and progression. The study has employed a multi-approach strategy, by combining in-silico (Network pharmacology, molecular docking, molecular dynamics simulation), cell-free assay (N-terminal HSP90 binding activity assay), and in-vitro methodologies, to explore its anticancer activities against TNBC and to elucidate HSP90 as a target of bakuchiol, using a HSP90-inhibitor radicicol as a reference. The Chou-Talalay combination index method along with other methods (Loewe, HSA, Bliss, and Zip) was employed for determining its synergistic potential. Bakuchiol showed preferential cytotoxicity on MDA-MB-231 cells, with minimal impact on non-cancerous cells HEK-293, demonstrating a favourable selectivity index. In-silico studies identified HSP90 as a prime target via which bakuchiol exhibits its anticancer activity, and the competitive binding assay established it as a N-terminal HSP90 inhibitor. Bakuchiol downregulated the expression of HSP90 client protein EGFR, while inducing the expression of HSP70, further supporting its inhibitory effect on the N-terminal HSP90 domain. Detailed in-vitro studies further highlighted the anti-proliferative, pro-apoptotic, and anti-metastatic role of bakuchiol, with radicicol serving as a control to verify HSP90-mediated activity. Moreover, bakuchiol was also found to exhibit a synergistic effect against TNBC cells in association with the standard chemotherapeutic drug doxorubicin, thereby enhancing its therapeutic efficacy. These findings highlight bakuchiol as a promising HSP90-targeting natural compound with potential therapeutic benefit against TNBC, therefore making it a crucial lead for further research.",
-      "year": "2026",
-      "journal": "Journal of computer-aided molecular design",
-      "authors": [
-        "Shah Himisa",
-        "Tripathi Nancy",
-        "Thakur Debanjan",
-        "Khamle Arpita Robel",
-        "Shah Umang"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "HSP90 Heat-Shock Proteins",
-        "Triple Negative Breast Neoplasms",
-        "Phenols",
-        "Female",
-        "Molecular Docking Simulation",
-        "Molecular Dynamics Simulation",
-        "Cell Line, Tumor",
-        "Cell Proliferation",
-        "Antineoplastic Agents, Phytogenic"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42334659/"
     },
     {
       "pmid": "42332430",
@@ -203,58 +73,6 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42242599/"
     },
     {
-      "pmid": "42179005",
-      "title": "Systematic identification of bacterial neuraminidase inhibitors from ",
-      "abstract": "Bacterial neuraminidase (BNA) is a potential target for discovering anti-infective agents. Here, the BNA inhibitory activity of the ethanolic extract of ",
-      "year": "2026",
-      "journal": "Journal of enzyme inhibition and medicinal chemistry",
-      "authors": [
-        "Kim Yu Jin",
-        "Jang Seol",
-        "Hwang Youn-Hwan"
-      ],
-      "mesh_terms": [
-        "Psoralea",
-        "Neuraminidase",
-        "Enzyme Inhibitors",
-        "Molecular Dynamics Simulation",
-        "Molecular Structure",
-        "Structure-Activity Relationship",
-        "Ultrafiltration",
-        "Dose-Response Relationship, Drug",
-        "Phenols",
-        "Chromatography, High Pressure Liquid"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42179005/"
-    },
-    {
-      "pmid": "42157729",
-      "title": "Bakuchiol Ameliorates Glucocorticoid-Induced Osteoporosis by Enhancing Osteoblast Differentiation via Targeting FAT4 to Activate YAP1.",
-      "abstract": "Psoralea corylifolia Linn. exhibits osteogenic effects; however, the mechanism by which its active component Bakuchiol (BAK) alleviates glucocorticoid-induced osteoporosis (GIOP) remains unclear. We aim to investigate BAK's therapeutic effects and potential mechanisms in GIOP. We treated GIOP mice with BAK. We evaluated BAK's therapeutic efficacy using micro-CT and histopathological staining. We performed transcriptomic analysis and identified significantly enriched GO pathways. We then used biochemical assays and Western blotting to examine the effects of BAK on osteogenic differentiation-related signaling factors in GIOP mice. We conducted in vitro experiments using osteoblasts. We employed RT-qPCR, Western blot, ALP & ARS staining, immunofluorescence and dual-luciferase reporter assays to assess BAK's influence on signaling pathways related to osteoblast differentiation. We used molecular docking, cellular thermal shift assay (CETSA), and drug affinity responsive target stability (DARTS) to confirm the direct binding interaction between BAK and FAT4. Finally, we silenced Fat4 to validate that BAK exerts its anti-GIOP effects by activating YAP1 through FAT4. BAK treatment significantly enhanced bone quality and strength in GIOP mice, and mitigated femoral pathological damage. BAK upregulated key osteoblast differentiation-related transcription factors and enhanced serum alkaline phosphatase activity. Western blot confirmed that BAK increased protein levels of YAP1 while reducing levels of FAT4 and DCHS1. In vitro, BAK similarly promoted osteoblast differentiation and activated YAP1 expression and Runx2 transcription. Molecular docking, CETSA and DARTS analyses demonstrated that BAK directly binds to FAT4. Silencing Fat4 abolished the pro-osteogenic effects of BAK. BAK likely exerts its therapeutic effects in GIOP by targeting FAT4, activating YAP1 and promoting osteoblast differentiation.",
-      "year": "2026",
-      "journal": "Phytotherapy research : PTR",
-      "authors": [
-        "Wang Hengjun",
-        "Zhou Tingting",
-        "Zhao Yunchao",
-        "Meng Zhengxin",
-        "Sun Zhiqiang"
-      ],
-      "mesh_terms": [
-        "Animals",
-        "Osteoblasts",
-        "Osteoporosis",
-        "Mice",
-        "Cell Differentiation",
-        "Phenols",
-        "Adaptor Proteins, Signal Transducing",
-        "Glucocorticoids",
-        "YAP-Signaling Proteins",
-        "Osteogenesis"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42157729/"
-    },
-    {
       "pmid": "42014129",
       "title": "Allergic Contact Dermatitis to Bakuchiol Used for Photodamage Prevention: A Case Report.",
       "abstract": "",
@@ -268,109 +86,6 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42014129/"
-    },
-    {
-      "pmid": "41999703",
-      "title": "Reproductive toxicity of Fructus Psoraleae in zebrafish: material basis and implications for clinical safety dosing.",
-      "abstract": "Fructus psoraleae (FP), a classical TCM with a medicinal history spanning several millennia, is esteemed for its therapeutic properties in regulating Qi, alleviating asthma, tonifying kidneys and reinforcing Yang. Previous studies have revealed that prolonged use of FP may induce reproductive toxicity, particularly in females. However, its safety evaluation has not yet been systematically conducted.",
-      "year": "2026",
-      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-      "authors": [
-        "Shen Xin",
-        "Wang Rui",
-        "He Jun",
-        "Wang Ningning",
-        "Zhang Wang"
-      ],
-      "mesh_terms": [
-        "Animals",
-        "Zebrafish",
-        "Female",
-        "Reproduction",
-        "Psoralea",
-        "Oocytes",
-        "Humans",
-        "Plant Extracts",
-        "Vitellogenins",
-        "Fruit"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41999703/"
-    },
-    {
-      "pmid": "41930487",
-      "title": "Combining bioinformatics prediction with experimental validation to explore the ameliorative effect of ",
-      "abstract": "The aim of the present study was to thoroughly examine the mechanism of action underlying the therapeutic efficacy of ",
-      "year": "2026",
-      "journal": "Molecular medicine reports",
-      "authors": [
-        "Zhang Chen",
-        "Cao Zhanhong",
-        "Wei Mengyang",
-        "Zhu Xuanxuan",
-        "Yan Yan"
-      ],
-      "mesh_terms": [
-        "Psoralea",
-        "Animals",
-        "Zebrafish",
-        "Molecular Docking Simulation",
-        "Computational Biology",
-        "Vitiligo",
-        "Signal Transduction",
-        "Plant Extracts",
-        "Humans",
-        "Apoptosis"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41930487/"
-    },
-    {
-      "pmid": "41886492",
-      "title": "HIF1α mediates resistance to radiation and to KRAS inhibitors in pancreatic adenocarcinoma.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is highly treatment resistant and characterized by a hypoxic microenvironment. Here, we investigated the role of hypoxia-inducible factor 1α (HIF1α) in regulating resistance to radiation and KRAS-inhibitor. We employed CRISPR/Cas9 to knock out (KO) HIF1α from the murine KRASG12D/+; p53R172H/+ KPC and the KRASG12D/+; p53R273H; CDK2NA-/- Panc-1 human pancreatic cell lines. Compared to WT, the HIF1α KO cell lines demonstrated a shift toward an epithelial phenotype and had decreased proliferation and migration under hypoxia. HIF1α KO cell lines were less likely to survive after radiotherapy, and neutral comet assays demonstrated DNA damage four hours after treatment, suggesting that HIF1α promotes radioresistance through non-homologous end joining. When treated with a KRASG12D inhibitor, HIF1α KO cells exhibited significantly increased apoptosis due to decreased p53 degradation, likely mediated through Mdm2. Confirming this, enrichment of hypoxic signaling was associated with KRAS inhibitor resistance in a cohort of 31 KRASG12D cell lines. Our results thus suggest that inhibiting HIF1α may sensitize PDAC to radiation and KRAS inhibitors. To explore this, we conducted a drug repurposing screen and identified three HIF1α inhibitors (bakuchiol, BAY-87-2243, 2-methoxyestradiol) whose sensitivities were correlated with sensitivity to Deltarasin, a KRAS inhibitor. Our findings suggest that HIF1α inhibitors could be used to sensitize PDAC to radiotherapy and KRAS inhibitors.",
-      "year": "2026",
-      "journal": "PloS one",
-      "authors": [
-        "Tu Kevin J",
-        "Roy Sanjit K",
-        "Kingsbury Tami J",
-        "Shukla Hem D"
-      ],
-      "mesh_terms": [
-        "Animals",
-        "Pancreatic Neoplasms",
-        "Humans",
-        "Hypoxia-Inducible Factor 1, alpha Subunit",
-        "Cell Line, Tumor",
-        "Proto-Oncogene Proteins p21(ras)",
-        "Radiation Tolerance",
-        "Mice",
-        "Carcinoma, Pancreatic Ductal",
-        "Apoptosis"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41886492/"
-    },
-    {
-      "pmid": "41871766",
-      "title": "Arbuscular mycorrhizal consortium alleviates chromium(VI) stress and enhances seed phytochemicals in Psoralea corylifolia L.",
-      "abstract": "Cultivation of high-value medicinal plants on contaminated land requires reliable biomarkers and sustainable remediation strategies. We evaluated a multispecies arbuscular mycorrhizal fungi (AMF) consortium (Rhizophagus irregularis, Funneliformis mosseae, Claroideoglomus etunicatum) for enhancing stress resilience and phytochemical quality of Psoralea corylifolia under hexavalent chromium [Cr(VI)] exposure (0, 25, and 50 mg kg⁻¹). Cr(VI) stress increased oxidative burden, membrane injury, and Cr accumulation, while impairing PSII efficiency, nutrient acquisition, biomass production, and seed yield. AMF inoculation substantially alleviated these effects by improving the uptake of essential nutrients (N, P, Mg, Fe, and Zn), strengthening antioxidant protection, and preserving membrane stability, resulting in improved growth and reproductive output under chromium stress. Notably, AMF-colonized plants produced seeds with increased accumulation of key bioactive metabolites, including bakuchiol, psoralen, and isopsoralen, even at the highest Cr(VI) level. Multivariate analyses identified mycorrhizal colonization as a robust integrative indicator linking nutrient status, redox homeostasis, and metabolite enrichment across treatments. Overall, AMF consortia represent an effective, biologically grounded approach to enhance chromium tolerance, stabilize yield, and improve the medicinal value of P. corylifolia. These findings support AMF-assisted cultivation as a practical strategy for producing high-quality medicinal raw material in chromium-contaminated soils while reducing the physiological and biochemical constraints imposed by metal toxicity.",
-      "year": "2026",
-      "journal": "Plant science : an international journal of experimental plant biology",
-      "authors": [
-        "Chowdhary Noor Alam",
-        "Songachan L S"
-      ],
-      "mesh_terms": [
-        "Chromium",
-        "Microbial Consortia",
-        "Mycorrhizae",
-        "Phytochemicals",
-        "Psoralea",
-        "Seeds",
-        "Stress, Physiological",
-        "Plants, Medicinal",
-        "Fungi"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41871766/"
     },
     {
       "pmid": "41772644",
@@ -387,31 +102,6 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41772644/"
-    },
-    {
-      "pmid": "41594634",
-      "title": "From Phytochemistry to Oncology: The Role of Bakuchiol in the Treatment of Breast Cancer.",
-      "abstract": "Bakuchiol (BAK), a natural meroterpenoid with antioxidant, anti-inflammatory and anticancer properties, has recently gained attention as a potential adjunct in breast cancer therapy. This review contextualizes breast cancer as a major global health challenge and highlights BAK as a bioactive compound capable of modulating pathways relevant to tumor development and progression. A structured literature search identified studies examining its molecular activity, pharmacological profile, and effects on breast cancer cells and stem cells. Results show that BAK influences oxidative stress regulation, mitochondrial function, apoptosis and estrogen receptor signaling while also affecting PI3K/AKT, MAPK, NF-κB, and EMT-related pathways. In breast cancer models, BAK acts as a selective phytoestrogen, induces S-phase arrest, activates the ATM/ATR-Chk1/Chk2 axis, and triggers mitochondrial apoptosis, particularly in ERα-positive cells. It also suppresses breast cancer stem-cell renewal, promotes BNIP3- and DAPK2-mediated apoptosis, reduces metabolic and transcriptional drivers of metastasis, and shows enhanced anticancer activity in derivative forms. These findings suggest that BAK may provide therapeutic benefit across several mechanisms central to breast cancer biology. In this review, the inclusion criteria encompassed publications describing the action of bakuchiol, its chemical and pharmacological properties, as well as its role in the treatment of various conditions, including cancers. Exclusion criteria included works not related to BAK or its therapeutic use in breast cancer, as well as publications that did not meet basic scientific standards, such as lacking methodological rigor or presenting a low level of scientific evidence. However, current evidence is predominantly in vitro, and limitations such as poor bioavailability and lack of clinical validation underscore the need for further in vivo and translational studies before therapeutic application can be established.",
-      "year": "2026",
-      "journal": "Biomolecules",
-      "authors": [
-        "Czarnecka-Czapczyńska Magdalena",
-        "Aebisher David",
-        "Pietryszyn-Bilińska Alina",
-        "Moś Magdalena",
-        "Czech Sara"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Breast Neoplasms",
-        "Female",
-        "Phenols",
-        "Apoptosis",
-        "Signal Transduction",
-        "Animals",
-        "Antineoplastic Agents, Phytogenic"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41594634/"
     },
     {
       "pmid": "41562471",
@@ -439,85 +129,6 @@
         "Skin"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41562471/"
-    },
-    {
-      "pmid": "41500351",
-      "title": "Comprehensive studies of plasma pharmacokinetic and bone tissue distribution in rats to elucidate pharmacodynamic material basis of Psoraleae Fructus treating osteoporosis.",
-      "abstract": "Psoraleae Fructus (PF) is a commonly used traditional Chinese medicine for treating osteoporosis. Previous studies elucidated the pharmacodynamic basis of its treatment for osteoporosis by analyzing the constituents in the blood, but their distribution in bone tissue was not taken into account, which had certain limitations.",
-      "year": "2026",
-      "journal": "Journal of ethnopharmacology",
-      "authors": [
-        "Xu Qingxia",
-        "Li Yaping",
-        "Chen Lihua",
-        "Xu Yuanzhu",
-        "Guo Cong"
-      ],
-      "mesh_terms": [
-        "Animals",
-        "Psoralea",
-        "Tissue Distribution",
-        "Osteoporosis",
-        "Male",
-        "Bone and Bones",
-        "Osteogenesis",
-        "Rats, Sprague-Dawley",
-        "Mice",
-        "Fruit"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41500351/"
-    },
-    {
-      "pmid": "41490374",
-      "title": "Efficacy of Bakuchiol in a Rat Model of Chemical Eye Injury.",
-      "abstract": "To evaluate the therapeutic effects of bakuchiol on clinical and histopathological outcomes in a rat model of corneal alkali burn.",
-      "year": "2026",
-      "journal": "Current eye research",
-      "authors": [
-        "Bilmez Tan Rumeysa",
-        "Tekin Serek",
-        "Akman İlik Zehra",
-        "Batur Muhammed",
-        "Seven Erbil"
-      ],
-      "mesh_terms": [
-        "Animals",
-        "Male",
-        "Rats",
-        "Disease Models, Animal",
-        "Rats, Wistar",
-        "Burns, Chemical",
-        "Eye Burns",
-        "Phenols",
-        "Corneal Neovascularization",
-        "Vascular Endothelial Growth Factor A"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41490374/"
-    },
-    {
-      "pmid": "41485380",
-      "title": "Comparative efficacy of herbal extracts and separately bakuchiol against the monogenean parasite Gyrodactylus kobayashii in goldfish.",
-      "abstract": "Species of Gyrodactylus are common monogenean ectoparasites infecting both freshwater and marine fish. Their rapid proliferation and high transmissibility make them a serious threat to aquaculture. Current chemical treatments have drawbacks of drug residues and high resistance, requiring the discovery of safe and environmentally friendly alternatives. In this study, anthelmintic efficacy against Gyrodactylus kobayashii of eight herbal medicines was evaluated. One of the components bakuchiol from Psoralea corylifolia showed the best anthelmintic efficacy. The in vitro assays showed a positive correlation between bakuchiol concentrations and the mortality of G. kobayashii, with 100 % mortality at 8 mg/L and 1 h exposure. The in vivo anthelmintic efficiency also exhibited a concentration-dependent relationship, treatment with bakuchiol at 6 mg/L for 48 h resulted in 100 % mortality. The EC",
-      "year": "2026",
-      "journal": "Veterinary parasitology",
-      "authors": [
-        "Bu Xialian",
-        "Liu Yulong",
-        "Peng Xianqi",
-        "Huang Lei",
-        "Ma Weisong"
-      ],
-      "mesh_terms": [
-        "Animals",
-        "Fish Diseases",
-        "Plant Extracts",
-        "Goldfish",
-        "Trematode Infections",
-        "Trematoda",
-        "Phenols",
-        "Anthelmintics"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41485380/"
     },
     {
       "pmid": "41424674",
@@ -556,8 +167,54 @@
         "Anti-Inflammatory Agents"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41365395/"
+    },
+    {
+      "pmid": "40905519",
+      "title": "Bioretinoids from microalgae: Boosting retinol performance and tolerability.",
+      "abstract": "Skin ageing, hyperpigmentation, and texture are common dermatological concerns. Retinoids, including retinol, are widely used for their efficacy in treating these conditions. However, their side effects, such as irritation, often limit their use. Bakuchiol, a plant-derived retinoid alternative, has gained attention for its gentler profile, but its efficacy remains a subject of comparison with traditional retinoids. The aim of the present study was to evaluate the efficacy of a novel microalgae-derived bioretinoid (MBR) in comparison to retinol and bakuchiol in promoting skin regeneration, reducing ageing signs, and addressing hyperpigmentation.",
+      "year": "2026",
+      "journal": "International journal of cosmetic science",
+      "authors": [
+        "Sánchez-Díez Silvia",
+        "Lapeyre Alexandre",
+        "García-Delgado Noemí",
+        "Ayats Jordi"
+      ],
+      "mesh_terms": [
+        "Microalgae",
+        "Humans",
+        "Vitamin A",
+        "Cell Proliferation",
+        "Female",
+        "Adult",
+        "Phenols"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40905519/"
+    },
+    {
+      "pmid": "40724887",
+      "title": "Comparison of Quantification Using UV-Vis, NMR, and HPLC Methods of Retinol-Like Bakuchiol Present in Cosmetic Products.",
+      "abstract": "Retinoids are used in cosmetics as anti-aging ingredients, along with other substances. However, due to limitations in use (such as photodegradation), it seems necessary to look for retinoid alternatives to be applied in cosmetic products. Bakuchiol, a natural alternative of retinoids, isolated from ",
+      "year": "2025",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Grzelecka Matylda",
+        "Siudem Paweł",
+        "Tyburc Natalia",
+        "Triyasmono Liling",
+        "Holzgrabe Ulrike"
+      ],
+      "mesh_terms": [
+        "Chromatography, High Pressure Liquid",
+        "Cosmetics",
+        "Magnetic Resonance Spectroscopy",
+        "Phenols",
+        "Spectrophotometry, Ultraviolet",
+        "Vitamin A"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40724887/"
     }
   ],
-  "crawled_at": "2026-09-22T00:01:41.858235",
-  "source": "pubmed_emerging"
+  "crawled_at": "2026-09-22T23:35:38.414544",
+  "source": "pubmed"
 }
