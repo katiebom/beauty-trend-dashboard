@@ -1,0 +1,187 @@
+{
+  "ingredient_id": "urea",
+  "name_en": "Urea",
+  "name_kr": "우레아",
+  "category": "hydration",
+  "query": "\"Urea\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42773664",
+      "title": "[Protein engineering of PgsA combined with Bayesian optimization drives efficient poly-γ-glutamic acid synthesis by ",
+      "abstract": "Poly-γ-glutamic acid (γ-PGA) is a biopolymer polymerized from l-glutamic acid (l-Glu) and/or d-glutamic acid monomers, exhibiting broad application prospects in pharmaceuticals, cosmetics, and other fields. The low yields remain a key factor limiting large-scale production of γ-PGA in heterologous expression systems. To enhance the biosynthetic efficiency, this study employed ",
+      "year": "2026",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "authors": [
+        "Liu Wanjing",
+        "Zhou Haozhe",
+        "Wang Xiaogang",
+        "Chen Yuhang",
+        "Ma Jingjie"
+      ],
+      "mesh_terms": [
+        "Corynebacterium glutamicum",
+        "Polyglutamic Acid",
+        "Protein Engineering",
+        "Bacillus licheniformis",
+        "Bacterial Proteins",
+        "Mutagenesis, Site-Directed"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42773664/"
+    },
+    {
+      "pmid": "42772495",
+      "title": "High-performance adhesive eutectogel based on polyacrylate-carboxylated cellulose nanofibers double networks for efficient transdermal drug delivery.",
+      "abstract": "Due to their poor ability to solubilize lipophilic drugs and insufficient skin adhesion, conventional hydrogels show limited application in transdermal drug delivery systems (TDDSs). Eutectogels are considered promising alternatives to hydrogels because of their excellent drug solubility, adhesion, and stability. This work reports the preparation of a high-performance double -network eutectogel using ChCl-urea deep eutectic solution as the solvent, poly (4-hydroxyphenyl methacrylate-co-acrylic acid-co-N-vinylpyrrolidone) and carboxylated cellulose nanofibers as first polymer network and second polymer network, respectively, and Zr",
+      "year": "2026",
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Xie Daoxuan",
+        "Zhang Jiayue",
+        "Zhang Xinyue",
+        "Du Zhuopeng",
+        "Li Yue"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42772495/"
+    },
+    {
+      "pmid": "42770393",
+      "title": "Korean Standard Series allergens and emerging sources: a narrative review.",
+      "abstract": "This study aimed to address gaps in Korean Standard Series (KSS) information, highlight allergens with increasing patch test positivity, describe potential sources encountered in daily life, and provide guidance on selecting allergen-free alternatives.",
+      "year": "2026",
+      "journal": "Ewha medical journal",
+      "authors": [
+        "Choi Jeewoo",
+        "Choi Hae Young"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770393/"
+    },
+    {
+      "pmid": "42755659",
+      "title": "Moisturizer formulations for diabetic foot xerosis: a systematic review and meta-analysis of randomized controlled trials.",
+      "abstract": "Foot xerosis in people with diabetes increases the risk of skin fissuring, ulceration and complications like amputation, sepsis and death. Preventive skin care is therefore important, yet evidence-based guidance on the most effective formulations remains limited. This systematic review aimed to identify effective ingredients and formulations to treat diabetic foot xerosis.",
+      "year": "2026",
+      "journal": "Frontiers in clinical diabetes and healthcare",
+      "authors": [
+        "Borgström Karin",
+        "Björklund Sebastian",
+        "Gudmundsson Petri",
+        "Ericsson Anna",
+        "Acosta Stefan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42755659/"
+    },
+    {
+      "pmid": "42746486",
+      "title": "Experimental evaluation of ",
+      "abstract": "Chemotherapy remains a cornerstone of cancer treatment; however, its clinical use is frequently limited by treatment-associated toxicities. This has prompted investigation into alternative adjuvant substances. ",
+      "year": "2026",
+      "journal": "Experimental and therapeutic medicine",
+      "authors": [
+        "Huber Isabella Morais Tavares",
+        "Lourenço Emerson Luiz Botelho",
+        "Bellettini Salviano Tramontin",
+        "Donadel Guilherme",
+        "Matumoto João Francisco Velasquez"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42746486/"
+    },
+    {
+      "pmid": "42745438",
+      "title": "Extraction-dependent changes in immunoglobulin E binding profiles of processed lesser mealworm (Alphitobius diaperinus) proteins.",
+      "abstract": "Alphitobius diaperinus, the lesser mealworm, is an edible insect considered safe for human consumption; however, its proteins show documented cross-reactivity with crustacean and house dust mite (HDM) allergens, raising potential concerns for allergic populations. In this study, different lesser mealworm materials were extracted using three protein extraction protocols to evaluate how methodological choices and food processing treatments influence immunoglobulin E (IgE)-binding profiles.",
+      "year": "2026",
+      "journal": "Journal of the science of food and agriculture",
+      "authors": [
+        "Epstein Michelle M",
+        "Mafra Isabel",
+        "Teixeira Carla Ss",
+        "Carriço-Sá Bruno",
+        "Mettinger Anna-Laura"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42745438/"
+    },
+    {
+      "pmid": "42741161",
+      "title": "Milk-based multi-omics reveals distinct quality signatures associated with Astragalus polysaccharide supplementation in late lactation goats.",
+      "abstract": "Late lactation is frequently accompanied by changes in goat milk composition and volatile-related quality, which may reduce its commercial value. This study investigated whether Astragalus polysaccharide (APS), a plant-derived bioactive polysaccharide from ",
+      "year": "2026",
+      "journal": "Food chemistry: X",
+      "authors": [
+        "Han Shanshan",
+        "Wang Peng",
+        "Hu Yunhong",
+        "Zhang Qiang",
+        "Wan Ke"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741161/"
+    },
+    {
+      "pmid": "42723799",
+      "title": "Oral dysbiosis in children with renal failure: a systematic review.",
+      "abstract": "The oral microbiome plays an important role in maintaining host homeostasis and may interact with systemic diseases through the oral-systemic axis. Chronic kidney disease (CKD) in childhood is associated with chronic inflammation, metabolic alterations, and immune dysfunction, which may influence microbial ecosystems. While intestinal dysbiosis has been widely studied in paediatric CKD, alterations in the oral microbiome remain less well understood. The aim of this study was to qualitatively synthesize evidence on oral microbiome alterations in children and adolescents with CKD compared with systemically healthy controls.",
+      "year": "2026",
+      "journal": "Frontiers in dental medicine",
+      "authors": [
+        "Ruiz-Roca Juan Antonio",
+        "Pecci-Lloret María Pilar",
+        "Romano Antonio",
+        "Carinci Francesco",
+        "Lauritano Dorina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42723799/"
+    },
+    {
+      "pmid": "42698394",
+      "title": "Efficacy and safety of traditional Chinese medicine herbal hand-foot bath combined with arnebia oil for chemotherapy-induced hand-foot syndrome refractory to standard treatment: a single-arm prospective interventional pilot study of 30 cases.",
+      "abstract": "Chemotherapy-induced hand-foot syndrome (HFS) is a common dose-limiting cutaneous adverse reaction associated with cytotoxic agents such as capecitabine and small-molecule targeted drugs. Severe HFS may lead to dose reduction or interruption of antitumor treatment, significantly impairing patients' quality of life and treatment compliance. Current standard treatments (urea ointment, vitamin B6, topical corticosteroids, etc.) show limited efficacy for some patients with moderate-to-severe HFS, creating an urgent clinical need for additional supportive interventions.",
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Chen Ying",
+        "Jin Yuqi",
+        "Fu Linglin",
+        "Song Ping",
+        "Shao Ziyan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42698394/"
+    },
+    {
+      "pmid": "42687270",
+      "title": "Wearable Colorimetric Microfluidic Sensor Integrated with Localized Unidirectional Sweat-Wicking Nanofiber Membrane for Multianalyte Sweat Analysis.",
+      "abstract": "Wearable sweat sensors have emerged as promising platforms for noninvasive health monitoring; however, inefficient sweat collection and uncontrolled fluid transport remain major challenges that limit their practical application. Here, we report a wearable colorimetric microfluidic sweat sensor integrated with a localized Janus TPU nanofiber membrane (CMS-LJNM) that enables efficient sweat collection and directional transport. The Janus membrane, featuring patterned hydrophilic-hydrophobic regions, facilitates passive and rapid unidirectional sweat transport from the skin surface to the microfluidic chip while suppressing lateral spreading. The flexible microfluidic chip incorporates capillary burst valves to precisely regulate sweat flow and prevent cross-contamination between sensing chambers. The device integrates multiple colorimetric sensing units for the simultaneous quantification of key sweat biomarkers, including glucose, urea, chloride ions, and pH, requiring only 2 μL of sweat for complete analysis. All sensing units exhibited good linearity within physiological concentration ranges and excellent anti-interference performance, and the results could be conveniently quantified through smartphone-based image analysis. On-body tests involving six volunteers demonstrated reliable sweat collection and detection, with results showing strong agreement with conventional analytical methods. This work provides a promising strategy integrating efficient directional sweat transport with precise microfluidic-based multianalyte detection, facilitating practical sports monitoring and sweat-based physiological analysis.",
+      "year": "2026",
+      "journal": "ACS sensors",
+      "authors": [
+        "Lan Wei",
+        "Qiu Yue",
+        "Ye Yongzi",
+        "Chen Yuning",
+        "Chen Xinyu"
+      ],
+      "mesh_terms": [
+        "Sweat",
+        "Colorimetry",
+        "Humans",
+        "Nanofibers",
+        "Wearable Electronic Devices",
+        "Lab-On-A-Chip Devices",
+        "Microfluidic Analytical Techniques",
+        "Biosensing Techniques",
+        "Glucose",
+        "Urea"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687270/"
+    }
+  ],
+  "crawled_at": "2026-09-23T23:30:11.302803",
+  "source": "pubmed"
+}
