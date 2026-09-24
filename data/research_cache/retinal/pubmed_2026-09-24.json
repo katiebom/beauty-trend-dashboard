@@ -1,0 +1,196 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42778904",
+      "title": "Ocular manifestations of lichen planus: a comparative analysis of tear function, choroidal thickness, and retinal parameters.",
+      "abstract": "To assess tear function, retinal and choroidal thickness, retinal nerve fiber layer (RNFL) thickness, and ganglion cell complex (GCC) thickness in patients with lichen planus (LP) compared with healthy controls with comparable age and sex distribution.",
+      "year": "2026",
+      "journal": "BMC ophthalmology",
+      "authors": [
+        "Çiftci Furkan",
+        "An İsa",
+        "Çelik Gökhan",
+        "Karaçocuk Tuncay"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Prospective Studies",
+        "Tomography, Optical Coherence",
+        "Choroid",
+        "Case-Control Studies",
+        "Tears",
+        "Lichen Planus",
+        "Retinal Ganglion Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42778904/"
+    },
+    {
+      "pmid": "42777939",
+      "title": "Retinopathy of Prematurity in the Anti-VEGF Era: Screening Systems and Practical Treatment Decision-Making Across Anti-VEGF, Laser, and Surgery.",
+      "abstract": "Retinopathy of prematurity (ROP) is a vasoproliferative disease of the incompletely vascularized retina and remains a major preventable cause of childhood blindness. Its clinical profile varies by region: in high-income countries, severe ROP mainly affects extremely preterm infants, whereas in many low- and middle-income countries it may also occur in larger, more mature infants because neonatal survival has improved faster than screening capacity. The introduction of intravitreal anti-vascular endothelial growth factor (anti-VEGF) therapy has changed ROP management. Anti-VEGF agents can rapidly regress posterior and aggressive ROP and may allow continued peripheral vascularization, but they also introduce challenges including persistent avascular retina, delayed reactivation, retreatment uncertainty, and systemic safety concerns. This review summarizes evidence across the ROP care pathway, including screening, classification, treatment decision-making, surgery, and long-term outcomes. In the anti-VEGF era, treatment success should extend beyond short-term regression to stable retinal vascular maturation, prevention of tractional complications, and sustained developmental follow-up. Anti-VEGF therapy is best supported for Zone I, posterior Zone II, and aggressive ROP, whereas laser remains important for anterior disease, unreliable follow-up settings, and residual avascular retina. Surgery remains necessary for advanced tractional disease. Ranibizumab and aflibercept appear to have more reassuring systemic profiles than bevacizumab, although long-term comparative data remain limited. Faricimab and topical dexamethasone remain investigational. Future priorities include integrated screening networks, standardized retreatment algorithms, and longitudinal registries tracking ocular and developmental outcomes.",
+      "year": "2026",
+      "journal": "Progress in retinal and eye research",
+      "authors": [
+        "Zhang Xuerui",
+        "Zhang Wenting",
+        "Yang Yuan",
+        "Liu Huanyu",
+        "Yin Jiawei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42777939/"
+    },
+    {
+      "pmid": "42770042",
+      "title": "Incidence and Clinical Course of Intraocular Inflammation Following Pharmacy-Compounded Intravitreal Aflibercept 8mg for Neovascular AMD: A Real-World Cohort Study.",
+      "abstract": "To evaluate the incidence and clinical course of intraocular inflammation (IOI) after intravitreal aflibercept 8 mg (Eylea 8 mg - E8) injection in patients with neovascular age-related macular degeneration (nAMD) in Poland.",
+      "year": "2026",
+      "journal": "Clinical ophthalmology (Auckland, N.Z.)",
+      "authors": [
+        "Kucharczuk Jan",
+        "Kasprzak Hubert",
+        "Tuchowska-Celej Marlena",
+        "Gawęcki Maciej"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770042/"
+    },
+    {
+      "pmid": "42767780",
+      "title": "Post-streptococcal uveitis syndrome in a middle-aged adult patient.",
+      "abstract": "Post-streptococcal uveitis syndrome (PSUS) is a rare immune-mediated condition typically affecting children and young adults following group A Streptococcus infection. We describe a 53-year-old woman who developed bilateral panuveitis following documented streptococcal pharyngitis, representing one of the oldest reported cases of PSUS. The patient presented with photophobia, blurred vision and floaters, with examination revealing bilateral anterior segment inflammation, cystoid macular oedema, optic disc oedema and retinal vasculitis. Elevated anti-streptolysin O titres and characteristic multimodal imaging findings supported the diagnosis. Treatment with topical and systemic corticosteroids led to complete resolution over 8 months, with sustained remission at 22-month follow-up. This case demonstrates that PSUS should remain in the differential diagnosis of uveitis regardless of patient age when there is a clear temporal association with recent streptococcal infection.",
+      "year": "2026",
+      "journal": "BMJ case reports",
+      "authors": [
+        "Saffra Norman",
+        "Farag Yostena",
+        "Saffra Michael",
+        "Kirsch David"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Middle Aged",
+        "Streptococcal Infections",
+        "Diagnosis, Differential",
+        "Streptococcus pyogenes",
+        "Pharyngitis",
+        "Panuveitis",
+        "Uveitis",
+        "Syndrome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42767780/"
+    },
+    {
+      "pmid": "42761298",
+      "title": "Unilateral Fibrovascular Vitreoretinal Proliferation Associated With Retinal Astrocytic Hamartoma Revealing Tuberous Sclerosis Complex in Adulthood.",
+      "abstract": "To report an unusual presentation of previously undiagnosed tuberous sclerosis complex manifesting as unilateral fibrovascular vitreoretinal proliferation associated with retinal astrocytic hamartoma complicated by vitreous hemorrhage (VH).",
+      "year": "2026",
+      "journal": "Journal of vitreoretinal diseases",
+      "authors": [
+        "Özkan Efe Polat",
+        "Taş Aygar Gamze",
+        "Çiçek Kaya Pınar",
+        "Şekeryapan Gediz Berrak"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42761298/"
+    },
+    {
+      "pmid": "42758116",
+      "title": "Beyond the Skin: Ocular Manifestations in Hidradenitis Suppurativa - A Systematic Review.",
+      "abstract": "PurposeTo systematically evaluate the spectrum of ocular manifestations associated with hidradenitis suppurativa (HS), including inflammatory eye diseases, corneal involvement, retinal alterations, epidemiologic associations, treatment approaches, and visual outcomes. Methods A systematic literature search was performed in PubMed, Web of Science, and Cochrane Library databases up to May 10, 2026, in accordance with PRISMA guidelines. Eligible studies reporting ophthalmic manifestations in HS patients were included. Case reports, case series, original articles, and research letters were analyzed. Study quality was assessed using Joanna Briggs Institute (JBI) checklists, Newcastle-Ottawa Scale (NOS), and National Heart, Lung, and Blood Institute (NHLBI) quality assessment tools according to study design. ResultsA total of 23 studies were included, comprising 12 case reports/case series and 11 original observational studies. Clinic-based observational studies primarily described inflammatory eye disease, ocular surface dysfunction, dry eye disease, and retinal microvascular alterations, whereas population-based database studies demonstrated increased epidemiologic associations with multiple ophthalmologic diseases. Corneal involvement represented the predominant manifestation in case-based reports and included interstitial keratitis, peripheral ulcerative keratitis, Mooren-type ulceration, corneal neovascularization, ectasia, descemetocele formation, and spontaneous corneal perforation. In addition, management may require topical or systemic corticosteroids, biologic agents, conventional steroid-sparing immunosuppressive therapies, and, in severe cases, cornea-preserving surgical procedures. ConclusionsHS is associated with a broad spectrum of ocular manifestations, particularly inflammatory disorders affecting the ocular surface and cornea, which may occasionally progress to vision-threatening complications. Current evidence suggests that HS-related systemic inflammation may contribute to ophthalmologic morbidity. Further prospective ophthalmology-focused studies are needed.",
+      "year": "2026",
+      "journal": "Ocular immunology and inflammation",
+      "authors": [
+        "Ozer Furkan",
+        "Gülmez Sevim Duygu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42758116/"
+    },
+    {
+      "pmid": "42756722",
+      "title": "Haemorrhagic Occlusive Retinal Vasculitis Following Cataract Surgery Without Intraocular Vancomycin.",
+      "abstract": "This paper reports a rare case of haemorrhagic occlusive retinal vasculitis (HORV) following cataract surgery in the absence of intraocular vancomycin, raising important considerations about alternative aetiologies and perioperative management. A 79-year-old male patient with a background of type 2 diabetes, benign prostatic hyperplasia and asthma experienced recurrent hypersensitivity reactions to topical mydriatics during preoperative assessments for right eye cataract surgery in the private sector. Surgery was ultimately performed without topical mydriatics; full mydriasis was achieved with the use of intracameral mydriatic agents and iris hooks. No intraocular vancomycin was administered. Postoperative care included standard antibiotic-steroid eye drops. Three days postoperatively, the patient presented with sudden, painless vision loss. Examination revealed extensive retinal haemorrhages, vasculitis, and macular ischaemia. Imaging confirmed widespread retinal vascular damage. Infectious and autoimmune screens were negative. A diagnosis of HORV was made, and the patient was treated with intravenous methylprednisolone, topical corticosteroids, and later sub-tenon triamcinolone. Partial visual improvement was observed. This case highlights the possibility of HORV in the absence of vancomycin, suggesting that other immune-mediated or hypersensitivity pathways, in response to different triggers, may contribute to its pathogenesis.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Grech Sarah",
+        "Bezzina Alastair",
+        "Calleja Andrea"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42756722/"
+    },
+    {
+      "pmid": "42754355",
+      "title": "Chronic relapsing inflammatory optic neuropathy misdiagnosed as intermittent angle closure: a diagnostic challenge.",
+      "abstract": "A woman in her 40 s presented with recurrent retro-orbital pain over several years, initially attributed to migraine. Later, she was diagnosed with glaucoma in the context of suspected intermittent angle closure. Despite controlled intraocular pressure (IOP) with topical pressure-lowering therapy, progressive visual loss persisted.Optical coherence tomography showed diffuse retinal nerve fibre layer (RNFL) thinning, and visual fields demonstrated severe defects. However, pronounced optic disc pallor, rapid progression despite IOP control and diffuse rather than sectorial RNFL loss raised suspicion of an alternative diagnosis. Visual evoked potentials demonstrated delayed P100 latency, and MRI confirmed inflammatory changes of the optic nerve.High-dose systemic corticosteroids led to marked improvement, with relapse following its withdrawal, confirming steroid dependency. Chronic relapsing inflammatory optic neuropathy was the diagnosis, and immunosuppressive therapy was initiated with subsequent sustained visual recovery.This case highlights the importance of considering alternative diagnoses in atypical glaucoma presentations.",
+      "year": "2026",
+      "journal": "BMJ case reports",
+      "authors": [
+        "Pargana Joana",
+        "Vivas Maria",
+        "Monteiro Bernardo",
+        "Ferreira João",
+        "Caçador Nuno"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Glaucoma, Angle-Closure",
+        "Tomography, Optical Coherence",
+        "Optic Neuritis",
+        "Recurrence",
+        "Diagnostic Errors",
+        "Diagnosis, Differential",
+        "Magnetic Resonance Imaging",
+        "Evoked Potentials, Visual"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42754355/"
+    },
+    {
+      "pmid": "42754336",
+      "title": "Central Retinal Artery-Oriented Embolization of Periorbital Arteriovenous Malformations: Distal Ophthalmic Artery Coil Protection Enabling Aggressive Nidus Treatment.",
+      "abstract": "Periorbital AVMs are frequently supplied by the ophthalmic artery. Its branch, the central retinal artery, has no effective collateral supply; inadvertent embolization may therefore cause irreversible blindness. Because vision loss has been reported after both transophthalmic and external carotid approaches, these lesions are often observed or incompletely embolized. We evaluated the feasibility, safety, and outcomes of a strategy mechanically protecting the retinal circulation with coils placed distal to the central retinal artery, enabling aggressive nidus embolization.",
+      "year": "2026",
+      "journal": "AJNR. American journal of neuroradiology",
+      "authors": [
+        "Ishimaru Hideki",
+        "Yoshimi Satomi",
+        "Oka Taiga",
+        "Hirao Maki",
+        "Akita Sadanori"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42754336/"
+    },
+    {
+      "pmid": "42748895",
+      "title": "Targeting prostaglandin catabolism via topical nanotherapy rescues vision in ischemic optic neuropathy.",
+      "abstract": "Ischemic optic neuropathy is a leading cause of acute vision loss and currently lacks effective therapy. Here, we identify 15-hydroxyprostaglandin dehydrogenase (15-PGDH), the key enzyme responsible for prostaglandin degradation, as a metabolic checkpoint in ischemic optic neurodegeneration. Analysis of human ischemic optic nerve tissue and a murine model of optic nerve ischemia reveals marked upregulation of retinal 15-PGDH, suggesting dysregulated prostaglandin homeostasis after ischemic injury. To therapeutically target this pathway, we develop a nano-micellar formulation of the hydrophobic 15-PGDH inhibitor SW033291 (SW@NM) that enables efficient topical ocular delivery and retinal penetration. Topical administration of SW@NM suppresses retinal 15-PGDH activity, restores PGE",
+      "year": "2026",
+      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+      "authors": [
+        "Modgil Shweta",
+        "Hsu RuSiou",
+        "Shariati Mohammad Ali",
+        "Oses-Prieto Juan A",
+        "Burlingame Al"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42748895/"
+    }
+  ],
+  "crawled_at": "2026-09-24T23:53:44.955171",
+  "source": "pubmed"
+}

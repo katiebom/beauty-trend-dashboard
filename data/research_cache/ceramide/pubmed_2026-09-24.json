@@ -1,0 +1,191 @@
+{
+  "ingredient_id": "ceramide",
+  "name_en": "Ceramide",
+  "name_kr": "세라마이드",
+  "category": "barrier",
+  "query": "\"Ceramide\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42767632",
+      "title": "Stereoselective Differences in the Percutaneous Permeation of Ketoprofen Enantiomers and the Underlying Chiral Recognition Mechanisms.",
+      "abstract": "This research aims to investigate the stereoselective permeation differences and molecular recognition mechanisms of ketoprofen enantiomers in the chiral microenvironment of the stratum corneum (SC). This also aims to provide theoretical support for developing highly efficient and precise single-enantiomer transdermal drug delivery systems. The permeation behaviors of dexketoprofen and its racemate through excised full-thickness rat skin in three different solvent systems were studied using Franz diffusion cells. The solubility, apparent partition coefficients, and differential scanning calorimetry were used to assess the physicochemical and thermodynamic properties of both forms. Fourier transform infrared (FTIR), ",
+      "year": "2026",
+      "journal": "Chirality",
+      "authors": [
+        "Zhou Zixi",
+        "Meng Kaile",
+        "Wang Honghui",
+        "Dong Wenxiu",
+        "Sun Yinghua"
+      ],
+      "mesh_terms": [
+        "Ketoprofen",
+        "Stereoisomerism",
+        "Animals",
+        "Rats",
+        "Permeability",
+        "Skin Absorption",
+        "Thermodynamics",
+        "Molecular Docking Simulation",
+        "Skin",
+        "Administration, Cutaneous"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42767632/"
+    },
+    {
+      "pmid": "42767350",
+      "title": "A component-resolved in vitro skin barrier model for assessing nanoplastic retention and barrier susceptibility.",
+      "abstract": "Human-relevant in vitro models are needed to assess dermal nanoplastic hazards, yet current skin penetration approaches often treat the stratum corneum as a compositionally uniform barrier. This limits mechanistic understanding of how barrier biochemistry relates to nanoplastic retention, particularly in skin states with altered lipid or protein organization. Here, we developed a component-resolved in vitro stratum corneum model to quantify interactions between 50 nm polystyrene nanoplastics and six major skin barrier constituents: ceramide, cholesterol, keratin, palmitic acid, proline, and phenylalanine. Component-specific operational retention indices (RAI) were determined using standardized gravity-driven flow experiments and high-resolution transmission electron microscopy, then integrated into a multi-phase penetration model. Retention differed markedly among components. Palmitic acid, representing free fatty acids, showed the highest operational retention, retaining approximately 26-fold more particles than keratin. Protein-rich and sterol-associated components displayed lower initial retention but greater time-dependent accumulation, an apparent trend that with only three time points cannot be assigned to a defined kinetic regime. Ex vivo two-photon imaging of porcine skin showed an apparent detectable fluorescence depth of 12.3 ± 2.1 μm; this was not used to calibrate or validate the dimensionless component-weighted score. The framework is exploratory and mechanistic, characterizing how stratum corneum constituents differ in operational retention of nanoplastics, providing a hazard-relevant basis for, rather than a validated prediction of, dermal penetration.",
+      "year": "2026",
+      "journal": "Toxicology in vitro : an international journal published in association with BIBRA",
+      "authors": [
+        "He Yuxuan",
+        "Huang Hui",
+        "Yang Jing",
+        "Zhu Jiahui",
+        "Ma Chuanxin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42767350/"
+    },
+    {
+      "pmid": "42766467",
+      "title": "Genotypic and Phenotypic Profiles of Babies with Collodion Membrane in a Tertiary Care Center in Riyadh, Saudi Arabia.",
+      "abstract": "This study conducted a retrospective analysis of 21 patients diagnosed with Collodion Membrane (CM) at a tertiary care center in Riyadh, Saudi Arabia. CM is a rare neonatal condition characterized by a shiny, parchment-like membrane covering the newborn and is associated with genetic disorders related to cornification. Introduction CM is a membrane resembling a parchment that envelops the body of neonates and is frequently associated with genetic epidermal differentiation disorders (EDD). This study aimed to outline the genetic and clinical attributes of CM in Saudi Arabia. Methods This retrospective study was performed at King Abdulaziz Medical City (KAMC) in Riyadh, Saudi Arabia, with approval from the Institutional Review Board of the King Abdullah International Medical Research Center. Informed consent was waived because of the retrospective nature of the study. The participants were patients diagnosed with CM between January 2001 and December 2024. Study data were retrieved from the BestCare® electronic medical record system through chart review. The data collected included demographic information, consanguinity status, duration of NICU stay, clinical features, treatments administered, genetic analyses, and associated conditions. Results 21 patients, of whom 14 were female (66.6%), participated. Consanguinity was documented in all patients (100%). Erythroderma was the most prevalent sign, observed in 12 patients (57.1%). The most frequently identified pathogenic variant was Ceramide Synthase 3 (𝘊𝘌𝘙𝘚3), detected in seven patients (33.3%), while lamellar ichthyosis was the predominant underlying condition, affecting nine patients (42.8%). Conclusion In this cohort of patients with CM, the identified gene mutations were associated with variations in clinical course and outcomes. 𝘊𝘌𝘙𝘚3 mutations were the most frequently detected and were most commonly observed in patients with lamellar ichthyosis, whereas 𝘛𝘎𝘔1 mutations were associated with more severe phenotypes.",
+      "year": "2026",
+      "journal": "Dermatology (Basel, Switzerland)",
+      "authors": [
+        "Alsaleam Abdullah",
+        "Alghubaywi Faisal",
+        "Alkhenaizan Aljohara",
+        "Bashihab Rahaf",
+        "Al-Khenaizan Sultan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42766467/"
+    },
+    {
+      "pmid": "42756854",
+      "title": "From Lipid Composition to Electroporation: Mechanical Encoding of Barrier Resilience in Stratum Corneum Membranes.",
+      "abstract": "The permeability of the skin barrier is not fixedit emerges from the molecular organization of its lipid matrix. In the stratum corneum, compositional alterations associated with dermatological conditions reshape this organization, yet how these changes influence electrically induced transport remains unclear. Here, we employ fully atomistic nonequilibrium molecular dynamics simulations to uncover how lipid composition is mechanically encoded into electroporation response in biomimetic SC lipid membranes. Eleven membrane models spanning ceramide-rich, cholesterol-rich, and physiologically balanced compositions were systematically investigated. We find that electroporation susceptibility is not dictated by individual lipid species but by the collective mechanical state encoded in membrane packing. Cholesterol-rich membranes exhibit rapid pore nucleation and form large conductive defects, whereas ceramide-dominated systems resist pore formation within the simulated time scale. Intermediate compositions display delayed nucleation and reduced pore sizes. The physiologically balanced SCbase membrane exhibits delayed pore formation and comparatively small conductive defects, consistent with a mechanically resilient yet not pore-immune regime. By linking pore nucleation events and time-resolved water transport to equilibrium structural descriptors, we show that bilayer thickness, interfacial cohesion, and lipid organization collectively define the effective barrier to defect formation. These results establish a predictive framework connecting compositional alterationsrelevant to both healthy and compromised skinto electrically induced permeability, providing molecular-level insights into barrier resilience and strategies for controlled transdermal transport.",
+      "year": "2026",
+      "journal": "ACS omega",
+      "authors": [
+        "Machado Neila Cristina Fonseca",
+        "García Nicolás A",
+        "Anguita-Ortiz Nuria",
+        "Ruano Lorena",
+        "Nogueira Juan J"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42756854/"
+    },
+    {
+      "pmid": "42741161",
+      "title": "Milk-based multi-omics reveals distinct quality signatures associated with Astragalus polysaccharide supplementation in late lactation goats.",
+      "abstract": "Late lactation is frequently accompanied by changes in goat milk composition and volatile-related quality, which may reduce its commercial value. This study investigated whether Astragalus polysaccharide (APS), a plant-derived bioactive polysaccharide from ",
+      "year": "2026",
+      "journal": "Food chemistry: X",
+      "authors": [
+        "Han Shanshan",
+        "Wang Peng",
+        "Hu Yunhong",
+        "Zhang Qiang",
+        "Wan Ke"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741161/"
+    },
+    {
+      "pmid": "42741035",
+      "title": "Autophagy-dependent changes in the sebaceous gland and epidermal lipid distribution localized by mass spectrometric imaging.",
+      "abstract": "Sebum is a lipid mixture produced and delivered to the skin surface by appendages called sebaceous glands (SGs) in a holocrine secretion process. Sebum contributes to the skin barrier, lubricates hair and skin, provides antimicrobial protection, and has pheromone functions. During the terminal differentiation of SG cells (sebocytes), macroautophagy, an intracellular process for major metabolic reconfiguration, is activated. Deletion of autophagy affects the hair sebum composition in mice. This study aimed to investigate lipid composition and localization within SG and the epidermis in ",
+      "year": "2026",
+      "journal": "JID innovations : skin science from molecules to population health",
+      "authors": [
+        "Stiegler Alexandra",
+        "Zoratto Samuele",
+        "Bauer Christina",
+        "Golabi Bahar",
+        "Kremslehner Christopher"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741035/"
+    },
+    {
+      "pmid": "42722183",
+      "title": "Modes of interaction between tapinarof and model lipid membranes mimicking stratum corneum lipid composition and related transdermal transport in human skin.",
+      "abstract": "Tapinarof (3,5-dihydroxy-4-isopropylstilbene, TPN), structurally related to resveratrol, is a nonsteroidal agent that belongs to the class of naturally derived aryl hydrocarbon receptor (AhR) agonists. TPN is an active ingredient of a topical medication (1% cream, VTAMA®). The log P",
+      "year": "2026",
+      "journal": "Biochimica et biophysica acta. Biomembranes",
+      "authors": [
+        "Zatloukalová Martina",
+        "Laroui Abdelatif",
+        "Tóth Ágota",
+        "Chantemargue Benjamin",
+        "Dostálková Lucie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42722183/"
+    },
+    {
+      "pmid": "42717125",
+      "title": "An Assessment of In Vitro Permeation Testing Finite Dose Methodology.",
+      "abstract": "Pharmaceutical emulsifiers used in topical products are either non-ionic surfactants or anionic surfactants. Non-ionic emulsifiers are preferred because they minimally extract epidermal lipids from the stratum corneum (SC) and are well tolerated when applied topically. During topical vehicle development, the Franz diffusion cell allows investigators to determine the amount of drug delivered across the SC after topical application. In this study, we characterized extraction and permeation of 10 naturally occurring SC lipids in excised human skin loaded on a Franz cell 24 h after treatment with 4% sodium lauryl sulfate (SLS) aqueous solution versus neat water. Dermatomed human skin was loaded onto vertical Franz cells and chambers were filled with 0.9% NaCl solution. A 7.5-µL dose of water or 4% SLS aqueous solution was added to each Franz cell. Samples were tape stripped, collected, combined, and extracted with 2.0 mL of 1-hexanol/isopropanol/isopropyl myristate/N-methyl-2-pyrrolidone (15/25/20/40 by volume) overnight at 32°C on an orbit shaker. All 10 lipids were recovered from skin in sufficient amounts to be quantitated by liquid chromatography tandem mass spectrometry. Similar amounts of epidermal lipids were extracted from dermis, epidermis, and SC 24 h after dosing with water or 4% SLS, despite varying demographics of the three donors. For the 10 SC lipids characterized in this study, only ceramides showed lag times for appearing in receptor solution of the Franz cells. This study showed that ceramide NP and NS are suitable markers for epidermal lipid extraction after in vitro permeation testing using finite dosing of dermatomed human skin.",
+      "year": "2026",
+      "journal": "AAPS PharmSciTech",
+      "authors": [
+        "Zhang Jerry",
+        "Osborne David W"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Skin Absorption",
+        "Lipids",
+        "Permeability",
+        "Epidermis",
+        "Sodium Dodecyl Sulfate",
+        "Skin",
+        "Surface-Active Agents",
+        "Emulsifying Agents",
+        "Administration, Cutaneous"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717125/"
+    },
+    {
+      "pmid": "42682972",
+      "title": "From physical impact to biological information flow: shock wave regulation of extracellular vesicles mediated tissue repair.",
+      "abstract": "Shock wave is a tunable pulsed mechanical stimulus that may modulate cellular behavior and tissue microenvironments during repair. However, how localized and transient mechanical inputs are translated into sustained paracrine or remote reparative responses remains incompletely understood. Extracellular vesicles, as mediators of intercellular communication after mechanical stress, may help convert local shock wave-induced cellular responses into transmissible biological signals. This narrative review summarizes current evidence on the shock wave-extracellular vesicle axis, focusing on extracellular vesicle release, cargo remodeling, and repair-associated functions. Available studies suggest that shock wave may promote extracellular vesicle secretion through mechanotransduction-related processes, including the ATP/P2X7R/p38 MAPK axis and nSMase2/ceramide signaling, while also altering microRNA-, protein-, and transcription factor-related cargo. Shock wave-induced or shock wave-preconditioned extracellular vesicles have shown potential pro-angiogenic, anti-apoptotic, antioxidative, immunomodulatory, and matrix-remodeling effects in experimental models of skin wounds, myocardial ischemia, myocardial ischemia-reperfusion, and diabetic bladder dysfunction. Overall, the shock wave-extracellular vesicle axis provides a candidate mechanistic framework for explaining part of shock wave-mediated tissue repair. Further studies should standardize shock wave parameters, improve extracellular vesicle characterization, and establish ",
+      "year": "2026",
+      "journal": "Frontiers in cell and developmental biology",
+      "authors": [
+        "Zhang Shengchao",
+        "Gao Yuling",
+        "Zhou Jiaqi",
+        "Li Tong",
+        "Liu Jingwen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42682972/"
+    },
+    {
+      "pmid": "42653634",
+      "title": "Repurposed Aripiprazole-Loaded Hyaluronic Acid/Ceramide/Terpene Nanosponge as a Bioadhesive Topical Delivery System for Cutaneous ",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Albash Rofida",
+        "Nair Anroop B",
+        "Morsy Mohamed A",
+        "Venugopala Katharigatta N",
+        "Shinu Pottathil"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42653634/"
+    }
+  ],
+  "crawled_at": "2026-09-24T23:53:50.607697",
+  "source": "pubmed"
+}
