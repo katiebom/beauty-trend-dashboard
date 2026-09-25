@@ -1,0 +1,214 @@
+{
+  "ingredient_id": "resveratrol",
+  "name_en": "Resveratrol",
+  "name_kr": "레스베라트롤",
+  "category": "anti_aging",
+  "query": "\"Resveratrol\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42782741",
+      "title": "Dietary Modulation of microRNAs as a Potential Nutritional Strategy in Inflammatory and Autoimmune Skin Diseases: A Narrative Review.",
+      "abstract": "Inflammatory and autoimmune skin diseases like psoriasis, atopic dermatitis, and hidradenitis suppurativa present significant therapeutic challenges due to their complex immunological and environmental pathogenesis. This review highlights the critical role of microRNAs (miRNAs) as epigenetic regulators of inflammatory processes and investigates the potential of nutrigenomics to modulate their expression. Bioactive dietary components-including polyphenols such as quercetin, resveratrol, and curcumin, alongside vitamins C and D, selenium, and omega-3 fatty acids-demonstrate the ability to alter miRNA profiles like miR-21, miR-146a, and miR-155. These miRNA alterations may contribute to the regulation of key inflammatory pathways, including nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) and mitogen-activated protein kinase (MAPK), thereby potentially influencing pro-inflammatory cytokine production and keratinocyte proliferation. However, the extent to which individual dietary compounds directly mediate effects on these pathways through miRNA regulation varies and is often supported mainly by preclinical evidence. Clinical data suggests that dietary interventions, such as weight loss and the Mediterranean diet alleviate skin symptoms and lower systemic inflammatory markers. Identifying disease-specific miRNA expression profiles represents an emerging research avenue that may, following analytical and clinical validation, inform future approaches in dermatology.",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Czaplicka Anna",
+        "Dopytalska Klaudia",
+        "Dawid Maciej",
+        "Szymańska Elżbieta",
+        "Walecka Irena"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "MicroRNAs",
+        "Autoimmune Diseases",
+        "Skin Diseases",
+        "Diet",
+        "Inflammation",
+        "Animals",
+        "Epigenesis, Genetic",
+        "Psoriasis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42782741/"
+    },
+    {
+      "pmid": "42778843",
+      "title": "Calcium Carbonate-based Microencapsulation Suppresses Thermal Oxidative Degradation and Enhances the Cellular Activity of Resveratrol.",
+      "abstract": "Resveratrol is a bioactive polyphenol with well-established antioxidant and anti-inflammatory properties; however, its practical application is severely limited by poor aqueous solubility and rapid degradation under thermal and oxidative conditions. In this study, we developed a calcium carbonate (CaCO",
+      "year": "2026",
+      "journal": "AAPS PharmSciTech",
+      "authors": [
+        "Ko Gwanyeong",
+        "Lee Chan Hee",
+        "Kim Yukyung",
+        "Kim Dongwon",
+        "Hwang Ee Taek"
+      ],
+      "mesh_terms": [
+        "Calcium Carbonate",
+        "Resveratrol",
+        "Humans",
+        "Antioxidants",
+        "Drug Compounding",
+        "Oxidation-Reduction",
+        "Keratinocytes",
+        "Solubility",
+        "Temperature",
+        "Drug Stability"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42778843/"
+    },
+    {
+      "pmid": "42743388",
+      "title": "Accessing Polyphenols Effect on Bond Strength and Dentin Enzymatic Degradation.",
+      "abstract": "Polyphenols have been investigated in dental materials and restorative techniques due to their interactions with metal cations, antioxidant activity, and collagen crosslinking ability, which make them a promise for reinforcing the dental substrate and improving material adhesion. However, more studies are necessary before to support their use in clinical procedures.",
+      "year": "2026",
+      "journal": "Clinical and experimental dental research",
+      "authors": [
+        "Alves Ana Catarina Rios Castro",
+        "da Silva Adonias Antonio",
+        "da Silva Roberta Bruno",
+        "de Lima França Rayan",
+        "Romão Dayse Andrade"
+      ],
+      "mesh_terms": [
+        "Dentin",
+        "Humans",
+        "Resveratrol",
+        "Quercetin",
+        "Tensile Strength",
+        "Dental Bonding",
+        "Chlorhexidine",
+        "Collagenases",
+        "Polyphenols",
+        "Dentin-Bonding Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42743388/"
+    },
+    {
+      "pmid": "42733589",
+      "title": "An oral coral-like resveratrol nanocomplex protects against dry eye disease through ocular and systemic redox homeostasis.",
+      "abstract": "Dry eye disease (DED) is a progressive ocular disorder in which chronic inflammation and oxidative stress synergistically damage ocular tissues and impair vision. While topical anti-inflammatory and artificial tears therapies are the standard treatment for DED, their long-term application is limited by adverse effects and poor patient compliance. Emerging evidence suggests that systemic redox dysregulation contributes to DED pathogenesis, highlighting the potential of oral antioxidant intervention as a disease-modifying strategy. However, the clinical translation of oral antioxidants has been constrained by poor bioavailability and rapid metabolic clearance. Herein, a coral-like resveratrol nanocomplex was fabricated with a composite natural carrier of sericin and dipotassium glycyrrhizinate through a simple pH-ultrasonic-shifting method in aqueous solution, enabling effective oral delivery of this potent polyphenolic antioxidant. This coral-like nanocomplex markedly enhanced gastrointestinal stability and systemic exposure of resveratrol, increasing oral bioavailability by approximately 6.62-fold and ocular accumulation by 2.49-fold. The nanocomplex exerted robust ocular and systemic antioxidant effects and protected against experimental DED in mice. Oral administration of this nanocomplex protected against benzalkonium chloride (BAC)-induced corneal epithelial damage, tear film dysfunction, and inflammatory responses. Mechanistically, the nanocomplex alleviated oxidative damage through ocular and systemic redox homeostasis. Rather than acting solely on the ocular surface, this orally nanomedicine may provide complementary therapeutic benefits through ocular and systemic redox regulation, while also being associated with modulation of gut microbiota and metabolic profiles. These findings support oral redox intervention as a promising complementary strategy for protecting against the DED, particularly for reducing the burden of prolonged topical treatment.",
+      "year": "2027",
+      "journal": "Bioactive materials",
+      "authors": [
+        "Cui Qingchen",
+        "Li Yaqiong",
+        "Xie Mengzhen",
+        "Liu Ziyu",
+        "Guo Yihan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42733589/"
+    },
+    {
+      "pmid": "42722183",
+      "title": "Modes of interaction between tapinarof and model lipid membranes mimicking stratum corneum lipid composition and related transdermal transport in human skin.",
+      "abstract": "Tapinarof (3,5-dihydroxy-4-isopropylstilbene, TPN), structurally related to resveratrol, is a nonsteroidal agent that belongs to the class of naturally derived aryl hydrocarbon receptor (AhR) agonists. TPN is an active ingredient of a topical medication (1% cream, VTAMA®). The log P",
+      "year": "2026",
+      "journal": "Biochimica et biophysica acta. Biomembranes",
+      "authors": [
+        "Zatloukalová Martina",
+        "Laroui Abdelatif",
+        "Tóth Ágota",
+        "Chantemargue Benjamin",
+        "Dostálková Lucie"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42722183/"
+    },
+    {
+      "pmid": "42701997",
+      "title": "Seminiferous Tubules-Targeted Resveratrol Carbon Dots With Sertoli Cell Biomimetic Vesicles Fusion for Improving Spermatogenesis of Cryptorchidism.",
+      "abstract": "Impaired blood-testis barrier (BTB) integrity, induced by oxidative stress, is one of the primary factors leading to spermatogenic disorders in cryptorchidism. Therefore, the targeted elimination of testicular oxidative stress and repair of the BTB are promising strategies for promoting spermatogenesis in patients with cryptorchidism. This study aimed to demonstrate the potential of Sertoli cell membrane-camouflaged biomimetic vesicles loaded with resveratrol carbon dots (RCD@PCy@EVs) as a therapeutic nanoagent for cryptorchidism treatment in vivo. The prepared RCD@PCy@EVs are actively targeted to the seminiferous tubules by leveraging the homing tendency of the Sertoli cell membrane, guided by fluorescence imaging. The RCD@PCy@EVs not only reshape the redox microenvironment of the seminiferous tubules and alleviate inflammatory responses by scavenging reactive oxygen species, but they also increase the expression of the tight junction protein β-catenin and restore BTB integrity, which is associated with the activation of the SIRT1/AMPKα/FOXO1 signaling pathway. More importantly, functional spermatogenesis is markedly improved by RCD@PCy@EVs, effectively restoring reproductive function in cryptorchid mice. The RCD@PCy@EVs-mediated therapy for cryptorchidism offers a novel strategy for treating male infertility.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Liu Chaoying",
+        "Li Xipeng",
+        "Li Bin",
+        "Yang Hua",
+        "Wang Ye"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42701997/"
+    },
+    {
+      "pmid": "42694095",
+      "title": "Shared Treg dysregulation underlies psoriasis vulgaris and atopic dermatitis through the PHF19-PRC2 epigenetic axis.",
+      "abstract": "Psoriasis vulgaris (PV) and atopic dermatitis (AD) are chronic inflammatory skin diseases characterized by distinct dominant T cell subsets, yet emerging evidence suggests overlapping immune mechanisms. Whether a shared Treg abnormality underlies both diseases remains unclear.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Lin Yiting",
+        "Su Xiaolei",
+        "Jin Mingzhu",
+        "Wang Yuqi",
+        "Li Yaoyao"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dermatitis, Atopic",
+        "T-Lymphocytes, Regulatory",
+        "Humans",
+        "Psoriasis",
+        "Mice",
+        "Epigenesis, Genetic",
+        "Polycomb Repressive Complex 2",
+        "DNA-Binding Proteins",
+        "Disease Models, Animal"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42694095/"
+    },
+    {
+      "pmid": "42687230",
+      "title": "Drug-Induced Hypersensitivity Syndrome Induced by Resveratrol Dietary Supplement.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "International journal of dermatology",
+      "authors": [
+        "Idrogo-Lam Alexander",
+        "Padniewski Jessica",
+        "Dean Owen",
+        "Bigliardi Paul"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687230/"
+    },
+    {
+      "pmid": "42655116",
+      "title": "Antibacterial and Immunomodulatory Effects of ",
+      "abstract": "Although most upper respiratory tract infections (URTIs) have a viral etiology, antibiotics are widely prescribed, thus contributing substantially to antimicrobial resistance. This study investigated the potential beneficial effects of a novel strain, ",
+      "year": "2026",
+      "journal": "Microorganisms",
+      "authors": [
+        "Mattioli Roberto",
+        "Di Risola Daniel",
+        "Sivori Francesca",
+        "Franzese Ornella",
+        "Genovese Ilaria"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42655116/"
+    },
+    {
+      "pmid": "42653656",
+      "title": "Transferosomes Containing 20-Hydroxyecdysone for Psoriasis Treatment: Preparation, Characterization, and In Vitro and In Vivo Toxicity Assessment.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Bakun Pawel",
+        "Mlynarczyk Dariusz T",
+        "Durowicz Kacper",
+        "Tomczak Szymon",
+        "Dlugaszewska Jolanta"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42653656/"
+    }
+  ],
+  "crawled_at": "2026-09-25T23:54:55.735557",
+  "source": "pubmed"
+}
