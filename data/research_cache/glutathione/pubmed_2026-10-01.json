@@ -1,0 +1,187 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42813670",
+      "title": "Amygdalin Regulates FOXO3a Signaling to Inhibit Oxidative Stress and Improve Alopecia Areata in Mice.",
+      "abstract": "This paper aims to explore the mechanism of amygdalin's (AMG) therapeutic effect on alopecia areata (AA). Hematoxylin-eosin staining was used to probe AMG's hepatorenal toxicity. After establishing the AA model of C3H/HeJ mice and H2O2-damaged human primary epidermal melanocytes (HPEMs), and following AMG intervention, the reactive oxygen species (ROS) content and the levels of forkhead box O3A (FOXO3a) protein and gene were monitored. Biochemical kits or ‌enzyme-linked immunosorbent assay‌ were used to detect the contents of superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase 4 (GPX-4), malondialdehyde (MDA), interleukin-15 (IL-15), interferon-gamma (IFN-γ), and interleukin-6‌ (IL-6). A Western blot was performed to assess the levels of MHC I, IL-15, FOXO3a, SOD, CAT, GPX-4, IFN-γ, IL-6, and IL-15. ChIP-PCR was performed to assess the enrichment of AMG at the promoters of SOD, CAT, and GPX-4 in FOXO3a. Meanwhile, ROS, apoptosis, and the protein and gene levels of FOXO3a, SOD, CAT, and GPX-4 in HPEMs with low FOXO3a expression were investigated. AMG has no potential liver or kidney toxicity and can reduce the expression of MHC I and IL-15 proteins in skin, as well as the serum IL-15. AMG can enhance the expression of the FOXO3a protein and gene in the skin, as well as the levels of SOD, CAT, and GPX-4, while reducing ROS and MDA levels. AMG can inhibit MHC I, IFN-γ, IL-6, and IL-15, MDA, apoptosis, and ROS production in HPEMs, and increase SOD, CAT, and GPX-4 contents. Importantly, AMG can upregulate the expression of the FOXO3a, SOD, CAT, and GPX-4 genes and proteins, and enrich FOXO3a at the promoters of SOD, CAT, and GPX-4. These data suggest that AMG can promote FOXO3a expression and inhibit oxidative stress and inflammatory responses, thereby improving AA in C3H/HeJ mice.",
+      "year": "2026",
+      "journal": "Journal of visualized experiments : JoVE",
+      "authors": [
+        "He Xun",
+        "Liu Jingsong",
+        "Wang Jiawei",
+        "Dai Zhe",
+        "Gong Yugang"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Oxidative Stress",
+        "Forkhead Box Protein O3",
+        "Mice",
+        "Alopecia Areata",
+        "Signal Transduction",
+        "Amygdalin",
+        "Humans",
+        "Reactive Oxygen Species",
+        "Melanocytes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42813670/"
+    },
+    {
+      "pmid": "42811634",
+      "title": "Untargeted LC-MS-Based Metabolomics Reveals Metabolic Fate and Cellular Biochemical Disruptions Induced by 4,4-Diaminodiphenylmethane in Human Skin Fibroblasts.",
+      "abstract": "Human exposure to 4,4'-diaminodiphenylmethane (MDA) occurs predominantly through dermal contact, yet its extra-hepatic biotransformation pathways and the metabolomic disturbances it induces remain poorly characterized. In this study, human skin fibroblasts were incubated with MDA, and untargeted LC-HRMS metabolomics was employed to elucidate the fate of MDA and its associated metabolomic signatures using an integrated data analysis workflow. Metabolite identification (MET ID) results revealed biotransformation products similar to those previously reported in liver microsomes, underscoring the dermal toxicity potential of MDA. Untargeted metabolomics identified 93 and 113 significantly altered features in cell lysates and suspension media, respectively. Multivariate statistical analysis demonstrated pronounced metabolic disruptions, with most features markedly downregulated in MDA-treated cells. Pathway enrichment analysis indicated perturbations in several key metabolic pathways, including strong enrichment of valine, leucine, and isoleucine biosynthesis in cell lysates. In contrast, arginine biosynthesis was predominantly enriched in the suspension media. Colony-formation assays and glutathione measurements were performed to assess cellular toxicity and to support metabolomics interpretations. Collectively, these integrated data analysis findings map the biotransformation profile of MDA exposure and highlight its capacity to induce coordinated metabolic dysfunctions in human skin fibroblasts.",
+      "year": "2026",
+      "journal": "Journal of applied toxicology : JAT",
+      "authors": [
+        "Kawathe Radhika",
+        "Sairam Andhela Leela",
+        "Chinthakindi Sridhar"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42811634/"
+    },
+    {
+      "pmid": "42805561",
+      "title": "Acute cold stress modulates metabolic, antioxidant, and immune responses in the skin of juvenile yellowfin tuna (Thunnus albacares).",
+      "abstract": "This study investigated the effects of acute cold stress on metabolic, antioxidant, and immune responses in the skin tissue of juvenile yellowfin tuna (Thunnus albacares). Fish were exposed to three temperature treatments (30, 24, and 18 °C), with sampling conducted at 0, 12, 24, and 36 h. During early cold exposure, the relative enzymatic capacities of lactate dehydrogenase (LDH) and alanine aminotransferase (ALT) increased under standardized assay conditions, accompanied by upregulation of hexokinase (hk) and ATPase Na",
+      "year": "2026",
+      "journal": "Comparative biochemistry and physiology. Part B, Biochemistry & molecular biology",
+      "authors": [
+        "You Yuzhuo",
+        "Huang Junhua",
+        "Wang Wei",
+        "Fu Zhengyi",
+        "Ma Zhenhua"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42805561/"
+    },
+    {
+      "pmid": "42798804",
+      "title": "Ameliorative Role of Ethanolic ",
+      "abstract": "Chlorpyrifos, an organophosphate (OP) pesticide, is used worldwide in agriculture as an insecticide; its exposure has been linked to neurological disorder, endocrine disruption, cardiovascular disease, etc. ",
+      "year": "2026",
+      "journal": "Veterinary medicine international",
+      "authors": [
+        "Rai Dhanya R",
+        "Parveen Reena Sherin",
+        "Nayak Veena",
+        "Kumari Sandhya",
+        "Bhat Vinutha R"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42798804/"
+    },
+    {
+      "pmid": "42797347",
+      "title": "Disulfiram's Anti-Inflammatory and Antibacterial Effects in Fixed-Dose Combination Therapy for Scabies.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Salavastru Carmen",
+        "Hernández-Martín Angela",
+        "Bulut Sanja",
+        "Fernàndez Fajardo Laura",
+        "Barcia Aymée Robainas"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42797347/"
+    },
+    {
+      "pmid": "42794503",
+      "title": "Dose-Dependent Hepatotoxicity of Zinc Oxide Nanoparticles in Rats: Oxidative Stress, Apoptosis, and Dysregulation of Hepatic miR-122, miR-34a, and miR-21.",
+      "abstract": "Zinc oxide nanoparticles (ZnO NPs) are widely used in biomedical, agricultural, and industrial applications, raising concerns about their potential hepatotoxicity. This study investigated the effects of 28-day oral ZnO NP exposure on hepatic function, oxidative stress, apoptosis, inflammatory signaling, and microRNA expression in rats. Sixty male Wistar albino rats were allocated to three groups (",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Hatem Rasha Muzahem"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Zinc Oxide",
+        "MicroRNAs",
+        "Oxidative Stress",
+        "Apoptosis",
+        "Male",
+        "Rats",
+        "Liver",
+        "Rats, Wistar",
+        "Chemical and Drug Induced Liver Injury"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42794503/"
+    },
+    {
+      "pmid": "42792126",
+      "title": "Skin Histology of ",
+      "abstract": "Amphibians of the family Phyllomedusidae produce complex cutaneous secretions with ecological and pharmacological relevance. Here, we investigated the skin morphology of ",
+      "year": "2026",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Araújo Flávia G D",
+        "Araújo Henrique L L de",
+        "Silva Maria da Gloria da",
+        "Nunes João B",
+        "Resende João G T L"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42792126/"
+    },
+    {
+      "pmid": "42783619",
+      "title": "Polylactic Acid Bioplastics (PLA BPs): A Threat to the Reproductive Health of the Mediterranean Mussel ",
+      "abstract": "In the context of the global transition towards a more sustainable economy, the use of bioplastics (BPs) is rapidly increasing across several sectors, including industry, medicine and cosmetics. Among BPs, polylactic acid (PLA) is the \"polymer of the 21st century\". Because of its wide use and slow degradation capacity, it can be found in various aquatic matrices, causing potential health concerns for biota. This work evaluated the influence of environmental concentrations (0.5 µg/mL) of PLA BPs on the reproductive health of the Mediterranean mussel ",
+      "year": "2026",
+      "journal": "Journal of xenobiotics",
+      "authors": [
+        "Galati Mariachiara",
+        "De Marco Giuseppe",
+        "Dara Mariano",
+        "La Pusata Giulia",
+        "Parisi Maria Giovanna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42783619/"
+    },
+    {
+      "pmid": "42782251",
+      "title": "Materializing RAFT-Made Self-Immolative Poly(Disulfide)s From α-Lipoic Acid: Fabrication of Microneedle-Enabled Biodegradable Nanomedicine for Anti-Melanoma Therapy.",
+      "abstract": "The advent of copolymerization techniques involving α-lipoic acid (LA) and vinyl monomers has significantly transformed the synthetic paradigms of self-immolative poly(disulfide)s. Further leveraging their structure-function-property-design interplay and eventually creating advanced materials are highly appreciated yet remains largely unexplored. A key advancement of this study lies in bridging the divide between controlled LA/vinyl copolymerization and practical materials, by fabricating biodegradable anti-melanoma nanomedicine derived from well-defined self-immolative poly(disulfide)s. To do so, reversible addition-fragmentation chain transfer (RAFT) copolymerization of LA and 2,6-diaminopyridine-substituted vinyl monomer (DAP) is first conducted, endowing glutathione (GSH)-degradable amphiphilic poly(disulfide)s vehicles, P(DAP-co-LANa), equipping hetero-complementary H-bonding DAP motifs toward the chemotherapeutic fluorouracil-1-acetic acid (FUA). On the other hand, FUA is tethered onto the photothermal agent IR780 to afford multifunctional prodrug FUA780, incorporating an H-bonding array, chemotherapeutic, and photothermal activities. DAP/FUA H-bonding interaction-mediated assembly thus endow the construction of targeted smart nanomedicine FUA780@P(DAP-co-LANa). Moreover, to effectively cross the skin barrier, FUA780@P(DAP-co-LANa) is embedded within dissolvable microneedles, indeed standing out in malignant melanoma treatment, via spatiotemporal cargo delivery and synergistic chemo/photothermal therapy (CT/PTT). Such a controlled synthetic approach and well-defined structural characteristics through LA/vinyl copolymerization are anticipated to serve as a pivotal foundation for advancing the design principles underlying dynamic material paradigms.",
+      "year": "2026",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "authors": [
+        "Qiu Zhijie",
+        "Li Zeke",
+        "Chen Senbin",
+        "Zhu Jintao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42782251/"
+    },
+    {
+      "pmid": "42777471",
+      "title": "Ameliorating effects and mechanisms of tuna peptides on UVB-induced photoaging and melanogenesis targeting oxidative stress, apoptosis, and tyrosinase inactivation.",
+      "abstract": "Ultraviolet B (UVB) radiation causes skin photodamage and excessive melanogenesis, but effective multi-target protective agents remain limited. Antioxidant peptides derived from marine by-products are promising; however, it remains unclear whether specific peptides from skipjack tuna skin can simultaneously alleviate UVB-induced photodamage and inhibit melanogenesis, and the underlying molecular mechanisms are poorly defined. Therefore, the primary objective of this study was to systematically investigate the protective efficacy and molecular mechanisms of three antioxidant peptides derived from skipjack tuna skin-Met-Pro-Ala-Gly-Glu (MPAGE), Leu-Asn-Pro-Gly-Ala (LNPGA), and Gly-Thr-Gly-Pro-Ala (GTGPA)-against UVB-induced skin photodamage and excessive melanogenesis. We hypothesized that these peptides exert synergistic photoprotective and anti-melanogenic effects via multi-target regulation of Nrf2-mediated antioxidant pathways, inflammatory and apoptotic cascades, and tyrosinase inhibition. In UVB-irradiated HaCaT cells, MPAGE, LNPGA, and GTGPA significantly upregulate nuclear factor erythroid 2-related factor 2 (Nrf2) protein expression and promote its nuclear translocation, increasing the levels of NAD(P)H quinone dehydrogenase 1 (NQO1), superoxide dismutase (SOD), glutathione peroxidase (GSH-Px) and catalase (CAT) levels, thereby scavenging reactive oxygen species (ROS), reducing malondialdehyde (MDA), and alleviating oxidative damage. Mechanistically, molecular docking predictions suggested that these peptides may activate Nrf2 by interacting with the Kelch domain of kelch-like ECH-associated protein 1 (Keap1) and competitively occupying its ligand-binding pockets. Additionally, the peptides also attenuated apoptosis by reducing bcl-2-associated X protein/b-cell lymphoma 2 (Bax/Bcl-2) ratio and cysteine-dependent aspartate-specific protease 3 (Caspase-3) level. Moreover, they potently inhibited the β-galactosidase and collagenase production and reduced matrix metalloproteinase-1 (MMP-1) and matrix metalloproteinase-3 (MMP-3) levels, suppressing UVB-induced collagen degradation and mitigating skin photoaging. Enzyme-Linked Immunosorbent Assay (ELISA) revealed a marked reduction in interleukin-6 (IL-6), interleukin-1 β (IL-1β), and tumor necrosis factor α (TNF-α) levels, demonstrating significant anti-inflammatory effects. Finally, MPAGE, LNPGA, and GTGPA exhibited dose-dependent inhibitory effects on melanogenesis in B16-F10 cells. In silico docking analysis further predicted that these peptides could deeply embed in the active pocket of tyrosinase by hydrogen bondings interactions (<6 Å) with key catalytic residues. In summary, this work provides the first comprehensive mechanistic characterization of MPAGE, LNPGA, and GTGPA, demonstrating that they alleviate UVB-induced photodamage through synergistic antioxidant, anti-aging, anti-inflammatory, and anti-apoptotic mechanisms, while potentially inhibiting melanogenesis through computationally predicted tyrosinase suppression. These findings provide a basis for further experimental validation of these peptides as multi-target skin-protective agents.",
+      "year": "2026",
+      "journal": "Journal of photochemistry and photobiology. B, Biology",
+      "authors": [
+        "Wang Yu-Mei",
+        "Zeng Yu-Hui",
+        "Zheng Shuo-Lei",
+        "Wang Bin",
+        "Chi Chang-Feng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42777471/"
+    }
+  ],
+  "crawled_at": "2026-10-01T00:30:27.755053",
+  "source": "pubmed"
+}
