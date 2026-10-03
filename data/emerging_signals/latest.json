@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:21:34.063089",
+  "generated_at": "2026-10-03T23:37:19.616351",
   "total_ingredients": 48,
   "signals": [
     {
@@ -119,6 +119,64 @@
       ]
     },
     {
+      "ingredient_id": "exosome",
+      "name_kr": "엑소좀",
+      "name_en": "Exosome",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 3,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 4
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 18.2,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42809765",
+          "title": "Exosome-based therapy for androgenetic alopecia: a systematic review of preclinical mechanisms and efficacy.",
+          "year": "2026",
+          "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica"
+        },
+        {
+          "pmid": "42799387",
+          "title": "Human Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes Attenuate IMQ-Induced Psoriasiform Dermatitis: A Preclinical",
+          "year": "2026",
+          "journal": "Stem cells international"
+        },
+        {
+          "pmid": "42764745",
+          "title": "Mechanisms and Therapeutic Advances of M2 Macrophages and Mesenchymal Stem Cell-derived Exosomes in Diabetic Wound Heali",
+          "year": "2026",
+          "journal": "Current stem cell research & therapy"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42826557",
+          "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-media",
+          "year": "2026",
+          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
+        },
+        {
+          "pmid": "42797259",
+          "title": "Topical ",
+          "year": "2026",
+          "journal": "Pharmaceutics"
+        },
+        {
+          "pmid": "42738686",
+          "title": "Delivery of Anti-VEGFA Antibody by Plant-Derived Exosome-like Nanovesicles Alleviates Corneal Angiogenesis and Fibrosis ",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        }
+      ]
+    },
+    {
       "ingredient_id": "madecassoside",
       "name_kr": "마데카소사이드",
       "name_en": "Madecassoside",
@@ -200,58 +258,6 @@
           "title": "Enhanced transdermal delivery of [6]-Gingerol via Co-Administration of Acmella oleracea and Zingiber officinale lipophil",
           "year": "2026",
           "journal": "International journal of pharmaceutics"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "exosome",
-      "name_kr": "엑소좀",
-      "name_en": "Exosome",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 3,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 5
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.5,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42809765",
-          "title": "Exosome-based therapy for androgenetic alopecia: a systematic review of preclinical mechanisms and efficacy.",
-          "year": "2026",
-          "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica"
-        },
-        {
-          "pmid": "42799387",
-          "title": "Human Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes Attenuate IMQ-Induced Psoriasiform Dermatitis: A Preclinical",
-          "year": "2026",
-          "journal": "Stem cells international"
-        },
-        {
-          "pmid": "42764745",
-          "title": "Mechanisms and Therapeutic Advances of M2 Macrophages and Mesenchymal Stem Cell-derived Exosomes in Diabetic Wound Heali",
-          "year": "2026",
-          "journal": "Current stem cell research & therapy"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42797259",
-          "title": "Topical ",
-          "year": "2026",
-          "journal": "Pharmaceutics"
-        },
-        {
-          "pmid": "42738686",
-          "title": "Delivery of Anti-VEGFA Antibody by Plant-Derived Exosome-like Nanovesicles Alleviates Corneal Angiogenesis and Fibrosis ",
-          "year": "2026",
-          "journal": "Molecules (Basel, Switzerland)"
         }
       ]
     },

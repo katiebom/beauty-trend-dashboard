@@ -113,7 +113,13 @@
         "Rocha Fernando",
         "Martins Pedro M"
       ],
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Lactoglobulins",
+        "Vitamin A",
+        "Whey Proteins",
+        "Drug Stability",
+        "Drug Compounding"
+      ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617207/"
     },
     {
@@ -217,6 +223,6 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42396622/"
     }
   ],
-  "crawled_at": "2026-10-03T00:21:05.386702",
+  "crawled_at": "2026-10-03T23:36:52.074188",
   "source": "pubmed"
 }

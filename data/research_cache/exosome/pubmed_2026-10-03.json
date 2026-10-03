@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42826557",
+      "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-mediated fatty acid metabolism.",
+      "abstract": "Ultraviolet (UV) radiation causes skin photoaging by inducing reactive oxygen species (ROS) accumulation, extracellular matrix remodeling, and lipid metabolic dysregulation, which may progress to actinic keratosis and invasive squamous cell carcinoma. Plant-derived exosome-like nanoparticles (PDNPs) are promising anti-aging strategies, but current studies mainly focus on PDNPs-associated miRNAs, whereas the roles and targets of enriched secondary metabolites remain unclear. This study aimed to elucidate the key metabolite and mechanism underlying the anti-photoaging activity of aloe rind-derived nanoparticles (rADNPs).",
+      "year": "2026",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Zheng Yuzhou",
+        "Li Jiali",
+        "Wang Jingwen",
+        "Zhang Jiaxin",
+        "Tang Zixuan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826557/"
+    },
+    {
       "pmid": "42826135",
       "title": "PAK4 exacerbates melanoma immunosuppression by promoting exosome release.",
       "abstract": "Melanoma remains a lethal malignancy with frequent resistance to immune checkpoint blockade therapy. Clinical evidence associates elevated PAK4 expression with poor response to anti-PD-1 treatment in melanoma patients. While tumor-derived exosomes are recognized as key immunosuppressive mediators, the role of PAK4 in regulating exosome secretion to induce immunosuppression remains incompletely understood. Here, we demonstrate that PAK4-mediated phosphorylation of Annexin-A2 (ANXA2) at Ser26 promotes its nuclear-to-cytoplasmic translocation, facilitating the formation of S100A10-ANXA2 heterotetramers that drive multivesicular body docking to the plasma membrane. Furthermore, PAK4 stabilizes synaptotagmin-1 by suppressing Trim21-mediated ubiquitin degradation, enabling SNARE complex assembly for membrane fusion. PAK4-driven exosomes exhibit potent immunosuppressive activity, substantially reducing CD8",
@@ -189,24 +205,8 @@
         "Angiogenesis Inhibitors"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42738686/"
-    },
-    {
-      "pmid": "42738352",
-      "title": "Proteoglycans as Regulators of Receptor Trafficking and Spatial Signaling in Cancer.",
-      "abstract": "Cellular responses depend on the coordinated regulation of receptor activation, trafficking, and signaling across distinct membrane and intracellular compartments. Proteoglycans (PGs), traditionally regarded as structural components of the extracellular matrix and co-receptors, are now emerging as active organizers of receptor dynamics. This review examines the mechanisms through which PGs regulate receptor trafficking and spatial signaling in cancer. Recent studies addressing the roles of proteoglycans in receptor clustering, endocytic pathway selection, intracellular trafficking, recycling, lysosomal degradation, endosomal signaling, exosome biogenesis, and nuclear receptor transport were evaluated, with particular attention to the strength of direct evidence for trafficking. Particular attention was given to the complementary functions of proteoglycan core proteins, glycosaminoglycan chains, and extracellular matrix remodeling in shaping receptor behavior. Current evidence demonstrates that proteoglycans govern multiple stages of receptor biology by controlling ligand presentation, receptor accessibility, membrane organization, intracellular trafficking, and signaling persistence. Individual proteoglycans exert distinct effects on receptor fate, ranging from receptor downregulation and degradation to sustained endosomal signaling and nuclear receptor translocation. Cancer-associated alterations in proteoglycan expression, glycosaminoglycan sulfation, heparanase activity, ectodomain shedding, and glycocalyx organization remodel signaling networks, strengthen communication between tumor and stromal cells, and promote tumor progression, immune modulation, metastasis, and therapeutic resistance. Proteoglycans have emerged as fundamental regulators of receptor trafficking and signaling architecture. Through the integration of extracellular matrix organization with receptor dynamics, they shape the spatial and temporal properties of oncogenic signaling. This conceptual framework broadens our understanding of tumor biology and identifies proteoglycan-dependent regulation of receptor trafficking as a promising avenue for future therapeutic intervention.",
-      "year": "2026",
-      "journal": "Cancers",
-      "authors": [
-        "Berdiaki Aikaterini",
-        "Konstantaraki Maria",
-        "Ajlan Zuha",
-        "Marmara Maria",
-        "Tsatsakis Aristidis"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42738352/"
     }
   ],
-  "crawled_at": "2026-10-03T00:21:04.580412",
+  "crawled_at": "2026-10-03T23:36:51.102605",
   "source": "pubmed"
 }

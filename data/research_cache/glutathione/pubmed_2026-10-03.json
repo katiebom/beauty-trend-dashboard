@@ -7,6 +7,49 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42827322",
+      "title": "Modulation of Inflammatory and Redox Responses by Saturnia Spa Water and Mud Extract in Human Skin Cell Models.",
+      "abstract": "Thermal waters and peloid-derived products have long been used in dermatological and spa treatments, although the cellular mechanisms underlying their biological effects remain incompletely characterized. This study investigated the effects of Saturnia spa water (TW) and an aqueous mud extract (MUD) on inflammatory, redox, and wound-healing responses in human skin cell models.",
+      "year": "2026",
+      "journal": "BioMed research international",
+      "authors": [
+        "Costantini Erica",
+        "Pellacani Giovanni",
+        "Shahzadi Chman",
+        "Reale Marcella",
+        "Kanwal Shamsa"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Reactive Oxygen Species",
+        "Oxidation-Reduction",
+        "Plant Extracts",
+        "Cell Survival",
+        "Keratinocytes",
+        "Inflammation",
+        "Wound Healing",
+        "Fibroblasts",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42827322/"
+    },
+    {
+      "pmid": "42826770",
+      "title": "rsRNA-28S-21 promotes endometrial cancer by regulating ferroptosis through the NSUN5-FTH1/FTL pathway.",
+      "abstract": "rRNA-derived small RNAs (rsRNAs), processed from ribosomal RNA, represent a novel subclass of small non-coding RNAs. Studies have demonstrated their involvement in cancer progression; however, their role in endometrial carcinoma remains unclear. In this study, RIP-seq was performed to analyze NSUN5-bound rsRNAs in EC cells, and qRT-PCR was used to quantify rsRNA-28S-21 expression. Functional assays were conducted to evaluate oncogenic characteristics. Mechanistic investigations included RNA-protein interactions (RNA pull-down, FISH, and RIP), m",
+      "year": "2026",
+      "journal": "Gene",
+      "authors": [
+        "Liu Yao",
+        "Xian Jing-Yuan",
+        "Ben Tian-Ru",
+        "Wang Jie-Lin",
+        "Wu Wu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826770/"
+    },
+    {
       "pmid": "42824821",
       "title": "Deciphering cysteamine's impact on cashmere-producing traits of cashmere goats: a transcriptomic and metabolomic perspective.",
       "abstract": "This study addresses the practical production problem of inferior cashmere quality in cashmere goats. We supplemented cysteamine (CS) in diets to regulate cashmere‑production‑related traits and explore its underlying nutritional regulatory pathways, so as to support the scientific and rational application of cysteamine in cashmere goat production.",
@@ -149,39 +192,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42792126/"
-    },
-    {
-      "pmid": "42783619",
-      "title": "Polylactic Acid Bioplastics (PLA BPs): A Threat to the Reproductive Health of the Mediterranean Mussel ",
-      "abstract": "In the context of the global transition towards a more sustainable economy, the use of bioplastics (BPs) is rapidly increasing across several sectors, including industry, medicine and cosmetics. Among BPs, polylactic acid (PLA) is the \"polymer of the 21st century\". Because of its wide use and slow degradation capacity, it can be found in various aquatic matrices, causing potential health concerns for biota. This work evaluated the influence of environmental concentrations (0.5 µg/mL) of PLA BPs on the reproductive health of the Mediterranean mussel ",
-      "year": "2026",
-      "journal": "Journal of xenobiotics",
-      "authors": [
-        "Galati Mariachiara",
-        "De Marco Giuseppe",
-        "Dara Mariano",
-        "La Pusata Giulia",
-        "Parisi Maria Giovanna"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42783619/"
-    },
-    {
-      "pmid": "42782251",
-      "title": "Materializing RAFT-Made Self-Immolative Poly(Disulfide)s From α-Lipoic Acid: Fabrication of Microneedle-Enabled Biodegradable Nanomedicine for Anti-Melanoma Therapy.",
-      "abstract": "The advent of copolymerization techniques involving α-lipoic acid (LA) and vinyl monomers has significantly transformed the synthetic paradigms of self-immolative poly(disulfide)s. Further leveraging their structure-function-property-design interplay and eventually creating advanced materials are highly appreciated yet remains largely unexplored. A key advancement of this study lies in bridging the divide between controlled LA/vinyl copolymerization and practical materials, by fabricating biodegradable anti-melanoma nanomedicine derived from well-defined self-immolative poly(disulfide)s. To do so, reversible addition-fragmentation chain transfer (RAFT) copolymerization of LA and 2,6-diaminopyridine-substituted vinyl monomer (DAP) is first conducted, endowing glutathione (GSH)-degradable amphiphilic poly(disulfide)s vehicles, P(DAP-co-LANa), equipping hetero-complementary H-bonding DAP motifs toward the chemotherapeutic fluorouracil-1-acetic acid (FUA). On the other hand, FUA is tethered onto the photothermal agent IR780 to afford multifunctional prodrug FUA780, incorporating an H-bonding array, chemotherapeutic, and photothermal activities. DAP/FUA H-bonding interaction-mediated assembly thus endow the construction of targeted smart nanomedicine FUA780@P(DAP-co-LANa). Moreover, to effectively cross the skin barrier, FUA780@P(DAP-co-LANa) is embedded within dissolvable microneedles, indeed standing out in malignant melanoma treatment, via spatiotemporal cargo delivery and synergistic chemo/photothermal therapy (CT/PTT). Such a controlled synthetic approach and well-defined structural characteristics through LA/vinyl copolymerization are anticipated to serve as a pivotal foundation for advancing the design principles underlying dynamic material paradigms.",
-      "year": "2026",
-      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
-      "authors": [
-        "Qiu Zhijie",
-        "Li Zeke",
-        "Chen Senbin",
-        "Zhu Jintao"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42782251/"
     }
   ],
-  "crawled_at": "2026-10-03T00:21:13.513925",
+  "crawled_at": "2026-10-03T23:37:00.489575",
   "source": "pubmed"
 }
