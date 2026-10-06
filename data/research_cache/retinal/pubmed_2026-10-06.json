@@ -1,0 +1,202 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42831177",
+      "title": "Acute bacterial endophthalmitis with focal vitritis at a nasal chandelier illumination port after scleral buckling.",
+      "abstract": "Chandelier-assisted scleral buckling (CSB) has been reported to offer enhanced fundus visualization and reduced operative time during retinal detachment repair compared with conventional methods. However, the required intraocular penetration creates a potential route for bacterial entry into the eye.",
+      "year": "2026",
+      "journal": "IDCases",
+      "authors": [
+        "Mori Yuki",
+        "Torikai Tomohiko",
+        "Shiraishi Atsushi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42831177/"
+    },
+    {
+      "pmid": "42829556",
+      "title": "Microsurgical obliteration of a high-flow intraorbital arteriovenous malformation fed by the ophthalmic artery: Illustrative case.",
+      "abstract": "Intraorbital arteriovenous malformations (AVMs) are exceedingly rare high-flow vascular lesions that pose a direct threat to visual function through progressive proptosis, optic nerve compression, and retinal ischemia. When the ophthalmic artery (OA) constitutes one of the arterial feeders, endovascular embolization carries a prohibitive risk of permanent visual loss, making microsurgical resection the treatment of choice.",
+      "year": "2026",
+      "journal": "Surgical neurology international",
+      "authors": [
+        "Lame Artid Agron",
+        "Ruka Maren Ethem",
+        "Kalefi Thoma Frederik",
+        "Disha Klaudio Hekri",
+        "Xhumari Artur Arian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42829556/"
+    },
+    {
+      "pmid": "42826076",
+      "title": "Bilateral en coup de sabre with bilateral ophthalmic involvement and hearing loss: A rare case report with review of literature.",
+      "abstract": "En coup de sabre (ECDS) is a rare craniofacial variant of linear scleroderma characterized by a band-like induration of the frontoparietal skin resembling the strike of a sabre. Bilateral involvement is exceptionally rare, and concurrent bilateral ophthalmic manifestations with mixed hearing loss (sensorineural and conductive) have not been previously described.",
+      "year": "2026",
+      "journal": "Ocular immunology and inflammation",
+      "authors": [
+        "Mahal Ramneek",
+        "Verma Saurabh",
+        "Azad Shorya Vardhan",
+        "Shaikh Nawazish",
+        "Kumawat Devesh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826076/"
+    },
+    {
+      "pmid": "42812627",
+      "title": "Effect of Topical Bromfenac 0.09% on Pain Following Intravitreal Antivascular Endothelial Growth Factor Injections.",
+      "abstract": "To evaluate the effect of topical bromfenac 0.09% on pain following intravitreal (IVT) injection of antivascular endothelial growth factor (anti-VEGF) medications in patients diagnosed as having choroidal neovascularization secondary to age-related macular degeneration or other etiologies, diabetic macular edema, diabetic retinopathy, or macular edema associated with retinal vein occlusion.",
+      "year": "2026",
+      "journal": "Journal of vitreoretinal diseases",
+      "authors": [
+        "Achuck Kathryn",
+        "Soares Rebecca",
+        "Solish Danielle",
+        "Popovic Marko",
+        "Felfeli Tina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42812627/"
+    },
+    {
+      "pmid": "42802198",
+      "title": "Electroretinographic assessment of retinal function in preterm infants using the RETeval™ device: a proposal for reference data.",
+      "abstract": "To establish age-adjusted flicker ERG reference values in premature infants through serial recordings, aiming to characterize retinal functional maturation and support diagnostic interpretation in retinopathy of prematurity screening.",
+      "year": "2026",
+      "journal": "Documenta ophthalmologica. Advances in ophthalmology",
+      "authors": [
+        "Lanzelotte Viviane",
+        "Damasceno Eduardo F",
+        "Gonet Bárbara",
+        "Ramos Carolina do Val F",
+        "Gerth-Kahlert Christina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42802198/"
+    },
+    {
+      "pmid": "42801408",
+      "title": "Genomic and metabolomic insights into carotenoid biosynthesis in a novel deep-sea bacterium, Paracoccus niotae sp. nov., isolated from an Arabian Sea seamount.",
+      "abstract": "Natural microbial carotenoids are increasingly recognized as alternatives to synthetic pigments because of their broad applications in the food, pharmaceutical, nutraceutical, cosmetic, feed, and aquaculture industries. In this study, a bright orange-pigmented deep-sea bacterium, strain NIOT.M2S5SZ12ᵀ, isolated from Arabian Sea seamount sediment, was comprehensively characterized to evaluate its carotenoid biosynthetic potential and taxonomic status. Phylogenetic analysis placed the strain within the genus Paracoccus, while whole-genome sequencing generated a 3.6 Mb draft genome with a GC content of 68.50 mol%. Genome-based taxonomic analyses yielded maximum digital DNA-DNA hybridization and average nucleotide identity values of 30.9% and 86.39%, respectively, confirming that the isolate represents a novel species within the genus. Comparative pan-genome analysis revealed an open pan-genome comprising 19,613 gene clusters, including 1,288 strain-specific genes. Phenotypic, physiological, and chemotaxonomic analyses further distinguished the isolate from closely related Paracoccus type strains. Genome mining using antiSMASH and KEGG pathway reconstruction identified key carotenoid biosynthesis genes (idi, crtE, crtB, crtI, crtY, crtZ, and crtW). The strain produced 67.93 ± 3.76 mg g⁻¹ dry biomass of crude pigment, and UHPLC-APCI-Orbitrap MS/MS confirmed the production of astaxanthin, zeaxanthin, canthaxanthin, retinal, and several apo-carotenoid derivatives. Based on comprehensive phenotypic, chemotaxonomic, phylogenetic, genomic, and metabolomic evidence, strain Z12 is proposed as Paracoccus niotae sp. nov. NIOT.M2S5SZ12ᵀ under the SeqCode framework. These findings establish Paracoccus niotae as a promising marine microbial resource for sustainable carotenoid production and biotechnology.",
+      "year": "2026",
+      "journal": "World journal of microbiology & biotechnology",
+      "authors": [
+        "Alagarsamy Abirami",
+        "Verma Pankaj",
+        "Deivendran Harini",
+        "Sundaramurthy Thenaruvi",
+        "Dharani Gopal"
+      ],
+      "mesh_terms": [
+        "Paracoccus",
+        "Carotenoids",
+        "Phylogeny",
+        "Genome, Bacterial",
+        "Seawater",
+        "Metabolomics",
+        "Base Composition",
+        "Genomics",
+        "Geologic Sediments",
+        "DNA, Bacterial"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42801408/"
+    },
+    {
+      "pmid": "42796989",
+      "title": "Retinal and Choroidal Vascular Changes Associated with Vitamin D Deficiency.",
+      "abstract": "Vitamin D is involved in endothelial regulation, inflammatory control, oxidative stress responses, angiogenesis, and neurovascular homeostasis, providing a biological basis for its potential involvement in the retinal and choroidal circulation. This narrative review synthesizes evidence from studies investigating associations between serum 25-hydroxyvitamin D [25(OH)D] concentrations and ocular vascular parameters assessed using optical coherence tomography (OCT), OCT angiography (OCTA), and retinal vascular imaging. Evidence from adult and pediatric populations generally associated vitamin D deficiency (VDD) with lower vessel density in the superficial and deep capillary plexuses, altered retinal vascular caliber and foveal avascular zone morphology, and reduced choroidal thickness or vascularity. However, the direction and magnitude of retinal OCTA findings were inconsistent, and conventional retinal structural measurements frequently remained unchanged. Supplementation studies reported relatively consistent increases in choroidal thickness and vascularity, whereas retinal perfusion responses were limited. Preliminary studies suggested that correction of VDD might support a more sustained response to bevacizumab in diabetic macular edema and central retinal vein occlusion, although this effect was not demonstrated consistently across retinal vascular diseases. Lower 25(OH)D concentrations were also more frequent among patients with retinal vascular occlusions, but residual systemic vascular confounding limits causal interpretation. Overall, current evidence supports a biologically plausible association between vitamin D status and ocular microvascular health but does not establish causality, functional visual benefit, or a specific therapeutic indication for supplementation. Longitudinal multicenter studies and randomized trials using standardized imaging protocols, functional outcomes, biochemical confirmation of vitamin D correction, and validated automated image analysis are required to determine the clinical relevance and reversibility of these findings.",
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Tarași Tudor Corneliu",
+        "Donica Vlad Constantin",
+        "Cianga Vlad-Andrei",
+        "Aniță Dragoș-Constantin",
+        "Lazăr Mircea"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Vitamin D Deficiency",
+        "Vitamin D",
+        "Retinal Vessels",
+        "Tomography, Optical Coherence",
+        "Choroid",
+        "Retinal Diseases",
+        "Child",
+        "Dietary Supplements",
+        "Adult"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42796989/"
+    },
+    {
+      "pmid": "42795306",
+      "title": "Highlighting Ophthalmic Adverse Effects Associated with Isotretinoin.",
+      "abstract": "Isotretinoin is a highly effective treatment for moderate-to-severe acne vulgaris but is associated with a broad spectrum of ophthalmic adverse effects. While dry eye disease secondary to meibomian gland dysfunction is the most common ocular complication, less familiar manifestations include nyctalopia, corneal abnormalities, retinal changes, idiopathic intracranial hypertension, and optic neuritis. Current evidence suggests that isotretinoin induces structural and functional changes in the meibomian glands, resulting in tear film instability and evaporative dry eye disease. Although many of these changes appear reversible following treatment cessation, some patients may experience persistent symptoms. This review was conducted as a structured narrative review of the ophthalmic adverse effects associated with systemic isotretinoin use. A literature search was performed using PubMed and Embase for articles published from inception to 1 June 2026. Nyctalopia is a well-established adverse effect attributable to rod photoreceptor dysfunction and may have important implications for occupations requiring optimal night vision. Corneal remodelling and ocular surface dysfunction are particularly relevant in contact lens wearers and patients considering refractive and corneal surgery, for instance corneal transplants. Rare but potentially sight-threatening neuro-ophthalmic complications have also been reported. Clinicians prescribing isotretinoin should routinely enquire about visual symptoms and maintain a low threshold for ophthalmic referral. Early recognition and collaborative management between dermatologists, general practitioners, and eye care practitioners are essential to minimise visual morbidity, promote ocular comfort and optimise patient outcomes. This review aimed to provide an updated, clinically focused synthesis of the ophthalmic adverse effects of isotretinoin, emphasising pathophysiological mechanisms, clinical presentation, evidence supporting reversibility, and practical recommendations for ophthalmologists, dermatologists, and primary care clinicians.",
+      "year": "2026",
+      "journal": "Life (Basel, Switzerland)",
+      "authors": [
+        "Pan Jason Timothy",
+        "Daniel Benjamin S",
+        "Tan Benjamin",
+        "Lim Blanche X H",
+        "Murrell Dedee F"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42795306/"
+    },
+    {
+      "pmid": "42794400",
+      "title": "Enzyme-Instructed Self-Assembling Peptide Hydrogels for Sustained Subconjunctival Delivery of Dexamethasone: A Stereochemical Comparison of L- and D-Enantiomeric Peptides for Postoperative Ocular Anti-Inflammatory Therapy.",
+      "abstract": "Sustained postoperative anti-inflammatory therapy following intraocular surgery remains an unmet clinical need, as conventional topical corticosteroid eye drops suffer from poor bioavailability, patient non-compliance, and an inability to maintain therapeutic drug levels over the multi-week inflammatory resolution period. Here we report the development and characterization of alkaline phosphatase (ALP)-responsive enzyme-instructed self-assembling (EISA) peptide hydrogels based on the ultrashort amphiphilic sequence NapFFKY(p)-OH, covalently conjugated with dexamethasone (DEX) via an ester-cleavable succinyl linker, in both L- and D-enantiomeric forms, as injectable platforms for subconjunctival drug delivery. Both conjugates, L-NapFFK(DEX)Y(p)-OH and D-NapFFK(DEX)Y(p)-OH, were synthesized with chemical purity (87.3% and 89.8%, respectively) and theoretical DEX loading of 29.58% ",
+      "year": "2026",
+      "journal": "Gels (Basel, Switzerland)",
+      "authors": [
+        "Baviskar Shubhamkumar M",
+        "Mishra Deepakkumar",
+        "Vora Lalitkumar",
+        "Laverty Garry",
+        "Pentlavalli Sreekanth"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42794400/"
+    },
+    {
+      "pmid": "42791542",
+      "title": "Quantitative assessment of radial peripapillary capillary plexus vessel density after retrobulbar block in cataract surgery: a randomized controlled trial.",
+      "abstract": "To evaluate the effect of retrobulbar anesthesia administered before phacoemulsification on radial peripapillary capillary (RPC) plexus vessel density (VD) using optical coherence tomography angiography (OCTA).",
+      "year": "2026",
+      "journal": "BMC ophthalmology",
+      "authors": [
+        "Yilmaz Alper Can",
+        "Songur H Saltuk",
+        "Ayyildiz Onder",
+        "Mutlu Fatih Mehmet"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Prospective Studies",
+        "Tomography, Optical Coherence",
+        "Male",
+        "Phacoemulsification",
+        "Aged",
+        "Optic Disk",
+        "Capillaries",
+        "Retinal Vessels"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42791542/"
+    }
+  ],
+  "crawled_at": "2026-10-06T01:51:44.344206",
+  "source": "pubmed"
+}
