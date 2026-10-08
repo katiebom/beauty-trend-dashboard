@@ -1,0 +1,180 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42840260",
+      "title": "Research progress on the use of beta-blockers in the progression prevention, and treatment of retinopathy of prematurity.",
+      "abstract": "Retinopathy of prematurity (ROP) is a proliferative retinal vascular disorder unique to preterm infants with extremely low birth weight, ranking as the top cause of preventable childhood blindness. Retinal hypoxia, excessive secretion of vascular endothelial growth factor (VEGF) and dysregulation of insulin-like growth factor-1 (IGF-1) constitute the core pathogenic cascades of ROP. As competitive antagonists of ",
+      "year": "2026",
+      "journal": "Frontiers in pediatrics",
+      "authors": [
+        "Bai Shuanghong",
+        "Sun Huiqing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42840260/"
+    },
+    {
+      "pmid": "42839239",
+      "title": "Beyond macrocirculatory targets: a multimodal framework for microcirculatory and organ perfusion monitoring in sepsis.",
+      "abstract": "Microcirculatory dysfunction may persist despite restoration of conventional macrocirculatory targets in sepsis, reflecting loss of hemodynamic coherence. This review synthesizes current microcirculatory monitoring approaches according to the physiological information they provide and examines how complementary modalities may be integrated to characterize persistent or regional tissue hypoperfusion.",
+      "year": "2026",
+      "journal": "Critical care (London, England)",
+      "authors": [
+        "Yin Xuebin",
+        "Guan Haowen",
+        "Zhou Ming",
+        "Fan Lisha",
+        "Liu Qiuxia"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Microcirculation",
+        "Sepsis",
+        "Monitoring, Physiologic",
+        "Hemodynamics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42839239/"
+    },
+    {
+      "pmid": "42833844",
+      "title": "Uveitis despite adalimumab therapy in Blau syndrome.",
+      "abstract": "Blau syndrome is a rare granulomatous autoinflammatory disease caused by NOD2 mutations and characterised by dermatitis, arthritis and uveitis. We report a middle childhood boy initially diagnosed with oligoarticular juvenile idiopathic arthritis (JIA) because arthritis was the predominant early manifestation. He had papular skin lesions in infancy and periarticular swelling and tenosynovial cysts, later developed persistent arthritis and recurrent fever. Genetic testing identified a heterozygous NOD2 variant (c.1001G>A, p.Arg334Gln [R334Q]), confirming Blau syndrome. Despite ongoing methotrexate and adalimumab therapy, routine ophthalmic examination revealed unilateral anterior uveitis with iris nodules. Fundus examination showed bilateral multifocal chorioretinal lesions, and fluorescein angiography demonstrated retinal vasculitis. Ocular inflammation became quiescent after topical corticosteroid treatment and weight-based escalation of adalimumab. This case highlights that Blau syndrome may masquerade as JIA and that regular ophthalmic surveillance remains essential even during biologic therapy.",
+      "year": "2026",
+      "journal": "BMJ case reports",
+      "authors": [
+        "Takasaki Takeshi",
+        "Watanabe Meri",
+        "Kawahara Yuta",
+        "Kaburaki Toshikatsu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Arthritis",
+        "Uveitis",
+        "Synovitis",
+        "Adalimumab",
+        "Nod2 Signaling Adaptor Protein",
+        "Antirheumatic Agents",
+        "Cranial Nerve Diseases",
+        "Dermatitis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833844/"
+    },
+    {
+      "pmid": "42833495",
+      "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Ameri Kimia",
+        "Ashamalla Mark",
+        "Shunmugam Maheshver",
+        "Kipfer Sharon",
+        "Donovan Jeffrey"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833495/"
+    },
+    {
+      "pmid": "42833485",
+      "title": "Response to Ameri K et al.'s \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis.\".",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Malhi Kittu",
+        "Singh Sukhdeep"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833485/"
+    },
+    {
+      "pmid": "42831177",
+      "title": "Acute bacterial endophthalmitis with focal vitritis at a nasal chandelier illumination port after scleral buckling.",
+      "abstract": "Chandelier-assisted scleral buckling (CSB) has been reported to offer enhanced fundus visualization and reduced operative time during retinal detachment repair compared with conventional methods. However, the required intraocular penetration creates a potential route for bacterial entry into the eye.",
+      "year": "2026",
+      "journal": "IDCases",
+      "authors": [
+        "Mori Yuki",
+        "Torikai Tomohiko",
+        "Shiraishi Atsushi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42831177/"
+    },
+    {
+      "pmid": "42829556",
+      "title": "Microsurgical obliteration of a high-flow intraorbital arteriovenous malformation fed by the ophthalmic artery: Illustrative case.",
+      "abstract": "Intraorbital arteriovenous malformations (AVMs) are exceedingly rare high-flow vascular lesions that pose a direct threat to visual function through progressive proptosis, optic nerve compression, and retinal ischemia. When the ophthalmic artery (OA) constitutes one of the arterial feeders, endovascular embolization carries a prohibitive risk of permanent visual loss, making microsurgical resection the treatment of choice.",
+      "year": "2026",
+      "journal": "Surgical neurology international",
+      "authors": [
+        "Lame Artid Agron",
+        "Ruka Maren Ethem",
+        "Kalefi Thoma Frederik",
+        "Disha Klaudio Hekri",
+        "Xhumari Artur Arian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42829556/"
+    },
+    {
+      "pmid": "42826076",
+      "title": "Bilateral en coup de sabre with bilateral ophthalmic involvement and hearing loss: A rare case report with review of literature.",
+      "abstract": "En coup de sabre (ECDS) is a rare craniofacial variant of linear scleroderma characterized by a band-like induration of the frontoparietal skin resembling the strike of a sabre. Bilateral involvement is exceptionally rare, and concurrent bilateral ophthalmic manifestations with mixed hearing loss (sensorineural and conductive) have not been previously described.",
+      "year": "2026",
+      "journal": "Ocular immunology and inflammation",
+      "authors": [
+        "Mahal Ramneek",
+        "Verma Saurabh",
+        "Azad Shorya Vardhan",
+        "Shaikh Nawazish",
+        "Kumawat Devesh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826076/"
+    },
+    {
+      "pmid": "42812627",
+      "title": "Effect of Topical Bromfenac 0.09% on Pain Following Intravitreal Antivascular Endothelial Growth Factor Injections.",
+      "abstract": "To evaluate the effect of topical bromfenac 0.09% on pain following intravitreal (IVT) injection of antivascular endothelial growth factor (anti-VEGF) medications in patients diagnosed as having choroidal neovascularization secondary to age-related macular degeneration or other etiologies, diabetic macular edema, diabetic retinopathy, or macular edema associated with retinal vein occlusion.",
+      "year": "2026",
+      "journal": "Journal of vitreoretinal diseases",
+      "authors": [
+        "Achuck Kathryn",
+        "Soares Rebecca",
+        "Solish Danielle",
+        "Popovic Marko",
+        "Felfeli Tina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42812627/"
+    },
+    {
+      "pmid": "42802198",
+      "title": "Electroretinographic assessment of retinal function in preterm infants using the RETeval™ device: a proposal for reference data.",
+      "abstract": "To establish age-adjusted flicker ERG reference values in premature infants through serial recordings, aiming to characterize retinal functional maturation and support diagnostic interpretation in retinopathy of prematurity screening.",
+      "year": "2026",
+      "journal": "Documenta ophthalmologica. Advances in ophthalmology",
+      "authors": [
+        "Lanzelotte Viviane",
+        "Damasceno Eduardo F",
+        "Gonet Bárbara",
+        "Ramos Carolina do Val F",
+        "Gerth-Kahlert Christina"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42802198/"
+    }
+  ],
+  "crawled_at": "2026-10-08T00:45:15.852620",
+  "source": "pubmed"
+}
