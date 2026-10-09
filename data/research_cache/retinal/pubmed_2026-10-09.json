@@ -1,0 +1,180 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42846743",
+      "title": "Favorable Outcome With Early Vitrectomy for Pseudomonas Endophthalmitis Following Elective Pars Plana Vitrectomy for Disabling Vitreous Opacities.",
+      "abstract": "Postvitrectomy endophthalmitis is a rare but vision-threatening complication, with reported incidence rates below 0.15%, and treatment guidelines remain limited. Evidence guiding the timing of repeat vitrectomy in this setting is sparse, and the approach to management is derived largely from postcataract endophthalmitis. ",
+      "year": "2026",
+      "journal": "Case reports in ophthalmological medicine",
+      "authors": [
+        "Ni Roselind L",
+        "Miller Evelyn G",
+        "Perez Jonathan",
+        "Chiang Allen",
+        "Klufas Michael A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846743/"
+    },
+    {
+      "pmid": "42846496",
+      "title": "Tubercular Uveitis: Multimodal Imaging, Immunologic Stratification, and a Practical Framework for Diagnosis and Management.",
+      "abstract": "Tubercular uveitis (TBU) remains difficult to diagnose and monitor because microbiologic confirmation is uncommon and clinical phenotypes overlap with other inflammatory chorioretinal disorders. This narrative review integrates evidence from multimodal imaging, immune testing, systemic tuberculosis evaluation, molecular diagnostics, biomarkers, treatment response, and monitoring to support a practical probability-based approach to suspected TBU. A targeted search of PubMed, Embase, Web of Science, the Cochrane Library, and Google Scholar was conducted for English-language literature through May 10, 2026, prioritizing consensus statements, systematic reviews, multicenter studies, and clinically relevant imaging, biomarker, and treatment reports. Enhanced-depth and swept-source optical coherence tomography, optical coherence tomography angiography, fundus autofluorescence, indocyanine green angiography, and ultra-widefield fluorescein angiography provide complementary information on choroidal granulomas, serpiginous-like choroiditis, retinal vasculitis, ischemia, and paradoxical worsening. Tuberculin skin testing and interferon-gamma release assays support tuberculosis attribution but do not prove ocular causality, while polymerase chain reaction and emerging molecular assays increase specificity when positive. Cytokine profiles, type I interferon signatures, complement C1q, and cell-free DNA remain investigational. TBU should be managed as a clinicoradiologic and immunologic probability diagnosis that links phenotype, imaging, tuberculosis exposure evidence, mimic exclusion, antitubercular therapy decisions, anti-inflammatory timing, and longitudinal monitoring to reduce both missed TBU and unnecessary treatment.",
+      "year": "2026",
+      "journal": "Clinical ophthalmology (Auckland, N.Z.)",
+      "authors": [
+        "Li Ruilong",
+        "Yan Ming",
+        "Huang Zhen",
+        "Ye Ya",
+        "Song Yanping"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846496/"
+    },
+    {
+      "pmid": "42840260",
+      "title": "Research progress on the use of beta-blockers in the progression prevention, and treatment of retinopathy of prematurity.",
+      "abstract": "Retinopathy of prematurity (ROP) is a proliferative retinal vascular disorder unique to preterm infants with extremely low birth weight, ranking as the top cause of preventable childhood blindness. Retinal hypoxia, excessive secretion of vascular endothelial growth factor (VEGF) and dysregulation of insulin-like growth factor-1 (IGF-1) constitute the core pathogenic cascades of ROP. As competitive antagonists of ",
+      "year": "2026",
+      "journal": "Frontiers in pediatrics",
+      "authors": [
+        "Bai Shuanghong",
+        "Sun Huiqing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42840260/"
+    },
+    {
+      "pmid": "42839239",
+      "title": "Beyond macrocirculatory targets: a multimodal framework for microcirculatory and organ perfusion monitoring in sepsis.",
+      "abstract": "Microcirculatory dysfunction may persist despite restoration of conventional macrocirculatory targets in sepsis, reflecting loss of hemodynamic coherence. This review synthesizes current microcirculatory monitoring approaches according to the physiological information they provide and examines how complementary modalities may be integrated to characterize persistent or regional tissue hypoperfusion.",
+      "year": "2026",
+      "journal": "Critical care (London, England)",
+      "authors": [
+        "Yin Xuebin",
+        "Guan Haowen",
+        "Zhou Ming",
+        "Fan Lisha",
+        "Liu Qiuxia"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Microcirculation",
+        "Sepsis",
+        "Monitoring, Physiologic",
+        "Hemodynamics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42839239/"
+    },
+    {
+      "pmid": "42833844",
+      "title": "Uveitis despite adalimumab therapy in Blau syndrome.",
+      "abstract": "Blau syndrome is a rare granulomatous autoinflammatory disease caused by NOD2 mutations and characterised by dermatitis, arthritis and uveitis. We report a middle childhood boy initially diagnosed with oligoarticular juvenile idiopathic arthritis (JIA) because arthritis was the predominant early manifestation. He had papular skin lesions in infancy and periarticular swelling and tenosynovial cysts, later developed persistent arthritis and recurrent fever. Genetic testing identified a heterozygous NOD2 variant (c.1001G>A, p.Arg334Gln [R334Q]), confirming Blau syndrome. Despite ongoing methotrexate and adalimumab therapy, routine ophthalmic examination revealed unilateral anterior uveitis with iris nodules. Fundus examination showed bilateral multifocal chorioretinal lesions, and fluorescein angiography demonstrated retinal vasculitis. Ocular inflammation became quiescent after topical corticosteroid treatment and weight-based escalation of adalimumab. This case highlights that Blau syndrome may masquerade as JIA and that regular ophthalmic surveillance remains essential even during biologic therapy.",
+      "year": "2026",
+      "journal": "BMJ case reports",
+      "authors": [
+        "Takasaki Takeshi",
+        "Watanabe Meri",
+        "Kawahara Yuta",
+        "Kaburaki Toshikatsu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Arthritis",
+        "Uveitis",
+        "Synovitis",
+        "Adalimumab",
+        "Nod2 Signaling Adaptor Protein",
+        "Antirheumatic Agents",
+        "Cranial Nerve Diseases",
+        "Dermatitis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833844/"
+    },
+    {
+      "pmid": "42833495",
+      "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Ameri Kimia",
+        "Ashamalla Mark",
+        "Shunmugam Maheshver",
+        "Kipfer Sharon",
+        "Donovan Jeffrey"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833495/"
+    },
+    {
+      "pmid": "42833485",
+      "title": "Response to Ameri K et al.'s \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis.\".",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Malhi Kittu",
+        "Singh Sukhdeep"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833485/"
+    },
+    {
+      "pmid": "42831177",
+      "title": "Acute bacterial endophthalmitis with focal vitritis at a nasal chandelier illumination port after scleral buckling.",
+      "abstract": "Chandelier-assisted scleral buckling (CSB) has been reported to offer enhanced fundus visualization and reduced operative time during retinal detachment repair compared with conventional methods. However, the required intraocular penetration creates a potential route for bacterial entry into the eye.",
+      "year": "2026",
+      "journal": "IDCases",
+      "authors": [
+        "Mori Yuki",
+        "Torikai Tomohiko",
+        "Shiraishi Atsushi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42831177/"
+    },
+    {
+      "pmid": "42829556",
+      "title": "Microsurgical obliteration of a high-flow intraorbital arteriovenous malformation fed by the ophthalmic artery: Illustrative case.",
+      "abstract": "Intraorbital arteriovenous malformations (AVMs) are exceedingly rare high-flow vascular lesions that pose a direct threat to visual function through progressive proptosis, optic nerve compression, and retinal ischemia. When the ophthalmic artery (OA) constitutes one of the arterial feeders, endovascular embolization carries a prohibitive risk of permanent visual loss, making microsurgical resection the treatment of choice.",
+      "year": "2026",
+      "journal": "Surgical neurology international",
+      "authors": [
+        "Lame Artid Agron",
+        "Ruka Maren Ethem",
+        "Kalefi Thoma Frederik",
+        "Disha Klaudio Hekri",
+        "Xhumari Artur Arian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42829556/"
+    },
+    {
+      "pmid": "42826076",
+      "title": "Bilateral en coup de sabre with bilateral ophthalmic involvement and hearing loss: A rare case report with review of literature.",
+      "abstract": "En coup de sabre (ECDS) is a rare craniofacial variant of linear scleroderma characterized by a band-like induration of the frontoparietal skin resembling the strike of a sabre. Bilateral involvement is exceptionally rare, and concurrent bilateral ophthalmic manifestations with mixed hearing loss (sensorineural and conductive) have not been previously described.",
+      "year": "2026",
+      "journal": "Ocular immunology and inflammation",
+      "authors": [
+        "Mahal Ramneek",
+        "Verma Saurabh",
+        "Azad Shorya Vardhan",
+        "Shaikh Nawazish",
+        "Kumawat Devesh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826076/"
+    }
+  ],
+  "crawled_at": "2026-10-09T01:03:01.826088",
+  "source": "pubmed"
+}
