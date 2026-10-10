@@ -1,0 +1,216 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42851402",
+      "title": "Incidence, burden, and associated factors of severe potential drug-drug interactions in intensive care unit patients: a real-world retrospective study.",
+      "abstract": "Severe potential drug-drug interactions (pDDIs) in intensive care unit (ICU) patients remain insufficiently characterized. This study investigated the incidence, patterns, burden, and associated factors of severe pDDIs.",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Jiang Huaqiao",
+        "Shen Tingting",
+        "Yang Yun",
+        "Zhang Lin",
+        "Tan Xiaofang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42851402/"
+    },
+    {
+      "pmid": "42850938",
+      "title": "Ultrasound/pH Dual-Responsive Cu-Zn-Based Microneedles for Piezo-Sonodynamic and Multimechanism Synergistic Induction of Cuproptosis and Ferroptosis.",
+      "abstract": "Sonodynamic therapy is hindered by the insufficient catalytic activity of nanomaterials, the robust antioxidant capacity of the tumor microenvironment, and the limited targeting efficiency of conventional drug delivery systems. In this study, CuSn(OH)",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Zhang Xueyan",
+        "Lin Siqi",
+        "Yang Chunyu",
+        "Xu Mengshu",
+        "Yang Zhuoran"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42850938/"
+    },
+    {
+      "pmid": "42848283",
+      "title": "YTHDF2 drives malignant progression in cutaneous melanoma through m⁶A-dependent HMOX1-mediated ferroptosis.",
+      "abstract": "N6-methyladenosine (m6A) modification plays a critical role in eukaryotic mRNA and is significantly associated with cutaneous melanoma. This study investigated the role of the m6A-binding protein YTHDF2 in the pathogenesis of cutaneous melanoma and its potential therapeutic applications. Analyses of public databases indicated that YTHDF2 exhibited elevated expression in various cancers, including cutaneous melanoma, where its levels positively correlated with PD-L1 and negatively correlated with immune and stromal scores. Functionally, the downregulation of YTHDF2 in melanoma cells suppressed proliferation and increased the population of Annexin V/PI--positive cells, an effect that was rescued by the ferroptosis inhibitor, highlighting YTHDF2's involvement in ferroptosis regulation. YTHDF2 knockdown resulted in increased intracellular Fe",
+      "year": "2026",
+      "journal": "Medical oncology (Northwood, London, England)",
+      "authors": [
+        "Gu Da",
+        "Sun Yulin",
+        "Sun Jinpeng",
+        "Kang Weiting",
+        "Lou Huanmin"
+      ],
+      "mesh_terms": [
+        "Ferroptosis",
+        "Humans",
+        "RNA-Binding Proteins",
+        "Melanoma",
+        "Skin Neoplasms",
+        "Animals",
+        "Adenosine",
+        "Heme Oxygenase-1",
+        "Mice",
+        "Disease Progression"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42848283/"
+    },
+    {
+      "pmid": "42841820",
+      "title": "Preparation of an aptamer-based photoelectrochemical sensor for sequential detection of both mercury and glutathione in commercial skin lightening cosmetics.",
+      "abstract": "Glutathione (GSH) and Hg",
+      "year": "2026",
+      "journal": "The Analyst",
+      "authors": [
+        "Huang Rui",
+        "Chen Yafei",
+        "Zhao Zewei",
+        "Zhang Xuhui",
+        "Huang Zihao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42841820/"
+    },
+    {
+      "pmid": "42835099",
+      "title": "Isobavachalcone attenuates experimental periodontitis by suppressing PTGS2-associated macrophage ferroptosis and restoring periodontal immune homeostasis.",
+      "abstract": "Periodontitis (PD) is a destructive inflammatory disease driven by the collapse of immune homeostasis and alveolar bone resorption. Isobavachalcone (IBC) is a naturally occurring prenylated chalcone belonging to the plant flavonoid family, mainly enriched in the mature seeds of ",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Yang Ruolan",
+        "Jin Yanye",
+        "Wang Ziyi",
+        "Peng Zeyan",
+        "Yang Liang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42835099/"
+    },
+    {
+      "pmid": "42834410",
+      "title": "Multi-cell death gene signature predicts lung adenocarcinoma prognosis and reveals FURIN regulates ferroptosis via NRF2-xCT-GPX4 axis.",
+      "abstract": "FURIN, a proprotein convertase, has been implicated in tumor progression. Nevertheless, how it contributes to lung adenocarcinoma (LUAD) and ferroptosis is still not well understood.",
+      "year": "2026",
+      "journal": "Respiratory research",
+      "authors": [
+        "Ning Jiaoyang",
+        "Xiao Gang",
+        "Wen Su",
+        "Chen Liu",
+        "Wang Ce"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Ferroptosis",
+        "NF-E2-Related Factor 2",
+        "Furin",
+        "Adenocarcinoma of Lung",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Prognosis",
+        "Lung Neoplasms",
+        "Cell Line, Tumor",
+        "Amino Acid Transport System y+"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42834410/"
+    },
+    {
+      "pmid": "42832476",
+      "title": "Impact of GST and TP53 gene polymorphisms on susceptibility to end stage renal disease: A case-control analysis.",
+      "abstract": "End-stage renal disease (ESRD) is a major global non-communicable condition associated with substantial morbidity and mortality. The current investigation aimed to report the association of GSTM1, GSTT1 genotypes and single nucleotide polymorphisms (SNPs) in GSTP1 (rs1695) and TP53 (rs1042522) genes with ESRD.",
+      "year": "2026",
+      "journal": "PloS one",
+      "authors": [
+        "Mehmood Rashid",
+        "Chiang Pei-Chun",
+        "Rasool Madiha",
+        "Asif Muhammad",
+        "Ghafar Abdul"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glutathione Transferase",
+        "Kidney Failure, Chronic",
+        "Male",
+        "Genetic Predisposition to Disease",
+        "Polymorphism, Single Nucleotide",
+        "Glutathione S-Transferase pi",
+        "Case-Control Studies",
+        "Adult",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42832476/"
+    },
+    {
+      "pmid": "42827322",
+      "title": "Modulation of Inflammatory and Redox Responses by Saturnia Spa Water and Mud Extract in Human Skin Cell Models.",
+      "abstract": "Thermal waters and peloid-derived products have long been used in dermatological and spa treatments, although the cellular mechanisms underlying their biological effects remain incompletely characterized. This study investigated the effects of Saturnia spa water (TW) and an aqueous mud extract (MUD) on inflammatory, redox, and wound-healing responses in human skin cell models.",
+      "year": "2026",
+      "journal": "BioMed research international",
+      "authors": [
+        "Costantini Erica",
+        "Pellacani Giovanni",
+        "Shahzadi Chman",
+        "Reale Marcella",
+        "Kanwal Shamsa"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Reactive Oxygen Species",
+        "Oxidation-Reduction",
+        "Plant Extracts",
+        "Cell Survival",
+        "Keratinocytes",
+        "Inflammation",
+        "Wound Healing",
+        "Fibroblasts",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42827322/"
+    },
+    {
+      "pmid": "42826770",
+      "title": "rsRNA-28S-21 promotes endometrial cancer by regulating ferroptosis through the NSUN5-FTH1/FTL pathway.",
+      "abstract": "rRNA-derived small RNAs (rsRNAs), processed from ribosomal RNA, represent a novel subclass of small non-coding RNAs. Studies have demonstrated their involvement in cancer progression; however, their role in endometrial carcinoma remains unclear. In this study, RIP-seq was performed to analyze NSUN5-bound rsRNAs in EC cells, and qRT-PCR was used to quantify rsRNA-28S-21 expression. Functional assays were conducted to evaluate oncogenic characteristics. Mechanistic investigations included RNA-protein interactions (RNA pull-down, FISH, and RIP), m",
+      "year": "2026",
+      "journal": "Gene",
+      "authors": [
+        "Liu Yao",
+        "Xian Jing-Yuan",
+        "Ben Tian-Ru",
+        "Wang Jie-Lin",
+        "Wu Wu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826770/"
+    },
+    {
+      "pmid": "42824821",
+      "title": "Deciphering cysteamine's impact on cashmere-producing traits of cashmere goats: a transcriptomic and metabolomic perspective.",
+      "abstract": "This study addresses the practical production problem of inferior cashmere quality in cashmere goats. We supplemented cysteamine (CS) in diets to regulate cashmere‑production‑related traits and explore its underlying nutritional regulatory pathways, so as to support the scientific and rational application of cysteamine in cashmere goat production.",
+      "year": "2026",
+      "journal": "Frontiers in veterinary science",
+      "authors": [
+        "Wu Tiecheng",
+        "Guo Mengyu",
+        "Wang Tao",
+        "Liu Junyang",
+        "Aierqing Sarengaowa"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42824821/"
+    }
+  ],
+  "crawled_at": "2026-10-10T00:42:28.241422",
+  "source": "pubmed"
+}
