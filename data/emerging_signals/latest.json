@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:42:51.720087",
+  "generated_at": "2026-10-11T00:12:56.284488",
   "total_ingredients": 48,
   "signals": [
     {
@@ -341,6 +341,58 @@
       ]
     },
     {
+      "ingredient_id": "urea",
+      "name_kr": "우레아",
+      "name_en": "Urea",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 5
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.5,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42854439",
+          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
+          "year": "2026",
+          "journal": "Burns : journal of the International Society for Burn Injuries"
+        },
+        {
+          "pmid": "42820605",
+          "title": "Systemic pruritus as a neuroimmune disorder: Mechanistic insights and target-driven therapy.",
+          "year": "2026",
+          "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42845089",
+          "title": "The effect of red palm oil (",
+          "year": "2026",
+          "journal": "Dermatology reports"
+        },
+        {
+          "pmid": "42842113",
+          "title": "Topical Delgocitinib for Capecitabine-Induced Hand-Foot Syndrome: A Therapeutic Option?",
+          "year": "2026",
+          "journal": "Dermatology and therapy"
+        },
+        {
+          "pmid": "42772495",
+          "title": "High-performance adhesive eutectogel based on polyacrylate-carboxylated cellulose nanofibers double networks for efficie",
+          "year": "2026",
+          "journal": "International journal of biological macromolecules"
+        }
+      ]
+    },
+    {
       "ingredient_id": "bakuchiol",
       "name_kr": "바쿠치올",
       "name_en": "bakuchiol",
@@ -468,52 +520,6 @@
           "title": "Topical ",
           "year": "2026",
           "journal": "Pharmaceutics"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "urea",
-      "name_kr": "우레아",
-      "name_en": "Urea",
-      "category": "hydration",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 3,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 14.8,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42820605",
-          "title": "Systemic pruritus as a neuroimmune disorder: Mechanistic insights and target-driven therapy.",
-          "year": "2026",
-          "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42845089",
-          "title": "The effect of red palm oil (",
-          "year": "2026",
-          "journal": "Dermatology reports"
-        },
-        {
-          "pmid": "42842113",
-          "title": "Topical Delgocitinib for Capecitabine-Induced Hand-Foot Syndrome: A Therapeutic Option?",
-          "year": "2026",
-          "journal": "Dermatology and therapy"
-        },
-        {
-          "pmid": "42772495",
-          "title": "High-performance adhesive eutectogel based on polyacrylate-carboxylated cellulose nanofibers double networks for efficie",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
         }
       ]
     },
@@ -1130,10 +1136,10 @@
       "signal_label": "🟢 잠재 (T+24mo)",
       "top_t1_papers": [
         {
-          "pmid": "42687230",
-          "title": "Drug-Induced Hypersensitivity Syndrome Induced by Resveratrol Dietary Supplement.",
+          "pmid": "42854439",
+          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
           "year": "2026",
-          "journal": "International journal of dermatology"
+          "journal": "Burns : journal of the International Society for Burn Injuries"
         }
       ],
       "top_t2_papers": []
