@@ -1,0 +1,812 @@
+{
+  "ingredient_id": "urea",
+  "name_kr": "우레아",
+  "name_en": "Urea",
+  "query": "(\"Urea\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 22,
+  "trials": [
+    {
+      "nct_id": "NCT06232434",
+      "title": "An Open Prospective Randomized Clinical Study of the Effectiveness, Tolerability and Safety of a Single Intraperitoneal Use of the Drug \"Prospidelong, Powder for the Preparation of a Gel for Topical Use, 1000 mg in Vials, Package No. 1\" in Patients With Disseminated Gastric Cancer, Phase I-II",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gastric Cancer With Peritoneal Dissemination"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Prospidelong"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "chemotherapy"
+        }
+      ],
+      "sponsor": "Research Institute for Physical Chemical Problems of the Belarusian State University",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT06232434"
+    },
+    {
+      "nct_id": "NCT05508009",
+      "title": "Early Trial of Allogeneic Hematopoietic Stem Cell Transplantation for Patients Who Will Receive a Kidney Transplant From the Same Donor",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "SIOD",
+        "Cystinosis",
+        "FSGS",
+        "SLE Nephritis",
+        "CKD Stage 4"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide 1200 mg/Kg"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide 100 mg/Kg"
+        },
+        {
+          "type": "RADIATION",
+          "name": "Total Body Irradiation"
+        },
+        {
+          "type": "DRUG",
+          "name": "ATG"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Melphalan"
+        },
+        {
+          "type": "DEVICE",
+          "name": "CliniMACS® TCR α/β Reagent Kit and CliniMACS® CD19 System"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Kidney Transplant"
+        }
+      ],
+      "sponsor": "Alice Bertaina",
+      "primary_completion": "2032-10",
+      "url": "https://clinicaltrials.gov/study/NCT05508009"
+    },
+    {
+      "nct_id": "NCT07237425",
+      "title": "Intralesional Ronkyla Plus Injection for the Treatment of Superficial Lipoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Lipoma",
+        "Submental Fullness"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ronkyla Plus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Kybella"
+        }
+      ],
+      "sponsor": "Glonova Pharma Co., Ltd",
+      "primary_completion": "2028-05-31",
+      "url": "https://clinicaltrials.gov/study/NCT07237425"
+    },
+    {
+      "nct_id": "NCT07505576",
+      "title": "Anti-alpha-actinin Antibodies and Lupus Nephritis Activity",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Lupus Nephritis"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "renal biopsy"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "serum anti-alpha-actinin antibodies"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "CBC, serum creatinine and urea, estimated GFR, ESR, CRP, urine analysis, ANA, anti dsDNA, C3 & C4, serum albumin, 24-hrs urinary protein, and U. ACR"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2027-04-01",
+      "url": "https://clinicaltrials.gov/study/NCT07505576"
+    },
+    {
+      "nct_id": "NCT07245238",
+      "title": "Topical Cannabidiol Lotion for Pruritus Relief in Scleroderma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Mediciine",
+        "Systemic Sclerosis (SSc)",
+        "Intervention Study"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "10% urea lotion plus 1% cannabidiol"
+        },
+        {
+          "type": "DRUG",
+          "name": "Control"
+        }
+      ],
+      "sponsor": "Khon Kaen University",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT07245238"
+    },
+    {
+      "nct_id": "NCT06921850",
+      "title": "A Study to Assess the Pharmacokinetics and Safety of Bimekizumab in Children and Adolescents With Moderate to Severe Hidradenitis Suppurativa",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bimekizumab"
+        }
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "primary_completion": "2026-12-21",
+      "url": "https://clinicaltrials.gov/study/NCT06921850"
+    },
+    {
+      "nct_id": "NCT07152327",
+      "title": "Terbinafine Hydrochloride for the Treatment of Otomycosis",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Otomycosis",
+        "Fungal Ear Infection"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Terbinafine Hydrochloride Cream"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07152327"
+    },
+    {
+      "nct_id": "NCT06003283",
+      "title": "Tapering of Rituximab Based on Interval Prolongation Compared to Disease Activity-guided Dose Reduction in Patients With Rheumatoid Arthritis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rheumatoid Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        }
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "primary_completion": "2027-12",
+      "url": "https://clinicaltrials.gov/study/NCT06003283"
+    },
+    {
+      "nct_id": "NCT07719309",
+      "title": "Exploratory Study of Peristomal and Non-Peristomal Skin Barrier Characteristics in People With a Stoma",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Colostomy - Stoma",
+        "Ileostomy - Stoma",
+        "Urostomy"
+      ],
+      "interventions": [],
+      "sponsor": "Salts Healthcare",
+      "primary_completion": "2028-05",
+      "url": "https://clinicaltrials.gov/study/NCT07719309"
+    },
+    {
+      "nct_id": "NCT06611696",
+      "title": "Avacopan vs Reduced-dose Glucocorticoids in ANCA-associated Vasculitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "ANCA Associated Vasculitis (AAV)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Avacopan, prednisolone and rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prednisolone and rituximab"
+        }
+      ],
+      "sponsor": "Chiba University",
+      "primary_completion": "2027-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT06611696"
+    },
+    {
+      "nct_id": "NCT07640503",
+      "title": "Lamivudine as a Novel Clinical Effort for Rett Syndrome",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Rett Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lamivudine"
+        }
+      ],
+      "sponsor": "Maria Denise Fernandes Carvalho de Andrade",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT07640503"
+    },
+    {
+      "nct_id": "NCT06810869",
+      "title": "Induced Pluripotent Stem Cell Derived Exosomes Nasal Drops for the Treatment of Stable Vitiligo",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Stable Vitiligo"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "human induced pluripotent stem cell derived exosomes （GD-iExo-003）"
+        },
+        {
+          "type": "DRUG",
+          "name": "a placebo of exosomes derived from human induced pluripotent stem cell for injection"
+        }
+      ],
+      "sponsor": "Second Affiliated Hospital of Wannan Medical College",
+      "primary_completion": "2026-11-17",
+      "url": "https://clinicaltrials.gov/study/NCT06810869"
+    },
+    {
+      "nct_id": "NCT07504055",
+      "title": "Non-invasive Spinal Cord Stimulation and Blood Pressure Regulation After Spinal Cord Injury",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Spinal Cord Injury",
+        "Orthostatic Hypertension",
+        "Autonomic Dysreflexia"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Spinal Cord Transcutaneous Stimulation"
+        }
+      ],
+      "sponsor": "University of Louisville",
+      "primary_completion": "2029-02",
+      "url": "https://clinicaltrials.gov/study/NCT07504055"
+    },
+    {
+      "nct_id": "NCT06045247",
+      "title": "Phase 2 Trial of Epcoritamab in Combination With Rituximab-mini CVP for Older Unfit/Frail Patients or Anthracycline-Ineligible Adult Patients With Newly Diagnosed Diffuse Large B-cell Lymphoma",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Large B-cell Lymphoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Prednisone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Vincristine"
+        },
+        {
+          "type": "DRUG",
+          "name": "Epcoritamab"
+        }
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "primary_completion": "2028-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT06045247"
+    },
+    {
+      "nct_id": "NCT01303341",
+      "title": "Riluzole and Sorafenib Tosylate in Treating Patients With Advanced Solid Tumors or Melanoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Advanced Malignant Solid Neoplasm",
+        "Recurrent Melanoma",
+        "Refractory Malignant Solid Neoplasm",
+        "Stage III Cutaneous Melanoma AJCC v7",
+        "Stage IIIA Cutaneous Melanoma AJCC v7",
+        "Stage IIIB Cutaneous Melanoma AJCC v7",
+        "Stage IIIC Cutaneous Melanoma AJCC v7",
+        "Stage IV Cutaneous Melanoma AJCC v6 and v7"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Laboratory Biomarker Analysis"
+        },
+        {
+          "type": "OTHER",
+          "name": "Pharmacological Study"
+        },
+        {
+          "type": "DRUG",
+          "name": "Riluzole"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sorafenib Tosylate"
+        }
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "primary_completion": "2012-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT01303341"
+    },
+    {
+      "nct_id": "NCT07139366",
+      "title": "Saccharomyces Boulardii Combined With Bismuth Quadruple Therapy for Helicobacter Pylori Rescue Treatment",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gastritis",
+        "Dyspepsia",
+        "Helicobacter Pylori Infection",
+        "Gastric Cancer",
+        "Peptic Ulcer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bismuth"
+        },
+        {
+          "type": "DRUG",
+          "name": "Esomeprazole"
+        },
+        {
+          "type": "DRUG",
+          "name": "Tetracycline"
+        },
+        {
+          "type": "DRUG",
+          "name": "Furazolidone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Saccharomyces Boulardii Oral Powder"
+        }
+      ],
+      "sponsor": "Yongquan Shi",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT07139366"
+    },
+    {
+      "nct_id": "NCT07381881",
+      "title": "GEL-AID: Safe and Effective Hydration for Institutionalized Older Adults",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dehydration",
+        "Urinary Infections",
+        "Respiratory Infections",
+        "Daily Fluid Intake",
+        "Mortality"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "GEL-AID"
+        },
+        {
+          "type": "OTHER",
+          "name": "Usual Care"
+        }
+      ],
+      "sponsor": "Universitat de Lleida",
+      "primary_completion": "2027-02-28",
+      "url": "https://clinicaltrials.gov/study/NCT07381881"
+    },
+    {
+      "nct_id": "NCT07131410",
+      "title": "Efficacy of Hyaluronic Acid Cream in Preventing Foot Ulceration Risk in Patients With Type 2 Diabetes and Moderate-to-Severe Peripheral Neuropathy: A Randomized Clinical Trial.",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "DIABETES"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Group hialuronyc"
+        }
+      ],
+      "sponsor": "University of Malaga",
+      "primary_completion": "2026-11-15",
+      "url": "https://clinicaltrials.gov/study/NCT07131410"
+    },
+    {
+      "nct_id": "NCT07849101",
+      "title": "Ceramol PSOR Cream as an Adjuvant Treatment in Patients With Mild-to-Moderate Psoriasis Treated With Narrowband UVB Phototherapy (CERAMOL PSOR CREMA)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Psoriasis",
+        "Psoriasis; Plaque",
+        "Psoriasis Vulgaris"
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "Narrowband UVB Phototherapy"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Ceramol PSOR Cream"
+        },
+        {
+          "type": "OTHER",
+          "name": "Comparator Emollient Cream"
+        }
+      ],
+      "sponsor": "Unifarco SpA",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT07849101"
+    },
+    {
+      "nct_id": "NCT07546032",
+      "title": "Clinical Study on the Medical Device PROXERA PSOMED 30 for the Treatment of Nail Psoriasis: Evaluation of Safety and Efficacy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Nail Psoriasis"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Device intervention name: PROXERA PSOMED 30 nail cream; Control intervention name: Petrolatum"
+        }
+      ],
+      "sponsor": "ICIM International S.r.l.",
+      "primary_completion": "2027-02-08",
+      "url": "https://clinicaltrials.gov/study/NCT07546032"
+    },
+    {
+      "nct_id": "NCT07044791",
+      "title": "Metabolic Parameters and Quality of Life in Women on Neo-/Adjuvant Therapy for Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Breast Cancer Invasive"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Nutritional counseling. No drug treatment will be administered in this study."
+        }
+      ],
+      "sponsor": "Federico II University",
+      "primary_completion": "2020-10-27",
+      "url": "https://clinicaltrials.gov/study/NCT07044791"
+    },
+    {
+      "nct_id": "NCT04615065",
+      "title": "Acutelines: a Large Data-/Biobank of Acute and Emergency Medicine",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Acute Disease",
+        "Sepsis",
+        "Pneumonia",
+        "Frailty",
+        "Complication of Treatment",
+        "Pulmonary Embolism",
+        "Thrombosis",
+        "Acute Kidney Injury",
+        "Electrolyte Disturbance",
+        "Hemorrhage",
+        "Shock",
+        "Polypharmacy",
+        "Intoxication by Drug",
+        "Emergencies",
+        "Urinary Tract Infections",
+        "Skin Infection",
+        "Syncope",
+        "Anaphylaxis",
+        "Dyspnea"
+      ],
+      "interventions": [],
+      "sponsor": "University Medical Center Groningen",
+      "primary_completion": "2030-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT04615065"
+    },
+    {
+      "nct_id": "NCT07694414",
+      "title": "Rituximab for Treatment of Checkpoint Inhibitor Induced Immune-related Adverse Events",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Immune-Related Adverse Events"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab (RTX)"
+        }
+      ],
+      "sponsor": "Inge Marie Svane",
+      "primary_completion": "2028-08-01",
+      "url": "https://clinicaltrials.gov/study/NCT07694414"
+    },
+    {
+      "nct_id": "NCT07051915",
+      "title": "The Holistic Study",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Thrombocytopenia Purpura"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Avatrombopag"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rituximab (Arm B)"
+        }
+      ],
+      "sponsor": "Ostfold Hospital Trust",
+      "primary_completion": "2028-01-31",
+      "url": "https://clinicaltrials.gov/study/NCT07051915"
+    },
+    {
+      "nct_id": "NCT04400994",
+      "title": "IVIG With Rituximab vs Rituximab as First Line Treatment of Pemphigus",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pemphigus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rituximab"
+        },
+        {
+          "type": "OTHER",
+          "name": "IVIg"
+        }
+      ],
+      "sponsor": "The University of Hong Kong",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT04400994"
+    },
+    {
+      "nct_id": "NCT03658512",
+      "title": "Tübinger Diabetes Mellitus Database (TUEDID)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Diabetes Mellitus"
+      ],
+      "interventions": [],
+      "sponsor": "University Hospital Tuebingen",
+      "primary_completion": "2035-02-01",
+      "url": "https://clinicaltrials.gov/study/NCT03658512"
+    },
+    {
+      "nct_id": "NCT06284590",
+      "title": "Study of the Efficacy of Intratumoral L19IL2 or L19TNF or L19IL2/L19TNF, in Combination With Pembrolizumab, in Unresectable Melanoma Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Melanoma Stage III",
+        "Melanoma Stage IV"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "L19IL2"
+        },
+        {
+          "type": "DRUG",
+          "name": "L19TNF"
+        },
+        {
+          "type": "DRUG",
+          "name": "L19IL2/L19TNF"
+        },
+        {
+          "type": "DRUG",
+          "name": "KEYTRUDA®"
+        }
+      ],
+      "sponsor": "Philogen S.p.A.",
+      "primary_completion": "2028-07",
+      "url": "https://clinicaltrials.gov/study/NCT06284590"
+    },
+    {
+      "nct_id": "NCT03594760",
+      "title": "PSMA-PET: Deep Radiomic Biomarkers of Progression and Response Prediction in Prostate Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Prostate Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "18F-DCFPyL IV injection"
+        }
+      ],
+      "sponsor": "Centre hospitalier de l'Université de Montréal (CHUM)",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT03594760"
+    },
+    {
+      "nct_id": "NCT07302074",
+      "title": "Understanding of Rare Inflammatory Arthritis in Comparison to Classical Inflammatory Arthritis : Tissular Observations and Immune Infiltrate Characterization : the UTOPIC Project",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Inflammatory Arthritis",
+        "Rare Auto-immune Diseases",
+        "Immune Checkpoint Inhibitor Related Inflamamtory Arthritis"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Biopsy"
+        }
+      ],
+      "sponsor": "University Hospital, Brest",
+      "primary_completion": "2031-03-03",
+      "url": "https://clinicaltrials.gov/study/NCT07302074"
+    },
+    {
+      "nct_id": "NCT05898308",
+      "title": "Comparison of a Personalized Maintenance Therapy With the Standard Treatment in Pemphigus",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pemphigus",
+        "Dermatologic Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "RiTUXimab Injection"
+        }
+      ],
+      "sponsor": "University Hospital, Rouen",
+      "primary_completion": "2032-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT05898308"
+    }
+  ],
+  "fetched_at": "2026-10-12T00:28:10.935938"
+}

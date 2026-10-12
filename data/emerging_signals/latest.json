@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T00:12:56.284488",
+  "generated_at": "2026-10-12T00:27:46.609536",
   "total_ingredients": 48,
   "signals": [
     {
@@ -9,15 +9,15 @@
       "category": "anti_aging",
       "tier_dist": {
         "T1": 4,
-        "T2": 12,
+        "T2": 13,
         "T3": 0,
-        "unknown": 9
+        "unknown": 8
       },
       "total_papers": 25,
       "recent_papers": 25,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 32.2,
+      "signal_score": 33.9,
       "signal_label": "🔥 임박 (T+6mo)",
       "top_t1_papers": [
         {
@@ -41,6 +41,12 @@
       ],
       "top_t2_papers": [
         {
+          "pmid": "42858788",
+          "title": "\"Ozempic Face\" and Facial Aging.",
+          "year": "2026",
+          "journal": "Clinics in dermatology"
+        },
+        {
           "pmid": "42822650",
           "title": "GLP-1 receptor agonists in psoriasis management.",
           "year": "2026",
@@ -51,12 +57,6 @@
           "title": "Glucagon-Like Peptide-1 Receptor Agonists (GLP-1RAs) in Hidradenitis Suppurativa: A Narrative Review of Emerging Evidenc",
           "year": "2026",
           "journal": "Clinics in dermatology"
-        },
-        {
-          "pmid": "42768237",
-          "title": "Hidradenitis Suppurativa from Preconception to Lactation: Clinical Treatment Decision-Making Review.",
-          "year": "2026",
-          "journal": "Dermatology and therapy"
         }
       ]
     },
@@ -510,16 +510,16 @@
       ],
       "top_t2_papers": [
         {
+          "pmid": "42858915",
+          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
+        },
+        {
           "pmid": "42826557",
           "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-media",
           "year": "2026",
           "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
-        },
-        {
-          "pmid": "42797259",
-          "title": "Topical ",
-          "year": "2026",
-          "journal": "Pharmaceutics"
         }
       ]
     },
@@ -637,6 +637,45 @@
           "title": "Treatment of cradle cap in infants with a new cosmetic non-steroidal gel cream: Clinical, laboratory, and instrumental e",
           "year": "2021",
           "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42858861",
+          "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and reti",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "42833495",
+          "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
+        },
+        {
+          "pmid": "42833485",
+          "title": "Response to Ameri K et al.'s \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis.\".",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
         }
       ]
     },
@@ -832,39 +871,6 @@
       ]
     },
     {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42833495",
-          "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        },
-        {
-          "pmid": "42833485",
-          "title": "Response to Ameri K et al.'s \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis.\".",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        }
-      ]
-    },
-    {
       "ingredient_id": "azelaic_acid",
       "name_kr": "아젤라산",
       "name_en": "Azelaic Acid",
@@ -894,6 +900,40 @@
           "title": "Efficacy and safety of a novel anhydrous 0.1% retinal and 10% azelaic acid concentrate for blemish-prone skin: An eight-",
           "year": "2026",
           "journal": "International journal of cosmetic science"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "resveratrol",
+      "name_kr": "레스베라트롤",
+      "name_en": "Resveratrol",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42854439",
+          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
+          "year": "2026",
+          "journal": "Burns : journal of the International Society for Burn Injuries"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42858864",
+          "title": "Development of sericin-elastin nanoblends containing resveratrol for cosmeceutical applications.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
         }
       ]
     },
@@ -1116,33 +1156,6 @@
           "journal": "Nutrients"
         }
       ]
-    },
-    {
-      "ingredient_id": "resveratrol",
-      "name_kr": "레스베라트롤",
-      "name_en": "Resveratrol",
-      "category": "anti_aging",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 0,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 9.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42854439",
-          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
-          "year": "2026",
-          "journal": "Burns : journal of the International Society for Burn Injuries"
-        }
-      ],
-      "top_t2_papers": []
     },
     {
       "ingredient_id": "mugwort",

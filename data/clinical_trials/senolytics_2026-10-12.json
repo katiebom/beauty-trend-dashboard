@@ -1,0 +1,736 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 24,
+  "trials": [
+    {
+      "nct_id": "NCT07840872",
+      "title": "Exploring the Effect of the Hypershell Hip Exoskeleton on Fatiguing, Everyday Activities in Older Adults",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Fatigue",
+        "Older Adults (65 Years and Older)",
+        "Exoskeleton Device"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Performance test"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Hypershell assistance (EXO-ON Actuation)"
+        }
+      ],
+      "sponsor": "Vrije Universiteit Brussel",
+      "primary_completion": "2027-06",
+      "url": "https://clinicaltrials.gov/study/NCT07840872"
+    },
+    {
+      "nct_id": "NCT07062081",
+      "title": "Correlation Between Acne Vulgaris and Lipid Profile Among Young Adults in Sohag Governorate",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Acne Vulgaris"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "lipid profile"
+        }
+      ],
+      "sponsor": "Sohag University",
+      "primary_completion": "2026-01-30",
+      "url": "https://clinicaltrials.gov/study/NCT07062081"
+    },
+    {
+      "nct_id": "NCT07828171",
+      "title": "Evaluation of Efficacy of Antibacterial Activity of Licorice, Clove, and Chlorohexidine Mouthwashes on Salivary Streptococcus Mutans in a Group of Egyptian Children.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Dental Caries",
+        "Streptococcal Infections",
+        "Mouthwashes"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Mouth wash"
+        }
+      ],
+      "sponsor": "British University In Egypt",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT07828171"
+    },
+    {
+      "nct_id": "NCT07637032",
+      "title": "Clinical Study of a Facial Cream for Rosacea",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Facial Rosacea"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "ARM 1"
+        },
+        {
+          "type": "OTHER",
+          "name": "ARM 2"
+        }
+      ],
+      "sponsor": "ChinaNorm",
+      "primary_completion": "2026-07-09",
+      "url": "https://clinicaltrials.gov/study/NCT07637032"
+    },
+    {
+      "nct_id": "NCT04272801",
+      "title": "Pre-Operative Window of Adjuvant Endocrine Therapy to Inform RT Decisions in Older Women With Early-Stage Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer Female"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "tamoxifen, letrozole, anastrozole, or exemestane"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Patient reported outcomes"
+        }
+      ],
+      "sponsor": "Shayna Showalter, MD",
+      "primary_completion": "2024-06-05",
+      "url": "https://clinicaltrials.gov/study/NCT04272801"
+    },
+    {
+      "nct_id": "NCT06232434",
+      "title": "An Open Prospective Randomized Clinical Study of the Effectiveness, Tolerability and Safety of a Single Intraperitoneal Use of the Drug \"Prospidelong, Powder for the Preparation of a Gel for Topical Use, 1000 mg in Vials, Package No. 1\" in Patients With Disseminated Gastric Cancer, Phase I-II",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Gastric Cancer With Peritoneal Dissemination"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Prospidelong"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "chemotherapy"
+        }
+      ],
+      "sponsor": "Research Institute for Physical Chemical Problems of the Belarusian State University",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT06232434"
+    },
+    {
+      "nct_id": "NCT07155967",
+      "title": "Effect of Cross-Education in Blood Flow Restriction Resistance Training on Lower Limbs in Older Women",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Muscle Strength",
+        "Hypertrophy"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Blood Flow Restriction Cuff"
+        }
+      ],
+      "sponsor": "Paulista University",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07155967"
+    },
+    {
+      "nct_id": "NCT00605878",
+      "title": "Studies of Skin Microbes in Healthy People and in People With Skin Conditions",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Eczema",
+        "Atopic Dermatitis"
+      ],
+      "interventions": [],
+      "sponsor": "National Human Genome Research Institute (NHGRI)",
+      "primary_completion": "",
+      "url": "https://clinicaltrials.gov/study/NCT00605878"
+    },
+    {
+      "nct_id": "NCT01273610",
+      "title": "Tolerability of the Combination of Lapatinib and Trastuzumab in Adults Age 60 or Older With HER2 Positive Locally Advanced or Metastatic Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Neoplasms",
+        "HER2/Neu Positive",
+        "Geriatric Health Services"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lapatinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Trastuzumab"
+        },
+        {
+          "type": "OTHER",
+          "name": "laboratory biomarker analysis"
+        },
+        {
+          "type": "OTHER",
+          "name": "pharmacological study"
+        }
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "primary_completion": "2018-02-22",
+      "url": "https://clinicaltrials.gov/study/NCT01273610"
+    },
+    {
+      "nct_id": "NCT07369258",
+      "title": "Clinical Application of Listening to Music to Prevent Delirium in the Intensive Care Unit",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Critical Illness",
+        "Delirium"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Personalized Music"
+        },
+        {
+          "type": "OTHER",
+          "name": "Relaxing Music"
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard of Care"
+        }
+      ],
+      "sponsor": "HOSPITAL BRITANICO DE BUENOS AIRES",
+      "primary_completion": "2026-10-31",
+      "url": "https://clinicaltrials.gov/study/NCT07369258"
+    },
+    {
+      "nct_id": "NCT07300813",
+      "title": "Olistic_2025 for Hair Loss, Hair Growth, and Skin Improvement",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hair Care",
+        "Hair Loss",
+        "Female Pattern Hair Loss"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Olistic Next Women"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        }
+      ],
+      "sponsor": "Bionos Biotech S.L.",
+      "primary_completion": "2026-05-04",
+      "url": "https://clinicaltrials.gov/study/NCT07300813"
+    },
+    {
+      "nct_id": "NCT06548646",
+      "title": "Ultrasound-guided Thoracic Interfascial Plane Nerve Block Versus Erector Spinae Plane Block for Pain Control After Modified Radical Mastectomy",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postoperative Pain Following Modified Radical Mastectomy for Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Thoracic Interfascial Plane Block"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Erector Spinae Plane Block"
+        }
+      ],
+      "sponsor": "Safie ramez tewfeik abd el moneim",
+      "primary_completion": "2025-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT06548646"
+    },
+    {
+      "nct_id": "NCT06756386",
+      "title": "Shock Wave Versus Low Level Laser on Chronic Venous Ulcer",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Venous Ulcer"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "extra corporeal shock wave therapy (ESWT )"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Low Level Laser Therapy"
+        },
+        {
+          "type": "OTHER",
+          "name": "conservative treatments"
+        }
+      ],
+      "sponsor": "Beni-Suef University",
+      "primary_completion": "2025-06-01",
+      "url": "https://clinicaltrials.gov/study/NCT06756386"
+    },
+    {
+      "nct_id": "NCT06948045",
+      "title": "RESTRUCTURING THE MANDIBULAR ANGLE IN FACIAL AGING: A NOVEL TECNIQUE USING POLY-L-LACTIC ACID",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Skin Laxity",
+        "Facial Aging"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "PLLA application to the mandibular angle"
+        }
+      ],
+      "sponsor": "Doris Hexsel",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT06948045"
+    },
+    {
+      "nct_id": "NCT07005557",
+      "title": "Chemo-free in Older (≥65) Node-Positive ER+/HER2- Breast Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Adjuvant Therapy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Chemotherapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "CDK4/6 Inhibitor"
+        },
+        {
+          "type": "DRUG",
+          "name": "Endocrine therapy"
+        }
+      ],
+      "sponsor": "Fudan University",
+      "primary_completion": "2030-05-15",
+      "url": "https://clinicaltrials.gov/study/NCT07005557"
+    },
+    {
+      "nct_id": "NCT07826923",
+      "title": "Safety and Acute Effects of tDCS on Musical Performance in Adolescent Instrumentalists",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Musical Performance",
+        "Neuromodulation"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Active Transcranial Direct Current Stimulation (tDCS)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Sham tDCS"
+        }
+      ],
+      "sponsor": "Centro Universitário Augusto Motta",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07826923"
+    },
+    {
+      "nct_id": "NCT07477769",
+      "title": "Lymphocyte Phenotype of Autosomal Recessive Congenital Ichthyoses Mutated NIPAL4 (Nipal4-nEDD)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Sezary Syndrome",
+        "Ichthyosis, Lamellar"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "blood sampling"
+        }
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "primary_completion": "2027-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07477769"
+    },
+    {
+      "nct_id": "NCT06052631",
+      "title": "Microneurographic Assessment of Peripheral Nerves in Healthy Volunteers and Individuals With Sensory Dysfunction Caused by Inherited Mutations in the PIEZO2 Gene",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "PIEZO2-Deficiency Syndrome"
+      ],
+      "interventions": [],
+      "sponsor": "National Center for Complementary and Integrative Health (NCCIH)",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06052631"
+    },
+    {
+      "nct_id": "NCT03665051",
+      "title": "Electrical Stimulation of Human Myocytes in Microgravity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Sarcopenia"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Muscle Tissue Biopsy"
+        },
+        {
+          "type": "OTHER",
+          "name": "Maximal Oxygen Consumption (V02max)"
+        }
+      ],
+      "sponsor": "AdventHealth Translational Research Institute",
+      "primary_completion": "2025-12",
+      "url": "https://clinicaltrials.gov/study/NCT03665051"
+    },
+    {
+      "nct_id": "NCT07273682",
+      "title": "Nurse-led Transitional Care to Improve Symptom Management in Childhood Cancer Survivors",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pediatric Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Counseling based on Omaha system"
+        },
+        {
+          "type": "OTHER",
+          "name": "Usual Care"
+        }
+      ],
+      "sponsor": "The Hong Kong Polytechnic University",
+      "primary_completion": "2028-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07273682"
+    },
+    {
+      "nct_id": "NCT06278337",
+      "title": "X-linked Moesin Associated Immunodeficiency",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Immune Deficiency",
+        "Autoimmune Diseases",
+        "Infections",
+        "Diagnosis"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "genetic restrospective study"
+        }
+      ],
+      "sponsor": "Institut National de la Santé Et de la Recherche Médicale, France",
+      "primary_completion": "2026-08-12",
+      "url": "https://clinicaltrials.gov/study/NCT06278337"
+    },
+    {
+      "nct_id": "NCT07347067",
+      "title": "Clinical Study of Myofascial Trigger Points(MTrPs) Injection in the Treatment of Chronic Migraine",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Myofascial Trigger Points",
+        "Chronic Migraine Headache",
+        "Greater Occipital Nerve Block"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "MTrPs Injection"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Greater occipital nerve block group"
+        }
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "primary_completion": "2026-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07347067"
+    },
+    {
+      "nct_id": "NCT07261631",
+      "title": "Phase I Study of [177Lu]Lu-DFC413 in Patients With Solid Tumors",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pancreatic Ductal Adenocarcinoma",
+        "Non-Small Cell Lung Cancer",
+        "HR+/HER2- Ductal and Lobular Breast Cancer",
+        "Triple Negative Breast Cancer",
+        "Colorectal Cancer",
+        "Soft Tissue Sarcoma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "68Ga-NNS309"
+        },
+        {
+          "type": "DRUG",
+          "name": "177Lu-DFC413"
+        }
+      ],
+      "sponsor": "Novartis Pharmaceuticals",
+      "primary_completion": "2029-05-09",
+      "url": "https://clinicaltrials.gov/study/NCT07261631"
+    },
+    {
+      "nct_id": "NCT07808645",
+      "title": "Wearable Sleep EEG and Auditory Stimulation in Healthy Adults",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sleep",
+        "Healthy Vollunteer"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Wearable EEG-Based Sleep Monitoring and Closed-Loop Auditory Stimulation System"
+        }
+      ],
+      "sponsor": "University of Houston",
+      "primary_completion": "2028-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT07808645"
+    },
+    {
+      "nct_id": "NCT07527728",
+      "title": "Postoperative Neurological Recovery and Risk Factor Analysis in Patients With Paralysis Due to Spinal Metastases",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Metastatic Spinal Tumors",
+        "Spinal Cord Compression",
+        "Paralysis",
+        "Neurological Deficits"
+      ],
+      "interventions": [],
+      "sponsor": "Shanghai Changzheng Hospital",
+      "primary_completion": "2028-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07527728"
+    },
+    {
+      "nct_id": "NCT07440199",
+      "title": "Comparison of SPSIP Block and SAP Block in Non-Intubated Uniportal VATS.",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "This Study Evaluates the Effects of Different Fascial Plane Blocks on Intraoperative Anesthesia and Analgesic Consumption in Non-intubated VATS Procedures"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Serratus Anterior Plane Block (SAPB) group"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Serratus posterior superior intercostal plane block group"
+        }
+      ],
+      "sponsor": "Firat University",
+      "primary_completion": "2026-08-15",
+      "url": "https://clinicaltrials.gov/study/NCT07440199"
+    },
+    {
+      "nct_id": "NCT07502352",
+      "title": "Remotely-Delivered Cognitive Behavioral Stress Management for Breast Cancer (R-CBSM)",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Remotely Delivered Cognitive Behavioral Stress Management Intervention (R-CBSM)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Standard of Care Survivorship Care Planning"
+        }
+      ],
+      "sponsor": "University of Miami",
+      "primary_completion": "2029-08",
+      "url": "https://clinicaltrials.gov/study/NCT07502352"
+    },
+    {
+      "nct_id": "NCT03716843",
+      "title": "Dynamic Pressure Monitoring System for Orthotic Treatment of Scoliosis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Adolescent Idiopathic Scoliosis"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Pressure monitoring system"
+        }
+      ],
+      "sponsor": "The Hong Kong Polytechnic University",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT03716843"
+    },
+    {
+      "nct_id": "NCT07793721",
+      "title": "Effects of Risk Presentation Format and Frequently Asked Questions on Breast Cancer Risk Skepticism",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Risk Presentation Format"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Frequently Asked Questions Exposure"
+        }
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "primary_completion": "2027-02-01",
+      "url": "https://clinicaltrials.gov/study/NCT07793721"
+    },
+    {
+      "nct_id": "NCT06202118",
+      "title": "A Study of Diffusing Alpha Radiation Therapy for Patients With Breast Carcinoma in Frail or Elderly Patients.",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Recurrent Breast Cancer",
+        "Breast Carcinoma"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Diffusing Alpha Radiation Emitters Therapy (DaRT)"
+        }
+      ],
+      "sponsor": "Alpha Tau Medical LTD.",
+      "primary_completion": "2026-01",
+      "url": "https://clinicaltrials.gov/study/NCT06202118"
+    }
+  ],
+  "fetched_at": "2026-10-12T00:28:13.353226"
+}
