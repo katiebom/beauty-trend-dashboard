@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:18:28.212633",
+  "generated_at": "2026-10-14T23:44:52.405743",
   "total_ingredients": 48,
   "signals": [
     {
@@ -302,58 +302,6 @@
       ]
     },
     {
-      "ingredient_id": "urea",
-      "name_kr": "우레아",
-      "name_en": "Urea",
-      "category": "hydration",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 3,
-        "T3": 0,
-        "unknown": 5
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.5,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42854439",
-          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
-          "year": "2026",
-          "journal": "Burns : journal of the International Society for Burn Injuries"
-        },
-        {
-          "pmid": "42820605",
-          "title": "Systemic pruritus as a neuroimmune disorder: Mechanistic insights and target-driven therapy.",
-          "year": "2026",
-          "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42845089",
-          "title": "The effect of red palm oil (",
-          "year": "2026",
-          "journal": "Dermatology reports"
-        },
-        {
-          "pmid": "42842113",
-          "title": "Topical Delgocitinib for Capecitabine-Induced Hand-Foot Syndrome: A Therapeutic Option?",
-          "year": "2026",
-          "journal": "Dermatology and therapy"
-        },
-        {
-          "pmid": "42772495",
-          "title": "High-performance adhesive eutectogel based on polyacrylate-carboxylated cellulose nanofibers double networks for efficie",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
-        }
-      ]
-    },
-    {
       "ingredient_id": "bakuchiol",
       "name_kr": "바쿠치올",
       "name_en": "bakuchiol",
@@ -439,52 +387,6 @@
       ]
     },
     {
-      "ingredient_id": "exosome",
-      "name_kr": "엑소좀",
-      "name_en": "Exosome",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 14.8,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42809765",
-          "title": "Exosome-based therapy for androgenetic alopecia: a systematic review of preclinical mechanisms and efficacy.",
-          "year": "2026",
-          "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica"
-        },
-        {
-          "pmid": "42799387",
-          "title": "Human Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes Attenuate IMQ-Induced Psoriasiform Dermatitis: A Preclinical",
-          "year": "2026",
-          "journal": "Stem cells international"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42858915",
-          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        },
-        {
-          "pmid": "42826557",
-          "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-media",
-          "year": "2026",
-          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
-        }
-      ]
-    },
-    {
       "ingredient_id": "ceramide",
       "name_kr": "세라마이드",
       "name_en": "Ceramide",
@@ -504,6 +406,12 @@
       "top_t1_papers": [],
       "top_t2_papers": [
         {
+          "pmid": "42868105",
+          "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, ",
+          "year": "2026",
+          "journal": "Skin pharmacology and physiology"
+        },
+        {
           "pmid": "42829011",
           "title": "Structure-function relationship of a single double bond: the difference in lamellar phase behaviors between ceramides NS",
           "year": "2026",
@@ -514,12 +422,6 @@
           "title": "SAIGE III: The Role of Environmental Factors in the Development and Severity of Atopic Dermatitis in Young Children.",
           "year": "2026",
           "journal": "Journal of drugs in dermatology : JDD"
-        },
-        {
-          "pmid": "42766467",
-          "title": "Genotypic and Phenotypic Profiles of Babies with Collodion Membrane in a Tertiary Care Center in Riyadh, Saudi Arabia.",
-          "year": "2026",
-          "journal": "Dermatology (Basel, Switzerland)"
         }
       ]
     },
@@ -566,6 +468,52 @@
           "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
           "year": "2026",
           "journal": "International journal of biological macromolecules"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "urea",
+      "name_kr": "우레아",
+      "name_en": "Urea",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42854439",
+          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
+          "year": "2026",
+          "journal": "Burns : journal of the International Society for Burn Injuries"
+        },
+        {
+          "pmid": "42820605",
+          "title": "Systemic pruritus as a neuroimmune disorder: Mechanistic insights and target-driven therapy.",
+          "year": "2026",
+          "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42845089",
+          "title": "The effect of red palm oil (",
+          "year": "2026",
+          "journal": "Dermatology reports"
+        },
+        {
+          "pmid": "42842113",
+          "title": "Topical Delgocitinib for Capecitabine-Induced Hand-Foot Syndrome: A Therapeutic Option?",
+          "year": "2026",
+          "journal": "Dermatology and therapy"
         }
       ]
     },
@@ -648,6 +596,45 @@
       ]
     },
     {
+      "ingredient_id": "caffeine",
+      "name_kr": "카페인",
+      "name_en": "Caffeine",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 9,
+      "recent_papers": 9,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.3,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42869236",
+          "title": "Cellular level investigation of skin permeation using stimulated Raman scattering microscopy and in-silico modelling.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "42788054",
+          "title": "Robustness Analyses Substantially Narrow in silico Network-Toxicology Signals Linking Selected Pharmaceuticals and Caffe",
+          "year": "2026",
+          "journal": "Clinical, cosmetic and investigational dermatology"
+        },
+        {
+          "pmid": "42738944",
+          "title": "Effects of Acute Caffeine Ingestion on Morning Temperature, Mood, Reactive Agility and Cognitive Measures in Males: A St",
+          "year": "2026",
+          "journal": "Nutrients"
+        }
+      ]
+    },
+    {
       "ingredient_id": "zinc_pca",
       "name_kr": "징크 PCA",
       "name_en": "Zinc PCA",
@@ -683,6 +670,46 @@
           "title": "Treatment of cradle cap in infants with a new cosmetic non-steroidal gel cream: Clinical, laboratory, and instrumental e",
           "year": "2021",
           "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "exosome",
+      "name_kr": "엑소좀",
+      "name_en": "Exosome",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42809765",
+          "title": "Exosome-based therapy for androgenetic alopecia: a systematic review of preclinical mechanisms and efficacy.",
+          "year": "2026",
+          "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42858915",
+          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
+        },
+        {
+          "pmid": "42826557",
+          "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-media",
+          "year": "2026",
+          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
         }
       ]
     },
@@ -766,6 +793,46 @@
       ]
     },
     {
+      "ingredient_id": "resveratrol",
+      "name_kr": "레스베라트롤",
+      "name_en": "Resveratrol",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42854439",
+          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
+          "year": "2026",
+          "journal": "Burns : journal of the International Society for Burn Injuries"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42868797",
+          "title": "Curcumin-loaded silk fibroin nanoparticle-stabilized pickering emulsions for co-delivery of resveratrol: Synergistic eff",
+          "year": "2026",
+          "journal": "Food chemistry"
+        },
+        {
+          "pmid": "42858864",
+          "title": "Development of sericin-elastin nanoblends containing resveratrol for cosmeceutical applications.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        }
+      ]
+    },
+    {
       "ingredient_id": "squalane",
       "name_kr": "스쿠알란",
       "name_en": "Squalane",
@@ -805,72 +872,6 @@
       ]
     },
     {
-      "ingredient_id": "caffeine",
-      "name_kr": "카페인",
-      "name_en": "Caffeine",
-      "category": "pore_texture",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 9,
-      "recent_papers": 9,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.6,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42788054",
-          "title": "Robustness Analyses Substantially Narrow in silico Network-Toxicology Signals Linking Selected Pharmaceuticals and Caffe",
-          "year": "2026",
-          "journal": "Clinical, cosmetic and investigational dermatology"
-        },
-        {
-          "pmid": "42738944",
-          "title": "Effects of Acute Caffeine Ingestion on Morning Temperature, Mood, Reactive Agility and Cognitive Measures in Males: A St",
-          "year": "2026",
-          "journal": "Nutrients"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42858861",
-          "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and reti",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42833495",
-          "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        }
-      ]
-    },
-    {
       "ingredient_id": "azelaic_acid",
       "name_kr": "아젤라산",
       "name_en": "Azelaic Acid",
@@ -900,40 +901,6 @@
           "title": "Efficacy and safety of a novel anhydrous 0.1% retinal and 10% azelaic acid concentrate for blemish-prone skin: An eight-",
           "year": "2026",
           "journal": "International journal of cosmetic science"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "resveratrol",
-      "name_kr": "레스베라트롤",
-      "name_en": "Resveratrol",
-      "category": "anti_aging",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42854439",
-          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
-          "year": "2026",
-          "journal": "Burns : journal of the International Society for Burn Injuries"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42858864",
-          "title": "Development of sericin-elastin nanoblends containing resveratrol for cosmeceutical applications.",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
         }
       ]
     },
@@ -1075,6 +1042,33 @@
       "signal_label": "🟢 잠재 (T+24mo)",
       "top_t1_papers": [],
       "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42858861",
+          "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and reti",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        }
+      ]
     },
     {
       "ingredient_id": "alpha_arbutin",

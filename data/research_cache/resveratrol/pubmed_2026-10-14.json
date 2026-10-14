@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42868797",
+      "title": "Curcumin-loaded silk fibroin nanoparticle-stabilized pickering emulsions for co-delivery of resveratrol: Synergistic efficacy in strawberry preservation.",
+      "abstract": "Strawberries are nutrient-dense and economically vital fruits with extremely high perishability. They frequently suffer from postharvest losses and safety hazards due to their thin epidermis, active metabolism, and susceptibility to microbial infection. Conventional preservation strategies including refrigeration, chemical fungicides and polymer coatings suffer from chilling injury, health risks and high costs. Herein, we developed a novel Pickering emulsion stabilized by curcumin-loaded silk fibroin nanoparticles (Cur-SF NPs) for the co-delivery of resveratrol (Res) to synergistically enhance strawberry preservation. Formulated via a facile eco-friendly route, Cur-SF NPs serve as bifunctional stabilizers to enhance emulsion stability as well as solubility and stability of Res. Physicochemical characterization, antioxidant assays, and microbial tests verified the emulsion's favorable properties, revealing enhanced antioxidant activity and broad-spectrum antibacterial efficacy against Aspergillus niger and Escherichia coli. Integrated into chitosan edible coating, the emulsion effectively reduced strawberry weight loss, maintained firmness and inhibited spoilage. This green, sustainable strategy presents a highly viable approach for the postharvest preservation of soft fruits.",
+      "year": "2026",
+      "journal": "Food chemistry",
+      "authors": [
+        "Xu Hui",
+        "Li Bo",
+        "Lu Yi-Jing",
+        "Zhu Chenxian",
+        "Li Hao-Ran"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42868797/"
+    },
+    {
       "pmid": "42864801",
       "title": "A Review on Mechanisms of Action and Signaling Pathways of Natural Anti-hyperpigmentation Agents.",
       "abstract": "Hyperpigmentation is a dermatological condition characterized by excessive melanin production, resulting in skin darkening. Intrinsic and extrinsic mediators, including ultraviolet (UV) radiation, hormonal changes, inflammation, and genetic predisposition, contribute to hyperpigmentation pathogenesis. The current review thoroughly examines the biological processes involved in hyperpigmentation, with particular emphasis on its signaling pathways, particularly the cyclic adenosine monophosphate (cAMP), wingless-related integration site (Wnt)/β-catenin, phosphatidylinositol 3-kinase (PI3K)/protein kinase B (Akt), and mitogen-activated protein kinase (MAPK), thereby providing mechanistic insights that may facilitate the development of effective treatments. The review also evaluates the safety, toxicity, and therapeutic efficacy of TYR inhibitors, arbutin, azelaic acid, ellagic acid, kojic acid, resveratrol, and the melanosome inhibitor niacinamide, for managing hyperpigmentation. Additionally, the review summarizes the in vitro and in vivo studies of these agents and other emerging plant extracts. Recent advances in the use of plant extracts for hyperpigmentation have shown promising efficacy; nevertheless, their translation into clinical and commercial applications remains limited. This limited translation might be attributed to the challenges related to standardization and the paucity of clinical evidence regarding long-term safety. Moreover, ongoing studies on natural anti-hyperpigmentation agents have highlighted the critical role of patent analyses in the advancement of biomedical research. This review provides a strategic direction for researchers to assess the safety, efficacy, and toxicity profiles of natural anti-hyperpigmentation agents.",
@@ -185,24 +201,8 @@
         "Dentin-Bonding Agents"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42743388/"
-    },
-    {
-      "pmid": "42733589",
-      "title": "An oral coral-like resveratrol nanocomplex protects against dry eye disease through ocular and systemic redox homeostasis.",
-      "abstract": "Dry eye disease (DED) is a progressive ocular disorder in which chronic inflammation and oxidative stress synergistically damage ocular tissues and impair vision. While topical anti-inflammatory and artificial tears therapies are the standard treatment for DED, their long-term application is limited by adverse effects and poor patient compliance. Emerging evidence suggests that systemic redox dysregulation contributes to DED pathogenesis, highlighting the potential of oral antioxidant intervention as a disease-modifying strategy. However, the clinical translation of oral antioxidants has been constrained by poor bioavailability and rapid metabolic clearance. Herein, a coral-like resveratrol nanocomplex was fabricated with a composite natural carrier of sericin and dipotassium glycyrrhizinate through a simple pH-ultrasonic-shifting method in aqueous solution, enabling effective oral delivery of this potent polyphenolic antioxidant. This coral-like nanocomplex markedly enhanced gastrointestinal stability and systemic exposure of resveratrol, increasing oral bioavailability by approximately 6.62-fold and ocular accumulation by 2.49-fold. The nanocomplex exerted robust ocular and systemic antioxidant effects and protected against experimental DED in mice. Oral administration of this nanocomplex protected against benzalkonium chloride (BAC)-induced corneal epithelial damage, tear film dysfunction, and inflammatory responses. Mechanistically, the nanocomplex alleviated oxidative damage through ocular and systemic redox homeostasis. Rather than acting solely on the ocular surface, this orally nanomedicine may provide complementary therapeutic benefits through ocular and systemic redox regulation, while also being associated with modulation of gut microbiota and metabolic profiles. These findings support oral redox intervention as a promising complementary strategy for protecting against the DED, particularly for reducing the burden of prolonged topical treatment.",
-      "year": "2027",
-      "journal": "Bioactive materials",
-      "authors": [
-        "Cui Qingchen",
-        "Li Yaqiong",
-        "Xie Mengzhen",
-        "Liu Ziyu",
-        "Guo Yihan"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42733589/"
     }
   ],
-  "crawled_at": "2026-10-14T00:18:17.842065",
+  "crawled_at": "2026-10-14T23:44:44.846808",
   "source": "pubmed"
 }

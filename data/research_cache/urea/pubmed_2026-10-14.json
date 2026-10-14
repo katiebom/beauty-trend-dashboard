@@ -7,6 +7,21 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42871732",
+      "title": "Rare Presentation of Marginal Papular Acrokeratoderma: A Case Report and Literature Review of Costa's Acrokeratoelastoidosis of the Hand.",
+      "abstract": "Acrokeratoelastoidosis (AKE) is a rare benign genodermatosis characterized by keratotic papules on the lateral aspects of hands and feet. We present a case of a 25-year-old woman with a 3-year history of asymptomatic yellowish papules forming a linear plaque on the ulnar margin of her left hand. Previous treatments with topical acids and cryotherapy proved ineffective. Histopathological examination revealed hyperkeratosis, psoriasiform acanthosis, and decreased elastic fibers, confirmed by special stains. Treatment with high-potency steroids and urea cream showed modest improvement. This case highlights the importance of considering AKE in the differential diagnosis of keratotic acral lesions and demonstrates the current therapeutic limitations in managing this uncommon condition.",
+      "year": "2026",
+      "journal": "Case reports in dermatological medicine",
+      "authors": [
+        "Cid-Puente Ricardo",
+        "Vázquez-Arroyo Paulina",
+        "Saucedo-Martínez Karla-Yareli",
+        "Rodríguez-Baca Angelica-Beatriz"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42871732/"
+    },
+    {
       "pmid": "42854439",
       "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 succinylation.",
       "abstract": "Acute kidney injury (AKI) is a severe complication of burn trauma and is associated with significantly increased mortality. Resveratrol (RES) has shown therapeutic potential in AKI, yet its role in burn-induced AKI, particularly through the modulation of succinylation, remains unclear. This study aimed to investigate the protective effects of RES and the underlying molecular mechanisms in a burn-related AKI model. In vivo, AKI was induced in Sprague-Dawley rats by exposing the dorsal skin to boiling water, while in vitro, human kidney proximal tubular (HK2) cells were stimulated with lipopolysaccharide (LPS) to mimic inflammatory injury. The therapeutic efficacy of RES was assessed by measuring renal function parameters, inflammatory cytokine levels, and kidney injury biomarkers, supported by histopathological and ultrastructural examinations. In vitro, the effects of RES were evaluated through cell viability, apoptosis, and mitophagy assays. Mechanistic insights were obtained using molecular docking, surface plasmon resonance (SPR), western blotting, immunoprecipitation (IP), and co-immunoprecipitation (Co-IP). RES treatment significantly reduced blood urea nitrogen (BUN), serum creatinine (SCr), pro-inflammatory cytokines, and kidney injury molecule-1 (KIM-1) levels, attenuated renal tubular damage, and improved mitochondrial and autophagosomal ultrastructure in burned rats. In LPS-stimulated HK2 cells, RES inhibited apoptosis and promoted mitophagy. Mechanistically, RES upregulated SIRT5 expression, which decreased global succinylation levels and enhanced ATG3 protein stability via K9 desuccinylation. Notably, ATG3 knockdown abrogated the renoprotective effects of RES in both in vivo and in vitro models. Collectively, these findings demonstrate that RES upregulates SIRT5 and inhibits ATG3 succinylation, thereby stabilizing ATG3 and promoting mitophagy, which collectively ameliorate burn-induced AKI.",
@@ -161,24 +176,8 @@
         "Mutagenesis, Site-Directed"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42773664/"
-    },
-    {
-      "pmid": "42772495",
-      "title": "High-performance adhesive eutectogel based on polyacrylate-carboxylated cellulose nanofibers double networks for efficient transdermal drug delivery.",
-      "abstract": "Due to their poor ability to solubilize lipophilic drugs and insufficient skin adhesion, conventional hydrogels show limited application in transdermal drug delivery systems (TDDSs). Eutectogels are considered promising alternatives to hydrogels because of their excellent drug solubility, adhesion, and stability. This work reports the preparation of a high-performance double -network eutectogel using ChCl-urea deep eutectic solution as the solvent, poly (4-hydroxyphenyl methacrylate-co-acrylic acid-co-N-vinylpyrrolidone) and carboxylated cellulose nanofibers as first polymer network and second polymer network, respectively, and Zr",
-      "year": "2026",
-      "journal": "International journal of biological macromolecules",
-      "authors": [
-        "Xie Daoxuan",
-        "Zhang Jiayue",
-        "Zhang Xinyue",
-        "Du Zhuopeng",
-        "Li Yue"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42772495/"
     }
   ],
-  "crawled_at": "2026-10-14T00:18:23.461618",
+  "crawled_at": "2026-10-14T23:44:50.436393",
   "source": "pubmed"
 }

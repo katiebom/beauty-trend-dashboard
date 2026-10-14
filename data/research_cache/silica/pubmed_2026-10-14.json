@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42868740",
+      "title": "Physically retained charge-dense interfaces enhance piezoionic sensing under physiologically relevant ionic conditions.",
+      "abstract": "Piezoionic hydrogels convert mechanical deformation into ionic signals through pressure-driven ion migration, offering self-powered operation and mechanical compliance suitable for integration with biological tissues. However, conventional piezoionic systems rely on the redistribution of freely mobile ions, making their output strongly dependent on maintaining an optimized internal electrolyte composition and potentially attenuated under physiologically relevant ionic conditions. Here, we report a piezoionic hydrogel designed to retain charge-dense interfaces within a hydrated polymer network. Polyamine-looped silica (PLS) nanoparticles are retained within a polyacrylamide (PAM) scaffold with no detectable particle loss under the tested hydration conditions, while their surface-loop architecture is proposed to promote topological interpenetration with the surrounding polymer network. The positively charged interfaces are proposed to favor the local association of anionic species, thereby contributing to asymmetric ion redistribution during compression. Comparisons with bare silica and amine-functionalized silica (AFS) nanoparticles indicate that the enhanced response is associated with both the charge characteristics and retention of the PLS-containing interfaces. The PLS-containing architecture maintains mechanical recoverability over the tested 20 compression cycles and produces reproducible piezoionic responses over 100 cycles. The PAM/PLS hydrogel exhibits a piezoionic voltage coefficient of 62 mV kPa",
+      "year": "2026",
+      "journal": "Biosensors & bioelectronics",
+      "authors": [
+        "Lee Hyeon Ju",
+        "Kim Dong-Yeong",
+        "Kim Juhui",
+        "Lim Jung Ah",
+        "Jeong Haejin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42868740/"
+    },
+    {
       "pmid": "42834026",
       "title": "Adhesive-Yet-Removable Silica-Polydopamine Janus Particles for High-Performance Skin Photoprotection.",
       "abstract": "Photoprotective materials must remain on the skin during use while permitting gentle removal afterward, creating a conflict between durable adhesion and post-use cleansing. Here, we report anisotropic dumbbell-shaped mesoporous Silica-Polydopamine Janus particles (SiO2&PDA JPs) designed to balance these competing requirements at the skin interface. The hydrophilic silica domain suppresses PDA aggregation and serves as a carrier for avobenzone, whereas the PDA domain provides broadband ultraviolet shielding, radical-scavenging activity, and skin adhesion. Under continuous ultraviolet irradiation, more than 70% of avobenzone remained in the Janus system after 4 h, compared with approximately 10% for free avobenzone. Ex vivo imaging indicated that the SiO2&PDA JPs were predominantly confined to the skin surface, and in vivo fluorescence imaging showed approximately 60% retention after 6 h of unrestricted mouse activity. The particles resisted water rinsing but were substantially removed by wet-towel wiping. Their adsorption at oil-water interfaces and reduction of interfacial tension further promoted emulsification-assisted removal of oily residues under gentle rubbing. In HaCaT cells, the Janus formulation reduced ultraviolet-induced reactive oxygen species accumulation, mitochondrial depolarization, and γH2AX formation. In a mouse model, it attenuated epidermal thickening and ultraviolet-associated DNA damage. These results identify anisotropic SiO2&PDA JPs as an adhesive-yet-removable skin-interfacing biomaterial integrating ultraviolet-filter stabilization, radical-scavenging activity, surface retention, and practical cleansing.",
@@ -94,7 +110,18 @@
         "Xiao Yumei",
         "Yang Xiao"
       ],
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Animals",
+        "Flavonoids",
+        "Wound Healing",
+        "Mice",
+        "Macrophages",
+        "Nanofibers",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "Glycogen Synthase Kinase 3 beta",
+        "Signal Transduction"
+      ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42773972/"
     },
     {
@@ -191,24 +218,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42742102/"
-    },
-    {
-      "pmid": "42730012",
-      "title": "Development of nanoparticles loaded with D-mannose for topical treatment to alleviate skin aging via rescuing SIRT1 from degradation.",
-      "abstract": "Skin aging is a complicated biological process, greatly interrupting skin physical function and increasing the risk of aging-associated skin diseases, therefore, drugs or treatment to delay or even reverse this process is in urgent need. D-mannose, a monosaccharide metabolite existing in human body and nature, has been demonstrated as a protential beneficial supplementation in clinical practice. However, whether D-mannose could alleviate skin aging remains unclear. Based on our previous study, we initially investigated the effect of topical supplementation of D-mannose on skin aging and found that it markedly rescued the senescent phenotype and recovered extracellular matrix disposition in the aging skin mice model. Considering that exogenous D-mannose predominantly eneters in lysosomes and subsequently exerts its biological functions, we therefore constructed a nanomaterial-loaded-D-mannose (MSN-B-Man) which could deliver D-mannose to lysosomes precisely. Furthermore, we observed prolonged skin retention of D-mannose and stronger anti-senescent effect upon topical application of MSN-B-Man compared with D-mannose alone. Mechanistically, D-mannose, cargo of MSN-B-Man, could physically bound with SIRT1 to prevent SIRT1 degradation in skin fibroblast during senescence, thus activating autophagy and further suppressing skin aging. Therefore, our present results first time unveil a novel protective role and underlying mechanisms of D-mannose during the skin aging course, highlighting the potential application of topical MSN-B-Man administration in alleviating skin aging and skin aging-related diseases.",
-      "year": "2026",
-      "journal": "Materials today. Bio",
-      "authors": [
-        "Luo Jialiang",
-        "Shao Weijie",
-        "Liu Shuai",
-        "Liang Zhicheng",
-        "Dong Xiaojing"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42730012/"
     }
   ],
-  "crawled_at": "2026-10-14T00:18:25.124783",
+  "crawled_at": "2026-10-14T23:44:52.108258",
   "source": "pubmed"
 }

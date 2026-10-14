@@ -19,7 +19,18 @@
         "Martín-Pastor Manuel",
         "Sarmento Bruno"
       ],
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Antioxidants",
+        "Hydrogels",
+        "Animals",
+        "Corneal Injuries",
+        "Humans",
+        "Cattle",
+        "Ubiquinone",
+        "Administration, Ophthalmic",
+        "2-Hydroxypropyl-beta-cyclodextrin",
+        "Solubility"
+      ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42716148/"
     },
     {
@@ -220,6 +231,6 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37371744/"
     }
   ],
-  "crawled_at": "2026-10-14T00:18:02.328881",
+  "crawled_at": "2026-10-14T23:44:29.889301",
   "source": "pubmed"
 }

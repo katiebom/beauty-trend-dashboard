@@ -7,6 +7,25 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42871309",
+      "title": "The active immune role of keratinocytes: from passive targets to key hubs in psoriatic inflammation.",
+      "abstract": "Psoriasis is a chronic immune-mediated inflammatory skin disease historically viewed as a disorder of keratinocyte hyperplasia, with subsequent recognition of central immune cell involvement. However, accumulating multi-omics and functional genomic evidence has reshaped this paradigm, positioning keratinocytes not merely as passive targets of immune attack but as active participants within a bidirectional epithelial-immune network that drives inflammatory initiation, maintenance, and amplification. This critical narrative review synthesizes the molecular mechanisms by which keratinocytes integrate genetic susceptibility, environmental triggers, metabolic reprogramming, and cell death programs to modulate psoriatic inflammation. We examine interleukin (IL)-1/IL-36 cytokines, the dual function of the antimicrobial peptide LL-37, danger signal release and dendritic cell recruitment, chemokine networks and exosome-mediated communication, the neuropeptide-keratinocyte axis, carbohydrate and lipid metabolic abnormalities, mitochondrial dysfunction and reactive oxygen species (ROS)-mediated feedback, epidermal barrier defects and microbiome dysregulation, diagnostic biomarkers, and therapeutic innovations. We further critically evaluate controversies, conceptual challenges, research gaps, and future directions. A keratinocyte-centric framework-situated within the broader context of epithelial-immune reciprocity-advances understanding of psoriasis pathogenesis and informs precision therapies targeting the barrier-immune axis.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Pei Yu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Keratinocytes",
+        "Psoriasis",
+        "Animals",
+        "Inflammation",
+        "Skin Microbiome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42871309/"
+    },
+    {
       "pmid": "42858915",
       "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
       "abstract": "",
@@ -164,24 +183,8 @@
         "Hair Follicle"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42809765/"
-    },
-    {
-      "pmid": "42799387",
-      "title": "Human Umbilical Cord Mesenchymal Stem Cell-Derived Exosomes Attenuate IMQ-Induced Psoriasiform Dermatitis: A Preclinical Experimental Study of Exosomal miR-125b-5p/STAT3 Signaling.",
-      "abstract": "Psoriasis is a chronic inflammatory skin disease driven largely by dysregulation of the IL-23/Th17 axis and excessive keratinocyte proliferation. Human umbilical cord mesenchymal stem cell (MSC)-derived exosomes (hucMSC-Exos) represent a potential cell-free therapeutic strategy, but their mechanisms remain incompletely defined. This study evaluated the effects of hucMSC-Exos in psoriasiform inflammation and investigated the contribution of exosomal miR-125b-5p and its relationship with STAT3 signaling.",
-      "year": "2026",
-      "journal": "Stem cells international",
-      "authors": [
-        "Li Ziyan",
-        "Ren Rui",
-        "Wang Yunjia",
-        "Fan Zhichao",
-        "Zhang Yijun"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42799387/"
     }
   ],
-  "crawled_at": "2026-10-14T00:17:56.545278",
+  "crawled_at": "2026-10-14T23:44:23.965024",
   "source": "pubmed"
 }

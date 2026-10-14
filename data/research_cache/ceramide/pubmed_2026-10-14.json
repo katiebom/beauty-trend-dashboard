@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42868105",
+      "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, Double-Blind, Placebo-Controlled Study.",
+      "abstract": "To evaluate the effects of a ceramide NP-containing soothing and moisturizing emollient cream on skin-barrier function in adult patients with atopic dermatitis (AD).",
+      "year": "2026",
+      "journal": "Skin pharmacology and physiology",
+      "authors": [
+        "Gu Chaoying",
+        "Ying Jiayi",
+        "Yin Huibin",
+        "Huang Chunyun",
+        "Xiang Leihong"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42868105/"
+    },
+    {
       "pmid": "42860858",
       "title": "Enzymatic Synthesis of a Novel α-Linolenic Acid-Enriched Phytoceramide From Perilla Seed Oil and Its Multifunctional Bioactivity in Skin Barrier Repair and Anti-Aging.",
       "abstract": "Ceramides are essential lipid components of the skin barrier, accounting for approximately 50% of intercellular lipids in the stratum corneum. Their deficiency is associated with various skin disorders, including atopic dermatitis and xerosis. This study aimed to enzymatically synthesize a novel phytoceramide from perilla seed oil (PSO-Cer) and evaluate its multifaceted bioactivity, including skin barrier enhancement and anti-aging effects, in comparison with oleic acid-derived Ceramide IIIB. PSO-Cer was synthesized enzymatically and characterized by HPLC-CAD and LC-QTOF. Its biological effects were assessed in human keratinocytes (HaCaT) and dermal fibroblasts-adult (HDF-a) through cytotoxicity assays, qPCR of genes related to barrier function and extracellular matrix (ECM) synthesis, western blot, and transcriptome sequencing. HPLC-CAD confirmed PSO-Cer was rich in polyunsaturated fatty acid chains, notably α-linolenic acid (34.49%). Both PSO-Cer and Ceramide IIIB were non-cytotoxic up to 25 µg/mL and significantly upregulated genes critical for epidermal barrier function (FLG, IVL, TGM1, CERS3, and ELOVL4) and ECM components (COL1A1, COL3A1, and ELN) in UVB-irradiated fibroblasts. Transcriptome analysis revealed that while both ceramides shared common mechanisms, namely activation of mTOR signaling and sphingolipid metabolism, PSO-Cer exhibited distinct properties, positioning it as a promising multifunctional active for advanced skincare formulations aimed at comprehensive skin health.",
@@ -202,24 +218,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42756854/"
-    },
-    {
-      "pmid": "42741161",
-      "title": "Milk-based multi-omics reveals distinct quality signatures associated with Astragalus polysaccharide supplementation in late lactation goats.",
-      "abstract": "Late lactation is frequently accompanied by changes in goat milk composition and volatile-related quality, which may reduce its commercial value. This study investigated whether Astragalus polysaccharide (APS), a plant-derived bioactive polysaccharide from ",
-      "year": "2026",
-      "journal": "Food chemistry: X",
-      "authors": [
-        "Han Shanshan",
-        "Wang Peng",
-        "Hu Yunhong",
-        "Zhang Qiang",
-        "Wan Ke"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741161/"
     }
   ],
-  "crawled_at": "2026-10-14T00:17:59.253922",
+  "crawled_at": "2026-10-14T23:44:26.728559",
   "source": "pubmed"
 }

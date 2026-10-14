@@ -7,6 +7,38 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42873731",
+      "title": "Local RAGE Inhibition Attenuates Early Diabetic Retinal Pathology in Streptozotocin-Induced Rats.",
+      "abstract": "Introduction Diabetic retinopathy, which occurs during extended periods of chronic hyperglycemia, is one of the main causes of vision loss. The receptor for advanced glycation end products (RAGE) plays a central role in inflammatory and angiogenic signaling, both of which contribute to the pathogenesis of diabetic retinopathy, but its therapeutic targeting in ocular disease has been insufficiently explored. Methods We evaluated topical RAGE229, a small-molecule RAGE inhibitor, and an intravitreally administered anti-RAGE antibody in a streptozotocin-induced diabetic rat model. At day 84, treatment effects were assessed using masked fundoscopic scoring, RT-qPCR, immunohistochemistry, and histological morphometry. Treated eyes were evaluated against both route-matched diabetic vehicle-control groups and paired contralateral vehicle-treated eyes. Results Both interventions reduced fundoscopic pathology and retinal Vegfa and Nfkb1 expression, whereas Ager showed only a non-significant downward trend. NF-κB p65 immunoreactivity was reduced by both treatments, while a significant reduction in VEGF-A immunoreactivity was detected only in the paired anti-RAGE antibody analysis. Morphometric analysis indicated attenuation of diabetes-associated retinal thinning with both interventions. Neither intervention altered systemic glycemic control. Although both interventions demonstrated similar overall anatomical protection, anti-RAGE antibody treatment showed more consistent effects across protein-level and structural endpoints. Conclusion These findings provide proof-of-concept evidence that local RAGE-targeted treatment may attenuate vascular, molecular, and structural manifestations of early experimental diabetic retinopathy without detectable changes in systemic glycemia. Further preclinical studies should evaluate ocular exposure, direct target engagement, functional visual outcomes, and reproducibility in larger cohorts.",
+      "year": "2026",
+      "journal": "Gerontology",
+      "authors": [
+        "Vakhrusheva Anna",
+        "Kryuchkov Nickolay A",
+        "Nedorubov Andrey A",
+        "Xi Yang",
+        "Guvatova Zulfiia G"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42873731/"
+    },
+    {
+      "pmid": "42873447",
+      "title": "Supernormal flicker ERG with postoperative CME after nDSAEK in bullous keratopathy.",
+      "abstract": "To report a case of supernormal electroretinogram (ERG) observed after non-Descemet stripping automated endothelial keratoplasty (nDSAEK) in a patient with bullous keratopathy, monitored longitudinally with flicker ERG and OCT.",
+      "year": "2026",
+      "journal": "Documenta ophthalmologica. Advances in ophthalmology",
+      "authors": [
+        "Kato Kumiko",
+        "Mizumoto Keitaro",
+        "Yonekawa Yuka",
+        "Mori Sumine",
+        "Mizutani Nao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42873447/"
+    },
+    {
       "pmid": "42866098",
       "title": "Biophotonics in veterinary medicine: current clinical applications, translational challenges, and emerging opportunities.",
       "abstract": "Biophotonics, a relatively new scientific field, applies optical or light-based techniques to biology and medicine. These approaches enable non-invasive visualization, monitoring, and characterization of biological tissues and processes, thereby supporting diagnostics, treatments, monitoring, imaging, and surgery. Biophotonic capabilities could be particularly valuable in veterinary medicine, where patients cannot verbally describe symptoms and where rapid, non-invasive assessment may reduce reliance on invasive sampling and, in selected cases, sedation or anesthesia. This perspective review examines the emerging application of biophotonics in veterinary medicine, including optical coherence tomography (OCT), fluorescence-guided imaging, hyperspectral and multispectral imaging, Raman spectroscopy, visible and near-infrared spectroscopy, and diffuse reflectance spectroscopy. Among currently available biophotonic approaches, OCT and fluorescence-guided imaging have achieved the highest level of clinical translation in veterinary medicine, particularly in ophthalmology (retinal layering assessment) and surgical oncology (real-time intraoperative tumor margin delineation). In contrast, hyperspectral imaging and Raman spectroscopy remain largely confined to research and early translational settings despite promising diagnostic performance. Across modalities, major barriers to wider clinical adoption include high equipment costs, lack of standardized protocols, and limited multicenter validation. Finally, animal patients vary considerably in haircoat, pigmentation, and skin thickness, which can affect light penetration and optical signal quality. Nevertheless, multimodal and AI-assisted approaches show strong potential to improve non-invasive diagnostics, intraoperative guidance, and physiologic monitoring in veterinary medicine.",
@@ -130,50 +162,8 @@
         "Hemodynamics"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42839239/"
-    },
-    {
-      "pmid": "42833844",
-      "title": "Uveitis despite adalimumab therapy in Blau syndrome.",
-      "abstract": "Blau syndrome is a rare granulomatous autoinflammatory disease caused by NOD2 mutations and characterised by dermatitis, arthritis and uveitis. We report a middle childhood boy initially diagnosed with oligoarticular juvenile idiopathic arthritis (JIA) because arthritis was the predominant early manifestation. He had papular skin lesions in infancy and periarticular swelling and tenosynovial cysts, later developed persistent arthritis and recurrent fever. Genetic testing identified a heterozygous NOD2 variant (c.1001G>A, p.Arg334Gln [R334Q]), confirming Blau syndrome. Despite ongoing methotrexate and adalimumab therapy, routine ophthalmic examination revealed unilateral anterior uveitis with iris nodules. Fundus examination showed bilateral multifocal chorioretinal lesions, and fluorescein angiography demonstrated retinal vasculitis. Ocular inflammation became quiescent after topical corticosteroid treatment and weight-based escalation of adalimumab. This case highlights that Blau syndrome may masquerade as JIA and that regular ophthalmic surveillance remains essential even during biologic therapy.",
-      "year": "2026",
-      "journal": "BMJ case reports",
-      "authors": [
-        "Takasaki Takeshi",
-        "Watanabe Meri",
-        "Kawahara Yuta",
-        "Kaburaki Toshikatsu"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "Male",
-        "Arthritis",
-        "Uveitis",
-        "Synovitis",
-        "Adalimumab",
-        "Nod2 Signaling Adaptor Protein",
-        "Antirheumatic Agents",
-        "Cranial Nerve Diseases",
-        "Dermatitis"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833844/"
-    },
-    {
-      "pmid": "42833495",
-      "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
-      "abstract": "",
-      "year": "2026",
-      "journal": "Journal of the American Academy of Dermatology",
-      "authors": [
-        "Ameri Kimia",
-        "Ashamalla Mark",
-        "Shunmugam Maheshver",
-        "Kipfer Sharon",
-        "Donovan Jeffrey"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833495/"
     }
   ],
-  "crawled_at": "2026-10-14T00:17:54.211545",
+  "crawled_at": "2026-10-14T23:44:21.588045",
   "source": "pubmed"
 }
