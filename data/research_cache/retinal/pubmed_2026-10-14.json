@@ -1,0 +1,179 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42866098",
+      "title": "Biophotonics in veterinary medicine: current clinical applications, translational challenges, and emerging opportunities.",
+      "abstract": "Biophotonics, a relatively new scientific field, applies optical or light-based techniques to biology and medicine. These approaches enable non-invasive visualization, monitoring, and characterization of biological tissues and processes, thereby supporting diagnostics, treatments, monitoring, imaging, and surgery. Biophotonic capabilities could be particularly valuable in veterinary medicine, where patients cannot verbally describe symptoms and where rapid, non-invasive assessment may reduce reliance on invasive sampling and, in selected cases, sedation or anesthesia. This perspective review examines the emerging application of biophotonics in veterinary medicine, including optical coherence tomography (OCT), fluorescence-guided imaging, hyperspectral and multispectral imaging, Raman spectroscopy, visible and near-infrared spectroscopy, and diffuse reflectance spectroscopy. Among currently available biophotonic approaches, OCT and fluorescence-guided imaging have achieved the highest level of clinical translation in veterinary medicine, particularly in ophthalmology (retinal layering assessment) and surgical oncology (real-time intraoperative tumor margin delineation). In contrast, hyperspectral imaging and Raman spectroscopy remain largely confined to research and early translational settings despite promising diagnostic performance. Across modalities, major barriers to wider clinical adoption include high equipment costs, lack of standardized protocols, and limited multicenter validation. Finally, animal patients vary considerably in haircoat, pigmentation, and skin thickness, which can affect light penetration and optical signal quality. Nevertheless, multimodal and AI-assisted approaches show strong potential to improve non-invasive diagnostics, intraoperative guidance, and physiologic monitoring in veterinary medicine.",
+      "year": "2026",
+      "journal": "Frontiers in veterinary science",
+      "authors": [
+        "Viškere Daira",
+        "Matise-VanHoutan Ilze",
+        "Cugmas Blaz",
+        "Tamosiunas Mindaugas"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42866098/"
+    },
+    {
+      "pmid": "42862210",
+      "title": "Macular holes and endogenous electric fields A Theoretical Model Of How Electrotaxis In Retinal Glial Cells Aids In Macular Hole Closure.",
+      "abstract": "To introduce the concept of endogenous electric fields in macular hole closure and propose them as a plausible mechanism guiding retinal glial cell migration to facilitate closure.",
+      "year": "2026",
+      "journal": "Retina (Philadelphia, Pa.)",
+      "authors": [
+        "Thanos Aristomenis",
+        "Fortune Brad"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42862210/"
+    },
+    {
+      "pmid": "42858861",
+      "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and retinal protection in a dAMD model.",
+      "abstract": "Dry age-related macular degeneration (dAMD) is a highly prevalent degenerative retinal disease. Quercetin, a bioactive ingredient in traditional Chinese medicine, can mitigate the oxidative stress that helps drive dAMD; however, its low water solubility and poor corneal permeability limit its efficacy. We developed dual-functional polymeric micelles (PMs) co-conjugated with a glycocalyx-binding peptide (GBP) and a cell-penetrating peptide (TAT) for the enhanced topical ocular delivery of quercetin (QUE), named GT-PMs/QUE. The GT-PMs/QUE exhibited a particle size of 46.25 ± 3.05 nm and a zeta potential of -5.64 ± 0.92 mV. GT-PMs exhibited significantly higher cellular uptake efficiency than the unmodified group (PMs) and single-peptide modified groups (GBP-PMs and TAT-PMs). In the sodium iodate-induced oxidative damage model of adult retinal pigment epithelial cell line-19 (ARPE-19) cells, the GT-PMs/QUE treatment group showed significantly reduced ROS and MDA levels along with markedly increased SOD, CAT, and GSH activities that approached normal control levels compared to the model group. In a mouse model of dAMD, GT-PMs/QUE greatly improved the bioavailability of quercetin delivered via eye drop administration and attenuated sodium iodate-induced retinal damage. This study provides a theoretical and experimental basis for enhanced ocular delivery of quercetin and protection against dAMD-related retinal damage.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Li Shuyao",
+        "Yang Qinghua",
+        "Zhu Yadi",
+        "Li Tingting",
+        "Scherman Daniel"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858861/"
+    },
+    {
+      "pmid": "42856407",
+      "title": "Interferon gamma-induced MX1 and IFITM1 inhibit Varicella-Zoster Virus Replication.",
+      "abstract": "Interferon gamma (IFN-γ) is a potent cytokine secreted following primary varicella-zoster virus (VZV) infection. Our previous studies demonstrated that pretreatment with IFN-γ completely inhibited VZV replication in lung fibroblast MRC-5 and retinal epithelial ARPE-19 but not in melanoma MeWo cells, suggesting that IFN-γ-stimulated protein(s) inhibit viral replication. Our microarray analysis revealed that 34 interferon-stimulated genes (ISGs) were upregulated by greater than 2.5-fold at 8 h post-treatment in both ARPE-19 and MRC-5 cells compared to those of MeWo cells. The depletion of CTSS, GBP4, MX1, IFIT1, IFITM1 and IRF1 by siRNA in IFN-γ-treated cells significantly increased VZV yields. Ectopic overexpression of interferon-induced myxovirus resistance 1 (MX1) or transmembrane protein 1 (IFITM1) significantly reduced VZV yield both in ARPE-19 and MeWo cells. IFITM1 abrogated viral major immediate-early IE62 protein-mediated ",
+      "year": "2026",
+      "journal": "bioRxiv : the preprint server for biology",
+      "authors": [
+        "Kim Seong K",
+        "Shakya Akhalesh K",
+        "Guo Hongyan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42856407/"
+    },
+    {
+      "pmid": "42846743",
+      "title": "Favorable Outcome With Early Vitrectomy for Pseudomonas Endophthalmitis Following Elective Pars Plana Vitrectomy for Disabling Vitreous Opacities.",
+      "abstract": "Postvitrectomy endophthalmitis is a rare but vision-threatening complication, with reported incidence rates below 0.15%, and treatment guidelines remain limited. Evidence guiding the timing of repeat vitrectomy in this setting is sparse, and the approach to management is derived largely from postcataract endophthalmitis. ",
+      "year": "2026",
+      "journal": "Case reports in ophthalmological medicine",
+      "authors": [
+        "Ni Roselind L",
+        "Miller Evelyn G",
+        "Perez Jonathan",
+        "Chiang Allen",
+        "Klufas Michael A"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846743/"
+    },
+    {
+      "pmid": "42846496",
+      "title": "Tubercular Uveitis: Multimodal Imaging, Immunologic Stratification, and a Practical Framework for Diagnosis and Management.",
+      "abstract": "Tubercular uveitis (TBU) remains difficult to diagnose and monitor because microbiologic confirmation is uncommon and clinical phenotypes overlap with other inflammatory chorioretinal disorders. This narrative review integrates evidence from multimodal imaging, immune testing, systemic tuberculosis evaluation, molecular diagnostics, biomarkers, treatment response, and monitoring to support a practical probability-based approach to suspected TBU. A targeted search of PubMed, Embase, Web of Science, the Cochrane Library, and Google Scholar was conducted for English-language literature through May 10, 2026, prioritizing consensus statements, systematic reviews, multicenter studies, and clinically relevant imaging, biomarker, and treatment reports. Enhanced-depth and swept-source optical coherence tomography, optical coherence tomography angiography, fundus autofluorescence, indocyanine green angiography, and ultra-widefield fluorescein angiography provide complementary information on choroidal granulomas, serpiginous-like choroiditis, retinal vasculitis, ischemia, and paradoxical worsening. Tuberculin skin testing and interferon-gamma release assays support tuberculosis attribution but do not prove ocular causality, while polymerase chain reaction and emerging molecular assays increase specificity when positive. Cytokine profiles, type I interferon signatures, complement C1q, and cell-free DNA remain investigational. TBU should be managed as a clinicoradiologic and immunologic probability diagnosis that links phenotype, imaging, tuberculosis exposure evidence, mimic exclusion, antitubercular therapy decisions, anti-inflammatory timing, and longitudinal monitoring to reduce both missed TBU and unnecessary treatment.",
+      "year": "2026",
+      "journal": "Clinical ophthalmology (Auckland, N.Z.)",
+      "authors": [
+        "Li Ruilong",
+        "Yan Ming",
+        "Huang Zhen",
+        "Ye Ya",
+        "Song Yanping"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846496/"
+    },
+    {
+      "pmid": "42840260",
+      "title": "Research progress on the use of beta-blockers in the progression prevention, and treatment of retinopathy of prematurity.",
+      "abstract": "Retinopathy of prematurity (ROP) is a proliferative retinal vascular disorder unique to preterm infants with extremely low birth weight, ranking as the top cause of preventable childhood blindness. Retinal hypoxia, excessive secretion of vascular endothelial growth factor (VEGF) and dysregulation of insulin-like growth factor-1 (IGF-1) constitute the core pathogenic cascades of ROP. As competitive antagonists of ",
+      "year": "2026",
+      "journal": "Frontiers in pediatrics",
+      "authors": [
+        "Bai Shuanghong",
+        "Sun Huiqing"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42840260/"
+    },
+    {
+      "pmid": "42839239",
+      "title": "Beyond macrocirculatory targets: a multimodal framework for microcirculatory and organ perfusion monitoring in sepsis.",
+      "abstract": "Microcirculatory dysfunction may persist despite restoration of conventional macrocirculatory targets in sepsis, reflecting loss of hemodynamic coherence. This review synthesizes current microcirculatory monitoring approaches according to the physiological information they provide and examines how complementary modalities may be integrated to characterize persistent or regional tissue hypoperfusion.",
+      "year": "2026",
+      "journal": "Critical care (London, England)",
+      "authors": [
+        "Yin Xuebin",
+        "Guan Haowen",
+        "Zhou Ming",
+        "Fan Lisha",
+        "Liu Qiuxia"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Microcirculation",
+        "Sepsis",
+        "Monitoring, Physiologic",
+        "Hemodynamics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42839239/"
+    },
+    {
+      "pmid": "42833844",
+      "title": "Uveitis despite adalimumab therapy in Blau syndrome.",
+      "abstract": "Blau syndrome is a rare granulomatous autoinflammatory disease caused by NOD2 mutations and characterised by dermatitis, arthritis and uveitis. We report a middle childhood boy initially diagnosed with oligoarticular juvenile idiopathic arthritis (JIA) because arthritis was the predominant early manifestation. He had papular skin lesions in infancy and periarticular swelling and tenosynovial cysts, later developed persistent arthritis and recurrent fever. Genetic testing identified a heterozygous NOD2 variant (c.1001G>A, p.Arg334Gln [R334Q]), confirming Blau syndrome. Despite ongoing methotrexate and adalimumab therapy, routine ophthalmic examination revealed unilateral anterior uveitis with iris nodules. Fundus examination showed bilateral multifocal chorioretinal lesions, and fluorescein angiography demonstrated retinal vasculitis. Ocular inflammation became quiescent after topical corticosteroid treatment and weight-based escalation of adalimumab. This case highlights that Blau syndrome may masquerade as JIA and that regular ophthalmic surveillance remains essential even during biologic therapy.",
+      "year": "2026",
+      "journal": "BMJ case reports",
+      "authors": [
+        "Takasaki Takeshi",
+        "Watanabe Meri",
+        "Kawahara Yuta",
+        "Kaburaki Toshikatsu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Arthritis",
+        "Uveitis",
+        "Synovitis",
+        "Adalimumab",
+        "Nod2 Signaling Adaptor Protein",
+        "Antirheumatic Agents",
+        "Cranial Nerve Diseases",
+        "Dermatitis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833844/"
+    },
+    {
+      "pmid": "42833495",
+      "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Ameri Kimia",
+        "Ashamalla Mark",
+        "Shunmugam Maheshver",
+        "Kipfer Sharon",
+        "Donovan Jeffrey"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833495/"
+    }
+  ],
+  "crawled_at": "2026-10-14T00:17:54.211545",
+  "source": "pubmed"
+}

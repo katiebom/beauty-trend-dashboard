@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T02:37:57.220327",
+  "generated_at": "2026-10-14T00:18:28.212633",
   "total_ingredients": 48,
   "signals": [
     {
@@ -9,17 +9,23 @@
       "category": "anti_aging",
       "tier_dist": {
         "T1": 3,
-        "T2": 13,
+        "T2": 14,
         "T3": 0,
-        "unknown": 9
+        "unknown": 8
       },
       "total_papers": 25,
       "recent_papers": 25,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 32.2,
+      "signal_score": 33.9,
       "signal_label": "🔥 임박 (T+6mo)",
       "top_t1_papers": [
+        {
+          "pmid": "42864543",
+          "title": "Beyond Weight Loss: Facial Remodeling Associated with GLP-1 Receptor Agonists-A Systematic Review and Therapeutic Framew",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
         {
           "pmid": "42820120",
           "title": "Beyond Skin Laxity: GLP-1 Receptor Agonist-Induced Lean Mass Depletion and Surgical Tissue Quality in Aesthetic Surgery:",
@@ -31,30 +37,24 @@
           "title": "GLP-1 Receptor Agonists and Alopecia: A Systematic Review and Meta-Analysis of Incidence, Risk, Subtypes, and Mechanisms",
           "year": "2026",
           "journal": "Skin appendage disorders"
-        },
-        {
-          "pmid": "42620743",
-          "title": "Glucagon-like peptide-1-based therapies and the intersection of metabolic and skin disease.",
-          "year": "2026",
-          "journal": "JAAD case reports"
         }
       ],
       "top_t2_papers": [
         {
+          "pmid": "42863769",
+          "title": "The Metabolic-Dermatologic Axis: GLP-1/GIP Agonists as Emerging Immunometabolic Therapies for Obesity-Associated Skin Di",
+          "year": "2026",
+          "journal": "Clinics in dermatology"
+        },
+        {
+          "pmid": "42863768",
+          "title": "Cutaneous Effects and Aesthetic Management of Glucagon-like Peptide-1 Receptor Agonists: A Narrative Review.",
+          "year": "2026",
+          "journal": "Clinics in dermatology"
+        },
+        {
           "pmid": "42858788",
           "title": "\"Ozempic Face\" and Facial Aging.",
-          "year": "2026",
-          "journal": "Clinics in dermatology"
-        },
-        {
-          "pmid": "42822650",
-          "title": "GLP-1 receptor agonists in psoriasis management.",
-          "year": "2026",
-          "journal": "Clinics in dermatology"
-        },
-        {
-          "pmid": "42790605",
-          "title": "Glucagon-Like Peptide-1 Receptor Agonists (GLP-1RAs) in Hidradenitis Suppurativa: A Narrative Review of Emerging Evidenc",
           "year": "2026",
           "journal": "Clinics in dermatology"
         }
@@ -67,15 +67,15 @@
       "category": "anti_aging",
       "tier_dist": {
         "T1": 5,
-        "T2": 4,
+        "T2": 5,
         "T3": 0,
-        "unknown": 16
+        "unknown": 15
       },
       "total_papers": 25,
       "recent_papers": 25,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 20.3,
+      "signal_score": 22.0,
       "signal_label": "🔥 임박 (T+6mo)",
       "top_t1_papers": [
         {
@@ -99,6 +99,12 @@
       ],
       "top_t2_papers": [
         {
+          "pmid": "42865293",
+          "title": "Plant-Derived Senolytic Ingredient, Camellia sinensis Root Extract, Ameliorates Skin Aging-Associated Phenotypes.",
+          "year": "2026",
+          "journal": "Experimental dermatology"
+        },
+        {
           "pmid": "42650184",
           "title": "Comparative Phytochemical Profiling and Phenotypic Senolytic Screening of Botanical Extracts for Oxidative-Stress-Induce",
           "year": "2026",
@@ -109,12 +115,6 @@
           "title": "Polyphenol-Rich Extracts from ",
           "year": "2026",
           "journal": "Antioxidants (Basel, Switzerland)"
-        },
-        {
-          "pmid": "41471101",
-          "title": "A State-of-the-Art Overview on (Epi)Genomics and Personalized Skin Rejuvenating Strategies.",
-          "year": "2025",
-          "journal": "Pharmaceutics"
         }
       ]
     },
@@ -524,6 +524,52 @@
       ]
     },
     {
+      "ingredient_id": "tranexamic_acid",
+      "name_kr": "트라넥삼산",
+      "name_en": "Tranexamic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 3,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42864535",
+          "title": "The Impact of Tranexamic Acid Administration Route on Outcomes in Reduction Mammaplasty.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "42836382",
+          "title": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study.",
+          "year": "2026",
+          "journal": "Aesthetic surgery journal"
+        },
+        {
+          "pmid": "42806124",
+          "title": "Efficiency of Tranexamic Acid for Prevention of Bleeding In Breast Surgery: A Systematic Review.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42849392",
+          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
+          "year": "2026",
+          "journal": "International journal of biological macromolecules"
+        }
+      ]
+    },
+    {
       "ingredient_id": "allantoin",
       "name_kr": "알란토인",
       "name_en": "Allantoin",
@@ -641,45 +687,6 @@
       ]
     },
     {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 3,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42858861",
-          "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and reti",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42833495",
-          "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        },
-        {
-          "pmid": "42833485",
-          "title": "Response to Ameri K et al.'s \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis.\".",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        }
-      ]
-    },
-    {
       "ingredient_id": "retinol",
       "name_kr": "레티놀",
       "name_en": "Retinol",
@@ -715,46 +722,6 @@
           "title": "Oral Retinol, Alone or Combined with Medical Photoprotection, in Patients with Actinic Keratosis: A Randomized, Open-Lab",
           "year": "2026",
           "journal": "Dermatology and therapy"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "tranexamic_acid",
-      "name_kr": "트라넥삼산",
-      "name_en": "Tranexamic Acid",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42836382",
-          "title": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study.",
-          "year": "2026",
-          "journal": "Aesthetic surgery journal"
-        },
-        {
-          "pmid": "42806124",
-          "title": "Efficiency of Tranexamic Acid for Prevention of Bleeding In Breast Surgery: A Systematic Review.",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42849392",
-          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
         }
       ]
     },
@@ -867,6 +834,39 @@
           "title": "Effects of Acute Caffeine Ingestion on Morning Temperature, Mood, Reactive Agility and Cognitive Measures in Males: A St",
           "year": "2026",
           "journal": "Nutrients"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42858861",
+          "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and reti",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "42833495",
+          "title": "Reply to Malhi and Singh: \"Retinal Abnormalities in Alopecia Areata: A Systematic Review and Meta-Analysis\".",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
         }
       ]
     },
