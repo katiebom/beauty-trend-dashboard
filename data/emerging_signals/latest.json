@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:44:52.405743",
+  "generated_at": "2026-10-15T23:36:34.510151",
   "total_ingredients": 48,
   "signals": [
     {
@@ -21,6 +21,12 @@
       "signal_label": "🔥 임박 (T+6mo)",
       "top_t1_papers": [
         {
+          "pmid": "42872378",
+          "title": "Glucagon-Like Peptide-1 Receptor Agonist-Associated Facial Changes: A Comprehensive Review of Pathophysiology, Clinical ",
+          "year": "2026",
+          "journal": "Aesthetic surgery journal"
+        },
+        {
           "pmid": "42864543",
           "title": "Beyond Weight Loss: Facial Remodeling Associated with GLP-1 Receptor Agonists-A Systematic Review and Therapeutic Framew",
           "year": "2026",
@@ -31,12 +37,6 @@
           "title": "Beyond Skin Laxity: GLP-1 Receptor Agonist-Induced Lean Mass Depletion and Surgical Tissue Quality in Aesthetic Surgery:",
           "year": "2026",
           "journal": "Aesthetic surgery journal. Open forum"
-        },
-        {
-          "pmid": "42621629",
-          "title": "GLP-1 Receptor Agonists and Alopecia: A Systematic Review and Meta-Analysis of Incidence, Risk, Subtypes, and Mechanisms",
-          "year": "2026",
-          "journal": "Skin appendage disorders"
         }
       ],
       "top_t2_papers": [
@@ -198,6 +198,45 @@
         {
           "pmid": "41819387",
           "title": "Enhanced transdermal delivery of [6]-Gingerol via Co-Administration of Acmella oleracea and Zingiber officinale lipophil",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "ceramide",
+      "name_kr": "세라마이드",
+      "name_en": "Ceramide",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 5,
+        "T3": 0,
+        "unknown": 5
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.5,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42876425",
+          "title": "Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema ",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "42868105",
+          "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, ",
+          "year": "2026",
+          "journal": "Skin pharmacology and physiology"
+        },
+        {
+          "pmid": "42829011",
+          "title": "Structure-function relationship of a single double bond: the difference in lamellar phase behaviors between ceramides NS",
           "year": "2026",
           "journal": "International journal of pharmaceutics"
         }
@@ -383,45 +422,6 @@
           "title": "Real World Case Series: Integrated Skincare With Advanced RGN-6 Serum.",
           "year": "2025",
           "journal": "Journal of cosmetic dermatology"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "ceramide",
-      "name_kr": "세라마이드",
-      "name_en": "Ceramide",
-      "category": "barrier",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 4,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 14.8,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42868105",
-          "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, ",
-          "year": "2026",
-          "journal": "Skin pharmacology and physiology"
-        },
-        {
-          "pmid": "42829011",
-          "title": "Structure-function relationship of a single double bond: the difference in lamellar phase behaviors between ceramides NS",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42826150",
-          "title": "SAIGE III: The Role of Environmental Factors in the Development and Severity of Atopic Dermatitis in Young Children.",
-          "year": "2026",
-          "journal": "Journal of drugs in dermatology : JDD"
         }
       ]
     },
