@@ -1,0 +1,190 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42871309",
+      "title": "The active immune role of keratinocytes: from passive targets to key hubs in psoriatic inflammation.",
+      "abstract": "Psoriasis is a chronic immune-mediated inflammatory skin disease historically viewed as a disorder of keratinocyte hyperplasia, with subsequent recognition of central immune cell involvement. However, accumulating multi-omics and functional genomic evidence has reshaped this paradigm, positioning keratinocytes not merely as passive targets of immune attack but as active participants within a bidirectional epithelial-immune network that drives inflammatory initiation, maintenance, and amplification. This critical narrative review synthesizes the molecular mechanisms by which keratinocytes integrate genetic susceptibility, environmental triggers, metabolic reprogramming, and cell death programs to modulate psoriatic inflammation. We examine interleukin (IL)-1/IL-36 cytokines, the dual function of the antimicrobial peptide LL-37, danger signal release and dendritic cell recruitment, chemokine networks and exosome-mediated communication, the neuropeptide-keratinocyte axis, carbohydrate and lipid metabolic abnormalities, mitochondrial dysfunction and reactive oxygen species (ROS)-mediated feedback, epidermal barrier defects and microbiome dysregulation, diagnostic biomarkers, and therapeutic innovations. We further critically evaluate controversies, conceptual challenges, research gaps, and future directions. A keratinocyte-centric framework-situated within the broader context of epithelial-immune reciprocity-advances understanding of psoriasis pathogenesis and informs precision therapies targeting the barrier-immune axis.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Pei Yu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Keratinocytes",
+        "Psoriasis",
+        "Animals",
+        "Inflammation",
+        "Skin Microbiome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42871309/"
+    },
+    {
+      "pmid": "42858915",
+      "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Maas Derek",
+        "Spindler Archie",
+        "Zappi Isabella",
+        "Klufas Timothy",
+        "Zhou Albert E"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858915/"
+    },
+    {
+      "pmid": "42856030",
+      "title": "Artificial Regulatory T Cells Orchestrate Phase-Spanning Regeneration in Refractory Tissue Injuries.",
+      "abstract": "Regulatory T cells (Tregs) possess potent multiphasic reparative capacity; however, their application is limited by ethical and regulatory challenges associated with live cell therapies. Treg-derived exosomes (TExo) exhibit low immunogenicity while enriching regenerative signaling relative to parental Tregs. Current exosome carriers place greater emphasis on sustained release than on factors affecting vesicle stability, such as nonspecific interactions and confinement effects. Inspired by the multivesicular body (MVB), we engineered artificial Tregs (ATregs) with an MVB-like architecture that integrates vesicle protection with sustained release through a reconstructed storage microenvironment. This design enables phase-aligned TExo release and extends functional activity by more than an order of magnitude compared with free TExo. ATregs sequentially coordinate the suppression of inflammation, enhancement of angiogenesis, and stimulation of skin appendage regeneration. In diabetic wounds and deep second-degree burn models, which represent intrinsic repair dysfunction and severe structural tissue loss, ATregs markedly accelerate healing and outperform conventional strategies across murine and porcine models. These findings overcome the key limitations of exosome therapies and open a new avenue for next-generation regenerative therapeutics.",
+      "year": "2026",
+      "journal": "Advanced materials (Deerfield Beach, Fla.)",
+      "authors": [
+        "Li Bo",
+        "Li Jiale",
+        "Zhang Guowei",
+        "Li Cheng",
+        "Xie Denghui"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42856030/"
+    },
+    {
+      "pmid": "42844650",
+      "title": "Hierarchically Structured Microparticles Encapsulated With Multiple Plant-Derived Bioactives for Psoriasis Therapy.",
+      "abstract": "Traditional Chinese medicine bioactives have considerable therapeutic value in psoriasis management, while their clinical applications are still constrained by the insufficient therapeutic efficacy of single components, uncontrolled release, and low local bioavailability. In this study, we report a hierarchically structured microparticle system loaded with multiple plant-derived bioactives for psoriasis therapy. The microparticles of sodium alginate (SA) hydrogel with polydopamine (PDA)-modification were fabricated through microfluidics, co-loaded with paeoniflorin (PF) and ginger-derived exosome-like nanoparticles (GELNs). Benefiting from the porous structure of hydrogel and adhesive property of PDA, the microparticles enable stable co-encapsulation of multiple plant-derived bioactives and achieve sustained release at lesion sites, enhancing local bioavailability. The encapsulated PF and GELNs exert complementary anti-inflammatory, antioxidant, and anti-proliferative effects, collectively regulating key pathological processes associated with psoriasis. These results prove that the microparticle-based multiple plant-derived bioactives delivery system provides a safe, cost-effective, and translatable approach for long-term topical treatment of psoriasis, highlighting their therapeutic potential in inflammatory skin diseases.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Chen Dingyuan",
+        "Lu Minhui",
+        "Zhao Yuanjin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42844650/"
+    },
+    {
+      "pmid": "42843135",
+      "title": "Aptamer-based discovery of MARK2 as a potential biomarker for targeted imaging and exosome detection of metastatic colorectal cancer.",
+      "abstract": "Metastatic colorectal cancer (CRC) has a high recurrence rate, rapid progression and poor prognosis. Therefore, the discovery of metastatic related biomarkers is crucial for early diagnosis and treatment. Aptamer W14 was previously developed through cell-systematic evolution of ligands by exponential enrichment (SELEX), which could specifically bind to metastatic CRC cells. In this study, using an aptamer-based target discovery strategy, microtubule-affinity regulating kinase 2 (MARK2) was identified as the target protein of W14 and confirmed to be involved in the migration and invasion of CRC. The combination of aptamer W14 and quantum dots (QD) for specific recognition of clinical tissue samples revealed the potential of W14-QD probe based on MARK2 as a targeted imaging tool for metastatic CRC tissue. In addition, further experiments have confirmed for the first time the role of exosomal MARK2 in CRC metastasis. Thus, we developed a W14-based molecular aptamer beacon (MAB-W14) for one-step to quantify MARK2-positive exosomes in the plasma of CRC patients, and demonstrated that MAB-W14 was a promising liquid biopsy tool for predicting CRC metastasis. This study provides a systematic and novel approach for investigating potential biomarkers, and offers promising molecular probes for the diagnosis and treatment of metastatic CRC.",
+      "year": "2026",
+      "journal": "Bioorganic chemistry",
+      "authors": [
+        "Sun Shihan",
+        "Li Xinyan",
+        "Wang Dian",
+        "Wu Chia-Chun",
+        "Wang Qun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42843135/"
+    },
+    {
+      "pmid": "42842999",
+      "title": "Exosome-loaded hydrogel promotes tissue repair in Staphylococcus aureus-infected cutaneous wounds: Histological and immunohistochemical evidence of enhanced regeneration.",
+      "abstract": "Skin wound infections caused by Staphylococcus aureus remain a major clinical challenge because persistent bacterial contamination and excessive inflammation impair tissue repair. This study investigated the therapeutic efficacy of mesenchymal stem cell (MSC)-derived exosome-loaded hydrogel (Exo-HG) compared with hydrogel alone (HG) in a rat model of S. aureus-infected full-thickness skin wounds, with particular emphasis on histopathological regeneration and immunohistochemical markers of tissue repair. Eighty adult male Wistar rats were randomly assigned to four groups: healthy control, infected untreated, infected treated with HG, and infected treated with Exo-HG. Histopathological assessment focused on inflammatory infiltration, re-epithelialization, collagen organization, granulation tissue formation, and neovascularization, while immunohistochemistry evaluated epidermal growth factor receptor (EGFR) and α-smooth muscle actin (α-SMA) expression. Macroscopic wound healing, bacterial burden, oxidative stress (MDA and NO), antioxidant status (GSH, SOD, and CAT), and inflammatory cytokines (TNF-α and IL-6) were additionally assessed. S. aureus infection markedly impaired tissue repair, with persistent inflammation, delayed re-epithelialization, disorganized collagen, and limited neovascularization, accompanied by increased bacterial burden, oxidative stress, and inflammatory cytokines. HG produced partial improvement, whereas Exo-HG resulted in significantly greater histopathological healing than HG at days 14 and 21, with improved re-epithelialization, collagen organization, granulation tissue, and neovascularization. Exo-HG also produced temporally coordinated EGFR and α-SMA immunoreactivity, accelerated wound closure, reduced bacterial counts, restored antioxidant defenses, and decreased MDA, NO, TNF-α, and IL-6. In conclusion, MSC-derived Exo-HG enhanced structural regeneration beyond HG alone, accompanied by favorable antimicrobial, antioxidant, and anti-inflammatory changes. These findings support further investigation of Exo-HG for infected cutaneous wound repair.",
+      "year": "2026",
+      "journal": "Tissue & cell",
+      "authors": [
+        "Aseeri Abdullah A",
+        "Suliman Muath",
+        "Asiri Mohammed",
+        "Alamri Saad",
+        "Al-Emam Ahmed"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42842999/"
+    },
+    {
+      "pmid": "42833608",
+      "title": "Mesenchymal stem cells and their exosomes modulate sebocyte fate and lipid-associated proteomic-lipidomic remodeling.",
+      "abstract": "Sebocytes regulate skin lipid production and inflammatory homeostasis, yet how mesenchymal stem cells (MSCs) and MSCs-derived exosomes reshape sebocyte function remains unclear. This study compared the effects of indirect MSCs co-culture and MSCs-derived exosome treatment on MTS-associated metabolic activity, intracellular lipid droplet accumulation, proteomic remodeling, and lipidomic profiles in sebocytes. Human sebocytes were indirectly co-cultured with bone marrow-derived MSCs using transwell inserts or treated with MSCs-derived exosomes under proliferative or low-serum, lipid accumulation-promoting conditions. MTS-associated metabolic activity was assessed using the MTS assay, intracellular lipid droplet accumulation using Nile Red staining, proteomic remodeling using label-free LC-MS/MS, and lipidomic changes using untargeted LC-MS lipidomics. Indirect MSCs co-culture reduced MTS-associated metabolic activity, particularly under low-serum conditions, while markedly increasing intracellular lipid droplet accumulation. Proteomic analysis indicated that MSCs co-culture promoted cytoskeletal, adhesion-related, and lipid-handling remodeling. Lipidomics further revealed broad lipid-class reprogramming, characterized by increased phospholipid-associated features and reduced lysophospholipid-associated features. In contrast, MSCs-derived exosomes increased MTS-associated metabolic activity under low-serum conditions, while intracellular lipid droplet accumulation remained largely comparable to control levels. Exosome treatment induced more selective proteomic changes related to proteostasis, mitochondrial adaptation, and vesicular trafficking/signaling, with limited lipidomic alterations that did not remain significant after FDR correction. MSCs co-culture and MSCs-derived exosomes exert biologically distinct effects on sebocytes. Whole MSCs co-culture drives extensive lipid-associated remodeling, whereas isolated exosomes mainly increase MTS-associated metabolic activity and induce adaptive proteomic responses, suggesting that exosomes transmit only part of the broader MSCs paracrine influence on sebocyte biology.",
+      "year": "2026",
+      "journal": "Biochimie",
+      "authors": [
+        "Adelipour Maryam",
+        "Gab-Allah Mohamed A",
+        "Kim Mingyu",
+        "Lee Sangsoo",
+        "Kim Kee K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833608/"
+    },
+    {
+      "pmid": "42826557",
+      "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-mediated fatty acid metabolism.",
+      "abstract": "Ultraviolet (UV) radiation causes skin photoaging by inducing reactive oxygen species (ROS) accumulation, extracellular matrix remodeling, and lipid metabolic dysregulation, which may progress to actinic keratosis and invasive squamous cell carcinoma. Plant-derived exosome-like nanoparticles (PDNPs) are promising anti-aging strategies, but current studies mainly focus on PDNPs-associated miRNAs, whereas the roles and targets of enriched secondary metabolites remain unclear. This study aimed to elucidate the key metabolite and mechanism underlying the anti-photoaging activity of aloe rind-derived nanoparticles (rADNPs).",
+      "year": "2026",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Zheng Yuzhou",
+        "Li Jiali",
+        "Wang Jingwen",
+        "Zhang Jiaxin",
+        "Tang Zixuan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826557/"
+    },
+    {
+      "pmid": "42826135",
+      "title": "PAK4 exacerbates melanoma immunosuppression by promoting exosome release.",
+      "abstract": "Melanoma remains a lethal malignancy with frequent resistance to immune checkpoint blockade therapy. Clinical evidence associates elevated PAK4 expression with poor response to anti-PD-1 treatment in melanoma patients. While tumor-derived exosomes are recognized as key immunosuppressive mediators, the role of PAK4 in regulating exosome secretion to induce immunosuppression remains incompletely understood. Here, we demonstrate that PAK4-mediated phosphorylation of Annexin-A2 (ANXA2) at Ser26 promotes its nuclear-to-cytoplasmic translocation, facilitating the formation of S100A10-ANXA2 heterotetramers that drive multivesicular body docking to the plasma membrane. Furthermore, PAK4 stabilizes synaptotagmin-1 by suppressing Trim21-mediated ubiquitin degradation, enabling SNARE complex assembly for membrane fusion. PAK4-driven exosomes exhibit potent immunosuppressive activity, substantially reducing CD8",
+      "year": "2026",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "authors": [
+        "Zhou Ruizhi",
+        "Xu Tong",
+        "Shen Zeming",
+        "Zhang Yiheng",
+        "Li Shengrui"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "p21-Activated Kinases",
+        "Animals",
+        "Humans",
+        "Melanoma",
+        "Mice",
+        "Cell Line, Tumor",
+        "Annexin A2",
+        "TRIM21 Protein",
+        "B7-H1 Antigen"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826135/"
+    },
+    {
+      "pmid": "42809765",
+      "title": "Exosome-based therapy for androgenetic alopecia: a systematic review of preclinical mechanisms and efficacy.",
+      "abstract": "Androgenetic alopecia (AGA) is a progressive hair disorder with a substantial psychosocial impact. Current therapies have variable efficacy and adherence challenges. Exosomes are emerging as regenerative candidates. We systematically appraised preclinical (in vivo / in vitro) evidence on exosome-based intervention for AGA following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines, searching PubMed and Scopus. Eligible studies evaluated exosome or extracellular vesicle interventions in androgen-related alopecia models. Of 352 records, 16 studies met inclusion criteria, most employing male C57BL/6 mice with testosterone or dihydrotestosterone (DHT) induction alongside assays in dermal papilla cells (DPCs) and hair follicle stem cells. Sources include mesenchymal stem cell derived, DPC-derived, platelet-rich plasma derived, and engineered/primed exosomes, predominantly delivered via local intradermal/subcutaneous routes or topical microneedles/hydrogels over 2 to 4 weeks. Across studies, exosomes improved hair coverage and density, anagen/telogen ratio, follicle diameter, dermal thickness, and proliferation markers, while reducing apoptosis; mechanistic signals consistently showed reactivation of Wnt/β-catenin and down-modulation of TGF-β/SMAD3, with additional angiogenic support, anti-inflammatory effects, and mitigation of oxidative stress, and adverse signals were minimal in animals. Systematic Review Centre for Laboratory Animal Experimentation (SYRCLE) appraisal indicated generally low risk with common concerns regarding blinding and allocation concealment. Overall, exosome therapy demonstrates compelling preclinical efficacy for AGA via multi-target regenerative mechanisms.",
+      "year": "2026",
+      "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica",
+      "authors": [
+        "Nareswari Adniana",
+        "Dirgahayu Paramasari",
+        "Febrinasari Ratih Puspita"
+      ],
+      "mesh_terms": [
+        "Alopecia",
+        "Exosomes",
+        "Animals",
+        "Humans",
+        "Male",
+        "Mice",
+        "Hair Follicle"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42809765/"
+    }
+  ],
+  "crawled_at": "2026-10-16T23:19:51.696341",
+  "source": "pubmed"
+}

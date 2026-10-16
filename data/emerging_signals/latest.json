@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T23:36:34.510151",
+  "generated_at": "2026-10-16T23:20:21.300767",
   "total_ingredients": 48,
   "signals": [
     {
@@ -204,45 +204,6 @@
       ]
     },
     {
-      "ingredient_id": "ceramide",
-      "name_kr": "세라마이드",
-      "name_en": "Ceramide",
-      "category": "barrier",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 5,
-        "T3": 0,
-        "unknown": 5
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.5,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42876425",
-          "title": "Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema ",
-          "year": "2026",
-          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
-        },
-        {
-          "pmid": "42868105",
-          "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, ",
-          "year": "2026",
-          "journal": "Skin pharmacology and physiology"
-        },
-        {
-          "pmid": "42829011",
-          "title": "Structure-function relationship of a single double bond: the difference in lamellar phase behaviors between ceramides NS",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        }
-      ]
-    },
-    {
       "ingredient_id": "bakuchiol",
       "name_kr": "바쿠치올",
       "name_en": "Bakuchiol",
@@ -422,6 +383,45 @@
           "title": "Real World Case Series: Integrated Skincare With Advanced RGN-6 Serum.",
           "year": "2025",
           "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "ceramide",
+      "name_kr": "세라마이드",
+      "name_en": "Ceramide",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42876425",
+          "title": "Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema ",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "42868105",
+          "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, ",
+          "year": "2026",
+          "journal": "Skin pharmacology and physiology"
+        },
+        {
+          "pmid": "42829011",
+          "title": "Structure-function relationship of a single double bond: the difference in lamellar phase behaviors between ceramides NS",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
         }
       ]
     },
@@ -1071,6 +1071,33 @@
       ]
     },
     {
+      "ingredient_id": "glutathione",
+      "name_kr": "글루타치온",
+      "name_en": "Glutathione",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42884673",
+          "title": "Riboflavin as a Regulator of Cellular Metabolism: From the Classic Vitamin B2 to a Key Redox Factor.",
+          "year": "2026",
+          "journal": "Nutrients"
+        }
+      ]
+    },
+    {
       "ingredient_id": "alpha_arbutin",
       "name_kr": "알파 아르부틴",
       "name_en": "Alpha Arbutin",
@@ -1284,26 +1311,6 @@
           "journal": "Journal of drugs in dermatology : JDD"
         }
       ]
-    },
-    {
-      "ingredient_id": "glutathione",
-      "name_kr": "글루타치온",
-      "name_en": "Glutathione",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 0,
-        "T3": 0,
-        "unknown": 10
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 8.0,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": []
     },
     {
       "ingredient_id": "ginseng",
