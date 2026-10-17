@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:20:21.300767",
+  "generated_at": "2026-10-17T23:00:33.481679",
   "total_ingredients": 48,
   "signals": [
     {
@@ -204,6 +204,45 @@
       ]
     },
     {
+      "ingredient_id": "ceramide",
+      "name_kr": "세라마이드",
+      "name_en": "Ceramide",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 5,
+        "T3": 0,
+        "unknown": 5
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.5,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42887571",
+          "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "42876425",
+          "title": "Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema ",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "42868105",
+          "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, ",
+          "year": "2026",
+          "journal": "Skin pharmacology and physiology"
+        }
+      ]
+    },
+    {
       "ingredient_id": "bakuchiol",
       "name_kr": "바쿠치올",
       "name_en": "Bakuchiol",
@@ -387,87 +426,41 @@
       ]
     },
     {
-      "ingredient_id": "ceramide",
-      "name_kr": "세라마이드",
-      "name_en": "Ceramide",
-      "category": "barrier",
+      "ingredient_id": "caffeine",
+      "name_kr": "카페인",
+      "name_en": "Caffeine",
+      "category": "pore_texture",
       "tier_dist": {
         "T1": 0,
         "T2": 4,
         "T3": 0,
-        "unknown": 6
+        "unknown": 5
       },
-      "total_papers": 10,
-      "recent_papers": 10,
+      "total_papers": 9,
+      "recent_papers": 9,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 14.8,
+      "signal_score": 15.0,
       "signal_label": "🟡 등장 중 (T+12mo)",
       "top_t1_papers": [],
       "top_t2_papers": [
         {
-          "pmid": "42876425",
-          "title": "Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema ",
-          "year": "2026",
-          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
-        },
-        {
-          "pmid": "42868105",
-          "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, ",
-          "year": "2026",
-          "journal": "Skin pharmacology and physiology"
-        },
-        {
-          "pmid": "42829011",
-          "title": "Structure-function relationship of a single double bond: the difference in lamellar phase behaviors between ceramides NS",
+          "pmid": "42887571",
+          "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
           "year": "2026",
           "journal": "International journal of pharmaceutics"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "tranexamic_acid",
-      "name_kr": "트라넥삼산",
-      "name_en": "Tranexamic Acid",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 3,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 14.8,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42864535",
-          "title": "The Impact of Tranexamic Acid Administration Route on Outcomes in Reduction Mammaplasty.",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
         },
         {
-          "pmid": "42836382",
-          "title": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study.",
+          "pmid": "42869236",
+          "title": "Cellular level investigation of skin permeation using stimulated Raman scattering microscopy and in-silico modelling.",
           "year": "2026",
-          "journal": "Aesthetic surgery journal"
+          "journal": "International journal of pharmaceutics"
         },
         {
-          "pmid": "42806124",
-          "title": "Efficiency of Tranexamic Acid for Prevention of Bleeding In Breast Surgery: A Systematic Review.",
+          "pmid": "42788054",
+          "title": "Robustness Analyses Substantially Narrow in silico Network-Toxicology Signals Linking Selected Pharmaceuticals and Caffe",
           "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42849392",
-          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
+          "journal": "Clinical, cosmetic and investigational dermatology"
         }
       ]
     },
@@ -596,45 +589,6 @@
       ]
     },
     {
-      "ingredient_id": "caffeine",
-      "name_kr": "카페인",
-      "name_en": "Caffeine",
-      "category": "pore_texture",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 3,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 9,
-      "recent_papers": 9,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.3,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42869236",
-          "title": "Cellular level investigation of skin permeation using stimulated Raman scattering microscopy and in-silico modelling.",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42788054",
-          "title": "Robustness Analyses Substantially Narrow in silico Network-Toxicology Signals Linking Selected Pharmaceuticals and Caffe",
-          "year": "2026",
-          "journal": "Clinical, cosmetic and investigational dermatology"
-        },
-        {
-          "pmid": "42738944",
-          "title": "Effects of Acute Caffeine Ingestion on Morning Temperature, Mood, Reactive Agility and Cognitive Measures in Males: A St",
-          "year": "2026",
-          "journal": "Nutrients"
-        }
-      ]
-    },
-    {
       "ingredient_id": "zinc_pca",
       "name_kr": "징크 PCA",
       "name_en": "Zinc PCA",
@@ -749,6 +703,46 @@
           "title": "Oral Retinol, Alone or Combined with Medical Photoprotection, in Patients with Actinic Keratosis: A Randomized, Open-Lab",
           "year": "2026",
           "journal": "Dermatology and therapy"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "tranexamic_acid",
+      "name_kr": "트라넥삼산",
+      "name_en": "Tranexamic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42864535",
+          "title": "The Impact of Tranexamic Acid Administration Route on Outcomes in Reduction Mammaplasty.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "42836382",
+          "title": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study.",
+          "year": "2026",
+          "journal": "Aesthetic surgery journal"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42849392",
+          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
+          "year": "2026",
+          "journal": "International journal of biological macromolecules"
         }
       ]
     },

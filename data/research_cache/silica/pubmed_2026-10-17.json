@@ -1,0 +1,196 @@
+{
+  "ingredient_id": "silica",
+  "name_en": "Silica",
+  "name_kr": "실리카",
+  "category": "pore_texture",
+  "query": "\"Silica\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42887482",
+      "title": "Advancing nanomaterials for treatment of eye diseases: a review.",
+      "abstract": "Ocular diseases involving both the anterior and posterior segments-such as dry eye disease, keratitis, glaucoma, cataracts, diabetic retinopathy, retinal vein occlusion, and ocular tumors-remain major contributors to global visual impairment. Conventional topical and systemic therapies are limited by rapid clearance, restricted penetration across ocular barriers, and poor bioavailability, particularly for posterior-segment targets. Nanotechnology has introduced a transformative therapeutic paradigm by enabling controlled pharmacokinetics, enhanced tissue penetration, and site-specific delivery. A wide range of engineered nanomaterials-including polymeric nanoparticles, lipid-based carriers, dendrimers, metallic and metal-oxide nanoparticles, mesoporous silica systems, cerium oxide nanozymes, carbon quantum dots, nanogels, and electrospun nanofibers-has demonstrated improved drug loading, sustained release, ocular surface retention, and compatibility with biologics and gene-based agents. Emerging minimally invasive platforms, such as 4D printed smart scaffolds, dissolving microneedles and magnetically driven microrobots, further enable precise transscleral or intravitreal delivery, active navigation through the vitreous, and targeted interaction with retinal lesions. Parallel clinical advances, including FDA-approved nanoformulations and ongoing trials, confirm the translational potential of these technologies. Plus, artificial intelligence now accelerates both ophthalmic diagnosis and nanocarrier design, enabling predictive modeling of nano-bio interactions, personalized delivery strategies, and real-time disease assessment. This review integrates current advances in nanomaterial engineering and AI-guided innovation, outlining their convergent roles in shaping next-generation precision therapeutics for vision preservation and restoration.",
+      "year": "2026",
+      "journal": "Experimental and molecular pathology",
+      "authors": [
+        "Amiryaghoubi Nazanin",
+        "Sadeghi Mahnaz",
+        "Sadeghi Farzaneh",
+        "Amirsaadat Soumayeh",
+        "Jaymand Mehdi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887482/"
+    },
+    {
+      "pmid": "42887099",
+      "title": "Solid-phase extraction of flavonoids: A comprehensive review and comparative benchmarking of sorbent classes.",
+      "abstract": "Flavonoids are polyphenol-type secondary metabolites that plants do not synthesize for primary growth and development, but rather produce mostly for defense or for pigmentation in flowers. These substances are compounds with strong antioxidant activity that are used in the manufacture of medicines, cosmetic creams, and food supplements. Due to their low concentration in samples and the presence of interfering substances in the sample matrix, their analysis is difficult. To solve this problem, sample clean-up and concentration are necessary, for which various methods, including the solid-phase extraction (SPE) method, are used. In this method, sorbents play a fundamental role and act as selective extraction phases for matrix clean-up and analyte enrichment. In this review article, six classes of SPE sorbents that have been used so far for the extraction of flavonoids-porous frameworks (MOFs/COFs), carbon-based nanomaterials (graphene, CNTs), molecularly imprinted polymers (MIPs), macroporous resins, functionalized silica and metal oxides, and bio-based polymer composites (such as chitosan)-have been reviewed. In this review, the structural features of the sorbent (such as surface area, pore size, and functional groups) and the mechanisms affecting adsorption, including π-π interactions, hydrogen bonds, and electrostatic forces, have been evaluated. Recovery efficiency, chemical stability, regenerability (reusability), selectivity, and environmental compatibility have been investigated. This review provides a perspective on the effects of sample matrix and enrichment parameters and helps researchers identify promising SPE platforms for modern, high-throughput analysis of flavonoids.",
+      "year": "2026",
+      "journal": "Journal of chromatography. A",
+      "authors": [
+        "Nabavi Akram Sadat",
+        "Ghoreishi Sayed Mehdi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887099/"
+    },
+    {
+      "pmid": "42874630",
+      "title": "Design of silica-core gold-shell nanoparticles for photothermal breast tumor therapy: a two-arm comparison of surface cooling with nanoparticle self-attenuation.",
+      "abstract": "We assemble a three-layer forward model for gold nanoshell photothermal therapy, core-shell Mie absorption, Pennes bioheat transport, and an Arrhenius thermal dose, each benchmarked against an external reference, and use it to maximize necrosis depth subject to a skin-temperature cap. The design variables are core radius, shell thickness, and irradiance at 808 nm; number density is derived per geometry from a fixed delivered gold mass anchored to a measured in vivo loading. The Beer-Lambert source deposits heat from both nanoparticle and native tissue absorption and includes self-attenuation, so the deposition shape depends on the design; at fixed geometry, the rise is exact in the source amplitude, so envelope inversion pins the safety cap in closed form. The search is a two-arm comparison differing only&#xD;in the skin boundary condition. For near-surface loading under a common skin-temperature constraint, the no-cooling control admits no viable therapy (necrosis 0), while contact cooling reaches 15.6 mm at a 15 ◦C skin surface. As a secondary, boundary-dependent observation, at each arm's own safety limit the cooled optimum is 3.6 mm deeper than a control that reaches depth only by heating the skin to about 83 ◦C. The control becomes viable only once a nanoparticle-free skin cap exceeds about 5.6 mm, its surface still at the 45 ◦C cap; cooling remains the deeper arm at every cap thickness tested. Methodologically, omitting self-attenuation makes the necrosis objective appear geometry-independent, whereas resolving it makes particle geometry a design lever comparable to cooling, though the favored geometry is a model-dependent trend rather than a located optimum. The headline depths derive from a homogeneous constant-perfusion model with a ubiquitous nanoparticle distribution rather than a tumor-localized one; the cap sweep relaxes that distribution but not the constant perfusion. All depths are theoretical upper bounds, not clinical predictions.",
+      "year": "2026",
+      "journal": "Biomedical physics & engineering express",
+      "authors": [
+        "Tavangar Amirhossein"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874630/"
+    },
+    {
+      "pmid": "42868740",
+      "title": "Physically retained charge-dense interfaces enhance piezoionic sensing under physiologically relevant ionic conditions.",
+      "abstract": "Piezoionic hydrogels convert mechanical deformation into ionic signals through pressure-driven ion migration, offering self-powered operation and mechanical compliance suitable for integration with biological tissues. However, conventional piezoionic systems rely on the redistribution of freely mobile ions, making their output strongly dependent on maintaining an optimized internal electrolyte composition and potentially attenuated under physiologically relevant ionic conditions. Here, we report a piezoionic hydrogel designed to retain charge-dense interfaces within a hydrated polymer network. Polyamine-looped silica (PLS) nanoparticles are retained within a polyacrylamide (PAM) scaffold with no detectable particle loss under the tested hydration conditions, while their surface-loop architecture is proposed to promote topological interpenetration with the surrounding polymer network. The positively charged interfaces are proposed to favor the local association of anionic species, thereby contributing to asymmetric ion redistribution during compression. Comparisons with bare silica and amine-functionalized silica (AFS) nanoparticles indicate that the enhanced response is associated with both the charge characteristics and retention of the PLS-containing interfaces. The PLS-containing architecture maintains mechanical recoverability over the tested 20 compression cycles and produces reproducible piezoionic responses over 100 cycles. The PAM/PLS hydrogel exhibits a piezoionic voltage coefficient of 62 mV kPa",
+      "year": "2026",
+      "journal": "Biosensors & bioelectronics",
+      "authors": [
+        "Lee Hyeon Ju",
+        "Kim Dong-Yeong",
+        "Kim Juhui",
+        "Lim Jung Ah",
+        "Jeong Haejin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42868740/"
+    },
+    {
+      "pmid": "42834026",
+      "title": "Adhesive-Yet-Removable Silica-Polydopamine Janus Particles for High-Performance Skin Photoprotection.",
+      "abstract": "Photoprotective materials must remain on the skin during use while permitting gentle removal afterward, creating a conflict between durable adhesion and post-use cleansing. Here, we report anisotropic dumbbell-shaped mesoporous Silica-Polydopamine Janus particles (SiO2&PDA JPs) designed to balance these competing requirements at the skin interface. The hydrophilic silica domain suppresses PDA aggregation and serves as a carrier for avobenzone, whereas the PDA domain provides broadband ultraviolet shielding, radical-scavenging activity, and skin adhesion. Under continuous ultraviolet irradiation, more than 70% of avobenzone remained in the Janus system after 4 h, compared with approximately 10% for free avobenzone. Ex vivo imaging indicated that the SiO2&PDA JPs were predominantly confined to the skin surface, and in vivo fluorescence imaging showed approximately 60% retention after 6 h of unrestricted mouse activity. The particles resisted water rinsing but were substantially removed by wet-towel wiping. Their adsorption at oil-water interfaces and reduction of interfacial tension further promoted emulsification-assisted removal of oily residues under gentle rubbing. In HaCaT cells, the Janus formulation reduced ultraviolet-induced reactive oxygen species accumulation, mitochondrial depolarization, and γH2AX formation. In a mouse model, it attenuated epidermal thickening and ultraviolet-associated DNA damage. These results identify anisotropic SiO2&PDA JPs as an adhesive-yet-removable skin-interfacing biomaterial integrating ultraviolet-filter stabilization, radical-scavenging activity, surface retention, and practical cleansing.",
+      "year": "2026",
+      "journal": "ACS applied materials & interfaces",
+      "authors": [
+        "Chang Beizhe",
+        "Jin Haoran",
+        "Chen Licheng",
+        "Ji Ziyuan",
+        "Zhao Bingtian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42834026/"
+    },
+    {
+      "pmid": "42824957",
+      "title": "Burden of cancer attributable to six occupational exposures in the Netherlands, 2021: a health impact assessment study.",
+      "abstract": "Although numerous occupational exposures are known to be carcinogenic, the extent to which they contribute to the cancer burden in the Netherlands remains unclear. We estimated the annual cancer burden attributable to six occupational carcinogens in the Netherlands for 2021.",
+      "year": "2026",
+      "journal": "BMJ public health",
+      "authors": [
+        "De Crom Tosca O E",
+        "Eekhout Iris",
+        "Lebbink Ellian",
+        "Lanting Caren",
+        "Peters Susan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42824957/"
+    },
+    {
+      "pmid": "42820906",
+      "title": "When \"Leprosy\" Is Not Leprosy by Polymerase Chain Reaction: Detection of Nontuberculous Mycobacterial Deoxyribonucleic Acid in Nasal Swabs from Patients with Chronic Skin Lesions in a Leprosy-endemic Area.",
+      "abstract": "Leprosy remains a major cause of chronic dermatoneurological morbidity in endemic settings, and early etiologic confirmation is often challenging in primary care, where diagnosis may remain syndromic. Molecular testing can strengthen confirmation of Mycobacterium leprae , yet performance depends on specimen type and target selection, and leprosy-like phenotypes may overlap with cutaneous disease caused by nontuberculous mycobacteria (NTM). This study evaluated paired nasal versus buccal mucosal swabs from patients with chronic skin lesions and clinical suspicion of leprosy to characterize mycobacterial deoxyribonucleic acid (DNA) signals using a stepwise molecular workflow.",
+      "year": "2026",
+      "journal": "International journal of mycobacteriology",
+      "authors": [
+        "Hasanah Amelia",
+        "Hamid Firdaus",
+        "Ramadhan Ahmad Rahmat",
+        "Pertiwi Yunialthy D",
+        "Aswad Muhammad"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Cross-Sectional Studies",
+        "DNA, Bacterial",
+        "Female",
+        "Male",
+        "Leprosy",
+        "Polymerase Chain Reaction",
+        "Middle Aged",
+        "Mycobacterium leprae",
+        "Adult"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42820906/"
+    },
+    {
+      "pmid": "42797243",
+      "title": "Dendritic Mesoporous Silica-Modified Decellularized Bone Matrix Scaffold for Sustained Teriparatide Delivery in Bone Defect Repair: Characterization, Drug Release, and In Vitro Biological Performance.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Zhang Lin",
+        "Yang Wenbo",
+        "Jia Shipu",
+        "Shang Jing",
+        "Wang Jincheng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42797243/"
+    },
+    {
+      "pmid": "42773972",
+      "title": "Immune-instructive baicalin-loaded nanofibrous membranes regulate macrophage polarization ",
+      "abstract": "Chronic cutaneous wounds remain a major clinical challenge due to a persistent pro-inflammatory microenvironment characterized by unresolved inflammation and dysregulated macrophage polarization. Emerging \"immune-instructive\" biomaterials offer a promising strategy to actively modulate host immune responses rather than providing mere structural support. In this study, we performed a comparative screening of representative traditional Chinese medicine (TCM)-derived monomers, identifying baicalin (BAL) as the most potent regulator of macrophage polarization. To ensure localized and sustained bioactivity, BAL was encapsulated into mesoporous silica nanoparticles (MSNs) and subsequently integrated into electrospun poly(ε-caprolactone)/silk fibroin (PCL/SF) nanofibrous membranes to construct a hierarchical bioactive system (BA@MSN/PCL/SF). Mechanistic investigations combining network pharmacology, molecular docking, and pharmacological inhibition revealed that BAL directs macrophage polarization toward a pro-regenerative M2 phenotype ",
+      "year": "2026",
+      "journal": "Journal of materials chemistry. B",
+      "authors": [
+        "Liu Keting",
+        "Chen Fuying",
+        "Kuang Hanzheng",
+        "Xiao Yumei",
+        "Yang Xiao"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Flavonoids",
+        "Wound Healing",
+        "Mice",
+        "Macrophages",
+        "Nanofibers",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "Glycogen Synthase Kinase 3 beta",
+        "Signal Transduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42773972/"
+    },
+    {
+      "pmid": "42769022",
+      "title": "Translational Progress of Inorganic Nanotheranostic Platforms for Gynecologic Malignancies: A Narrative Review of Endometrial, Ovarian, and Cervical Cancer Focusing on Fertility Preservation, Biosafety, and Industrial Translation.",
+      "abstract": "Endometrial, ovarian, and cervical cancers differ substantially in epidemiology, anatomy, and unmet clinical need, yet the same inorganic nanomaterial toolbox is often discussed without disease-specific translational context. This narrative review synthesizes preclinical and clinical literature on gold, magnetic, mesoporous silica, carbon-based, and metal-organic framework nanotheranostic platforms identified through PubMed and Web of Science searches from database inception through August 2026, using a structured comparison across endometrial, ovarian, and cervical cancer. Particular attention is given to biosafety, reproductive toxicity, patient-derived organoid (PDO) models, AI-assisted design, manufacturing, and regulatory translation. Clinically, carbon nanoparticle suspensions have direct evidence for sentinel lymph node mapping in endometrial cancer, whereas the strongest ovarian cancer precedents for locoregional and nanomedicine delivery remain non-inorganic, including hyperthermic intraperitoneal chemotherapy and pegylated liposomal doxorubicin. In cervical disease, organic hexaminolevulinate photodynamic therapy for CIN2, approved by China's NMPA in March 2026, provides a relevant local drug-device comparator. We identified no inorganic nanomedicine currently approved specifically for a gynecologic malignancy; ferumoxytol is approved as an intravenous iron replacement product, and AuroLase gold nanoshells remain investigational, with no gynecologic trial identified. Route-matched delivery - intrauterine or hysteroscopic for endometrial cancer, intraperitoneal for ovarian cancer, and topical or intracervical for cervical disease - may therefore be more clinically relevant than increasing platform complexity alone. EC- and OC-derived organoids provide increasingly mature disease models that could support nanotherapeutic screening, but direct nanomedicine validation remains limited, while AI-assisted design is constrained by small heterogeneous datasets and limited external validation. Future progress will depend on reproductive-safety endpoints, appropriately validated PDO models, standardized manufacturing and characterization, and regulatory strategies that clearly distinguish established evidence from preclinical promise.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Jin Yile",
+        "Wang Jiangang",
+        "Li Na"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Theranostic Nanomedicine",
+        "Animals",
+        "Fertility Preservation",
+        "Uterine Cervical Neoplasms",
+        "Genital Neoplasms, Female",
+        "Translational Research, Biomedical",
+        "Ovarian Neoplasms",
+        "Endometrial Neoplasms"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42769022/"
+    }
+  ],
+  "crawled_at": "2026-10-17T23:00:30.398382",
+  "source": "pubmed"
+}

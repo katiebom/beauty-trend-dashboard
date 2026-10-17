@@ -1,0 +1,175 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42887482",
+      "title": "Advancing nanomaterials for treatment of eye diseases: a review.",
+      "abstract": "Ocular diseases involving both the anterior and posterior segments-such as dry eye disease, keratitis, glaucoma, cataracts, diabetic retinopathy, retinal vein occlusion, and ocular tumors-remain major contributors to global visual impairment. Conventional topical and systemic therapies are limited by rapid clearance, restricted penetration across ocular barriers, and poor bioavailability, particularly for posterior-segment targets. Nanotechnology has introduced a transformative therapeutic paradigm by enabling controlled pharmacokinetics, enhanced tissue penetration, and site-specific delivery. A wide range of engineered nanomaterials-including polymeric nanoparticles, lipid-based carriers, dendrimers, metallic and metal-oxide nanoparticles, mesoporous silica systems, cerium oxide nanozymes, carbon quantum dots, nanogels, and electrospun nanofibers-has demonstrated improved drug loading, sustained release, ocular surface retention, and compatibility with biologics and gene-based agents. Emerging minimally invasive platforms, such as 4D printed smart scaffolds, dissolving microneedles and magnetically driven microrobots, further enable precise transscleral or intravitreal delivery, active navigation through the vitreous, and targeted interaction with retinal lesions. Parallel clinical advances, including FDA-approved nanoformulations and ongoing trials, confirm the translational potential of these technologies. Plus, artificial intelligence now accelerates both ophthalmic diagnosis and nanocarrier design, enabling predictive modeling of nano-bio interactions, personalized delivery strategies, and real-time disease assessment. This review integrates current advances in nanomaterial engineering and AI-guided innovation, outlining their convergent roles in shaping next-generation precision therapeutics for vision preservation and restoration.",
+      "year": "2026",
+      "journal": "Experimental and molecular pathology",
+      "authors": [
+        "Amiryaghoubi Nazanin",
+        "Sadeghi Mahnaz",
+        "Sadeghi Farzaneh",
+        "Amirsaadat Soumayeh",
+        "Jaymand Mehdi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887482/"
+    },
+    {
+      "pmid": "42877916",
+      "title": "Combined central retinal and posterior ciliary artery occlusion in a young female with primary myelofibrosis and Sweet's syndrome: A case report.",
+      "abstract": "Primary myelofibrosis (PMF) is a rare myeloproliferative neoplasm that typically affects older adults but may present aggressively in younger patients. Thromboembolic complications are well recognized, though arterial occlusions are uncommon in this age group. Ocular ischemia associated with systemic inflammatory conditions such as Sweet's syndrome is exceedingly rare. A 22-year-old female with PMF, diagnosed 18 months earlier and managed initially with ruxolitinib, presented with sudden, complete loss of vision in her left eye. She also had a history of Sweet's syndrome managed with oral corticosteroids and had received multiple blood transfusions. Ophthalmic evaluation revealed no light perception in the left eye, a pale retina with attenuated vessels, and a cherry-red spot. Optical coherence tomography (OCT) showed hyperreflectivity of the inner retinal layers, and OCT angiography demonstrated markedly reduced perfusion in all vascular plexuses. Carotid Doppler, echocardiography, and ECG excluded embolic sources. Despite ocular massage, anterior chamber paracentesis, acetazolamide, and anticoagulation with apixaban, vision did not recover. One week later, she developed anterior uveitis, keratic precipitates, and elevated intraocular pressure. Fundus showed Amalric's sign of choroidal infarction and Elschnig spots, confirmed on fluorescein angiography. Inflammation responded to topical and systemic corticosteroids, with normalization of intraocular pressure. This is the first documented case of combined central retinal artery occlusion and posterior ciliary artery occlusion with anterior uveitis in a young PMF patient with Sweet's syndrome. The case underscores the multifactorial contribution of hypercoagulability, systemic inflammation, and transfusion-related factors in ocular ischemia.",
+      "year": "2026",
+      "journal": "Taiwan journal of ophthalmology",
+      "authors": [
+        "Ambiya Vikas",
+        "Khullar Srishti",
+        "Kapoor Gaurav"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42877916/"
+    },
+    {
+      "pmid": "42877765",
+      "title": "Pharmacological and Safety Evaluation of the Small Molecule MP-004 Following Topical Ocular Administration for the Treatment of Inherited Retinal Dystrophies.",
+      "abstract": "MP-004 is a novel small molecule under development as a non-invasive therapeutic for inherited retinal dystrophies (IRDs), including retinitis pigmentosa. MP-004 halts photoreceptor degeneration by modulating calcium dysregulation and oxidative stress, two critical pathways involved in IRDs. Here, we evaluated its ocular concentration and safety profile following topical administration in three animal species (mouse, rabbit, and pig).",
+      "year": "2026",
+      "journal": "Drug design, development and therapy",
+      "authors": [
+        "Lara-López Araceli",
+        "Rodríguez-Hidalgo María",
+        "Sarasola-Gastesi Miren",
+        "González-Imaz Klaudia",
+        "Zayas-Arrabal Julián"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Rabbits",
+        "Mice",
+        "Retinal Dystrophies",
+        "Swine",
+        "Administration, Ophthalmic",
+        "Administration, Topical",
+        "Dose-Response Relationship, Drug",
+        "Male",
+        "Retina"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42877765/"
+    },
+    {
+      "pmid": "42874931",
+      "title": "Phenylboronate hydrogel for administration route tailored dual-drug delivery to anterior and posterior ocular segments.",
+      "abstract": "Frequent multidrug eyedrop instillation for ocular perioperative prophylaxis (e.g., cataract surgery) suffers from rapid nasolacrimal clearance, limited corneal penetration, and poor access to the posterior segment. To address these limitations, we engineered an interface-adaptive phenylboronate ester hydrogel for rapid in situ gelation and the co-entrapment of two frequently instilled drugs (moxifloxacin and dexamethasone) in their free or liposomal forms at physiological pH. This platform utilizes chemical crosslinking between hyaluronic acid-conjugated 2-aminophenylboronic acid and the diols of polyvinyl alcohol (HA-2APBA@PVA), forming a dynamic hydrogel network via phenylboronate ester bonds with a thermodynamically favorable formation energy (ΔG = -10.64 kcal/mol). This unique chemistry imparts shear-thinning injectability through fine ophthalmic needles, ensures mechanical stability against blink-induced shearing, and drives robust mucoadhesion with tear film mucins such as MUC5AC for prolonged ocular retention at the injection site. Architecturally, a \"liposome-in-gel\" system establishes hierarchical diffusion steps that suppress the initial burst effect and extend drug release duration by >2-fold compared to the free-drug solution control. The hydrogel demonstrates excellent ophthalmic compatibility, exhibiting physiological osmolality, >80% optical transmittance, and near 100% viability in human corneal and retinal pigment epithelial cells. Safety was further validated via Draize irritation testing and preserved ocular histology across topical and periocular administration routes. Unlike the rapid washout of standard eyedrops, this hydrogel depot ensures prolonged ocular surface retention. Pharmacokinetic analysis revealed route-dependent versatility: compared to standard eyedrops, subconjunctival administration enhanced anterior segment exposure of moxifloxacin and dexamethasone by 14.9- and 8.6-fold, respectively, while sub-Tenon dosing facilitated targeted delivery to the posterior segment. This single, dynamic covalent chemistry provides a scalable, clinically compatible alternative strategy to eyedrops and advances multidrug therapies across both ocular segments.",
+      "year": "2026",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "authors": [
+        "Zhang Rui Xue",
+        "Wang Xu",
+        "Yan Xu",
+        "Yan Wei Jia",
+        "Wang Xue-Ting"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874931/"
+    },
+    {
+      "pmid": "42873731",
+      "title": "Local RAGE Inhibition Attenuates Early Diabetic Retinal Pathology in Streptozotocin-Induced Rats.",
+      "abstract": "Introduction Diabetic retinopathy, which occurs during extended periods of chronic hyperglycemia, is one of the main causes of vision loss. The receptor for advanced glycation end products (RAGE) plays a central role in inflammatory and angiogenic signaling, both of which contribute to the pathogenesis of diabetic retinopathy, but its therapeutic targeting in ocular disease has been insufficiently explored. Methods We evaluated topical RAGE229, a small-molecule RAGE inhibitor, and an intravitreally administered anti-RAGE antibody in a streptozotocin-induced diabetic rat model. At day 84, treatment effects were assessed using masked fundoscopic scoring, RT-qPCR, immunohistochemistry, and histological morphometry. Treated eyes were evaluated against both route-matched diabetic vehicle-control groups and paired contralateral vehicle-treated eyes. Results Both interventions reduced fundoscopic pathology and retinal Vegfa and Nfkb1 expression, whereas Ager showed only a non-significant downward trend. NF-κB p65 immunoreactivity was reduced by both treatments, while a significant reduction in VEGF-A immunoreactivity was detected only in the paired anti-RAGE antibody analysis. Morphometric analysis indicated attenuation of diabetes-associated retinal thinning with both interventions. Neither intervention altered systemic glycemic control. Although both interventions demonstrated similar overall anatomical protection, anti-RAGE antibody treatment showed more consistent effects across protein-level and structural endpoints. Conclusion These findings provide proof-of-concept evidence that local RAGE-targeted treatment may attenuate vascular, molecular, and structural manifestations of early experimental diabetic retinopathy without detectable changes in systemic glycemia. Further preclinical studies should evaluate ocular exposure, direct target engagement, functional visual outcomes, and reproducibility in larger cohorts.",
+      "year": "2026",
+      "journal": "Gerontology",
+      "authors": [
+        "Vakhrusheva Anna",
+        "Kryuchkov Nickolay A",
+        "Nedorubov Andrey A",
+        "Xi Yang",
+        "Guvatova Zulfiia G"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42873731/"
+    },
+    {
+      "pmid": "42873447",
+      "title": "Supernormal flicker ERG with postoperative CME after nDSAEK in bullous keratopathy.",
+      "abstract": "To report a case of supernormal electroretinogram (ERG) observed after non-Descemet stripping automated endothelial keratoplasty (nDSAEK) in a patient with bullous keratopathy, monitored longitudinally with flicker ERG and OCT.",
+      "year": "2026",
+      "journal": "Documenta ophthalmologica. Advances in ophthalmology",
+      "authors": [
+        "Kato Kumiko",
+        "Mizumoto Keitaro",
+        "Yonekawa Yuka",
+        "Mori Sumine",
+        "Mizutani Nao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42873447/"
+    },
+    {
+      "pmid": "42866098",
+      "title": "Biophotonics in veterinary medicine: current clinical applications, translational challenges, and emerging opportunities.",
+      "abstract": "Biophotonics, a relatively new scientific field, applies optical or light-based techniques to biology and medicine. These approaches enable non-invasive visualization, monitoring, and characterization of biological tissues and processes, thereby supporting diagnostics, treatments, monitoring, imaging, and surgery. Biophotonic capabilities could be particularly valuable in veterinary medicine, where patients cannot verbally describe symptoms and where rapid, non-invasive assessment may reduce reliance on invasive sampling and, in selected cases, sedation or anesthesia. This perspective review examines the emerging application of biophotonics in veterinary medicine, including optical coherence tomography (OCT), fluorescence-guided imaging, hyperspectral and multispectral imaging, Raman spectroscopy, visible and near-infrared spectroscopy, and diffuse reflectance spectroscopy. Among currently available biophotonic approaches, OCT and fluorescence-guided imaging have achieved the highest level of clinical translation in veterinary medicine, particularly in ophthalmology (retinal layering assessment) and surgical oncology (real-time intraoperative tumor margin delineation). In contrast, hyperspectral imaging and Raman spectroscopy remain largely confined to research and early translational settings despite promising diagnostic performance. Across modalities, major barriers to wider clinical adoption include high equipment costs, lack of standardized protocols, and limited multicenter validation. Finally, animal patients vary considerably in haircoat, pigmentation, and skin thickness, which can affect light penetration and optical signal quality. Nevertheless, multimodal and AI-assisted approaches show strong potential to improve non-invasive diagnostics, intraoperative guidance, and physiologic monitoring in veterinary medicine.",
+      "year": "2026",
+      "journal": "Frontiers in veterinary science",
+      "authors": [
+        "Viškere Daira",
+        "Matise-VanHoutan Ilze",
+        "Cugmas Blaz",
+        "Tamosiunas Mindaugas"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42866098/"
+    },
+    {
+      "pmid": "42862210",
+      "title": "Macular holes and endogenous electric fields A Theoretical Model Of How Electrotaxis In Retinal Glial Cells Aids In Macular Hole Closure.",
+      "abstract": "To introduce the concept of endogenous electric fields in macular hole closure and propose them as a plausible mechanism guiding retinal glial cell migration to facilitate closure.",
+      "year": "2026",
+      "journal": "Retina (Philadelphia, Pa.)",
+      "authors": [
+        "Thanos Aristomenis",
+        "Fortune Brad"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42862210/"
+    },
+    {
+      "pmid": "42858861",
+      "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and retinal protection in a dAMD model.",
+      "abstract": "Dry age-related macular degeneration (dAMD) is a highly prevalent degenerative retinal disease. Quercetin, a bioactive ingredient in traditional Chinese medicine, can mitigate the oxidative stress that helps drive dAMD; however, its low water solubility and poor corneal permeability limit its efficacy. We developed dual-functional polymeric micelles (PMs) co-conjugated with a glycocalyx-binding peptide (GBP) and a cell-penetrating peptide (TAT) for the enhanced topical ocular delivery of quercetin (QUE), named GT-PMs/QUE. The GT-PMs/QUE exhibited a particle size of 46.25 ± 3.05 nm and a zeta potential of -5.64 ± 0.92 mV. GT-PMs exhibited significantly higher cellular uptake efficiency than the unmodified group (PMs) and single-peptide modified groups (GBP-PMs and TAT-PMs). In the sodium iodate-induced oxidative damage model of adult retinal pigment epithelial cell line-19 (ARPE-19) cells, the GT-PMs/QUE treatment group showed significantly reduced ROS and MDA levels along with markedly increased SOD, CAT, and GSH activities that approached normal control levels compared to the model group. In a mouse model of dAMD, GT-PMs/QUE greatly improved the bioavailability of quercetin delivered via eye drop administration and attenuated sodium iodate-induced retinal damage. This study provides a theoretical and experimental basis for enhanced ocular delivery of quercetin and protection against dAMD-related retinal damage.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Li Shuyao",
+        "Yang Qinghua",
+        "Zhu Yadi",
+        "Li Tingting",
+        "Scherman Daniel"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858861/"
+    },
+    {
+      "pmid": "42856407",
+      "title": "Interferon gamma-induced MX1 and IFITM1 inhibit Varicella-Zoster Virus Replication.",
+      "abstract": "Interferon gamma (IFN-γ) is a potent cytokine secreted following primary varicella-zoster virus (VZV) infection. Our previous studies demonstrated that pretreatment with IFN-γ completely inhibited VZV replication in lung fibroblast MRC-5 and retinal epithelial ARPE-19 but not in melanoma MeWo cells, suggesting that IFN-γ-stimulated protein(s) inhibit viral replication. Our microarray analysis revealed that 34 interferon-stimulated genes (ISGs) were upregulated by greater than 2.5-fold at 8 h post-treatment in both ARPE-19 and MRC-5 cells compared to those of MeWo cells. The depletion of CTSS, GBP4, MX1, IFIT1, IFITM1 and IRF1 by siRNA in IFN-γ-treated cells significantly increased VZV yields. Ectopic overexpression of interferon-induced myxovirus resistance 1 (MX1) or transmembrane protein 1 (IFITM1) significantly reduced VZV yield both in ARPE-19 and MeWo cells. IFITM1 abrogated viral major immediate-early IE62 protein-mediated ",
+      "year": "2026",
+      "journal": "bioRxiv : the preprint server for biology",
+      "authors": [
+        "Kim Seong K",
+        "Shakya Akhalesh K",
+        "Guo Hongyan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42856407/"
+    }
+  ],
+  "crawled_at": "2026-10-17T22:59:59.036858",
+  "source": "pubmed"
+}
