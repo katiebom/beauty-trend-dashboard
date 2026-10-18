@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:00:33.481679",
+  "generated_at": "2026-10-18T22:55:41.890492",
   "total_ingredients": 48,
   "signals": [
     {
@@ -9,15 +9,15 @@
       "category": "anti_aging",
       "tier_dist": {
         "T1": 3,
-        "T2": 14,
+        "T2": 13,
         "T3": 0,
-        "unknown": 8
+        "unknown": 9
       },
       "total_papers": 25,
       "recent_papers": 25,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 33.9,
+      "signal_score": 32.2,
       "signal_label": "🔥 임박 (T+6mo)",
       "top_t1_papers": [
         {
@@ -41,6 +41,12 @@
       ],
       "top_t2_papers": [
         {
+          "pmid": "42893183",
+          "title": "Energy-Based Devices for GLP-1 Receptor Agonist-Associated Facial Aging: A Tissue-Specific Safety Framework.",
+          "year": "2026",
+          "journal": "Clinical, cosmetic and investigational dermatology"
+        },
+        {
           "pmid": "42863769",
           "title": "The Metabolic-Dermatologic Axis: GLP-1/GIP Agonists as Emerging Immunometabolic Therapies for Obesity-Associated Skin Di",
           "year": "2026",
@@ -49,12 +55,6 @@
         {
           "pmid": "42863768",
           "title": "Cutaneous Effects and Aesthetic Management of Glucagon-like Peptide-1 Receptor Agonists: A Narrative Review.",
-          "year": "2026",
-          "journal": "Clinics in dermatology"
-        },
-        {
-          "pmid": "42858788",
-          "title": "\"Ozempic Face\" and Facial Aging.",
           "year": "2026",
           "journal": "Clinics in dermatology"
         }
