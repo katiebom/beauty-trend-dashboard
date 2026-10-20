@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42897822",
+      "title": "Hemorrhagic Occlusive Retinal Vasculitis After Therapeutic Intravitreal Vancomycin with Favorable Recovery Following Early Vitrectomy: A Case Report.",
+      "abstract": "To describe a postoperative case most consistent with vancomycin-associated hemorrhagic occlusive retinal vasculitis (HORV) in which early pars plana vitrectomy (PPV), undertaken for presumed endophthalmitis, proved diagnostically decisive, with a favorable visual outcome.",
+      "year": "2026",
+      "journal": "Ocular immunology and inflammation",
+      "authors": [
+        "Chen Jing-Yi",
+        "Fang Hwa-Shin",
+        "Chang Hsia-Yi",
+        "Chen Xin-Yuan",
+        "Lo Wen-Jung"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42897822/"
+    },
+    {
       "pmid": "42887482",
       "title": "Advancing nanomaterials for treatment of eye diseases: a review.",
       "abstract": "Ocular diseases involving both the anterior and posterior segments-such as dry eye disease, keratitis, glaucoma, cataracts, diabetic retinopathy, retinal vein occlusion, and ocular tumors-remain major contributors to global visual impairment. Conventional topical and systemic therapies are limited by rapid clearance, restricted penetration across ocular barriers, and poor bioavailability, particularly for posterior-segment targets. Nanotechnology has introduced a transformative therapeutic paradigm by enabling controlled pharmacokinetics, enhanced tissue penetration, and site-specific delivery. A wide range of engineered nanomaterials-including polymeric nanoparticles, lipid-based carriers, dendrimers, metallic and metal-oxide nanoparticles, mesoporous silica systems, cerium oxide nanozymes, carbon quantum dots, nanogels, and electrospun nanofibers-has demonstrated improved drug loading, sustained release, ocular surface retention, and compatibility with biologics and gene-based agents. Emerging minimally invasive platforms, such as 4D printed smart scaffolds, dissolving microneedles and magnetically driven microrobots, further enable precise transscleral or intravitreal delivery, active navigation through the vitreous, and targeted interaction with retinal lesions. Parallel clinical advances, including FDA-approved nanoformulations and ongoing trials, confirm the translational potential of these technologies. Plus, artificial intelligence now accelerates both ophthalmic diagnosis and nanocarrier design, enabling predictive modeling of nano-bio interactions, personalized delivery strategies, and real-time disease assessment. This review integrates current advances in nanomaterial engineering and AI-guided innovation, outlining their convergent roles in shaping next-generation precision therapeutics for vision preservation and restoration.",
@@ -154,22 +170,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858861/"
-    },
-    {
-      "pmid": "42856407",
-      "title": "Interferon gamma-induced MX1 and IFITM1 inhibit Varicella-Zoster Virus Replication.",
-      "abstract": "Interferon gamma (IFN-γ) is a potent cytokine secreted following primary varicella-zoster virus (VZV) infection. Our previous studies demonstrated that pretreatment with IFN-γ completely inhibited VZV replication in lung fibroblast MRC-5 and retinal epithelial ARPE-19 but not in melanoma MeWo cells, suggesting that IFN-γ-stimulated protein(s) inhibit viral replication. Our microarray analysis revealed that 34 interferon-stimulated genes (ISGs) were upregulated by greater than 2.5-fold at 8 h post-treatment in both ARPE-19 and MRC-5 cells compared to those of MeWo cells. The depletion of CTSS, GBP4, MX1, IFIT1, IFITM1 and IRF1 by siRNA in IFN-γ-treated cells significantly increased VZV yields. Ectopic overexpression of interferon-induced myxovirus resistance 1 (MX1) or transmembrane protein 1 (IFITM1) significantly reduced VZV yield both in ARPE-19 and MeWo cells. IFITM1 abrogated viral major immediate-early IE62 protein-mediated ",
-      "year": "2026",
-      "journal": "bioRxiv : the preprint server for biology",
-      "authors": [
-        "Kim Seong K",
-        "Shakya Akhalesh K",
-        "Guo Hongyan"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42856407/"
     }
   ],
-  "crawled_at": "2026-10-20T00:21:38.774870",
+  "crawled_at": "2026-10-20T23:48:36.203396",
   "source": "pubmed"
 }

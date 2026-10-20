@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:22:02.268862",
+  "generated_at": "2026-10-20T23:49:08.957181",
   "total_ingredients": 48,
   "signals": [
     {
@@ -465,6 +465,52 @@
       ]
     },
     {
+      "ingredient_id": "resveratrol",
+      "name_kr": "레스베라트롤",
+      "name_en": "Resveratrol",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42854439",
+          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
+          "year": "2026",
+          "journal": "Burns : journal of the International Society for Burn Injuries"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42899514",
+          "title": "Expression of Concern: Montenegro et al. Resveratrol-Loaded Lipid Nanocarriers: Correlation Between In Vitro Occlusion F",
+          "year": "2026",
+          "journal": "Pharmaceutics"
+        },
+        {
+          "pmid": "42868797",
+          "title": "Curcumin-loaded silk fibroin nanoparticle-stabilized pickering emulsions for co-delivery of resveratrol: Synergistic eff",
+          "year": "2026",
+          "journal": "Food chemistry"
+        },
+        {
+          "pmid": "42858864",
+          "title": "Development of sericin-elastin nanoblends containing resveratrol for cosmeceutical applications.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        }
+      ]
+    },
+    {
       "ingredient_id": "urea",
       "name_kr": "우레아",
       "name_en": "Urea",
@@ -747,46 +793,6 @@
       ]
     },
     {
-      "ingredient_id": "resveratrol",
-      "name_kr": "레스베라트롤",
-      "name_en": "Resveratrol",
-      "category": "anti_aging",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42854439",
-          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
-          "year": "2026",
-          "journal": "Burns : journal of the International Society for Burn Injuries"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42868797",
-          "title": "Curcumin-loaded silk fibroin nanoparticle-stabilized pickering emulsions for co-delivery of resveratrol: Synergistic eff",
-          "year": "2026",
-          "journal": "Food chemistry"
-        },
-        {
-          "pmid": "42858864",
-          "title": "Development of sericin-elastin nanoblends containing resveratrol for cosmeceutical applications.",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        }
-      ]
-    },
-    {
       "ingredient_id": "squalane",
       "name_kr": "스쿠알란",
       "name_en": "Squalane",
@@ -921,6 +927,40 @@
           "title": "Cutaneous delivery of bioactive components from a rice bran oil nanoemulsion and their biodistribution in porcine and hu",
           "year": "2026",
           "journal": "International journal of pharmaceutics: X"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "silica",
+      "name_kr": "실리카",
+      "name_en": "Silica",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42900622",
+          "title": "Multifunctional nanocomposite with stage-responsive behavior for wound healing.",
+          "year": "2026",
+          "journal": "Journal of biomaterials science. Polymer edition"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42797243",
+          "title": "Dendritic Mesoporous Silica-Modified Decellularized Bone Matrix Scaffold for Sustained Teriparatide Delivery in Bone Def",
+          "year": "2026",
+          "journal": "Pharmaceutics"
         }
       ]
     },
@@ -1189,33 +1229,6 @@
           "title": "Sunflower Seed-Induced Anaphylaxis With Immunoglobulin E Reactivity to 2S Albumins and Novel 60 kDa Antigen Identified b",
           "year": "2026",
           "journal": "The Journal of dermatology"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "silica",
-      "name_kr": "실리카",
-      "name_en": "Silica",
-      "category": "pore_texture",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 9.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42797243",
-          "title": "Dendritic Mesoporous Silica-Modified Decellularized Bone Matrix Scaffold for Sustained Teriparatide Delivery in Bone Def",
-          "year": "2026",
-          "journal": "Pharmaceutics"
         }
       ]
     },

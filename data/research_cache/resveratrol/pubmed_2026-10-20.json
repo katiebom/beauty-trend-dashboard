@@ -7,6 +7,34 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42899514",
+      "title": "Expression of Concern: Montenegro et al. Resveratrol-Loaded Lipid Nanocarriers: Correlation Between In Vitro Occlusion Factor and In Vivo Skin Hydrating Effect. ",
+      "abstract": "With this notice, the ",
+      "year": "2026",
+      "journal": "Pharmaceutics",
+      "authors": [
+        "Editorial Office Pharmaceutics"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42899514/"
+    },
+    {
+      "pmid": "42899091",
+      "title": "Comparative biochemical analysis of tea (",
+      "abstract": "Metabolic diseases, including obesity, type 2 diabetes mellitus, and non-alcoholic fatty liver disease (NAFLD), have prompted interest in identifying natural products capable of modulating digestive enzymes. This study comparatively evaluated the phytochemical composition, antioxidant activity, and digestive enzyme inhibitory activities of green tea (GT), black tea (BT), and green coffee (GC) extracts. Phytochemical screening, antioxidant assays (DPPH, ABTS, and SOD-like), and quantitative phenolic analysis indicated that GT contained the highest phenolic content and exhibited the greatest antioxidant activity, whereas GC showed the highest alkaloid content. Among the fractionated extracts, the ethyl acetate fraction of green tea (EtOAc fraction of GT) was selected for further investigation based on its phenolic content, pancreatic lipase inhibitory activity, and overall biological profile. HPLC analysis identified ferulic acid and chlorogenic acid as major constituents, together with syringic acid, resveratrol, myricetin, and rosmarinic acid. Both the crude BT extract and EtOAc fraction of GT exhibited α-amylase inhibitory activity comparable to that of quercetin. Kinetic analysis indicated competitive inhibition by the EtOAc fraction of GT (IC",
+      "year": "2026",
+      "journal": "RSC advances",
+      "authors": [
+        "El-Saied Youmna E",
+        "Elgazar Abdullah A",
+        "El-Senduny Fardous F",
+        "Hammouda Nada E",
+        "El-Khawaga Omali Y"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42899091/"
+    },
+    {
       "pmid": "42879615",
       "title": "Nanoemulsions loaded with ß-caryophyllene and resveratrol for herpes infections.",
       "abstract": "Herpes Simplex Virus (HSV) infection represents a global health concern with a significant impact on affected individuals' quality of life. Conventional treatment relies on nucleoside analogues such as acyclovir, which, although effective, have limitations including viral resistance and low bioavailability. In this context, natural products such as resveratrol (RSV) and β-caryophyllene (BCP) emerge as promising alternatives due to their antiviral and immunomodulatory properties. However, these compounds present challenges related to stability and solubility, necessitating the use of controlled drug delivery systems such as nanoemulsions.",
@@ -148,61 +176,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42804705/"
-    },
-    {
-      "pmid": "42782741",
-      "title": "Dietary Modulation of microRNAs as a Potential Nutritional Strategy in Inflammatory and Autoimmune Skin Diseases: A Narrative Review.",
-      "abstract": "Inflammatory and autoimmune skin diseases like psoriasis, atopic dermatitis, and hidradenitis suppurativa present significant therapeutic challenges due to their complex immunological and environmental pathogenesis. This review highlights the critical role of microRNAs (miRNAs) as epigenetic regulators of inflammatory processes and investigates the potential of nutrigenomics to modulate their expression. Bioactive dietary components-including polyphenols such as quercetin, resveratrol, and curcumin, alongside vitamins C and D, selenium, and omega-3 fatty acids-demonstrate the ability to alter miRNA profiles like miR-21, miR-146a, and miR-155. These miRNA alterations may contribute to the regulation of key inflammatory pathways, including nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) and mitogen-activated protein kinase (MAPK), thereby potentially influencing pro-inflammatory cytokine production and keratinocyte proliferation. However, the extent to which individual dietary compounds directly mediate effects on these pathways through miRNA regulation varies and is often supported mainly by preclinical evidence. Clinical data suggests that dietary interventions, such as weight loss and the Mediterranean diet alleviate skin symptoms and lower systemic inflammatory markers. Identifying disease-specific miRNA expression profiles represents an emerging research avenue that may, following analytical and clinical validation, inform future approaches in dermatology.",
-      "year": "2026",
-      "journal": "Cells",
-      "authors": [
-        "Czaplicka Anna",
-        "Dopytalska Klaudia",
-        "Dawid Maciej",
-        "Szymańska Elżbieta",
-        "Walecka Irena"
-      ],
-      "mesh_terms": [
-        "Humans",
-        "MicroRNAs",
-        "Autoimmune Diseases",
-        "Skin Diseases",
-        "Diet",
-        "Inflammation",
-        "Animals",
-        "Epigenesis, Genetic",
-        "Psoriasis"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42782741/"
-    },
-    {
-      "pmid": "42778843",
-      "title": "Calcium Carbonate-based Microencapsulation Suppresses Thermal Oxidative Degradation and Enhances the Cellular Activity of Resveratrol.",
-      "abstract": "Resveratrol is a bioactive polyphenol with well-established antioxidant and anti-inflammatory properties; however, its practical application is severely limited by poor aqueous solubility and rapid degradation under thermal and oxidative conditions. In this study, we developed a calcium carbonate (CaCO",
-      "year": "2026",
-      "journal": "AAPS PharmSciTech",
-      "authors": [
-        "Ko Gwanyeong",
-        "Lee Chan Hee",
-        "Kim Yukyung",
-        "Kim Dongwon",
-        "Hwang Ee Taek"
-      ],
-      "mesh_terms": [
-        "Calcium Carbonate",
-        "Resveratrol",
-        "Humans",
-        "Antioxidants",
-        "Drug Compounding",
-        "Oxidation-Reduction",
-        "Keratinocytes",
-        "Solubility",
-        "Temperature",
-        "Drug Stability"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42778843/"
     }
   ],
-  "crawled_at": "2026-10-20T00:21:55.071128",
+  "crawled_at": "2026-10-20T23:49:01.216560",
   "source": "pubmed"
 }

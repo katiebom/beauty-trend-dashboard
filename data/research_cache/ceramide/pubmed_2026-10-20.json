@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42898708",
+      "title": "Patient-Reported Outcomes With Episoft® AC SPF 50+, a Ceramide-Based Moisturizer, in Acne-Related Post-procedural Care: A Real-World Multicenter Observational Study From India (PROCEED Study).",
+      "abstract": "Post-procedural skin barrier disruption following acne-related dermatological procedures causes significant patient discomfort and heightens ultraviolet (UV) sensitivity. Ceramide-based formulations with broad-spectrum photoprotection can address barrier repair and sun protection factor (SPF) in a single step. However, patient-reported evidence supporting their use in this setting is still limited.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Nakra Gaurav",
+        "Panda Maitreyee",
+        "Jagadeesan Soumya",
+        "Rais Sama",
+        "Balasubramanian Ashwin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42898708/"
+    },
+    {
       "pmid": "42889776",
       "title": "Prevention and Management of Pediatric Sensitive Skin Conditions in India: A Modified Delphi Consensus.",
       "abstract": "Sensitive skin poses significant dermatological challenges in the pediatric population, necessitating thorough exploration and understanding. In this study, we aim to provide neonatologists, pediatricians, dermatologists, and allergists in India with consensus-based recommendations for the prevention and management of sensitive skin in the pediatric age group. A modified Delphi method was used to arrive at a consensus. A group of 15 experts with experience in pediatric skincare constituted the panel. Panel members representing diverse specialties from the major regions of India participated in the consensus process. Statements were developed based on a structured review of the literature identified through PubMed/Medical Literature Analysis and Retrieval System Online (MEDLINE) (January 2000 to May 2024; updated in March 2025) using the keywords \"sensitive skin,\" \"pediatric,\" \"emollient,\" \"prevention,\" and other related terms",
@@ -187,35 +203,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42824853/"
-    },
-    {
-      "pmid": "42784694",
-      "title": "Ceramide synthesis mediates colorectal cancer metastasis through a YAP-driven regenerative program.",
-      "abstract": "Mechanisms by which primary tumor cells acquire metastatic capability through metabolic and signaling adaptations are currently poorly understood. We demonstrate that tumor-intrinsic ceramide metabolism, amplified by dietary fat, initiates colorectal cancer metastasis. We observed that dietary fat exposure triggers a sustained increase in de novo ceramide biosynthesis, mediated by the dihydroceramide desaturase ",
-      "year": "2026",
-      "journal": "Science (New York, N.Y.)",
-      "authors": [
-        "Goswami Swagata",
-        "Zhang Qiming",
-        "Yildiz Abdullah Burak",
-        "Das Adhikari Upasana",
-        "Raghawan Akhouri Kishore"
-      ],
-      "mesh_terms": [
-        "Animals",
-        "Humans",
-        "Mice",
-        "Adaptor Proteins, Signal Transducing",
-        "Cell Cycle Proteins",
-        "Cell Line, Tumor",
-        "Ceramides",
-        "Colorectal Neoplasms",
-        "Neoplasm Metastasis",
-        "Oxidoreductases"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42784694/"
     }
   ],
-  "crawled_at": "2026-10-20T00:21:42.653697",
+  "crawled_at": "2026-10-20T23:48:41.846341",
   "source": "pubmed"
 }
