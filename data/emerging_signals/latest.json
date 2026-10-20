@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:55:41.890492",
+  "generated_at": "2026-10-20T00:22:02.268862",
   "total_ingredients": 48,
   "signals": [
     {
@@ -628,46 +628,6 @@
       ]
     },
     {
-      "ingredient_id": "exosome",
-      "name_kr": "엑소좀",
-      "name_en": "Exosome",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42809765",
-          "title": "Exosome-based therapy for androgenetic alopecia: a systematic review of preclinical mechanisms and efficacy.",
-          "year": "2026",
-          "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42858915",
-          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        },
-        {
-          "pmid": "42826557",
-          "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-media",
-          "year": "2026",
-          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
-        }
-      ]
-    },
-    {
       "ingredient_id": "retinol",
       "name_kr": "레티놀",
       "name_en": "Retinol",
@@ -862,6 +822,39 @@
           "title": "Breaking the virus: Yeast glucans as an effective alternative to acyclovir in HSVI treatment.",
           "year": "2025",
           "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "exosome",
+      "name_kr": "엑소좀",
+      "name_en": "Exosome",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42858915",
+          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
+        },
+        {
+          "pmid": "42826557",
+          "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-media",
+          "year": "2026",
+          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
         }
       ]
     },
