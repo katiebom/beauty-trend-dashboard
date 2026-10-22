@@ -1,0 +1,219 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42891983",
+      "title": "Evaluation of anti-psoriatic activity, mechanistic insights, nanoformulation, and GC-MS profiling of ",
+      "abstract": "Psoriasis is a chronic inflammatory immune-mediated skin disease with complex pathophysiology, reflecting the need for effective treatment. ",
+      "year": "2026",
+      "journal": "Artificial cells, nanomedicine, and biotechnology",
+      "authors": [
+        "Alanazi Fawaz K",
+        "Hashad Nashwa",
+        "Ahmed Asmaa A",
+        "El-Sayed Elsayed K",
+        "Ahmed Nadeem"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Commiphora",
+        "Psoriasis",
+        "Oils, Volatile",
+        "Gas Chromatography-Mass Spectrometry",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Drug Compounding",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42891983/"
+    },
+    {
+      "pmid": "42888572",
+      "title": "Hyaluronic acid-based skin booster with glutathione combined with 1064-nm Nd:YAG laser and oral tranexamic acid for melasma: A prospective comparative study.",
+      "abstract": "Melasma is a chronic, acquired facial hyperpigmentation disorder with multifactorial pathogenesis and frequent relapse. Low-fluence 1064-nm Q-switched neodymium-doped yttrium aluminum garnet (Nd:YAG) (LQSNY) laser with oral tranexamic acid (TA) is widely used, but responses are often incomplete and short-lived. glutathione (GSH), an antioxidant that inhibits melanogenesis, may improve outcomes when delivered intradermally with a hyaluronic acid (HA) carrier. We assessed whether adding an HA-based GSH skin booster (HA-GSH) to this regimen enhances efficacy and durability. Fifty Chinese women with epidermal melasma (Fitzpatrick III-IV) were randomized 1:1 to 6 monthly LQSNY sessions plus oral TA (250 mg daily), with (Group A) or without (Group B) intradermal HA-GSH. The primary outcome was change in modified melasma area and severity index (mMASI) at 6 months and at 2-month posttreatment follow-up. Secondary outcomes were patient satisfaction (short assessment of patient satisfaction) and safety. Sample size was determined a priori. mMASI was analyzed using a linear mixed-effects model with baseline mMASI as a covariate and Benjamini-Hochberg adjustment for visit-level comparisons. Thirty-six patients completed the study (18 per group); baseline mMASI was comparable (5.61 ± 1.29 vs 5.56 ± 1.20; P = .89). Fourteen participants withdrew (seven per group), none due to adverse events. Group A showed significantly greater mMASI reduction from the third session onward. Adjusted for baseline, the mean difference across all post-baseline visits was 0.72 points (95% confidence interval 0.46-0.98; P < .001) favoring Group A, evident at the first posttreatment assessment. At 6 months, mean mMASI was lower in Group A (2.50 ± 0.62 vs 3.39 ± 0.70; P < .001), an advantage maintained at follow-up (2.06 ± 0.54 vs 2.67 ± 0.59; P = .003). More Group A patients were \"very satisfied\" (28% vs 11%), though not significantly (P = .31). Both regimens were well tolerated; only transient erythema, mild swelling, and bruising occurred, with no serious or pigmentary adverse events. Adding intradermal HA-GSH to LQSNY laser and oral TA produced earlier, greater, and more durable melasma improvement with high satisfaction and a favorable safety profile, supporting HA-GSH as a promising adjuvant pending confirmation in larger, longer trials.",
+      "year": "2026",
+      "journal": "Medicine",
+      "authors": [
+        "Bai Jie Ling"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Young Adult",
+        "Administration, Oral",
+        "Combined Modality Therapy",
+        "Glutathione",
+        "Hyaluronic Acid",
+        "Lasers, Solid-State"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42888572/"
+    },
+    {
+      "pmid": "42884673",
+      "title": "Riboflavin as a Regulator of Cellular Metabolism: From the Classic Vitamin B2 to a Key Redox Factor.",
+      "abstract": "Riboflavin, i.e., vitamin B2, was first isolated by Kuhn and Győrgy in 1933, who reported that it acts as a growth factor. Riboflavin has long been known to play a key role in energy metabolism and cellular respiration, and its deficiency negatively affects skin and mucous membrane health. More recent studies have found it to regulate mitochondrial metabolism and to serve as the core of flavin coenzymes (FAD, FMN), which enable the respiratory chain and β-oxidation. Riboflavin also plays a key role as an antioxidant. While it is not a classic free antioxidant, it supports the enzymatic antioxidant system by supporting glutathione reductase, thioredoxin reductase, and ROS neutralization. On the other hand, when exposed to light, riboflavin exhibits photosensitizing properties that generate reactive oxygen species. As a result, it can initiate oxidative processes involving lipids, proteins, and nucleic acids, thereby exhibiting a prooxidative effect. The aim of this review is to provide an overview of the current understanding of the role of riboflavin in cellular and human health.",
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Kaźmierczak-Barańska Julia",
+        "Halczuk Krzysztof",
+        "Karwowski Bolesław T"
+      ],
+      "mesh_terms": [
+        "Riboflavin",
+        "Humans",
+        "Oxidation-Reduction",
+        "Antioxidants",
+        "Reactive Oxygen Species",
+        "Oxidative Stress",
+        "Mitochondria",
+        "Animals",
+        "Energy Metabolism"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42884673/"
+    },
+    {
+      "pmid": "42884073",
+      "title": "CWH43 Suppresses Ferroptosis-Associated Vulnerability Through Redox Adaptation in Colorectal Cancer.",
+      "abstract": "Ferroptosis is an iron-dependent form of regulated cell death that has emerged as a potential vulnerability in cancer cells under therapeutic stress. However, the mechanisms by which colorectal cancer cells modulate ferroptosis susceptibility remain incompletely understood. In this study, we investigated the role of CWH43, a glycosylphosphatidylinositol-anchor biogenesis-related protein whose role in chemotherapy response has been unclear, in regulating redox balance and ferroptosis-associated vulnerability in colorectal cancer. Integrative analyses of clinical datasets, transcriptomic profiling, and functional experiments were performed using gain- and loss-of-function approaches in CRC cell models. We found that elevated CWH43 expression was associated with adverse clinical outcomes and reduced responsiveness to chemotherapy. Functionally, CWH43 attenuated ferroptosis-associated vulnerability by reducing intracellular reactive oxygen species and lipid peroxidation. Mechanistically, CWH43 promoted redox-adaptive programs involving activation of NRF2-dependent antioxidant signaling, upregulation of the cystine transporter SLC7A11, increased intracellular glutathione availability, and suppression of lipid peroxidation. Genetic or pharmacological disruption of SLC7A11 restored ferroptosis susceptibility and sensitized CWH43-overexpressing colorectal cancer cells to therapeutic stress, whereas ferrostatin-1 partially restored cell viability following erastin-containing treatments. Collectively, these findings identify CWH43 as a regulator of redox adaptation that modulates ferroptosis-associated vulnerability in colorectal cancer, providing insights into stress-adaptive survival mechanisms and chemotherapy resistance in cancer cells.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Tsai Kuei-Yen",
+        "Wei Po-Li",
+        "Lee Cheng-Chin",
+        "Batzorig Uyanga",
+        "Huang Chien-Yu"
+      ],
+      "mesh_terms": [
+        "Ferroptosis",
+        "Humans",
+        "Colorectal Neoplasms",
+        "Oxidation-Reduction",
+        "Amino Acid Transport System y+",
+        "Lipid Peroxidation",
+        "Reactive Oxygen Species",
+        "NF-E2-Related Factor 2",
+        "Cell Line, Tumor",
+        "Gene Expression Regulation, Neoplastic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42884073/"
+    },
+    {
+      "pmid": "42856633",
+      "title": "Folate metabolism in tumor-associated macrophages drives immunosuppressive function to promote tumor growth.",
+      "abstract": "Tumor-associated macrophages (TAMs) promote tumor growth, inhibit effector lymphocytes, and induce resistance to immune checkpoint inhibitors (ICI). Therapies designed to deplete TAMs have had little success in the clinic, and strategies aimed to repolarize immunosuppressive TAMs to pro-inflammatory states have struggled with systemic toxicity. We have identified that the combination of low folate in the tumor microenvironment and TAM dependency on the high affinity folate receptor beta (FRβ) for folate uptake results in a unique metabolic dependency of TAMs necessary for their immunosuppressive function. FRβ (encoded by ",
+      "year": "2026",
+      "journal": "bioRxiv : the preprint server for biology",
+      "authors": [
+        "Zimmerman Matthew P",
+        "Zhabotynsky Vasyl",
+        "Wang Haiyang",
+        "Cox Emily K",
+        "Chong Wan Lin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42856633/"
+    },
+    {
+      "pmid": "42851402",
+      "title": "Incidence, burden, and associated factors of severe potential drug-drug interactions in intensive care unit patients: a real-world retrospective study.",
+      "abstract": "Severe potential drug-drug interactions (pDDIs) in intensive care unit (ICU) patients remain insufficiently characterized. This study investigated the incidence, patterns, burden, and associated factors of severe pDDIs.",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Jiang Huaqiao",
+        "Shen Tingting",
+        "Yang Yun",
+        "Zhang Lin",
+        "Tan Xiaofang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42851402/"
+    },
+    {
+      "pmid": "42850938",
+      "title": "Ultrasound/pH Dual-Responsive Cu-Zn-Based Microneedles for Piezo-Sonodynamic and Multimechanism Synergistic Induction of Cuproptosis and Ferroptosis.",
+      "abstract": "Sonodynamic therapy is hindered by the insufficient catalytic activity of nanomaterials, the robust antioxidant capacity of the tumor microenvironment, and the limited targeting efficiency of conventional drug delivery systems. In this study, CuSn(OH)",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Zhang Xueyan",
+        "Lin Siqi",
+        "Yang Chunyu",
+        "Xu Mengshu",
+        "Yang Zhuoran"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42850938/"
+    },
+    {
+      "pmid": "42848283",
+      "title": "YTHDF2 drives malignant progression in cutaneous melanoma through m⁶A-dependent HMOX1-mediated ferroptosis.",
+      "abstract": "N6-methyladenosine (m6A) modification plays a critical role in eukaryotic mRNA and is significantly associated with cutaneous melanoma. This study investigated the role of the m6A-binding protein YTHDF2 in the pathogenesis of cutaneous melanoma and its potential therapeutic applications. Analyses of public databases indicated that YTHDF2 exhibited elevated expression in various cancers, including cutaneous melanoma, where its levels positively correlated with PD-L1 and negatively correlated with immune and stromal scores. Functionally, the downregulation of YTHDF2 in melanoma cells suppressed proliferation and increased the population of Annexin V/PI--positive cells, an effect that was rescued by the ferroptosis inhibitor, highlighting YTHDF2's involvement in ferroptosis regulation. YTHDF2 knockdown resulted in increased intracellular Fe",
+      "year": "2026",
+      "journal": "Medical oncology (Northwood, London, England)",
+      "authors": [
+        "Gu Da",
+        "Sun Yulin",
+        "Sun Jinpeng",
+        "Kang Weiting",
+        "Lou Huanmin"
+      ],
+      "mesh_terms": [
+        "Ferroptosis",
+        "Humans",
+        "RNA-Binding Proteins",
+        "Melanoma",
+        "Skin Neoplasms",
+        "Animals",
+        "Adenosine",
+        "Heme Oxygenase-1",
+        "Mice",
+        "Disease Progression"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42848283/"
+    },
+    {
+      "pmid": "42841820",
+      "title": "Preparation of an aptamer-based photoelectrochemical sensor for sequential detection of both mercury and glutathione in commercial skin lightening cosmetics.",
+      "abstract": "Glutathione (GSH) and Hg",
+      "year": "2026",
+      "journal": "The Analyst",
+      "authors": [
+        "Huang Rui",
+        "Chen Yafei",
+        "Zhao Zewei",
+        "Zhang Xuhui",
+        "Huang Zihao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42841820/"
+    },
+    {
+      "pmid": "42835099",
+      "title": "Isobavachalcone attenuates experimental periodontitis by suppressing PTGS2-associated macrophage ferroptosis and restoring periodontal immune homeostasis.",
+      "abstract": "Periodontitis (PD) is a destructive inflammatory disease driven by the collapse of immune homeostasis and alveolar bone resorption. Isobavachalcone (IBC) is a naturally occurring prenylated chalcone belonging to the plant flavonoid family, mainly enriched in the mature seeds of ",
+      "year": "2026",
+      "journal": "Frontiers in pharmacology",
+      "authors": [
+        "Yang Ruolan",
+        "Jin Yanye",
+        "Wang Ziyi",
+        "Peng Zeyan",
+        "Yang Liang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42835099/"
+    }
+  ],
+  "crawled_at": "2026-10-22T00:04:18.223361",
+  "source": "pubmed"
+}
