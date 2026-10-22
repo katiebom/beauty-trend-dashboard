@@ -7,6 +7,20 @@
   "paper_count": 9,
   "articles": [
     {
+      "pmid": "42903526",
+      "title": "From Nutritional Epidemiology to Clinical Prediction: Interpretable Machine Learning Reveals Subtle Associations Between Dietary Antioxidant Profiles and Non-Melanoma Skin Cancer in Older Adults.",
+      "abstract": "The growing burden of non-melanoma skin cancer (NMSC) among older adults underscores the need for early risk prediction based on modifiable dietary factors. In this cross-sectional study using data from the 2007-2010 and 2017-2018 cycles of the National Health and Nutrition Examination Survey (NHANES), we evaluated dietary antioxidant profiles and developed an interpretable machine learning model for NMSC risk prediction. Baseline feature analysis revealed that participants with NMSC generally had higher socioeconomic status and higher oxidative balance scores (OBS), with significant differences also observed in age and race. Through feature importance ranking using the Random Forest (RF) algorithm, caffeine and luteolin were identified as the most predictive dietary variables. After comparing 12 machine learning algorithms, linear discriminant analysis (LDA) was selected as the final screening-oriented prediction model (AUC = 0.742). Although its overall accuracy was lower than that of several ensemble models, LDA demonstrated higher sensitivity (0.730) and favorable imbalance-aware performance, thereby mitigating the \"accuracy paradox\" and supporting its use for preliminary screening to identify participants with higher predicted NMSC risk. SHapley Additive exPlanations (SHAP) global explanations further confirmed that, after controlling for age as a primary risk factor, niacin and quercetin act as protective factors in the NMSC risk prediction model. In summary, this study developed an interpretable and robust machine learning model for NMSC risk prediction in older adults and provides hypothesis-generating evidence regarding the potential role of dietary antioxidant profiles in prevention-oriented strategies.",
+      "year": "2026",
+      "journal": "Food science & nutrition",
+      "authors": [
+        "Yu Bo Han",
+        "Kang Ji Young",
+        "Kim Kyung Eun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42903526/"
+    },
+    {
       "pmid": "42887571",
       "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
       "abstract": "Fresh human skin is the preferred model for ex vivo dermal penetration studies. However, limited availability often necessitates frozen storage. We investigated whether storage for two months at -20 °C or -80 °C affects skin barrier function, selected Raman-derived skin properties, and drug penetration. For each of six donors, paired full-thickness abdominal skin samples were analyzed fresh or after frozen storage. Barrier integrity was assessed by transepidermal water loss, while quantitative confocal Raman spectroscopy was used to determine water concentration profiles and the amount of caffeine, diclofenac sodium, and salicylic acid within the upper 15 µm after application of 2% (w/w) hydrogels for 1 h. Transepidermal water loss varied across storage conditions, although neither frozen-storage condition differed significantly from fresh skin. Raman-derived water content was significantly higher after storage at -80 °C than in fresh or -20 °C-stored skin, whereas no consistent storage-related differences were detected in the fingerprint spectra or combined ceramide and fatty acid signal. Superficial caffeine uptake was 18.57, 19.82, and 21.51 µg/cm",
@@ -159,34 +173,8 @@
         "Flavonoids"
       ],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42723161/"
-    },
-    {
-      "pmid": "42685069",
-      "title": "Immobilized horseradish peroxidase hybrid biocatalysts for degradation of pharmaceuticals and other emerging micropollutants.",
-      "abstract": "With the increasing detection of emerging pollutants (EPs), such as pharmaceuticals, personal care products, and pesticides, in water bodies, there is a growing research priority to develop efficient methods for their degradation. In the present study, the degradation of 21 EPs from different classes was investigated using horseradish peroxidase (HRP) covalently immobilized onto two photocatalytic supports, TiO2 and ZnO. The hybrid biocatalysts (TiO2-HRP and ZnO-HRP) were used to degrade EPs with and without the presence of a redox mediator, 1-hydroxybenzotriazole (HOBT). The results revealed that not all EPs were equally degraded by HRP enzymes, with some pollutants showing complete, partial, or no degradation. For example, full degradation was achieved for MBT (100%), meloxicam (99.5%) and caffeic acid (98.6%). In contrast, prometryn and MCPA showed only partial degradation, reaching 19.2% and 20%, respectively, and no degradation was observed for fluometuron and atenolol. The addition of the model redox mediator, HOBT, improved the degradation of some pollutants, for example, lincomycin-HCl degradation increased to 36.9%, while trimethoprim degradation improved to 21.5%. Additionally, several pollutants, including roxithromycin, cimetidine, and caffeine, exhibited significantly higher degradation rates when treated with the immobilized HRP enzyme (TiO2-HRP or ZnO-HRP) compared to free HRP. For instance, roxithromycin degradation increased from 0.5% to 58.2% with ZnO-HRP, and for cimetidine, TiO₂-HRP improved degradation from 0.3% to 60.1% without HOBT and from 9.0% to 66.7% with HOBT. Molecular docking with the catalytic heme cofactor retained further suggested that degradation trends were not explained by docking score alone, but were influenced by ligand access to the distal heme pocket, molecular planarity, and contact topology near catalytic residues. Finally, an integrated HRP enzyme and chemical oxidation remediation strategy was applied to degrade two pollutants, trimethoprim and DEET. For trimethoprim, TiO2-HRP combined with H2O2 and UV achieved approximately 30% degradation, while for DEET, both TiO2-HRP + H2O2 + UV and ZnO-HRP + H2O2 + UV resulted in around 40% degradation, thereby highlighting a novel application for these hybrid peroxidase-photocatalysts.",
-      "year": "2026",
-      "journal": "PloS one",
-      "authors": [
-        "Al-Maqdi Khadega A",
-        "Morsi Rana",
-        "Zhou Hao",
-        "Abdussaitova Assina",
-        "Shah Iltaf"
-      ],
-      "mesh_terms": [
-        "Horseradish Peroxidase",
-        "Enzymes, Immobilized",
-        "Titanium",
-        "Water Pollutants, Chemical",
-        "Pharmaceutical Preparations",
-        "Oxidation-Reduction",
-        "Zinc Oxide",
-        "Biocatalysis",
-        "Biodegradation, Environmental"
-      ],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685069/"
     }
   ],
-  "crawled_at": "2026-10-22T00:04:25.007301",
+  "crawled_at": "2026-10-22T23:54:39.963767",
   "source": "pubmed"
 }

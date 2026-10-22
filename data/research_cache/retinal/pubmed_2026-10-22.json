@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42904325",
+      "title": "When Erectile Dysfunction Therapy Clouds the Vision: Central Serous Chorioretinopathy after Sildenafil in a Healthy Male.",
+      "abstract": "Central serous chorioretinopathy (CSCR) is a pachychoroid-spectrum disorder characterized by serous neurosensory retinal detachment secondary to choroidal vascular congestion and retinal pigment epithelial dysfunction. While corticosteroid use and psychological stress are well-established risk factors, phosphodiesterase type-5 inhibitors such as sildenafil citrate, widely used for erectile dysfunction, have been increasingly recognized as an under-reported pharmacological trigger, with proposed mechanisms involving acute choroidal vasodilation and hyperpermeability. A 39-year-old previously healthy male presented with sudden, painless diminution of vision in the right eye of 48 h, occurring shortly after ingestion of a single large recreational dose of sildenafil citrate. Best-corrected visual acuity was reduced to 6/18 in the right eye, with a normal left eye. Fundus examination revealed a well-demarcated serous macular elevation, and optical coherence tomography (OCT) confirmed a dome-shaped neurosensory detachment with a markedly elevated central subfield thickness. A comprehensive systemic and hematological workup, including thrombophilia screening and cardiac evaluation, was unremarkable, supporting a diagnosis of sildenafil-induced CSCR. The patient was managed conservatively with topical nepafenac, topical Flurbiprofen, and oral alcaftadine, along with cessation of further sildenafil use. Serial follow-up over approximately 2 months demonstrated progressive resolution of subretinal fluid, normalization of central subfield thickness, and preservation of visual acuity, with OCT angiography confirming adequate perfusion and no neovascular complication. This case reinforces sildenafil as a potential, dose-related precipitant of acute CSCR even after a single high dose in patients without conventional risk factors. Prompt recognition, drug cessation, and conservative management resulted in complete anatomical and visual recovery, highlighting the importance of a thorough medication history in young patients presenting with unexplained central visual disturbance.",
+      "year": "2026",
+      "journal": "Annals of African medicine",
+      "authors": [
+        "Bhange Archana",
+        "Gollamudi Siddhartha",
+        "Aher Priyanka Sangram",
+        "Toshniwal Sumit Navneeth",
+        "Kashyap Harshita Sangram"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42904325/"
+    },
+    {
       "pmid": "42897822",
       "title": "Hemorrhagic Occlusive Retinal Vasculitis After Therapeutic Intravitreal Vancomycin with Favorable Recovery Following Early Vitrectomy: A Case Report.",
       "abstract": "To describe a postoperative case most consistent with vancomycin-associated hemorrhagic occlusive retinal vasculitis (HORV) in which early pars plana vitrectomy (PPV), undertaken for presumed endophthalmitis, proved diagnostically decisive, with a favorable visual outcome.",
@@ -154,24 +170,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42862210/"
-    },
-    {
-      "pmid": "42858861",
-      "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and retinal protection in a dAMD model.",
-      "abstract": "Dry age-related macular degeneration (dAMD) is a highly prevalent degenerative retinal disease. Quercetin, a bioactive ingredient in traditional Chinese medicine, can mitigate the oxidative stress that helps drive dAMD; however, its low water solubility and poor corneal permeability limit its efficacy. We developed dual-functional polymeric micelles (PMs) co-conjugated with a glycocalyx-binding peptide (GBP) and a cell-penetrating peptide (TAT) for the enhanced topical ocular delivery of quercetin (QUE), named GT-PMs/QUE. The GT-PMs/QUE exhibited a particle size of 46.25 ± 3.05 nm and a zeta potential of -5.64 ± 0.92 mV. GT-PMs exhibited significantly higher cellular uptake efficiency than the unmodified group (PMs) and single-peptide modified groups (GBP-PMs and TAT-PMs). In the sodium iodate-induced oxidative damage model of adult retinal pigment epithelial cell line-19 (ARPE-19) cells, the GT-PMs/QUE treatment group showed significantly reduced ROS and MDA levels along with markedly increased SOD, CAT, and GSH activities that approached normal control levels compared to the model group. In a mouse model of dAMD, GT-PMs/QUE greatly improved the bioavailability of quercetin delivered via eye drop administration and attenuated sodium iodate-induced retinal damage. This study provides a theoretical and experimental basis for enhanced ocular delivery of quercetin and protection against dAMD-related retinal damage.",
-      "year": "2026",
-      "journal": "International journal of pharmaceutics",
-      "authors": [
-        "Li Shuyao",
-        "Yang Qinghua",
-        "Zhu Yadi",
-        "Li Tingting",
-        "Scherman Daniel"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858861/"
     }
   ],
-  "crawled_at": "2026-10-22T00:04:06.746380",
+  "crawled_at": "2026-10-22T23:54:21.434586",
   "source": "pubmed"
 }

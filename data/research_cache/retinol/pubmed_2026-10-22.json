@@ -7,6 +7,33 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42902956",
+      "title": "Development of a Hyaluronic Acid-Retinol Conjugate for Enhanced Photostability and Transdermal Delivery.",
+      "abstract": "Despite its potent anti-aging efficacy, the practical application of retinol (ROH) remains highly restricted by its poor photostability, low aqueous solubility, and concentration-dependent cytotoxicity. Herein, we report the synthesis of a hyaluronic acid-retinol (HA-ROH) conjugate to overcome these limitations and improve transdermal delivery. The successful conjugation was confirmed via proton nuclear magnetic resonance (1H NMR) spectroscopy, high-performance liquid chromatography (HPLC) and Fourier-transform infrared spectroscopy (FT-IR). Notably, the HA-ROH conjugate exhibited remarkable photostability under UVA irradiation compared to free retinol. HA-ROH presented a sustained, hyaluronidase-responsive ROH release profile, indicating its potential as an enzyme-responsive controlled delivery system. Furthermore, the conjugation significantly mitigated the cytotoxicity of retinol in both HaCaT keratinocytes and human dermal fibroblasts. The conjugate suppressed matrix metalloproteinase-1 (MMP-1) expression more effectively than free ROH. In vitro cellular uptake and ex vivo skin permeation studies demonstrated enhanced transdermal delivery of the HA-ROH conjugate. Taken together, these results suggest that the HA-ROH conjugate is a highly promising, stable, and safe candidate for advanced dermatologic and cosmetic applications.",
+      "year": "2026",
+      "journal": "Bioconjugate chemistry",
+      "authors": [
+        "Park Chaeheon",
+        "Lee Seungchan",
+        "Jung Seung Oh",
+        "Lee Yujin",
+        "Chang Il-Sun"
+      ],
+      "mesh_terms": [
+        "Hyaluronic Acid",
+        "Humans",
+        "Administration, Cutaneous",
+        "Vitamin A",
+        "Matrix Metalloproteinase 1",
+        "Animals",
+        "Skin",
+        "Cell Line",
+        "Drug Stability",
+        "HaCaT Cells"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902956/"
+    },
+    {
       "pmid": "42863641",
       "title": "Molecular insights into how maternal investment shapes embryonic development for improving conservation breeding of the Chinese alligator (Alligator sinensis).",
       "abstract": "The Chinese alligator (Alligator sinensis) remains critically endangered in the wild due to severe habitat loss and historical hunting. Although ex situ breeding has achieved demographic success, the low recruitment of reintroduced populations highlights the importance of improving offspring quality. Egg weight, a direct measure of maternal investment, is known to affect hatchling phenotype, but its molecular effects on embryogenesis remain poorly understood. Here, large-sample analyses confirmed that heavy eggs had higher hatching success and produced heavier hatchlings than light eggs. We further performed transcriptome sequencing of the brain, heart, liver, lung, and skin at four embryonic stages (days 29, 35, 41, and 46) in heavy- and light-egg groups. Weighted Gene Co-Expression Network Analysis (WGCNA) identified tissue-specific co-expression modules enriched in neural signaling, cardiac muscle contraction, metabolism, immunity, and epidermal development. Across all tissues, CEP55 and SNRPA, two genes associated with cell proliferation, were consistently downregulated during development and positively correlated with proliferation markers. Meanwhile, retinol metabolism showed progressively increased activity, negative correlations with CEP55 and SNRPA, and positive correlations with tissue-specific functional genes, suggesting its involvement in the shift from proliferation to differentiation. Heavy-egg embryos exhibited upregulation of genes related to brain energy homeostasis (QRFP, NPVF), cardiac lipid transport (FABP1, HNF1A), and skin epithelial differentiation (FOSL1, FOXI2), alongside downregulation of hepatic PRKAA2 and lung immune-related genes (C3, GC). These findings indicate that increased maternal investment may enhance embryonic developmental quality by promoting energy allocation and tissue maturation, providing molecular insights to support conservation-oriented breeding strategies in the Chinese alligator.",
@@ -185,24 +212,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42593667/"
-    },
-    {
-      "pmid": "42558496",
-      "title": "Biochemical characteristics and antioxidant potential of ",
-      "abstract": "This study investigates the biochemical characteristics, antioxidant potential and nutritional parameters of a newly identified eustigmatophycean strain ",
-      "year": "2026",
-      "journal": "Physiology and molecular biology of plants : an international journal of functional plant biology",
-      "authors": [
-        "Maltseva Irina",
-        "Yakoviichuk Aleksandr",
-        "Krivova Zinaida",
-        "Maltseva Svetlana",
-        "Kulikovskiy Maxim"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42558496/"
     }
   ],
-  "crawled_at": "2026-10-22T00:04:09.906034",
+  "crawled_at": "2026-10-22T23:54:24.415547",
   "source": "pubmed"
 }

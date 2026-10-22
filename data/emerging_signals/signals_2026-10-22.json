@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:04:39.153044",
+  "generated_at": "2026-10-22T23:54:50.520314",
   "total_ingredients": 48,
   "signals": [
     {
@@ -832,39 +832,6 @@
       ]
     },
     {
-      "ingredient_id": "exosome",
-      "name_kr": "엑소좀",
-      "name_en": "Exosome",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42858915",
-          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        },
-        {
-          "pmid": "42826557",
-          "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-media",
-          "year": "2026",
-          "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology"
-        }
-      ]
-    },
-    {
       "ingredient_id": "azelaic_acid",
       "name_kr": "아젤라산",
       "name_en": "Azelaic Acid",
@@ -1071,10 +1038,10 @@
       "top_t2_papers": []
     },
     {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
+      "ingredient_id": "exosome",
+      "name_kr": "엑소좀",
+      "name_en": "Exosome",
+      "category": "regeneration",
       "tier_dist": {
         "T1": 0,
         "T2": 1,
@@ -1090,10 +1057,10 @@
       "top_t1_papers": [],
       "top_t2_papers": [
         {
-          "pmid": "42858861",
-          "title": "Glycocalyx-binding and cell-penetrating peptide-modified nanomicelles for enhanced ocular delivery of quercetin and reti",
+          "pmid": "42858915",
+          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
           "year": "2026",
-          "journal": "International journal of pharmaceutics"
+          "journal": "Journal of the American Academy of Dermatology"
         }
       ]
     },
@@ -1311,6 +1278,26 @@
           "journal": "Journal of drugs in dermatology : JDD"
         }
       ]
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 10
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 8.0,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
     },
     {
       "ingredient_id": "ginseng",

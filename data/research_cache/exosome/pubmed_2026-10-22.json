@@ -7,6 +7,22 @@
   "paper_count": 10,
   "articles": [
     {
+      "pmid": "42903656",
+      "title": "Graphene oxide-induced multiple iPSC spheroid formation for enhanced production of angiogenic exosomes accelerating tissue regeneration.",
+      "abstract": "Exosome-based therapeutics have emerged as a promising cell-free strategy for tissue regeneration by coordinating angiogenesis and tissue repair. Induced pluripotent stem cell (iPSC)-derived exosomes are particularly attractive because of their regenerative potential and scalability; however, the reproducible and scalable production of functionally potent exosomes remains a major barrier to clinical translation. Here, we developed a graphene oxide (GO)-mediated nanoengineering strategy to establish a multi-spheroid platform that simultaneously regulates spheroid architecture, enhances exosome production, and improves angiogenic functionality in both iPSC spheroids and iPSC-derived vascular endothelial cell (vEC) spheroids. GO reproducibly reorganized cellular aggregation from a single dominant spheroid into multiple uniformly sized spheroids per well and increased exosome production while preserving characteristic vesicle properties. GO-engineered iPSC spheroid-derived exosomes exhibited distinct angiogenesis-related miRNA profiles and significantly enhanced endothelial cell migration and capillary-like network formation in vitro. Extending this strategy to iPSC-vEC spheroids further enhanced endothelial differentiation and generated lineage-specific exosomes with greater pro-angiogenic activity. In a rat full-thickness skin wound model, GO-engineered spheroid-derived exosomes accelerated wound closure and promoted vascularized skin regeneration. Collectively, these findings establish GO-mediated spheroid nanoengineering as a reproducible and potentially scalable strategy for producing therapeutically potent exosomes. By integrating controlled spheroid formation, enhanced exosome productivity, preserved vesicle characteristics, and improved angiogenic efficacy, this platform provides a practical framework for standardized exosome manufacturing and supports its future clinical translation toward vascular regenerative therapies.",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Kim Woochan",
+        "Sharma Harshita",
+        "Kim Dream",
+        "Lee Shinyull",
+        "Bhakuni Sefali"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42903656/"
+    },
+    {
       "pmid": "42901383",
       "title": "From Mesenchymal Roots to Pluripotent Reprogramming: Exosomal Crossroads in Regenerative Medicine.",
       "abstract": "Despite growing interest in exosome-based regenerative therapies, conventional mesenchymal stem cell (MSC) and somatic cell derived exosomes face persistent translational barriers, including donor heterogeneity, ethical constraints, limited scalability, and batch-to-batch variability. It remains unclear how far induced pluripotent stem cell (iPSC) derived exosomes can address these limitations, and how their advantages and remaining translational barriers compare with those of established MSC exosome platforms. This review synthesizes current evidence on the biology, therapeutic applications, and bioengineering of exosomes across cellular sources, with a focus on critically comparing MSC- and iPSC-derived exosomes rather than cataloguing individual sources in isolation. iPSC-derived exosomes are, on the evidence reviewed here, the more promising long-term platform; their unlimited, genetically homogeneous, and engineerable source material addresses the donor heterogeneity, ethical, and scalability limits that constrain MSC exosomes at their root, rather than merely working around them. This advantage remains largely theoretical in practice, however, since iPSC exosome production, GMP manufacturing, and clinical validation currently lag behind the more established MSC exosome pipeline. Closing that gap, rather than the underlying biological case for iPSCs, is therefore the critical bottleneck this review identifies. The first registered human trials of iPSC derived exosomes have now appeared, in stable vitiligo, atopic dermatitis, and Moyamoya disease, but these small, early phase, and dermatology or topical delivery led, underscoring that closing translational gaps, GMP compliant and AI assisted manufacturing, standardized potency and safety assays, exosome specific rather than cell inherited genomic risk assessment, and clearr regulatory pathways will determine whether either platform, or a combination of both, moves from this narrow clinical foothold to routine use.",
@@ -158,24 +174,8 @@
       ],
       "mesh_terms": [],
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833608/"
-    },
-    {
-      "pmid": "42826557",
-      "title": "Luteolin-7-O-rutinoside-enriched aloe vera rind-derived nanoparticles attenuate skin photoaging by restoring FADS1-mediated fatty acid metabolism.",
-      "abstract": "Ultraviolet (UV) radiation causes skin photoaging by inducing reactive oxygen species (ROS) accumulation, extracellular matrix remodeling, and lipid metabolic dysregulation, which may progress to actinic keratosis and invasive squamous cell carcinoma. Plant-derived exosome-like nanoparticles (PDNPs) are promising anti-aging strategies, but current studies mainly focus on PDNPs-associated miRNAs, whereas the roles and targets of enriched secondary metabolites remain unclear. This study aimed to elucidate the key metabolite and mechanism underlying the anti-photoaging activity of aloe rind-derived nanoparticles (rADNPs).",
-      "year": "2026",
-      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-      "authors": [
-        "Zheng Yuzhou",
-        "Li Jiali",
-        "Wang Jingwen",
-        "Zhang Jiaxin",
-        "Tang Zixuan"
-      ],
-      "mesh_terms": [],
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826557/"
     }
   ],
-  "crawled_at": "2026-10-22T00:04:08.947228",
+  "crawled_at": "2026-10-22T23:54:23.695940",
   "source": "pubmed"
 }
