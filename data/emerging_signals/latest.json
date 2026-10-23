@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:54:50.520314",
+  "generated_at": "2026-10-23T23:51:27.709664",
   "total_ingredients": 48,
   "signals": [
     {
@@ -465,6 +465,52 @@
       ]
     },
     {
+      "ingredient_id": "tranexamic_acid",
+      "name_kr": "트라넥삼산",
+      "name_en": "Tranexamic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 3,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42910833",
+          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
+          "year": "2026",
+          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
+        },
+        {
+          "pmid": "42907601",
+          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "42864535",
+          "title": "The Impact of Tranexamic Acid Administration Route on Outcomes in Reduction Mammaplasty.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42849392",
+          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
+          "year": "2026",
+          "journal": "International journal of biological macromolecules"
+        }
+      ]
+    },
+    {
       "ingredient_id": "resveratrol",
       "name_kr": "레스베라트롤",
       "name_en": "Resveratrol",
@@ -713,46 +759,6 @@
       ]
     },
     {
-      "ingredient_id": "tranexamic_acid",
-      "name_kr": "트라넥삼산",
-      "name_en": "Tranexamic Acid",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42864535",
-          "title": "The Impact of Tranexamic Acid Administration Route on Outcomes in Reduction Mammaplasty.",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        },
-        {
-          "pmid": "42836382",
-          "title": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study.",
-          "year": "2026",
-          "journal": "Aesthetic surgery journal"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42849392",
-          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
-        }
-      ]
-    },
-    {
       "ingredient_id": "beta_glucan",
       "name_kr": "베타글루칸",
       "name_en": "Beta-Glucan",
@@ -832,6 +838,73 @@
       ]
     },
     {
+      "ingredient_id": "exosome",
+      "name_kr": "엑소좀",
+      "name_en": "Exosome",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42906434",
+          "title": "Bioactive M2 exosome hybrid nanocomposites for immune therapy of psoriasis.",
+          "year": "2026",
+          "journal": "Biomaterials advances"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42858915",
+          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "glutathione",
+      "name_kr": "글루타치온",
+      "name_en": "Glutathione",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42911369",
+          "title": "The Evolving Landscape of Actinic Keratosis: Field Therapy, New Drugs, and Future Directions.",
+          "year": "2026",
+          "journal": "American journal of clinical dermatology"
+        },
+        {
+          "pmid": "42884673",
+          "title": "Riboflavin as a Regulator of Cellular Metabolism: From the Classic Vitamin B2 to a Key Redox Factor.",
+          "year": "2026",
+          "journal": "Nutrients"
+        }
+      ]
+    },
+    {
       "ingredient_id": "azelaic_acid",
       "name_kr": "아젤라산",
       "name_en": "Azelaic Acid",
@@ -894,40 +967,6 @@
           "title": "Cutaneous delivery of bioactive components from a rice bran oil nanoemulsion and their biodistribution in porcine and hu",
           "year": "2026",
           "journal": "International journal of pharmaceutics: X"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "silica",
-      "name_kr": "실리카",
-      "name_en": "Silica",
-      "category": "pore_texture",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42900622",
-          "title": "Multifunctional nanocomposite with stage-responsive behavior for wound healing.",
-          "year": "2026",
-          "journal": "Journal of biomaterials science. Polymer edition"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42797243",
-          "title": "Dendritic Mesoporous Silica-Modified Decellularized Bone Matrix Scaffold for Sustained Teriparatide Delivery in Bone Def",
-          "year": "2026",
-          "journal": "Pharmaceutics"
         }
       ]
     },
@@ -1038,60 +1077,6 @@
       "top_t2_papers": []
     },
     {
-      "ingredient_id": "exosome",
-      "name_kr": "엑소좀",
-      "name_en": "Exosome",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 9.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42858915",
-          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "glutathione",
-      "name_kr": "글루타치온",
-      "name_en": "Glutathione",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 9.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42884673",
-          "title": "Riboflavin as a Regulator of Cellular Metabolism: From the Classic Vitamin B2 to a Key Redox Factor.",
-          "year": "2026",
-          "journal": "Nutrients"
-        }
-      ]
-    },
-    {
       "ingredient_id": "alpha_arbutin",
       "name_kr": "알파 아르부틴",
       "name_en": "Alpha Arbutin",
@@ -1198,6 +1183,33 @@
           "journal": "The Journal of dermatology"
         }
       ]
+    },
+    {
+      "ingredient_id": "silica",
+      "name_kr": "실리카",
+      "name_en": "Silica",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42900622",
+          "title": "Multifunctional nanocomposite with stage-responsive behavior for wound healing.",
+          "year": "2026",
+          "journal": "Journal of biomaterials science. Polymer edition"
+        }
+      ],
+      "top_t2_papers": []
     },
     {
       "ingredient_id": "copper_peptide",
