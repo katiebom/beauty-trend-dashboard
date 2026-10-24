@@ -1,0 +1,198 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42919247",
+      "title": "Exosomal KL-6 surpasses total plasma KL-6 in the diagnosis of Interstitial Lung Disease (ILD).",
+      "abstract": "Krebs Von den Lungen-6 (KL-6) is an established biomarker for interstitial lung diseases (ILDs), but the utility of exosomal KL-6 versus plasma KL-6 in connective tissue disease-associated ILD (CTD-ILD) remains unclear.",
+      "year": "2026",
+      "journal": "Respiratory research",
+      "authors": [
+        "Huang Huimin",
+        "Lai Ruogu",
+        "Li Junqi",
+        "Han Qian",
+        "Xiao Yunpeng"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Mucin-1",
+        "Lung Diseases, Interstitial",
+        "Female",
+        "Biomarkers",
+        "Exosomes",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Cohort Studies"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42919247/"
+    },
+    {
+      "pmid": "42910213",
+      "title": "Exosome-Based Therapies for Skin Aging: Sources, Mechanisms, and Evidence from Preclinical and Clinical Studies.",
+      "abstract": "Skin aging is an inevitable physiological process co-driven by endogenous genetic programs and exogenous environmental factors, characterized by the progressive deterioration of skin structure and function, which manifests as wrinkles, sagging, pigmentation, and impaired barrier function. Extracellular vesicles, particularly exosomes, are nanoscale membranous vesicles actively secreted by cells, functioning as pivotal mediators of intercellular communication through the transport of diverse bioactive molecules. Exosomes derived from diverse sources, including mesenchymal stem cells, somatic cells, plants, milk, and plasma, can effectively reverse skin aging through multiple mechanisms, such as alleviating oxidative damage, promoting collagen synthesis, inhibiting excessive expression of matrix metalloproteinases (MMPs), clearing senescent cells, and improving mitochondrial function. Additionally, engineering modifications and optimized delivery systems can further enhance the targeting ability and synergistic therapeutic efficacy of exosomes. However, the clinical application of exosomes remains constrained by exosome heterogeneity, the lack of standardized isolation and production methods, limited delivery efficiency, and insufficient long-term clinical evidence regarding safety and efficacy. This review systematically summarizes the fundamental research, mechanisms, and clinical evidence of exosomes in combating skin aging. We comprehensively explore the application prospects and challenges, emphasizing the significant values of different exosomes in combating skin aging.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Zhang Boyu",
+        "Xue Xinrong",
+        "Wu Yiping",
+        "Zhang Qi",
+        "Wu Min"
+      ],
+      "mesh_terms": [
+        "Exosomes",
+        "Humans",
+        "Skin Aging",
+        "Animals",
+        "Rejuvenation"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42910213/"
+    },
+    {
+      "pmid": "42906434",
+      "title": "Bioactive M2 exosome hybrid nanocomposites for immune therapy of psoriasis.",
+      "abstract": "Psoriasis is a chronic autoimmune skin disease characterized by persistent oxidative stress and sustained inflammation, affecting approximately 1-8% of the global population, with no curative therapy has been well-established to date. To address this, we developed a bioactive hybrid nanocomposite (Exo-Ce) by chemically conjugating M2 macrophage-derived exosomes with cerium oxide nanoparticles (CeNP), which was applied for synergistic and immunomodulatory therapy of psoriasis. This nanohybrid system effectively integrates the natural immunomodulatory properties of exosomes with the reliable antioxidant enzyme-mimetic activities of CeNP. In vitro, mild thiol-maleimide click chemistry minimizes exosome damage; Exo-Ce maintains parental M2-exosome core bioactivity and exhibits ROS-scavenging capacity, significantly reducing intracellular ROS levels and suppressing the secretion of pro-inflammatory cytokines (IL-6 and TNF-α). Following subcutaneous administration in an imiquimod (IMQ)-induced psoriasis mouse model, Exo-Ce markedly ameliorated psoriatic lesions, as evidenced by reduced lesional area, attenuated epidermal hyperkeratosis and acanthosis, and decreased immune cell infiltration. More specifically, Exo-Ce could promote the polarization of macrophages toward an anti-inflammatory M2 phenotype via its ROS-scavenging activity, as well as downregulate key psoriasis-associated cytokines (e.g., IL-1β and TNF-α), thereby facilitating the restoration of tissue homeostasis in vivo. Altogether, our findings position Exo-Ce as a biocompatible and synergistic nanohybrid platform for psoriasis immunotherapy, potentially offering a promising strategy for clinical translation.",
+      "year": "2026",
+      "journal": "Biomaterials advances",
+      "authors": [
+        "Wei Yanan",
+        "Chen Siyu",
+        "Yang Nengjie",
+        "Tao Xinyu",
+        "Zhang Hao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42906434/"
+    },
+    {
+      "pmid": "42903656",
+      "title": "Graphene oxide-induced multiple iPSC spheroid formation for enhanced production of angiogenic exosomes accelerating tissue regeneration.",
+      "abstract": "Exosome-based therapeutics have emerged as a promising cell-free strategy for tissue regeneration by coordinating angiogenesis and tissue repair. Induced pluripotent stem cell (iPSC)-derived exosomes are particularly attractive because of their regenerative potential and scalability; however, the reproducible and scalable production of functionally potent exosomes remains a major barrier to clinical translation. Here, we developed a graphene oxide (GO)-mediated nanoengineering strategy to establish a multi-spheroid platform that simultaneously regulates spheroid architecture, enhances exosome production, and improves angiogenic functionality in both iPSC spheroids and iPSC-derived vascular endothelial cell (vEC) spheroids. GO reproducibly reorganized cellular aggregation from a single dominant spheroid into multiple uniformly sized spheroids per well and increased exosome production while preserving characteristic vesicle properties. GO-engineered iPSC spheroid-derived exosomes exhibited distinct angiogenesis-related miRNA profiles and significantly enhanced endothelial cell migration and capillary-like network formation in vitro. Extending this strategy to iPSC-vEC spheroids further enhanced endothelial differentiation and generated lineage-specific exosomes with greater pro-angiogenic activity. In a rat full-thickness skin wound model, GO-engineered spheroid-derived exosomes accelerated wound closure and promoted vascularized skin regeneration. Collectively, these findings establish GO-mediated spheroid nanoengineering as a reproducible and potentially scalable strategy for producing therapeutically potent exosomes. By integrating controlled spheroid formation, enhanced exosome productivity, preserved vesicle characteristics, and improved angiogenic efficacy, this platform provides a practical framework for standardized exosome manufacturing and supports its future clinical translation toward vascular regenerative therapies.",
+      "year": "2026",
+      "journal": "Materials today. Bio",
+      "authors": [
+        "Kim Woochan",
+        "Sharma Harshita",
+        "Kim Dream",
+        "Lee Shinyull",
+        "Bhakuni Sefali"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42903656/"
+    },
+    {
+      "pmid": "42901383",
+      "title": "From Mesenchymal Roots to Pluripotent Reprogramming: Exosomal Crossroads in Regenerative Medicine.",
+      "abstract": "Despite growing interest in exosome-based regenerative therapies, conventional mesenchymal stem cell (MSC) and somatic cell derived exosomes face persistent translational barriers, including donor heterogeneity, ethical constraints, limited scalability, and batch-to-batch variability. It remains unclear how far induced pluripotent stem cell (iPSC) derived exosomes can address these limitations, and how their advantages and remaining translational barriers compare with those of established MSC exosome platforms. This review synthesizes current evidence on the biology, therapeutic applications, and bioengineering of exosomes across cellular sources, with a focus on critically comparing MSC- and iPSC-derived exosomes rather than cataloguing individual sources in isolation. iPSC-derived exosomes are, on the evidence reviewed here, the more promising long-term platform; their unlimited, genetically homogeneous, and engineerable source material addresses the donor heterogeneity, ethical, and scalability limits that constrain MSC exosomes at their root, rather than merely working around them. This advantage remains largely theoretical in practice, however, since iPSC exosome production, GMP manufacturing, and clinical validation currently lag behind the more established MSC exosome pipeline. Closing that gap, rather than the underlying biological case for iPSCs, is therefore the critical bottleneck this review identifies. The first registered human trials of iPSC derived exosomes have now appeared, in stable vitiligo, atopic dermatitis, and Moyamoya disease, but these small, early phase, and dermatology or topical delivery led, underscoring that closing translational gaps, GMP compliant and AI assisted manufacturing, standardized potency and safety assays, exosome specific rather than cell inherited genomic risk assessment, and clearr regulatory pathways will determine whether either platform, or a combination of both, moves from this narrow clinical foothold to routine use.",
+      "year": "2026",
+      "journal": "SLAS technology",
+      "authors": [
+        "Vardhan Movva Harsha",
+        "Srivastava Priyanka"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42901383/"
+    },
+    {
+      "pmid": "42894749",
+      "title": "Exosomes Derived from Sea Cucumbers in Indonesian Marine for Anti-Aging and Skin Regeneration.",
+      "abstract": "Indonesia's marine ecosystem is rich in biodiversity, including sea cucumbers that contain a range of potentially valuable bioactive compounds. Among these, exosomes-nanosized extracellular vesicles (EVs) that transport biological molecules between cells-are attracting interest as possible tools for anti-aging and skin regeneration. This review summarizes current knowledge about sea cucumber-derived exosomes and considers their potential applications in skincare and tissue repair. Sea cucumber exosomes may offer several advantages over the use of isolated compounds alone. Their vesicle structure can help protect and transport bioactive molecules, potentially supporting their delivery to target cells. Reported or proposed activities include antioxidant and anti-inflammatory effects, which may help limit oxidative stress and inflammation associated with skin aging. Exosomes may also support collagen production and skin elasticity, while promoting wound healing and tissue recovery. By influencing skin-cell communication and immune responses, they can contribute to a more coordinated regenerative process. These properties make sea cucumber exosomes a promising subject for research into multifunctional skincare approaches. Their potential use also highlights the value of Indonesia's marine resources and may encourage the development of locally sourced, nature-based products. However, sustainability depends on responsible harvesting and processing, and further research is needed to establish exosome composition, production methods, safety, efficacy, and long-term effects. In particular, laboratory findings must be validated through well-designed clinical studies before therapeutic or cosmetic claims can be confirmed. Overall, sea cucumber-derived exosomes from Indonesian marine ecosystems represent a promising area of research for anti-aging and skin regeneration. Their potential combination of bioactive cargo, cellular delivery, and regenerative effects may inform future skincare products and therapies, provided that development is supported by rigorous evidence and environmentally responsible practices.",
+      "year": "2026",
+      "journal": "International journal of nanomedicine",
+      "authors": [
+        "Muhaimin Muhaimin",
+        "Chaerunisaa Anis Yohana",
+        "Khairinisa Miski Aghnia",
+        "Wahyuningsih Eko Sri",
+        "Hartesi Barmi"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Exosomes",
+        "Sea Cucumbers",
+        "Humans",
+        "Regeneration",
+        "Indonesia",
+        "Skin Aging",
+        "Skin",
+        "Antioxidants",
+        "Wound Healing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42894749/"
+    },
+    {
+      "pmid": "42871309",
+      "title": "The active immune role of keratinocytes: from passive targets to key hubs in psoriatic inflammation.",
+      "abstract": "Psoriasis is a chronic immune-mediated inflammatory skin disease historically viewed as a disorder of keratinocyte hyperplasia, with subsequent recognition of central immune cell involvement. However, accumulating multi-omics and functional genomic evidence has reshaped this paradigm, positioning keratinocytes not merely as passive targets of immune attack but as active participants within a bidirectional epithelial-immune network that drives inflammatory initiation, maintenance, and amplification. This critical narrative review synthesizes the molecular mechanisms by which keratinocytes integrate genetic susceptibility, environmental triggers, metabolic reprogramming, and cell death programs to modulate psoriatic inflammation. We examine interleukin (IL)-1/IL-36 cytokines, the dual function of the antimicrobial peptide LL-37, danger signal release and dendritic cell recruitment, chemokine networks and exosome-mediated communication, the neuropeptide-keratinocyte axis, carbohydrate and lipid metabolic abnormalities, mitochondrial dysfunction and reactive oxygen species (ROS)-mediated feedback, epidermal barrier defects and microbiome dysregulation, diagnostic biomarkers, and therapeutic innovations. We further critically evaluate controversies, conceptual challenges, research gaps, and future directions. A keratinocyte-centric framework-situated within the broader context of epithelial-immune reciprocity-advances understanding of psoriasis pathogenesis and informs precision therapies targeting the barrier-immune axis.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Pei Yu"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Keratinocytes",
+        "Psoriasis",
+        "Animals",
+        "Inflammation",
+        "Skin Microbiome"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42871309/"
+    },
+    {
+      "pmid": "42858915",
+      "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Maas Derek",
+        "Spindler Archie",
+        "Zappi Isabella",
+        "Klufas Timothy",
+        "Zhou Albert E"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858915/"
+    },
+    {
+      "pmid": "42856030",
+      "title": "Artificial Regulatory T Cells Orchestrate Phase-Spanning Regeneration in Refractory Tissue Injuries.",
+      "abstract": "Regulatory T cells (Tregs) possess potent multiphasic reparative capacity; however, their application is limited by ethical and regulatory challenges associated with live cell therapies. Treg-derived exosomes (TExo) exhibit low immunogenicity while enriching regenerative signaling relative to parental Tregs. Current exosome carriers place greater emphasis on sustained release than on factors affecting vesicle stability, such as nonspecific interactions and confinement effects. Inspired by the multivesicular body (MVB), we engineered artificial Tregs (ATregs) with an MVB-like architecture that integrates vesicle protection with sustained release through a reconstructed storage microenvironment. This design enables phase-aligned TExo release and extends functional activity by more than an order of magnitude compared with free TExo. ATregs sequentially coordinate the suppression of inflammation, enhancement of angiogenesis, and stimulation of skin appendage regeneration. In diabetic wounds and deep second-degree burn models, which represent intrinsic repair dysfunction and severe structural tissue loss, ATregs markedly accelerate healing and outperform conventional strategies across murine and porcine models. These findings overcome the key limitations of exosome therapies and open a new avenue for next-generation regenerative therapeutics.",
+      "year": "2026",
+      "journal": "Advanced materials (Deerfield Beach, Fla.)",
+      "authors": [
+        "Li Bo",
+        "Li Jiale",
+        "Zhang Guowei",
+        "Li Cheng",
+        "Xie Denghui"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42856030/"
+    },
+    {
+      "pmid": "42844650",
+      "title": "Hierarchically Structured Microparticles Encapsulated With Multiple Plant-Derived Bioactives for Psoriasis Therapy.",
+      "abstract": "Traditional Chinese medicine bioactives have considerable therapeutic value in psoriasis management, while their clinical applications are still constrained by the insufficient therapeutic efficacy of single components, uncontrolled release, and low local bioavailability. In this study, we report a hierarchically structured microparticle system loaded with multiple plant-derived bioactives for psoriasis therapy. The microparticles of sodium alginate (SA) hydrogel with polydopamine (PDA)-modification were fabricated through microfluidics, co-loaded with paeoniflorin (PF) and ginger-derived exosome-like nanoparticles (GELNs). Benefiting from the porous structure of hydrogel and adhesive property of PDA, the microparticles enable stable co-encapsulation of multiple plant-derived bioactives and achieve sustained release at lesion sites, enhancing local bioavailability. The encapsulated PF and GELNs exert complementary anti-inflammatory, antioxidant, and anti-proliferative effects, collectively regulating key pathological processes associated with psoriasis. These results prove that the microparticle-based multiple plant-derived bioactives delivery system provides a safe, cost-effective, and translatable approach for long-term topical treatment of psoriasis, highlighting their therapeutic potential in inflammatory skin diseases.",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Chen Dingyuan",
+        "Lu Minhui",
+        "Zhao Yuanjin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42844650/"
+    }
+  ],
+  "crawled_at": "2026-10-24T23:00:53.465336",
+  "source": "pubmed"
+}

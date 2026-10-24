@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:51:27.709664",
+  "generated_at": "2026-10-24T23:01:25.265700",
   "total_ingredients": 48,
   "signals": [
     {
@@ -289,6 +289,52 @@
       ]
     },
     {
+      "ingredient_id": "tranexamic_acid",
+      "name_kr": "트라넥삼산",
+      "name_en": "Tranexamic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 4,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 5
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.5,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42919993",
+          "title": "Prospective Study of Hemoglobin Changes, Blood Loss, and the Role of Body Mass Index in Body Contouring Procedures.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "42910833",
+          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
+          "year": "2026",
+          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
+        },
+        {
+          "pmid": "42907601",
+          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42849392",
+          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
+          "year": "2026",
+          "journal": "International journal of biological macromolecules"
+        }
+      ]
+    },
+    {
       "ingredient_id": "cysteamine",
       "name_kr": "시스테아민",
       "name_en": "Cysteamine",
@@ -461,52 +507,6 @@
           "title": "Robustness Analyses Substantially Narrow in silico Network-Toxicology Signals Linking Selected Pharmaceuticals and Caffe",
           "year": "2026",
           "journal": "Clinical, cosmetic and investigational dermatology"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "tranexamic_acid",
-      "name_kr": "트라넥삼산",
-      "name_en": "Tranexamic Acid",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 3,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 14.8,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42910833",
-          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
-          "year": "2026",
-          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
-        },
-        {
-          "pmid": "42907601",
-          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        },
-        {
-          "pmid": "42864535",
-          "title": "The Impact of Tranexamic Acid Administration Route on Outcomes in Reduction Mammaplasty.",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42849392",
-          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
         }
       ]
     },

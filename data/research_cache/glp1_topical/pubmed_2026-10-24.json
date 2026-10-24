@@ -1,0 +1,397 @@
+{
+  "ingredient_id": "glp1_topical",
+  "name_en": "GLP-1 topical",
+  "name_kr": "GLP-1 외용",
+  "category": "anti_aging",
+  "query": "\"GLP-1\" AND (skin OR topical)",
+  "paper_count": 25,
+  "articles": [
+    {
+      "pmid": "42898660",
+      "title": "Glucagon-like peptide-1 receptor agonists and aesthetic surgery: perioperative safety, timing, durability and body composition.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual incretin agonists have transformed the management of obesity and type 2 diabetes and are rapidly reshaping the population seeking aesthetic surgery. By producing double-digit percentage weight loss, these agents expand eligibility for elective procedures while generating new patterns of skin redundancy, soft-tissue laxity, and facial volume depletion that drive demand for body contouring and facial rejuvenation. At the same time, incretin therapy introduces distinct perioperative considerations: delayed gastric emptying with possible pulmonary aspiration in symptomatic patients, gastrointestinal adverse effects that peak during dose escalation, loss of lean mass with rapid weight reduction, nutritional inadequacy during profound appetite suppression, and frequent weight regain after drug discontinuation, which threatens the durability of surgical results. This mini-review synthesizes current evidence on the mechanisms of GLP-1 RAs relevant to the reconstructive surgical patient, summarizes the evolving guidance from anesthesia societies, moving from blanket preoperative withholding to individualized risk stratification, reviews emerging outcome data on body contouring in GLP-1 RA users, and discusses body composition, sarcopenia risk, and nutritional optimization. We propose a pragmatic framework, anchored in weight stability and symptom burden, for timing elective aesthetic procedures relative to GLP-1 RA initiation, escalation, and maintenance, along with a multidisciplinary perioperative algorithm that links the endocrinologist, plastic surgeon, and anesthesiologist. As incretin-based pharmacotherapy expands globally, coordinated endocrine-surgical-anesthetic care will be essential to maximize safety, functional recovery, and patient satisfaction in the GLP-1 era.",
+      "year": "2026",
+      "journal": "Frontiers in endocrinology",
+      "authors": [
+        "Chaturvedi Richa",
+        "Singh Kuldeep",
+        "Chakole Rameshwari R",
+        "Yadav Bhupesh K",
+        "Dhameliya Juli"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Body Composition",
+        "Obesity",
+        "Diabetes Mellitus, Type 2",
+        "Plastic Surgery Procedures",
+        "Perioperative Care",
+        "Surgery, Plastic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42898660/"
+    },
+    {
+      "pmid": "42893183",
+      "title": "Energy-Based Devices for GLP-1 Receptor Agonist-Associated Facial Aging: A Tissue-Specific Safety Framework.",
+      "abstract": "Glucagon-like peptide-1 receptor agonist (GLP-1RA)-associated rapid weight loss may be accompanied by facial changes resembling accelerated aging, colloquially termed \"Ozempic face\". In this review, this proposed phenotype is termed GLP-1RA-associated facial accelerated aging (GLP-1RA-FAA) and is characterized primarily by facial volume loss and skin laxity, with possible but incompletely characterized alterations in dermal-adipose support, adipose-derived stem-cell biology, fibroblast-extracellular-matrix homeostasis, and facial muscle. Demand for energy-based device (EBD) treatment in this population is increasing; however, whether conventional EBD parameters are effective or safe in medication-associated facial volume depletion is unknown. A narrative review was informed by structured searches of PubMed/MEDLINE, Embase, Web of Science, and the Cochrane Library from January 2000 through August 31, 2026. Evidence was selected for clinical directness and relevance to radiofrequency, high-intensity focused ultrasound, broadband light, microwave, extracorporeal shock wave therapy, diode laser, and synchronized radiofrequency with high-intensity facial electrical stimulation. Available modalities differ in their intended tissue depth and in the potential relevance of three conceptual targets: preservation of adipose tissue, dermal fibroblast-extracellular-matrix remodeling, and facial muscle-SMAS support. Preclinical body-contouring studies suggest that sustained subcutaneous heating in the approximate 43-45°C range can be associated with adipocyte injury or apoptosis; however, no facial thermal dose threshold has been established, particularly in GLP-1RA-treated patients. No individual EBD modality has demonstrated simultaneous restoration of adipose, dermal, and muscle-related targets in prospective GLP-1RA-specific studies. Conservative control of treatment depth, careful avoidance of unnecessary deep energy deposition in volume-depleted regions, investigation of low-intensity dermal remodeling strategies, and evaluation of muscle-targeting approaches are proposed as research considerations. These concepts are hypothesis generating and do not constitute clinical recommendations or standards of care. Prospective controlled studies in well-characterized GLP-1RA-treated populations are required before device-specific protocols can be adopted.",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Cho Chang-Hwan",
+        "Koo Soyoun",
+        "Yoo Kyounghun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42893183/"
+    },
+    {
+      "pmid": "42889677",
+      "title": "Combination of Technologies in Body Contouring: Evidence Mapping and a Decision-Making Algorithm.",
+      "abstract": "Body contouring has evolved from a mainly surgical discipline into a multimodal field integrating suction lipectomy, energy-based devices (EBDs), pharmacologic adjuncts, and electromagnetic muscle stimulation. Applying several technologies to the same patient, sequentially or simultaneously, has outpaced the comparative evidence needed to guide their use, leaving surgeons without a structured framework for indication. This narrative review appraises the evidence by tissue target, adipose reduction, cutaneous retraction, and muscle definition, profiles each contemporary technology, and proposes a pragmatic decision-making algorithm anchored in the patient's clinical profile rather than a device hierarchy. Surgical-energy pairings, chiefly radiofrequency-assisted and helium plasma-assisted liposuction, show the most consistent additive skin retraction with acceptable safety. Non-invasive pairings, such as cryolipolysis with high-intensity focused electromagnetic (HIFEM) stimulation and synchronized radiofrequency-HIFEM, produce measurable but modest gains in fat and muscle tone. Pharmacologic adjuncts occupy a narrow niche. Separately, the growing population reshaped by glucagon-like peptide-1 (GLP-1) receptor agonists, presenting skin redundancy with disproportionate lean-mass loss, is emerging as a distinct candidate in whom excision remains primary and muscle-directed therapy gains a physiological rationale. Heterogeneous outcome metrics, a predominance of industry-sponsored series, and the absence of standardized sequencing protocols remain the principal limitations. Technologies are best paired through complementary tissue targets rather than redundant addition; the proposed algorithm stratifies candidates by adipose excess, cutaneous laxity, muscle tone, and scar tolerance to support a rational, individualized choice among monotherapy, sequential non-invasive strategies, and surgical-plus-EBD approaches.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Reichmann Losso Igo",
+        "Sousa Oliveira Luiz Augusto",
+        "Araújo Gomes Camila",
+        "Cabette Filho Nélio Nunes",
+        "da Costa Sacksida Valladão Victor"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42889677/"
+    },
+    {
+      "pmid": "42872378",
+      "title": "Glucagon-Like Peptide-1 Receptor Agonist-Associated Facial Changes: A Comprehensive Review of Pathophysiology, Clinical Manifestations, Risk Factors, Prevention, and Management.",
+      "abstract": "Facial hollowing, skin laxity, and more prominent folds are increasingly reported during weight loss with glucagon-like peptide-1 receptor agonists (GLP-1 RAs). The term 'Ozempic face' can imply a drug-specific adverse effect, although similar changes occur after other forms of substantial weight loss. This review examines the clinical evidence, proposed mechanisms, and implications for aesthetic care. PubMed, Embase, Web of Science, and Google Scholar were searched for January 2014 through August 2026. Selection was reported using PRISMA 2020 where applicable, followed by narrative synthesis. Of 958 records, 46 reports were included. Serial imaging in 20 patients showed a median 9% reduction in midfacial volume, with greater loss in superficial than deep compartments (11% vs 7%). Regression estimated approximately 7% total midfacial volume loss per 10 kg lost. A FACE-Q short-form has been validated, and a survey of 1,226 participants found more reports of facial volume loss and laxity with greater percentage weight loss. Post-bariatric studies also describe facial deflation and increased apparent age, particularly in older patients and after larger losses. Current evidence favors weight-loss-associated deflation superimposed on baseline anatomy and aging. The independent effect of weight-loss rate and the modifying roles of menopause and hormone therapy remain uncertain. Aesthetic treatment evidence is limited and largely uncontrolled.",
+      "year": "2026",
+      "journal": "Aesthetic surgery journal",
+      "authors": [
+        "Yoo Kwang-Ho"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42872378/"
+    },
+    {
+      "pmid": "42866752",
+      "title": "Diagnostic potential of microRNA signatures in differentiating GLP-1-associated accelerated skin senescence from intrinsic aging in facelift candidates.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Annals of medicine and surgery (2012)",
+      "authors": [
+        "Uzma Fnu",
+        "Zeeshan Fnu",
+        "Saqlain Ali"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42866752/"
+    },
+    {
+      "pmid": "42864543",
+      "title": "Beyond Weight Loss: Facial Remodeling Associated with GLP-1 Receptor Agonists-A Systematic Review and Therapeutic Framework.",
+      "abstract": "Facial volume depletion and skin laxity have increasingly been reported during weight loss associated with glucagon-like peptide-1 receptor agonist (GLP-1RA) treatment. However, these changes are not recognized as a distinct clinical entity and may overlap with those occurring after other forms of rapid or massive weight loss. Evidence regarding their treatment remains limited.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Maglitto Fabio",
+        "Salzano Giovanni",
+        "Trotta Serena",
+        "Manzo Eutilia",
+        "Vaira Luigi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42864543/"
+    },
+    {
+      "pmid": "42863769",
+      "title": "The Metabolic-Dermatologic Axis: GLP-1/GIP Agonists as Emerging Immunometabolic Therapies for Obesity-Associated Skin Disease.",
+      "abstract": "Obesity is increasingly recognized as a systemic determinant of dermatologic disease rather than merely a comorbidity accompanying skin disorders. Excess adiposity promotes insulin resistance, adipose-tissue dysfunction, chronic low-grade inflammation, altered immune responses, vascular abnormalities, mechanical stress, and impaired tissue repair, thereby influencing the development and severity of inflammatory and metabolic dermatoses. Psoriasis, hidradenitis suppurativa (HS), psoriatic arthritis (PsA), acanthosis nigricans, intertriginous disease, and impaired wound healing exemplify conditions in which metabolic and cutaneous pathways are closely interconnected. This relationship provides the biological basis for the concept of a metabolic-dermatologic axis, in which adipose tissue, systemic metabolism, immune activation, and cutaneous inflammation interact bidirectionally.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Biondi Fabio",
+        "Veneziano Giulia",
+        "Guida Stefania",
+        "Rongioletti Franco"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42863769/"
+    },
+    {
+      "pmid": "42863768",
+      "title": "Cutaneous Effects and Aesthetic Management of Glucagon-like Peptide-1 Receptor Agonists: A Narrative Review.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are among the most widely prescribed medications in the United States, with expanding indications beyond type-2 diabetes mellitus to include obesity, cardiovascular risk reduction, and metabolic dysfunction-associated steatohepatitis. As their utilization increases, the dermatologic effects of these agents become increasingly relevant to clinical practice. This narrative review examines the cutaneous effects of GLP-1RAs across six domains: facial volume loss and accelerated skin aging, changes in hair density, wound healing, striae distensae and body skin laxity, cutaneous adverse events, and emerging therapeutic benefits in inflammatory skin disease. Herein, we review proposed mechanisms and evidence-based management strategies for each domain, including biostimulatory fillers, energy-based devices, nutritional optimization, and pharmacologic interventions. Prospective, large-scale clinical studies are needed to clarify mechanisms of GLP-1RA modulation in skin and to guide management of these AEs as next-generation agents enter clinical practice.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Hu Benjamin D",
+        "Chau Courtney A",
+        "Ghalili Sabrina",
+        "Navrazhina Kristina",
+        "Guttman-Yassky Emma"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42863768/"
+    },
+    {
+      "pmid": "42860897",
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists in Multiple Sclerosis: A Topical Narrative Review.",
+      "abstract": "The glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) are a relatively new class of drugs that were initially approved by the US Food and Drug Administration to improve glycemic control in patients with type 2 diabetes mellitus and, subsequently, weight reduction in patients with obesity. Multiple sclerosis (MS) is commonly associated with comorbidities for which GLP-1RAs are indicated. An increasing prevalence of comorbid chronic diseases has increased the number of people living with MS (pwMS) who are prescribed a GLP-1RA, for indications of obesity, diabetes, obstructive sleep apnea, metabolic-associated steatohepatitis, and/or chronic kidney disease. This review addresses the following key considerations: (1) the use of GLP-1RAs for weight loss in pwMS and obesity, including considerations related to drug tolerability and safety; (2) the efficacy of the GLP-1RAs for their approved non-MS indications in pwMS; and (3) the potentially pleiotropic effects of the GLP-1RAs on the MS disease course beyond their approved indications.",
+      "year": "2026",
+      "journal": "Annals of clinical and translational neurology",
+      "authors": [
+        "Chang Audrey Y",
+        "Mateen Farrah J"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42860897/"
+    },
+    {
+      "pmid": "42858788",
+      "title": "\"Ozempic Face\" and Facial Aging.",
+      "abstract": "The widespread adoption of glucagon-like peptide-1 (GLP-1) receptor agonists has introduced a growing clinical challenge for dermatologists and cosmetic practitioners: managing the facial changes associated with rapid weight loss. The term \"Ozempic face\" has entered popular vocabulary to describe the appearance of accelerated facial aging in patients on these medications, characterized by volume deflation, skin laxity, and loss of structural support. This review examines the anatomical and histological basis of these changes, with attention to the roles of dermal white adipose tissue (dWAT), skeletal remodeling, and sarcopenia. We discuss the clinical presentation of weight-loss-associated facial change and outline a practical framework for patient assessment and counseling. The timing and sequencing of interventions across the weight loss journey are addressed, with emphasis on a health-first approach that prioritizes tissue preservation. As GLP-1 receptor agonists expand into new therapeutic indications, including inflammatory skin diseases, dermatology clinicians are uniquely positioned to counsel and manage patients experiencing these changes.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Fathizadeh Sam",
+        "Hwang Angelina S",
+        "Hoss Elika"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858788/"
+    },
+    {
+      "pmid": "42830623",
+      "title": "Effects of GLP-1 receptor agonists on aesthetic surgery practice: A contemporary review.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have become increasingly relevant to aesthetic surgery because of the significant weight loss they provide in the treatment of type 2 diabetes mellitus and obesity. While these agents expand the pool of surgical candidates, they also raise new clinical questions related to rapid or substantial weight loss, including soft tissue volume loss, skin laxity, nutritional deficiencies, perioperative safety concerns, and the durability of aesthetic surgical outcomes. This contemporary narrative review evaluated the current implications of GLP-1 RAs in aesthetic plastic surgery practice. A targeted PubMed/MEDLINE search covering January 2015 through August 2026 was supplemented by manual reference screening. Retrospective cohorts, database analyses, prospective observational studies, systematic reviews, survey studies, case reports, and selected guidance or opinion articles were evaluated. Current literature indicates increasing demand for facial aesthetic, breast aesthetic, and body contouring procedures among patients using GLP-1 RAs. The facial volume loss and skin laxity popularly described as \"Ozempic face\" more plausibly reflect rapid or substantial weight loss than a proven drug-specific facial effect. Although the breast surgery literature remains limited, upper-pole volume loss, ptosis, reduced soft tissue support, and healing problems along high-tension closure lines are noteworthy. Outcomes in body contouring surgery are heterogeneous: While some studies report comparable complication rates, others emphasize delayed wound healing, wound dehiscence, altered scar behavior, or nutrition-related risks. Surgical timing, weight stabilization, nutritional balance, and individualized perioperative aspiration-risk assessment are key areas of evaluation. GLP-1 RA use should be considered neither an absolute advantage nor an automatic contraindication in aesthetic surgery. Direct pharmacologic effects often cannot be separated from the consequences of weight loss or baseline metabolic risk. Surgical decision-making should be individualized based on weight stability, metabolic optimization, nutritional status, history of bariatric surgery, psychological adaptation, and procedure-specific risks. Current evidence is promising but heterogeneous, and prospective studies are needed to clarify long-term aesthetic outcomes and procedure-specific risks.",
+      "year": "2026",
+      "journal": "Turkish journal of surgery",
+      "authors": [
+        "Ersan Mert",
+        "Özturhan Orhan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42830623/"
+    },
+    {
+      "pmid": "42820120",
+      "title": "Beyond Skin Laxity: GLP-1 Receptor Agonist-Induced Lean Mass Depletion and Surgical Tissue Quality in Aesthetic Surgery: A Narrative Review.",
+      "abstract": "The aesthetic surgery literature on GLP-1 receptor agonists (GLP-1 RAs) has focused predominantly on facial volume depletion and perioperative anesthetic risk. Less attention has been paid to lean soft tissue changes accompanying rapid GLP-1-induced weight loss. For procedures dependent on structural tissue quality-superficial musculoaponeurotic system robustness in facelift, fascial integrity in abdominoplasty, and adipose viability in fat grafting-this is clinically relevant and underexamined. The aim of this study was to characterize GLP-1 RA-associated lean mass loss, distinguish it from age-related sarcopenia, examine the surgical domains where tissue-quality effects are most plausible, and propose a preoperative framework and research agenda. Narrative review combining GLP-1 RA trial body composition data with mechanistic and surgical outcome literature. A targeted literature search was performed using PubMed, Embase, and Web of Science (inception to March 2026). Direct outcome data in GLP-1 RA aesthetic surgery patients are limited to 2 case reports and 1 small cohort; surgical implications remain inferential. Lean soft tissue loss comprising ∼25% to 30% of total weight lost is consistently reported across GLP-1 RA trials. This loss is pharmacologically distinct from age-related sarcopenia, occurring with reduced systemic inflammation and potential reversibility. Current evidence does not support modifying surgical technique in GLP-1 RA patients as a class. Increasing prevalence mandates that surgeons consider body composition-not simply weight-preoperatively. A subgroup with rapid weight loss, inadequate protein intake, and absent resistance training may warrant structured preoperative consideration. For fat grafting, cessation timing and metabolic rebound represent bidirectional uncertainties requiring prospective investigation. Level of Evidence: 5 (Therapeutic).",
+      "year": "2026",
+      "journal": "Aesthetic surgery journal. Open forum",
+      "authors": [
+        "Cuggy Conor",
+        "O'Broin Eoin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42820120/"
+    },
+    {
+      "pmid": "42822650",
+      "title": "Glucagon-like peptide-1 receptor agonists in psoriasis management.",
+      "abstract": "Psoriasis is a chronic, systemic inflammatory skin disease associated with musculoskeletal, cardiovascular, metabolic, psychiatric, and gastrointestinal comorbidities. Glucagon-like peptide-1 (GLP-1) receptor agonists and dual glucose-dependent insulinotropic polypeptide/GLP-1 receptor agonists have emerged as potential therapeutic adjuncts for psoriasis because, beyond their metabolic effects, these agents exhibit anti-inflammatory properties and may reduce cytokine expression and inflammatory biomarkers. This review summarizes current evidence from randomized trials and nonrandomized studies on GLP-1 receptor agonists and dual glucose-dependent insulinotropic polypeptide/GLP-1 receptor agonists in patients with psoriasis and discusses their potential role in disease management. Observational studies of liraglutide, semaglutide, exenatide, dulaglutide, and tirzepatide generally showed improvements in psoriasis severity, body weight, metabolic parameters, inflammatory biomarkers, and quality of life, although most studies were limited by small sample sizes and uncontrolled designs. Randomized trials likewise suggest dermatologic benefit, particularly in patients with obesity, type 2 diabetes mellitus, or both. Most notably, the phase 3b TOGETHER trial demonstrated greater skin clearance and weight reduction with ixekizumab plus tirzepatide than with ixekizumab alone in patients with moderate-to-severe psoriasis and overweight or obesity. Complementary findings from the TOGETHER-Psoriatic Arthritis trial showed improvement in psoriatic arthritis disease activity as early as week four, before clinically meaningful weight loss, supporting the potential weight-independent anti-inflammatory effects of these agents. Future studies should include patients without obesity or diabetes to clarify the relative contributions of weight loss and direct anti-inflammatory effects to clinical response and determine whether the dermatologic benefits of GLP-1-based therapies extend to patients without underlying metabolic dysfunction.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Cutrona Marley",
+        "Talia Jordan",
+        "Cices Ahuva"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42822650/"
+    },
+    {
+      "pmid": "42790605",
+      "title": "Glucagon-like peptide-1 receptor agonists in hidradenitis suppurativa: A narrative review of emerging evidence.",
+      "abstract": "Hidradenitis suppurativa (HS) is a chronic inflammatory skin disease characterized by painful nodules, abscesses, and draining tunnels involving intertriginous areas. It frequently occurs alongside disorders of metabolic dysfunction including obesity, insulin resistance, and metabolic syndrome. HS places a substantial quality-of-life burden on its patients. Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs), widely used for the management of type 2 diabetes and obesity, have emerged as promising candidates in managing HS. This narrative review synthesizes current evidence on the metabolic basis of HS and evaluates the role of GLP-1 RAs as adjunctive therapy. Collectively, these studies report improvements in disease activity measures as well as quality-of-life indices and health care utilization. Database analyses demonstrate associations with fewer cardiovascular events and improved extracutaneous outcomes. To date, no randomized controlled trials have evaluated GLP-1 RAs in HS. Current evidence is limited to observational studies, uncontrolled trials, and case reports. Concomitant treatments, lack of control groups, and selection bias limit causal inference. Although findings suggest there is proof of concept for GLP-1 RA therapy in HS, rigorous randomized controlled trials with standardized efficacy measures and adequate sample sizes are essential to establish clinical efficacy and define the role of GLP-1 RAs in the management of HS.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Silberzweig Alex",
+        "Garg Amit"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42790605/"
+    },
+    {
+      "pmid": "42779274",
+      "title": "Molecular insights into GLP-1 receptor agonists and emerging metabolic-inflammatory targets in hidradenitis suppurativa.",
+      "abstract": "Hidradenitis suppurativa (HS) is increasingly recognized as a systemic immunometabolic disease associated with obesity, insulin resistance, and metabolic syndrome (MetS). A metabolically unhealthy lean phenotype indicates that metabolic dysfunction and chronic low-grade inflammation may occur independently of increased body mass index (BMI) in patients with HS. Reduced effectiveness of biologic therapies in patients with obesity further supports targeting the upstream metabolic drivers of inflammation.",
+      "year": "2026",
+      "journal": "Expert opinion on therapeutic targets",
+      "authors": [
+        "Brogaard Emma",
+        "Nielsen Valdemar Wendelboe",
+        "Pedersen Nadja Højgaard",
+        "Thomsen Simon Francis"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42779274/"
+    },
+    {
+      "pmid": "42768237",
+      "title": "Hidradenitis Suppurativa from Preconception to Lactation: Clinical Treatment Decision-Making Review.",
+      "abstract": "Hidradenitis suppurativa is a chronic, inflammatory skin disease that predominantly affects women of reproductive age and may require continuous therapeutic control during pregnancy and lactation. This review summarizes current evidence on the safety and practical use of topical, systemic, biologic, metabolic, and procedural therapies for HS throughout the preconception, gestational, peripartum, and breastfeeding periods. Topical clindamycin, benzoyl peroxide, chlorhexidine, and selected beta-lactam antibiotics appear to represent preferred options for mild disease or acute flares, whereas tetracyclines, retinoids, spironolactone, apremilast, Janus kinase inhibitors, and most glucagon-like peptide-1 (GLP-1) receptor agonists require avoidance or discontinuation because of fetal or neonatal safety concerns. Among biologics, tumor necrosis factor-α inhibitors remain the best-characterized agents, with certolizumab pegol offering minimal placental transfer and adalimumab or infliximab requiring individualized decisions regarding continuation and timing of discontinuation. Evidence for newer agents, including secukinumab and bimekizumab, is evolving but remains more limited. The review also highlights the importance of preconception counseling, medication transition, multidisciplinary delivery planning, postpartum flare prevention, breastfeeding-compatible therapy, and individualized procedural management. The management considerations presented herein are intended to support individualized clinical decision-making and should not be interpreted as formal guideline recommendations.Graphical abstract available for this article.",
+      "year": "2026",
+      "journal": "Dermatology and therapy",
+      "authors": [
+        "Lewandowski Miłosz",
+        "Szablewska Wiktoria",
+        "Sławińska Martyna",
+        "Kujach Aleksandra",
+        "Nowicki Roman J"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42768237/"
+    },
+    {
+      "pmid": "42761689",
+      "title": "Aesthetic Considerations for Preventing and Managing GLP-1 Receptor Agonist-Related Facial Aging.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly prescribed for obesity and type 2 diabetes, resulting in rapid or massive weight loss (MWL) that can profoundly affect facial adipose tissue (AT) and skin homeostasis. Facial AT, comprising dermal, subcutaneous, and deep layers, plays a critical role in structural support, extracellular matrix (ECM) maintenance, and paracrine signaling to fibroblasts and keratinocytes. GLP-1 RA-MWL leads to AT depletion, with associated skin laxity, volume loss, and accelerated aging, particularly in periorbital and midfacial regions. Concurrently, improved glycemic control reduces advanced glycation end products, dampens inflammation, and preserves collagen integrity, highlighting the complex effects on the cutaneous microenvironment.",
+      "year": "2026",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "Bommareddy Kanthi",
+        "Fabi Sabrina",
+        "Muniz Mariana"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42761689/"
+    },
+    {
+      "pmid": "42749027",
+      "title": "From Gila Monster Venom to Dermatology: The History of GLP-1 Receptor Agonists.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have evolved from novel therapies for type 2 diabetes mellitus into widely used treatments for obesity and metabolic disease. Their origins can be traced to the Gila monster (Heloderma suspectum), a venomous lizard native to the deserts of the southwestern United States and northwestern Mexico. The discovery of exendin-4, a peptide isolated from the venom of the Gila monster, led to the subsequent development of longer acting GLP-1RAs. Long before its contribution to modern medicine would be recognized, the Gila monster was revered in Navajo culture and folklore. We have examined the historic development of GLP-1 RAs, from the natural history and cultural significance of the Gila monster to the discovery of exendin-4 and the subsequent development of modern therapeutics. We describe the scientific advances that led to the translation of a venom-derived peptide into a major therapeutic class, including the development of exenatide, liraglutide and semaglutide. The history of GLP-1 receptor agonists demonstrates how observations in nature can lead to major therapeutic advances. What began with a view of a venomous desert lizard has evolved into one of the most important therapeutic classes in modern metabolic medicine, with expanding therapeutic applications in dermatology. The Gila monster (Heloderma suspectum) is a venomous lizard native to the deserts of the southwestern United States and northwestern Mexico. Long revered in indigenous cultural traditions, the Gila monster made an unexpected contribution to modern medicine. The discovery of exendin-4, a peptide within its venom, ultimately led to the development of glucagon-like peptide-1 receptor agonists (GLP-1RAs), representing one of the most significant therapeutic advances in modern metabolic medicine. GLP-1RAs are synthetic polypeptides that mimic the actions of the endogenous incretin hormone glucagon-like peptide-1. Initially developed for the treatment of type 2 diabetes mellitus, they have transformed obesity management and are now among the most widely prescribed therapies worldwide. As recognition of obesity has emerged as a major global public health challenge, GLP-1RAs have provided an effective pharmacologic approach to weight management. According to the World Health Organization, more than 1 billion people worldwide have been living with obesity as of 2022 [1]. The success of GLP-1RAs can be traced to the discovery of exendin-4, a peptide isolated from Gila monster venom that shares key biologic properties with human GLP-1 while demonstrating greater resistance to enzymatic degradation. Emerging evidence suggests that GLP-1RAs may influence inflammatory skin disease through a combination of weight reduction, improvements in metabolic health, and modulation of inflammatory and immune pathways [2]. This has generated increasing interest in the potential applications of GLP-1RAs within dermatology. In this review, we have examined the cultural significance and physiologic adaptations of the Gila monster, the discovery of exendin-4 and the subsequent development of GLP-1 RAs from venom-derived peptide to an expanding modern therapeutic class. We have explored how observations from a venomous desert lizard has translated into one of the most important therapeutic advances in metabolic medicine with evolving therapeutic applications in dermatology.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Dyson Sarah",
+        "Hoenig Leonard",
+        "Levell Nick J"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42749027/"
+    },
+    {
+      "pmid": "42741157",
+      "title": "Glucagon-like peptide-1 receptor agonists and tirzepatide are associated with reduced mortality, cardiovascular, and psychiatric risks in patients with hidradenitis suppurativa and type 2 diabetes and/or obesity: a retrospective cohort study.",
+      "abstract": "Hidradenitis suppurativa (HS) is a chronic inflammatory skin disease strongly associated with obesity and diabetes mellitus type 2 (T2D). GLP-1 receptor agonists (GLP-1RAs) and tirzepatide are increasingly used for metabolic control, but their systemic effects in HS remain poorly characterized.",
+      "year": "2026",
+      "journal": "Frontiers in medicine",
+      "authors": [
+        "Brouer Inga C",
+        "Zani Aida",
+        "Olbrich Henning",
+        "Ludwig Ralf J",
+        "Thaçi Diamant"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741157/"
+    },
+    {
+      "pmid": "42727867",
+      "title": "Where the Future Lies: GLP-1 Receptor Agonists as Therapeutics for Dermatologic Comorbidities.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed the management of obesity, type 2 diabetes mellitus, and cardiometabolic disease through effects on weight reduction, glycemic control, and systemic inflammation. Their varied immunometabolic actions have generated increasing interest in dermatology, where chronic inflammatory skin diseases frequently coexist with obesity, insulin resistance, metabolic syndrome, and cardiovascular disease. Emerging evidence from clinical trials, observational studies, and real-world analyses suggests that GLP-1RAs may improve outcomes in psoriasis, hidradenitis suppurativa, and atopic dermatitis while simultaneously reducing the burden of associated metabolic and cardiovascular comorbidities. In psoriasis, combination therapy with tirzepatide has demonstrated enhanced skin clearance, substantial weight loss, and reduced risk of psoriatic arthritis. In hidradenitis suppurativa and atopic dermatitis, GLP-1RAs have been associated with improvements in cardiometabolic outcomes and reductions in systemic complications. Collectively, these findings support an evolving paradigm in which the greatest therapeutic utility of GLP-1RAs in dermatology may lie not only in direct modulation of cutaneous inflammation but also in addressing the metabolic dysfunction and chronic systemic inflammation that drive disease severity and multimorbidity. We review the current clinical evidence and propose a conceptual framework positioning GLP-1RAs as immune-metabolic therapies that target the systemic comorbidities of inflammatory skin disease, highlighting future opportunities for disease modification and integrated dermatologic care.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "DeCoster Mikaela",
+        "Narla Shanthi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42727867/"
+    },
+    {
+      "pmid": "42710719",
+      "title": "Glucagon-like peptide-1 receptor agonists in dermatology: ethical considerations.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have generated growing interest in dermatology for their potential anti-inflammatory and immunomodulatory effects on skin disease, in addition to their metabolic benefits. As their use expands beyond established indications for type 2 diabetes and obesity, important ethical challenges have emerged. This review explores the ethical considerations surrounding GLP-1 RA use in dermatology through the principles of autonomy, beneficence, non maleficence, and justice. Notable issues include disparities in access and affordability, compounded formulations, social media misinformation, scope-of-practice considerations in prescribing, and informed consent. Evidence suggests that racial, ethnic, socioeconomic, and insurance-related disparities limit access to GLP-1 RAs, while increasing off-label and cosmetic use may worsen medication shortages and inequitable distribution. Compounded agents may improve access but introduce concerns about product quality, safety, counterfeit medications, and inadequate patient counseling. Social media and direct-to-consumer marketing contribute to misinformation, unrealistic outcome expectations, and demand-driven shortages. Emerging dermatologic evidence supports potential benefits of GLP-1 RAs for hidradenitis suppurativa and psoriasis, raising questions about appropriate prescribing authority and side effect monitoring responsibilities for dermatologists. Limited long term safety data for off-label GLP-1 RA use highlights the importance of transparent patient counseling and shared decision-making when prescribing these agents. As GLP-1 RA use continues to expand, dermatologists must balance potential therapeutic benefits with broader societal considerations. Ethical stewardship through evidence based prescribing, informed consent, adverse effect monitoring, patient education, and advocacy for equitable treatment access is essential to maximizing patient benefit, minimizing harm, and preserving fair access.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Deitelzweig Chelsea",
+        "Rahim Fatima",
+        "Stoff Benjamin K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710719/"
+    },
+    {
+      "pmid": "42691159",
+      "title": "(Un)intended consequences of mass-prescribing GLP-1s.",
+      "abstract": "It is difficult to overstate how much glucagon-like peptide-1 (GLP-1) pharmacotherapies have inundated the public discourse on obesity. An avalanche of scientific papers, news articles, and social media posts debate the efficacy, affordability, and appropriateness of GLP-1 receptor agonists not just for obesity but also skin disease, erectile dysfunction, pregnancy, and addiction. Attempting to cut through the noise, the World Health Organization (WHO) recently published the first-ever global guidelines recommending GLP-1s for the treatment of obesity, while committing to develop a global framework ensuring \"fair access\" to these medicines for the 1 billion people affected worldwide. Going deeper, the guidelines also advocate for \"robust populationlevel policies\" to address the root causes of obesity in unhealthy food environments. However, to complicate these efforts, WHO's recommendations unfold at a time rife with competitive pressures among pharmaceutical companies, food companies vying for the GLP-1 market segment, and wellness companies promoting supplements and telemedicine programs for what is being billed as a GLP-1 lifestyle. This commercial milieu is ripe for unintended consequences that conspire against fair access to these medicines.",
+      "year": "2026",
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Hagenaars Luc L",
+        "Schmidt Laura A"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Obesity",
+        "World Health Organization",
+        "Drug Prescriptions",
+        "Semaglutide",
+        "Anti-Obesity Agents",
+        "Practice Guidelines as Topic"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42691159/"
+    },
+    {
+      "pmid": "42685919",
+      "title": "Where the future lies: GLP-1 receptor agonists as therapeutics for dermatologic comorbidities.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed the management of obesity, type 2 diabetes mellitus, and cardiometabolic disease through effects on weight reduction, glycemic control, and systemic inflammation. Their varied immunometabolic actions have generated increasing interest in dermatology, where chronic inflammatory skin diseases frequently coexist with obesity, insulin resistance, metabolic syndrome, and cardiovascular disease. Emerging evidence from clinical trials, observational studies, and real-world analyses suggests that GLP-1RAs may improve outcomes in psoriasis and hidradenitis suppurativa while simultaneously reducing the burden of associated metabolic and cardiovascular comorbidities. In psoriasis, combination therapy with tirzepatide has demonstrated enhanced skin clearance, substantial weight loss, and reduced risk of psoriatic arthritis. In hidradenitis suppurativa, GLP-1RAs have been associated with improvements in cardiometabolic outcomes and reductions in systemic complications. Collectively, these findings support an evolving paradigm in which the greatest therapeutic utility of GLP-1RAs in dermatology may lie not in direct modulation of cutaneous inflammation but in addressing the metabolic dysfunction and chronic systemic inflammation that drive disease severity and multimorbidity. We review the current clinical evidence and propose a conceptual framework positioning GLP-1RAs as immune-metabolic therapies that target the systemic comorbidities of inflammatory skin disease, which may provide future opportunities for cutaneous disease modification and integrated dermatologic care.",
+      "year": "2026",
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "DeCoster Mikaela",
+        "Narla Shanthi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685919/"
+    },
+    {
+      "pmid": "42683449",
+      "title": "Dramatic Improvement of Treatment-Refractory Prurigo Nodularis Following Initiation of Semaglutide: A Case Report.",
+      "abstract": "Prurigo nodularis (PN) is a chronic inflammatory dermatosis characterized by intensely pruritic hyperkeratotic nodules affecting the trunk and extremities. Despite an expanding therapeutic armamentarium including dupilumab and nemolizumab, a subset of patients remains inadequately controlled. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), widely used in the management of type 2 diabetes and obesity, have provided emerging evidence supporting immunomodulatory and anti-inflammatory effects in several chronic inflammatory dermatoses. We report the case of a 64-year-old man with severe, treatment-refractory PN who had failed multiple lines of therapy over four years, including potent topical corticosteroids, dupilumab, and methotrexate. Following initiation of semaglutide for obesity, and with no change to his background PN treatment, a dramatic and progressive clinical improvement was observed. To our knowledge, this is the first reported case of PN improvement under GLP-1 RA therapy. The potential mechanisms underlying this benefit include modulation of low-grade chronic inflammation, direct effects on GLP-1 receptor-expressing immune cells, possible modulation of Th2 immune response, and anti-nociceptive action on pruritus via central and peripheral neuro-immune pathways. This observation highlights the potential of GLP-1 RAs as adjunctive therapy in refractory inflammatory dermatoses and warrants further investigation.",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Fougerousse Anne-Claire"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42683449/"
+    },
+    {
+      "pmid": "42663556",
+      "title": "Glucagon-like peptide-1 receptor agonist treatment is associated with lower frequency of diabetic peripheral neuropathy and neuropathic pain in type 2 diabetes.",
+      "abstract": "In this cross-sectional study, we investigated the frequency of diabetic peripheral neuropathy (DPN) and DPN-related neuropathic pain (painful DPN) in 500 consecutively enrolled patients with type 2 diabetes mellitus receiving standard treatment (n = 208), sodium-glucose cotransporter-2 inhibitors (SGLT2i; n = 152), or glucagon-like peptide-1 receptor agonists (GLP-1 RAs; n = 140). DPN was assessed through neurological examination, nerve conduction study, and skin biopsy when indicated; painful DPN was diagnosed using the grading system for neuropathic pain. Neuropathy severity and pain intensity were quantified with the Toronto Clinical Neuropathy Score, Pain Numerical Rating Scale, and Neuropathic Pain Symptom Inventory. The overall frequency of DPN was 58.6%, and painful DPN occurred in 26.2% of patients. GLP-1 RA treatment was associated with a lower frequency of DPN (46.4% vs 60.6% in the standard treatment group) and painful DPN (10.1% vs 35.1% and 28.3% in the standard treatment and SGLT2i groups, respectively). After adjustment for clinical and metabolic covariates, GLP-1 RA treatment was independently associated with lower odds of DPN (odds ratio [OR] 0.60, 95% confidence interval [CI] 0.37-0.96) and painful DPN (OR 0.32, 95% CI 0.15-0.65). Neuropathy severity and pain intensity were also lower in patients receiving GLP-1 RAs. GLP-1 RA treatment was associated with a reduced frequency and severity of both DPN and painful DPN, independent of clinical and metabolic covariates. While these findings suggest potential neuroprotective and antinociceptive effects, longitudinal studies are needed to establish causality and clarify the underlying mechanisms.",
+      "year": "2026",
+      "journal": "Pain",
+      "authors": [
+        "Falco Pietro",
+        "Di Flaviani Alessandra",
+        "Galosi Eleonora",
+        "Angotti Stefania",
+        "De Stefano Gianfranco"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Diabetic Neuropathies",
+        "Male",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Diabetes Mellitus, Type 2",
+        "Neuralgia",
+        "Middle Aged",
+        "Cross-Sectional Studies",
+        "Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42663556/"
+    }
+  ],
+  "crawled_at": "2026-10-24T23:01:22.961732",
+  "source": "pubmed_emerging"
+}

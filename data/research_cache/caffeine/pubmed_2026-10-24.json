@@ -1,0 +1,181 @@
+{
+  "ingredient_id": "caffeine",
+  "name_en": "Caffeine",
+  "name_kr": "카페인",
+  "category": "pore_texture",
+  "query": "\"Caffeine\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 9,
+  "articles": [
+    {
+      "pmid": "42903526",
+      "title": "From Nutritional Epidemiology to Clinical Prediction: Interpretable Machine Learning Reveals Subtle Associations Between Dietary Antioxidant Profiles and Non-Melanoma Skin Cancer in Older Adults.",
+      "abstract": "The growing burden of non-melanoma skin cancer (NMSC) among older adults underscores the need for early risk prediction based on modifiable dietary factors. In this cross-sectional study using data from the 2007-2010 and 2017-2018 cycles of the National Health and Nutrition Examination Survey (NHANES), we evaluated dietary antioxidant profiles and developed an interpretable machine learning model for NMSC risk prediction. Baseline feature analysis revealed that participants with NMSC generally had higher socioeconomic status and higher oxidative balance scores (OBS), with significant differences also observed in age and race. Through feature importance ranking using the Random Forest (RF) algorithm, caffeine and luteolin were identified as the most predictive dietary variables. After comparing 12 machine learning algorithms, linear discriminant analysis (LDA) was selected as the final screening-oriented prediction model (AUC = 0.742). Although its overall accuracy was lower than that of several ensemble models, LDA demonstrated higher sensitivity (0.730) and favorable imbalance-aware performance, thereby mitigating the \"accuracy paradox\" and supporting its use for preliminary screening to identify participants with higher predicted NMSC risk. SHapley Additive exPlanations (SHAP) global explanations further confirmed that, after controlling for age as a primary risk factor, niacin and quercetin act as protective factors in the NMSC risk prediction model. In summary, this study developed an interpretable and robust machine learning model for NMSC risk prediction in older adults and provides hypothesis-generating evidence regarding the potential role of dietary antioxidant profiles in prevention-oriented strategies.",
+      "year": "2026",
+      "journal": "Food science & nutrition",
+      "authors": [
+        "Yu Bo Han",
+        "Kang Ji Young",
+        "Kim Kyung Eun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42903526/"
+    },
+    {
+      "pmid": "42887571",
+      "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
+      "abstract": "Fresh human skin is the preferred model for ex vivo dermal penetration studies. However, limited availability often necessitates frozen storage. We investigated whether storage for two months at -20 °C or -80 °C affects skin barrier function, selected Raman-derived skin properties, and drug penetration. For each of six donors, paired full-thickness abdominal skin samples were analyzed fresh or after frozen storage. Barrier integrity was assessed by transepidermal water loss, while quantitative confocal Raman spectroscopy was used to determine water concentration profiles and the amount of caffeine, diclofenac sodium, and salicylic acid within the upper 15 µm after application of 2% (w/w) hydrogels for 1 h. Transepidermal water loss varied across storage conditions, although neither frozen-storage condition differed significantly from fresh skin. Raman-derived water content was significantly higher after storage at -80 °C than in fresh or -20 °C-stored skin, whereas no consistent storage-related differences were detected in the fingerprint spectra or combined ceramide and fatty acid signal. Superficial caffeine uptake was 18.57, 19.82, and 21.51 µg/cm",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Schmolz Jakob",
+        "Cerbu Diana",
+        "Barker Stefanie",
+        "Freystätter Christian",
+        "Elbe-Bürger Adelheid"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887571/"
+    },
+    {
+      "pmid": "42883576",
+      "title": "Sequential Recovery of Non-Polar and Polar Compounds from Spent Coffee Grounds Using scCO",
+      "abstract": "Spent coffee grounds (SCG), a solid by-product generated during coffee preparation, are produced in substantial quantities yet remain largely underexploited. The valorization of SCG offers significant environmental, economic, and social advantages, contributing to the advancement of a circular bioeconomy. In this study, SCG valorization consisted of two steps. In the first step, the SCG was depleted by supercritical CO",
+      "year": "2026",
+      "journal": "Foods (Basel, Switzerland)",
+      "authors": [
+        "Gavarić Aleksandra",
+        "Vidović Senka",
+        "Loukri Anastasia",
+        "Zymvrakaki Eleni",
+        "Mourtzinos Ioannis"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42883576/"
+    },
+    {
+      "pmid": "42869236",
+      "title": "Cellular level investigation of skin permeation using stimulated Raman scattering microscopy and in-silico modelling.",
+      "abstract": "This study presents a novel approach combining stimulated Raman scattering (SRS) microscopy with mechanistic modelling to quantify the disposition and permeation of topically applied compounds in skin. The dermal delivery of 4-cyanophenol and caffeine was investigated using SRS microscopy, generating high-resolution images resolving their distribution within the stratum corneum (SC) lipid matrix and corneocytes. The imaging data revealed distinct permeation pathways, with 4-cyanophenol preferentially localising within the intercellular lipid matrix and caffeine within the corneocyte-rich regions. Depth-resolved SRS imaging provided concentration profiles across the SC, showing a monotonic decrease in 4-cyanophenol concentration, whereas caffeine exhibited depth-dependent transport behaviour. These experimental concentration profiles were modelled using a two-dimensional mechanistic model with calibration to reveal the diffusion, partition and deposition behaviour within the lipid and corneocyte domains. For 4-cyanophenol, the optimised permeability was consistent with literature-reported values and baseline model predictions, while for caffeine, optimisation substantially improved permeability predictions. Simulations further captured formulation-dependent effects predicting 1.3-fold and 1.5-fold increases in SC uptake of 4-cyanophenol and caffeine, respectively, in propylene glycol relative to aqueous vehicles. Overall, this work demonstrates the potential of combining SRS microscopy with inverse mechanistic modelling to derive transport parameters directly from skin imaging data and reveal dermal drug disposition and permeation. To our knowledge, this represents the first application of SRS-derived depth profiles to inform mechanistic modelling of skin permeation.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Goel Anukrati",
+        "Belsey Natalie A",
+        "Lian Guoping",
+        "Chen Tao"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42869236/"
+    },
+    {
+      "pmid": "42830176",
+      "title": "Assessment of excised and reconstructed human pigmented skin models for in vitro permeation testing.",
+      "abstract": "Percutaneous absorption is essential in the safety assessment of topical drugs and cosmetic products, but the potential impact of skin pigmentation on dermal absorption remains understudied. Here, a novel framework integrating quantitative pigmentation characterization, barrier function assessment, and in vitro permeation testing (IVPT) to investigate the role of melanin in percutaneous absorption using both excised and reconstructed human skin models was established. Abdominal excised human skin (EHS) from female donors of Fitzpatrick phototypes (FP) I/II and FP V/VI and reconstructed human pigmented epidermis (RHPE) with melanocytes derived from Caucasian and African American donors were tested. RHPEs were cultured for 15 days in basal or melanogenesis-stimulating media. Skin pigmentation level, transepidermal water loss (TEWL), and the in vitro permeation of radiolabeled caffeine, salicylic acid, testosterone, mannitol, hydroquinone, and ciprofloxacin were evaluated in EHS and RHPE samples. Melanin quantification assays and histological analyses confirmed higher pigmentation in EHS of FP V/VI versus FP I/II donors, in RHPE from African American versus Caucasian donors, and in RHPEs cultured under melanogenesis-stimulating versus basal conditions, especially in tissues from African American donors. No significant differences in TEWL were observed between EHS groups or across RHPE groups. In general, no statistically significant differences were observed in the cumulative amount, flux, and mass distribution of test chemicals between EHS groups or across RHPE groups. The study demonstrated the feasibility of using a standardized toolkit and pigmented human skin models to investigate the role of melanin in percutaneous absorption in vitro. The ability to modulate pigmentation levels in RHPEs within the same donor background supports their utility as a reproducible model for evaluating melanin-associated variability in dermal safety assessments, particularly for compounds that may interact with melanin.",
+      "year": "2026",
+      "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+      "authors": [
+        "Modaresi Sadegh",
+        "Salminen Alec T",
+        "Felton Robert P",
+        "Maisha MacKean",
+        "Davis Kelly J"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42830176/"
+    },
+    {
+      "pmid": "42815965",
+      "title": "Construction of risk prediction models for psoriasis based on 45 dietary nutrients using machine learning and SHAP analysis.",
+      "abstract": "To develop and validate a machine learning model to predict the risk of psoriasis based on 45 dietary nutrients.",
+      "year": "2026",
+      "journal": "Asia Pacific journal of clinical nutrition",
+      "authors": [
+        "Zhang Xin",
+        "Gao Zhe",
+        "Feng Jiang-Feng",
+        "Wu Xin-Gang"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Psoriasis",
+        "Machine Learning",
+        "Nutrients",
+        "Diet",
+        "Female",
+        "Predictive Learning Models",
+        "Male",
+        "Boosting Machine Learning Algorithms",
+        "Prediction Algorithms"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815965/"
+    },
+    {
+      "pmid": "42788054",
+      "title": "Robustness Analyses Substantially Narrow in silico Network-Toxicology Signals Linking Selected Pharmaceuticals and Caffeine to Vitiligo.",
+      "abstract": "Network-toxicology and molecular-docking pipelines are widely used to link environmental chemicals to disease targets, but their outputs are rarely subjected to external validation, background-aware significance testing, or promiscuity controls.",
+      "year": "2026",
+      "journal": "Clinical, cosmetic and investigational dermatology",
+      "authors": [
+        "Dığış Mahir",
+        "Kaya Kısmet",
+        "Demir Betul"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42788054/"
+    },
+    {
+      "pmid": "42738944",
+      "title": "Effects of Acute Caffeine Ingestion on Morning Temperature, Mood, Reactive Agility and Cognitive Measures in Males: A Standardized Approach.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Nutrients",
+      "authors": [
+        "Edwards Ben J",
+        "Giacomoni Magali",
+        "Agulhari João P S",
+        "Mauvieux Benoit",
+        "Pullinger Samuel A"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Caffeine",
+        "Male",
+        "Affect",
+        "Cognition",
+        "Double-Blind Method",
+        "Cross-Over Studies",
+        "Young Adult",
+        "Adult",
+        "Body Temperature"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42738944/"
+    },
+    {
+      "pmid": "42735791",
+      "title": "Integrated sustainability evaluation of electrochemical quantification of flibanserin and caffeine in various matrices.",
+      "abstract": "Sustainable chemistry is increasingly used in pharmaceutical analysis to reduce environmental impact while improving laboratory personnel safety. This study describes the first sustainable electrochemical method for determining flibanserin (FLB) and caffeine (CAF) in various matrices, including bulk powder, pharmaceutical dosage form, and human plasma samples. FLB is used for the treatment of Hypoactive sexual desire disorder, while CAF may be co-administered with FLB as part of the therapeutic regimen, highlighting the need for reliable methods for their simultaneous determination. The experimental parameters were optimized using a zinc oxide nanoparticle polyethylene glycol -modified carbon paste electrode as working electrode at scan rate of 100 mV s",
+      "year": "2027",
+      "journal": "Analytical biochemistry",
+      "authors": [
+        "Atty Shimaa A",
+        "Ali Hazim M",
+        "Barghash Sona S",
+        "Mohamed Tahany F",
+        "Abd El-Hadi Heidi R"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Caffeine",
+        "Electrochemical Techniques",
+        "Electrodes",
+        "Benzimidazoles",
+        "Limit of Detection",
+        "Zinc Oxide",
+        "Polyethylene Glycols"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42735791/"
+    }
+  ],
+  "crawled_at": "2026-10-24T23:01:11.171894",
+  "source": "pubmed"
+}
