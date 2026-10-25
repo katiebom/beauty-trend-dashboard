@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:01:25.265700",
+  "generated_at": "2026-10-25T23:08:33.501180",
   "total_ingredients": 48,
   "signals": [
     {
@@ -838,6 +838,40 @@
       ]
     },
     {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42921614",
+          "title": "Role of Hyaluronic Acid Fillers in Facial Paralysis.",
+          "year": "2026",
+          "journal": "Plastic and reconstructive surgery. Global open"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42920841",
+          "title": "Finerenone liposome-embedded dissolving microneedles: A transcorneal platform for minimally invasive therapy of diabetic",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics: X"
+        }
+      ]
+    },
+    {
       "ingredient_id": "exosome",
       "name_kr": "엑소좀",
       "name_en": "Exosome",
@@ -1290,26 +1324,6 @@
           "journal": "Journal of drugs in dermatology : JDD"
         }
       ]
-    },
-    {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 0,
-        "T3": 0,
-        "unknown": 10
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 8.0,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": []
     },
     {
       "ingredient_id": "ginseng",
