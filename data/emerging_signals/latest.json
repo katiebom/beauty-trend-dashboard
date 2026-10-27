@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:08:33.501180",
+  "generated_at": "2026-10-27T00:23:14.665592",
   "total_ingredients": 48,
   "signals": [
     {
@@ -9,15 +9,15 @@
       "category": "anti_aging",
       "tier_dist": {
         "T1": 3,
-        "T2": 13,
+        "T2": 12,
         "T3": 0,
-        "unknown": 9
+        "unknown": 10
       },
       "total_papers": 25,
       "recent_papers": 25,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 32.2,
+      "signal_score": 30.5,
       "signal_label": "🔥 임박 (T+6mo)",
       "top_t1_papers": [
         {
@@ -223,6 +223,12 @@
       "top_t1_papers": [],
       "top_t2_papers": [
         {
+          "pmid": "42927803",
+          "title": "Dynamic stratum corneum ceramide alterations reflect barrier dysfunction and clinical response to topical chlormethine t",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
           "pmid": "42887571",
           "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
           "year": "2026",
@@ -233,12 +239,6 @@
           "title": "Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema ",
           "year": "2026",
           "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
-        },
-        {
-          "pmid": "42868105",
-          "title": "Effect of a Ceramide NP-Containing Moisturizer on Skin Barrier Function in Adults with Atopic Dermatitis: A Randomized, ",
-          "year": "2026",
-          "journal": "Skin pharmacology and physiology"
         }
       ]
     },
@@ -480,13 +480,13 @@
         "T1": 0,
         "T2": 4,
         "T3": 0,
-        "unknown": 5
+        "unknown": 6
       },
-      "total_papers": 9,
-      "recent_papers": 9,
+      "total_papers": 10,
+      "recent_papers": 10,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 15.0,
+      "signal_score": 14.8,
       "signal_label": "🟡 등장 중 (T+12mo)",
       "top_t1_papers": [],
       "top_t2_papers": [
@@ -720,6 +720,46 @@
       ]
     },
     {
+      "ingredient_id": "exosome",
+      "name_kr": "엑소좀",
+      "name_en": "Exosome",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42928334",
+          "title": "Functional engineering of adipose-derived stem cell exosomes and its application in soft tissue regeneration.",
+          "year": "2026",
+          "journal": "Stem cell research & therapy"
+        },
+        {
+          "pmid": "42906434",
+          "title": "Bioactive M2 exosome hybrid nanocomposites for immune therapy of psoriasis.",
+          "year": "2026",
+          "journal": "Biomaterials advances"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42858915",
+          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
+        }
+      ]
+    },
+    {
       "ingredient_id": "retinol",
       "name_kr": "레티놀",
       "name_en": "Retinol",
@@ -868,40 +908,6 @@
           "title": "Finerenone liposome-embedded dissolving microneedles: A transcorneal platform for minimally invasive therapy of diabetic",
           "year": "2026",
           "journal": "International journal of pharmaceutics: X"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "exosome",
-      "name_kr": "엑소좀",
-      "name_en": "Exosome",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42906434",
-          "title": "Bioactive M2 exosome hybrid nanocomposites for immune therapy of psoriasis.",
-          "year": "2026",
-          "journal": "Biomaterials advances"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42858915",
-          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
-          "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
         }
       ]
     },

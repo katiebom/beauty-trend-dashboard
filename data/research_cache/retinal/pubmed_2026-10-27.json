@@ -1,0 +1,190 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42929837",
+      "title": "Molecular Characterization of ",
+      "abstract": "Aldehyde dehydrogenase 1 family member A1 (ALDH1A1) is broadly expressed in mammalian tissues and is a key enzyme in retinoic acid (RA) biosynthesis, a process closely linked to hair follicle regeneration. Its expression pattern and function in cashmere goats, however, remain poorly defined. In this study, we isolated and characterized the full-length open reading frame (ORF) of ",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Yang Yuxin",
+        "Wang Meijie",
+        "Li Fang",
+        "Zhang Xiaoyi",
+        "Cai Yuxin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Goats",
+        "Cell Proliferation",
+        "Hair Follicle",
+        "Phylogeny",
+        "Stem Cells",
+        "Male",
+        "Aldehyde Dehydrogenase 1 Family",
+        "Amino Acid Sequence",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42929837/"
+    },
+    {
+      "pmid": "42924008",
+      "title": "Severe Intraocular Inflammation Mimicking Masquerade Syndrome in a Patient Treated with Dupilumab: A Case Report.",
+      "abstract": "The aim of the study was to report a case of severe vision-threatening intraocular inflammation with exudative retinal detachment presenting as a masquerade syndrome in a patient receiving dupilumab therapy for severe bronchial asthma.",
+      "year": "2026",
+      "journal": "Case reports in ophthalmology",
+      "authors": [
+        "Hu Lorenzo",
+        "Scupola Andrea",
+        "Caputo Carmela Grazia",
+        "Pagliara Monica Maria",
+        "Mottola Francesco"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42924008/"
+    },
+    {
+      "pmid": "42923813",
+      "title": "Topical Carbonic Anhydrase Inhibitors in Macular Edema: A Systematic Review.",
+      "abstract": "In order to systematically evaluate the efficacy and safety of topical carbonic anhydrase inhibitors (CAIs) in the treatment of macular edema across different retinal disorders, a systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Scopus, Web of Science, and the Cochrane Library were searched from inception to June 13, 2026, without language or publication date restrictions. Clinical studies evaluating topical dorzolamide or brinzolamide for macular edema of any etiology were included. Data regarding study characteristics, treatment protocols, visual and anatomical outcomes, and follow-up were extracted independently by two reviewers. Twenty-eight studies met the inclusion criteria, comprising randomized controlled trials, quasi-experimental studies, cohort studies, case series, and one analytical cross-sectional study. Overall, the included studies were of moderate-to-high methodological quality. Retinitis pigmentosa-associated cystoid macular edema was the most frequently investigated condition (13 studies), followed by X-linked retinoschisis (10 studies), diabetic macular edema (four studies), and one macular edema following vitrectomy and epiretinal membrane removal. Topical dorzolamide was the most commonly evaluated agent, whereas topical brinzolamide was investigated less frequently. Across retinal disorders, topical CAIs consistently reduced central macular thickness and improved retinal morphology as assessed by optical coherence tomography. Functional outcomes were more variable, with improvements in best-corrected visual acuity observed primarily in selected patients with retinitis pigmentosa and diabetic macular edema, whereas visual gains were generally modest in X-linked retinoschisis. Long-term studies reported recurrence of macular edema despite continued treatment, particularly in retinitis pigmentosa. Topical CAIs were well tolerated, with no serious ocular or systemic adverse events reported. Topical CAIs provide consistent anatomical improvement in macular edema, particularly in inherited retinal disorders, while functional benefits are less predictable. This discrepancy between anatomical and functional outcomes may be attributed to prolonged photoreceptor loss, retinal pigment epithelium dysfunction, and irreversible disruption of the ellipsoid zone. Their favorable safety profile and non-invasive administration support their use as a therapeutic option, especially for retinitis pigmentosa-associated cystoid macular edema and selected cases of X-linked retinoschisis and diabetic macular edema. However, the current evidence is limited by predominantly observational studies and clinical heterogeneity. Well-designed multicenter randomized controlled trials are needed to establish their optimal role in the management of macular edema.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Sadr Ata",
+        "Maleki Alireza",
+        "Asadollahi Mohammadreza",
+        "Maleki Shahaboddin",
+        "Asani Mahdi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42923813/"
+    },
+    {
+      "pmid": "42921614",
+      "title": "Role of Hyaluronic Acid Fillers in Facial Paralysis.",
+      "abstract": "Facial paralysis results in multifaceted functional and aesthetic deficits, including lagophthalmos, oral incompetence, and profound asymmetry. Although surgical reanimation is the primary treatment for functional restoration, hyaluronic acid (HA) fillers have emerged as a minimally invasive adjunctive tool for soft-tissue support and aesthetic refinement.",
+      "year": "2026",
+      "journal": "Plastic and reconstructive surgery. Global open",
+      "authors": [
+        "Iqbal Minahil",
+        "Berour Amina",
+        "Wakim Macram",
+        "Ajlan Zuha",
+        "Emmanuel Nancy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921614/"
+    },
+    {
+      "pmid": "42920841",
+      "title": "Finerenone liposome-embedded dissolving microneedles: A transcorneal platform for minimally invasive therapy of diabetic retinopathy.",
+      "abstract": "Diabetic retinopathy (DR) is a leading cause of vision loss characterized by retinal neovascularization and chronic inflammation. Conventional topical therapies exhibit poor corneal bioavailability and rapid precorneal clearance. Herein, we engineered a dissolvable microneedle patch incorporating finerenone-loaded liposomes (FIN-LIP@MNs) to simultaneously overcome drug solubility limitations and epithelial barrier constraints. The optimized liposomal formulation exhibited a mean diameter of 128.6 nm and high encapsulation efficiency (84.5%). PXRD and DSC further confirmed that the incorporated drug existed in an amorphous state. The MNs were characterized by drug enrichment at the needle tips, sufficient mechanical strength to penetrate the cornea, and complete dissolution within 15 min. In vivo pharmacokinetic studies showed that FIN-LIP@MNs achieved a 28.4-fold higher C",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics: X",
+      "authors": [
+        "Zhang Weili",
+        "Wang Lu",
+        "Qin Wen",
+        "Chen Yingrong",
+        "Fang Shenyun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42920841/"
+    },
+    {
+      "pmid": "42910195",
+      "title": "Pars Plana Vitrectomy for Inadvertent Intravitreal Injection of Hyaluronic Acid Dermal Filler: A Case Report.",
+      "abstract": "Hyaluronic acid (HA) dermal fillers are commonly used in cosmetic practice and are generally safe; however, ocular complications may occur if material is introduced into periocular or intraocular structures. Although vascular-related vision loss has been widely reported, direct intravitreal dermal filler deposition is exceedingly rare, and subsequent management with vitrectomy has not been previously documented. This report presents the clinical course and management of inadvertent intravitreal injection of HA filler and highlights considerations for safe removal.",
+      "year": "2026",
+      "journal": "Case reports in ophthalmology",
+      "authors": [
+        "Cohan Chloe J",
+        "Graff Jordan M"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42910195/"
+    },
+    {
+      "pmid": "42909592",
+      "title": "Adjunctive topical bromfenac and the 3-year bevacizumab injection burden in macular edema secondary to branch retinal vein occlusion.",
+      "abstract": "Anti-vascular endothelial growth factor therapy for macular edema secondary to branch retinal vein occlusion (BRVO) imposes a substantial long-term injection burden. We evaluated whether eyes prescribed adjunctive topical bromfenac required fewer intravitreal bevacizumab injections over 3 years than those receiving bevacizumab monotherapy.",
+      "year": "2026",
+      "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+      "authors": [
+        "Kim Dong Hyeon",
+        "Lee Jun Ha",
+        "Kwon Mi Sun",
+        "Oh Il Joong",
+        "Kim Yoo Min"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42909592/"
+    },
+    {
+      "pmid": "42909208",
+      "title": "Evaluation of Management Pathways for Pseudophakic Cystoid Macular Edema in a Large United States Cohort.",
+      "abstract": "To identify the common management pathways in the treatment of pseudophakic cystoid macular edema (CME).",
+      "year": "2026",
+      "journal": "Journal of vitreoretinal diseases",
+      "authors": [
+        "ElSheikh Reem H",
+        "Chauhan Muhammad Z",
+        "Shakarachi Ahmed F",
+        "Sallam Ahmed B"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42909208/"
+    },
+    {
+      "pmid": "42908944",
+      "title": "Case Report: Histamine-mediated inflammation and mast cell modulation in central serous chorioretinopathy: a two case illustrations.",
+      "abstract": "Central serous chorioretinopathy (CSCR) is characterized by retinal pigment epithelium dysfunction and choroidal hyperpermeability. Beyond established associations such as psychosocial stress and corticosteroid exposure, experimental and epidemiological findings raise the possibility that mast cell and histamine-related pathways may contribute to CSCR pathophysiology. This study reviews mechanistic and clinical evidence for the role of histamine in the pathogenesis of CSCR, as well as the role of histamine-targeted therapies in this condition. We also present two cases, highlighting the possible therapeutic role of anti-allergy agents in CSCR.",
+      "year": "2026",
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "KamaliZonouzi Sara",
+        "Babaei Zadeh Parsa",
+        "Popovic Marko M",
+        "Gorin Michael B",
+        "Eshkoly-Lior Tal"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Central Serous Chorioretinopathy",
+        "Mast Cells",
+        "Histamine",
+        "Male",
+        "Female",
+        "Histamine Antagonists",
+        "Inflammation",
+        "Adult",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42908944/"
+    },
+    {
+      "pmid": "42904325",
+      "title": "When Erectile Dysfunction Therapy Clouds the Vision: Central Serous Chorioretinopathy after Sildenafil in a Healthy Male.",
+      "abstract": "Central serous chorioretinopathy (CSCR) is a pachychoroid-spectrum disorder characterized by serous neurosensory retinal detachment secondary to choroidal vascular congestion and retinal pigment epithelial dysfunction. While corticosteroid use and psychological stress are well-established risk factors, phosphodiesterase type-5 inhibitors such as sildenafil citrate, widely used for erectile dysfunction, have been increasingly recognized as an under-reported pharmacological trigger, with proposed mechanisms involving acute choroidal vasodilation and hyperpermeability. A 39-year-old previously healthy male presented with sudden, painless diminution of vision in the right eye of 48 h, occurring shortly after ingestion of a single large recreational dose of sildenafil citrate. Best-corrected visual acuity was reduced to 6/18 in the right eye, with a normal left eye. Fundus examination revealed a well-demarcated serous macular elevation, and optical coherence tomography (OCT) confirmed a dome-shaped neurosensory detachment with a markedly elevated central subfield thickness. A comprehensive systemic and hematological workup, including thrombophilia screening and cardiac evaluation, was unremarkable, supporting a diagnosis of sildenafil-induced CSCR. The patient was managed conservatively with topical nepafenac, topical Flurbiprofen, and oral alcaftadine, along with cessation of further sildenafil use. Serial follow-up over approximately 2 months demonstrated progressive resolution of subretinal fluid, normalization of central subfield thickness, and preservation of visual acuity, with OCT angiography confirming adequate perfusion and no neovascular complication. This case reinforces sildenafil as a potential, dose-related precipitant of acute CSCR even after a single high dose in patients without conventional risk factors. Prompt recognition, drug cessation, and conservative management resulted in complete anatomical and visual recovery, highlighting the importance of a thorough medication history in young patients presenting with unexplained central visual disturbance.",
+      "year": "2026",
+      "journal": "Annals of African medicine",
+      "authors": [
+        "Bhange Archana",
+        "Gollamudi Siddhartha",
+        "Aher Priyanka Sangram",
+        "Toshniwal Sumit Navneeth",
+        "Kashyap Harshita Sangram"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42904325/"
+    }
+  ],
+  "crawled_at": "2026-10-27T00:22:40.817079",
+  "source": "pubmed"
+}
