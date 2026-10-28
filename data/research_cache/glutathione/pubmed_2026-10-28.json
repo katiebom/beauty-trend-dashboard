@@ -1,0 +1,224 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42942047",
+      "title": "Ferroptosis-Related GPX4 and CD71 and Immune Checkpoint PD-L1 in Cutaneous Melanoma: Associations with Clinicopathologic Features and Survival Outcomes.",
+      "abstract": "Ferroptosis-related pathways and immune checkpoint signaling may contribute to melanoma progression, but their clinicopathologic and prognostic interplay remains incompletely characterized. To investigate GPX4, CD71, and PD-L1 expression in primary cutaneous melanoma and evaluate their associations with clinicopathologic features and survival outcomes. This retrospective single-center cohort included 44 patients with primary cutaneous melanoma. PD-L1, GPX4, and CD71 expressions were assessed immunohistochemically. Associations with clinicopathologic parameters were analyzed, and overall survival (OS) and disease-free survival (DFS) were evaluated using Kaplan-Meier and Cox regression analyses. PD-L1, GPX4, and CD71 positivity was were observed in 25.0%, 38.6%, and 36.4% of tumors, respectively. PD-L1 expression was associated with Breslow thickness (",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Güner Rukiye Yasak",
+        "Yüceer Ramazan Oğuz",
+        "Ünsal Ahmet Turan",
+        "Akyol Melih",
+        "Eğilmez Hatice Reyhan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanoma",
+        "Antigens, CD",
+        "Female",
+        "Ferroptosis",
+        "Skin Neoplasms",
+        "Male",
+        "B7-H1 Antigen",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42942047/"
+    },
+    {
+      "pmid": "42941724",
+      "title": "Temporal Regulation of UVA-Induced Ferroptosis-Associated Injury in Keratinocytes.",
+      "abstract": "Ferroptosis contributes to ultraviolet (UV)-induced epidermal injury, but whether circadian state modifies keratinocyte susceptibility remains unclear. We integrated human epidermal transcriptomic analyses with functional experiments in HaCaT keratinocytes to compare UVA- and UVB-induced ferroptosis-associated responses and assess their temporal regulation. Both wavelengths reduced cell viability and increased reactive oxygen species, lipid peroxidation, and intracellular Fe",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Dong Ren",
+        "Li Xiang",
+        "Wang Ping",
+        "Yin Qianxian",
+        "Wang Zirun"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Ferroptosis",
+        "Keratinocytes",
+        "Ultraviolet Rays",
+        "Reactive Oxygen Species",
+        "Lipid Peroxidation",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Cell Survival",
+        "Oxidative Stress",
+        "Nuclear Receptor Subfamily 1, Group D, Member 1"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42941724/"
+    },
+    {
+      "pmid": "42941250",
+      "title": "L-Malate Protects Skin Against Ultraviolet-Induced Ferro-Aging.",
+      "abstract": null,
+      "year": "2026",
+      "journal": "Metabolites",
+      "authors": [
+        "Xu Huanhuan",
+        "Song Chuhui",
+        "Mao Zhangqi",
+        "Zhang Wenze",
+        "Luo Hengyu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42941250/"
+    },
+    {
+      "pmid": "42940261",
+      "title": "Quality Characterization and Anti-Fatigue Properties of Yak (",
+      "abstract": "As a major by-product of yak (",
+      "year": "2026",
+      "journal": "Foods (Basel, Switzerland)",
+      "authors": [
+        "Zhang Tengteng",
+        "Zhang Songshan",
+        "Yang Xinyu",
+        "Xie Peng",
+        "Zang Mingwu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42940261/"
+    },
+    {
+      "pmid": "42939939",
+      "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib in C57BL/6 Mice: An Exploratory Study of Oxidative Stress, Inflammatory, and DNA Damage Response Biomarkers.",
+      "abstract": "Olaparib, a poly(ADP-ribose) polymerase (PARP) inhibitor with established radiosensitizing properties, is a candidate for combination with radiotherapy, yet its multi-organ oxidative toxicity when combined with photon versus proton irradiation has not been characterized. In the ToxIP3 project, C57BL/6 male mice were allocated to six groups (n = 10 per group) receiving whole-body irradiation at 7.5 Gy by photons (TrueBeam™) or protons (190.6 MeV, Institut Curie, Orsay), with or without concurrent oral olaparib (50 mg/kg/day). Seventy-four biomarkers spanning protein carbonylation, lipid peroxidation, antioxidant enzyme activities, glutathione redox status, PARP activity, total protein, TGF-β1, and 13 plasma cytokines were quantified across nine compartments. The principal comparison (protons + olaparib vs. photons + olaparib) used two-sided Wilcoxon-Mann-Whitney tests with Benjamini-Hochberg false discovery rate (FDR) correction; time-shifted comparisons used rank-based ANCOVA adjusted for the day of sacrifice. Combination arms showed markedly increased lethality (median survival 9 days for photons + olaparib and 8 days for protons + olaparib in all 60 randomized animals); 54 mice were available for biomarker analysis. Of 74 biomarkers, 18 differed between combination arms after FDR correction; seven hepatic protein-normalized measurements were considered non-interpretable, leaving 11. Protons + olaparib was associated with higher intestinal GPx and GSH/GSSG, higher erythrocyte GSH, GSSG and SOD, higher cerebral SOD (+75.1%, q = 0.010), and a higher hepatic GSH/GSSG ratio (+108.2%, q < 0.001), whereas skin showed a lower GSH/GSSG ratio (-77.6%) and higher protein carbonylation (+142.9%). These exploratory findings, obtained in a near-lethal whole-body irradiation model, show modality-associated differences in redox biomarkers but do not establish differences in normal-tissue toxicity.",
+      "year": "2026",
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "authors": [
+        "Stefan Dinu",
+        "Lequesne Justine",
+        "Pouzoulet Frédéric",
+        "De Marzi Ludovic",
+        "Mégnin-Chanet Frédérique"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42939939/"
+    },
+    {
+      "pmid": "42921792",
+      "title": "Amelioration of Oxidative Stress in Melanocytes by Adipose-Derived Stem Cell Exosomes via the Keap1-Nrf2 Axis.",
+      "abstract": "Oxidative stress, particularly H₂O₂ accumulation, is a key pathogenic factor in vitiligo, yet therapies that directly protect melanocytes remain limited. Adipose-derived stem cell-derived exosomes (ADSC-Exos) are cell-free vesicles with reported antioxidant effects, but whether they act through the Kelch-like ECH-associated protein 1 (Keap1)-nuclear factor erythroid 2-related factor 2 (Nrf2) pathway is unknown. This study aimed to investigate the protective effects of ADSC-Exos on hydrogen peroxide (H₂O₂)-induced oxidative damage in human melanocytes and to elucidate the underlying molecular mechanisms, focusing on the Keap1-Nrf2 signaling pathway. ADSCs and their exosomes were isolated and characterized using flow cytometry, transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), and western blot. An oxidative stress model was established by treating PIG1 human melanocytes with H₂O₂. The therapeutic effects of ADSC-Exos were assessed by measuring cell viability, migration, intracellular ROS levels, DNA damage, and antioxidant enzyme activities. The involvement of the Keap1-Nrf2 pathway was examined by western blot and immunofluorescence. H₂O₂ treatment significantly induced oxidative stress in PIG1 cells, evidenced by reduced cell viability and migration, increased ROS accumulation, and elevated DNA damage. Treatment with ADSC-Exos markedly restored cellular functions. Mechanistically, ADSC-Exos downregulated the expression of Keap1, facilitated the nuclear translocation of Nrf2, and upregulated the expression of downstream antioxidant enzymes, including heme oxygenase 1 (HO-1) and glutathione peroxidase 4 (GPX4). The findings demonstrate that ADSC-Exos effectively ameliorate H₂O₂-induced oxidative damage in melanocytes. The cytoprotection is mediated through the activation of the Keap1-Nrf2-ARE signaling pathway. These findings support further investigation of ADSC-Exos as a potential therapeutic strategy for vitiligo.",
+      "year": "2026",
+      "journal": "Journal of visualized experiments : JoVE",
+      "authors": [
+        "Fang Xiaobing",
+        "Ma Ziyong",
+        "Yang Chao",
+        "Wang Yafang",
+        "Yang Xiaodong"
+      ],
+      "mesh_terms": [
+        "NF-E2-Related Factor 2",
+        "Humans",
+        "Oxidative Stress",
+        "Kelch-Like ECH-Associated Protein 1",
+        "Melanocytes",
+        "Exosomes",
+        "Hydrogen Peroxide",
+        "Stem Cells",
+        "Adipose Tissue",
+        "Signal Transduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921792/"
+    },
+    {
+      "pmid": "42916940",
+      "title": "Dual-Modal Sensing of Enantiomeric Purity Using Chiral Au@CuxS Nanoparticles.",
+      "abstract": "Enantiomeric discrimination is essential for a range of pharmacological and biochemical applications. Herein, we present a rational design of chiral Au@CuxS nanoparticles (NPs) that serve as a dual-modal sensing platform for determining enantiomeric purity. By synergizing the localized surface plasmon resonance (LSPR) of the Au core with the semiconducting properties of the CuxS shell, these NPs exhibit robust chiroptical activity alongside enhanced near-infrared (NIR)-responsive photocatalytic and photothermal performances. We demonstrate that enantioselective interactions between target chiral analytes with antioxidant capabilities, such as glutathione (GSH), tryptophan (Trp), aspartic acid (Asp), and cysteine (Cys), and the NP surfaces serve as mechanisms to modulate reactive oxygen species (ROS) generation and photothermal conversion. Specifically, the catalytic degradation of chromogenic substrates and the concomitant temperature increase are highly sensitive to the enantiomeric ratios of these analytes, which act as interfacial modulators. This dual-signal strategy enables rapid and accurate chiral discrimination in enantiomeric matrices, providing a versatile analytical platform and highlighting the potential of chiral plasmonic-semiconductor heterostructures in precise molecular recognition.",
+      "year": "2026",
+      "journal": "Inorganic chemistry",
+      "authors": [
+        "Wang Hengwei",
+        "Li Si",
+        "He Shuhan",
+        "Liu Shiyu",
+        "Lin Hengwei"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42916940/"
+    },
+    {
+      "pmid": "42916079",
+      "title": "Cystine-Dependent Redox Metabolism Determines Photodynamic Therapy Response in Head and Neck Squamous Cell Carcinoma.",
+      "abstract": "Head and neck squamous cell carcinoma (HNSCC) remains difficult to treat without substantial functional and cosmetic morbidity, as current management relies largely on surgery, radiation, and chemotherapy. However, these approaches often fail to achieve effective tumor control in therapy-resistant HNSCC. Photodynamic therapy (PDT) has strong potential for HNSCC treatment because it enables spatially restricted tumor ablation while limiting damage to surrounding healthy tissue. Here, we apply a near-infrared (NIR) cyanine-carborate photosensitizer (PS) platform to HNSCC to identify a redox-based mechanism that limits PDT response in resistant cells and evaluate a strategy for sensitizing resistant cells. Using complementary human papillomavirus (HPV)-positive and -negative HNSCC models, we show that PDT induces acute oxidative stress and lipid peroxidation in both sensitive and resistant cells. However, resistant cells counter this stress through an adaptive redox response marked by increased xCT (SLC7A11)-dependent cystine utilization. This response sustains glutathione-linked antioxidant buffering, limits lipid peroxidation, and promotes survival under PDT. Genetic or pharmacologic disruption of cystine uptake prevents this adaptive defense, restores oxidative vulnerability, and sensitizes PDT-resistant HNSCC cells to treatment. Consistent with these mechanistic findings, cyanine-carborate-induced PDT with xCT (SLC7A11) inhibition markedly suppressed tumor growth in vivo. Together, these findings identify xCT-dependent cystine metabolism as a targetable vulnerability for therapeutic sensitization of resistant HNSCC to PDT.",
+      "year": "2026",
+      "journal": "ACS nano",
+      "authors": [
+        "Roshanzadeh Amir",
+        "Medeiros Hyllana C D",
+        "Jordan Tessa",
+        "Malhado Carson",
+        "Morelos Katherine Espinoza"
+      ],
+      "mesh_terms": [
+        "Photochemotherapy",
+        "Humans",
+        "Oxidation-Reduction",
+        "Animals",
+        "Photosensitizing Agents",
+        "Head and Neck Neoplasms",
+        "Squamous Cell Carcinoma of Head and Neck",
+        "Cystine",
+        "Oxidative Stress",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42916079/"
+    },
+    {
+      "pmid": "42911369",
+      "title": "The Evolving Landscape of Actinic Keratosis: Field Therapy, New Drugs, and Future Directions.",
+      "abstract": "Actinic keratosis (AK) is a dynamic manifestation of chronic ultraviolet injury and a marker of field cancerization, but individual lesions and patients differ substantially in risk. Contemporary management therefore requires lesion-level triage, assessment of field burden, selection of a regimen the patient can complete, and longitudinal prevention rather than a uniform preference for either lesion- or field-directed therapy. This narrative review evaluates advances reported primarily from 2024 through June 2026. Recent evidence supports expanded treatment-area labeling and growing real-world experience with tirbanibulin; indoor and simulated-daylight photodynamic therapy (PDT); laser-assisted PDT; and low-irradiance, abbreviated-incubation, or simultaneous-illumination protocols designed to reduce pain. Short-course topical fluorouracil/calcipotriene has gained mechanistic and expert-consensus support, whereas diclofenac remains a slower and generally less efficacious option for selected patients. Nicotinamide, previously shown to be effective in immunocompetent patients, has not demonstrated benefit in solid organ transplant recipients, and systemic retinoids or capecitabine remain reserved for carefully selected high-risk populations. Senescence-directed glutathione peroxidase 4 (GPX4) modulation, interleukin-1 pathway targets, immune checkpoint blockade, and human papillomavirus vaccination are scientifically important but remain investigational for routine AK prevention. A risk-adapted blended strategy-biopsy when invasion is suspected, lesion-directed treatment for appropriate confirmed AKs, field treatment when subclinical burden is clinically meaningful, and cyclical therapy to aid prevention and provide surveillance for high-risk patients-best reflects current evidence.",
+      "year": "2026",
+      "journal": "American journal of clinical dermatology",
+      "authors": [
+        "Goyal Sonia P",
+        "Adelaja Adewunmi",
+        "Patel Vishal Anil"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42911369/"
+    },
+    {
+      "pmid": "42891983",
+      "title": "Evaluation of anti-psoriatic activity, mechanistic insights, nanoformulation, and GC-MS profiling of ",
+      "abstract": "Psoriasis is a chronic inflammatory immune-mediated skin disease with complex pathophysiology, reflecting the need for effective treatment. ",
+      "year": "2026",
+      "journal": "Artificial cells, nanomedicine, and biotechnology",
+      "authors": [
+        "Alanazi Fawaz K",
+        "Hashad Nashwa",
+        "Ahmed Asmaa A",
+        "El-Sayed Elsayed K",
+        "Ahmed Nadeem"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Commiphora",
+        "Psoriasis",
+        "Oils, Volatile",
+        "Gas Chromatography-Mass Spectrometry",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Drug Compounding",
+        "Male"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42891983/"
+    }
+  ],
+  "crawled_at": "2026-10-28T00:25:05.358196",
+  "source": "pubmed"
+}

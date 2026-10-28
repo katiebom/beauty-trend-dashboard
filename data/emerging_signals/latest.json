@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T00:23:14.665592",
+  "generated_at": "2026-10-28T00:25:28.095550",
   "total_ingredients": 48,
   "signals": [
     {
@@ -67,15 +67,15 @@
       "category": "anti_aging",
       "tier_dist": {
         "T1": 5,
-        "T2": 5,
+        "T2": 6,
         "T3": 0,
-        "unknown": 15
+        "unknown": 14
       },
       "total_papers": 25,
       "recent_papers": 25,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 22.0,
+      "signal_score": 23.7,
       "signal_label": "🔥 임박 (T+6mo)",
       "top_t1_papers": [
         {
@@ -99,6 +99,12 @@
       ],
       "top_t2_papers": [
         {
+          "pmid": "42939680",
+          "title": "The Nuclear Damage-Response Code of Cutaneous Wound Repair: Mechanotransduction, cGAS-STING, Senescence, and Regenerativ",
+          "year": "2026",
+          "journal": "Biomolecules"
+        },
+        {
           "pmid": "42865293",
           "title": "Plant-Derived Senolytic Ingredient, Camellia sinensis Root Extract, Ameliorates Skin Aging-Associated Phenotypes.",
           "year": "2026",
@@ -107,12 +113,6 @@
         {
           "pmid": "42650184",
           "title": "Comparative Phytochemical Profiling and Phenotypic Senolytic Screening of Botanical Extracts for Oxidative-Stress-Induce",
-          "year": "2026",
-          "journal": "Antioxidants (Basel, Switzerland)"
-        },
-        {
-          "pmid": "41897518",
-          "title": "Polyphenol-Rich Extracts from ",
           "year": "2026",
           "journal": "Antioxidants (Basel, Switzerland)"
         }
@@ -204,6 +204,45 @@
       ]
     },
     {
+      "ingredient_id": "tranexamic_acid",
+      "name_kr": "트라넥삼산",
+      "name_en": "Tranexamic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 4,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 1,
+      "v_index": null,
+      "signal_score": 16.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42919993",
+          "title": "Prospective Study of Hemoglobin Changes, Blood Loss, and the Role of Body Mass Index in Body Contouring Procedures.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "42910833",
+          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
+          "year": "2026",
+          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
+        },
+        {
+          "pmid": "42907601",
+          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        }
+      ],
+      "top_t2_papers": []
+    },
+    {
       "ingredient_id": "ceramide",
       "name_kr": "세라마이드",
       "name_en": "Ceramide",
@@ -223,6 +262,12 @@
       "top_t1_papers": [],
       "top_t2_papers": [
         {
+          "pmid": "42943783",
+          "title": "Evaluation of ",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        },
+        {
           "pmid": "42927803",
           "title": "Dynamic stratum corneum ceramide alterations reflect barrier dysfunction and clinical response to topical chlormethine t",
           "year": "2026",
@@ -233,12 +278,6 @@
           "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
           "year": "2026",
           "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42876425",
-          "title": "Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema ",
-          "year": "2026",
-          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
         }
       ]
     },
@@ -285,52 +324,6 @@
           "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
           "year": "2026",
           "journal": "Fitoterapia"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "tranexamic_acid",
-      "name_kr": "트라넥삼산",
-      "name_en": "Tranexamic Acid",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 4,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 5
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.5,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42919993",
-          "title": "Prospective Study of Hemoglobin Changes, Blood Loss, and the Role of Body Mass Index in Body Contouring Procedures.",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        },
-        {
-          "pmid": "42910833",
-          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
-          "year": "2026",
-          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
-        },
-        {
-          "pmid": "42907601",
-          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42849392",
-          "title": "A biomimetic electrospun collagen/chitosan nanofiber membrane for topical delivery of tranexamic acid.",
-          "year": "2026",
-          "journal": "International journal of biological macromolecules"
         }
       ]
     },
@@ -383,6 +376,45 @@
           "title": "Efficacy and Safety of Cysteamine-Isobionic Amide Complex in the Treatment of Periorbital Hyperpigmentation.",
           "year": "2026",
           "journal": "Journal of drugs in dermatology : JDD"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "resveratrol",
+      "name_kr": "레스베라트롤",
+      "name_en": "Resveratrol",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 5,
+        "T3": 0,
+        "unknown": 5
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 16.5,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42943681",
+          "title": "Cultivar-Dependent Phytochemical Composition and Cosmetic Potential of Grapevine Callus Cultures.",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        },
+        {
+          "pmid": "42942769",
+          "title": "Ethosomal Nanocarriers for Trans-Resveratrol Delivery: Formulation, Physicochemical Characterization, Stability, and In ",
+          "year": "2026",
+          "journal": "Pharmaceutics"
+        },
+        {
+          "pmid": "42899514",
+          "title": "Expression of Concern: Montenegro et al. Resveratrol-Loaded Lipid Nanocarriers: Correlation Between In Vitro Occlusion F",
+          "year": "2026",
+          "journal": "Pharmaceutics"
         }
       ]
     },
@@ -491,6 +523,12 @@
       "top_t1_papers": [],
       "top_t2_papers": [
         {
+          "pmid": "42937004",
+          "title": "Integrated chemical profiling, transcriptomics and functional validation elucidate the multifunctional benefits of a tri",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
+        },
+        {
           "pmid": "42887571",
           "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
           "year": "2026",
@@ -499,58 +537,6 @@
         {
           "pmid": "42869236",
           "title": "Cellular level investigation of skin permeation using stimulated Raman scattering microscopy and in-silico modelling.",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42788054",
-          "title": "Robustness Analyses Substantially Narrow in silico Network-Toxicology Signals Linking Selected Pharmaceuticals and Caffe",
-          "year": "2026",
-          "journal": "Clinical, cosmetic and investigational dermatology"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "resveratrol",
-      "name_kr": "레스베라트롤",
-      "name_en": "Resveratrol",
-      "category": "anti_aging",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 3,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 14.8,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42854439",
-          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
-          "year": "2026",
-          "journal": "Burns : journal of the International Society for Burn Injuries"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42899514",
-          "title": "Expression of Concern: Montenegro et al. Resveratrol-Loaded Lipid Nanocarriers: Correlation Between In Vitro Occlusion F",
-          "year": "2026",
-          "journal": "Pharmaceutics"
-        },
-        {
-          "pmid": "42868797",
-          "title": "Curcumin-loaded silk fibroin nanoparticle-stabilized pickering emulsions for co-delivery of resveratrol: Synergistic eff",
-          "year": "2026",
-          "journal": "Food chemistry"
-        },
-        {
-          "pmid": "42858864",
-          "title": "Development of sericin-elastin nanoblends containing resveratrol for cosmeceutical applications.",
           "year": "2026",
           "journal": "International journal of pharmaceutics"
         }
@@ -720,6 +706,46 @@
       ]
     },
     {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42944934",
+          "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
+          "year": "2026",
+          "journal": "Lasers in medical science"
+        },
+        {
+          "pmid": "42921614",
+          "title": "Role of Hyaluronic Acid Fillers in Facial Paralysis.",
+          "year": "2026",
+          "journal": "Plastic and reconstructive surgery. Global open"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42920841",
+          "title": "Finerenone liposome-embedded dissolving microneedles: A transcorneal platform for minimally invasive therapy of diabetic",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics: X"
+        }
+      ]
+    },
+    {
       "ingredient_id": "exosome",
       "name_kr": "엑소좀",
       "name_en": "Exosome",
@@ -752,10 +778,10 @@
       ],
       "top_t2_papers": [
         {
-          "pmid": "42858915",
-          "title": "Balancing Autonomy, Beneficence, and Financial Conflict of Interest in Cash-Pay Dermatologic Procedures.",
+          "pmid": "42939759",
+          "title": "",
           "year": "2026",
-          "journal": "Journal of the American Academy of Dermatology"
+          "journal": "Biomolecules"
         }
       ]
     },
@@ -779,6 +805,12 @@
       "top_t1_papers": [],
       "top_t2_papers": [
         {
+          "pmid": "42939784",
+          "title": "Retinol Stimulates Growth Factor Production and Extracellular Matrix-Related Marker Levels in Human Dermal Fibroblasts.",
+          "year": "2026",
+          "journal": "Biomolecules"
+        },
+        {
           "pmid": "42840803",
           "title": "Lipid matrix composition-tuned nanoparticles for enhanced topical retinol delivery and anti-photoaging efficacy.",
           "year": "2026",
@@ -789,12 +821,6 @@
           "title": "New solid formulations of retinol protected at the molecular level by the whey protein β-lactoglobulin.",
           "year": "2026",
           "journal": "Food chemistry"
-        },
-        {
-          "pmid": "42593667",
-          "title": "Oral Retinol, Alone or Combined with Medical Photoprotection, in Patients with Actinic Keratosis: A Randomized, Open-Lab",
-          "year": "2026",
-          "journal": "Dermatology and therapy"
         }
       ]
     },
@@ -878,40 +904,6 @@
       ]
     },
     {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42921614",
-          "title": "Role of Hyaluronic Acid Fillers in Facial Paralysis.",
-          "year": "2026",
-          "journal": "Plastic and reconstructive surgery. Global open"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42920841",
-          "title": "Finerenone liposome-embedded dissolving microneedles: A transcorneal platform for minimally invasive therapy of diabetic",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics: X"
-        }
-      ]
-    },
-    {
       "ingredient_id": "glutathione",
       "name_kr": "글루타치온",
       "name_en": "Glutathione",
@@ -931,16 +923,16 @@
       "top_t1_papers": [],
       "top_t2_papers": [
         {
+          "pmid": "42939939",
+          "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib in C57BL/6 Mice: An Exploratory Study of Oxidative St",
+          "year": "2026",
+          "journal": "Antioxidants (Basel, Switzerland)"
+        },
+        {
           "pmid": "42911369",
           "title": "The Evolving Landscape of Actinic Keratosis: Field Therapy, New Drugs, and Future Directions.",
           "year": "2026",
           "journal": "American journal of clinical dermatology"
-        },
-        {
-          "pmid": "42884673",
-          "title": "Riboflavin as a Regulator of Cellular Metabolism: From the Classic Vitamin B2 to a Key Redox Factor.",
-          "year": "2026",
-          "journal": "Nutrients"
         }
       ]
     },
@@ -1149,8 +1141,8 @@
       "name_en": "Succinic Acid",
       "category": "pore_texture",
       "tier_dist": {
-        "T1": 1,
-        "T2": 0,
+        "T1": 0,
+        "T2": 1,
         "T3": 0,
         "unknown": 9
       },
@@ -1160,15 +1152,15 @@
       "v_index": null,
       "signal_score": 9.7,
       "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
+      "top_t1_papers": [],
+      "top_t2_papers": [
         {
-          "pmid": "41757602",
-          "title": "Comparative analysis of chemical and physical cross-linking strategies for CMCs/Gelatin/PVA wound dressings: Balancing m",
+          "pmid": "42556676",
+          "title": "Unlocking native xanthan gum via succinylation to construct a hydrophilicity-driven O/W emulsion gel for enhanced luteol",
           "year": "2026",
-          "journal": "Journal of biomaterials applications"
+          "journal": "International journal of biological macromolecules"
         }
-      ],
-      "top_t2_papers": []
+      ]
     },
     {
       "ingredient_id": "microbiome",
