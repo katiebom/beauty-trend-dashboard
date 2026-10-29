@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:25:28.095550",
+  "generated_at": "2026-10-29T00:44:30.978947",
   "total_ingredients": 48,
   "signals": [
     {
@@ -243,45 +243,6 @@
       "top_t2_papers": []
     },
     {
-      "ingredient_id": "ceramide",
-      "name_kr": "세라마이드",
-      "name_en": "Ceramide",
-      "category": "barrier",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 5,
-        "T3": 0,
-        "unknown": 5
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.5,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42943783",
-          "title": "Evaluation of ",
-          "year": "2026",
-          "journal": "Molecules (Basel, Switzerland)"
-        },
-        {
-          "pmid": "42927803",
-          "title": "Dynamic stratum corneum ceramide alterations reflect barrier dysfunction and clinical response to topical chlormethine t",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42887571",
-          "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        }
-      ]
-    },
-    {
       "ingredient_id": "bakuchiol",
       "name_kr": "바쿠치올",
       "name_en": "Bakuchiol",
@@ -500,6 +461,45 @@
           "title": "Real World Case Series: Integrated Skincare With Advanced RGN-6 Serum.",
           "year": "2025",
           "journal": "Journal of cosmetic dermatology"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "ceramide",
+      "name_kr": "세라마이드",
+      "name_en": "Ceramide",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42943783",
+          "title": "Evaluation of ",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        },
+        {
+          "pmid": "42927803",
+          "title": "Dynamic stratum corneum ceramide alterations reflect barrier dysfunction and clinical response to topical chlormethine t",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "42887571",
+          "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
         }
       ]
     },
@@ -825,6 +825,45 @@
       ]
     },
     {
+      "ingredient_id": "glutathione",
+      "name_kr": "글루타치온",
+      "name_en": "Glutathione",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42949336",
+          "title": "Tea Polyphenol EGCG Prevents UVB-Induced Oxidative Stress via SIRT3-Mediated Activation of SOD2: Mechanistic Insights fr",
+          "year": "2026",
+          "journal": "Journal of agricultural and food chemistry"
+        },
+        {
+          "pmid": "42939939",
+          "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib in C57BL/6 Mice: An Exploratory Study of Oxidative St",
+          "year": "2026",
+          "journal": "Antioxidants (Basel, Switzerland)"
+        },
+        {
+          "pmid": "42911369",
+          "title": "The Evolving Landscape of Actinic Keratosis: Field Therapy, New Drugs, and Future Directions.",
+          "year": "2026",
+          "journal": "American journal of clinical dermatology"
+        }
+      ]
+    },
+    {
       "ingredient_id": "beta_glucan",
       "name_kr": "베타글루칸",
       "name_en": "Beta-Glucan",
@@ -904,39 +943,6 @@
       ]
     },
     {
-      "ingredient_id": "glutathione",
-      "name_kr": "글루타치온",
-      "name_en": "Glutathione",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42939939",
-          "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib in C57BL/6 Mice: An Exploratory Study of Oxidative St",
-          "year": "2026",
-          "journal": "Antioxidants (Basel, Switzerland)"
-        },
-        {
-          "pmid": "42911369",
-          "title": "The Evolving Landscape of Actinic Keratosis: Field Therapy, New Drugs, and Future Directions.",
-          "year": "2026",
-          "journal": "American journal of clinical dermatology"
-        }
-      ]
-    },
-    {
       "ingredient_id": "azelaic_acid",
       "name_kr": "아젤라산",
       "name_en": "Azelaic Acid",
@@ -966,6 +972,39 @@
           "title": "Efficacy and safety of a novel anhydrous 0.1% retinal and 10% azelaic acid concentrate for blemish-prone skin: An eight-",
           "year": "2026",
           "journal": "International journal of cosmetic science"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "microbiome",
+      "name_kr": "마이크로바이옴/포스트바이오틱스",
+      "name_en": "Microbiome/Postbiotics",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42947398",
+          "title": "Efficacy of Heat-Killed Lactobacillus plantarum L-137 Supplementation in Treatment of Canine Atopic Dermatitis.",
+          "year": "2026",
+          "journal": "Veterinary dermatology"
+        },
+        {
+          "pmid": "42797015",
+          "title": "Microbiome-Derived Metabolic Signaling in the Gut-Skin Axis: Implications for Nutricosmetics and Healthy Skin Aging.",
+          "year": "2026",
+          "journal": "Nutrients"
         }
       ]
     },
@@ -1159,33 +1198,6 @@
           "title": "Unlocking native xanthan gum via succinylation to construct a hydrophilicity-driven O/W emulsion gel for enhanced luteol",
           "year": "2026",
           "journal": "International journal of biological macromolecules"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "microbiome",
-      "name_kr": "마이크로바이옴/포스트바이오틱스",
-      "name_en": "Microbiome/Postbiotics",
-      "category": "barrier",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 9.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42797015",
-          "title": "Microbiome-Derived Metabolic Signaling in the Gut-Skin Axis: Implications for Nutricosmetics and Healthy Skin Aging.",
-          "year": "2026",
-          "journal": "Nutrients"
         }
       ]
     },
