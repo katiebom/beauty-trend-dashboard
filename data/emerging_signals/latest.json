@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:44:30.978947",
+  "generated_at": "2026-10-30T00:45:12.626525",
   "total_ingredients": 48,
   "signals": [
     {
@@ -202,45 +202,6 @@
           "journal": "International journal of pharmaceutics"
         }
       ]
-    },
-    {
-      "ingredient_id": "tranexamic_acid",
-      "name_kr": "트라넥삼산",
-      "name_en": "Tranexamic Acid",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 4,
-        "T2": 0,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 1,
-      "v_index": null,
-      "signal_score": 16.8,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42919993",
-          "title": "Prospective Study of Hemoglobin Changes, Blood Loss, and the Role of Body Mass Index in Body Contouring Procedures.",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        },
-        {
-          "pmid": "42910833",
-          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
-          "year": "2026",
-          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
-        },
-        {
-          "pmid": "42907601",
-          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        }
-      ],
-      "top_t2_papers": []
     },
     {
       "ingredient_id": "bakuchiol",
@@ -465,6 +426,45 @@
       ]
     },
     {
+      "ingredient_id": "tranexamic_acid",
+      "name_kr": "트라넥삼산",
+      "name_en": "Tranexamic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 3,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 1,
+      "v_index": null,
+      "signal_score": 15.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42919993",
+          "title": "Prospective Study of Hemoglobin Changes, Blood Loss, and the Role of Body Mass Index in Body Contouring Procedures.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "42910833",
+          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
+          "year": "2026",
+          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
+        },
+        {
+          "pmid": "42907601",
+          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        }
+      ],
+      "top_t2_papers": []
+    },
+    {
       "ingredient_id": "ceramide",
       "name_kr": "세라마이드",
       "name_en": "Ceramide",
@@ -539,52 +539,6 @@
           "title": "Cellular level investigation of skin permeation using stimulated Raman scattering microscopy and in-silico modelling.",
           "year": "2026",
           "journal": "International journal of pharmaceutics"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "urea",
-      "name_kr": "우레아",
-      "name_en": "Urea",
-      "category": "hydration",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 6
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 14.8,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42854439",
-          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
-          "year": "2026",
-          "journal": "Burns : journal of the International Society for Burn Injuries"
-        },
-        {
-          "pmid": "42820605",
-          "title": "Systemic pruritus as a neuroimmune disorder: Mechanistic insights and target-driven therapy.",
-          "year": "2026",
-          "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42845089",
-          "title": "The effect of red palm oil (",
-          "year": "2026",
-          "journal": "Dermatology reports"
-        },
-        {
-          "pmid": "42842113",
-          "title": "Topical Delgocitinib for Capecitabine-Induced Hand-Foot Syndrome: A Therapeutic Option?",
-          "year": "2026",
-          "journal": "Dermatology and therapy"
         }
       ]
     },
@@ -1042,6 +996,40 @@
       ]
     },
     {
+      "ingredient_id": "urea",
+      "name_kr": "우레아",
+      "name_en": "Urea",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42854439",
+          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
+          "year": "2026",
+          "journal": "Burns : journal of the International Society for Burn Injuries"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42845089",
+          "title": "The effect of red palm oil (",
+          "year": "2026",
+          "journal": "Dermatology reports"
+        }
+      ]
+    },
+    {
       "ingredient_id": "spicule",
       "name_kr": "스피큘",
       "name_en": "Spicule",
@@ -1296,6 +1284,33 @@
       ]
     },
     {
+      "ingredient_id": "idebenone",
+      "name_kr": "이데베논",
+      "name_en": "Idebenone",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 9,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 8.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42716148",
+          "title": "Physicochemical and safety evaluation of an antioxidant ophthalmic hydrogel for corneal injuries.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        }
+      ]
+    },
+    {
       "ingredient_id": "pha",
       "name_kr": "PHA",
       "name_en": "PHA (Polyhydroxy Acid)",
@@ -1354,33 +1369,6 @@
       "signal_label": "🟢 잠재 (T+24mo)",
       "top_t1_papers": [],
       "top_t2_papers": []
-    },
-    {
-      "ingredient_id": "idebenone",
-      "name_kr": "이데베논",
-      "name_en": "Idebenone",
-      "category": "anti_aging",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 8,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 7.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42716148",
-          "title": "Physicochemical and safety evaluation of an antioxidant ophthalmic hydrogel for corneal injuries.",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        }
-      ]
     },
     {
       "ingredient_id": "heartleaf",

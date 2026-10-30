@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-10-30T00:47:59.068061",
+  "kpi": {
+    "total_tracked": 48,
+    "imminent": 2,
+    "pioneer": 11,
+    "differentiator": 16,
+    "claim_pass_rate": 12.5,
+    "concept_count": 5,
+    "active_clinical": 317,
+    "data_freshness": "error: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})",
+    "days_since_data": -1
+  },
+  "top_decisions": [
+    {
+      "type": "🚀 즉시 신제품",
+      "priority": "high",
+      "title": "세놀리틱스 — 시장 선점 (Pioneer)",
+      "rationale": "학술 시그널 강 (점수 23.7) + 상업 C1 (미점유) + 활성 임상 30건. 가장 큰 위협: none.",
+      "next_action": "R&D 6주 안에 컴플렉스 컨셉 → 시장 갭: 안티에이징 시장에서 '노화 세포 제거'라는 명확한 효능을 강조하는 제품 개발 및 소비자 교육 필요.",
+      "supporting_data": [
+        "emerging_signals",
+        "commercial_landscape",
+        "clinical_trials"
+      ],
+      "ingredient_id": "senolytics"
+    },
+    {
+      "type": "💎 Black 프리미엄",
+      "priority": "medium",
+      "title": "레티놀 Black 라인 신설",
+      "rationale": "포화 시장(C3) + APLB 보유 + 학술 점수 13.1. 매스 진입은 어렵지만 고농도/안정화 기술로 차별화.",
+      "next_action": "고농도 (예: 3~5x) + microfluidizer 안정화 → 5~10만원대 채널",
+      "supporting_data": [
+        "commercial_landscape",
+        "emerging_signals"
+      ],
+      "ingredient_id": "retinol"
+    },
+    {
+      "type": "🌍 글로벌 출시",
+      "priority": "high",
+      "title": "클레임 PASS 컴플렉스 1개 글로벌 진출 검토",
+      "rationale": "QC PASS 1/8, PMID 100% 검증. 일부는 트리오 0건 = 세계 최초 클레임 가능.",
+      "next_action": "마케팅팀에 클레임 카드 전달 + 북미 채널(Sephora/Amazon) 진입",
+      "supporting_data": [
+        "aplb_claims"
+      ],
+      "complexes": [
+        "lipo_gluta_niac_cen"
+      ]
+    },
+    {
+      "type": "⛔ 회피/축소",
+      "priority": "low",
+      "title": "레티놀 라인 정리 검토",
+      "rationale": "V-Index 0 약세 + 상업 포화 — 신규 진입 가치 낮음",
+      "next_action": "기존 SKU만 유지, 신규 투자 중단",
+      "supporting_data": [
+        "raw_trends",
+        "commercial_landscape"
+      ],
+      "ingredient_id": "retinol"
+    }
+  ],
+  "weekly_changes": {
+    "biggest_gainers": [],
+    "biggest_losers": []
+  },
+  "warning_signals": [
+    {
+      "type": "🔴 데이터 누락",
+      "msg": "V-Index 마지막 수집 999일 전 (?). cron 점검 필요.",
+      "severity": "high"
+    },
+    {
+      "type": "🟠 클레임 위반 표현",
+      "msg": "REVISE 7개 — 한국 광고법 위반 표현(예방/치료 등) 수정 필요.",
+      "severity": "medium"
+    }
+  ],
+  "hot_topics": {
+    "imminent": [
+      {
+        "name_kr": "GLP-1 외용",
+        "score": 30.5
+      },
+      {
+        "name_kr": "세놀리틱스",
+        "score": 23.7
+      }
+    ],
+    "pioneer": [
+      {
+        "name_kr": "세놀리틱스"
+      },
+      {
+        "name_kr": "시스테아민"
+      },
+      {
+        "name_kr": "레스베라트롤"
+      }
+    ],
+    "ct_active": [
+      {
+        "name_kr": "트라넥삼산",
+        "active": 30
+      },
+      {
+        "name_kr": "GLP-1 외용",
+        "active": 30
+      },
+      {
+        "name_kr": "레티놀",
+        "active": 29
+      }
+    ]
+  },
+  "ai_synthesis": "APLB CEO님, 이번 주 최우선 과제는 다음과 같습니다.\n\n*   **세놀리틱스 신제품 출시 준비 (2주 내):** Pioneer 후보 11개 중 가장 높은 학술 점수(23.7)와 활성 임상 30건을 보유한 세놀리틱스를 즉시 신제품으로 개발, 시장 선점 기회를 극대화합니다.\n*   **글로벌 출시 컴플렉스 선정 및 검증 (1주 내):** 클레임 PASS 컴플렉스 1개를 선정하여 글로벌 출시를 검토합니다. 현재 QC PASS율 1/8이지만, 트리오 0건은 세계 최초 클레임 가능성을 시사합니다.\n*   **클레임 위반 표현 7개 즉시 수정 (1주 내):** 한국 광고법 위반 소지가 있는 '예방/치료' 등 클레임 위반 표현 7개를 즉시 수정하여 법적 리스크를 제거합니다."
+}

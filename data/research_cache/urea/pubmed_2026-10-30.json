@@ -1,0 +1,185 @@
+{
+  "ingredient_id": "urea",
+  "name_en": "Urea",
+  "name_kr": "우레아",
+  "category": "hydration",
+  "query": "\"Urea\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42954169",
+      "title": "Human Adipose-Derived Stem Cell Transplantation Reverses Multiorgan Impairment in Mice with Systemic Lupus Erythematosus.",
+      "abstract": "Systemic lupus erythematosus (SLE) is a chronic autoimmune disorder, leading to immune-mediated organ injury. In this study, we investigated the therapeutic effect of human adipose-derived stem cell (hADSC) transplantation on multiorgan damage in MRL/lpr mice. Conclusion These results indicate that hADSCs may ameliorate multiorgan damage associated with SLE.",
+      "year": "2026",
+      "journal": "Immunological investigations",
+      "authors": [
+        "Zhu Yunjie",
+        "Wei Jiarui",
+        "Cheng Yang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42954169/"
+    },
+    {
+      "pmid": "42952119",
+      "title": "The agmatinase MrAGM1 is required for Metarhizium robertsii virulence by modulating putrescine-associated appressorium development.",
+      "abstract": "Fungal polyamine metabolism plays an integral role in cellular development and host-pathogen interactions. However, the biological functions of agmatinase, a key enzyme that hydrolyzes agmatine to putrescine and urea, remain poorly characterized in entomopathogenic fungi.",
+      "year": "2026",
+      "journal": "Pest management science",
+      "authors": [
+        "Yang Yang",
+        "Wang Yulong",
+        "Zhang Nan",
+        "Tong Youmin",
+        "He Lili"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42952119/"
+    },
+    {
+      "pmid": "42938800",
+      "title": "Management Strategies for Cutaneous Adverse Events Caused by Kinase Inhibitors in Oncology: A Systematic Review and Meta-Analysis.",
+      "abstract": "The use of targeted therapies in oncology has increased significantly, but associated cutaneous adverse events often impair quality of life and adherence. Despite numerous available interventions, there is no unified protocol, and many patients discontinue therapy due to adverse events. This systematic review and meta-analysis aimed to evaluate preventive and reactive interventions for cutaneous adverse events in adult cancer patients receiving kinase inhibitors.",
+      "year": "2026",
+      "journal": "Cancers",
+      "authors": [
+        "Árok Renáta",
+        "Meznerics Fanni Adél",
+        "Lancz Andrea",
+        "Lengyel Anna Sára",
+        "Walter Anna"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42938800/"
+    },
+    {
+      "pmid": "42936391",
+      "title": "Topical Calcium Thioglycolate for Severe Plantar Hyperkeratosis in Atopic Dermatitis: A Case Report.",
+      "abstract": "Palmoplantar hyperkeratosis may arise from hereditary or acquired keratinization disorders or inflammatory dermatoses. We report a 20-year-old woman with Fitzpatrick type VI skin, longstanding atopic dermatitis, and poorly controlled type 1 diabetes mellitus who developed refractory palmoplantar hyperkeratosis. Her disease was most pronounced on the soles, where a florid, diffuse, thick, yellowish, verrucous-appearing hyperkeratotic phase improved over the course of treatment to residual lichenified, acanthotic, fissured plaques on the central palms and insteps. Histopathology demonstrated spongiotic dermatitis, and the overall clinical and histologic findings were most consistent with hyperkeratotic palmoplantar eczema, the florid keratotic phase representing the severe end of this process as it commonly manifests in richly pigmented skin. The condition persisted despite multiple conventional therapies, including topical and oral corticosteroids, oral retinoids, methotrexate, and urea-based keratolytic preparations. Notably, the patient experienced near-complete resolution of the florid plantar hyperkeratosis during off-label use of a calcium thioglycolate-based chemical depilatory, while the residual eczematous plaques persisted. This case highlights a potential adjunctive role for topical depilatory agents in the keratotic phase of refractory hyperkeratotic eczema and contributes to the limited visual documentation of palmoplantar hyperkeratosis in richly pigmented skin.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Okusanya Deborah",
+        "Mahmood Muhammad N",
+        "Chow Eunice Y"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42936391/"
+    },
+    {
+      "pmid": "42935198",
+      "title": "[Safety and humoral immune responses of an inactivated whole-cell lysate of ",
+      "abstract": "Tuberculosis remains the leading cause of death from a single infectious disease. Because currently available vaccines provide limited protection, the development of novel tuberculosis vaccines with favorable safety and high efficacy remains necessary. An inactivated whole-cell lysate of ",
+      "year": "2026",
+      "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+      "authors": [
+        "Pan Zhimin",
+        "Liu Zhixun",
+        "Liang Su",
+        "Li Xiaomei",
+        "Deng Xiling"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Mycobacterium tuberculosis",
+        "Mice, Inbred C57BL",
+        "Immunity, Humoral",
+        "Female",
+        "Tuberculosis Vaccines",
+        "RAW 264.7 Cells",
+        "Tuberculosis",
+        "Vaccines, Inactivated"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42935198/"
+    },
+    {
+      "pmid": "42884026",
+      "title": "Fructus Sophorae Extract Generated Using the Natural Deep Eutectic Solvent ChCl Urea Activates Wnt/β Catenin and cAMP/MITF Signaling to Stimulate Hair Growth and Pigmentation.",
+      "abstract": "Androgenetic alopecia remains challenging to treat, with limited FDA-approved therapies. Natural products, such as the fruit of ",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Yuen Gary Ka-Wing",
+        "Li Yinzhi",
+        "Dong Tina Ting-Xia",
+        "Tsim Karl Wah-Keung"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Plant Extracts",
+        "Mice",
+        "Wnt Signaling Pathway",
+        "Cyclic AMP",
+        "beta Catenin",
+        "Sophora",
+        "Solvents",
+        "Pigmentation",
+        "Hair Follicle"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42884026/"
+    },
+    {
+      "pmid": "42871732",
+      "title": "Rare Presentation of Marginal Papular Acrokeratoderma: A Case Report and Literature Review of Costa's Acrokeratoelastoidosis of the Hand.",
+      "abstract": "Acrokeratoelastoidosis (AKE) is a rare benign genodermatosis characterized by keratotic papules on the lateral aspects of hands and feet. We present a case of a 25-year-old woman with a 3-year history of asymptomatic yellowish papules forming a linear plaque on the ulnar margin of her left hand. Previous treatments with topical acids and cryotherapy proved ineffective. Histopathological examination revealed hyperkeratosis, psoriasiform acanthosis, and decreased elastic fibers, confirmed by special stains. Treatment with high-potency steroids and urea cream showed modest improvement. This case highlights the importance of considering AKE in the differential diagnosis of keratotic acral lesions and demonstrates the current therapeutic limitations in managing this uncommon condition.",
+      "year": "2026",
+      "journal": "Case reports in dermatological medicine",
+      "authors": [
+        "Cid-Puente Ricardo",
+        "Vázquez-Arroyo Paulina",
+        "Saucedo-Martínez Karla-Yareli",
+        "Rodríguez-Baca Angelica-Beatriz"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42871732/"
+    },
+    {
+      "pmid": "42854439",
+      "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 succinylation.",
+      "abstract": "Acute kidney injury (AKI) is a severe complication of burn trauma and is associated with significantly increased mortality. Resveratrol (RES) has shown therapeutic potential in AKI, yet its role in burn-induced AKI, particularly through the modulation of succinylation, remains unclear. This study aimed to investigate the protective effects of RES and the underlying molecular mechanisms in a burn-related AKI model. In vivo, AKI was induced in Sprague-Dawley rats by exposing the dorsal skin to boiling water, while in vitro, human kidney proximal tubular (HK2) cells were stimulated with lipopolysaccharide (LPS) to mimic inflammatory injury. The therapeutic efficacy of RES was assessed by measuring renal function parameters, inflammatory cytokine levels, and kidney injury biomarkers, supported by histopathological and ultrastructural examinations. In vitro, the effects of RES were evaluated through cell viability, apoptosis, and mitophagy assays. Mechanistic insights were obtained using molecular docking, surface plasmon resonance (SPR), western blotting, immunoprecipitation (IP), and co-immunoprecipitation (Co-IP). RES treatment significantly reduced blood urea nitrogen (BUN), serum creatinine (SCr), pro-inflammatory cytokines, and kidney injury molecule-1 (KIM-1) levels, attenuated renal tubular damage, and improved mitochondrial and autophagosomal ultrastructure in burned rats. In LPS-stimulated HK2 cells, RES inhibited apoptosis and promoted mitophagy. Mechanistically, RES upregulated SIRT5 expression, which decreased global succinylation levels and enhanced ATG3 protein stability via K9 desuccinylation. Notably, ATG3 knockdown abrogated the renoprotective effects of RES in both in vivo and in vitro models. Collectively, these findings demonstrate that RES upregulates SIRT5 and inhibits ATG3 succinylation, thereby stabilizing ATG3 and promoting mitophagy, which collectively ameliorate burn-induced AKI.",
+      "year": "2026",
+      "journal": "Burns : journal of the International Society for Burn Injuries",
+      "authors": [
+        "Lin Lineng",
+        "Liang Lu",
+        "Huang Jiyi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42854439/"
+    },
+    {
+      "pmid": "42845089",
+      "title": "The effect of red palm oil (",
+      "abstract": "Diabetes mellitus (DM) is frequently associated with cutaneous complications, including xerosis cutis, due to impaired skin barrier function. Red palm oil (RPO; Elaeis guineensis Jacq.) contains bioactive compounds with antioxidant, anti-inflammatory, and barrier-repair properties that may improve skin hydration. The objective of this study was to evaluate the effect of topical RPO on skin hydration in streptozotocin (STZ)-induced diabetic rat models. Thirty-two male Sprague-Dawley rats were randomly assigned to four groups (n=8 each): normal control (G1), untreated diabetic (G2), diabetic treated with 10% urea cream (G3), and diabetic treated with RPO (G4). Diabetes was induced using STZ and confirmed by blood glucose measurement. Treatments were applied once daily for 28 days to a standardized dorsal skin area. Skin hydration was assessed using a Corneometer®. Data were analyzed using the Shapiro-Wilk test and one-way analysis of variance (ANOVA) followed by the Tukey post hoc test. Skin hydration differed significantly among groups (p<0.001). The highest mean hydration was observed in the normal group (34.13 arbitrary units [AU]), while the lowest was in untreated diabetic rats (14.38 AU). RPO treatment significantly increased skin hydration (29.00 AU) compared to untreated diabetic rats (p<0.001) and urea-treated rats (p<0.001). No significant difference was found between the RPO-treated and normal groups (p=0.082). To conclude, topical RPO significantly improves skin hydration in diabetic rats, with effects comparable to normal skin and superior to 10% urea cream. RPO shows potential as a therapeutic agent for diabetes-associated xerosis.",
+      "year": "2026",
+      "journal": "Dermatology reports",
+      "authors": [
+        "Yosi Ariyati",
+        "Eyanoer Putri Chairani",
+        "Lubis Ramona Dumasari",
+        "Rusda Muhammad",
+        "Mahadi Irma Damayanti Roesyanto"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42845089/"
+    },
+    {
+      "pmid": "42842985",
+      "title": "Topical and oral chemical pretreatments for photodynamic therapy in actinic keratoses: A scoping review.",
+      "abstract": "Photodynamic therapy (PDT) is an established field-directed treatment for actinic keratoses (AKs). PDT efficacy is reduced in thicker, treatment-resistant lesions. Pharmacologic pretreatment has been explored as a strategy to improve photosensitizer penetration, protoporphyrin IX (PpIX) accumulation, and lesion clearance.",
+      "year": "2026",
+      "journal": "Journal of photochemistry and photobiology. B, Biology",
+      "authors": [
+        "Androus Maya",
+        "Williams Avery",
+        "Boostani Mehdi",
+        "Paragh Gyorgy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42842985/"
+    }
+  ],
+  "crawled_at": "2026-10-30T00:45:09.038467",
+  "source": "pubmed"
+}
