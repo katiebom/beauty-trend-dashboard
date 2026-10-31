@@ -1,0 +1,224 @@
+{
+  "ingredient_id": "ceramide",
+  "name_en": "Ceramide",
+  "name_kr": "세라마이드",
+  "category": "barrier",
+  "query": "\"Ceramide\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42949579",
+      "title": "Effectiveness of a Ceramide-Based Lamellar Emulsion on Skin Barrier Function in Surgical Nurses: A Randomized Controlled Trial.",
+      "abstract": "Surgical nurses frequently perform perioperative hand hygiene, predisposing them to hand dryness and skin barrier impairment. This single-center randomized controlled trial evaluated a ceramide-based lamellar emulsion for improving hand skin barrier function among surgical nurses. Thirty-five nurses were assigned to an intervention group (n = 18) applying the emulsion twice daily for seven days or a control group (n = 17) receiving usual care. Transepidermal water loss, stratum corneum hydration, skin surface pH, and dry skin scores were assessed at baseline and follow-up. Transepidermal water loss significantly decreased in the intervention group from day 1 and remained lower than in the control group. Hydration increased and dry skin scores improved in the intervention group, whereas minimal changes occurred in the control group. Short-term use of the emulsion improved barrier function and may help reduce occupational skin damage in perioperative nurses. These findings support integrating moisturizing protocols into perioperative hand hygiene.",
+      "year": "2026",
+      "journal": "AORN journal",
+      "authors": [
+        "Hara Kentaro",
+        "Tachibana Reika",
+        "Kumashiro Ryosuke",
+        "Tomooka Misa",
+        "Yamamoto Makiko"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Ceramides",
+        "Emulsions",
+        "Female",
+        "Adult",
+        "Skin",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42949579/"
+    },
+    {
+      "pmid": "42943783",
+      "title": "Evaluation of ",
+      "abstract": "Epidermal barrier damage triggers sensitive skin disorders. Synthetic skin repair agents frequently incur irritation, whereas medicinal and edible herbal ingredients offer milder alternatives. As a traditional Chinese medicinal herb, ",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Liu Huan",
+        "Yu Le",
+        "Yang Chang-Yin",
+        "Zhao Yu-Qiang",
+        "Xu Lin"
+      ],
+      "mesh_terms": [
+        "Atractylodes",
+        "Animals",
+        "Mice",
+        "Humans",
+        "Molecular Docking Simulation",
+        "Plant Extracts",
+        "Keratinocytes",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42943783/"
+    },
+    {
+      "pmid": "42937611",
+      "title": "Localized Lipid Delivery Regulates Exogenous Lipid Behavior at Persistent Defects in Stratum Corneum Lipid Bilayers.",
+      "abstract": "Disruption of the stratum corneum (SC) lipid matrix compromises the skin barrier function; however, the molecular mechanisms by which exogenous lipids promote its repair remain unclear. Here, all-atom molecular dynamics (MD) simulations were employed to investigate how initially dispersed lipid molecules and preassembled nanoparticles influence the direct rearrangement behavior of exogenous lipids at a localized defect in ceramide (CER)/cholesterol (Chol)/free fatty acid (FFA) ternary lipid bilayers. The results show that barrier repair efficiency depends strongly on both delivery format and lipid species. Initially dispersed lipids, limited by inefficient random diffusion, exhibit effective local repair but constrained overall efficiency. In contrast, preassembled lipid nanoparticles follow an \"adsorption-spreading-reassembly\" pathway, where localized high-concentration delivery overcomes diffusional barriers and significantly enhances repair efficiency. The three lipid species exhibit different molecular repair mechanisms at the damage site, governed by their unique molecular structures: CER shows stronger enrichment, FFA displays greater diffusion and dynamic reorganization, and Chol forms a denser and more stable bilayer. This study provides a molecular-level reconstruction associated with barrier repair and offers guidance for developing more effective topical lipid repair formulations.",
+      "year": "2026",
+      "journal": "Langmuir : the ACS journal of surfaces and colloids",
+      "authors": [
+        "Yu Xindong",
+        "Liu Xuejing",
+        "Zhang Heng",
+        "Cao Yingjuan",
+        "Yuan Shiling"
+      ],
+      "mesh_terms": [
+        "Lipid Bilayers",
+        "Molecular Dynamics Simulation",
+        "Ceramides",
+        "Cholesterol",
+        "Fatty Acids, Nonesterified",
+        "Nanoparticles"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42937611/"
+    },
+    {
+      "pmid": "42929863",
+      "title": "Neuroimmune-Lipid Crosstalk in Chronic Itch: Molecular Mechanisms from Skin Surface to Cerebral Cortex.",
+      "abstract": "Chronic pruritus is a complex sensory disorder arising from interactions among epidermal barrier dysfunction, immune signaling, peripheral sensory neurons, spinal circuits, and supraspinal networks. Bioactive lipids participate in this neuroimmune crosstalk as both structural components of the skin barrier and signaling mediators. Altered ceramide composition and sphingolipid metabolism accompany barrier dysfunction, while sphingosine-1-phosphate (S1P), ceramide-1-phosphate (C1P), eicosanoids, and autotaxin-derived lysophosphatidic acid (LPA) modulate inflammatory and sensory pathways. In particular, experimental studies implicate S1P-S1PR3-transient receptor potential (TRP) signaling and LPA receptor pathways in peripheral pruriception, although their causal relevance to human chronic itch remains incompletely established. These mechanisms interact with cytokines including interleukin (IL)-31, thymic stromal lymphopoietin, and IL-33 to enhance sensory-neuron responsiveness. Within the spinal dorsal horn, gastrin-releasing peptide (GRP)/GRPR-dependent circuits integrate pruriceptive input and are modulated by neuroimmune signaling, potentially contributing to central sensitization. Supraspinal sensory, affective, motivational, and reward-related networks may further reinforce the itch-scratch cycle. This review integrates lipid metabolism, neuroimmune signaling, and neural plasticity across peripheral, spinal, and supraspinal levels, with emphasis on atopic dermatitis (AD), prurigo nodularis (PN), psoriasis, and systemic pruritic disorders, and discusses therapeutic strategies and research priorities for mechanism-based treatment of chronic itch.",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Kim Han Bi",
+        "Um Ji Young",
+        "Song Da Eun",
+        "Chung Bo Young",
+        "Park Chun Wook"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Pruritus",
+        "Animals",
+        "Skin",
+        "Chronic Disease",
+        "Cerebral Cortex",
+        "Signal Transduction",
+        "Neuroimmunomodulation",
+        "Lipid Metabolism"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42929863/"
+    },
+    {
+      "pmid": "42927803",
+      "title": "Dynamic stratum corneum ceramide alterations reflect barrier dysfunction and clinical response to topical chlormethine treatment in early-stage mycosis fungoides.",
+      "abstract": "Early-stage mycosis fungoides (MF), a cutaneous T-cell lymphoma, presents as patches and/or plaques with an impaired skin barrier. The stratum corneum (SC) lipid matrix is important for skin barrier function. Alterations in the SC ceramide profile have been linked to a reduced barrier function in benign inflammatory skin diseases and might also be an underlying factor in the impaired barrier function in MF. Therefore, we characterized barrier function and SC ceramide profiles in lesional and non-lesional skin of 21 patients with early-stage MF and 10 healthy controls, and assessed how these barrier and ceramide characteristics evolve during chlormethine gel treatment in patients. Barrier function was measured by transepidermal water loss. SC ceramides were collected by tape stripping and analyzed by liquid chromatography-mass spectrometry. Local inflammatory markers were measured in suction blister fluid. At baseline, MF lesions showed impaired barrier function accompanied by distinct changes in the SC ceramide profile, including altered ceramide subclass composition and reduced ceramide chain length. These abnormalities occurred in the context of a predominantly type 1-skewed inflammatory milieu. Importantly, both barrier dysfunction and ceramide alterations were dynamic and improved in patients with a clinical response to chlormethine gel treatment, alongside reduced lesion severity and local inflammation. Longitudinal associations of ceramide characteristics with barrier function, clinical lesion severity, and inflammatory markers support SC ceramide alterations as dynamic correlates of MF disease activity. Together, these findings suggest that SC ceramide alterations may reflect a downstream consequence of inflammation that is shared across inflammatory dermatoses.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Mergen Catherine",
+        "Wind Selinde S",
+        "Beljaards Elise S M",
+        "Rijneveld Rianne",
+        "van Schaick Mick"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42927803/"
+    },
+    {
+      "pmid": "42898708",
+      "title": "Patient-Reported Outcomes With Episoft® AC SPF 50+, a Ceramide-Based Moisturizer, in Acne-Related Post-procedural Care: A Real-World Multicenter Observational Study From India (PROCEED Study).",
+      "abstract": "Post-procedural skin barrier disruption following acne-related dermatological procedures causes significant patient discomfort and heightens ultraviolet (UV) sensitivity. Ceramide-based formulations with broad-spectrum photoprotection can address barrier repair and sun protection factor (SPF) in a single step. However, patient-reported evidence supporting their use in this setting is still limited.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Nakra Gaurav",
+        "Panda Maitreyee",
+        "Jagadeesan Soumya",
+        "Rais Sama",
+        "Balasubramanian Ashwin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42898708/"
+    },
+    {
+      "pmid": "42889776",
+      "title": "Prevention and Management of Pediatric Sensitive Skin Conditions in India: A Modified Delphi Consensus.",
+      "abstract": "Sensitive skin poses significant dermatological challenges in the pediatric population, necessitating thorough exploration and understanding. In this study, we aim to provide neonatologists, pediatricians, dermatologists, and allergists in India with consensus-based recommendations for the prevention and management of sensitive skin in the pediatric age group. A modified Delphi method was used to arrive at a consensus. A group of 15 experts with experience in pediatric skincare constituted the panel. Panel members representing diverse specialties from the major regions of India participated in the consensus process. Statements were developed based on a structured review of the literature identified through PubMed/Medical Literature Analysis and Retrieval System Online (MEDLINE) (January 2000 to May 2024; updated in March 2025) using the keywords \"sensitive skin,\" \"pediatric,\" \"emollient,\" \"prevention,\" and other related terms",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Gupta Neeraj",
+        "Rengasamy Medhu",
+        "Kumar R Kishore",
+        "Sethuraman Giridhar",
+        "Kumar K P"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42889776/"
+    },
+    {
+      "pmid": "42887571",
+      "title": "Effect of human skin storage on stratum corneum drug penetration assessed by confocal Raman spectroscopy.",
+      "abstract": "Fresh human skin is the preferred model for ex vivo dermal penetration studies. However, limited availability often necessitates frozen storage. We investigated whether storage for two months at -20 °C or -80 °C affects skin barrier function, selected Raman-derived skin properties, and drug penetration. For each of six donors, paired full-thickness abdominal skin samples were analyzed fresh or after frozen storage. Barrier integrity was assessed by transepidermal water loss, while quantitative confocal Raman spectroscopy was used to determine water concentration profiles and the amount of caffeine, diclofenac sodium, and salicylic acid within the upper 15 µm after application of 2% (w/w) hydrogels for 1 h. Transepidermal water loss varied across storage conditions, although neither frozen-storage condition differed significantly from fresh skin. Raman-derived water content was significantly higher after storage at -80 °C than in fresh or -20 °C-stored skin, whereas no consistent storage-related differences were detected in the fingerprint spectra or combined ceramide and fatty acid signal. Superficial caffeine uptake was 18.57, 19.82, and 21.51 µg/cm",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Schmolz Jakob",
+        "Cerbu Diana",
+        "Barker Stefanie",
+        "Freystätter Christian",
+        "Elbe-Bürger Adelheid"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887571/"
+    },
+    {
+      "pmid": "42883979",
+      "title": "Ceramide Metabolic Pathways and Their Regulation in Adolescent Acne Vulgaris.",
+      "abstract": "Ceramides constitute approximately 50% of the lipid mass in the stratum corneum and are essential for epidermal permeability barrier function. In acne vulgaris, barrier disruption is accompanied by altered ceramide composition, yet the molecular mechanisms that connect acne-associated signals to specific changes in ceramide metabolism remain incompletely understood. This review integrates evidence from lipidomic profiling, enzymatic pathway characterization, and inflammatory signaling studies to examine how ceramide biosynthesis and turnover are modulated in acne-prone skin. Particular attention is directed to the elongation of very-long-chain fatty acids (VLCFAs) and their incorporation into ceramides by ceramide synthase 3 (CerS3). In cultured keratinocytes, ",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Gou Yvwei",
+        "Wu Hua",
+        "Wu Xingyi",
+        "Dong Guolong",
+        "Li Haodong"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Acne Vulgaris",
+        "Ceramides",
+        "Metabolic Networks and Pathways",
+        "Fatty Acids",
+        "Sphingosine N-Acyltransferase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42883979/"
+    },
+    {
+      "pmid": "42876425",
+      "title": "Effectiveness and Safety of a Moisturizer Containing Centella Asiatica Extract, Ceramide NP, and Panthenol for Erythema and Skin Barrier in Erythematotelangiectatic Rosacea: A Randomized Controlled Trial Study.",
+      "abstract": "Erythematotelangiectatic rosacea is a chronic recurrent inflammatory disease that often impose a significant psychological burden on patients. Given that effective moisturization is integral to its management, the choice of a proper moisturizer is a critical clinical consideration. Our study aims to assess the effectiveness and safety of a moisturizer containing Centella asiatica extract, ceramide NP, and panthenol for erythema and skin barrier in Chinese patients with erythematotelangiectatic rosacea.",
+      "year": "2026",
+      "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+      "authors": [
+        "Jiang Xia",
+        "Luo Haoyun",
+        "He Xiao",
+        "Hu Chenmin",
+        "Dan Kena"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Rosacea",
+        "Middle Aged",
+        "Male",
+        "Ceramides",
+        "Adult",
+        "Erythema",
+        "Pantothenic Acid",
+        "Triterpenes"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42876425/"
+    }
+  ],
+  "crawled_at": "2026-10-31T00:27:24.959633",
+  "source": "pubmed"
+}

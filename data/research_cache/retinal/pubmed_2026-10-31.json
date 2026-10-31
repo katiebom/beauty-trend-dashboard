@@ -1,0 +1,196 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42959619",
+      "title": "Macular burn caused by laser used in dermatological hair removal procedure on the arm: A case report and literature review.",
+      "abstract": "To report a case of iatrogenic macular burn caused by a cosmetic laser hair removal procedure and review the related literature.",
+      "year": "2026",
+      "journal": "American journal of ophthalmology case reports",
+      "authors": [
+        "Aljohani Saud",
+        "AlHajri Hajar M",
+        "AlTurki Hissah S"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42959619/"
+    },
+    {
+      "pmid": "42957777",
+      "title": "A clinical multimodal vision language foundation model with fine-grain explainability.",
+      "abstract": "Despite their considerable promise, many current medical foundation models remain modality specific and lack transparent reasoning, limiting clinical adoption. To address this gap, we introduce Explainable Vision Language Foundation Model for Medicine (EVLF-FM), a multimodal vision language foundation model that combines broad diagnostic capabilities with fine-grained explainability. The development and testing of EVLF-FM encompassed more than 1.3 million total samples from 18 global datasets across 10 imaging modalities related to six clinical specialties: dermatology, hepatology, ophthalmology, pathology, pulmonology and radiology. External validation employed 13,443 independent test samples from 17 additional datasets across 10 imaging modalities. EVLF-FM supports disease diagnosis, visual question answering and pixel-level visual grounding with reasoning capabilities. In internal validation for disease diagnostics, EVLF-FM achieved the highest average accuracy, 0.895, outperforming leading generalist and specialist models. In medical visual grounding, EVLF-FM also achieved reasonable performance across nine modalities with average accuracy at 0.5 intersection over union (Acc@0.5) of 0.842. External testing further confirmed consistent zero-shot and few-shot performance, with competitive F1 scores despite a smaller model size. A hybrid training strategy combining supervised and visual reinforcement fine-tuning enables EVLF-FM to generate clinically interpretable explanations aligned with visual evidence. Human evaluation of these reasoning outputs using the S.C.O.R.E. framework yielded a high overall mean score of 4.25/5, supporting their clinical interpretability. Current limitations include the need for additional validation across diverse healthcare settings. Prospective clinical studies are required to evaluate the safety, effectiveness and clinical utility of EVLF-FM before routine clinical deployment.",
+      "year": "2026",
+      "journal": "Nature medicine",
+      "authors": [
+        "Bai Yang",
+        "Cheng Haoran",
+        "Zhou Yang",
+        "Zhou Jun",
+        "Thirunavukarasu Arun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42957777/"
+    },
+    {
+      "pmid": "42955436",
+      "title": "Decreased superficial retinal microvascular density in alopecia areata: an OCT angiography study.",
+      "abstract": "This study aimed to evaluate retinal microvascular and structural changes in patients with alopecia areata (AA) using optical coherence tomography angiography (OCTA). To our knowledge, retinal microvascular alterations have not been investigated via OCTA in AA before.",
+      "year": "2026",
+      "journal": "International ophthalmology",
+      "authors": [
+        "Erdem Uysal Merve",
+        "Kurtul Bengi Ece",
+        "Akbay Selen Taner",
+        "Çelik Ebru"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Tomography, Optical Coherence",
+        "Male",
+        "Prospective Studies",
+        "Retinal Vessels",
+        "Adult",
+        "Fluorescein Angiography",
+        "Alopecia Areata",
+        "Young Adult"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955436/"
+    },
+    {
+      "pmid": "42944934",
+      "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
+      "abstract": "Phototherapy is a non-invasive therapeutic modality that uses specific wavelengths of light to modulate biological processes and treat disease. Driven by advances in photobiology, regenerative medicine, and clinical technology, phototherapy has evolved from empirical heliotherapy into a mechanism-based intervention with expanding medical applications. This review places the biological effects, therapeutic indications, and safety profiles of ultraviolet, blue, and green light in comparative context, while focusing primarily on the mechanisms, dosimetry, and clinical translation of red and near-infrared photobiomodulation (PBM). Although ultraviolet and blue light therapies have established roles in dermatology and neonatal jaundice, their clinical use is limited by concerns such as photocarcinogenesis, retinal phototoxicity, and circadian disruption. In contrast, red and near-infrared light offer deeper tissue penetration and, when appropriately dosed, a comparatively low risk of direct photochemical injury. Through mitochondrial, redox, inflammatory, and other context-dependent signaling pathways, red/NIR PBM has been investigated in wound repair, chronic pain, osteoarthritis, musculoskeletal disorders, neurological conditions, and dermatological applications. As a representative quantitative example, a 2024 meta-analysis of 10 placebo-controlled randomized trials involving 542 participants with knee osteoarthritis found a moderate reduction in pain at rest with PBM compared with placebo (standardized mean difference, - 0.70; 95% confidence interval, - 1.10 to - 0.20), although the certainty of evidence was very low. However, broader clinical translation remains constrained by heterogeneous dosimetry, insufficiently standardized treatment protocols, and uneven evidence maturity across indications. To address these limitations, we propose a precision-oriented framework that links clinical target, tissue-optical context, wavelength selection, patient- and site-specific modifiers, dosimetric implications, measurable endpoints, and evidence maturity. This framework is intended to support treatment planning, parameter reporting, and prospective validation rather than to prescribe currently validated individualized dosing algorithms.",
+      "year": "2026",
+      "journal": "Lasers in medical science",
+      "authors": [
+        "Shi Lihao",
+        "Lu Jiaqi",
+        "Wei Bin",
+        "Zhou Pengchao"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Low-Level Light Therapy",
+        "Red Light",
+        "Precision Medicine",
+        "Infrared Rays",
+        "Blue Light"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944934/"
+    },
+    {
+      "pmid": "42944109",
+      "title": "Mapping the Evidence for Bioactive Compound-Based Adjunctive Therapies in Canine Ocular Diseases: A Scoping Review.",
+      "abstract": "Bioactive compounds are widely used as adjunctive therapies for canine ocular disease, yet the supporting evidence has not been systematically mapped. This scoping review characterised its distribution, design and direction. PubMed and CAB Abstracts were searched, supplemented by Google Scholar and backward citation searching; 1350 records were screened and the 50 included studies were charted by compound class, disease category and study design. They addressed keratoconjunctivitis sicca; the cornea and ocular surface; cataracts and lenses; retinal disease; and glaucoma, the last with only a single study. Thirteen were therapeutic trials in dogs with naturally occurring disease, seven of them in keratoconjunctivitis sicca; eleven further studies used healthy or purpose-bred dogs or induced models. The remaining evidence rested mainly on in vitro work, deficiency observations and uncontrolled reports. Null or unfavourable results were reported for topical hyaluronic acid in corneal wound healing and for dietary docosahexaenoic acid in progressive rod-cone degeneration. Reports on one marketed supplement differed in direction; commercial interests were declared in some but not others, and their influence could not be determined. This evidence map delineates where canine research has accumulated and where it has not, providing a basis for prioritising controlled trials with concurrent safety assessment.",
+      "year": "2026",
+      "journal": "Veterinary sciences",
+      "authors": [
+        "Bae Yubin",
+        "Jang Yoonmi",
+        "Sim Seoyi",
+        "Choi Suji"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944109/"
+    },
+    {
+      "pmid": "42935868",
+      "title": "Neurovascular Retinomics for Noninvasive Profiling of Cancer Risk: A Prospective Cohort Study in the UK Biobank.",
+      "abstract": "To comprehensively evaluate the predictive value of neurovascular retinal measurements for incident cancer.",
+      "year": "2026",
+      "journal": "Ophthalmology science",
+      "authors": [
+        "Zhang Selena Wei",
+        "Yusufu Mayinuer",
+        "Gong Xia",
+        "Shang Xianwen",
+        "Gao Feng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42935868/"
+    },
+    {
+      "pmid": "42929837",
+      "title": "Molecular Characterization of ",
+      "abstract": "Aldehyde dehydrogenase 1 family member A1 (ALDH1A1) is broadly expressed in mammalian tissues and is a key enzyme in retinoic acid (RA) biosynthesis, a process closely linked to hair follicle regeneration. Its expression pattern and function in cashmere goats, however, remain poorly defined. In this study, we isolated and characterized the full-length open reading frame (ORF) of ",
+      "year": "2026",
+      "journal": "Cells",
+      "authors": [
+        "Yang Yuxin",
+        "Wang Meijie",
+        "Li Fang",
+        "Zhang Xiaoyi",
+        "Cai Yuxin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Goats",
+        "Cell Proliferation",
+        "Hair Follicle",
+        "Phylogeny",
+        "Stem Cells",
+        "Male",
+        "Aldehyde Dehydrogenase 1 Family",
+        "Amino Acid Sequence",
+        "Female"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42929837/"
+    },
+    {
+      "pmid": "42924008",
+      "title": "Severe Intraocular Inflammation Mimicking Masquerade Syndrome in a Patient Treated with Dupilumab: A Case Report.",
+      "abstract": "The aim of the study was to report a case of severe vision-threatening intraocular inflammation with exudative retinal detachment presenting as a masquerade syndrome in a patient receiving dupilumab therapy for severe bronchial asthma.",
+      "year": "2026",
+      "journal": "Case reports in ophthalmology",
+      "authors": [
+        "Hu Lorenzo",
+        "Scupola Andrea",
+        "Caputo Carmela Grazia",
+        "Pagliara Monica Maria",
+        "Mottola Francesco"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42924008/"
+    },
+    {
+      "pmid": "42923813",
+      "title": "Topical Carbonic Anhydrase Inhibitors in Macular Edema: A Systematic Review.",
+      "abstract": "In order to systematically evaluate the efficacy and safety of topical carbonic anhydrase inhibitors (CAIs) in the treatment of macular edema across different retinal disorders, a systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Scopus, Web of Science, and the Cochrane Library were searched from inception to June 13, 2026, without language or publication date restrictions. Clinical studies evaluating topical dorzolamide or brinzolamide for macular edema of any etiology were included. Data regarding study characteristics, treatment protocols, visual and anatomical outcomes, and follow-up were extracted independently by two reviewers. Twenty-eight studies met the inclusion criteria, comprising randomized controlled trials, quasi-experimental studies, cohort studies, case series, and one analytical cross-sectional study. Overall, the included studies were of moderate-to-high methodological quality. Retinitis pigmentosa-associated cystoid macular edema was the most frequently investigated condition (13 studies), followed by X-linked retinoschisis (10 studies), diabetic macular edema (four studies), and one macular edema following vitrectomy and epiretinal membrane removal. Topical dorzolamide was the most commonly evaluated agent, whereas topical brinzolamide was investigated less frequently. Across retinal disorders, topical CAIs consistently reduced central macular thickness and improved retinal morphology as assessed by optical coherence tomography. Functional outcomes were more variable, with improvements in best-corrected visual acuity observed primarily in selected patients with retinitis pigmentosa and diabetic macular edema, whereas visual gains were generally modest in X-linked retinoschisis. Long-term studies reported recurrence of macular edema despite continued treatment, particularly in retinitis pigmentosa. Topical CAIs were well tolerated, with no serious ocular or systemic adverse events reported. Topical CAIs provide consistent anatomical improvement in macular edema, particularly in inherited retinal disorders, while functional benefits are less predictable. This discrepancy between anatomical and functional outcomes may be attributed to prolonged photoreceptor loss, retinal pigment epithelium dysfunction, and irreversible disruption of the ellipsoid zone. Their favorable safety profile and non-invasive administration support their use as a therapeutic option, especially for retinitis pigmentosa-associated cystoid macular edema and selected cases of X-linked retinoschisis and diabetic macular edema. However, the current evidence is limited by predominantly observational studies and clinical heterogeneity. Well-designed multicenter randomized controlled trials are needed to establish their optimal role in the management of macular edema.",
+      "year": "2026",
+      "journal": "Cureus",
+      "authors": [
+        "Sadr Ata",
+        "Maleki Alireza",
+        "Asadollahi Mohammadreza",
+        "Maleki Shahaboddin",
+        "Asani Mahdi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42923813/"
+    },
+    {
+      "pmid": "42921614",
+      "title": "Role of Hyaluronic Acid Fillers in Facial Paralysis.",
+      "abstract": "Facial paralysis results in multifaceted functional and aesthetic deficits, including lagophthalmos, oral incompetence, and profound asymmetry. Although surgical reanimation is the primary treatment for functional restoration, hyaluronic acid (HA) fillers have emerged as a minimally invasive adjunctive tool for soft-tissue support and aesthetic refinement.",
+      "year": "2026",
+      "journal": "Plastic and reconstructive surgery. Global open",
+      "authors": [
+        "Iqbal Minahil",
+        "Berour Amina",
+        "Wakim Macram",
+        "Ajlan Zuha",
+        "Emmanuel Nancy"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921614/"
+    }
+  ],
+  "crawled_at": "2026-10-31T00:27:20.197770",
+  "source": "pubmed"
+}

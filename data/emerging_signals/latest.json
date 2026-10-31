@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T00:45:12.626525",
+  "generated_at": "2026-10-31T00:27:51.833378",
   "total_ingredients": 48,
   "signals": [
     {
@@ -9,15 +9,15 @@
       "category": "anti_aging",
       "tier_dist": {
         "T1": 3,
-        "T2": 12,
+        "T2": 11,
         "T3": 0,
-        "unknown": 10
+        "unknown": 11
       },
       "total_papers": 25,
       "recent_papers": 25,
       "clinical_trials": 0,
       "v_index": null,
-      "signal_score": 30.5,
+      "signal_score": 28.8,
       "signal_label": "🔥 임박 (T+6mo)",
       "top_t1_papers": [
         {
@@ -660,46 +660,6 @@
       ]
     },
     {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42944934",
-          "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
-          "year": "2026",
-          "journal": "Lasers in medical science"
-        },
-        {
-          "pmid": "42921614",
-          "title": "Role of Hyaluronic Acid Fillers in Facial Paralysis.",
-          "year": "2026",
-          "journal": "Plastic and reconstructive surgery. Global open"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42920841",
-          "title": "Finerenone liposome-embedded dissolving microneedles: A transcorneal platform for minimally invasive therapy of diabetic",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics: X"
-        }
-      ]
-    },
-    {
       "ingredient_id": "exosome",
       "name_kr": "엑소좀",
       "name_en": "Exosome",
@@ -798,6 +758,12 @@
       "top_t1_papers": [],
       "top_t2_papers": [
         {
+          "pmid": "42960871",
+          "title": "Pharmacogenomic Markers of Disease Susceptibility and Glucocorticoid Responsiveness in Pemphigus Vulgaris.",
+          "year": "2026",
+          "journal": "Indian dermatology online journal"
+        },
+        {
           "pmid": "42949336",
           "title": "Tea Polyphenol EGCG Prevents UVB-Induced Oxidative Stress via SIRT3-Mediated Activation of SOD2: Mechanistic Insights fr",
           "year": "2026",
@@ -808,12 +774,6 @@
           "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib in C57BL/6 Mice: An Exploratory Study of Oxidative St",
           "year": "2026",
           "journal": "Antioxidants (Basel, Switzerland)"
-        },
-        {
-          "pmid": "42911369",
-          "title": "The Evolving Landscape of Actinic Keratosis: Field Therapy, New Drugs, and Future Directions.",
-          "year": "2026",
-          "journal": "American journal of clinical dermatology"
         }
       ]
     },
@@ -895,6 +855,39 @@
           "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V"
         }
       ]
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42944934",
+          "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
+          "year": "2026",
+          "journal": "Lasers in medical science"
+        },
+        {
+          "pmid": "42921614",
+          "title": "Role of Hyaluronic Acid Fillers in Facial Paralysis.",
+          "year": "2026",
+          "journal": "Plastic and reconstructive surgery. Global open"
+        }
+      ],
+      "top_t2_papers": []
     },
     {
       "ingredient_id": "azelaic_acid",

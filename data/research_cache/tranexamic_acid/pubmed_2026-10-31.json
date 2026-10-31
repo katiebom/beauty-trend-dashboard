@@ -1,0 +1,183 @@
+{
+  "ingredient_id": "tranexamic_acid",
+  "name_en": "Tranexamic Acid",
+  "name_kr": "트라넥삼산",
+  "category": "brightening",
+  "query": "\"Tranexamic Acid\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42954965",
+      "title": "Comparative Effectiveness of Intravenous, Oral, and Topical Tranexamic Acid in Elective Spine Surgery: A Systematic Review and Network Meta-Analysis.",
+      "abstract": "Study DesignSystematic review and Bayesian network meta-analysis.ObjectiveTo compare the efficacy and safety of intravenous (IV), oral, topical, and combined IV+topical tranexamic acid (TXA) in reducing perioperative bleeding and transfusion requirements in elective spine surgery, and to identify the optimal administration route.MethodsWe searched Ovid MEDLINE, Ovid Embase, and CENTRAL from inception to February 20, 2026, for RCTs evaluating TXA routes in elective spine procedures. A Bayesian random-effects network meta-analysis was performed. Primary outcomes were length of stay (LOS), blood loss, and drainage volume; secondary outcomes included hemoglobin levels, operative time, complications, transfusion requirements, and coagulation parameters. Treatment rankings were estimated using Surface Under the Cumulative Ranking Curve (SUCRA). Trial sequential analysis (TSA) assessed evidence robustness.ResultsTwenty-five randomized controlled trials were included. Combined IV+topical TXA ranked highest for reducing LOS (SUCRA 97.1%; mean difference -2.46 days vs. control, 95% CrI -4.15 to -0.81), intraoperative blood loss (SUCRA 83.9%; MD -122.8 mL, 95% CrI -202.2 to -43.6), postoperative day 1 hemoglobin preservation (SUCRA 96.5%; MD +0.99 g/dL, 95% CrI 0.43-1.57), and drainage volume (SUCRA 83.4%; MD -191.3 mL, 95% CrI -311.6 to -74.8). Oral TXA ranked first for total blood loss (SUCRA 83.8%; MD -421.2 mL, 95% CrI -691.9 to -156.6), closely followed by combined IV+topical TXA (SUCRA 82.2%). No route significantly increased complications or adversely affected coagulation. TSA suggested insufficient evidence for definitive conclusions on several outcomes.ConclusionsCombined IV+topical TXA ranked highest for reducing hospital stay, intraoperative blood loss, and drainage volume in elective spine surgery, and no route was associated with a detected increase in reported complications. These findings suggest that combined IV+topical TXA is a promising option; however, TSA indicated that the available evidence is insufficient to establish definitive route superiority or safety, and further high-quality trials are needed.",
+      "year": "2026",
+      "journal": "Global spine journal",
+      "authors": [
+        "Hammadeh Bara M",
+        "Sabet Cameron J",
+        "Al-Qunbar Ahmad",
+        "Sabbah Leen",
+        "Mohammad AlBaraa K"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42954965/"
+    },
+    {
+      "pmid": "42944926",
+      "title": "Efficacy and safety of topical versus intravenous tranexamic acid in primary total knee arthroplasty: a systematic review and meta-analysis of randomized controlled trials.",
+      "abstract": "Total knee arthroplasty (TKA) often leads to substantial perioperative blood loss and postoperative hemoglobin decline, frequently requiring allogeneic transfusions. Tranexamic acid (TXA) effectively reduces bleeding, but debate persists regarding whether topical or intravenous (IV) administration provides superior clinical outcomes.This systematic review and meta-analysis evaluated the efficacy and safety of topical versus IV TXA in primary TKA using pooled data from randomized controlled trials (RCTs).",
+      "year": "2026",
+      "journal": "European journal of orthopaedic surgery & traumatology : orthopedie traumatologie",
+      "authors": [
+        "Yazar Cihan",
+        "Morkuzu Suat",
+        "Tantekin Mehmet Fırat",
+        "Yiğit Şeyhmus",
+        "Bayraktar Bülent"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Tranexamic Acid",
+        "Arthroplasty, Replacement, Knee",
+        "Antifibrinolytic Agents",
+        "Randomized Controlled Trials as Topic",
+        "Blood Loss, Surgical",
+        "Administration, Topical",
+        "Postoperative Hemorrhage",
+        "Administration, Intravenous",
+        "Blood Transfusion"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944926/"
+    },
+    {
+      "pmid": "42926739",
+      "title": "Tranexamic Acid in Femoral and Tibial Fracture Surgery A Narrative Review of Administration Routes and Effects on Blood Loss Safety and Fracture Healing.",
+      "abstract": "Tranexamic acid (TXA) is used to reduce perioperative bleeding in fracture surgery, but the preferred administration route and its effects on fracture healing remain uncertain. This narrative review examines intravenous, topical, and combined TXA in adult femoral and tibial fracture surgery, emphasizing direct route comparisons and the distinction between blood conservation and patient-centered outcomes. Publications identified in an initial Elicit-assisted evidence report were selectively checked against primary sources, supplemented by targeted source searches. No meta-analysis or formal risk-of-bias assessment was performed. Randomized trials generally support reductions in calculated blood loss with intravenous TXA, although transfusion benefits are not uniform. Topical TXA improves selected blood-conservation outcomes, while direct comparisons with intravenous administration yield procedure-dependent results. Adding local TXA to intravenous treatment reduced calculated blood loss in a tibial nailing trial, but observational hip-fracture studies do not establish a consistent advantage for combined administration. Studies generally did not detect increased thromboembolic events; limited sample sizes and selected populations preclude firm conclusions about uncommon harms or comparative safety. Fracture-union evidence is sparse and does not establish that TXA accelerates healing or that one route is preferable for this purpose. TXA is a useful blood-conservation adjunct in selected femoral and tibial fracture procedures, but current evidence does not support a universal ranking of administration routes. Procedure-specific randomized comparisons with standardized transfusion criteria and longer-term union and functional outcomes are needed.",
+      "year": "2026",
+      "journal": "Orthopedic reviews",
+      "authors": [
+        "Kaddoura Samar",
+        "Viswanath Omar",
+        "Ganti Latha"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42926739/"
+    },
+    {
+      "pmid": "42919993",
+      "title": "Prospective Study of Hemoglobin Changes, Blood Loss, and the Role of Body Mass Index in Body Contouring Procedures.",
+      "abstract": "Intraoperative blood loss (BL) and subsequent hemoglobin (Hb) decline remain significant safety concerns in body contouring procedures. Also, the role of body mass index (BMI) in predicting BL and the comparative safety of excisional versus non-excisional procedures have not been fully characterized.",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Raouf Tanya Mohammed",
+        "Qadir Ari Raheem"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42919993/"
+    },
+    {
+      "pmid": "42910833",
+      "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+      "authors": [
+        "Owens Kyle S",
+        "Murina Andrea",
+        "Chaffin Abigail"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42910833/"
+    },
+    {
+      "pmid": "42907601",
+      "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia Preservation: A Pilot Study\".",
+      "abstract": "Tranexamic acid (TXA) may reduce postoperative bleeding and drainage after abdominoplasty, but the evidence for combined intravenous and topical administration remains limited. This Letter to the Editor critically appraises a recent pilot study of TXA in Scarpa fascia-preserving abdominoplasty. Important concerns include its retrospective, non-randomized design; potential temporal and indication-related confounding; absence of separate route-specific comparator groups; limited generalizability; inadequate power to detect rare thromboembolic events; and uncertain clinical relevance of the reported drainage reduction. Potential circularity in the analysis of drain duration is also discussed. Larger randomized trials with standardized protocols and patient-reported outcomes are needed before routine adoption.Level of Evidence V This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+      "year": "2026",
+      "journal": "Aesthetic plastic surgery",
+      "authors": [
+        "Akhtar Iqra",
+        "Saeed Eesha",
+        "Zafar Umaiza",
+        "Rehman Sawaira"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42907601/"
+    },
+    {
+      "pmid": "42901881",
+      "title": "The Safety of Melasma Treatment in Vitiligo Patients: An International E-Delphi Study.",
+      "abstract": "Vitiligo and melasma frequently coexist, creating a treatment dilemma, since agents effective for one condition can destabilize the other, and no consensus currently exists on safe management. We conducted a scoping literature review (through June 2023) on treatment of patients with concomitant vitiligo and melasma, followed by a two-round international e-Delphi survey (22 experts from 14 countries; consensus defined as ≥ 70% agreement) and a final online consensus meeting. Only one study supported the safe use of oral tranexamic acid for melasma in vitiligo patients. Expert consensus favored prioritizing vitiligo treatment, particularly when active, while incorporating patient's preferences. Targeted phototherapy is suitable for localized facial lesions of vitiligo, and non-facial vitiligo can be treated alongside melasma after covering the face. Topical calcineurin inhibitors, ruxolitinib, tretinoin, corticosteroids, and oral tranexamic acid can be used. Lasers and chemical peels were recommended only with caution by experienced pigment specialists. Until there is enough scientific evidence, hydroquinone would be replaced by other safer cosmetic lightening agents (e.g., niacinamide, ascorbic acid, thiamidol, melasyl), which show comparable efficacy with less theoretical risk. This first international consensus offers practical, patient-centered guidance for managing coexisting vitiligo and melasma, emphasizing individualized, disease-activity-based treatment sequencing. Trial Registration: PROSPERO reference number: RD42023395586 Significance. Depigmenting agents used for melasma inhibit melanogenesis, a mechanism that can further compromise the already-stressed melanocyte populations characteristic of vitiligo. This consensus gives clinicians an expert-informed pathway through a common but understudied comorbidity. It also identifies a clear research gap: controlled, mechanistic comparisons of hydroquinone against newer tyrosinase inhibitors specifically in vitiligo-prone skin are still lacking.",
+      "year": "2026",
+      "journal": "Pigment cell & melanoma research",
+      "authors": [
+        "Abdallah Marwa",
+        "Ezzedine Khaled",
+        "Passeron Thierry",
+        "Eleftheriadou Viktoria",
+        "Benzekri Laila"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Delphi Technique",
+        "Melanosis",
+        "Vitiligo"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42901881/"
+    },
+    {
+      "pmid": "42888572",
+      "title": "Hyaluronic acid-based skin booster with glutathione combined with 1064-nm Nd:YAG laser and oral tranexamic acid for melasma: A prospective comparative study.",
+      "abstract": "Melasma is a chronic, acquired facial hyperpigmentation disorder with multifactorial pathogenesis and frequent relapse. Low-fluence 1064-nm Q-switched neodymium-doped yttrium aluminum garnet (Nd:YAG) (LQSNY) laser with oral tranexamic acid (TA) is widely used, but responses are often incomplete and short-lived. glutathione (GSH), an antioxidant that inhibits melanogenesis, may improve outcomes when delivered intradermally with a hyaluronic acid (HA) carrier. We assessed whether adding an HA-based GSH skin booster (HA-GSH) to this regimen enhances efficacy and durability. Fifty Chinese women with epidermal melasma (Fitzpatrick III-IV) were randomized 1:1 to 6 monthly LQSNY sessions plus oral TA (250 mg daily), with (Group A) or without (Group B) intradermal HA-GSH. The primary outcome was change in modified melasma area and severity index (mMASI) at 6 months and at 2-month posttreatment follow-up. Secondary outcomes were patient satisfaction (short assessment of patient satisfaction) and safety. Sample size was determined a priori. mMASI was analyzed using a linear mixed-effects model with baseline mMASI as a covariate and Benjamini-Hochberg adjustment for visit-level comparisons. Thirty-six patients completed the study (18 per group); baseline mMASI was comparable (5.61 ± 1.29 vs 5.56 ± 1.20; P = .89). Fourteen participants withdrew (seven per group), none due to adverse events. Group A showed significantly greater mMASI reduction from the third session onward. Adjusted for baseline, the mean difference across all post-baseline visits was 0.72 points (95% confidence interval 0.46-0.98; P < .001) favoring Group A, evident at the first posttreatment assessment. At 6 months, mean mMASI was lower in Group A (2.50 ± 0.62 vs 3.39 ± 0.70; P < .001), an advantage maintained at follow-up (2.06 ± 0.54 vs 2.67 ± 0.59; P = .003). More Group A patients were \"very satisfied\" (28% vs 11%), though not significantly (P = .31). Both regimens were well tolerated; only transient erythema, mild swelling, and bruising occurred, with no serious or pigmentary adverse events. Adding intradermal HA-GSH to LQSNY laser and oral TA produced earlier, greater, and more durable melasma improvement with high satisfaction and a favorable safety profile, supporting HA-GSH as a promising adjuvant pending confirmation in larger, longer trials.",
+      "year": "2026",
+      "journal": "Medicine",
+      "authors": [
+        "Bai Jie Ling"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Young Adult",
+        "Administration, Oral",
+        "Combined Modality Therapy",
+        "Glutathione",
+        "Hyaluronic Acid",
+        "Lasers, Solid-State"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42888572/"
+    },
+    {
+      "pmid": "42878097",
+      "title": "Immediate Perioperative Hypersensitivity and Anaphylaxis in Neuroanesthesia Practice: A Focused Review.",
+      "abstract": "Perioperative hypersensitivity reactions are uncommon but potentially catastrophic. Neurosurgical and spine patients are especially vulnerable, as the injured brain and spinal cord tolerate anaphylaxis-induced hypotension poorly, cerebral and spinal perfusion may fall precipitously, and draping of the head and torso may obscure cutaneous signs. These procedures also rely heavily on topical hemostatic agents. National audits estimate the incidence of perioperative anaphylaxis at roughly 1 in 5000 to 10,000 anesthetics, but estimates vary geographically. No study has reported a denominator-based incidence confined to neurosurgery, leaving the true burden uncharacterized for this surgical specialty. This focused review summarizes the agents, mechanisms, and perioperative implications of immediate hypersensitivity and anaphylaxis relevant to neuroanesthesia. Immediate reactions are immunologic (IgE-mediated, or IgG- and complement-mediated) or nonimmunologic (direct mast-cell activation) but converge on mast-cell and basophil mediator release, which renders their presentations largely indistinguishable. We examine agents of relevance to neurosurgery, including neuromuscular blocking agents, cefazolin and other β-lactams, chlorhexidine, sugammadex, gelatin-based and other hemostatic agents, protamine, tranexamic acid, fluorescent and dye agents, and iodinated contrast media-alongside their mechanisms and safer alternatives. Management follows international consensus recommendations centered on prompt epinephrine administration and fluid resuscitation titrated to severity. Antihistamines and corticosteroids are useful adjuncts but should not delay resuscitation. Improved outcomes depend on greater awareness, careful allergy assessment and appropriate de-labeling, surgical-anesthesia communication, and wider access to testing and dedicated surveillance.",
+      "year": "2026",
+      "journal": "Journal of neurosurgical anesthesiology",
+      "authors": [
+        "Manlapaz Mariel",
+        "Farag Ehab"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42878097/"
+    },
+    {
+      "pmid": "42866634",
+      "title": "Incidence of venous thromboembolism with intraoperative tranexamic acid use in breast surgery patients on estrogen-containing medications: a case series.",
+      "abstract": "Consideration of perioperative bleeding and venous thromboembolism (VTE) are important thrombotic complications for surgeons. Tranexamic acid (TXA) is an antifibrinolytic agent that is often used perioperatively to control bleeding. Product monographs caution its use in patients using estrogen-containing medications due to theoretical increased risk of VTE. However, no studies have explored this relationship in breast surgery. This retrospective case series aimed to determine the incidence of VTE with intraoperative TXA use in breast surgery patients using estrogen-containing medication at our institution. Demographics, estrogen medications, surgical characteristics and incidence of VTE were recorded and summarized narratively. Between 2018-2025, 188 breast surgeries with intraoperative TXA administration were performed. Twelve patients used to estrogen-contain medications at the time of surgery. Eight patients used an estrogen-containing combined hormonal contraceptive. Four patients used estrogen hormone therapy. TXA was administered intravenously (N = 7) or topical irrigation (N = 5). No patients had incidence of VTE. This is the first study to describe the relationship of TXA and estrogen-containing medications in breast surgery patients. These results provide preliminary clinical data regarding a patient population for which TXA use is cautioned against. Future prospective studies are warranted to better define the risk-benefit profile of TXA in this population.",
+      "year": "2026",
+      "journal": "JPRAS open",
+      "authors": [
+        "Tsang Quentin K",
+        "Churchill Isabella F",
+        "Adekoya Precious",
+        "Ghumman Ammara"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42866634/"
+    }
+  ],
+  "crawled_at": "2026-10-31T00:27:30.602257",
+  "source": "pubmed"
+}
