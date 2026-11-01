@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:27:51.833378",
+  "generated_at": "2026-11-01T00:04:18.546738",
   "total_ingredients": 48,
   "signals": [
     {
@@ -465,6 +465,52 @@
       "top_t2_papers": []
     },
     {
+      "ingredient_id": "exosome",
+      "name_kr": "엑소좀",
+      "name_en": "Exosome",
+      "category": "regeneration",
+      "tier_dist": {
+        "T1": 2,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42928334",
+          "title": "Functional engineering of adipose-derived stem cell exosomes and its application in soft tissue regeneration.",
+          "year": "2026",
+          "journal": "Stem cell research & therapy"
+        },
+        {
+          "pmid": "42906434",
+          "title": "Bioactive M2 exosome hybrid nanocomposites for immune therapy of psoriasis.",
+          "year": "2026",
+          "journal": "Biomaterials advances"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42963826",
+          "title": "Pantethine Restores Epidermal Homeostasis and Modulates Vesicle-Associated Proteins in Psoriasis.",
+          "year": "2026",
+          "journal": "Experimental dermatology"
+        },
+        {
+          "pmid": "42939759",
+          "title": "",
+          "year": "2026",
+          "journal": "Biomolecules"
+        }
+      ]
+    },
+    {
       "ingredient_id": "ceramide",
       "name_kr": "세라마이드",
       "name_en": "Ceramide",
@@ -660,46 +706,6 @@
       ]
     },
     {
-      "ingredient_id": "exosome",
-      "name_kr": "엑소좀",
-      "name_en": "Exosome",
-      "category": "regeneration",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42928334",
-          "title": "Functional engineering of adipose-derived stem cell exosomes and its application in soft tissue regeneration.",
-          "year": "2026",
-          "journal": "Stem cell research & therapy"
-        },
-        {
-          "pmid": "42906434",
-          "title": "Bioactive M2 exosome hybrid nanocomposites for immune therapy of psoriasis.",
-          "year": "2026",
-          "journal": "Biomaterials advances"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42939759",
-          "title": "",
-          "year": "2026",
-          "journal": "Biomolecules"
-        }
-      ]
-    },
-    {
       "ingredient_id": "retinol",
       "name_kr": "레티놀",
       "name_en": "Retinol",
@@ -774,6 +780,45 @@
           "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib in C57BL/6 Mice: An Exploratory Study of Oxidative St",
           "year": "2026",
           "journal": "Antioxidants (Basel, Switzerland)"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "azelaic_acid",
+      "name_kr": "아젤라산",
+      "name_en": "Azelaic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42963009",
+          "title": "pH-regulated supersaturation enables nanonization of three model drugs for enhanced oral and transdermal delivery.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "42660372",
+          "title": "Topical treatment of rosacea: update and outlook.",
+          "year": "2026",
+          "journal": "International journal of pharmaceutics"
+        },
+        {
+          "pmid": "42572367",
+          "title": "Efficacy and safety of a novel anhydrous 0.1% retinal and 10% azelaic acid concentrate for blemish-prone skin: An eight-",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
         }
       ]
     },
@@ -890,39 +935,6 @@
       "top_t2_papers": []
     },
     {
-      "ingredient_id": "azelaic_acid",
-      "name_kr": "아젤라산",
-      "name_en": "Azelaic Acid",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42660372",
-          "title": "Topical treatment of rosacea: update and outlook.",
-          "year": "2026",
-          "journal": "International journal of pharmaceutics"
-        },
-        {
-          "pmid": "42572367",
-          "title": "Efficacy and safety of a novel anhydrous 0.1% retinal and 10% azelaic acid concentrate for blemish-prone skin: An eight-",
-          "year": "2026",
-          "journal": "International journal of cosmetic science"
-        }
-      ]
-    },
-    {
       "ingredient_id": "microbiome",
       "name_kr": "마이크로바이옴/포스트바이오틱스",
       "name_en": "Microbiome/Postbiotics",
@@ -985,40 +997,6 @@
           "title": "Cutaneous delivery of bioactive components from a rice bran oil nanoemulsion and their biodistribution in porcine and hu",
           "year": "2026",
           "journal": "International journal of pharmaceutics: X"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "urea",
-      "name_kr": "우레아",
-      "name_en": "Urea",
-      "category": "hydration",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42854439",
-          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
-          "year": "2026",
-          "journal": "Burns : journal of the International Society for Burn Injuries"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42845089",
-          "title": "The effect of red palm oil (",
-          "year": "2026",
-          "journal": "Dermatology reports"
         }
       ]
     },
@@ -1208,6 +1186,33 @@
           "journal": "The Journal of dermatology"
         }
       ]
+    },
+    {
+      "ingredient_id": "urea",
+      "name_kr": "우레아",
+      "name_en": "Urea",
+      "category": "hydration",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42854439",
+          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
+          "year": "2026",
+          "journal": "Burns : journal of the International Society for Burn Injuries"
+        }
+      ],
+      "top_t2_papers": []
     },
     {
       "ingredient_id": "silica",
