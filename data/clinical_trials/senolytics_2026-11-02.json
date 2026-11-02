@@ -1,0 +1,798 @@
+{
+  "ingredient_id": "senolytics",
+  "name_kr": "세놀리틱스",
+  "name_en": "senolytics",
+  "query": "(\"senolytics\" OR \"senolytic\" OR \"senescence\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 26,
+  "trials": [
+    {
+      "nct_id": "NCT06978647",
+      "title": "A Clinical Study of YTS109 Cell in R/R Autoimmune Diseases",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus (SLE)",
+        "Systemic Sclerosis (SSc)",
+        "Inflammatory Myopathy",
+        "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+        "Antiphospholipid Syndrome (APS)",
+        "Rheumatoid Arthritis (RA)",
+        "IgG4-Related Diseases",
+        "Sjogren&#39;s Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "YTS109 cell"
+        }
+      ],
+      "sponsor": "China Immunotech (Beijing) Biotechnology Co., Ltd.",
+      "primary_completion": "2027-05-19",
+      "url": "https://clinicaltrials.gov/study/NCT06978647"
+    },
+    {
+      "nct_id": "NCT07248085",
+      "title": "The Effect of Rapid Relaxation Exercise and Cold Application on Pain, Anxiety, and Satisfaction Before Chest Tube Removal",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Open Heart Surgery"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Cold Application"
+        },
+        {
+          "type": "OTHER",
+          "name": "Rapid Relaxation Exercise"
+        }
+      ],
+      "sponsor": "Ataturk University",
+      "primary_completion": "2026-05-30",
+      "url": "https://clinicaltrials.gov/study/NCT07248085"
+    },
+    {
+      "nct_id": "NCT05360914",
+      "title": "Hospital at Home for Elderly Acute Ill Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cystitis",
+        "Erysipelas",
+        "Pneumonia"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Hospital at Home (HaH) treatment"
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard hospital admission"
+        }
+      ],
+      "sponsor": "Defactum, Central Denmark Region",
+      "primary_completion": "2027-08",
+      "url": "https://clinicaltrials.gov/study/NCT05360914"
+    },
+    {
+      "nct_id": "NCT07362992",
+      "title": "Topical Tranexamic Acid to Reduce Blood Loss During Cesarean Delivery",
+      "status": "RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Cesarean Delivery",
+        "Postpartum Hemorrhage (PPH)",
+        "Intraoperative Blood Loss",
+        "Hemostasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid (Topical)"
+        },
+        {
+          "type": "OTHER",
+          "name": "Normal Saline (Placebo)"
+        }
+      ],
+      "sponsor": "Wolfson Medical Center",
+      "primary_completion": "2028-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT07362992"
+    },
+    {
+      "nct_id": "NCT06974006",
+      "title": "Life Monitoring for Rural Older Adults",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Aged 60 Years or Older"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Devices: Kardia Mobile 6L; Omron M7 BP ; Beurer PO30; Datospir Peak-10; NUTRILAB BIA 101 BIVA® PRO; JAMAR® Smart."
+        }
+      ],
+      "sponsor": "European University Miguel de Cervantes",
+      "primary_completion": "2028-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT06974006"
+    },
+    {
+      "nct_id": "NCT07907419",
+      "title": "Effect of a Health Belief Model Based Digital Nudge Intervention on Breast Cancer Screening",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer Screening",
+        "Breast Cancer Awareness",
+        "Health Belief Model"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Multicomponent Digital Nudging Intervention Group"
+        }
+      ],
+      "sponsor": "Ataturk University",
+      "primary_completion": "2027-04",
+      "url": "https://clinicaltrials.gov/study/NCT07907419"
+    },
+    {
+      "nct_id": "NCT07601893",
+      "title": "Effects of Core Stabilization Exercises and Rotation Angular Breathing Exercises Among Idiopathic Scoliosis Patients",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Idiopathic Adolescent Scoliosis",
+        "Scoliosis Idiopathic"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Core Stabilization Exercises"
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard Care (in control arm)"
+        }
+      ],
+      "sponsor": "Lahore University of Biological and Applied Sciences",
+      "primary_completion": "2026-10-15",
+      "url": "https://clinicaltrials.gov/study/NCT07601893"
+    },
+    {
+      "nct_id": "NCT04224038",
+      "title": "The Inspire Bio-resource Research Platform for Healthy Aging INSPIRE Platform",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Biological Aging"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "The Inspire Bio-resource Research Platform for Healthy Aging"
+        }
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "primary_completion": "2031-10-16",
+      "url": "https://clinicaltrials.gov/study/NCT04224038"
+    },
+    {
+      "nct_id": "NCT07271849",
+      "title": "Nalbuphine Timing Effects on Hemodynamics and Analgesia in Elderly Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postoperative Pain, Acute",
+        "Hemodynamics",
+        "Total Knee Arthroplasty (TKA)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Nalbuphine Hydrochloride injection was administered during anesthesia induction."
+        },
+        {
+          "type": "DRUG",
+          "name": "Nalbuphine Hydrochloride injection was administered after cement implantation."
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard general anesthesia regimen ( nalbuphine was not administered throughout the entire anesthesia process.)"
+        }
+      ],
+      "sponsor": "Qianfoshan Hospital",
+      "primary_completion": "2026-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07271849"
+    },
+    {
+      "nct_id": "NCT07282717",
+      "title": "Fibroblast Line Evaluation for COL5A eXpression and Thoracic Aortic Aneurysms: in Vitro Characterization of Cutaneous Fibroblasts in Adult Patients",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Mutations Affecting the COL5A Gene",
+        "Aneurysm Aortic"
+      ],
+      "interventions": [],
+      "sponsor": "IRCCS Policlinico S. Donato",
+      "primary_completion": "2028-01",
+      "url": "https://clinicaltrials.gov/study/NCT07282717"
+    },
+    {
+      "nct_id": "NCT07848555",
+      "title": "Dermal and Ophthalmological Acceptability and Comedogenicity Assessment of a Cosmetic Product",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Oily Skin",
+        "Acne Prone Skin"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "moisturizing cream"
+        }
+      ],
+      "sponsor": "Brainfarma Industria Química e Farmacêutica S/A",
+      "primary_completion": "2026-10-28",
+      "url": "https://clinicaltrials.gov/study/NCT07848555"
+    },
+    {
+      "nct_id": "NCT06866574",
+      "title": "A Phase III Trial to Evaluate the Efficacy, Immunogenicity and Safety of a Recombinant Human Papillomavirus 9-Valent (Types 6, 11, 16, 18, 31, 33, 45, 52, 58) Vaccine (E.Coli) in Chinese Males",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Penile/Perineal /Perianal Intraepithelial Neoplasia",
+        "Anal Intraepithelial Neoplasia",
+        "Penile/Perianal/Perineal Cancer",
+        "Anal Cancer",
+        "Genital Warts"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Recombinant Human Papillomavirus 9-Valent (Types 6, 11, 16, 18, 31, 33, 45, 52, 58) Vaccine (E.coli)"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Aluminum Adjuvant"
+        }
+      ],
+      "sponsor": "Xiamen University",
+      "primary_completion": "2031-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT06866574"
+    },
+    {
+      "nct_id": "NCT07890740",
+      "title": "Continuous Glucose Monitoring and Dietary Self-Management in Adults in Namwon",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Prediabetes",
+        "Dietary Self-Management",
+        "Diabetes Mellitus, Type 2"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Continuous Glucose Monitoring With Application-Based Biofeedback"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Common Standardized Education and Behavioral Goal Setting"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Common Digital Health Program and Basic Health Counseling"
+        }
+      ],
+      "sponsor": "Ji-Yeob Choi",
+      "primary_completion": "2027-09",
+      "url": "https://clinicaltrials.gov/study/NCT07890740"
+    },
+    {
+      "nct_id": "NCT07642791",
+      "title": "Safety of Opportunistic Salpingectomy During Elective Laparoscopic Cholecystectomy.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Ovarian Cancer",
+        "Cholecystolithiasis"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Opportunistic salpingectomy"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Cholecystectomy"
+        }
+      ],
+      "sponsor": "University of Zurich",
+      "primary_completion": "2028-05-31",
+      "url": "https://clinicaltrials.gov/study/NCT07642791"
+    },
+    {
+      "nct_id": "NCT06948110",
+      "title": "Deciphering the Genetic Architecture of Autoimmune Diseases",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Autoimmune Diseases"
+      ],
+      "interventions": [],
+      "sponsor": "National Human Genome Research Institute (NHGRI)",
+      "primary_completion": "2030-04-22",
+      "url": "https://clinicaltrials.gov/study/NCT06948110"
+    },
+    {
+      "nct_id": "NCT07663825",
+      "title": "Acetylsalicylic Acid Versus Placebo as an add-on Treatment to Local Non-steroidal Anti-inflammatory Drug for the Management of Thrombotic Episodes in Superficial Venous Malformations in Children Aged 6 to 17 Years.",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Venous Malformation, Low Flow",
+        "Venous Malformations"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "AAS at anti-inflammatory doses from 3 days to 14 days."
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo from 3 days to 14 days."
+        },
+        {
+          "type": "DRUG",
+          "name": "Application of Diclofenac gel 1% twice a day"
+        }
+      ],
+      "sponsor": "University Hospital, Tours",
+      "primary_completion": "2030-09",
+      "url": "https://clinicaltrials.gov/study/NCT07663825"
+    },
+    {
+      "nct_id": "NCT07605520",
+      "title": "An Experimental Medicine Multicenter Trial to Evaluate the Safety and Immunogenicity of Experimental Versus Authorized SARS-CoV-2 Vaccine Candidates as a Booster Dose in Healthy Participants Previously Vaccinated With Authorized mRNA SARS-CoV-2 Vaccines.",
+      "status": "RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Healthy Adults"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "CD40.RBDv vaccine adjuvanted with Hiltonol®"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "CD40.Pan.CoV vaccine adjuvanted with Hiltonol®"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Comirnaty® vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Nuvaxovid™ vaccine"
+        }
+      ],
+      "sponsor": "ANRS, Emerging Infectious Diseases",
+      "primary_completion": "2028-05",
+      "url": "https://clinicaltrials.gov/study/NCT07605520"
+    },
+    {
+      "nct_id": "NCT06920810",
+      "title": "Viscum Album for TNBC on Adjuvant Pembrolizumab",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Breast Cancer",
+        "Triple Negative Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "viscum album"
+        }
+      ],
+      "sponsor": "Ilsan Cha hospital",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06920810"
+    },
+    {
+      "nct_id": "NCT07198750",
+      "title": "\"Bimodal vs Unimodal High-Intensity Pulsed Electromagnetic Field Therapy in Older Adults With Knee Osteoarthritis\"",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Knee Osteoarthritis",
+        "Osteoarthritis",
+        "Osteo Arthritis of the Knee",
+        "Gonarthrosis"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "HI-PEMF - Knee (Chronic Pain Protocol)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "HI-PEMF - Quadriceps (Muscle Strengthening Protocol)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Home-Based Exercise Program"
+        }
+      ],
+      "sponsor": "Hospital Civil de Guadalajara",
+      "primary_completion": "2026-02-05",
+      "url": "https://clinicaltrials.gov/study/NCT07198750"
+    },
+    {
+      "nct_id": "NCT07848113",
+      "title": "Effect of Preoperative Ultrasound-Guided Stellate Ganglion Block on Postoperative Delirium in Older Adults Undergoing Elective Peripheral Endovascular Intervention",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Postoperative Delirium (POD)",
+        "Peripheral Arterial Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ropivacaine"
+        }
+      ],
+      "sponsor": "Assiut University",
+      "primary_completion": "2027-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT07848113"
+    },
+    {
+      "nct_id": "NCT07804160",
+      "title": "A Single Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of SAL0195 Injection in Participants With or Without Elevated Lipoprotein(a)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Elevated Lipoprotein(a)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SAL0195 Injection 30 mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "SAL0195 Injection 100 mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "SAL0195 Injection 300 mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "SAL0195 Injection 600 mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "SAL0195 Injection 900 mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "SAL0195 Matching Placebo"
+        }
+      ],
+      "sponsor": "The Third Xiangya Hospital of Central South University",
+      "primary_completion": "2027-08-31",
+      "url": "https://clinicaltrials.gov/study/NCT07804160"
+    },
+    {
+      "nct_id": "NCT06341179",
+      "title": "Effect of Sleep Extension on Body Weight and Learning in Children (More2Sleep)",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Sleep Duration",
+        "Child Obesity",
+        "Child Development",
+        "Child Behavior"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Sleep extension"
+        }
+      ],
+      "sponsor": "University of Copenhagen",
+      "primary_completion": "2027-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06341179"
+    },
+    {
+      "nct_id": "NCT07765979",
+      "title": "Mediterranean and Low-Histamine Diets for Pediatric Chronic Spontaneous Urticaria",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Urticaria Chronic"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Low-Histamine Diet"
+        },
+        {
+          "type": "OTHER",
+          "name": "Mediterranean Diet"
+        }
+      ],
+      "sponsor": "Saglik Bilimleri Universitesi",
+      "primary_completion": "2027-01-15",
+      "url": "https://clinicaltrials.gov/study/NCT07765979"
+    },
+    {
+      "nct_id": "NCT06946654",
+      "title": "Geriatric Assessment (GA) for Elderly Patients Undergoing Allo-HSCT",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Elderly",
+        "Geriatric Assessment",
+        "ALLOGENEIC HEMATOPOIETIC STEM CELL TRANSPLANTATION"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Geriatric Assessment"
+        }
+      ],
+      "sponsor": "Peking University People's Hospital",
+      "primary_completion": "2027-03-31",
+      "url": "https://clinicaltrials.gov/study/NCT06946654"
+    },
+    {
+      "nct_id": "NCT07336641",
+      "title": "LANDSCAPE: Demographics and Treatment Patterns of Patients With Immune-Mediated Inflammatory Skin Diseases in Italian Clinical Practice",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Psoriasis",
+        "Atopic Dermatitis",
+        "Vitiligo",
+        "Alopecia Areata",
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Conventional Systemic Therapies"
+        },
+        {
+          "type": "DRUG",
+          "name": "Biologic Therapies"
+        }
+      ],
+      "sponsor": "Fondazione ISIDE",
+      "primary_completion": "2026-05",
+      "url": "https://clinicaltrials.gov/study/NCT07336641"
+    },
+    {
+      "nct_id": "NCT07048080",
+      "title": "Prehabilitation in Older People Undergoing Total Hip Replacement",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hip Replacement in Osteoarthritis Patients",
+        "Osteoarthritis, Hip"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "(P)rehabilitation Progresive Resistance Exercise Training"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Prehabilitation Group Deuterated Water"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Usual Care Group Deuterated Water"
+        },
+        {
+          "type": "OTHER",
+          "name": "Usual Care"
+        }
+      ],
+      "sponsor": "Universidad de La Frontera",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT07048080"
+    },
+    {
+      "nct_id": "NCT06809166",
+      "title": "Metabolic and Behavioural Effects of CONTRAVE as Potential Mechanisms of Weight Loss in Adults With Obesity",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Obesity",
+        "Weight Loss",
+        "Weight Management",
+        "Dietary Intervention",
+        "Obesity/Therapy"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Contrave"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Diet Program"
+        }
+      ],
+      "sponsor": "The Royal's Institute of Mental Health Research",
+      "primary_completion": "2026-01-01",
+      "url": "https://clinicaltrials.gov/study/NCT06809166"
+    },
+    {
+      "nct_id": "NCT06087627",
+      "title": "A Non-interventional Study to Describe the Dupilumab Long-term Treatment, Safety and Patient Reported Outcomes in Chronic Nodular Prurigo (Prurigo Nodularis) in Clinical Routine",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Prurigo Nodularis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dupilumab SAR231893 (REGN668)"
+        }
+      ],
+      "sponsor": "Sanofi",
+      "primary_completion": "2026-06-29",
+      "url": "https://clinicaltrials.gov/study/NCT06087627"
+    },
+    {
+      "nct_id": "NCT07638254",
+      "title": "Buffered Versus Conventional Local Anesthesia for Pain and Anxiety Reduction in School-Aged Children With Pulpitis",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pulpitis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Buffered Lidocaine with Epinephrine"
+        },
+        {
+          "type": "DRUG",
+          "name": "idocaine with Epinephrine (Conventional)"
+        }
+      ],
+      "sponsor": "Universidad Autonoma de San Luis Potosí",
+      "primary_completion": "2026-09",
+      "url": "https://clinicaltrials.gov/study/NCT07638254"
+    },
+    {
+      "nct_id": "NCT06756269",
+      "title": "To Evaluate the Safety and Immunogenicity of 15-valent HPV Recombinant Vaccine in Chinese People Aged 9-45 Years",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "HPV Infection",
+        "HPV-Related Carcinoma",
+        "HPV-Related Intraepithelial Neoplasia",
+        "Genital Wart"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Medium dose for 15-HPV vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "High dose for 15-HPV vaccine"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Placebo"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "9-HPV vaccine"
+        }
+      ],
+      "sponsor": "Shanghai Bovax Biotechnology Co., Ltd.",
+      "primary_completion": "2025-10-30",
+      "url": "https://clinicaltrials.gov/study/NCT06756269"
+    }
+  ],
+  "fetched_at": "2026-11-02T00:20:00.609646"
+}

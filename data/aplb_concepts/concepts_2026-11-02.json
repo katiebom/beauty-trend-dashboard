@@ -1,0 +1,180 @@
+{
+  "generated_at": "2026-11-02T00:24:51.455076",
+  "input_summary": {
+    "aplb_owned_count": 16,
+    "emerging_top_count": 15,
+    "zero_trio_count": 112
+  },
+  "concepts": [
+    {
+      "rank": 1,
+      "product_name_kr": "글루타-니악-마데카 진정 앰플",
+      "product_name_en": "GLUTA-NIAC-MADECASSOSIDE Calming Ampoule",
+      "complex_trademark": "GLUTA NIAC MADECAS™",
+      "category": "ampoule",
+      "target_audience": "민감성 피부, 트러블 흔적 고민 사용자",
+      "core_claim": "피부 진정 및 흔적 개선을 도움",
+      "key_ingredients": [
+        {
+          "name": "glutathione",
+          "concentration": "5%",
+          "role": "항산화, 미백 도움"
+        },
+        {
+          "name": "niacinamide",
+          "concentration": "10%",
+          "role": "피부 장벽 강화, 미백 도움"
+        },
+        {
+          "name": "madecassoside",
+          "concentration": "2%",
+          "role": "피부 진정, 회복 도움"
+        }
+      ],
+      "synergy_rationale": "글루타치온과 나이아신아마이드의 시너지를 통해 항산화 및 미백 효과를 높이고, 마데카소사이드를 더해 민감성 피부의 진정과 트러블 후 관리 효능을 강화. (PubMed 3-Tier 분석에서 마데카소사이드 C2/Differentiator, 글루타치온/나이아신아마이드(LIPO GLUTA NIAC CEN™) APLB 보유 컴플렉스 활용)",
+      "world_first_aspect": "Glutathione + Niacinamide + Madecassoside 조합 임상 0건 (세계 최초 가능성)",
+      "channel_strategy": "clinic, premium ecom",
+      "price_band_kr": "5만원대",
+      "differentiation_vs_competitors": "스킨1004의 마데카소사이드 단일 고함량 제품 대비, 글루타치온과 나이아신아마이드의 항산화/미백 시너지를 더해 복합적인 피부 고민 케어.",
+      "regulatory_risk": "low",
+      "rd_complexity": "low",
+      "expected_voc_appeal": "순하다, 진정된다, 붉은기 완화, 트러블 흔적 개선"
+    },
+    {
+      "rank": 2,
+      "product_name_kr": "GLP-1 펩타이드 리프팅 세럼",
+      "product_name_en": "GLP-1 Peptide Lifting Serum",
+      "complex_trademark": "GLP-1 PEPTIDE LIFT™",
+      "category": "serum",
+      "target_audience": "안티에이징 및 탄력 개선을 원하는 30-50대",
+      "core_claim": "피부 탄력 개선 및 리프팅 효과를 도움",
+      "key_ingredients": [
+        {
+          "name": "GLP-1 topical",
+          "concentration": "1%",
+          "role": "세포 활성화, 탄력 증진"
+        },
+        {
+          "name": "peptide",
+          "concentration": "5%",
+          "role": "콜라겐 생성 촉진, 탄력 강화"
+        },
+        {
+          "name": "egf",
+          "concentration": "0.5%",
+          "role": "세포 재생, 피부 회복"
+        }
+      ],
+      "synergy_rationale": "GLP-1 외용 성분의 혁신적인 피부 개선 효과와 APLB의 Collagen Pept Cen™ 컴플렉스(peptide, egf)를 결합하여 시너지 효과 극대화. GLP-1은 피부 세포의 에너지 대사를 활성화하고, 펩타이드와 EGF는 콜라겐 생성을 촉진하여 강력한 안티에이징 효과 제공. (PubMed 3-Tier 분석에서 GLP-1 외용 🔥 임박, 상업 C0/Watch)",
+      "world_first_aspect": "GLP-1 외용 성분을 활용한 최초의 대중 시장 겨냥 안티에이징 세럼.",
+      "channel_strategy": "premium ecom, clinic",
+      "price_band_kr": "7만원대",
+      "differentiation_vs_competitors": "기존 레티놀, 펩타이드 제품 대비 혁신적인 GLP-1 성분으로 차별화. 시술 후 회복 시장을 겨냥한 임상 데이터 기반 마케팅으로 경쟁 우위 확보.",
+      "regulatory_risk": "medium",
+      "rd_complexity": "high",
+      "expected_voc_appeal": "피부 좋아짐, 탄력 생김, 리프팅 효과, 신기한 성분"
+    },
+    {
+      "rank": 3,
+      "product_name_kr": "세놀리틱스 항산화 광채 크림",
+      "product_name_en": "Senolytics Antioxidant Radiance Cream",
+      "complex_trademark": "SENOLYTICS RADIANCE™",
+      "category": "cream",
+      "target_audience": "노화 징후 개선 및 피부 광채를 원하는 40대 이상",
+      "core_claim": "피부 노화 징후 개선 및 건강한 광채를 도움",
+      "key_ingredients": [
+        {
+          "name": "senolytics",
+          "concentration": "3%",
+          "role": "노화 세포 제거, 피부 턴오버 촉진"
+        },
+        {
+          "name": "resveratrol",
+          "concentration": "1%",
+          "role": "강력한 항산화, 안티에이징"
+        },
+        {
+          "name": "vitamin_e",
+          "concentration": "2%",
+          "role": "항산화, 피부 보호"
+        }
+      ],
+      "synergy_rationale": "세놀리틱스 성분이 노화 세포를 제거하여 피부 턴오버를 촉진하고, 레스베라트롤과 비타민 E의 강력한 항산화 효과가 결합되어 피부 노화 방지 및 광채 개선에 시너지 효과를 제공. (PubMed 3-Tier 분석에서 세놀리틱스 🔥 임박, 상업 C0/Watch)",
+      "world_first_aspect": "세놀리틱스 성분을 활용한 최초의 대중적인 항산화 광채 크림.",
+      "channel_strategy": "premium ecom, mass",
+      "price_band_kr": "6만원대",
+      "differentiation_vs_competitors": "기존 항산화 크림 대비, 노화 세포 제거라는 새로운 메커니즘의 세놀리틱스 성분으로 차별화. 안전성과 효능을 입증하는 임상 데이터 기반 마케팅으로 신뢰도 확보.",
+      "regulatory_risk": "medium",
+      "rd_complexity": "high",
+      "expected_voc_appeal": "피부가 맑아짐, 광채 난다, 피부결 개선, 안티에이징 효과"
+    },
+    {
+      "rank": 4,
+      "product_name_kr": "시스테아민-트라넥삼산 멜라닌 케어 세럼",
+      "product_name_en": "CYSTEAMINE-TRANEXAMIC ACID Melanin Care Serum",
+      "complex_trademark": "CYSTE-TRANEX™",
+      "category": "serum",
+      "target_audience": "색소 침착, 기미, 잡티 고민 사용자",
+      "core_claim": "색소 침착 완화 및 균일한 피부톤 개선을 도움",
+      "key_ingredients": [
+        {
+          "name": "cysteamine",
+          "concentration": "5%",
+          "role": "강력한 색소 침착 개선"
+        },
+        {
+          "name": "tranexamic_acid",
+          "concentration": "3%",
+          "role": "멜라닌 생성 억제, 미백 도움"
+        },
+        {
+          "name": "niacinamide",
+          "concentration": "5%",
+          "role": "색소 침착 완화, 피부 장벽 강화"
+        }
+      ],
+      "synergy_rationale": "시스테아민의 강력한 색소 침착 개선 효과와 트라넥삼산의 멜라닌 생성 억제 효과를 결합하여 색소 침착 완화 시너지 극대화. 나이아신아마이드를 추가하여 피부 장벽을 강화하고 미백 효능을 보조. (PubMed 3-Tier 분석에서 시스테아민 C1/Pioneer, 트라넥삼산 C2/Differentiator)",
+      "world_first_aspect": "시스테아민과 트라넥삼산의 고함량 시너지 조합을 활용한 최초의 색소 침착 집중 케어 세럼.",
+      "channel_strategy": "clinic, premium ecom",
+      "price_band_kr": "7만원대",
+      "differentiation_vs_competitors": "메디큐브, 파울라초이스 등 기존 색소 침착 제품 대비, 시스테아민의 강력한 효과와 트라넥삼산의 안정성을 결합한 차별화된 포뮬러. 고농축 기술력 강조.",
+      "regulatory_risk": "medium",
+      "rd_complexity": "high",
+      "expected_voc_appeal": "기미 옅어짐, 잡티 개선, 피부톤 균일, 미백 효과"
+    },
+    {
+      "rank": 5,
+      "product_name_kr": "엑토인-세라마이드 수분 장벽 크림",
+      "product_name_en": "ECTOIN-CERAMIDE Moisture Barrier Cream",
+      "complex_trademark": "ECTO-CERAMIDE BARRIER™",
+      "category": "cream",
+      "target_audience": "건조하고 민감한 피부, 피부 장벽이 약한 사용자",
+      "core_claim": "강력한 수분 공급 및 피부 장벽 강화를 도움",
+      "key_ingredients": [
+        {
+          "name": "ectoin",
+          "concentration": "5%",
+          "role": "극한 환경 보호, 수분 보유력 증진"
+        },
+        {
+          "name": "ceramide",
+          "concentration": "3%",
+          "role": "피부 장벽 구성, 수분 손실 방지"
+        },
+        {
+          "name": "hyaluronic_acid",
+          "concentration": "2%",
+          "role": "깊은 수분 공급"
+        }
+      ],
+      "synergy_rationale": "엑토인의 극한 환경 보호 및 수분 보유 능력과 세라마이드의 피부 장벽 강화 효과를 결합하여 강력한 보습 및 보호 효과 제공. 히알루론산으로 깊은 수분감을 더해 건조함과 민감함을 동시에 케어. (PubMed 3-Tier 분석에서 엑토인 C1/Differentiator, 세라마이드 C3/Late_Entry_Premium)",
+      "world_first_aspect": "엑토인과 고농도 세라마이드의 시너지를 극대화한 프리미엄 수분 장벽 크림.",
+      "channel_strategy": "premium ecom, mass",
+      "price_band_kr": "5만원대",
+      "differentiation_vs_competitors": "닥터지, 유세린 등 엑토인 제품 대비, 토리덴, 세라비 등 세라마이드 강자 브랜드의 장점을 결합하여 보습과 장벽 강화 효능을 동시에 업그레이드. 민감성 피부를 위한 저자극 포뮬러 강조.",
+      "regulatory_risk": "low",
+      "rd_complexity": "medium",
+      "expected_voc_appeal": "속건조 해결, 피부 편안함, 순하다, 보습력 좋다, 피부 장벽 강화"
+    }
+  ]
+}

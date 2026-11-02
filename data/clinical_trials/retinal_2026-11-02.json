@@ -1,0 +1,1220 @@
+{
+  "ingredient_id": "retinal",
+  "name_kr": "레티날",
+  "name_en": "Retinal",
+  "query": "(\"Retinal\") AND (skin OR topical OR cosmetic OR dermatology)",
+  "active_count": 30,
+  "recent_complete_count": 20,
+  "trials": [
+    {
+      "nct_id": "NCT07240649",
+      "title": "Emerging Indications for Hyperbaric Oxygen Treatment",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Post-COVID-19 Condition",
+        "Ulcerative Colitis",
+        "Crohn Disease",
+        "Calciphylaxis",
+        "Frostbite",
+        "Acute COVID-19",
+        "Pyoderma Gangrenosum",
+        "Pterygium",
+        "Hypospadias",
+        "Head Trauma",
+        "Pneumatosis Intestinalis",
+        "Ischemic Bowel",
+        "Raynaud Syndrome",
+        "Malignant Otitis Externa",
+        "Nonarteritic Anterior Ischemic Optic Neuropathy",
+        "Central Retinal Vein Occlusion",
+        "Femoral Head Necrosis",
+        "Invasive Fungal Infection",
+        "Chronic Anal Fissure",
+        "Vasculitic Ulcer",
+        "Graft-vs-Host Disease",
+        "Decubitus Ulcer",
+        "Greater Trochanteric Pain Syndrome",
+        "Rectovaginal Fistula",
+        "Pouchitis",
+        "Tinnitus",
+        "Clostridium Enterocolitis",
+        "Branch Retinal Artery Occlusion",
+        "Axonotmesis",
+        "Multiple Sclerosis",
+        "Inclusion Body Myositis",
+        "Epidermolysis Bullosa (EB)",
+        "Osteonecrosis",
+        "Ulcer Ischemic",
+        "Avascular Necrosis of Bone",
+        "Prosthesis Related Infections",
+        "Facial Filler Injections",
+        "Cystitis Chronic",
+        "Ligament Injury",
+        "Anastomosis, Leaking",
+        "Cartilage Injury"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Hyperbaric oxygen treatment (HBOT)"
+        },
+        {
+          "type": "DRUG",
+          "name": "100% Oxygen"
+        }
+      ],
+      "sponsor": "Jay C. Buckey Jr.",
+      "primary_completion": "2035-12",
+      "url": "https://clinicaltrials.gov/study/NCT07240649"
+    },
+    {
+      "nct_id": "NCT01793168",
+      "title": "Rare Disease Patient Registry & Natural History Study - Coordination of Rare Diseases at Sanford",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Rare Disorders",
+        "Undiagnosed Disorders",
+        "Disorders of Unknown Prevalence",
+        "Cornelia De Lange Syndrome",
+        "Prenatal Benign Hypophosphatasia",
+        "Perinatal Lethal Hypophosphatasia",
+        "Odontohypophosphatasia",
+        "Adult Hypophosphatasia",
+        "Childhood-onset Hypophosphatasia",
+        "Infantile Hypophosphatasia",
+        "Hypophosphatasia",
+        "Kabuki Syndrome",
+        "Bohring-Opitz Syndrome",
+        "Narcolepsy Without Cataplexy",
+        "Narcolepsy-cataplexy",
+        "Hypersomnolence Disorder",
+        "Idiopathic Hypersomnia Without Long Sleep Time",
+        "Idiopathic Hypersomnia With Long Sleep Time",
+        "Idiopathic Hypersomnia",
+        "Kleine-Levin Syndrome",
+        "Kawasaki Disease",
+        "Leiomyosarcoma",
+        "Leiomyosarcoma of the Corpus Uteri",
+        "Leiomyosarcoma of the Cervix Uteri",
+        "Leiomyosarcoma of Small Intestine",
+        "Acquired Myasthenia Gravis",
+        "Addison Disease",
+        "Hyperacusis (Hyperacousis)",
+        "Juvenile Myasthenia Gravis",
+        "Transient Neonatal Myasthenia Gravis",
+        "Williams Syndrome",
+        "Lyme Disease",
+        "Myasthenia Gravis",
+        "Marinesco Sjogren Syndrome(Marinesco-Sjogren Syndrome)",
+        "Isolated Klippel-Feil Syndrome",
+        "Frasier Syndrome",
+        "Denys-Drash Syndrome",
+        "Beckwith-Wiedemann Syndrome",
+        "Emanuel Syndrome",
+        "Isolated Aniridia",
+        "Axenfeld-Rieger Syndrome",
+        "Aniridia-intellectual Disability Syndrome",
+        "Aniridia - Renal Agenesis - Psychomotor Retardation",
+        "Aniridia - Ptosis - Intellectual Disability - Familial Obesity",
+        "Aniridia - Cerebellar Ataxia - Intellectual Disability",
+        "Aniridia - Absent Patella",
+        "Aniridia",
+        "Peters Anomaly - Cataract",
+        "Peters Anomaly",
+        "Potocki-Shaffer Syndrome",
+        "Silver-Russell Syndrome Due to Maternal Uniparental Disomy of Chromosome 11",
+        "Silver-Russell Syndrome Due to Imprinting Defect of 11p15",
+        "Silver-Russell Syndrome Due to 11p15 Microduplication",
+        "Syndromic Aniridia",
+        "WAGR Syndrome",
+        "Wolf-Hirschhorn Syndrome",
+        "4p16.3 Microduplication Syndrome",
+        "4p Deletion Syndrome, Non-Wolf-Hirschhorn Syndrome",
+        "Autosomal Recessive Stickler Syndrome",
+        "Stickler Syndrome Type 2",
+        "Stickler Syndrome Type 1",
+        "Stickler Syndrome",
+        "Mucolipidosis Type 4",
+        "X-linked Spinocerebellar Ataxia Type 4",
+        "X-linked Spinocerebellar Ataxia Type 3",
+        "X-linked Intellectual Disability - Ataxia - Apraxia",
+        "X-linked Progressive Cerebellar Ataxia",
+        "X-linked Non Progressive Cerebellar Ataxia",
+        "X-linked Cerebellar Ataxia",
+        "Vitamin B12 Deficiency Ataxia",
+        "Toxic Exposure Ataxia",
+        "Unclassified Autosomal Dominant Spinocerebellar Ataxia",
+        "Thyroid Antibody Ataxia",
+        "Sporadic Adult-onset Ataxia of Unknown Etiology",
+        "Spinocerebellar Ataxia With Oculomotor Anomaly",
+        "Spinocerebellar Ataxia With Epilepsy",
+        "Spinocerebellar Ataxia With Axonal Neuropathy Type 2",
+        "Spinocerebellar Ataxia Type 8",
+        "Spinocerebellar Ataxia Type 7",
+        "Spinocerebellar Ataxia Type 6",
+        "Spinocerebellar Ataxia Type 5",
+        "Spinocerebellar Ataxia Type 4",
+        "Spinocerebellar Ataxia Type 37",
+        "Spinocerebellar Ataxia Type 36",
+        "Spinocerebellar Ataxia Type 35",
+        "Spinocerebellar Ataxia Type 34",
+        "Spinocerebellar Ataxia Type 32",
+        "Spinocerebellar Ataxia Type 31",
+        "Spinocerebellar Ataxia Type 30",
+        "Spinocerebellar Ataxia Type 3",
+        "Spinocerebellar Ataxia Type 29",
+        "Spinocerebellar Ataxia Type 28",
+        "Spinocerebellar Ataxia Type 27",
+        "Spinocerebellar Ataxia Type 26",
+        "Spinocerebellar Ataxia Type 25",
+        "Spinocerebellar Ataxia Type 23",
+        "Spinocerebellar Ataxia Type 22",
+        "Spinocerebellar Ataxia Type 21",
+        "Spinocerebellar Ataxia Type 20",
+        "Spinocerebellar Ataxia Type 2",
+        "Spinocerebellar Ataxia Type 19/22",
+        "Spinocerebellar Ataxia Type 18",
+        "Spinocerebellar Ataxia Type 17",
+        "Spinocerebellar Ataxia Type 16",
+        "Spinocerebellar Ataxia Type 15/16",
+        "Spinocerebellar Ataxia Type 14",
+        "Spinocerebellar Ataxia Type 13",
+        "Spinocerebellar Ataxia Type 12",
+        "Spinocerebellar Ataxia Type 11",
+        "Spinocerebellar Ataxia Type 10",
+        "Spinocerebellar Ataxia Type 1 With Axonal Neuropathy",
+        "Spinocerebellar Ataxia Type 1",
+        "Spinocerebellar Ataxia - Unknown",
+        "Spinocerebellar Ataxia - Dysmorphism",
+        "Non Progressive Epilepsy and/or Ataxia With Myoclonus as a Major Feature",
+        "Spasticity-ataxia-gait Anomalies Syndrome",
+        "Spastic Ataxia With Congenital Miosis",
+        "Spastic Ataxia - Corneal Dystrophy",
+        "Spastic Ataxia",
+        "Rare Hereditary Ataxia",
+        "Rare Ataxia",
+        "Recessive Mitochondrial Ataxia Syndrome",
+        "Progressive Epilepsy and/or Ataxia With Myoclonus as a Major Feature",
+        "Posterior Column Ataxia - Retinitis Pigmentosa",
+        "Post-Stroke Ataxia",
+        "Post-Head Injury Ataxia",
+        "Post Vaccination Ataxia",
+        "Polyneuropathy - Hearing Loss - Ataxia - Retinitis Pigmentosa - Cataract",
+        "Muscular Atrophy - Ataxia - Retinitis Pigmentosa - Diabetes Mellitus",
+        "Non-hereditary Degenerative Ataxia",
+        "Paroxysmal Dystonic Choreathetosis With Episodic Ataxia and Spasticity",
+        "Olivopontocerebellar Atrophy - Deafness",
+        "NARP Syndrome",
+        "Myoclonus - Cerebellar Ataxia - Deafness",
+        "Multiple System Atrophy, Parkinsonian Type",
+        "Multiple System Atrophy, Cerebellar Type",
+        "Multiple System Atrophy",
+        "Maternally-inherited Leigh Syndrome",
+        "Machado-Joseph Disease Type 3",
+        "Machado-Joseph Disease Type 2",
+        "Machado-Joseph Disease Type 1",
+        "Leigh Syndrome",
+        "Late-onset Ataxia With Dementia",
+        "Infection or Post Infection Ataxia",
+        "GAD Ataxia",
+        "Hereditary Episodic Ataxia",
+        "Gliadin/Gluten Ataxia",
+        "Friedreich Ataxia",
+        "Fragile X-associated Tremor/Ataxia Syndrome",
+        "Familial Paroxysmal Ataxia",
+        "Exposure to Medications Ataxia",
+        "Episodic Ataxia With Slurred Speech",
+        "Episodic Ataxia Unknown Type",
+        "Episodic Ataxia Type 7",
+        "Episodic Ataxia Type 6",
+        "Episodic Ataxia Type 5",
+        "Episodic Ataxia Type 4",
+        "Episodic Ataxia Type 3",
+        "Episodic Ataxia Type 1",
+        "Epilepsy and/or Ataxia With Myoclonus as Major Feature",
+        "Early-onset Spastic Ataxia-neuropathy Syndrome",
+        "Early-onset Progressive Neurodegeneration - Blindness - Ataxia - Spasticity",
+        "Early-onset Cerebellar Ataxia With Retained Tendon Reflexes",
+        "Early-onset Ataxia With Dementia",
+        "Childhood-onset Autosomal Recessive Slowly Progressive Spinocerebellar Ataxia",
+        "Dilated Cardiomyopathy With Ataxia",
+        "Cataract - Ataxia - Deafness",
+        "Cerebellar Ataxia, Cayman Type",
+        "Cerebellar Ataxia With Peripheral Neuropathy",
+        "Cerebellar Ataxia - Hypogonadism",
+        "Cerebellar Ataxia - Ectodermal Dysplasia",
+        "Cerebellar Ataxia - Areflexia - Pes Cavus - Optic Atrophy - Sensorineural Hearing Loss",
+        "Brain Tumor Ataxia",
+        "Brachydactyly - Nystagmus - Cerebellar Ataxia",
+        "Benign Paroxysmal Tonic Upgaze of Childhood With Ataxia",
+        "Autosomal Recessive Syndromic Cerebellar Ataxia",
+        "Autosomal Recessive Spastic Ataxia With Leukoencephalopathy",
+        "Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay",
+        "Autosomal Recessive Spastic Ataxia - Optic Atrophy - Dysarthria",
+        "Autosomal Recessive Spastic Ataxia",
+        "Autosomal Recessive Metabolic Cerebellar Ataxia",
+        "Autosomal Dominant Spinocerebellar Ataxia Due to Repeat Expansions That do Not Encode Polyglutamine",
+        "Autosomal Recessive Ataxia, Beauce Type",
+        "Autosomal Recessive Ataxia Due to Ubiquinone Deficiency",
+        "Autosomal Recessive Ataxia Due to PEX10 Deficiency",
+        "Autosomal Recessive Degenerative and Progressive Cerebellar Ataxia",
+        "Autosomal Recessive Congenital Cerebellar Ataxia Due to MGLUR1 Deficiency",
+        "Autosomal Recessive Congenital Cerebellar Ataxia Due to GRID2 Deficiency",
+        "Autosomal Recessive Congenital Cerebellar Ataxia",
+        "Autosomal Recessive Cerebellar Ataxia-pyramidal Signs-nystagmus-oculomotor Apraxia Syndrome",
+        "Autosomal Recessive Cerebellar Ataxia-epilepsy-intellectual Disability Syndrome Due to WWOX Deficiency",
+        "Autosomal Recessive Cerebellar Ataxia-epilepsy-intellectual Disability Syndrome Due to TUD Deficiency",
+        "Autosomal Recessive Cerebellar Ataxia-epilepsy-intellectual Disability Syndrome Due to KIAA0226 Deficiency",
+        "Autosomal Recessive Cerebellar Ataxia-epilepsy-intellectual Disability Syndrome",
+        "Autosomal Recessive Cerebellar Ataxia With Late-onset Spasticity",
+        "Autosomal Recessive Cerebellar Ataxia Due to STUB1 Deficiency",
+        "Autosomal Recessive Cerebellar Ataxia Due to a DNA Repair Defect",
+        "Autosomal Recessive Cerebellar Ataxia - Saccadic Intrusion",
+        "Autosomal Recessive Cerebellar Ataxia - Psychomotor Retardation",
+        "Autosomal Recessive Cerebellar Ataxia - Blindness - Deafness",
+        "Autosomal Recessive Cerebellar Ataxia",
+        "Autosomal Dominant Spinocerebellar Ataxia Due to a Polyglutamine Anomaly",
+        "Autosomal Dominant Spinocerebellar Ataxia Due to a Point Mutation",
+        "Autosomal Dominant Spinocerebellar Ataxia Due to a Channelopathy",
+        "Autosomal Dominant Spastic Ataxia Type 1",
+        "Autosomal Dominant Spastic Ataxia",
+        "Autosomal Dominant Optic Atrophy",
+        "Ataxia-telangiectasia Variant",
+        "Ataxia-telangiectasia",
+        "Autosomal Dominant Cerebellar Ataxia, Deafness and Narcolepsy",
+        "Autosomal Dominant Cerebellar Ataxia Type 4",
+        "Autosomal Dominant Cerebellar Ataxia Type 3",
+        "Autosomal Dominant Cerebellar Ataxia Type 2",
+        "Autosomal Dominant Cerebellar Ataxia Type 1",
+        "Autosomal Dominant Cerebellar Ataxia",
+        "Ataxia-telangiectasia-like Disorder",
+        "Ataxia With Vitamin E Deficiency",
+        "Ataxia With Dementia",
+        "Ataxia - Oculomotor Apraxia Type 1",
+        "Ataxia - Other",
+        "Ataxia - Genetic Diagnosis - Unknown",
+        "Acquired Ataxia",
+        "Adult-onset Autosomal Recessive Cerebellar Ataxia",
+        "Alcohol Related Ataxia",
+        "Multiple Endocrine Neoplasia",
+        "Multiple Endocrine Neoplasia Type II",
+        "Multiple Endocrine Neoplasia Type 1",
+        "Multiple Endocrine Neoplasia Type 2",
+        "Multiple Endocrine Neoplasia, Type IV",
+        "Multiple Endocrine Neoplasia, Type 3",
+        "Multiple Endocrine Neoplasia (MEN) Syndrome",
+        "Multiple Endocrine Neoplasia Type 2B",
+        "Multiple Endocrine Neoplasia Type 2A",
+        "Atypical Hemolytic Uremic Syndrome",
+        "Atypical HUS",
+        "Wiedemann-Steiner Syndrome",
+        "Breast Implant-Associated Anaplastic Large Cell Lymphoma",
+        "Autoimmune/Inflammatory Syndrome Induced by Adjuvants (ASIA)",
+        "Hemophagocytic Lymphohistiocytosis",
+        "Behcet&#39;s Disease",
+        "Alagille Syndrome",
+        "Inclusion Body Myopathy With Early-onset Paget Disease and Frontotemporal Dementia (IBMPFD)",
+        "Lowe Syndrome",
+        "Pitt Hopkins Syndrome",
+        "1p36 Deletion Syndrome",
+        "Jansen Type Metaphyseal Chondrodysplasia",
+        "Cockayne Syndrome",
+        "Chronic Recurrent Multifocal Osteomyelitis",
+        "CRMO",
+        "Malan Syndrome",
+        "Hereditary Sensory and Autonomic Neuropathy Type Ie",
+        "VCP Disease",
+        "Hypnic Jerking",
+        "Sleep Myoclonus",
+        "Mollaret Meningitis",
+        "Recurrent Viral Meningitis",
+        "CRB1",
+        "Leber Congenital Amaurosis",
+        "Retinitis Pigmentosa",
+        "Rare Retinal Disorder",
+        "KCNMA1-Channelopathy",
+        "Primary Biliary Cirrhosis",
+        "ZMYND11",
+        "Transient Global Amnesia",
+        "Glycogen Storage Disease",
+        "Alstrom Syndrome",
+        "White Sutton Syndrome",
+        "DNM1",
+        "EIEE31",
+        "Myhre Syndrome",
+        "Recurrent Respiratory Papillomatosis",
+        "Laryngeal Papillomatosis",
+        "Tracheal Papillomatosis",
+        "Refsum Disease",
+        "Nicolaides Baraitser Syndrome",
+        "Leukodystrophy",
+        "Tango2",
+        "Cauda Equina Syndrome",
+        "Rare Gastrointestinal Disorders",
+        "Achalasia-Addisonian Syndrome",
+        "Achalasia Cardia",
+        "Achalasia Icrocephaly Syndrome",
+        "Anal Fistula",
+        "Congenital Sucrase-Isomaltase Deficiency",
+        "Eosinophilic Gastroenteritis",
+        "Idiopathic Gastroparesis",
+        "Hirschsprung Disease",
+        "Rare Inflammatory Bowel Disease",
+        "Intestinal Pseudo-Obstruction",
+        "Scleroderma",
+        "Short Bowel Syndrome",
+        "Sacral Agenesis",
+        "Sacral Agenesis Syndrome",
+        "Caudal Regression",
+        "Scheuermann Disease",
+        "SMC1A Truncated Mutations (Causing Loss of Gene Function)",
+        "Cystinosis",
+        "Juvenile Nephropathic Cystinosis",
+        "Nephropathic Cystinosis",
+        "Kennedy Disease",
+        "Spinal Bulbar Muscular Atrophy",
+        "Warburg Micro Syndrome",
+        "Mucolipidoses",
+        "Mitochondrial Diseases",
+        "Mitochondrial Aminoacyl-tRNA Synthetases",
+        "Mt-aaRS Disorders",
+        "Hypertrophic Olivary Degeneration",
+        "Non-Ketotic Hyperglycinemia",
+        "Fish Odor Syndrome",
+        "Halitosis",
+        "Isolated Congenital Asplenia",
+        "Lambert Eaton (LEMS)",
+        "Biliary Atresia",
+        "STAG1 Gene Mutation",
+        "Coffin Lowry Syndrome",
+        "Borjeson-Forssman-Lehman Syndrome",
+        "Blau Syndrome",
+        "Arginase 1 Deficiency",
+        "HSPB8 Myopathy",
+        "Beta-Mannosidosis",
+        "TBX4 Syndrome",
+        "DHDDS Gene Mutations",
+        "MAND-MBD5-Associated Neurodevelopmental Disorder",
+        "Constitutional Mismatch Repair Deficiency (CMMRD)",
+        "SPATA5 Disorder",
+        "SPATA5L1 Related Disorder",
+        "Acrodysostosis",
+        "Multi-systematic Smooth Muscle Dysfunction Syndrome",
+        "CRELD1 (Cysteine Rich With EGF Like Domains 1)",
+        "GNB1 Syndrome",
+        "Pyruvate Dehydrogenase Complex Deficiency Disease",
+        "Beta Mannosidosis",
+        "Kbg Syndrome",
+        "Labrune Syndrome",
+        "Metachromatic Leukodystrophy (MLD)",
+        "Moyamoya Disease",
+        "OPHN1 Syndrome",
+        "Oculopharyngeal Muscular Dystrophy (OPMD)",
+        "TUBB3 Mutation",
+        "WOREE (WWOX-related Epileptic Encephalopathy",
+        "SCAR12",
+        "Skraban-Deardorff Syndrome",
+        "Hereditary Myopathy With Early Respiratory Failure",
+        "Parry Romberg Syndrome",
+        "Lesch-Nyhan Disease",
+        "GNB1 Gene Mutation",
+        "Pierpont Syndrome",
+        "TBL1XR1 Gene Variant",
+        "Activated PI3K Delta Syndrome (APDS)",
+        "Adult Onset Leukoencephalopathy With Axonal Spheroids and Pigmented Glia (ALSP)",
+        "Brain Abnormalities, Neurodegeneration, and Dysosteosclerosis",
+        "CSF1R Related Disease (CSF1R-RD)",
+        "Hereditary Diffuse Leukoencephalopathy With Axonal Spheroids and Pigmented Glia",
+        "Nasu-Hakola Disease"
+      ],
+      "interventions": [],
+      "sponsor": "Sanford Health",
+      "primary_completion": "2100-12",
+      "url": "https://clinicaltrials.gov/study/NCT01793168"
+    },
+    {
+      "nct_id": "NCT05940623",
+      "title": "Impact of Home Intraocular Pressure Telemonitoring on Intraocular Pressure Control and Glaucoma Progression",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Glaucoma",
+        "Intraocular Pressure",
+        "Primary Open Angle Glaucoma"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Home IOP telemonitoring with smart phone-based intervention"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Standard care and smart phone-based intervention"
+        }
+      ],
+      "sponsor": "The University of Hong Kong",
+      "primary_completion": "2028-06-30",
+      "url": "https://clinicaltrials.gov/study/NCT05940623"
+    },
+    {
+      "nct_id": "NCT07821450",
+      "title": "Blepharoptosis After Repeated Intravitreal Anti-VEGF Injections: A Prospective Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Blepharoptosis",
+        "Age-Related Macular Degeneration",
+        "Diabetic Macular Edema"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Repeated intravitreal anti-VEGF injection with eyelid speculum"
+        }
+      ],
+      "sponsor": "Abdulkadir Küçük",
+      "primary_completion": "2027-06-25",
+      "url": "https://clinicaltrials.gov/study/NCT07821450"
+    },
+    {
+      "nct_id": "NCT03811561",
+      "title": "A Research Study to Look at How Semaglutide Compared to Placebo Affects Diabetic Eye Disease in People With Type 2 Diabetes",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetes Mellitus, Type 2"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Semaglutide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo (semaglutide)"
+        }
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "primary_completion": "2027-11-07",
+      "url": "https://clinicaltrials.gov/study/NCT03811561"
+    },
+    {
+      "nct_id": "NCT06111950",
+      "title": "Study of the Pathophysiology of RNU4ATAC and RTTN Associated Syndromes",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Taybi Linder Syndrome",
+        "Microcephalic Osteodysplastic Primordial Dwarfism Types I and III",
+        "Roifman Syndrome",
+        "Lowry Wood Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Blood samples"
+        },
+        {
+          "type": "OTHER",
+          "name": "Skin biopsies"
+        },
+        {
+          "type": "OTHER",
+          "name": "Fetal samples"
+        }
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "primary_completion": "2029-08-27",
+      "url": "https://clinicaltrials.gov/study/NCT06111950"
+    },
+    {
+      "nct_id": "NCT07766473",
+      "title": "First in Human Study of BETA-TT8 in wetAge-related Macular Degeneration (wetAMD)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Neovascular (Wet) Age-Related Macular Degeneration"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BETA-TT8 ophthalmic gel 3.8% w/v"
+        }
+      ],
+      "sponsor": "Filamon LTD",
+      "primary_completion": "2027-03",
+      "url": "https://clinicaltrials.gov/study/NCT07766473"
+    },
+    {
+      "nct_id": "NCT07615244",
+      "title": "MICROVASCULAR DAMAGE IN THROMBOTIC THROMBOCYTOPENIC PURPURA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "TTP - Thrombotic Thrombocytopenic Purpura"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Factor VIII (FVIII)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Von Willebrand factor (VWF) antigen"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "VWF:RCo"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "VWF-propeptide"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "VWF multimers"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "sP-selectin"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "sCD40L"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "F1+2"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "VEGF-A"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "VCAM"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "ICAM"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "IL-1β"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "IL-6"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "PTX3"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "BlyS"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Neutrophil elastase and myeloperoxidase (NETs) markers"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "soluble C5b-9"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "C5a"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "NFL"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "GFAP"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "evaluation of thrombus formation with Total Thrombus formation Analysis System (T-TAS)"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Microfluidic Flow Chamber"
+        },
+        {
+          "type": "GENETIC",
+          "name": "Whole exome sequencing - WES"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Proteomic Analysis"
+        }
+      ],
+      "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+      "primary_completion": "2031-01-31",
+      "url": "https://clinicaltrials.gov/study/NCT07615244"
+    },
+    {
+      "nct_id": "NCT07679776",
+      "title": "Study on Early Visual Dysfunction in Patients With Systemic Lupus Erythematosus",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Systemic Lupus Erythematosus (SLE)",
+        "Visual Function"
+      ],
+      "interventions": [],
+      "sponsor": "The First Affiliated Hospital of Anhui Medical University",
+      "primary_completion": "2025-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07679776"
+    },
+    {
+      "nct_id": "NCT06742671",
+      "title": "Performance of a Fast-track Pathway for Giant Cell Arteritis Diagnosis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Giant Cell Arteritis (GCA)"
+      ],
+      "interventions": [],
+      "sponsor": "Groupe Hospitalier de la Rochelle Ré Aunis",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06742671"
+    },
+    {
+      "nct_id": "NCT05312736",
+      "title": "Gyrate Atrophy Ocular and Systemic Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Gyrate Atrophy",
+        "Gyrata of Choroid and Retina; Atrophy",
+        "Ornithine-δ-aminotransferase",
+        "OAT",
+        "Chorioretinal Degeneration"
+      ],
+      "interventions": [],
+      "sponsor": "Jaeb Center for Health Research",
+      "primary_completion": "2028-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT05312736"
+    },
+    {
+      "nct_id": "NCT07858591",
+      "title": "Retinal Capillary Vessel Density and Foveal Avascular Zone Size in Patients With Psoriatic Arthritis: A Case-Control Study.",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Arthritic Psoriasis",
+        "Psoriasis (PsO)",
+        "Retinal Vessels"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "OCTA-SCP"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "OCTA-DCP"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "OCTA-RPC"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "OCTA-FAZ"
+        }
+      ],
+      "sponsor": "Bursa Yuksek Ihtisas Training and Research Hospital",
+      "primary_completion": "2027-08-20",
+      "url": "https://clinicaltrials.gov/study/NCT07858591"
+    },
+    {
+      "nct_id": "NCT02471287",
+      "title": "Genetics of Inherited Eye Disease",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Genetic Eye Disease"
+      ],
+      "interventions": [],
+      "sponsor": "National Eye Institute (NEI)",
+      "primary_completion": "2030-09-01",
+      "url": "https://clinicaltrials.gov/study/NCT02471287"
+    },
+    {
+      "nct_id": "NCT04805814",
+      "title": "Coronary Microvascular Angina Cardiac Magnetic Resonance Imaging (CorCMR) Trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Microvascular Angina",
+        "Angina Pectoris",
+        "Angina, Stable",
+        "Non-Obstructive Coronary Atherosclerosis",
+        "Small Vessel Cerebrovascular Disease",
+        "Coronary Artery Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "CMR results disclosed"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "CMR performed but results not disclosed"
+        }
+      ],
+      "sponsor": "NHS National Waiting Times Centre Board",
+      "primary_completion": "2024-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT04805814"
+    },
+    {
+      "nct_id": "NCT07323082",
+      "title": "Purinergic Compounds in Pseudoxanthoma Elasticum",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pseudoxanthoma Elasticum"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "supplementary tubes"
+        },
+        {
+          "type": "RADIATION",
+          "name": "SCANNER"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "primary_completion": "2027-01-15",
+      "url": "https://clinicaltrials.gov/study/NCT07323082"
+    },
+    {
+      "nct_id": "NCT07693790",
+      "title": "Augmented Reality Training for Amblyopia After Congenital Cataract Surgery",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Deprivation Amblyopia",
+        "Congenital Cataract"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Augmented Reality Amblyopia Training"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Conventional Patching"
+        }
+      ],
+      "sponsor": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+      "primary_completion": "2028-01",
+      "url": "https://clinicaltrials.gov/study/NCT07693790"
+    },
+    {
+      "nct_id": "NCT07895420",
+      "title": "Comparing Intravitreal Injection Pain Scores Using Iheezo (Chloroprocaine Hcl Ophthalmic Gel 3%) Versus Subconjunctival Lidocaine (2%): A Randomized, Controlled Trial",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "No Condition"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "chloroprocaine HCL 3%"
+        },
+        {
+          "type": "DRUG",
+          "name": "Subconjunctival Lidocaine"
+        }
+      ],
+      "sponsor": "Retina Research Institute, LLC",
+      "primary_completion": "2026-12-30",
+      "url": "https://clinicaltrials.gov/study/NCT07895420"
+    },
+    {
+      "nct_id": "NCT07359547",
+      "title": "Comparing XEN®-63 Gel Stent and PRESERFLO® MicroShunt",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "GLAUCOMA 1, OPEN ANGLE, D (Disorder)"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "XEN®-63 Gel Stent"
+        },
+        {
+          "type": "DEVICE",
+          "name": "PRESERFLO™ MicroShunt"
+        }
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "primary_completion": "2027-01",
+      "url": "https://clinicaltrials.gov/study/NCT07359547"
+    },
+    {
+      "nct_id": "NCT02339012",
+      "title": "Genetic and Epigenetic Signatures of Translational Aging Laboratory Testing (GESTALT)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Healthy Volunteers",
+        "Non-Healthy/Non-Frail",
+        "Frail"
+      ],
+      "interventions": [],
+      "sponsor": "National Institute on Aging (NIA)",
+      "primary_completion": "2099-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT02339012"
+    },
+    {
+      "nct_id": "NCT07456826",
+      "title": "Study Evaluating the Efficacy and Safety of Chloroprocaine HCl Ophthalmic Gel 3% vs Proparacaine Ophthalmic Solution 0.5% Plus Subconjunctival Lidocaine in Patients Undergoing Intravitreal Injections",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Diabetic Macular Edema (DME)",
+        "Age-Related Macular Degeneration (AMD)",
+        "Retinal Vein Occlusion",
+        "Diabetic Retinopathy (DR)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Chloroprocaine Ophthalmic Gel 3% (IHEEZO)"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Sham Subconjunctival Injection"
+        },
+        {
+          "type": "DRUG",
+          "name": "Proparacaine Hydrochloride Ophthalmic Solution 0.5%"
+        },
+        {
+          "type": "DRUG",
+          "name": "Lidocaine Hydrochloride Injection 2%"
+        }
+      ],
+      "sponsor": "Harrow Inc",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT07456826"
+    },
+    {
+      "nct_id": "NCT07388069",
+      "title": "Study of TN-001 Topical Eyedrops for Keratoconus",
+      "status": "ENROLLING_BY_INVITATION",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Keratoconus"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Low-dose TGF-B3 and Dexamethasone Sodium Phosphate"
+        },
+        {
+          "type": "DRUG",
+          "name": "High-dose TGF-B3 and Dexamethasone Sodium Phosphate"
+        }
+      ],
+      "sponsor": "TheiaNova Ltd.",
+      "primary_completion": "2026-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07388069"
+    },
+    {
+      "nct_id": "NCT04514653",
+      "title": "RGX-314 Gene Therapy Administered in the Suprachoroidal Space for Participants With Neovascular Age-Related Macular Degeneration (nAMD)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Neovascular Age-Related Macular Degeneration (nAMD)"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Ranibizumab"
+        },
+        {
+          "type": "GENETIC",
+          "name": "ABBV-RGX-314 Dose 1"
+        },
+        {
+          "type": "GENETIC",
+          "name": "ABBV-RGX-314 Dose 2"
+        },
+        {
+          "type": "GENETIC",
+          "name": "ABBV-RGX-314 Dose 3"
+        },
+        {
+          "type": "DRUG",
+          "name": "Local Steroid"
+        },
+        {
+          "type": "DRUG",
+          "name": "Topical Steroid"
+        },
+        {
+          "type": "GENETIC",
+          "name": "ABBV-RGX-314 Dose 4"
+        }
+      ],
+      "sponsor": "AbbVie",
+      "primary_completion": "2026-08",
+      "url": "https://clinicaltrials.gov/study/NCT04514653"
+    },
+    {
+      "nct_id": "NCT07748715",
+      "title": "Brain Dopamine Biomarker",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Parkinson Disease",
+        "Healthy Adult Participants"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Levadopa/Carbidopa eyedrops"
+        },
+        {
+          "type": "OTHER",
+          "name": "Sham"
+        },
+        {
+          "type": "DRUG",
+          "name": "Levodopa/Carbidopa (Sinemet)"
+        }
+      ],
+      "sponsor": "University of South Florida",
+      "primary_completion": "2027-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT07748715"
+    },
+    {
+      "nct_id": "NCT04868578",
+      "title": "PPI Supplementation to Fight ECtopIc Calcification in PXE",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Pseudoxanthoma Elasticum"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "study treatment PPI"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Placebo comparator"
+        }
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "primary_completion": "2026-12-13",
+      "url": "https://clinicaltrials.gov/study/NCT04868578"
+    },
+    {
+      "nct_id": "NCT06669949",
+      "title": "Natural History of Sphingosine Phosphate Lyase Insufficiency Syndrome (SPLIS)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Sphingosine Phosphate Lyase Insufficiency Syndrome (SPLIS)"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "no intervention"
+        }
+      ],
+      "sponsor": "University of California, San Francisco",
+      "primary_completion": "2030-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT06669949"
+    },
+    {
+      "nct_id": "NCT06636344",
+      "title": "Impact of Optimized Recruitment and Follow-up of Patients With Pseudoxanthoma Elasticum (PXE)",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Pseudoxanthoma Elasticum"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Pseudoxanthoma Elasticum"
+        }
+      ],
+      "sponsor": "University Hospital, Angers",
+      "primary_completion": "2031-01",
+      "url": "https://clinicaltrials.gov/study/NCT06636344"
+    },
+    {
+      "nct_id": "NCT07311863",
+      "title": "UGX202 Injection in Patients With Advanced Retinitis Pigmentosa",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Retinitis Pigmentosa (RP)"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "UGX202 injection"
+        }
+      ],
+      "sponsor": "Suzhou UgeneX Therapeutics Co., Ltd.",
+      "primary_completion": "2027-03",
+      "url": "https://clinicaltrials.gov/study/NCT07311863"
+    },
+    {
+      "nct_id": "NCT06500728",
+      "title": "Visual Involvement in Giant Cell Arteritis",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Giant Cell Arteritis",
+        "Visual Impairment",
+        "Central Retinal Artery Occlusion",
+        "Anterior Ischemic Optic Neuropathy",
+        "Paracentral Acute Middle Maculopathy",
+        "Posterior Ischemic Optic Neuropathy",
+        "Retinal Ischemia",
+        "Blindness",
+        "Visual Disorder"
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Fluorescein and Indocyanine green Angiography"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "High-resolution Optical Coherence Tomography"
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Angio-Optical Coherence Tomography"
+        }
+      ],
+      "sponsor": "ASST Fatebenefratelli Sacco",
+      "primary_completion": "2028-06",
+      "url": "https://clinicaltrials.gov/study/NCT06500728"
+    },
+    {
+      "nct_id": "NCT07700498",
+      "title": "PEI-GT Trial for Initial Treatment of Primary Open-Angle Glaucoma With Cataract",
+      "status": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Primary Open Angle Glaucoma and Cataracts"
+      ],
+      "interventions": [
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "PEI combined with gonioscopy-assisted trabeculotomy"
+        },
+        {
+          "type": "COMBINATION_PRODUCT",
+          "name": "PEI combined with conventional topical IOP-lowering medications"
+        }
+      ],
+      "sponsor": "Nanfang Hospital, Southern Medical University",
+      "primary_completion": "2029-12-31",
+      "url": "https://clinicaltrials.gov/study/NCT07700498"
+    },
+    {
+      "nct_id": "NCT03749980",
+      "title": "MyVHL: Patient Natural History Study",
+      "status": "RECRUITING",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Von Hippel-Lindau Disease",
+        "Hereditary Leiomyomatosis and Renal Cell Cancer",
+        "Birt-Hogg-Dube Syndrome",
+        "SDHB Gene Mutation"
+      ],
+      "interventions": [],
+      "sponsor": "Joshua Mann, MPH",
+      "primary_completion": "2028-12",
+      "url": "https://clinicaltrials.gov/study/NCT03749980"
+    }
+  ],
+  "fetched_at": "2026-11-02T00:19:38.285298"
+}

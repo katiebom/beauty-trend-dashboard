@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T00:04:18.546738",
+  "generated_at": "2026-11-02T00:19:37.399893",
   "total_ingredients": 48,
   "signals": [
     {
@@ -204,52 +204,6 @@
       ]
     },
     {
-      "ingredient_id": "bakuchiol",
-      "name_kr": "바쿠치올",
-      "name_en": "Bakuchiol",
-      "category": "retinoid_alternative",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 4,
-        "T3": 0,
-        "unknown": 5
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.5,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42475905",
-          "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pa",
-          "year": "2027",
-          "journal": "Biomaterials"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42332430",
-          "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
-          "year": "2026",
-          "journal": "International journal of cosmetic science"
-        },
-        {
-          "pmid": "41562471",
-          "title": "A Randomized Controlled Trial of the Genistein Plus Bakuchiol and Vitamins (GEN",
-          "year": "2026",
-          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
-        },
-        {
-          "pmid": "41365395",
-          "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
-          "year": "2026",
-          "journal": "Fitoterapia"
-        }
-      ]
-    },
-    {
       "ingredient_id": "cysteamine",
       "name_kr": "시스테아민",
       "name_en": "Cysteamine",
@@ -298,91 +252,6 @@
           "title": "Efficacy and Safety of Cysteamine-Isobionic Amide Complex in the Treatment of Periorbital Hyperpigmentation.",
           "year": "2026",
           "journal": "Journal of drugs in dermatology : JDD"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "resveratrol",
-      "name_kr": "레스베라트롤",
-      "name_en": "Resveratrol",
-      "category": "anti_aging",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 5,
-        "T3": 0,
-        "unknown": 5
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.5,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42943681",
-          "title": "Cultivar-Dependent Phytochemical Composition and Cosmetic Potential of Grapevine Callus Cultures.",
-          "year": "2026",
-          "journal": "Molecules (Basel, Switzerland)"
-        },
-        {
-          "pmid": "42942769",
-          "title": "Ethosomal Nanocarriers for Trans-Resveratrol Delivery: Formulation, Physicochemical Characterization, Stability, and In ",
-          "year": "2026",
-          "journal": "Pharmaceutics"
-        },
-        {
-          "pmid": "42899514",
-          "title": "Expression of Concern: Montenegro et al. Resveratrol-Loaded Lipid Nanocarriers: Correlation Between In Vitro Occlusion F",
-          "year": "2026",
-          "journal": "Pharmaceutics"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "bakuchiol",
-      "name_kr": "바쿠치올",
-      "name_en": "bakuchiol",
-      "category": "retinoid_alternative",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 4,
-        "T3": 0,
-        "unknown": 5
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 16.5,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42475905",
-          "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pa",
-          "year": "2027",
-          "journal": "Biomaterials"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42332430",
-          "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
-          "year": "2026",
-          "journal": "International journal of cosmetic science"
-        },
-        {
-          "pmid": "41562471",
-          "title": "A Randomized Controlled Trial of the Genistein Plus Bakuchiol and Vitamins (GEN",
-          "year": "2026",
-          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
-        },
-        {
-          "pmid": "41365395",
-          "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
-          "year": "2026",
-          "journal": "Fitoterapia"
         }
       ]
     },
@@ -550,6 +419,52 @@
       ]
     },
     {
+      "ingredient_id": "bakuchiol",
+      "name_kr": "바쿠치올",
+      "name_en": "Bakuchiol",
+      "category": "retinoid_alternative",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42475905",
+          "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pa",
+          "year": "2027",
+          "journal": "Biomaterials"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42332430",
+          "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
+        },
+        {
+          "pmid": "41562471",
+          "title": "A Randomized Controlled Trial of the Genistein Plus Bakuchiol and Vitamins (GEN",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "41365395",
+          "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
+          "year": "2026",
+          "journal": "Fitoterapia"
+        }
+      ]
+    },
+    {
       "ingredient_id": "caffeine",
       "name_kr": "카페인",
       "name_en": "Caffeine",
@@ -589,6 +504,45 @@
       ]
     },
     {
+      "ingredient_id": "resveratrol",
+      "name_kr": "레스베라트롤",
+      "name_en": "Resveratrol",
+      "category": "anti_aging",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 4,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42943681",
+          "title": "Cultivar-Dependent Phytochemical Composition and Cosmetic Potential of Grapevine Callus Cultures.",
+          "year": "2026",
+          "journal": "Molecules (Basel, Switzerland)"
+        },
+        {
+          "pmid": "42942769",
+          "title": "Ethosomal Nanocarriers for Trans-Resveratrol Delivery: Formulation, Physicochemical Characterization, Stability, and In ",
+          "year": "2026",
+          "journal": "Pharmaceutics"
+        },
+        {
+          "pmid": "42899514",
+          "title": "Expression of Concern: Montenegro et al. Resveratrol-Loaded Lipid Nanocarriers: Correlation Between In Vitro Occlusion F",
+          "year": "2026",
+          "journal": "Pharmaceutics"
+        }
+      ]
+    },
+    {
       "ingredient_id": "allantoin",
       "name_kr": "알란토인",
       "name_en": "Allantoin",
@@ -624,6 +578,52 @@
           "title": "Photothermally enhanced drug release and anti-inflammatory effects of allantoin-loaded chitosan-based biomaterials incor",
           "year": "2026",
           "journal": "International journal of biological macromolecules"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "bakuchiol",
+      "name_kr": "바쿠치올",
+      "name_en": "bakuchiol",
+      "category": "retinoid_alternative",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 14.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42475905",
+          "title": "Cationic bakuchiol-loaded lipid nanoparticles enhance skin permeation and modulate neuro-immune inflammation and itch pa",
+          "year": "2027",
+          "journal": "Biomaterials"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42332430",
+          "title": "Bakuchiol: From structural mimicry to systems-level skin biology.",
+          "year": "2026",
+          "journal": "International journal of cosmetic science"
+        },
+        {
+          "pmid": "41562471",
+          "title": "A Randomized Controlled Trial of the Genistein Plus Bakuchiol and Vitamins (GEN",
+          "year": "2026",
+          "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+        },
+        {
+          "pmid": "41365395",
+          "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
+          "year": "2026",
+          "journal": "Fitoterapia"
         }
       ]
     },
@@ -902,39 +902,6 @@
       ]
     },
     {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 2,
-        "T2": 0,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42944934",
-          "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
-          "year": "2026",
-          "journal": "Lasers in medical science"
-        },
-        {
-          "pmid": "42921614",
-          "title": "Role of Hyaluronic Acid Fillers in Facial Paralysis.",
-          "year": "2026",
-          "journal": "Plastic and reconstructive surgery. Global open"
-        }
-      ],
-      "top_t2_papers": []
-    },
-    {
       "ingredient_id": "microbiome",
       "name_kr": "마이크로바이옴/포스트바이오틱스",
       "name_en": "Microbiome/Postbiotics",
@@ -1104,6 +1071,33 @@
       "signal_score": 9.8,
       "signal_label": "🟢 잠재 (T+24mo)",
       "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42944934",
+          "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
+          "year": "2026",
+          "journal": "Lasers in medical science"
+        }
+      ],
       "top_t2_papers": []
     },
     {

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T00:07:04.891104",
+  "generated_at": "2026-11-02T00:24:52.199568",
   "kpi": {
     "total_tracked": 48,
     "imminent": 2,
-    "pioneer": 11,
-    "differentiator": 16,
-    "claim_pass_rate": 12.5,
+    "pioneer": 15,
+    "differentiator": 11,
+    "claim_pass_rate": 0.0,
     "concept_count": 5,
-    "active_clinical": 317,
+    "active_clinical": 320,
     "data_freshness": "error: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})",
     "days_since_data": -1
   },
@@ -15,52 +15,39 @@
     {
       "type": "🚀 즉시 신제품",
       "priority": "high",
-      "title": "세놀리틱스 — 시장 선점 (Pioneer)",
-      "rationale": "학술 시그널 강 (점수 23.7) + 상업 C1 (미점유) + 활성 임상 30건. 가장 큰 위협: none.",
-      "next_action": "R&D 6주 안에 컴플렉스 컨셉 → 시장 갭: 안티에이징 시장에서 '노화 세포 제거'라는 명확한 효능을 강조하는 제품 개발 및 소비자 교육 필요.",
+      "title": "스필란톨 — 시장 선점 (Pioneer)",
+      "rationale": "학술 시그널 강 (점수 16.9) + 상업 C1 (미점유) + 활성 임상 0건. 가장 큰 위협: 아이소이.",
+      "next_action": "R&D 6주 안에 컴플렉스 컨셉 → 시장 갭: 스필란톨의 즉각적인 주름 개선 효과를 강조하는 명확한 마케팅 메시지와 함께, 안정적인 제형 개발 및 다양한 제품군 확장 필요.",
       "supporting_data": [
         "emerging_signals",
         "commercial_landscape",
         "clinical_trials"
       ],
-      "ingredient_id": "senolytics"
+      "ingredient_id": "spilanthol"
     },
     {
       "type": "💎 Black 프리미엄",
       "priority": "medium",
-      "title": "레티놀 Black 라인 신설",
-      "rationale": "포화 시장(C3) + APLB 보유 + 학술 점수 13.1. 매스 진입은 어렵지만 고농도/안정화 기술로 차별화.",
+      "title": "세라마이드 Black 라인 신설",
+      "rationale": "포화 시장(C3) + APLB 보유 + 학술 점수 14.8. 매스 진입은 어렵지만 고농도/안정화 기술로 차별화.",
       "next_action": "고농도 (예: 3~5x) + microfluidizer 안정화 → 5~10만원대 채널",
       "supporting_data": [
         "commercial_landscape",
         "emerging_signals"
       ],
-      "ingredient_id": "retinol"
-    },
-    {
-      "type": "🌍 글로벌 출시",
-      "priority": "high",
-      "title": "클레임 PASS 컴플렉스 1개 글로벌 진출 검토",
-      "rationale": "QC PASS 1/8, PMID 100% 검증. 일부는 트리오 0건 = 세계 최초 클레임 가능.",
-      "next_action": "마케팅팀에 클레임 카드 전달 + 북미 채널(Sephora/Amazon) 진입",
-      "supporting_data": [
-        "aplb_claims"
-      ],
-      "complexes": [
-        "lipo_gluta_niac_cen"
-      ]
+      "ingredient_id": "ceramide"
     },
     {
       "type": "⛔ 회피/축소",
       "priority": "low",
-      "title": "레티놀 라인 정리 검토",
+      "title": "세라마이드 라인 정리 검토",
       "rationale": "V-Index 0 약세 + 상업 포화 — 신규 진입 가치 낮음",
       "next_action": "기존 SKU만 유지, 신규 투자 중단",
       "supporting_data": [
         "raw_trends",
         "commercial_landscape"
       ],
-      "ingredient_id": "retinol"
+      "ingredient_id": "ceramide"
     }
   ],
   "weekly_changes": {
@@ -75,7 +62,7 @@
     },
     {
       "type": "🟠 클레임 위반 표현",
-      "msg": "REVISE 7개 — 한국 광고법 위반 표현(예방/치료 등) 수정 필요.",
+      "msg": "REVISE 8개 — 한국 광고법 위반 표현(예방/치료 등) 수정 필요.",
       "severity": "medium"
     }
   ],
@@ -92,16 +79,20 @@
     ],
     "pioneer": [
       {
-        "name_kr": "세놀리틱스"
+        "name_kr": "스필란톨"
       },
       {
         "name_kr": "시스테아민"
       },
       {
-        "name_kr": "레스베라트롤"
+        "name_kr": "엑소좀"
       }
     ],
     "ct_active": [
+      {
+        "name_kr": "카페인",
+        "active": 30
+      },
       {
         "name_kr": "트라넥삼산",
         "active": 30
@@ -109,12 +100,8 @@
       {
         "name_kr": "GLP-1 외용",
         "active": 30
-      },
-      {
-        "name_kr": "레티놀",
-        "active": 29
       }
     ]
   },
-  "ai_synthesis": "APLB CEO님, 이번 주 우선순위는 다음과 같습니다.\n\n*   **세놀리틱스 신제품 출시 준비:** Pioneer 후보 11개 중 가장 높은 학술 점수(23.7)와 임상 30건을 보유한 세놀리틱스를 즉시 신제품으로 개발, 시장 선점을 위한 준비를 2주 안에 완료합니다.\n*   **글로벌 클레임 컴플렉스 출시:** QC PASS율 12% 중 1개 컴플렉스를 선정, 4주 안에 글로벌 출시를 위한 검토 및 준비를 착수합니다.\n*   **클레임 위반 표현 수정:** 한국 광고법 위반 소지가 있는 7개 표현을 즉시 수정하여 법적 리스크를 최소화합니다."
+  "ai_synthesis": "APLB CEO님, 이번 주 우선순위 액션은 다음과 같습니다.\n\n*   **스필란톨 신제품 출시 준비:** 시장 선점 기회 포착, 4주 내 출시 준비 완료.\n*   **클레임 위반 표현 8건 즉시 수정:** 한국 광고법 준수, 2주 내 수정 완료.\n*   **V-Index 데이터 누락 점검:** 1주 내 cron 작업 점검 및 데이터 복구."
 }

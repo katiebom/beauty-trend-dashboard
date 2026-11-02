@@ -1,0 +1,289 @@
+{
+  "ingredient_a": "collagen",
+  "ingredient_b": "peptide",
+  "query": "(\"collagen\"[Title/Abstract] AND \"peptide\"[Title/Abstract]) AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 15,
+  "articles": [
+    {
+      "pmid": "42946320",
+      "title": "A Multifunctional Biomimetic Hydrogel with Antibacterial and Antifibrotic Properties for Scar Minimizing Repair of Infected Skin Wounds.",
+      "abstract": "Infected wounds are characterized by persistent bacterial colonization, which exacerbates inflammation, interferes with extracellular matrix remodeling, and ultimately leads to hypertrophic scarring. Conventional wound dressings offer limited antibacterial durability, immune regulation, and regenerative support, thereby restricting their ability to prevent fibrosis. In this study, we engineered a biomimetic dual-crosslinked network hydrogel (GH-L-VP@PDA) constructed from phenylboronic-acid-modified gelatin methacrylate (GelMA-PBA) and thiolated hyaluronic acid (HA-SH), incorporating the antimicrobial peptide LL-37 and verteporfin-loaded polydopamine nanoparticles (VP@PDA). By integrating LL-37 and VP@PDA nanoparticles, the hydrogel enables coordinated therapy, providing early antibacterial protection and sustained regulation of Yes-associated protein (YAP)-mediated fibrotic remodeling. Consequently, the hydrogel simultaneously regulates infection, inflammation, and fibrotic remodeling, promoting regenerative healing while attenuating excessive fibrosis. Furthermore, benchmarking against commercially available wound dressings demonstrated the favorable therapeutic performance of GH-L-VP@PDA in infected wound treatment. This work presents an intelligent-network therapeutic platform that targets infection-associated fibrosis through YAP-mediated remodeling, providing a strategy for infected wound repair with attenuated fibrotic remodeling. STATEMENT OF SIGNIFICANCE: Infected wound healing remains challenging due to the interplay among bacterial infection, persistent inflammation, and excessive fibrosis. Here, we developed a biomimetic dual-crosslinked hydrogel composed of phenylboronic acid-modified gelatin methacrylate, thiolated hyaluronic acid, LL-37, and verteporfin-loaded polydopamine nanoparticles. The hydrogel integrates antibacterial, immunomodulatory, and antifibrotic properties, with the latter associated with YAP regulation. In vitro and in vivo studies demonstrated its potential to control infection, modulate inflammation, promote angiogenesis, and improve collagen remodeling and tissue regeneration. Comparisons with commercial wound dressings further supported its therapeutic potential. This study provides a multifunctional hydrogel strategy for coordinated regulation of infected wound healing.",
+      "year": "2026",
+      "journal": "Acta biomaterialia",
+      "authors": [
+        "Liang Shiyu",
+        "Bei Zhongwu",
+        "Li Jianan",
+        "Yu Xiaorui",
+        "Tong Qi"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42946320/"
+    },
+    {
+      "pmid": "42943830",
+      "title": "RGD Peptide-Functionalized CMC Hydrogel Enhances Skin Wound Repair in Mice.",
+      "abstract": "Disruption of the wound microenvironment by bacterial infection and excessive inflammation severely delays tissue repair, making multifunctional hydrogels that combine infection control and immune regulation highly desirable. Building on our previously reported carboxymethyl chitosan (CMC) hydrogel incorporating hyaluronic acid (HA) and RGD peptide (RGD), this study extended its evaluation to antibacterial activity, hemostatic behavior, and in vivo wound repair. Four formulations-CMC, CMC-HA, CMC-RGD, and CMC-HA-RGD-contained 1 wt% CMC with 0.9 wt% HA and/or 0.02 mg/mL RGD. Antibacterial activity against ",
+      "year": "2026",
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Liang Chen",
+        "Wang Shuyue",
+        "Elango Jeevithan",
+        "Yang Qing",
+        "Li Bailin"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Wound Healing",
+        "Oligopeptides",
+        "Hydrogels",
+        "Chitosan",
+        "Escherichia coli",
+        "Anti-Bacterial Agents",
+        "Skin",
+        "Staphylococcus aureus"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42943830/"
+    },
+    {
+      "pmid": "42942246",
+      "title": "Peptides in Aesthetic Dermatology: Classification, Fibroblast-Centered Mechanisms, Delivery Technologies, and Clinical Evidence.",
+      "abstract": "Peptides used in aesthetic dermatology differ in molecular identity, biological target, formulation, and route of administration. This critical narrative review classifies these agents and examines their direct or indirect relationships with dermal fibroblasts, integrating mechanistic, delivery, and clinical evidence. Matrikine-like and copper-binding peptides influence matrix-related responses in experimental systems, whereas neuromodulatory and pigment-modulating peptides primarily act through other cellular targets. Oral collagen hydrolysates provide amino acids and circulating hydroxyproline-containing peptides with fibroblast activity demonstrated mainly in preclinical models. Lipidation, encapsulation, and microneedles can modify exposure, but delivery-system effects complicate attribution to the peptide. Controlled human studies report improvements in selected skin endpoints, including wrinkles, hydration, elasticity, dermal density, and pigmentation; however, many trials are limited by small samples, short follow-up, industry sponsorship, or multi-ingredient formulations. Current evidence supports product-specific interpretation rather than interchangeability across peptide classes or administration routes. It does not establish universal purity thresholds, commercial shelf lives, or safety of degraded formulations. Future studies should connect characterized composition and verified exposure with cell-specific mechanisms, objective clinical outcomes, and route-appropriate safety assessment.",
+      "year": "2026",
+      "journal": "Life (Basel, Switzerland)",
+      "authors": [
+        "Yi Kyu-Ho",
+        "Kim Hong Seok",
+        "Lee Han Earl",
+        "Choi Won Seok",
+        "Kim Jin-Hyun"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42942246/"
+    },
+    {
+      "pmid": "42887004",
+      "title": "Self-Assembled Platelet-Derived Growth Factor-Mimetic Peptide@BG Hydrogel Promotes Wound Healing by Regulating Mitochondrial Function through the RhoA/Rock1/Drp1 Signaling Axis.",
+      "abstract": "Skin wound healing involves four overlapping phases, with angiogenesis and mitochondrial functional recovery being critical for effective repair. In this study, a platelet-derived growth factor (PDGF)-mimetic peptide hydrogel was constructed and combined with bioactive glass to form a PDGF-mimetic peptide@BG composite system, aiming to synergistically promote wound healing. The structural stability and morphology of the PDGF-mimetic peptide@BG were characterized using electron microscopy and spectroscopic techniques. Biocompatibility was assessed through in vitro cell experiments. A full-thickness skin defect model in mice was established, and wound healing, angiogenesis, and mitochondrial functional recovery were evaluated using histological staining, Western blotting, and immunofluorescence. The involvement of the RhoA/Rock1/Drp1 signaling pathway in mitochondrial function improvement was investigated. The PDGF-mimetic peptide@BG was successfully prepared with stable structure. In vitro experiments demonstrated good biocompatibility and promotion of endothelial cell proliferation and migration. In vivo results confirmed that PDGF-mimetic peptide@BG accelerated wound healing in mice, enhanced granulation tissue formation and collagen deposition, and increased local blood flow and angiogenesis. Furthermore, the composite restored mitochondrial function, as evidenced by reduced ROS levels, elevated ATP and SOD activity, improved mitochondrial morphology, and downregulation of mitochondrial fission-related proteins. Mechanistic studies suggested that PDGF-mimetic peptide@BG may exert its reparative effects at least in part through inhibition of the RhoA/Rock1/Drp1 signaling pathway. This study suggests that the PDGF-mimetic peptide@BG significantly promotes tissue regeneration in a normal murine wound model by increasing wound blood flow, enhancing vascularization, accelerating mitochondrial repair, and improving its structure and function. These findings provide a preliminary foundation for further evaluation in clinically relevant impaired-healing models.",
+      "year": "2026",
+      "journal": "ACS biomaterials science & engineering",
+      "authors": [
+        "Xu Yun",
+        "Hu Fei",
+        "Ma Chenyu",
+        "Wei Xuebo",
+        "Zhang Yingjian"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887004/"
+    },
+    {
+      "pmid": "42879895",
+      "title": "Temporin-GHa11R accelerates MRSA-infected wound healing via antibacterial efficacy and regulation of macrophage polarization.",
+      "abstract": "The dynamic balance of macrophage polarization is critical for the process of wound repair, whereas bacterial infection can provoke an excessive inflammatory response, consequently delaying wound healing. In this study, we demonstrated that temporin-GHa11R (GHa11R), a temporin-derived peptide, exhibited potent antibacterial activity against methicillin-resistant Staphylococcus aureus (MRSA, MIC = 3.1 μM) and strong antibiofilm capacity, as indicated by its low minimum biofilm inhibitory and eradication concentrations (MBIC",
+      "year": "2026",
+      "journal": "International immunopharmacology",
+      "authors": [
+        "Lan Yawen",
+        "Wang Yuhuan",
+        "Xie Zhipeng",
+        "Jin Xiao",
+        "Tan Xiuchuan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42879895/"
+    },
+    {
+      "pmid": "42872147",
+      "title": "The Impact of Glucagon-Like Peptide-1 Receptor Agonist-Induced Nutritional Deficiencies on Skin Health: A Narrative Review With a Proposed Framework for the Aesthetic Practitioner.",
+      "abstract": "Semaglutide and tirzepatide have reshaped obesity care, and aesthetic practitioners increasingly encounter patients with rapid-weight-loss-associated facial volume loss and skin changes. Nutritional deficiency may be an underrecognized contributor to impaired dermal repair during glucagon-like peptide-1 receptor agonist (GLP-1RA) therapy. The authors reviewed and synthesized evidence across metabolic pharmacology, facial anatomy and aesthetics, dermatologic histology, and clinical nutrition. PubMed, Embase, and the Cochrane Library were searched from January 2019 to March 2026, supplemented by foundational studies in collagen biology and post-weight-loss skin histology. GLP-1RA-mediated caloric restriction can reduce intake of micronutrient cofactors required for collagen biosynthesis and wound repair. Vitamin D deficiency reaches 13.6% at 12 months, and ∼22.4% of patients have at least one documented deficiency within 1 year. Deficiencies in vitamin D, iron, vitamin B12, folate, zinc, copper, and protein may plausibly compound rapid fat-compartment depletion and collagen remodeling. Direct GLP-1RA effects on dermal cells remain preclinical and should be interpreted cautiously. In summary, GLP-1RA-associated facial aging changes are multifactorial. The authors propose a risk-stratified framework for aesthetic practitioners emphasizing dietary optimization, selective supplementation, targeted laboratory assessment in at-risk patients, coordination with prescribing clinicians, and procedural timing when nutritional status is optimized. Prospective studies are needed to determine whether correcting deficiencies improves aesthetic or surgical outcomes. ",
+      "year": "2026",
+      "journal": "Aesthetic surgery journal. Open forum",
+      "authors": [
+        "Karlin Justin",
+        "Li Zhaoping",
+        "Parsa Kami"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42872147/"
+    },
+    {
+      "pmid": "42852251",
+      "title": "A multifunctional ZIF-8@CuO/collagen-binding peptide hydrogel for photothermal-enhanced antibacterial and infected skin wound management.",
+      "abstract": "Owing to continuous bacterial proliferation, a persistent inflammatory response, and impaired vascularization, infected skin wounds remain a major clinical challenge. Herein, we fabricated a multifunctional skin-repair material by incorporating ZIF-8@CuO nanoparticles and a collagen-binding vascular endothelial growth factor mimetic peptide (C-VEGFMP) into a gelatin methacryloyl (GelMA) hydrogel. The ZIF-8@CuO nanoparticles were prepared by controllably depositing copper oxide (CuO) onto the surface of zeolitic imidazolate framework-8 (ZIF-8). ZIF-8@CuO can endowed the hydrogel with potent antibacterial and anti-inflammatory activities, as well as efficient near-infrared (NIR) photothermal conversion capability. C-VEGFMP was constructed by introducing a collagen-binding sequence into the VEGFMP. This modified peptide can stably anchor to GelMA and maintain its bioactivity at the hydrogel-tissue interface. The resulting ZIF-8@CuO/C-VEGFMP hydrogel exhibited favorable cytocompatibility, broad-spectrum antibacterial activity and prominent pro-angiogenic performance. Upon NIR irradiation, the photothermal effect of ZIF-8@CuO can synergistically eradicate pathogenic bacteria, thereby enhancing photothermal therapeutic efficacy. In addition, the sustained presence of bioactive C-VEGFMP promoted epithelial regeneration, collagen deposition, and neovascularization in infected full-thickness wounds. Transcriptomic analysis indicated that treatment with ZIF-8@CuO/C-VEGFMP under NIR irradiation exerted anti-inflammatory, pro-angiogenic and tissue-repair effects mainly by upregulating thrombomodulin (THBD) and Ets proto-oncogene 2 (Ets2) genes. This study provides a multifunctional strategy that combines nanoparticle-mediated photothermal antibacterial effects with functionalized peptides, offering a promising therapeutic modality for the management of infected skin injuries.",
+      "year": "2026",
+      "journal": "RSC advances",
+      "authors": [
+        "Li Shengyang",
+        "Zhang Renfeng",
+        "Du Haorui",
+        "Yang Hanwen",
+        "Pan Su"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42852251/"
+    },
+    {
+      "pmid": "42841492",
+      "title": "Bioactive Chitosan Membranes Loaded with Nile Tilapia Skin Peptides Promote Wound Healing Associated with Temporal Inflammatory Modulation.",
+      "abstract": "Bioactive wound dressings that combine structural support with local biological activity are promising for skin repair. Nile tilapia skin peptides (NTSP) have demonstrated wound-healing potential, while chitosan (CS) offers favorable film-forming, biodegradable, and wound-contact properties. Combining these components may provide a structured platform for topical application of bioactive peptides. This study investigated incorporating NTSP into CS membranes and its effects on physicochemical performance and wound healing. CS membranes containing NTSP at 600 or 1000 μg/mL were characterized and evaluated in a full-thickness wound model in Wistar rats; peptide-free and bovine skin peptide-loaded CS membranes served as comparators. FTIR and XRD supported NTSP incorporation through predominantly noncovalent interactions, without forming a separate crystalline phase. NTSP significantly reduced water vapor permeability from 2.80 ± 0.22 g.mm.m-2.day-1.kPa-1 in control membranes to 1.78 ± 0.16 and 1.63 ± 0.24 g.mm.m-2.day-1.kPa-1 at 600 and 1000 μg/mL, respectively (p < 0.05). The 600 μg/mL membrane showed the highest swelling in simulated exudate fluid (2250.39 ± 64.98% at 24 h; p < 0.0001 vs control), whereas all formulations underwent progressive lysozyme-mediated degradation. Tensile strength decreased with peptide loading, with a significant difference between control and 1000 μg/mL membranes (p = 0.0181). On day 7, wound contraction reached 45.56 ± 8.22% and 55.73 ± 15.39% for the 600 and 1000 μg/mL membranes, compared with 36.60 ± 3.36% for peptide-free CS and 9.97 ± 2.98% for the bovine-peptide comparator. At day 14, the 600 μg/mL formulation remained superior to the 1000 μg/mL and bovine-peptide groups (p = 0.0157 and p = 0.0016). Histological and immunohistochemical findings showed temporal changes in inflammatory-cell recruitment, angiogenesis, fibroblast accumulation, matrix deposition, and TNF-α and IL-6 expression. Overall, the 600 μg/mL NTSP-loaded CS membrane provided the most favorable balance between material performance and biological response, supporting its development as a structured bioactive wound dressing.",
+      "year": "2026",
+      "journal": "ACS applied bio materials",
+      "authors": [
+        "Tozetto Rodrigo",
+        "de Macedo Júlia B",
+        "Ventura Ana Carolina T",
+        "Capote Anna Cláudia M O",
+        "M da Silva Thaís Letícia"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42841492/"
+    },
+    {
+      "pmid": "42824959",
+      "title": "Multifunctional pH-responsive HA-c-FZ1 hydrogel presents a promising therapeutic strategy for diabetic skin wounds.",
+      "abstract": "Diabetic foot ulcers remain a major clinical challenge, driven by the convergent effects of microbial infection, chronic inflammation, oxidative stress, and inadequate neovascularization that collectively disrupt tissue repair. Although the integrin αvβ3 agonist peptide FZ1 exhibits promising pro-healing activity, limited delivery control and insufficient functional versatility have restricted its clinical translation. To overcome these constraints, a pH-responsive hyaluronic acid (HA)-based hydrogel, hyaluronic acid conjugated with FZ1 peptide (HA-c-FZ1), was developed to enable intelligent acidity-triggered peptide release while integrating antimicrobial activity, reactive oxygen species (ROS) scavenging, and inflammation control within a single wound dressing platform for diabetic wound repair.",
+      "year": "2026",
+      "journal": "Burns & trauma",
+      "authors": [
+        "Fu Zhe",
+        "Jiang Jingyu",
+        "Wu Yutong",
+        "Xiao Zhaoxun",
+        "Su Yunhan"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42824959/"
+    },
+    {
+      "pmid": "42801572",
+      "title": "In Situ Genetic Engineering Facilitates MMP-9-Responsive TIMP1 Release Through Proteolytic Cleavage to Boost Diabetic Wound Healing.",
+      "abstract": "Diabetic Foot Ulcer (DFU), a severe chronic diabetes complication with low healing and high recurrence rates, is a major global health challenge. Overexpression of matrix metalloproteinase-9 (MMP-9) and the consequent MMP-9/TIMP1 (tissue inhibitor of metalloproteinase 1) imbalance delays healing by degrading the extracellular matrix, impairing granulation tissue formation, and exacerbating inflammation. Conventional therapies do not dynamically respond to fluctuating protease levels in chronic wounds. This study introduces an MMP-9-responsive protein release system (M9RR), where the therapeutic protein (i.e., TIMP1) is linked to a membrane-anchoring domain at its C-terminus via an MMP-9-cleavable peptide, thereby exposing the fusion protein to the extracellular side of cell membranes. The system enables targeted release of TIMP1 in high-MMP-9 microenvironments, thereby neutralizing excessive MMP-9 activity. In vitro, M9RR demonstrates MMP-9 specificity, broad mammalian cell applicability, and protection of HaCaT keratinocytes and BJ fibroblasts from MMP-9-induced damage. In db/db diabetic mice, the MMP-9-responsive TIMP1 release system (TIMP1",
+      "year": "2026",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Zhang Yuan",
+        "Deng Jiani",
+        "Cheung Man Yee",
+        "Fu Tingting",
+        "Qi Xufeng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42801572/"
+    },
+    {
+      "pmid": "42794518",
+      "title": "Low-Molecular-Weight Salmon Collagen Peptides Promote Extracellular Matrix Gene (ECM) Expression in BJ Fibroblasts.",
+      "abstract": "Salmon skin, a high-volume by-product of seafood processing, offers a circular-bioeconomy route to sustainable, value-added ingredients. This study aimed to generate low-molecular-weight collagen peptides (LMWCPs) from salmon skin using a stepwise enzymatic process and to evaluate their safety and pro-extracellular-matrix (ECM) activity in human BJ fibroblasts. LMWCPs were produced by sequential hydrolysis (alcalase/papain, then collagenase) and characterized as low-molecular-weight peptide preparations with a mean dispersed particle diameter of approximately 117 nm. LMWCPs display negatively charged peptide dispersions with a mass centered around ~1 kDa. Cytocompatibility (MTT) showed no toxicity up to 1.5 mg/mL over 48 h. Gene expression by reverse transcription-quantitative polymerase chain reaction (RT-qPCR) revealed a robust, dose-dependent ECM response: collagen type I alpha 1 chain (COL1A1) increased by approximately 7-fold, with additional rises of 5-6-fold in versican (VCAN) levels and modest increases in elastin (ELN) and transforming growth factor-β (TGF-β). These findings provide an exploratory process-to-phenotype link between the two-step hydrolysis process, physicochemical characteristics of the resulting LMWCPs, and changes in ECM-related gene expression in BJ fibroblasts. Overall, this study demonstrates that salmon skin LMWCPs were cytocompatible within the tested concentration range and modulated several ECM-related genes, providing a preliminary basis for future protein-level, functional, and translational evaluation.",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Benjakul Soottawat",
+        "Nilsuwan Krisana",
+        "Patil Umesh",
+        "Haewphet Thaiyawat",
+        "Saetang Jirakrit"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Fibroblasts",
+        "Humans",
+        "Salmon",
+        "Collagen",
+        "Extracellular Matrix",
+        "Peptides",
+        "Molecular Weight",
+        "Gene Expression Regulation",
+        "Collagen Type I"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42794518/"
+    },
+    {
+      "pmid": "42777471",
+      "title": "Ameliorating effects and mechanisms of tuna peptides on UVB-induced photoaging and melanogenesis targeting oxidative stress, apoptosis, and tyrosinase inactivation.",
+      "abstract": "Ultraviolet B (UVB) radiation causes skin photodamage and excessive melanogenesis, but effective multi-target protective agents remain limited. Antioxidant peptides derived from marine by-products are promising; however, it remains unclear whether specific peptides from skipjack tuna skin can simultaneously alleviate UVB-induced photodamage and inhibit melanogenesis, and the underlying molecular mechanisms are poorly defined. Therefore, the primary objective of this study was to systematically investigate the protective efficacy and molecular mechanisms of three antioxidant peptides derived from skipjack tuna skin-Met-Pro-Ala-Gly-Glu (MPAGE), Leu-Asn-Pro-Gly-Ala (LNPGA), and Gly-Thr-Gly-Pro-Ala (GTGPA)-against UVB-induced skin photodamage and excessive melanogenesis. We hypothesized that these peptides exert synergistic photoprotective and anti-melanogenic effects via multi-target regulation of Nrf2-mediated antioxidant pathways, inflammatory and apoptotic cascades, and tyrosinase inhibition. In UVB-irradiated HaCaT cells, MPAGE, LNPGA, and GTGPA significantly upregulate nuclear factor erythroid 2-related factor 2 (Nrf2) protein expression and promote its nuclear translocation, increasing the levels of NAD(P)H quinone dehydrogenase 1 (NQO1), superoxide dismutase (SOD), glutathione peroxidase (GSH-Px) and catalase (CAT) levels, thereby scavenging reactive oxygen species (ROS), reducing malondialdehyde (MDA), and alleviating oxidative damage. Mechanistically, molecular docking predictions suggested that these peptides may activate Nrf2 by interacting with the Kelch domain of kelch-like ECH-associated protein 1 (Keap1) and competitively occupying its ligand-binding pockets. Additionally, the peptides also attenuated apoptosis by reducing bcl-2-associated X protein/b-cell lymphoma 2 (Bax/Bcl-2) ratio and cysteine-dependent aspartate-specific protease 3 (Caspase-3) level. Moreover, they potently inhibited the β-galactosidase and collagenase production and reduced matrix metalloproteinase-1 (MMP-1) and matrix metalloproteinase-3 (MMP-3) levels, suppressing UVB-induced collagen degradation and mitigating skin photoaging. Enzyme-Linked Immunosorbent Assay (ELISA) revealed a marked reduction in interleukin-6 (IL-6), interleukin-1 β (IL-1β), and tumor necrosis factor α (TNF-α) levels, demonstrating significant anti-inflammatory effects. Finally, MPAGE, LNPGA, and GTGPA exhibited dose-dependent inhibitory effects on melanogenesis in B16-F10 cells. In silico docking analysis further predicted that these peptides could deeply embed in the active pocket of tyrosinase by hydrogen bondings interactions (<6 Å) with key catalytic residues. In summary, this work provides the first comprehensive mechanistic characterization of MPAGE, LNPGA, and GTGPA, demonstrating that they alleviate UVB-induced photodamage through synergistic antioxidant, anti-aging, anti-inflammatory, and anti-apoptotic mechanisms, while potentially inhibiting melanogenesis through computationally predicted tyrosinase suppression. These findings provide a basis for further experimental validation of these peptides as multi-target skin-protective agents.",
+      "year": "2026",
+      "journal": "Journal of photochemistry and photobiology. B, Biology",
+      "authors": [
+        "Wang Yu-Mei",
+        "Zeng Yu-Hui",
+        "Zheng Shuo-Lei",
+        "Wang Bin",
+        "Chi Chang-Feng"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42777471/"
+    },
+    {
+      "pmid": "42772232",
+      "title": "Antibacterial activity and mechanism of the Lithobates catesbeiana-derived novel peptide RCVI2 against Bacillus cereus.",
+      "abstract": "Bacillus cereus (B. cereus) is a common foodborne pathogen, and its contamination of food products poses a substantial risk to public health and food safety. This study identified the novel antimicrobial peptide RCVI2 (LSVIASDPNYRR) from the enzymatic hydrolysate of Lithobates catesbeiana (L. catesbeiana) skin and systematically evaluated its antibacterial activity and mechanism against B. cereus. RCVI2 exhibited significant bactericidal activity against B. cereus, with a minimum bactericidal concentration of 125 μg/mL, capable of achieving complete sterilization within 3 h. Experimental studies and molecular dynamics (MD) simulations demonstrated that RCVI2 can increase cell membrane permeability and compromise integrity, and simultaneously induce excessive accumulation of intracellular reactive oxygen species, causing oxidative stress damage. RCVI2 can interact with bacterial DNA. Molecular docking results revealed that it can securely bind to DNA base pairs through non-covalent embedding, establishing a structural basis for its antibacterial mechanism of targeting nucleic acids. Additionally, the hemolysis rate of RCVI2 on sheep red blood cells at higher concentrations was <5%, demonstrating good blood compatibility, and effectively inhibiting B. cereus growth in rice paste. In conclusion, this study revealed the mechanism by which an antimicrobial peptide derived from L. catesbeiana skin collagen inhibits B. cereus through multi-target synergistic action, thereby offering theoretical support for its potential application as a novel antimicrobial agent in food safety.",
+      "year": "2027",
+      "journal": "International journal of food microbiology",
+      "authors": [
+        "Shen Qiulian",
+        "Lin Qiaojuan",
+        "Lin Rong",
+        "Jin Ritian",
+        "Liang Duo"
+      ],
+      "mesh_terms": [
+        "Bacillus cereus",
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Microbial Sensitivity Tests",
+        "Rana catesbeiana",
+        "Molecular Docking Simulation",
+        "Erythrocytes",
+        "Antimicrobial Peptides",
+        "Molecular Dynamics Simulation",
+        "Hemolysis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42772232/"
+    },
+    {
+      "pmid": "42761689",
+      "title": "Aesthetic Considerations for Preventing and Managing GLP-1 Receptor Agonist-Related Facial Aging.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly prescribed for obesity and type 2 diabetes, resulting in rapid or massive weight loss (MWL) that can profoundly affect facial adipose tissue (AT) and skin homeostasis. Facial AT, comprising dermal, subcutaneous, and deep layers, plays a critical role in structural support, extracellular matrix (ECM) maintenance, and paracrine signaling to fibroblasts and keratinocytes. GLP-1 RA-MWL leads to AT depletion, with associated skin laxity, volume loss, and accelerated aging, particularly in periorbital and midfacial regions. Concurrently, improved glycemic control reduces advanced glycation end products, dampens inflammation, and preserves collagen integrity, highlighting the complex effects on the cutaneous microenvironment.",
+      "year": "2026",
+      "journal": "The Journal of clinical and aesthetic dermatology",
+      "authors": [
+        "Bommareddy Kanthi",
+        "Fabi Sabrina",
+        "Muniz Mariana"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42761689/"
+    },
+    {
+      "pmid": "42749005",
+      "title": "β-Myrcene alleviates atopic dermatitis-like inflammation and is associated with ECM-FAK/Src-YAP signaling during epidermal barrier repair.",
+      "abstract": "Atopic dermatitis (AD) is characterized by epidermal barrier impairment and immune-driven inflammation. Strategies that restore barrier architecture while constraining inflammation are of therapeutic interest.",
+      "year": "2026",
+      "journal": "European journal of pharmacology",
+      "authors": [
+        "Long Nana",
+        "Zuo Youwei",
+        "Li Jian",
+        "Yao Renxiu",
+        "Zhang Xiao"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dermatitis, Atopic",
+        "Filaggrin Proteins",
+        "Signal Transduction",
+        "Extracellular Matrix",
+        "Humans",
+        "Keratinocytes",
+        "Epidermis",
+        "src-Family Kinases",
+        "Mice"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42749005/"
+    }
+  ],
+  "crawled_at": "2026-11-02T00:20:13.388387"
+}
