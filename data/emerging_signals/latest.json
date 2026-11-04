@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:58:38.861791",
+  "generated_at": "2026-11-04T01:18:21.068994",
   "total_ingredients": 48,
   "signals": [
     {
@@ -352,16 +352,16 @@
       "signal_label": "🟡 등장 중 (T+12mo)",
       "top_t1_papers": [
         {
-          "pmid": "42928334",
-          "title": "Functional engineering of adipose-derived stem cell exosomes and its application in soft tissue regeneration.",
+          "pmid": "42972579",
+          "title": "Exosome-shuttled PCBP1 from hypoxic preconditioned urine-derived stem cells accelerates wound healing.",
           "year": "2026",
           "journal": "Stem cell research & therapy"
         },
         {
-          "pmid": "42906434",
-          "title": "Bioactive M2 exosome hybrid nanocomposites for immune therapy of psoriasis.",
+          "pmid": "42928334",
+          "title": "Functional engineering of adipose-derived stem cell exosomes and its application in soft tissue regeneration.",
           "year": "2026",
-          "journal": "Biomaterials advances"
+          "journal": "Stem cell research & therapy"
         }
       ],
       "top_t2_papers": [
@@ -745,45 +745,6 @@
       ]
     },
     {
-      "ingredient_id": "glutathione",
-      "name_kr": "글루타치온",
-      "name_en": "Glutathione",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 3,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 13.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42960871",
-          "title": "Pharmacogenomic Markers of Disease Susceptibility and Glucocorticoid Responsiveness in Pemphigus Vulgaris.",
-          "year": "2026",
-          "journal": "Indian dermatology online journal"
-        },
-        {
-          "pmid": "42949336",
-          "title": "Tea Polyphenol EGCG Prevents UVB-Induced Oxidative Stress via SIRT3-Mediated Activation of SOD2: Mechanistic Insights fr",
-          "year": "2026",
-          "journal": "Journal of agricultural and food chemistry"
-        },
-        {
-          "pmid": "42939939",
-          "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib in C57BL/6 Mice: An Exploratory Study of Oxidative St",
-          "year": "2026",
-          "journal": "Antioxidants (Basel, Switzerland)"
-        }
-      ]
-    },
-    {
       "ingredient_id": "beta_glucan",
       "name_kr": "베타글루칸",
       "name_en": "Beta-Glucan",
@@ -893,6 +854,39 @@
           "title": "Fatty Acids for the Treatment of Ocular Diseases and Ocular Drug Delivery.",
           "year": "2026",
           "journal": "Molecular pharmaceutics"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "glutathione",
+      "name_kr": "글루타치온",
+      "name_en": "Glutathione",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42960871",
+          "title": "Pharmacogenomic Markers of Disease Susceptibility and Glucocorticoid Responsiveness in Pemphigus Vulgaris.",
+          "year": "2026",
+          "journal": "Indian dermatology online journal"
+        },
+        {
+          "pmid": "42949336",
+          "title": "Tea Polyphenol EGCG Prevents UVB-Induced Oxidative Stress via SIRT3-Mediated Activation of SOD2: Mechanistic Insights fr",
+          "year": "2026",
+          "journal": "Journal of agricultural and food chemistry"
         }
       ]
     },
@@ -1183,33 +1177,6 @@
       ]
     },
     {
-      "ingredient_id": "urea",
-      "name_kr": "우레아",
-      "name_en": "Urea",
-      "category": "hydration",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 0,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 9.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42854439",
-          "title": "Resveratrol ameliorates acute kidney injury following burn injury by promoting mitophagy through SIRT5-mediated ATG3 suc",
-          "year": "2026",
-          "journal": "Burns : journal of the International Society for Burn Injuries"
-        }
-      ],
-      "top_t2_papers": []
-    },
-    {
       "ingredient_id": "silica",
       "name_kr": "실리카",
       "name_en": "Silica",
@@ -1348,6 +1315,26 @@
       "name_kr": "인삼",
       "name_en": "Ginseng",
       "category": "natural",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 0,
+        "T3": 0,
+        "unknown": 10
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 8.0,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "urea",
+      "name_kr": "우레아",
+      "name_en": "Urea",
+      "category": "hydration",
       "tier_dist": {
         "T1": 0,
         "T2": 0,
