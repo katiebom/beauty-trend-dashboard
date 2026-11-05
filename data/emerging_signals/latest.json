@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T01:18:21.068994",
+  "generated_at": "2026-11-05T01:25:24.936862",
   "total_ingredients": 48,
   "signals": [
     {
@@ -204,6 +204,52 @@
       ]
     },
     {
+      "ingredient_id": "tranexamic_acid",
+      "name_kr": "트라넥삼산",
+      "name_en": "Tranexamic Acid",
+      "category": "brightening",
+      "tier_dist": {
+        "T1": 3,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 6
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 1,
+      "v_index": null,
+      "signal_score": 16.8,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42919993",
+          "title": "Prospective Study of Hemoglobin Changes, Blood Loss, and the Role of Body Mass Index in Body Contouring Procedures.",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        },
+        {
+          "pmid": "42910833",
+          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
+          "year": "2026",
+          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
+        },
+        {
+          "pmid": "42907601",
+          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
+          "year": "2026",
+          "journal": "Aesthetic plastic surgery"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42976836",
+          "title": "Tranexamic Acid Mesotherapy for Melasma: An Interventional Study.",
+          "year": "2026",
+          "journal": "Journal of drugs in dermatology : JDD"
+        }
+      ]
+    },
+    {
       "ingredient_id": "cysteamine",
       "name_kr": "시스테아민",
       "name_en": "Cysteamine",
@@ -293,45 +339,6 @@
           "journal": "Journal of cosmetic dermatology"
         }
       ]
-    },
-    {
-      "ingredient_id": "tranexamic_acid",
-      "name_kr": "트라넥삼산",
-      "name_en": "Tranexamic Acid",
-      "category": "brightening",
-      "tier_dist": {
-        "T1": 3,
-        "T2": 0,
-        "T3": 0,
-        "unknown": 7
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 1,
-      "v_index": null,
-      "signal_score": 15.1,
-      "signal_label": "🟡 등장 중 (T+12mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42919993",
-          "title": "Prospective Study of Hemoglobin Changes, Blood Loss, and the Role of Body Mass Index in Body Contouring Procedures.",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        },
-        {
-          "pmid": "42910833",
-          "title": "Tranexamic Acid-Supplemented Tumescent Anesthesia for Hidradenitis Suppurativa Deroofing.",
-          "year": "2026",
-          "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]"
-        },
-        {
-          "pmid": "42907601",
-          "title": "Critical Appraisal: \"The Impact of Combined Intravenous and Topical Tranexamic Acid in Abdominoplasty with Scarpa Fascia",
-          "year": "2026",
-          "journal": "Aesthetic plastic surgery"
-        }
-      ],
-      "top_t2_papers": []
     },
     {
       "ingredient_id": "exosome",
@@ -785,6 +792,45 @@
       ]
     },
     {
+      "ingredient_id": "microbiome",
+      "name_kr": "마이크로바이옴/포스트바이오틱스",
+      "name_en": "Microbiome/Postbiotics",
+      "category": "barrier",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 3,
+        "T3": 0,
+        "unknown": 7
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 13.1,
+      "signal_label": "🟡 등장 중 (T+12mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42980419",
+          "title": "Allobaculum stercoricanis and Its Postbiotics Alleviate Dextran Sulfate Sodium (DSS)-Induced Colitis through the Regulat",
+          "year": "2026",
+          "journal": "Journal of agricultural and food chemistry"
+        },
+        {
+          "pmid": "42947398",
+          "title": "Efficacy of Heat-Killed Lactobacillus plantarum L-137 Supplementation in Treatment of Canine Atopic Dermatitis.",
+          "year": "2026",
+          "journal": "Veterinary dermatology"
+        },
+        {
+          "pmid": "42797015",
+          "title": "Microbiome-Derived Metabolic Signaling in the Gut-Skin Axis: Implications for Nutricosmetics and Healthy Skin Aging.",
+          "year": "2026",
+          "journal": "Nutrients"
+        }
+      ]
+    },
+    {
       "ingredient_id": "squalane",
       "name_kr": "스쿠알란",
       "name_en": "Squalane",
@@ -820,40 +866,6 @@
           "title": "Breaking the virus: Yeast glucans as an effective alternative to acyclovir in HSVI treatment.",
           "year": "2025",
           "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42944934",
-          "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
-          "year": "2026",
-          "journal": "Lasers in medical science"
-        }
-      ],
-      "top_t2_papers": [
-        {
-          "pmid": "42969743",
-          "title": "Fatty Acids for the Treatment of Ocular Diseases and Ocular Drug Delivery.",
-          "year": "2026",
-          "journal": "Molecular pharmaceutics"
         }
       ]
     },
@@ -920,39 +932,6 @@
           "title": "Topical treatment of rosacea: update and outlook.",
           "year": "2026",
           "journal": "International journal of pharmaceutics"
-        }
-      ]
-    },
-    {
-      "ingredient_id": "microbiome",
-      "name_kr": "마이크로바이옴/포스트바이오틱스",
-      "name_en": "Microbiome/Postbiotics",
-      "category": "barrier",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 2,
-        "T3": 0,
-        "unknown": 8
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 11.4,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42947398",
-          "title": "Efficacy of Heat-Killed Lactobacillus plantarum L-137 Supplementation in Treatment of Canine Atopic Dermatitis.",
-          "year": "2026",
-          "journal": "Veterinary dermatology"
-        },
-        {
-          "pmid": "42797015",
-          "title": "Microbiome-Derived Metabolic Signaling in the Gut-Skin Axis: Implications for Nutricosmetics and Healthy Skin Aging.",
-          "year": "2026",
-          "journal": "Nutrients"
         }
       ]
     },
@@ -1094,6 +1073,33 @@
       "signal_label": "🟢 잠재 (T+24mo)",
       "top_t1_papers": [],
       "top_t2_papers": []
+    },
+    {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 9
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 9.7,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42969743",
+          "title": "Fatty Acids for the Treatment of Ocular Diseases and Ocular Drug Delivery.",
+          "year": "2026",
+          "journal": "Molecular pharmaceutics"
+        }
+      ]
     },
     {
       "ingredient_id": "alpha_arbutin",

@@ -1,0 +1,210 @@
+{
+  "ingredient_id": "azelaic_acid",
+  "name_en": "Azelaic Acid",
+  "name_kr": "아젤라산",
+  "category": "brightening",
+  "query": "\"Azelaic Acid\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42971371",
+      "title": "Azelaic Acid as a Novel Antivirulence Agent Against Pseudomonas aeruginosa: In silico, In vitro and In vivo Efficacy and Biocompatibility.",
+      "abstract": "Pseudomonas aeruginosa is an opportunistic pathogen whose virulence is largely regulated by quorum sensing (QS), making this system an attractive target for anti-virulence therapies. Azelaic acid (AzA), a naturally occurring dicarboxylic acid widely used in dermatology, has not previously been investigated as a QS inhibitor. This study evaluated the antibacterial and anti-virulence activities of AzA against reference strains and multidrug-resistant clinical isolates of P. aeruginosa, together with its preliminary safety profile and potential molecular interactions with key QS proteins. Minimum inhibitory concentrations (MICs) ranged from 250 to 1000 μg/mL. At sub-inhibitory concentrations, AzA significantly reduced the production of pyocyanin, elastase, protease and alginate in a dose-dependent manner without affecting bacterial viability. Molecular docking predicted favorable interactions of AzA with LasI, LasR, PqsD and PqsR, supporting a potential modulation of QS-associated pathways. Chemoinformatic analyses predicted favorable drug-likeness and safety characteristics, while cell viability remained above 90% and hemolysis below 4% within the anti-virulence concentration range. In the Tenebrio molitor infection model, AzA significantly increased larval survival and reduced in vivo pyocyanin production in both the reference strain Pa14 and a multidrug-resistant clinical isolate. Collectively, these findings provide the first evidence that AzA can attenuates QS-regulated virulence in P. aeruginosa through complementary in vitro, in silico and in vivo approaches while exhibiting a favorable preliminary safety profile. These results support the repositioning of AzA as a promising anti-virulence candidate for the development of adjunctive therapeutic strategies against multidrug-resistant P. aeruginosa infections.",
+      "year": "2026",
+      "journal": "Microbial pathogenesis",
+      "authors": [
+        "Espinosa Arriaga Maciel",
+        "Palacios Rodriguez Ana Paula",
+        "García Contreras Rodolfo",
+        "Hu Oxte Geovany Esther",
+        "Sánchez Magaña Maricruz"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42971371/"
+    },
+    {
+      "pmid": "42967789",
+      "title": "Functionalized Au@Ag nanorod-embedded triple-network hydrogel for wearable SERS analysis of azelaic acid, H",
+      "abstract": "Skin inflammation is commonly accompanied by oxidative stress and changes in the local acid-base microenvironment, whereas molecular indicators reflecting inflammation-associated metabolic changes remain less explored in wearable sensing. Azelaic acid, a dicarboxylic acid associated with inflammatory skin conditions, represents a potential small-molecule target, yet its non-invasive analysis in sweat remains challenging. Herein, a wearable-compatible ratiometric surface-enhanced Raman scattering (SERS) platform was constructed by embedding functionalized Au@Ag nanorods into a TEMPO-oxidized cellulose nanofibers (TOCNF)/poly(vinyl alcohol) (PVA)/poly(acrylamide-co-acrylic acid) [P(AM-co-AA)]-Zn",
+      "year": "2026",
+      "journal": "Analytica chimica acta",
+      "authors": [
+        "Zhuang Xin",
+        "Lin Jing",
+        "Lin Jialun",
+        "Mo Ranxi",
+        "Zheng Xinyan"
+      ],
+      "mesh_terms": [
+        "Gold",
+        "Spectrum Analysis, Raman",
+        "Sweat",
+        "Dicarboxylic Acids",
+        "Hydrogen-Ion Concentration",
+        "Humans",
+        "Hydrogen Peroxide",
+        "Nanotubes",
+        "Hydrogels",
+        "Silver"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42967789/"
+    },
+    {
+      "pmid": "42963009",
+      "title": "pH-regulated supersaturation enables nanonization of three model drugs for enhanced oral and transdermal delivery.",
+      "abstract": "Weakly ionizable drugs constitute the majority of clinically used small-molecule therapeutics; however, their pH-dependent solubility and permeability frequently result in poor bioavailability and suboptimal therapeutic efficacy. Herein, we developed a pH-regulated nanonization strategy that exploits the pKa-dependent solubility characteristics of weak electrolytes to generate drug nanoparticles through controlled supersaturation and polymer-assisted stabilization. Three representative weakly ionizable drugs with distinct ionization properties were selected as model compounds, including albendazole (ABZ, weak base), azelaic acid (AZA, weak acid), and hemin (amphoteric compound). The apparent solubilities of resulting nanoparticles (ABZNPs, AZANPs, and HNPs) increased by approximately 317-fold, 106-fold, and 1,100-fold, respectively, as compared to the corresponding free drugs. ABZNPs displayed excellent stability under simulated gastrointestinal conditions and significantly enhanced oral absorption in rats, yielding a 3.5-fold increase in Cmax and a relative bioavailability of 331.4% compared with a commercial formulation. Meanwhile, AZANPs markedly improved transdermal delivery, achieving 3.3-fold higher skin permeation and over twofold greater skin retention than the raw drug formulation. In a Cutibacterium acnes-induced acne model, a 5% AZANPs ointment achieved therapeutic efficacy comparable to that of a commercial 10% azelaic acid product while reducing local irritation. Mechanistically, AZANPs promoted PPAR-γ activation, suppressed inflammatory cytokine production, normalized epidermal hyperproliferation, and facilitated collagen remodeling. Collectively, In this study, we developed a pH-Regulated nanonization method and validated its feasibility using three model drugs, while acknowledging that its broader applicability warrants further investigation.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Tan Yutao",
+        "Li Ke",
+        "Zhang Bikui",
+        "Wu Huihui",
+        "Zhou Wenhu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42963009/"
+    },
+    {
+      "pmid": "42935280",
+      "title": "Off-Label Use of Azelaic Acid: A Systematic Review.",
+      "abstract": "",
+      "year": "2026",
+      "journal": "Journal of cutaneous medicine and surgery",
+      "authors": [
+        "Al-Jabouri Nujud",
+        "Farooq Mariam",
+        "Bai Jia Qi Adam",
+        "Mukovozov Ilya"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42935280/"
+    },
+    {
+      "pmid": "42864801",
+      "title": "A Review on Mechanisms of Action and Signaling Pathways of Natural Anti-hyperpigmentation Agents.",
+      "abstract": "Hyperpigmentation is a dermatological condition characterized by excessive melanin production, resulting in skin darkening. Intrinsic and extrinsic mediators, including ultraviolet (UV) radiation, hormonal changes, inflammation, and genetic predisposition, contribute to hyperpigmentation pathogenesis. The current review thoroughly examines the biological processes involved in hyperpigmentation, with particular emphasis on its signaling pathways, particularly the cyclic adenosine monophosphate (cAMP), wingless-related integration site (Wnt)/β-catenin, phosphatidylinositol 3-kinase (PI3K)/protein kinase B (Akt), and mitogen-activated protein kinase (MAPK), thereby providing mechanistic insights that may facilitate the development of effective treatments. The review also evaluates the safety, toxicity, and therapeutic efficacy of TYR inhibitors, arbutin, azelaic acid, ellagic acid, kojic acid, resveratrol, and the melanosome inhibitor niacinamide, for managing hyperpigmentation. Additionally, the review summarizes the in vitro and in vivo studies of these agents and other emerging plant extracts. Recent advances in the use of plant extracts for hyperpigmentation have shown promising efficacy; nevertheless, their translation into clinical and commercial applications remains limited. This limited translation might be attributed to the challenges related to standardization and the paucity of clinical evidence regarding long-term safety. Moreover, ongoing studies on natural anti-hyperpigmentation agents have highlighted the critical role of patent analyses in the advancement of biomedical research. This review provides a strategic direction for researchers to assess the safety, efficacy, and toxicity profiles of natural anti-hyperpigmentation agents.",
+      "year": "2026",
+      "journal": "Current pharmaceutical design",
+      "authors": [
+        "Khanna Jaanvi",
+        "Mehra Anshula",
+        "Mahajan Manikay",
+        "Sachdeva Vridhi",
+        "Bhardwaj Jyoti"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42864801/"
+    },
+    {
+      "pmid": "42817086",
+      "title": "Current and Emerging Drug Therapy for Acne Vulgaris: A Comprehensive Review.",
+      "abstract": "Acne vulgaris is a highly prevalent chronic inflammatory disorder of the pilosebaceous unit that affects the majority of adolescents and young adults. Its pathogenesis is multifactorial and is driven largely by hormonal dysregulation, which promotes excess sebum production and follicular hyperkeratinisation, resulting in pore occlusion and the characteristic inflammatory lesions accompanied by swelling and erythema. Acne is caused by Cutibacterium acnes, which colonizes and activates acquired and innate immune responses. Acne is also produced owing to stimulation of the IGF-1 factor, disturbance of the omega-3 and omega-6 cycles, suppression of FoxO1, and activation of mTORC1, which assists in boosting sebum production. Proven treatments target these mechanisms by utilizing systemic and topical drug-delivery systems. Topical retinoids, which have antiinflammatory and anti-acne properties, such as azelaic acid, benzoyl peroxide, salicylic acid, dapsone, and topical or oral antibiotics, are used to treat acne. However, these formulations have limitations, including the need for prolonged treatment, persistent skin irritation, and the development of antibiotic resistance. To overcome these limitations, novel approaches have been utilized, including AI, nano-based formulations, nanoemulsions, semi-synthetic formulations, and herbal formulations. Recent improvements in acne therapy have focused on enhancing effectiveness and safety. The goal of recent developments in acne therapy is to improve treatment efficacy and safety. New drug delivery systems incorporating nanotechnology improve targeting of damaged areas and reduce side effects.",
+      "year": "2026",
+      "journal": "Recent advances in anti-infective drug discovery",
+      "authors": [
+        "Ankur",
+        "Verma Ravinder",
+        "Kaushik Deepak",
+        "Kumar Charit",
+        "Yadav Manish"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42817086/"
+    },
+    {
+      "pmid": "42790833",
+      "title": "An FDA‑approved dicarboxylic acid allosterically targets PNPLA3 to resolve osteoarthritis.",
+      "abstract": "Osteoarthritis (OA) lacks disease‑modifying therapies. The infrapatellar fat pad (IPFP) is hypothesized to regulate joint metabolism, but its molecular effectors are unknown. We investigated whether IPFP‑derived metabolites protect cartilage via lipid‑metabolizing enzymes.",
+      "year": "2026",
+      "journal": "Pharmacological research",
+      "authors": [
+        "Guan Zhiyuan",
+        "Zhao Ke",
+        "Xiao Wenyu",
+        "Guan Zhiqiang",
+        "Xiao Jin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42790833/"
+    },
+    {
+      "pmid": "42660372",
+      "title": "Topical treatment of rosacea: update and outlook.",
+      "abstract": "Rosacea is an inflammatory skin condition that typically requires long term management. It is characterized by redness of the face, dilation of facial capillaries, the appearance of pimples and pustules, and it may lead to advanced conditions such as skin lymphoedema and rhinophyma. Initially, treatment involved oral drug administration, but a number of topical formulations have been developed as medicines to manage this skin disorder. Many rosacea patients have sensitive skin and side effects from current topical therapies have been shown to impact seriously on patient adherence to topical therapy regimens and clinical success. Notwithstanding this, no new topical products for management of rosacea have been made available since 2015. This review considers alternative formulation strategies that have been investigated for the most commonly prescribed topical drugs for rosacea, namely, metronidazole, azelaic acid and ivermectin. The pharmacokinetics and metabolism of each molecule are also discussed as this information is an essential starting point for required local tissue target concentrations. Attention is focused on evaluation of formulations with either in vitro permeation testing or in vivo studies. Finally, the limitations of studies published to date are highlighted as well as the likely barriers hindering translation of novel therapies from the laboratory to the market.",
+      "year": "2026",
+      "journal": "International journal of pharmaceutics",
+      "authors": [
+        "Ji Chunrui",
+        "Lane Majella E"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Rosacea",
+        "Dicarboxylic Acids",
+        "Administration, Cutaneous",
+        "Metronidazole",
+        "Ivermectin",
+        "Animals",
+        "Dermatologic Agents"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42660372/"
+    },
+    {
+      "pmid": "42618843",
+      "title": "Polymeric Azelaic Acid-loaded Nanocapsules Incorporated into Tragacanth Gum: Development and Biological Evaluation in Alternative Models for the Treatment of Rosacea.",
+      "abstract": "Rosacea is an inflammatory skin disorder that significantly impairs patients' quality of life. Azelaic acid (AZA), a well-established keratolytic and anti-inflammatory agent; however, its clinical application is often limited by local adverse effects that reduce patient adherence. In this context, nanotechnology-based drug delivery systems, particularly polymeric nanocapsules, represent a promising strategy to improve physicochemical stability, reduce cutaneous irritation, and enable incorporation into semi-solid formulations with enhanced skin interaction. This study aimed to develop and characterize AZA-loaded polymeric nanocapsules incorporated into tragacanth gum-based hydrogels as a safe, effective, and patient-friendly therapeutic alternative for rosacea. The nanocapsules exhibited a uniform nanometric size (185.66 ± 2.08 nm), low polydispersity index (0.12 ± 0.02), slightly negative zeta potential (- 8.67 ± 0.26 mV), and a skin-compatible acidic pH (3.56 ± 0.16). Drug loading reached 0.53 mg/mL, with an encapsulation efficiency of 42.20%. In vitro cytocompatibility assays showed cell viability close to 100% after 12 and 24 h of exposure, confirming the safety of the system. Antiangiogenic assays using chicken embryos further supported its biocompatibility. The hydrogels displayed a slightly acidic pH and pseudoplastic flow behavior described by the Herschel-Bulkley model, along with higher adhesiveness than liquid suspensions, favoring topical application. Both conventional AZA hydrogels (TG-AZA) and nanocapsule-based hydrogels (TG-NC-AZA) promoted effective drug retention within the stratum corneum. Notably, TG-NC-AZA showed a non-irritant profile in HET-CAM and CAM-TBS assays and demonstrated pronounced anti-inflammatory activity, achieving a 75% reduction. Overall, these findings highlight TG-NC-AZA as an innovative and clinically relevant therapeutic approach for rosacea.",
+      "year": "2026",
+      "journal": "AAPS PharmSciTech",
+      "authors": [
+        "Benin Tainara",
+        "Gomes Graziela Scheuer",
+        "Ferreira Eduarda Cristina Jacobus",
+        "de Mello Palma Victor",
+        "Alves Aline de Cristo Soares"
+      ],
+      "mesh_terms": [
+        "Dicarboxylic Acids",
+        "Nanocapsules",
+        "Rosacea",
+        "Animals",
+        "Tragacanth",
+        "Humans",
+        "Polymers",
+        "Hydrogels",
+        "Drug Delivery Systems",
+        "Particle Size"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42618843/"
+    },
+    {
+      "pmid": "42616001",
+      "title": "Azelaic acid delays aging and prolongs lifespan via resisting oxidation stress mediated by IIS pathway coupling hsf-1 in C. elegans.",
+      "abstract": "Azelaic acid (AzA), an antioxidant and anti-inflammatory compound from cereals used in food preservatives and cosmetics, was investigated for anti-aging effects in Caenorhabditis elegans. AzA improved locomotive activities and muscle morphology during aging, extended lifespan under both normal and oxidative stress conditions, and reduced paralysis in neurodegenerative models. It decreased reactive oxygen species levels and enhanced superoxide dismutase (SOD) activity and SOD-3 protein expression. Quantitative real-time polymerase chain reaction (qRT-PCR) analysis revealed that AzA differentially regulated oxidative stress-related genes including daf-2, daf-16, skn-1, and hsf-1 under normal and oxidative stress conditions. Mechanistically, the lifespan extension conferred by AzA under oxidative stress was abolished in daf-16(mu86), daf-2(e1370), and hsf-1(sy441) mutants, indicating that these genes are essential for AzA-mediated anti-aging effects. These findings suggest that azelaic acid is a potential anti-aging candidate.",
+      "year": "2026",
+      "journal": "Bioscience, biotechnology, and biochemistry",
+      "authors": [
+        "Chen Yang",
+        "Wang Liangliang",
+        "Zhu Zixian",
+        "Pan Beibei",
+        "Bai Juan"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Caenorhabditis elegans",
+        "Oxidative Stress",
+        "Caenorhabditis elegans Proteins",
+        "Longevity",
+        "Dicarboxylic Acids",
+        "Transcription Factors",
+        "Superoxide Dismutase",
+        "Reactive Oxygen Species",
+        "Signal Transduction"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42616001/"
+    }
+  ],
+  "crawled_at": "2026-11-05T01:25:03.897640",
+  "source": "pubmed"
+}
