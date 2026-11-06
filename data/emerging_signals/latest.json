@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:25:24.936862",
+  "generated_at": "2026-11-06T01:27:55.364308",
   "total_ingredients": 48,
   "signals": [
     {
@@ -870,6 +870,39 @@
       ]
     },
     {
+      "ingredient_id": "retinal",
+      "name_kr": "레티날",
+      "name_en": "Retinal",
+      "category": "retinoid",
+      "tier_dist": {
+        "T1": 0,
+        "T2": 2,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [],
+      "top_t2_papers": [
+        {
+          "pmid": "42985736",
+          "title": "When the eye leads to the diagnosis of pseudoxanthoma elasticum: a case revealed by angioid streaks and choroidal neovas",
+          "year": "2026",
+          "journal": "Dermatology reports"
+        },
+        {
+          "pmid": "42969743",
+          "title": "Fatty Acids for the Treatment of Ocular Diseases and Ocular Drug Delivery.",
+          "year": "2026",
+          "journal": "Molecular pharmaceutics"
+        }
+      ]
+    },
+    {
       "ingredient_id": "glutathione",
       "name_kr": "글루타치온",
       "name_en": "Glutathione",
@@ -965,6 +998,40 @@
           "title": "Cutaneous delivery of bioactive components from a rice bran oil nanoemulsion and their biodistribution in porcine and hu",
           "year": "2026",
           "journal": "International journal of pharmaceutics: X"
+        }
+      ]
+    },
+    {
+      "ingredient_id": "silica",
+      "name_kr": "실리카",
+      "name_en": "Silica",
+      "category": "pore_texture",
+      "tier_dist": {
+        "T1": 1,
+        "T2": 1,
+        "T3": 0,
+        "unknown": 8
+      },
+      "total_papers": 10,
+      "recent_papers": 10,
+      "clinical_trials": 0,
+      "v_index": null,
+      "signal_score": 11.4,
+      "signal_label": "🟢 잠재 (T+24mo)",
+      "top_t1_papers": [
+        {
+          "pmid": "42900622",
+          "title": "Multifunctional nanocomposite with stage-responsive behavior for wound healing.",
+          "year": "2026",
+          "journal": "Journal of biomaterials science. Polymer edition"
+        }
+      ],
+      "top_t2_papers": [
+        {
+          "pmid": "42986283",
+          "title": "Correction to \"Hidden risks behind the cosmetic use of silica spicules for transdermal delivery\" [Journal of the America",
+          "year": "2026",
+          "journal": "Journal of the American Academy of Dermatology"
         }
       ]
     },
@@ -1075,33 +1142,6 @@
       "top_t2_papers": []
     },
     {
-      "ingredient_id": "retinal",
-      "name_kr": "레티날",
-      "name_en": "Retinal",
-      "category": "retinoid",
-      "tier_dist": {
-        "T1": 0,
-        "T2": 1,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 9.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [],
-      "top_t2_papers": [
-        {
-          "pmid": "42969743",
-          "title": "Fatty Acids for the Treatment of Ocular Diseases and Ocular Drug Delivery.",
-          "year": "2026",
-          "journal": "Molecular pharmaceutics"
-        }
-      ]
-    },
-    {
       "ingredient_id": "alpha_arbutin",
       "name_kr": "알파 아르부틴",
       "name_en": "Alpha Arbutin",
@@ -1181,33 +1221,6 @@
           "journal": "The Journal of dermatology"
         }
       ]
-    },
-    {
-      "ingredient_id": "silica",
-      "name_kr": "실리카",
-      "name_en": "Silica",
-      "category": "pore_texture",
-      "tier_dist": {
-        "T1": 1,
-        "T2": 0,
-        "T3": 0,
-        "unknown": 9
-      },
-      "total_papers": 10,
-      "recent_papers": 10,
-      "clinical_trials": 0,
-      "v_index": null,
-      "signal_score": 9.7,
-      "signal_label": "🟢 잠재 (T+24mo)",
-      "top_t1_papers": [
-        {
-          "pmid": "42900622",
-          "title": "Multifunctional nanocomposite with stage-responsive behavior for wound healing.",
-          "year": "2026",
-          "journal": "Journal of biomaterials science. Polymer edition"
-        }
-      ],
-      "top_t2_papers": []
     },
     {
       "ingredient_id": "copper_peptide",

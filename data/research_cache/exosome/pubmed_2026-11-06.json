@@ -1,0 +1,245 @@
+{
+  "ingredient_id": "exosome",
+  "name_en": "Exosome",
+  "name_kr": "엑소좀",
+  "category": "regeneration",
+  "query": "\"Exosome\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42985724",
+      "title": "A ROS-Responsive Injectable Hydrogel Platform Reprograms the Diabetic Wound Microenvironment to Enable Exosome Therapy.",
+      "abstract": "Diabetic wounds persist because excessive reactive oxygen species (ROS) sustain chronic inflammation and disrupt the regenerative microenvironment, impairing the stability and function of bioactive therapeutic components, including stem cells and extracellular vesicles (EVs). Here, an injectable hyaluronic acid (HA) hydrogel integrates microenvironment modulation with regenerative cue delivery by co-encapsulating ROS-responsive cerium oxide nanozymes (CeO",
+      "year": "2026",
+      "journal": "Advanced healthcare materials",
+      "authors": [
+        "Shao Zhiwei",
+        "Wang Qiao",
+        "Song Rijian",
+        "Zhang Jingyu",
+        "Chen Pengxu"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42985724/"
+    },
+    {
+      "pmid": "42972579",
+      "title": "Exosome-shuttled PCBP1 from hypoxic preconditioned urine-derived stem cells accelerates wound healing.",
+      "abstract": "We previously found that hypoxia-preconditioned human urine-derived stem cells (USCs) accelerated wound healing. Since exosomes are one of the key mediator of USCs to support skin repair, we wonder whether the healing-promoting effects of hypoxia-treated USCs were associated with exosomes.",
+      "year": "2026",
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Zhang Xiuru",
+        "Zhao Shuangyi",
+        "Gao Yanzheng",
+        "Gao Kun",
+        "Shao Jia"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Exosomes",
+        "Humans",
+        "Female",
+        "Wound Healing",
+        "Mice",
+        "RNA-Binding Proteins",
+        "Stem Cells",
+        "Mice, Inbred C57BL",
+        "Cell Hypoxia"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42972579/"
+    },
+    {
+      "pmid": "42969065",
+      "title": "Serpin A1 Cargo Within Tumour-Derived Extracellular Vesicles Supports Pro-Tumoural Bias of Neutrophils in Cancer.",
+      "abstract": "Tumour-derived extracellular vesicles (EVs) or exosomes are critical mediators of the cancer-immune system crosstalk, yet the mechanisms by which they reprogram neutrophil function in vivo remain insufficiently characterised. Here, we identify the serine protease inhibitor Serpin A1 as a predominant cargo component of small EVs (sEVs) released by head and neck cancer cels (HNC) and show that this molecule is both necessary and sufficient to confer a stable pro-tumoural programming of neutrophils. Uptake of Serpin A1-enriched sEVs elicits extensive proteomic remodelling in neutrophils including activation of STAT3 signalling, leading to sustained induction of PD-L1, increased Arginase 1 production and prolonged neutrophil lifespan. Functionally, these reprogrammed neutrophils acquire a capacity to drive epithelial-mesenchymal transition in tumour cells, and to impose exhaustion of T cells via metabolic restriction and arginine depletion, leading to their reduced cytotoxicity. Genetic ablation of Serpin A1 from tumour-derived sEVs or pharmacologic inhibition of serpin-STAT3 axis restores neutrophil anti-tumour functions. Collectively, these findings delineate a Serpin A1-STAT3/Arginase 1 as an important signalling pathway through which tumour-derived sEVs promote neutrophil-dependent immune suppression and tumour progression, and highlight EV-associated serpins as potential targets for future therapeutic intervention in cancer.",
+      "year": "2026",
+      "journal": "Journal of extracellular vesicles",
+      "authors": [
+        "Domnich Maksim",
+        "Pylaeva Ekaterina",
+        "Siakaeva Elena",
+        "Kabankova Nastassia",
+        "Bedzinska Agnieszka"
+      ],
+      "mesh_terms": [
+        "Neutrophils",
+        "Humans",
+        "Extracellular Vesicles",
+        "Animals",
+        "STAT3 Transcription Factor",
+        "Mice",
+        "Plasminogen Activator Inhibitor 1",
+        "Signal Transduction",
+        "Epithelial-Mesenchymal Transition",
+        "Arginase"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42969065/"
+    },
+    {
+      "pmid": "42968468",
+      "title": "A Review of Osteosarcoma-Derived Exosomes in Tumor Progression, Chemoresistance, and Bone Regeneration, and Their Potential in Drug Delivery.",
+      "abstract": "Exosomes, as critical mediators of intercellular communication, transport nucleic acids, proteins, and lipids that drive osteosarcoma (OS) progression and dynamically remodel the tumor microenvironment. Their distinctive biological properties-including low immunogenicity, high stability, and inherent targeting capability-position them as versatile tools across the entire OS management continuum, from early non-invasive diagnosis via liquid biopsy to targeted biotherapy and postoperative bone regeneration through coordinated osteogenesis-angiogenesis coupling. This review first outlines the epidemiological features and principal clinical bottlenecks of OS, then systematically summarizes exosome biogenesis, cellular uptake mechanisms, and the key molecular pathways through which exosomal cargoes regulate OS malignancy. We highlight emerging evidence that exosomal biomarkers enable real-time disease monitoring and that engineered exosomes serve as precision nanocarriers for therapeutic delivery. Notably, we emphasize recent insights into exosome-mediated crosstalk with immune cells within the osteoimmune microenvironment, their role in orchestrating vascularized bone formation, and advances in exosome-functionalized biomaterial scaffolds that effectively bridge tissue engineering with oncology. The clinical relevance of these findings lies in their potential integration into a unified diagnostic-therapeutic-regenerative paradigm, which may help overcome current limitations in surgical outcomes and chemoresistance. Nevertheless, clinical translation remains hindered by persistent challenges, including the lack of standardized isolation and characterization protocols, suboptimal in vivo delivery efficiency, batch-to-batch variability, and insufficient long-term safety data. Addressing these obstacles will require further mechanistic studies and multicenter clinical trials to establish robust regulatory frameworks. This article aims to review the roles of osteosarcoma-derived exosomes in tumor progression, chemoresistance, and bone regeneration, as well as their potential for drug delivery.",
+      "year": "2026",
+      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+      "authors": [
+        "Yan Peiyu",
+        "Yang Qiwei",
+        "Jin Aihua",
+        "Piao Meihua"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Osteosarcoma",
+        "Exosomes",
+        "Bone Regeneration",
+        "Bone Neoplasms",
+        "Drug Resistance, Neoplasm",
+        "Tumor Microenvironment",
+        "Drug Delivery Systems",
+        "Disease Progression",
+        "Animals"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42968468/"
+    },
+    {
+      "pmid": "42963826",
+      "title": "Pantethine Restores Epidermal Homeostasis and Modulates Vesicle-Associated Proteins in Psoriasis.",
+      "abstract": "Psoriasis is a chronic inflammatory skin disease characterized by disrupted epidermal homeostasis driven by interconnected immuno-inflammatory, metabolic, and redox signalling networks. Vesicle-associated intercellular communication has emerged as an important contributor to inflammatory amplification and tissue remodelling within the epidermal microenvironment. Pantethine, a stable vitamin B5 derivative with lipid-modulatory and anti-inflammatory properties, has been implicated in regulation of cellular stress responses and membrane-associated signalling pathways, suggesting potential therapeutic relevance in psoriasis. Here, we investigated the effects of pantethine using a full-thickness 3D human psoriatic skin model following keratinocyte safety assessment. Integrated histopathological, immunohistochemical, quantitative RT-PCR, and proteomic analyses were employed to interrogate inflammatory, oxidative, proliferative, apoptotic, differentiation-associated and vesicle-related responses. Pantethine significantly reduced epidermal thickening and normalized multiple psoriasis-associated molecular signatures. Proteomic profiling revealed coordinated modulation of vesicle-associated, cytoskeletal and extracellular matrix-related proteins, accompanied by reduced expression of exosome-associated markers CD63 and CD9. Pantethine suppressed pro-inflammatory signalling involving IL-1β, TNF-α, IL-17, S100 family members, and hyperproliferative keratin-associated pathways while reducing caspase-3-associated apoptotic activity. Concurrently, pantethine enhanced antioxidative and immunoregulatory responses through activation of Nrf-2 and TGF-β, restored differentiation and barrier-related markers including filaggrin, caspase-14, and involucrin, and reduced hypoxia- and tissue-remodelling-associated mediators including HIF-1α, VEGF, COL6A3, and COL1A2. Network-based proteomic analyses further identified computationally inferred associations with SLIT/ROBO-related pathways, although these associations require further functional validation. Collectively, these findings support pantethine as a promising candidate that modulates vesicle-associated proteins together with inflammatory and tissue-remodelling responses involved in epidermal homeostasis.",
+      "year": "2026",
+      "journal": "Experimental dermatology",
+      "authors": [
+        "Sukphopetch Passanesh",
+        "Fongsodsri Kamonpan",
+        "Aramwit Pornanong",
+        "Reamtong Onrapak",
+        "Thiangtrongjit Tipparat"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Psoriasis",
+        "Homeostasis",
+        "Epidermis",
+        "Keratinocytes",
+        "Pantetheine",
+        "Filaggrin Proteins",
+        "Apoptosis",
+        "Signal Transduction",
+        "Proteomics"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42963826/"
+    },
+    {
+      "pmid": "42943276",
+      "title": "Microneedle-Delivered Plant-Derived Exosome-like Nanovesicles for Dermatological Diseases: A Comprehensive Review.",
+      "abstract": "Plant-derived extracellular vesicle-like nanovesicles (PELNs) are being investigated as plant-derived preparations with intrinsic bioactivity and potential utility as nanocarriers. Microneedles (MNs) can create transient skin microchannels and may support localized intradermal delivery of vesicle-containing formulations. The intersection of these approaches is promising, but the available evidence remains heterogeneous and includes direct PELN-MN studies, PELN studies without MNs, and related mammalian extracellular vesicle platforms. Here we provide a comprehensive review of PELN identity, isolation, characterization, cargo, and proposed dermatological activities, followed by an assessment of MN designs relevant to vesicle delivery. We searched PubMed, Web of Science, Scopus, and Embase, screened records in duplicate, and classified each included study by the directness of evidence into studies providing direct PELN-MN skin evidence, PELN evidence without MNs, mammalian extracellular vesicle MN analogue evidence, and non-dermatological or conceptual evidence. Current limitations include uncertain vesicle identity, co-isolated plant constituents, variable preparation and dosing methods, limited controls for the mechanical effects of microneedling, and incomplete clinical follow-up. Progress toward translation will require source-specific quality attributes, orthogonal potency assays, transparent comparators, and adequately controlled clinical studies.",
+      "year": "2026",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "authors": [
+        "Huang Letong",
+        "Zhang Hailong",
+        "Han Jiming",
+        "Zeng Maoyuan",
+        "Sun Hongqin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42943276/"
+    },
+    {
+      "pmid": "42939759",
+      "title": null,
+      "abstract": "Androgenetic alopecia (AGA) is the most prevalent form of hair loss, yet current therapies offer limited efficacy and fail to restore the disrupted follicular immune microenvironment. Here, we developed a bioactive hydrogel microneedle system (P-MN) in which ",
+      "year": "2026",
+      "journal": "Biomolecules",
+      "authors": [
+        "Shi Xueying",
+        "Wang Yueming",
+        "Meng Lingai",
+        "Wei Yuxia",
+        "Yin Guanglu"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Alopecia",
+        "Hair Follicle",
+        "Hydrogels",
+        "Mice",
+        "Regeneration",
+        "Plant Leaves",
+        "Microneedle Drug Delivery",
+        "Exosomes",
+        "Homeostasis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42939759/"
+    },
+    {
+      "pmid": "42928334",
+      "title": "Functional engineering of adipose-derived stem cell exosomes and its application in soft tissue regeneration.",
+      "abstract": "Adipose-derived stem cell exosomes are increasingly recognized as promising cell-free mediators for soft tissue repair because of their favorable biocompatibility, low immunogenicity, and broad paracrine activity. By transferring regulatory RNAs, proteins, lipids, and other bioactive molecules, they participate in key regenerative processes, including angiogenesis, immune modulation, extracellular matrix remodeling, and cellular proliferation. However, native adipose-derived stem cell exosomes still face important translational limitations, including limited targeting specificity, variable cargo composition, rapid clearance, and insufficient retention at injured sites.",
+      "year": "2026",
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Lu Lingyan",
+        "Liu Juzi",
+        "Li Ye",
+        "Cai Junrong"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Exosomes",
+        "Adipose Tissue",
+        "Stem Cells",
+        "Animals",
+        "Regeneration",
+        "Tissue Engineering",
+        "Wound Healing"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42928334/"
+    },
+    {
+      "pmid": "42923218",
+      "title": "Downregulation of exosomal miR-432-5p promotes keratinocyte proliferation and inflammation in pediatric atopic dermatitis via the E2F2/STAT1 axis.",
+      "abstract": "To investigate whether serum exosomes from children with severe atopic dermatitis (AD) affect keratinocyte function and to explore the underlying molecular mechanisms.",
+      "year": "2026",
+      "journal": "American journal of translational research",
+      "authors": [
+        "Si Chenchen",
+        "Wu Wei",
+        "Shao Minhua",
+        "Pu Jie",
+        "Zhou Zhewen"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42923218/"
+    },
+    {
+      "pmid": "42919247",
+      "title": "Exosomal KL-6 surpasses total plasma KL-6 in the diagnosis of Interstitial Lung Disease (ILD).",
+      "abstract": "Krebs Von den Lungen-6 (KL-6) is an established biomarker for interstitial lung diseases (ILDs), but the utility of exosomal KL-6 versus plasma KL-6 in connective tissue disease-associated ILD (CTD-ILD) remains unclear.",
+      "year": "2026",
+      "journal": "Respiratory research",
+      "authors": [
+        "Huang Huimin",
+        "Lai Ruogu",
+        "Li Junqi",
+        "Han Qian",
+        "Xiao Yunpeng"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Mucin-1",
+        "Lung Diseases, Interstitial",
+        "Female",
+        "Biomarkers",
+        "Exosomes",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Cohort Studies"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42919247/"
+    }
+  ],
+  "crawled_at": "2026-11-06T01:27:35.499929",
+  "source": "pubmed"
+}

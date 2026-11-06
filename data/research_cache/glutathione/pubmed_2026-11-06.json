@@ -1,0 +1,225 @@
+{
+  "ingredient_id": "glutathione",
+  "name_en": "Glutathione",
+  "name_kr": "글루타치온",
+  "category": "brightening",
+  "query": "\"Glutathione\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42978678",
+      "title": "Cube-based screening identifies a quinoa-derived synthetic microbial community that promotes plant growth and modulates root epidermal responses under salt stress.",
+      "abstract": "Plant-associated bacteria can improve plant performance under abiotic stress, but beneficial functions in plant microbiomes may depend on defined combinations of microorganisms rather than individual isolates alone. Here, we developed a cube-based screening strategy to identify functional synthetic microbial communities (SynComs) from 135 quinoa-associated bacterial isolates while preserving combinatorial diversity and traceability of isolate-level contributions. The isolates were divided into five 27-isolate sets, each arranged as a 3 × 3 × 3 cube in which each 3 × 3 layer was defined as a 9-isolate SynCom, generating 45 SynComs in total. Screening under 100 mM NaCl identified SynCom DY1 (SCDY1) as a candidate salt stress-mitigating consortium. SCDY1 consisted of nine taxonomically diverse isolates and exhibited a multifunctional profile, including siderophore production, phosphate solubilization, carboxymethyl cellulose degradation, indole compound production, and growth under saline conditions. In ",
+      "year": "2026",
+      "journal": "Frontiers in plant science",
+      "authors": [
+        "Dangjarean Hatairat",
+        "Murata Yoshinori",
+        "Kobayashi Yasufumi",
+        "Neyrot Sara",
+        "Ogata Takuya"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42978678/"
+    },
+    {
+      "pmid": "42974038",
+      "title": "Defect-engineered Fe",
+      "abstract": "Localized nanocatalytic therapy is constrained by insufficient reactive oxygen species (ROS) output, tumor antioxidant buffering, and poor retention of therapeutic agents at the lesion. Here, we report an oxygen-deficient Fe",
+      "year": "2026",
+      "journal": "Frontiers in chemistry",
+      "authors": [
+        "Guo Wei",
+        "Wang Wenbo",
+        "Yang Zhuoran",
+        "Jing Liqiang"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42974038/"
+    },
+    {
+      "pmid": "42973887",
+      "title": "Application of FTIR to detect changes in blood plasma during a pre-competition period in a professional heavyweight boxer.",
+      "abstract": "This exploratory single-case study examined whether repeated attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectroscopy of blood plasma is technically feasible during a short pre-competition period and whether spectral regions co-vary with conventionally assayed biochemical markers.",
+      "year": "2026",
+      "journal": "Frontiers in physiology",
+      "authors": [
+        "Król Paweł",
+        "Depciuch Joanna",
+        "Reich Adam",
+        "Cebulski Józef",
+        "Obmiński Zbigniew"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42973887/"
+    },
+    {
+      "pmid": "42973790",
+      "title": "Dietary ",
+      "abstract": "This study evaluated the effects of dietary supplementation with a hydroalcoholic extract of ",
+      "year": "2026",
+      "journal": "Aquaculture nutrition",
+      "authors": [
+        "Yousefi Morteza",
+        "Abdollahpour Hamed",
+        "Adineh Hossein",
+        "Seyfollahi Sadaf",
+        "Taheri Mirghaed Ali"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42973790/"
+    },
+    {
+      "pmid": "42969985",
+      "title": "Protective effect of glyburide on wound healing in streptozotocin-induced diabetic rats via alteration of NF-κB/transforming growth factor-β and cellular jun/platelet-derived growth factor-vascular endothelial growth factor signaling pathways.",
+      "abstract": "Diabetes-induced abnormal wound healing is characterized by prolonged oxidative stress, inflammation, and impaired tissue regeneration, largely due to excessive production of oxidative stress and inflammatory mediators. Glyburide is a well-known antidiabetic drug. In this experimental study, we scrutinized the protective effect of glyburide against streptozotocin (STZ) induced wound healing in rats and explored the underlying mechanism.",
+      "year": "2026",
+      "journal": "Indian journal of pharmacology",
+      "authors": [
+        "Fu Xianjun",
+        "Wang Fang",
+        "Zhang Wei",
+        "Li Wei",
+        "Sun Xiaohong"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Diabetes Mellitus, Experimental",
+        "Wound Healing",
+        "Rats, Wistar",
+        "Signal Transduction",
+        "Male",
+        "Glyburide",
+        "NF-kappa B",
+        "Vascular Endothelial Growth Factor A",
+        "Rats"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42969985/"
+    },
+    {
+      "pmid": "42961193",
+      "title": "Effects of an orabase gel containing Libidibia ferrea extract on induced periodontitis in rats.",
+      "abstract": "Periodontitis is a chronic inflammatory disease associated with periodontal tissue destruction and bone loss. Libidibia ferrea presents antibacterial, anti-inflammatory and antioxidant properties with potential therapeutic relevance.",
+      "year": "2026",
+      "journal": "Journal of applied oral science : revista FOB",
+      "authors": [
+        "Pessoa Larissa Dos Santos",
+        "Alves Even Herlany Pereira",
+        "Araújo Hávila Torres",
+        "Santana Neto Marcondes Cavalcante",
+        "Silva Felipe Rodolfo Pereira da"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Periodontitis",
+        "Plant Extracts",
+        "Male",
+        "Oxidative Stress",
+        "Rats, Wistar",
+        "Gels",
+        "Antioxidants",
+        "Time Factors",
+        "Disease Models, Animal"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42961193/"
+    },
+    {
+      "pmid": "42960871",
+      "title": "Pharmacogenomic Markers of Disease Susceptibility and Glucocorticoid Responsiveness in Pemphigus Vulgaris.",
+      "abstract": "Response to glucocorticoid (GC) therapy in pemphigus vulgaris (PV) is variable and may be influenced by pharmacogenomic factors. This study aimed to evaluate the association between glutathione S-transferases (GST) gene polymorphisms and Multidrug resistance protein 1 (MDR1) or ATP-binding cassette sub-family B member 1 (ABCB1) variations with steroid responsiveness in PV patients and evaluate their role in conferring susceptibility to PV.",
+      "year": "2026",
+      "journal": "Indian dermatology online journal",
+      "authors": [
+        "Pandhi Deepika",
+        "Kar Rajashri",
+        "Aggarwal Bharti",
+        "Chawla Diwesh"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42960871/"
+    },
+    {
+      "pmid": "42949336",
+      "title": "Tea Polyphenol EGCG Prevents UVB-Induced Oxidative Stress via SIRT3-Mediated Activation of SOD2: Mechanistic Insights from Molecular Interactions.",
+      "abstract": "UVB irradiation triggers skin photodamage via oxidative stress and mitochondrial dysfunction. This study investigated the photoprotective mechanism of EGCG, the most abundant polyphenol in green tea, in HaCaT keratinocytes. EGCG pretreatment attenuated UVB-induced viability loss and oxidative stress, evidenced by reduced 4-hydroxy-2-nonenal, protein carbonyls, and ROS, alongside restored glutathione redox balance. EGCG recovered SIRT3 enzymatic activity without affecting its expression and promoted SOD2 deacetylation at Lys68 and Lys122 in vitro. SPR and ITC confirmed direct, high-affinity binding of EGCG to SIRT3, with molecular dynamics simulations revealing a stable complex. EGCG also enhanced the binding affinity between SIRT3 and its acetylated p53 substrate in vitro. Critically, pharmacological inhibition of SIRT3 by 3-TYP abolished EGCG's protective effects, supporting a critical role of SIRT3 in EGCG-mediated protection. Collectively, these findings indicate that EGCG protects against UVB-induced skin photodamage by binding to and activating SIRT3, thereby promoting SIRT3-mediated SOD2 deacetylation to alleviate oxidative stress.",
+      "year": "2026",
+      "journal": "Journal of agricultural and food chemistry",
+      "authors": [
+        "Liu Titi",
+        "Xiong Siwei",
+        "Xu Jing",
+        "Yin Yingqi",
+        "Yang Ziyan"
+      ],
+      "mesh_terms": [
+        "Oxidative Stress",
+        "Catechin",
+        "Sirtuin 3",
+        "Humans",
+        "Ultraviolet Rays",
+        "Superoxide Dismutase 2",
+        "Superoxide Dismutase",
+        "Keratinocytes",
+        "Camellia sinensis",
+        "Tea"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42949336/"
+    },
+    {
+      "pmid": "42942047",
+      "title": "Ferroptosis-Related GPX4 and CD71 and Immune Checkpoint PD-L1 in Cutaneous Melanoma: Associations with Clinicopathologic Features and Survival Outcomes.",
+      "abstract": "Ferroptosis-related pathways and immune checkpoint signaling may contribute to melanoma progression, but their clinicopathologic and prognostic interplay remains incompletely characterized. To investigate GPX4, CD71, and PD-L1 expression in primary cutaneous melanoma and evaluate their associations with clinicopathologic features and survival outcomes. This retrospective single-center cohort included 44 patients with primary cutaneous melanoma. PD-L1, GPX4, and CD71 expressions were assessed immunohistochemically. Associations with clinicopathologic parameters were analyzed, and overall survival (OS) and disease-free survival (DFS) were evaluated using Kaplan-Meier and Cox regression analyses. PD-L1, GPX4, and CD71 positivity was were observed in 25.0%, 38.6%, and 36.4% of tumors, respectively. PD-L1 expression was associated with Breslow thickness (",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Güner Rukiye Yasak",
+        "Yüceer Ramazan Oğuz",
+        "Ünsal Ahmet Turan",
+        "Akyol Melih",
+        "Eğilmez Hatice Reyhan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Melanoma",
+        "Antigens, CD",
+        "Female",
+        "Ferroptosis",
+        "Skin Neoplasms",
+        "Male",
+        "B7-H1 Antigen",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Middle Aged"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42942047/"
+    },
+    {
+      "pmid": "42941724",
+      "title": "Temporal Regulation of UVA-Induced Ferroptosis-Associated Injury in Keratinocytes.",
+      "abstract": "Ferroptosis contributes to ultraviolet (UV)-induced epidermal injury, but whether circadian state modifies keratinocyte susceptibility remains unclear. We integrated human epidermal transcriptomic analyses with functional experiments in HaCaT keratinocytes to compare UVA- and UVB-induced ferroptosis-associated responses and assess their temporal regulation. Both wavelengths reduced cell viability and increased reactive oxygen species, lipid peroxidation, and intracellular Fe",
+      "year": "2026",
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Dong Ren",
+        "Li Xiang",
+        "Wang Ping",
+        "Yin Qianxian",
+        "Wang Zirun"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Ferroptosis",
+        "Keratinocytes",
+        "Ultraviolet Rays",
+        "Reactive Oxygen Species",
+        "Lipid Peroxidation",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Cell Survival",
+        "Oxidative Stress",
+        "Nuclear Receptor Subfamily 1, Group D, Member 1"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42941724/"
+    }
+  ],
+  "crawled_at": "2026-11-06T01:27:41.904100",
+  "source": "pubmed"
+}
