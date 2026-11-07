@@ -1,0 +1,189 @@
+{
+  "ingredient_id": "retinal",
+  "name_en": "Retinal",
+  "name_kr": "레티날",
+  "category": "retinoid",
+  "query": "\"Retinal\" AND (skin OR cosmetic OR dermatology OR topical OR epidermis OR keratinocyte)",
+  "paper_count": 10,
+  "articles": [
+    {
+      "pmid": "42992655",
+      "title": "Handheld laser welding and surface cleaning: spectral measurement of stray radiation and occupational exposure assessment.",
+      "abstract": "Handheld high-power lasers expose operators to optical radiation, including laser reflection and broadband secondary emission. This study aimed to characterize the stray radiation emitted during representative handheld laser operations (continuous-wave welding and pulsed surface-cleaning) and to assess the corresponding occupational exposure against the European Directive 2006/25/EC exposure limit values (ELVs).",
+      "year": "2026",
+      "journal": "Annals of work exposures and health",
+      "authors": [
+        "Brissinger Damien"
+      ],
+      "mesh_terms": [
+        "Occupational Exposure",
+        "Humans",
+        "Lasers",
+        "Welding",
+        "Working Conditions",
+        "Ultraviolet Rays",
+        "Skin"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42992655/"
+    },
+    {
+      "pmid": "42986575",
+      "title": "Inflammatory masquerade features in adult-onset CLN-associated retinal degeneration in a multiethnic Asian cohort.",
+      "abstract": "To describe the clinical, imaging, and genetic features of non-syndromic neuronal ceroid lipofuscinosis (NCL)-associated retinal degeneration in a multi-ethnic Asian cohort, with particular emphasis on cases that were initially considered in the differential diagnosis of non-neoplastic uveitis masquerade syndromes.",
+      "year": "2026",
+      "journal": "Journal of ophthalmic inflammation and infection",
+      "authors": [
+        "Sanjay Srinivasan",
+        "Chee Soon-Phaik",
+        "Tang Rachael W C",
+        "Lim Weng Khong",
+        "Bylstra Yasmin"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42986575/"
+    },
+    {
+      "pmid": "42985736",
+      "title": "When the eye leads to the diagnosis of pseudoxanthoma elasticum: a case revealed by angioid streaks and choroidal neovascularisation.",
+      "abstract": "Dear Editor, Pseudoxanthoma elasticum (PXE) is a rare autosomal recessive disorder caused by pathogenic variants in the ABCC6 gene, resulting in progressive calcification and fragmentation of elastic fibres involving the skin, retina, and cardiovascular system. Cutaneous manifestations classically consist of yellowish papules and plaques affecting flexural areas, particularly the lateral neck and axillae, although cutaneous findings may occasionally be subtle. Ocular involvement is characterised by angioid streaks, representing breaks in Bruch's membrane that may predispose to choroidal neovascularisation (CNV), retinal haemorrhage, and progressive visual impairment. [...].",
+      "year": "2026",
+      "journal": "Dermatology reports",
+      "authors": [
+        "Grigolato Laura",
+        "Baga Nicola",
+        "Tonon Francesco",
+        "Soglia Simone",
+        "Ariasi Cesare"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42985736/"
+    },
+    {
+      "pmid": "42980164",
+      "title": "Selective Laser Trabeculoplasty versus Latanoprost: A Randomized OCT Angiography Study of Retinal Microvascular Changes in Glaucoma and Ocular Hypertension.",
+      "abstract": "SLT and latanoprost achieved significant IOP reduction, while macular and peripapillary OCT-A-derived vascular parameters remained largely stable over 6 months in treatment-naïve patients with early-stage POAG and OHT.",
+      "year": "2026",
+      "journal": "Journal of glaucoma",
+      "authors": [
+        "Akıncı Berat",
+        "Bayraktar Serdar",
+        "Altaş Fatma Büşra",
+        "Şen Emine"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42980164/"
+    },
+    {
+      "pmid": "42976102",
+      "title": "Alpha-Methylacyl-CoA Racemase (AMACR) Deficiency Presenting with Epilepsy, Cognitive Decline, and Pigmentary Retinopathy.",
+      "abstract": "A 66-year-old woman with long-standing epilepsy and progressive cognitive decline presented with bilateral vision loss (best-corrected visual acuity 1.22 logMAR right eye, 1.10 logMAR left eye). Electrodiagnostic testing showed severe rod-cone dysfunction. Fundus autofluorescence revealed bilateral multifocal geographic hypoautofluorescent lesions with hyperautofluorescent borders in a wreath-like pericentral distribution. Optical coherence tomography demonstrated bilateral outer retinal atrophy with ellipsoid zone loss and cystoid macular edema in the left eye. Genetic testing identified a pathogenic AMACR variant (c.154T>C; p.Ser52Pro) and a variant of uncertain significance (c.704C>T; p.Ala235Val). Elevated pristanic acid (152.9 μmol/L) confirmed alpha-methylacyl-CoA racemase (AMACR) deficiency, explaining her neurological disease. Macular edema decreased by 50 μm with topical dorzolamide and a phytanic and pristanic acid-restricted diet, and she reported subjective neurological improvement. Retinal imaging may be the first diagnostic clue to this rare but treatable condition. Ophthalmologists should consider AMACR deficiency in unexplained pigmentary retinopathy with neurological disease.",
+      "year": "2026",
+      "journal": "Ophthalmic surgery, lasers & imaging retina",
+      "authors": [
+        "Adam Sana",
+        "Muid Javeria",
+        "Valastro Antonio",
+        "De Salvo Gabriella"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42976102/"
+    },
+    {
+      "pmid": "42973072",
+      "title": "Effects of Topical Fluorometholone in Chronic Central Serous Chorioretinopathy: A Proof-Of-Concept Study.",
+      "abstract": "To study the effects of topical fluorometholone on the activity of chronic central serous chorioretinopathy (CSCR) and the associated structural changes of the sclera.",
+      "year": "2026",
+      "journal": "Seminars in ophthalmology",
+      "authors": [
+        "Maltsev Dmitrii S",
+        "Kulikov Alexey N",
+        "Kalinicheva Yana A",
+        "Chhablani Jay"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42973072/"
+    },
+    {
+      "pmid": "42970462",
+      "title": "Feasibility and Early Outcomes of Gonioscopy-Assisted Transluminal Trabeculotomy for Neovascular Glaucoma.",
+      "abstract": "This retrospective observational case series evaluates the clinical outcomes of gonioscopy-assisted transluminal trabeculotomy (GATT) in 6 consecutive eyes with neovascular glaucoma (NVG) treated at a tertiary referral center. NVG was defined as secondary glaucoma associated with retinal ischemia, characterized by elevated intraocular pressure (IOP) and prior presence of iris and/or angle neovascularization. All patients had previously undergone pan-retinal photocoagulation and intravitreal anti-vascular endothelial growth factor therapy and were receiving maximally tolerated medical treatment at presentation. Circumferential GATT was successfully completed in all cases. At final follow-up, IOP control was achieved in 3 eyes with topical therapy, while the remaining 3 eyes required subsequent Ahmed glaucoma valve implantation due to early surgical failure. All eyes that met failure criteria demonstrated circumferential peripheral anterior synechiae formation during early postoperative follow-up and were observed in patients with poorly controlled diabetes mellitus. Two cases required anterior chamber washout for persistent hyphema. In this small case series, our observations suggest that clinical role of GATT remains uncertain and the present data do not allow identification of patient subgroups that may benefit or support definition of clinical indications.",
+      "year": "2026",
+      "journal": "Journal of glaucoma",
+      "authors": [
+        "Gunay Murat",
+        "Turk Adem",
+        "Kurt Ibrahim Mert",
+        "Erdol Hidayet",
+        "Kola Mehmet"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970462/"
+    },
+    {
+      "pmid": "42970148",
+      "title": "The risk of rhegmatogenous retinal detachment associated with topical pilocarpine: a systematic review.",
+      "abstract": "To evaluate the risk of developing rhegmatogenous retinal detachment (RRD) in patients treated with topical pilocarpine.",
+      "year": "2026",
+      "journal": "International ophthalmology",
+      "authors": [
+        "Badla Omar",
+        "Kennedy Molly",
+        "Almobayed Amr",
+        "Badla Beshr A",
+        "Macaron Marie M"
+      ],
+      "mesh_terms": [
+        "Pilocarpine",
+        "Humans",
+        "Retinal Detachment",
+        "Administration, Topical",
+        "Miotics",
+        "Risk Factors",
+        "Ophthalmic Solutions"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970148/"
+    },
+    {
+      "pmid": "42969743",
+      "title": "Fatty Acids for the Treatment of Ocular Diseases and Ocular Drug Delivery.",
+      "abstract": "The intricate anatomical and physiological barriers of the eye severely limit the bioavailability of conventional topical therapies, necessitating innovative strategies. In this review, fatty acids are presented as versatile agents functioning in two distinct roles. As bioactive lipids, specific fatty acids exert disease-modifying effects, offering novel pharmacological interventions for ocular surface and posterior segment disorders, including dry eye syndrome, uveitis, and retinal degeneration. Concurrently, beyond their biological activity, fatty acids serve as structural components in formulation design; their physicochemical properties, particularly varying chain lengths and degrees of unsaturation, enable the construction of advanced ocular drug delivery systems with substantially enhanced ocular bioavailability. Crucially, this review not only summarizes the translational prospects of fatty acid-based therapeutics but also highlights the structure-activity relationships governing the in vivo performance of fatty acid-integrated delivery systems. By delineating these dual functionalities, we provide a clear framework for distinguishing nutritional or pharmacological supplementation from excipient or carrier design, thereby facilitating the rational development of next-generation ophthalmic formulations.",
+      "year": "2026",
+      "journal": "Molecular pharmaceutics",
+      "authors": [
+        "Fang Guihua",
+        "Tang Bo",
+        "Yin Jiayan"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Fatty Acids",
+        "Eye Diseases",
+        "Drug Delivery Systems",
+        "Animals",
+        "Biological Availability",
+        "Administration, Ophthalmic",
+        "Ophthalmic Solutions",
+        "Structure-Activity Relationship"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42969743/"
+    },
+    {
+      "pmid": "42964532",
+      "title": "Systemic, RPE-directed AAV-",
+      "abstract": "Oculocutaneous albinism type 1 (OCA1) is a pigmentation disorder caused by biallelic ",
+      "year": "2026",
+      "journal": "Molecular therapy. Advances",
+      "authors": [
+        "Larimer-Picciani Alessandra M",
+        "Jacob Lucas B",
+        "Sullinger Kacey J",
+        "Kriebel Wyatt G",
+        "Sahel José-Alain"
+      ],
+      "mesh_terms": [],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42964532/"
+    }
+  ],
+  "crawled_at": "2026-11-07T00:42:46.290028",
+  "source": "pubmed"
+}

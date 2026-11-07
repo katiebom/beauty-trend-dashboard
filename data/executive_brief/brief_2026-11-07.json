@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-11-07T00:46:07.195497",
+  "kpi": {
+    "total_tracked": 48,
+    "imminent": 2,
+    "pioneer": 15,
+    "differentiator": 11,
+    "claim_pass_rate": 0.0,
+    "concept_count": 5,
+    "active_clinical": 320,
+    "data_freshness": "error: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})",
+    "days_since_data": -1
+  },
+  "top_decisions": [
+    {
+      "type": "🚀 즉시 신제품",
+      "priority": "high",
+      "title": "스필란톨 — 시장 선점 (Pioneer)",
+      "rationale": "학술 시그널 강 (점수 16.9) + 상업 C1 (미점유) + 활성 임상 0건. 가장 큰 위협: 아이소이.",
+      "next_action": "R&D 6주 안에 컴플렉스 컨셉 → 시장 갭: 스필란톨의 즉각적인 주름 개선 효과를 강조하는 명확한 마케팅 메시지와 함께, 안정적인 제형 개발 및 다양한 제품군 확장 필요.",
+      "supporting_data": [
+        "emerging_signals",
+        "commercial_landscape",
+        "clinical_trials"
+      ],
+      "ingredient_id": "spilanthol"
+    },
+    {
+      "type": "💎 Black 프리미엄",
+      "priority": "medium",
+      "title": "세라마이드 Black 라인 신설",
+      "rationale": "포화 시장(C3) + APLB 보유 + 학술 점수 14.8. 매스 진입은 어렵지만 고농도/안정화 기술로 차별화.",
+      "next_action": "고농도 (예: 3~5x) + microfluidizer 안정화 → 5~10만원대 채널",
+      "supporting_data": [
+        "commercial_landscape",
+        "emerging_signals"
+      ],
+      "ingredient_id": "ceramide"
+    },
+    {
+      "type": "⛔ 회피/축소",
+      "priority": "low",
+      "title": "세라마이드 라인 정리 검토",
+      "rationale": "V-Index 0 약세 + 상업 포화 — 신규 진입 가치 낮음",
+      "next_action": "기존 SKU만 유지, 신규 투자 중단",
+      "supporting_data": [
+        "raw_trends",
+        "commercial_landscape"
+      ],
+      "ingredient_id": "ceramide"
+    }
+  ],
+  "weekly_changes": {
+    "biggest_gainers": [],
+    "biggest_losers": []
+  },
+  "warning_signals": [
+    {
+      "type": "🔴 데이터 누락",
+      "msg": "V-Index 마지막 수집 999일 전 (?). cron 점검 필요.",
+      "severity": "high"
+    },
+    {
+      "type": "🟠 클레임 위반 표현",
+      "msg": "REVISE 8개 — 한국 광고법 위반 표현(예방/치료 등) 수정 필요.",
+      "severity": "medium"
+    }
+  ],
+  "hot_topics": {
+    "imminent": [
+      {
+        "name_kr": "GLP-1 외용",
+        "score": 28.8
+      },
+      {
+        "name_kr": "세놀리틱스",
+        "score": 23.7
+      }
+    ],
+    "pioneer": [
+      {
+        "name_kr": "스필란톨"
+      },
+      {
+        "name_kr": "시스테아민"
+      },
+      {
+        "name_kr": "엑소좀"
+      }
+    ],
+    "ct_active": [
+      {
+        "name_kr": "카페인",
+        "active": 30
+      },
+      {
+        "name_kr": "트라넥삼산",
+        "active": 30
+      },
+      {
+        "name_kr": "GLP-1 외용",
+        "active": 30
+      }
+    ]
+  },
+  "ai_synthesis": "APLB CEO님, 이번 주 최우선 과제는 다음과 같습니다.\n\n*   **스필란톨 신제품 출시 준비 (2주 내):** Pioneer 후보 1위, 학술/상업 시그널 강점 활용. 아이소이 견제 전략 수립.\n*   **클레임 위반 표현 8건 즉시 수정 (1주 내):** 한국 광고법 준수, REVISE 작업 완료.\n*   **V-Index 데이터 누락 원인 파악 및 복구 (1주 내):** 데이터 수집 오류 점검 및 시스템 정상화."
+}
